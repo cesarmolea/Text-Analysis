@@ -1,0 +1,1132 @@
+"outlist[[i]]"
+"          I. INTRODUCCIÓN
+El sistema de salud de Honduras ha logrado en los últimos años un progreso importante en la
+mejoría del estado general de salud de la población; los programas sostenidos de atención
+permitieron que Honduras lograra reducir la Razón de Mortalidad Materna (RMM, o muertes
+maternas por cada 100.000 nacidos vivos) de 182 a 61 entre 1990 al 20151. No obstante, se
+mantuvo aún lejos de alcanzar la meta de los Objetivos del Milenio (ODM)2 de 43 muertes por
+100.000 nacidos vivos (NV) para el 2015.
+A pesar de que se ha logrado un importante avance en la disminución de la mortalidad materna,
+se observa una desaceleración en la velocidad de su reducción: entre 1990 y 1997 la RMM se
+redujo de 182 a 108 a un ritmo anual promedio de 10,6 muertes maternas por 100.000 NV; entre
+1997 y 2010 de 108 a 73 equivalente a un ritmo de 2,7 anual; y entre 2010 y 2015, descendió a
+2,4 por año, al pasar de 73 a 61 muertes por 100.000 NV. De continuar a este ritmo de reducción,
+se corre el riesgo de no alcanzar la meta establecida en los objetivos de desarrollo sostenible
+que es de 24 muertes por 100.000 NV para el 2030.
+Según la Encuesta Nacional de Demografía y Salud (ENDESA, 2012), el 71% de las muertes
+maternas3 ocurrió durante las primeras 48 horas post parto y un 54% ocurrió en un
+establecimiento de salud4. Ello es sugerente de que la cobertura de atención de las
+complicaciones obstétricas es limitada, de que la búsqueda de atención médica no se realizó en
+forma oportuna y/o de que la respuesta institucional fue limitada. Las principales dos causas de
+muertes maternas durante el embarazo, parto y puerperio se deben a complicaciones por
+hemorragia 37% y el 27% por trastornos hipertensivos del embarazo (THE)5. En relación con el
+momento obstétrico en el que ocurren las muertes, el periodo más crítico lo constituye el parto y
+el puerperio ya que el 71% de las muertes suceden durante ese período.
+Los problemas que más han afectado la mortalidad materna (MM) son: (i) alto número de parto
+comunitario debido a la falta de acceso a la atención con calidad del parto por personal de salud
+(parto institucional); (ii) problemas de calidad en la atención del parto y de complicaciones
+obstétricas en establecimientos de salud principalmente hospitales; y (iii) baja capacidad
+resolutiva de los hospitales básicos y generales6.
+Con relación a la salud infantil, la mejoría de los indicadores ha sido igualmente notoria, ya que
+se logró reducir, en el periodo de 1986 a 2012, la mortalidad en la niñez en un 47% (al disminuir
+de 55 a 29 muertes por cada 1.000 NV) y la mortalidad infantil (MI) en un 38% (reduciendo de
+39 a 24 muertes por 1.000 NV)7.
+La ocurrencia de las muertes maternas e infantiles, pueden ser la expresión de un fenómeno de
+inequidad y exclusión, puesto que los departamentos con mayor ruralidad y pobreza del país
+exhiben una menor cobertura por lo servicios y una mayor mortalidad materna. Adicionalmente,
+estos departamentos poseen la menor proporción de partos atendidos por profesionales de salud
+(67% vs 83% en el nivel nacional), lo que resulta en un mayor porcentaje de parto domiciliar.
+Las Naciones Unidas ha reconocido a la mortalidad materna como un problema de salud pública
+y de derechos humanos llamando la atención acerca de que los altos índices de morbilidad y
+mortalidad maternas afectan el derecho de las mujeres y las niñas a la vida, la salud, la igualdad
+y la no discriminación; el derecho a gozar de los avances del conocimiento científico y del más
+alto estándar de salud alcanzable (Asamblea General de las Naciones Unidas, 2009).
+La multiplicidad de factores asociados a las muertes maternas complejiza las acciones del sector
+salud dirigidas a reducirlas, y también dificulta la obtención de los resultados esperados.
+Existen factores determinantes de las muertes maternas que se encuentran fuera del sistema de
+1  Trends in maternal mortality: 1990 to 2015 Estimates by WHO, UNICEF, UNFPA, World Bank Group and the United
+   Nations Population Division.
+2  Los Objetivos de Desarrollo del Milenio son ocho propósitos de desarrollo humano fijados en el año 2000, que los
+   189 países miembros de las Naciones Unidas acordaron conseguir para el año 2015 (ver
+   http://www.un.org/es/millenniumgoals/).
+3  De acuerdo con la Organización Mundial de la Salud: La mortalidad materna, muerte materna o de mujeres
+   gestantes es un término estadístico que describe la muerte de una mujer durante el embarazo, el parto o el
+   posparto.
+4  Actualización de la tasa de mortalidad de mujeres en edad fértil y la razón de mortalidad materna para el año 2015
+   en Honduras. SESAL.
+5  Ídem.
+6  Ídem.
+7  Comparación entre: Encuesta de epidemiologia y Salud Familiar (ENESF 1991) y Encuesta de Demografía y Salud
+   (ENDESA 2011-2012).
+                                                          5
+"
+"salud: en el estatus social de las mujeres, en la comunidad, en el sector educativo o en el sistema
+de transporte. Es necesario ubicar dónde se observan las fallas para determinar en qué área se
+puede y debe intervenir para mejorar.
+Para abordar de forma integral la multiplicidad de barreras y factores asociados con la ocurrencia
+de muertes maternas y neonatales, el país ha venido utilizando el modelo de análisis e
+intervención conocido como de las “tres demoras” (McCarthy y Maine, 1992)8. Este modelo
+permite abordar dichas barreras y factores de la siguiente manera:
+    •    Primera Demora, ocurre cuando se presentan limitantes que impide decidir buscar
+         atención: depende de las capacidades y oportunidades de la mujer y su entorno para
+         reconocer una complicación que amenaza la vida, así como de la información de la que
+         dispone acerca de a dónde puede acudir.
+    •    Segunda Demora, se presenta al no acceder oportunamente a un servicio de salud:
+         depende de la distancia al servicio de salud, la disponibilidad y eficiencia del transporte y
+         el costo de los traslados.
+    •    Tercera Demora, aparece por factores que limitan la obtención del tratamiento adecuado
+         y oportuno: depende de la disponibilidad de personal capacitado con la que cuenta la
+         institución, la disponibilidad de medicamentos e insumos (antibióticos, sulfato de
+         magnesio, sangre segura) y de la infraestructura (quirófanos) del servicio de salud.
+Las dos primeras demoras se intervienen en las comunidades y los servicios de salud
+ambulatorios de la Secretaria de Salud de Honduras (SESAL) y la tercera demora en los servicios
+hospitalarios, por estar relacionada con factores que limitan la atención de las complicaciones
+obstétricas y neonatales.
+En cuanto a los factores que inciden en la tercera demora, cabe mencionar que la red hospitalaria
+materna-infantil del país se encuentra rebasada o al límite de la capacidad instalada, con índices
+de ocupación superiores al 100%9. Debido a la alta demanda de los servicios obstétricos, el
+promedio de estancia en las salas de puerperio normal es 6-12 horas, lo que es muy inferior al
+estándar mínimo de 24 horas para parto vaginal normal o de 48 horas para parto por cesárea.
+Adicionalmente, es importante apuntar que la mayor parte de las muertes maternas y neonatales,
+que ocurren en las primeras 24 horas postparto, están generalmente vinculadas a la oportunidad
+que tienen las mujeres y los niños para recibir la atención oportuna en el momento de presentar
+una complicación. Ello lo confirma el estudio de línea de base del programa Salud Mesoamérica,
+que encontró que solamente en el 57% de los casos de las complicaciones obstétricas y el 8% de
+las complicaciones neonatales se atendieron de acuerdo con la norma nacional de atención.
+En las mismas unidades, se encontró que había desabastecimiento de medicamentos, insumos
+y equipo para la atención de las complicaciones obstétricas y neonatales10. La cobertura de los
+servicios con pediatras, ginecobstetras y técnicos de anestesia, durante las 24 horas, los siete
+días de la semana, fue de apenas el 48 % de los hospitales estudiados11.
+Para apoyar los esfuerzos nacionales por fortalecer las acciones de los programas de salud
+materno infantil, el BID ha apoyado desde el 2010, el financiamiento a los servicios ambulatorios
+y comunitario de primer nivel y hospitalarios de segundo nivel. Es así que a través del programa
+para el fortalecimiento de la Gestión y la Oferta Descentralizada de los Servicios de Salud
+HO-L1059 (2418/BL-HO), se impulsaron los contratos de gestión con pagos por desempeño en
+la atención primaria de salud para aumentar y mejorar los cuidados preventivos del embarazo y
+la atención institucional del parto, mediante la reducción de la primera y segunda barrera.
+Esta operación fue diseñada con el objetivo principal de contribuir a la reducción de la mortalidad
+materno infantil en tres hospitales públicos utilizando el modelo de análisis de “las tres demoras”.
+Para ello los objetivos específicos de esta operación apuntan a un aumento de la cobertura y
+mejoramiento de la calidad de las atenciones hospitalarias materno-infantiles, y también a una
+mejora en la capacidad resolutiva de los hospitales. El aumento en cobertura está pensado en
+moderar los problemas asociados a las primeras dos demoras descritas más arriba, mientras la
+calidad y capacidad de respuesta de los hospitales ayudan a disminuir problemas asociados a la
+tercera demora.
+8  McCarthy, James y Maine, Deborah. (1992). A Framework for Analyzing the Determinants of Maternal Mortality.
+   Studies in family planning. 23. 23-33.
+9  Informes del tablero de mando del Departamento de Servicios de Segundo Nivel (Hospitales) de la SESAL 2016.
+10 El índice de desabastecimiento que se encontró fue 0% lo cual significa que de acuerdo con la norma nacional de
+   atención materna neonatal, se define un abastecimiento mínimo de medicamentos, equipo e insumos para la
+   atención de las complicaciones obstétricas y neonatales. Cuando se hace la medición, si falta uno de ellos, el índice
+   se considera como cero.
+11 Investigación de línea de base del Programa Salud Mesoamérica. Instituto de Métrica en Salud (IHME) de la
+   Universidad George Washington. Julio 2013. Los seis Hospitales estudiados, tienen similares características a los
+   intervenidos (e incluyo al hospital de La Esperanza) por este programa).
+                                                          6
+"
+"          II. CRITERIOS BÁSICOS. EL DESEMPEÑO DEL PROYECTO
+2.1       Pertinencia
+               a. La alineación con las necesidades de desarrollo del país
+ Honduras ha venido realizando importantes esfuerzos con apoyo del banco en el desarrollo,
+ implementación y seguimiento, de un proceso de reforma del sector salud, el cual impulsa un
+ nuevo modelo de gestión hospitalario, que busca incrementar el acceso, mejorar la calidad y
+ eficiencia de dichos servicios.
+ Para ello, este modelo busca a través de mecanismos de descentralización, la mejoría de la
+ gestión clínica, de pacientes y de los recursos humanos, financieros y materiales y con ello
+ mejorar la respuesta de la red hospitalaria.
+ Por otro lado, para lograr el cumplimiento de los ODM 2015 en el ámbito de la salud, el país
+ aprobó, para el período 2008-2015, la Política Nacional para la Reducción Acelerada Mortalidad
+ Materna y de la Niñez (RAMNI) y estableció como objetivos, lograra para el 2015 una disminución
+ de la razón de mortalidad materna de 108 a 45 por 100.000 nacidos vivos y la tasa de mortalidad
+ en la niñez de 30 a 23 por 100.000 NV.
+                   b. Alineación estratégica
+ La Estrategia del Banco para el País (EBP 2011-2014) definió cinco sectores para brindarle
+ asistencia: (i) gestión pública; (ii) sistema financiero; (iii) protección social; (iv) salud; y (v) energía.
+ Estos sectores fueron acordados con el Gobierno de Honduras y estaban incluidos en el Plan de
+ Gobierno 2010-2014 y de acuerdo con los diagnósticos efectuados por el Banco. De acuerdo con
+ la EBP, los sectores seleccionados tenían como propósito principal apoyar a la consecución de
+ los objetivos de la “Visión de País 2038”12, especialmente con el objetivo: “una Honduras sin
+ pobreza extrema, educada y sana, con sistemas consolidados de previsión social”.
+ Para contribuir con ello, en la EBP se incluyó como uno de sus objetivos estratégicos: “Mejorar
+ la articulación y acceso a servicios básicos de salud y nutrición”. Durante el período 2011-2014,
+ se aprobaron tres operaciones dirigidas al sector salud: dos préstamos por US$80 millones
+ (HO-L1072 y HO-L1090) y una donación por US$6 millones (HO-G1001). Estas tres operaciones
+ fueron coherentes y alineadas con los objetivos de la EBP y los desafíos de desarrollo del país
+ especialmente de atender a grupos tradicionalmente excluidos por razones de índole económica,
+ cultural, y por estar en zonas geográficas alejadas. Asimismo, estas operaciones fueron
+ complementarias entre sí y con ellas se logró mejorar la oferta y calidad de salud mediante la
+ descentralización de los servicios de salud especialmente del primer y segundo nivel de atención,
+ focalizándose en la población de los 94 municipios más pobres del país13.
+ También es relevante destacar que los dos préstamos de salud tuvieron sinergias con otras
+ cuatro operaciones del Banco en el sector de protección social14. Estas operaciones de
+ protección social tenían como objetivo aumentar la cobertura y la focalización de educación y
+ salud en las mismas áreas de intervención de este programa. Las sinergias entre las operaciones
+ de salud y las de los proyectos de protección social se dieron gracias al otorgamiento de
+ transferencias monetarias condicionadas, para estimular la utilización especialmente de los
+ servicios obstétricos neonatales, con lo cual se mejoró la cobertura de los servicios15.
+ Así mismo esta operación estuvo alineada con la EBP 2015-2018, que definió como objetivo
+ estratégico mejorar los indicadores de salud de los niños menores de cinco años (GN-2796).
+ Adicionalmente, esta operación estuvo alineada con la Actualización de la Estrategia Institucional
+ del Banco 2010-2020 (GN-2788-5), en particular con el desafío de desarrollo de inclusión social
+ e igualdad y con el área transversal de igualdad de género y diversidad, al incrementar el acceso
+ a servicios de salud reproductiva. Finalmente, el programa contribuyó al Marco de Resultados
+ Corporativos 2016-2019 (GN-2727-4) al incrementar el número de beneficiarios de servicios de
+ salud en 986,888 personas.
+ 12 La Visión de País 2010-2038 recoge las condiciones de una nación posible, materializada mediante el
+    establecimiento de cuatro grandes objetivos nacionales y 22 metas de prioridad nacional.
+ 13 Los municipios se clasifican pobres basado en la información de Línea de Pobreza por nivel de ingreso.
+ 14 HO-L1032 (2096/BL-HO) - Programa Apoyo Integral a la Red de Protección Social; HO-L1042 (2372/BL-HO) -
+    Segunda Operación para Programa Apoyo Integral en Protección Social; HO-L1071 (2737/BL-HO) Programa de
+    Apoyo a la Red de Protección Social; y HO-L1087 (2937/BL-HO) - Programa Apoyo Red de Protección Social II.
+    Las primeras dos operaciones aprobadas en 2008 y 2010 respectivamente e implementadas dentro del periodo de
+    la estrategia 2011-2014.
+ 15 Evaluación de Impacto, del programa de Transferencias Monetarias, Bono Vida Mejor. Econometría Diciembre,
+    2017.
+                                                          7
+"
+"                c. Relevancia de Diseño
+Con el fin de lograr los resultados propuestos por esta operación, fue necesario considerar una
+multiplicidad de factores asociados a las muertes maternas y neonatales, que complejizan la
+respuesta del sector salud para reducirlas. Por ello se identificaron dos tipos de factores
+determinantes o barreras para ser intervenidas:
+   •    Las barreras que se encuentran fuera del sistema de salud: como la condición económica,
+        cultural y económica de las mujeres, en la comunidad, en el sector educativo o en el
+        sistema de transporte.
+   •    Las barreras dentro del servicio para obtener el tratamiento adecuado y oportuno:
+        depende de la disponibilidad de personal capacitado con la que cuenta la institución, la
+        disponibilidad de medicamentos e insumos (antibióticos, sulfato de magnesio, sangre
+        segura) y de la infraestructura (quirófanos) del servicio de salud.
+Para el primero de los casos, las intervenciones están siendo implementadas en el primer nivel
+de atención por medio de los establecimientos de salud ambulatorios, ejecutando actividades
+para reducir las barreras relacionadas con la primera y segunda demora, con apoyo de otras
+operaciones que el Banco apoya.
+En el caso de las barreras dentro de los servicios, fueron intervenidas por esta operación,
+mediante el mejoramiento de la infraestructura hospitalaria, dotación de equipo médico,
+medicamentos, insumos y de mayor personal especializado y de apoyo, entre otros. En tabla
+No. 1 que se presenta a continuación se muestra la matriz de resultados de la operación:
+                                                 8
+"
+"                                                                                                       Tabla 1
+                                                                                                Matriz de Resultados
+                                                                         Aprobado                       Elegibilidad +60 días                     Proyecto completo (PCR)
+                             Indicador                           Unidad de    Línea              Unidad de          Línea     EOP       Unidad de                                      Comentarios
+                                                                                     EOP (P)                                                              Línea Base      EOP (A)
+                                                                  Medida       Base                 Medida          Base       (P)        Medida
+                             IMPACTO
+1. Reducción de la mortalidad materna en los departamentos de Intibucá, Lempira y Valle
+1.1 Mortalidad materna en el departamento de Intibucá              Tasa         282     245          Tasa            282       245         Tasa               282            49
+1.2 Mortalidad materna en el departamento de Lempira               Tasa         104      83          Tasa            104        83         Tasa               104            47
+1.3 Mortalidad materna en el departamento de Valle                 Tasa          52      42          Tasa             52        42         Tasa                52           103
+2 Reducción de la mortalidad infantil en los departamentos de Intibucá, Lempira y Valle
+2.1 Mortalidad Infantil en el departamento de Intibucá             Tasa       31.90    24.90         Tasa           31.90     24.90        Tasa              31.90           18
+2.2 Mortalidad infantil en el departamento de Lempira              Tasa       29.60    26.20         Tasa           29.60     26.20        Tasa              29.60           22
+2.3 Mortalidad Infantil en el departamento de Valle                Tasa       22.20    21.00         Tasa           22.20     21.00        Tasa              22.20           20
+INDICADORES DE RESULTADOS
+1 Reducción de la mortalidad materna e infantil (con énfasis en la mortalidad neonatal) en los hospitales de Intibucá (Enrique Aguilar Cerrato), Lempira (Juan Manuel Gálvez) y Valle (San Lorenzo)
+1.1 Tasa de mortalidad hospitalaria materna en el Hospital
+                                                                   Tasa          64      32          Tasa             64        32         Tasa                64             0
+Enrique Aguilar Cerrato (Intibucá)
+1.2 Tasa de mortalidad hospitalaria materna en el Hospital Juan
+                                                                   Tasa          52      30          Tasa             52        30         Tasa                52            22
+Manuel Gálvez (Lempira)
+1.3 Tasa de mortalidad hospitalaria materna en el Hospital de
+                                                                   Tasa          29      12          Tasa             29        12         Tasa                29             6
+San Lorenzo (Valle)
+1.4 Tasa de mortalidad hospitalaria neonatal en el Hospital
+                                                                   Tasa         3.9     2.8          Tasa            3.9       2.8         Tasa               3.9           1.0
+Enrique Aguilar Cerrato (Intibucá)
+1.5 Tasa de mortalidad hospitalaria neonatal en el Hospital Juan
+                                                                   Tasa         2.5     2.0          Tasa            2.5       2.0         Tasa               2.5           3.4
+Manuel Gálvez (Lempira)
+1.6 Tasa de mortalidad hospitalaria neonatal en el Hospital de
+                                                                   Tasa         3.4     2.4          Tasa            3.4       2.4         Tasa               3.4          0.20
+San Lorenzo (Valle)
+                                                                                                  9
+"
+"                                                                                      Aprobado                          Elegibilidad +60 días                           Proyecto completo (PCR)
+                            Indicador                                        Unidad de      Línea                 Unidad de          Línea        EOP          Unidad de                                             Comentarios
+                                                                                                     EOP (P)                                                                     Línea Base          EOP (A)
+                                                                              Medida         Base                  Medida            Base          (P)          Medida
+2 Mejorar la cobertura y calidad de las atenciones hospitalarias materno-infantiles
+2.1 Partos y cuidados intermedios del recién nacido atendidos               Número de                             Número de                                    Número de
+                                                                                             3,578    4,787                          3,578        4,787                              3,578             4,900
+en el Hospital Enrique Aguilar Cerrato (Intibucá)                              Partos                               Partos                                       Partos
+2.2. Partos y cuidados intermedios del recién nacido atendidos              Número de                             Número de                                    Número de
+                                                                                             4,029    4,605                          4,029        4,605                              4,029             4,715
+en el Hospital Juan Manuel Gálvez (Lempira)                                    Partos                               Partos                                       Partos
+2.3 Partos y cuidados intermedios del recién nacido atendidos               Número de                             Número de                                    Número de
+                                                                                             2,929    3,114                          2,929        3,114                              2,929             3,285
+en el Hospital de San Lorenzo (Valle)                                          Partos                               Partos                                       Partos
+2.4 Mujeres atendidas en obstetricia en el Hospital Enrique
+                                                                              Mujeres        4,652    6,225        Mujeres           4,652        6,225         Mujeres              4,652             8,891
+Aguilar Cerrato (Intibucá)
+2.5 Mujeres atendidas en obstetricia en el Hospital Juan Manuel
+                                                                              Mujeres        5,781    6,607        Mujeres           5,781        6,607         Mujeres              5,781             6,700
+Gálvez (Lempira)
+2.6 Mujeres atendidas en obstetricia en el Hospital de San
+                                                                              Mujeres        3,415    3,563        Mujeres           3,415        3,563         Mujeres              3,415             4,208
+Lorenzo (Valle)
+2.7 Tasa de infección hospitalaria (%) por asfixia y sepsis en el
+                                                                             Porcentaje      N/D16     2.0        Porcentaje          N/D          2.0         Porcentaje             N/D               0.10
+Hospital Enrique Aguilar Cerrato (Intibucá)
+2.8 Tasa de infección hospitalaria (%) por asfixia y sepsis en el
+                                                                             Porcentaje       N/D      2.0        Porcentaje          N/D          2.0         Porcentaje             N/D               0.20
+Hospital Juan Manuel Gálvez (Lempira)
+2.9 Tasa de infección hospitalaria (%) por asfixia y sepsis en el
+                                                                             Porcentaje       N/D      2.0        Porcentaje          N/D          2.0         Porcentaje             N/D               0.20
+Hospital de San Lorenzo (Valle)
+3        Aumentada la capacidad resolutiva en los hospitales de Intibucá (Enrique Aguilar Cerrato), Lempira (Juan Manuel Gálvez) y Valle (San Lorenzo)
+3.1 Camas neonatológicas adicionales operativas y equipadas
+                                                                               Camas                                Camas                                        Camas
+en el hospital Enrique Aguilar Cerrato del departamento de                                      5       10                              5           10                                  5                12
+                                                                           Neonatológicas                      Neonatológicas                                Neonatológicas
+Intibucá
+3.2 Camas neonatológicas adicionales operativas y equipadas
+                                                                               Camas                                Camas                                        Camas
+en el hospital Juan Manuel Gálvez del departamento de                                          16       26                             16           26                                 16                26
+                                                                           Neonatológicas                      Neonatológicas                                Neonatológicas
+Lempira
+3.3 Camas neonatológicas adicionales operativas y equipadas                    Camas                                Camas                                        Camas
+                                                                                                5        7                              5            7                                  5                 7
+en el hospital de San Lorenzo del departamento de Valle                    Neonatológicas                      Neonatológicas                                Neonatológicas
+        16 No había información disponible al inicio de la operación tal como se consigna en el documento de préstamo. Una tasa de infección de dos es el estándar esperado de acuerdo con el promedio definido en el tablero
+           de mando del departamento de atención de segundo nivel de la SESAL.
+                                                                                                                 10
+"
+"                                                                         Aprobado                Elegibilidad +60 días               Proyecto completo (PCR)
+                           Indicador                           Unidad de      Línea         Unidad de        Línea     EOP  Unidad de                                Comentarios
+                                                                                    EOP (P)                                                  Línea Base      EOP (A)
+                                                                Medida        Base            Medida         Base       (P)  Medida
+3.4 Camas obstétricas adicionales operativas y equipadas en el  Camas                         Camas                           Camas
+                                                                                18    43                       18       43                        18            29
+hospital Enrique Aguilar Cerrato del departamento de Intibucá  obstétricas                  obstétricas                     obstétricas
+3.5 Camas obstétricas adicionales operativas y equipadas en el  Camas                         Camas                           Camas
+                                                                                24    45                       24       45                        24            45
+hospital Juan Manuel Gálvez del departamento de Lempira        obstétricas                  obstétricas                     obstétricas
+3.6 Camas obstétricas adicionales operativas y equipadas en el  Camas                         Camas                           Camas
+                                                                                12    21                       12       21                        12            21
+hospital de San Lorenzo del departamento de Valle              obstétricas                  obstétricas                     obstétricas
+3.7 Referencia de complicaciones a hospitales regionales o
+                                                               Porcentaje      N/D    25    Porcentaje        N/D       25  Porcentaje           N/D            24
+nacionales en el Hospital Enrique Aguilar Cerrato (Intibucá)
+3.8 Referencia de complicaciones a hospitales regionales o
+                                                               Porcentaje      N/D    25    Porcentaje        N/D       25  Porcentaje           N/D            34
+nacionales en el Hospital Juan Manuel Gálvez (Lempira)
+3.9 Referencia de complicaciones a hospitales regionales o
+                                                               Porcentaje      N/D    25    Porcentaje        N/D       25  Porcentaje           N/D             9
+nacionales en el Hospital de San Lorenzo (Valle)
+3.10 Tasa de ocupación en obstetricia en el Hospital Enrique
+                                                               Porcentaje      130    85    Porcentaje        130       85  Porcentaje           130           112
+Aguilar Cerrato (Intibucá)
+3.11 Tasa de ocupación en obstetricia en el Hospital Juan
+                                                               Porcentaje      156    85    Porcentaje        156       85  Porcentaje           156           118
+Manuel Gálvez (Lempira)
+3.12 Tasa de ocupación en obstetricia en el Hospital de San
+                                                               Porcentaje      148    85    Porcentaje        148       85  Porcentaje           148           114
+Lorenzo (Valle)
+3.13 Tasa de ocupación de neonatología en el Hospital Enrique
+                                                               Porcentaje       93    85    Porcentaje         93       85  Porcentaje            93            83
+Aguilar Cerrato (Intibucá)
+3.14 Tasa de ocupación de neonatología en el Hospital Juan
+                                                               Porcentaje       81    85    Porcentaje         81       85  Porcentaje            81            94
+Manuel Gálvez (Lempira)
+3.15 Tasa de ocupación de neonatología en el Hospital de San
+                                                               Porcentaje      100    85    Porcentaje        100       85  Porcentaje           100            66
+Lorenzo (Valle)
+                                                                                            11
+"
+"2.2        Eficacia
+                    a. Declaración de los objetivos de desarrollo del proyecto
+ El objetivo principal del programa fue la de contribuir a la reducción de la mortalidad materno-
+ infantil en los Departamentos de Intibucá, Lempira y Valle, a través de su reducción en los
+ hospitales intervenidos y en la red de derivación.
+ Para ello, el proyecto contribuiría con el mejoramiento de: (i) la cobertura; (ii) calidad de las
+ atenciones hospitalarias materno-infantiles, aumentando el número de partos institucionales, los
+ cuidados puerperales y del neonato; y (iii) con el mejoramiento de la capacidad resolutiva
+ (Infraestructura, equipamiento, cobertura con Recursos Humanos etc.) de los servicios materno-
+ neonatales.
+ Para alcanzar dichos objetivos específicos se incrementaría la expansión de la cobertura y
+ calidad de servicios de salud materno infantil mediante la implementación del modelo de gestión
+ descentralizado en los hospitales con gestores17 y en los municipios más pobres del país.
+                    b. Resultados logrados
+ Los resultados obtenidos por esta operación son producto de la implementación del modelo de
+ gestión descentralizada en los hospitales beneficiados. A través de dicho modelo se ejecutaron
+ intervenciones de mejora de la gestión hospitalaria y la entrega de un paquete de beneficios en
+ salud materna-neonatal lo que permitió incrementar la cobertura y calidad de los servicios de
+ salud de los grupos más vulnerables como los niños menores de 5 años y las mujeres en edad
+ fértil (MEF), específicamente en su etapa reproductiva.
+ Con el objetivo de conocer los resultados obtenidos por la operación se contrató una consultoría
+ para la evaluación técnica concurrente y evaluación de impacto18 del programa, cuyos resultados
+ serán ampliados en la siguiente sección de este documento. Los hallazgos principales, en cuanto
+ a resultados desde 2010 a 2016, son los siguientes:
+    I.    Mejorar la cobertura y calidad de las atenciones hospitalarias materno-infantiles
+               •   En promedio, en los tres hospitales se incrementó la atención de partos en
+                   aproximadamente un 22%.
+               •   La atención en los servicios de obstetricia en promedio se incrementó en un 43%.
+               •   Las tasas de infecciones hospitalarias o de las infecciones asociadas a la atención
+                   se mantuvieron en valores aceptables de acuerdo al promedio nacional registrado
+                   en el tablero de mando de la SESAL.
+   II.    Aumento de la capacidad resolutiva en los hospitales de Intibucá (Enrique Aguilar
+          Cerrato), Lempira (Juan Manuel Gálvez) y Valle (San Lorenzo)
+       •   Este proyecto consideró la mejoría de la capacidad de respuesta de los servicios
+           obstétricos neonatales, mediante el mejoramiento de la infraestructura y equipamiento de
+           los servicios de salud obstétricos neonatales.
+ 17   Los gestores descentralizados son organizaciones sin fines de lucro, públicas, privadas o de base comunitaria, que
+      son contratadas y financiadas mediante pagos capitado, por la SESAL, encargándoseles el cuidado de la salud de
+      una población especifica.
+ 18   Evaluación del Programa de Fortalecimiento de la Red Hospitalaria Materno Infantil, 2743/BL-HO. Econometría,
+      mayo 2017.
+                                                          12
+"
+"    •    Se lograron las metas en cuanto al número de camas neonatológicas y camas obstétricas
+         disponibles y también en cuanto referencia de complicaciones regionales o nacionales,
+         aunque el Hospital Juan Manuel Gálvez registró un número superior de referencias con
+         relación a lo esperado.
+    •    No se lograron las metas de reducción de las tasas de ocupación en obstetricia y
+         neonatología debido a los retrasos administrativos en la ejecución de las obras de
+         infraestructura 19.
+En la Tabla No. 2 se detallan los logros de los indicadores de la matriz de resultados obtenidos
+por el proyecto.
+19 Dichas obras fueron finalmente concluidas pero tuvieron retrasos en su ejecución, afectando los indicadores de
+   índices de ocupación en las salas de obstetricia y neonatología, atribuidos a los siguientes factores:
+      i. El cambio de gobierno, afecto con cambios en los equipos técnicos de la Unidad Ejecutora y atrasos en la
+         ejecución de las metas físicas y financieras.
+     ii. Problemas de calidad en el diseño de las obras de infraestructura.
+    iii. Debilidades de la SESAL en la supervisión de las obras y falta de aplicación de penalidades
+         pos incumplimiento.
+    iv. La Secretaria de Finanzas realizo congelamiento de fondos lo que también dificulto la finalización de las obras
+         en los tiempos estipulados.
+     v. La SESAL se demoró en definir el tipo de obras que se realizarían en cada uno de los hospitales incluidos en
+         esta operación.
+    vi. No se contó con la experiencia en la SESAL para la elaboración y definición de las especificaciones técnicas
+         que debería contemplar la base de contratación la firma de diseño y del equipo requerido.
+                                                         13
+"
+"                                                                            Tabla No 2
+                                                          Unidad de   Valor de la      Año de la      Metas y Resultados         %          Medio de
+ No.                 Indicador de Impacto
+                                                           medida     línea base    línea de base          Alcanzados         Logrado      Verificación
+INDICADORES DE IMPACTO
+1. Reducción de la mortalidad materna en los departamentos de Intibucá, Lempira y Valle
+                                                                                                   Valor Meta Original   245
+       Mortalidad Materna en el Departamento de                                                   Valor de meta revisado 245          Dirección General de
+  1.1                                                       Tasa          282            2010                                    1
+       Intibucá                                                                                                                       Vigilancia de la salud
+                                                                                                     Valor alcanzado      49
+                                                                                                   Valor Meta Original    83
+       Mortalidad Materna en el Departamento de                                                   Valor de meta revisado  83          Dirección General de
+  1.2                                                       Tasa          104            2010                                    1
+       Lempira                                                                                                                        Vigilancia de la salud
+                                                                                                     Valor alcanzado      47
+                                                                                                   Valor Meta Original    42
+                                                                                                                                      Dirección General de
+  1.3  Mortalidad Materna en el Departamento de Valle       Tasa           52            2010     Valor de meta revisado  42     0
+                                                                                                                                      Vigilancia de la salud
+                                                                                                     Valor alcanzado     103
+2. Reducción de la mortalidad infantil en los departamentos de Intibucá, Lempira y Valle
+                                                                                                   Valor Meta Original   24.9
+                                                                                                                                      Dirección General de
+  2.1  Mortalidad infantil en el departamento de Intibucá   Tasa          31.9           2010     Valor de meta revisado 24.9    1
+                                                                                                                                      Vigilancia de la salud
+                                                                                                     Valor alcanzado      18
+                                                                                                   Valor Meta Original   26.2
+                                                                                                  Valor de meta revisado 26.2         Dirección General de
+  2.2  Mortalidad infantil en el departamento de Lempira    Tasa          29.6           2010                                    1
+                                                                                                                                      Vigilancia de la salud
+                                                                                                     Valor alcanzado     22.0
+                                                                                                   Valor Meta Original    21
+                                                                                                  Valor de meta revisado  21          Dirección General de
+  2.3  Mortalidad Infantil en el departamento de Valle      Tasa          22.2           2010                                    1
+                                                                                                                                      Vigilancia de la salud
+                                                                                                     Valor alcanzado      20
+                                                                                14
+"
+"                                                         Unidad de   Valor de la        Año de la        Metas y Resultados            %
+   No.               Indicador de Resultado                                                                                                      Medio de Verificación
+                                                          medida      línea base     línea de base           Alcanzados            Logrado
+INDICADORES DE RESULTADO
+1 Reducción de la mortalidad materna e infantil (con énfasis en la mortalidad neonatal) en los hospitales de Intibucá (Enrique Aguilar Cerrato), Lempira (Juan Manuel
+   Gálvez) y Valle (San Lorenzo)
+                                                                                                     Valor Meta Original      32                   Departamento de
+          Tasa de mortalidad hospitalaria materna en el
+   1.1                                                      Tasa           64             2010     Valor de meta revisado     32       1           Estadísticas de los
+          Hospital Enrique Aguilar Cerrato (Intibucá)
+                                                                                                                                                 respectivos hospitales
+                                                                                                       Valor alcanzado         0
+                                                                                                     Valor Meta Original      30                   Departamento de
+          Tasa de mortalidad hospitalaria materna en el
+   1.2                                                      Tasa           52             2010     Valor de meta revisado     30       1           Estadísticas de los
+          Hospital Juan Manuel Gálvez (Lempira)
+                                                                                                                                                 respectivos hospitales
+                                                                                                       Valor alcanzado        22
+                                                                                                     Valor Meta Original      12                   Departamento de
+          Tasa de mortalidad hospitalaria materna en el
+   1.3                                                      Tasa           29             2010     Valor de meta revisado     12       1           Estadísticas de los
+          Hospital de San Lorenzo (Valle)
+                                                                                                                                                 respectivos hospitales
+                                                                                                       Valor alcanzado         6
+                                                                                                     Valor Meta Original     2.8                   Departamento de
+          Tasa de mortalidad hospitalaria neonatal en el
+   1.4                                                      Tasa          3.90            2010     Valor de meta revisado    2.8       1           Estadísticas de los
+          Hospital Enrique Aguilar Cerrato (Intibucá)
+                                                                                                       Valor alcanzado       1.0                 respectivos hospitales
+                                                                                                     Valor Meta Original       2                   Departamento de
+          Tasa de mortalidad hospitalaria neonatal en el
+   1.5                                                      Tasa          2.50            2010     Valor de meta revisado      2       0           Estadísticas de los
+          Hospital Juan Manuel Gálvez (Lempira)
+                                                                                                       Valor alcanzado       3.4                 respectivos hospitales
+                                                                                                     Valor Meta Original     2.4                   Departamento de
+          Tasa de mortalidad hospitalaria neonatal en el
+   1.6                                                      Tasa          3.40            2010     Valor de meta revisado    2.4       1           Estadísticas de los
+          Hospital de San Lorenzo (Valle)
+                                                                                                       Valor alcanzado       0.2                 respectivos hospitales
+2. Mejorar la cobertura y calidad de las atenciones hospitalarias materno-infantiles
+          Partos y cuidados intermedios del recién                                                   Valor Meta Original    4,787             Unidad de Planeamiento y
+                                                         Número de
+   2.1    nacido atendidos en el Hospital Enrique                        3,578            2010     Valor de meta revisado   4,787      1       Evaluación de la Gestión
+                                                           partos
+          Aguilar Cerrato (Intibucá)                                                                                                                    (UPEG)
+                                                                                                       Valor alcanzado      4,900
+                                                                                                     Valor Meta Original    4,605
+          Partos y cuidados intermedios del recién                                                                                            Unidad de Planeamiento y
+                                                         Número de                                 Valor de meta revisado   4,605
+   2.2    nacido atendidos en el Hospital Juan Manuel                    4,029            2010                                         1       Evaluación de la Gestión
+                                                           partos
+          Gálvez (Lempira)                                                                                                                              (UPEG)
+                                                                                                       Valor alcanzado      4,715
+                                                                                    15
+"
+"                                                                          Unidad de      Valor de la        Año de la            Metas y Resultados                %
+           No.                 Indicador de Resultado                                                                                                                        Medio de Verificación
+                                                                            medida        línea base     línea de base                Alcanzados                Logrado
+                   Partos y cuidados intermedios del recién                                                                  Valor Meta Original        3,114              Unidad de Planeamiento y
+                                                                          Número de
+            2.3    nacido atendidos en el Hospital de San                                    2,929            2010         Valor de meta revisado       3,114       1       Evaluación de la Gestión
+                                                                             partos
+                   Lorenzo (Valle)                                                                                                                                                   (UPEG)
+                                                                                                                               Valor alcanzado          3,285
+                                                                                                                             Valor Meta Original        6,225
+                                                                                                                                                                           Unidad de Planeamiento y
+                   Mujeres atendidas en obstetricia en el
+            2.4                                                             Mujeres          4,652            2010         Valor de meta revisado       6,225       1       Evaluación de la Gestión
+                   Hospital Enrique Aguilar Cerrato (Intibucá)
+                                                                                                                                                                                     (UPEG)
+                                                                                                                               Valor alcanzado          8,891
+                                                                                                                             Valor Meta Original        6,607
+                                                                                                                                                                           Unidad de Planeamiento y
+                   Mujeres atendidas en obstetricia en el
+            2.5                                                             Mujeres          5,781            2010         Valor de meta revisado       6,607       1       Evaluación de la Gestión
+                   Hospital Juan Manuel Gálvez (Lempira)
+                                                                                                                                                                                     (UPEG)
+                                                                                                                               Valor alcanzado          6,700
+                                                                                                                             Valor Meta Original        3,563              Unidad de Planeamiento y
+                   Mujeres atendidas en obstetricia en el
+            2.6                                                             Mujeres          3,415            2010                                                  1       Evaluación de la Gestión
+                   Hospital de San Lorenzo (Valle)                                                                         Valor de meta revisado       3,563                        (UPEG)
+                                                                                                                               Valor alcanzado          4,208
+                                                                                                                             Valor Meta Original          2
+                   Tasa de infección hospitalaria (%) por asfixia y                                                                                                       Proceso de Reordenamiento
+            2.7    sepsis en el Hospital Enrique Aguilar Cerrato          Porcentaje         N/D20            2010         Valor de meta revisado         2         1       de la Gestión Hospitalaria
+                   (Intibucá)                                                                                                                                                (Depto. de Hospitales)
+                                                                                                                               Valor alcanzado           0.1
+                   Tasa de infección hospitalaria (%) por asfixia y                                                          Valor Meta Original          2               Proceso de Reordenamiento
+            2.8    sepsis en el Hospital Juan Manuel Gálvez               Porcentaje          N/D             2010         Valor de meta revisado         2         1       de la Gestión Hospitalaria
+                   (Lempira)                                                                                                   Valor alcanzado           0.2                 (Depto. de Hospitales)
+                                                                                                                             Valor Meta Original          2
+                                                                                                                                                                          Proceso de Reordenamiento
+                   Tasa de infección hospitalaria (%) por asfixia y
+            2.9                                                           Porcentaje          N/D             2010         Valor de meta revisado         2         1       de la Gestión Hospitalaria
+                   sepsis en el Hospital de San Lorenzo (Valle)
+                                                                                                                                                                             (Depto. de Hospitales)
+                                                                                                                               Valor alcanzado           0.2
+20 había información disponible al inicio de la operación tal como se consigna en el documento de préstamo. Una tasa de infección de 2 es el estándar esperado de acuerdo con el promedio definido en el tablero de
+   mando del departamento de atención de segundo nivel de la SESAL.
+                                                                                                        16
+"
+"                                                                         Unidad de       Valor de la       Año de la           Metas y Resultados             %
+          No.                   Indicador de Resultado                                                                                                                   Medio de Verificación
+                                                                          medida         línea base     línea de base             Alcanzados               Logrado
+       3 Aumentada la capacidad resolutiva en los hospitales de Intibucá (Enrique Aguilar Cerrato), Lempira (Juan Manuel Gálvez) y Valle (San Lorenzo)
+                   Camas neonatológicas adicionales operativas             Camas                                           Valor Meta Original       10                Unidad de Planeamiento y
+          3.1      y equipadas en el hospital Enrique Aguilar neonatológi                     5              2010        Valor de meta revisado      10        1        Evaluación de la Gestión
+                   Cerrato del departamento de Intibucá                     cas                                             Valor alcanzado          12                          (UPEG)
+                   Camas neonatológicas adicionales operativas             Camas                                           Valor Meta Original       26                Unidad de Planeamiento y
+          3.2      y equipadas en el hospital Juan Manuel Gálvez neonatológi                 16              2010        Valor de meta revisado      26        1        Evaluación de la Gestión
+                   del departamento de Lempira                              cas                                                                                                  (UPEG)
+                                                                                                                            Valor alcanzado          26
+                   Camas neonatológicas adicionales operativas             Camas                                           Valor Meta Original        7                Unidad de Planeamiento y
+          3.3      y equipadas en el hospital de San Lorenzo del neonatológi                  5              2010        Valor de meta revisado       7        1        Evaluación de la Gestión
+                   departamento de Valle                                    cas                                             Valor alcanzado           7                          (UPEG)
+                   Camas obstétricas adicionales operativas y                                                              Valor Meta Original       43                Unidad de Planeamiento y
+                                                                           Camas
+          3.4      equipadas en el hospital Enrique Aguilar                                  18              2010        Valor de meta revisado      43      0.44       Evaluación de la Gestión
+                                                                         obstétricas
+                   Cerrato del departamento de Intibucá                                                                     Valor alcanzado          29                          (UPEG)
+                   Camas obstétricas adicionales operativas y                                                              Valor Meta Original       45                Unidad de Planeamiento y
+                                                                           Camas
+          3.5      equipadas en el hospital Juan Manuel Gálvez                               24              2010        Valor de meta revisado      45        1        Evaluación de la Gestión
+                                                                         obstétricas
+                   del departamento de Lempira                                                                              Valor alcanzado          45                          (UPEG)
+                                                                                                                           Valor Meta Original       21
+                   Camas obstétricas adicionales operativas y                                                                                                          Unidad de Planeamiento y
+                                                                           Camas
+          3.6      equipadas en el hospital San Lorenzo del                                  12              2010        Valor de meta revisado      21        1        Evaluación de la Gestión
+                                                                         obstétricas
+                   departamento de Valle                                                                                                                                         (UPEG)
+                                                                                                                            Valor alcanzado          21
+                                                                                                                           Valor Meta Original       25               Proceso de Reordenamiento
+                   Referencia de complicaciones a hospitales
+                                                                                                                                                                       de la Gestión Hospitalaria
+          3.7      regionales o nacionales en el Hospital Enrique        Porcentaje          N/D             2010        Valor de meta revisado      25        1
+                                                                                                                                                                            (Departamento de
+                   Aguilar Cerrato (Intibucá)                                                                               Valor alcanzado          25                         Hospitales)
+                                                                                                                           Valor Meta Original       25               Proceso de Reordenamiento
+                   Referencia de complicaciones a hospitales
+                                                                                                                                                                       de la Gestión Hospitalaria
+          3.8      regionales o nacionales en el Hospital Juan           Porcentaje         N/D21            2010        Valor de meta revisado      25        1
+                                                                                                                                                                            (Departamento de
+                   Manuel Gálvez (Lempira)
+                                                                                                                            Valor alcanzado          34                         Hospitales)
+21 No había información disponible al inicio de la operación tal como se consigna en el documento de préstamo. El rango 20-25% es una buena práctica médica para tasas de referencia, que explica la mejora de
+   capacidad resolutiva de los hospitales.
+                                                                                                       17
+"
+"                                                     Unidad de      Valor de la        Año de la          Metas y Resultados          %
+  No.             Indicador de Resultado                                                                                                      Medio de Verificación
+                                                      medida        línea base      línea de base             Alcanzados           Logrado
+                                                                                                     Valor Meta Original      25           Proceso de Reordenamiento
+       Referencia de complicaciones a hospitales
+                                                                                                                                            de la Gestión Hospitalaria
+  3.9  regionales o nacionales en el Hospital de San Porcentaje         N/D               2010      Valor de meta revisado    25     0.36
+                                                                                                                                                (Departamento de
+       Lorenzo (Valle)
+                                                                                                       Valor alcanzado         9                    Hospitales)
+                                                                                                     Valor Meta Original      85            Unidad de Planeamiento y
+       Tasa de ocupación en obstetricia en el
+ 3.10                                                Porcentaje         130               2010      Valor de meta revisado    85     0.40    Evaluación de la Gestión
+       Hospital Enrique Aguilar Cerrato (Intibucá)
+                                                                                                       Valor alcanzado       112                     (UPEG)
+                                                                                                     Valor Meta Original      85            Unidad de Planeamiento y
+       Tasa de ocupación en obstetricia en el
+ 3.11                                                Porcentaje         156               2010      Valor de meta revisado    85     0.53    Evaluación de la Gestión
+       Hospital Juan Manuel Gálvez (Lempira)
+                                                                                                       Valor alcanzado       118                     (UPEG)
+                                                                                                     Valor Meta Original      85            Unidad de Planeamiento y
+       Tasa de ocupación en obstetricia en el
+ 3.12                                                Porcentaje         148               2010      Valor de meta revisado    85     0.53    Evaluación de la Gestión
+       Hospital de San Lorenzo (Valle)
+                                                                                                                                                     (UPEG)
+                                                                                                       Valor alcanzado       114
+                                                                                                     Valor Meta Original      85            Unidad de Planeamiento y
+       Tasa de ocupación de neonatología en el
+ 3.13                                                Porcentaje          93               2010      Valor de meta revisado    85       1     Evaluación de la Gestión
+       Hospital Enrique Aguilar Cerrato (Intibucá)
+                                                                                                       Valor alcanzado        83                     (UPEG)
+                                                                                                     Valor Meta Original      85            Unidad de Planeamiento y
+       Tasa de ocupación de neonatología en el
+ 3.14                                                Porcentaje          81               2010      Valor de meta revisado    85       1     Evaluación de la Gestión
+       Hospital Juan Manuel Gálvez (Lempira)
+                                                                                                       Valor alcanzado      94.10                    (UPEG)
+                                                                                                     Valor Meta Original      85            Unidad de Planeamiento y
+       Tasa de ocupación de neonatología en el
+ 3.15                                                Porcentaje         100               2010      Valor de meta revisado    85       1     Evaluación de la Gestión
+       Hospital de San Lorenzo (Valle)
+                                                                                                       Valor alcanzado      66.0                     (UPEG)
+                                                       Unidad de       Valor de la       Año de la
+  No.              Indicador de producto                                                                  Metas y Resultados Alcanzados        Medio de Verificación
+                                                        Medida         línea base     línea de base
+Componente 1. Fortalecimiento de la Red
+                                                                                                        Valor Meta Original       172,545
+       Personas atendidas por gestores del hospital                                                                                            Informes de Monitoreo,
+  1.1                                                 Beneficiarios         0              2010      Valor de meta revisado       265,790
+       Enrique Aguilar Cerrato (Intibucá)                                                                                                            de Avance
+                                                                                                         Valor alcanzado          265,790
+  1.2                                                 Beneficiarios         0              2010         Valor Meta Original       269,125
+                                                                                   18
+"
+"                                                       Unidad de    Valor de la      Año de la
+No.               Indicador de producto                                                             Metas y Resultados Alcanzados  Medio de Verificación
+                                                        Medida      línea base    línea de base
+     Personas atendidas por gestores del hospital                                               Valor de meta revisado     357,073 Informes de Monitoreo,
+     Juan Manuel Gálvez (Lempira)                                                                  Valor alcanzado         357,073        de Avance
+                                                                                                 Valor Meta Original       309,714
+     Personas atendidas por gestores del hospital                                                                                  Informes de Monitoreo,
+ 1.3                                                  Beneficiarios      0             2010     Valor de meta revisado     364,025
+     San Lorenzo (Valle)                                                                                                                  de Avance
+                                                                                                   Valor alcanzado         364,025
+                                                                                                 Valor Meta Original          1
+     Obras en el hospital Enrique Aguilar Cerrato del                                                                              Informes de Monitoreo,
+ 1.4                                                    Hospital        0.0            2010     Valor de meta revisado        1
+     departamento de Intibucá terminada.                                                                                                  de Avance
+                                                                                                   Valor alcanzado            1
+                                                                                                 Valor Meta Original          1
+     Obras en el hospital Juan Manuel Gálvez del                                                                                   Informes de Monitoreo,
+ 1.5                                                    Hospital        0.0            2010     Valor de meta revisado        1
+     departamento de Lempira terminada.                                                                                                   de Avance
+                                                                                                   Valor alcanzado            1
+                                                                                                 Valor Meta Original          1
+     Obras en el hospital San Lorenzo             del                                                                              Informes de Monitoreo,
+ 1.6                                                    Hospital        0.0            2010     Valor de meta revisado        1
+     departamento de Valle terminada.                                                                                                     de Avance
+                                                                                                   Valor alcanzado            1
+     Infraestructura terminada y equipo (Redes                                                   Valor Meta Original          1
+                                                                                                                                        Infraestructura
+ 1.7 Derivación) (Hospital Santa Rosa, Leonardo        Hospitales        0             2010     Valor de meta revisado        1
+                                                                                                                                          Terminada
+     Martínez, Mario Catarino Rivas)                                                               Valor alcanzado            1
+     Equipamiento en el hospital Enrique Aguilar                                                 Valor Meta Original          1
+                                                                                                                                   Informes de Monitoreo,
+ 1.8 Cerrato del departamento de Intibucá instalado y  Hospitales        0             2010     Valor de meta revisado        1
+                                                                                                                                          de Avance
+     en funcionamiento.                                                                            Valor alcanzado            1
+     Equipamiento en el hospital Juan Manuel Gálvez                                              Valor Meta Original          1
+                                                                                                                                   Informes de Monitoreo,
+ 1.9 del departamento de Lempira instalado y en        Hospitales        0             2010     Valor de meta revisado        1
+                                                                                                                                          de Avance
+     funcionamiento.                                                                               Valor alcanzado            1
+     Equipamiento en el hospital San Lorenzo del                                                 Valor Meta Original          1
+                                                                                                                                   Informes de Monitoreo,
+1.10 departamento de Valle instalado y en              Hospitales        0             2010     Valor de meta revisado        1
+                                                                                                                                          de Avance
+     funcionamiento                                                                                Valor alcanzado            1
+                                                                                                 Valor Meta Original       483,764
+     Población cubierta a través       de   gestores                                                                               Informes de Monitoreo,
+1.11                                                  Beneficiarios      0             2010     Valor de meta revisado     550,076
+     descentralizados de primer nivel                                                                                                     de Avance
+                                                                                                   Valor alcanzado         550,076
+                                                                                19
+"
+"                                                       Unidad de     Valor de la      Año de la
+  No.               Indicador de producto                                                            Metas y Resultados Alcanzados Medio de Verificación
+                                                         Medida      línea base    línea de base
+Componente 2. Fortalecimiento de la Capacidad Institucional de la SESAL
+                                                                                                  Valor Meta Original           2
+  2.1  Evaluación de Impacto                           Consultoría        0             2010     Valor de meta revisado         1          Informes
+                                                                                                    Valor alcanzado             1
+                                                                                                  Valor Meta Original          12
+       Monitorias realizadas a gestores                                                                                            Informes de Monitoreo,
+  2.2                                                   Monitorias        0             2010     Valor de meta revisado        13
+       descentralizados                                                                                                                   de Avance
+                                                                                                    Valor alcanzado            13
+                                                                                                  Valor Meta Original          20
+                                                                                                                                   Informes de Monitoreo,
+  2.3  Gestión de hospitales fortalecida                Hospitales        0             2010     Valor de meta revisado        16         de Avance
+                                                                                                    Valor alcanzado            16
+                                                                                                  Valor Meta Original           3
+                                                      Estrategia de                                                                Informes de Monitoreo,
+  2.4  Estrategia de comunicación                                         0             2010     Valor de meta revisado         3
+                                                      comunicación                                                                        de Avance
+                                                                                                    Valor alcanzado             1
+                                                                                                  Valor Meta Original           2
+       Planos      arquitectónicos     elaborados   y                                                                              Informes de Monitoreo,
+  2.5                                                    Planos           0             2010     Valor de meta revisado         5
+       Supervisados                                                                                                                       de Avance
+                                                                                                    Valor alcanzado             5
+                                                                                                  Valor Meta Original          14
+                                                                                                                                     Listas de asistencia,
+  2.6  Gestores de Hospitales Capacitados                Talleres         0             2010     Valor de meta revisado         1
+                                                                                                                                      Recibos, Planillas
+                                                                                                    Valor alcanzado             1
+                                                                                 20
+"
+"                  c. Análisis de atribución de Resultados
+El modelo de las tres demoras, adoptado por el país, sostiene que para reducir las muertes
+maternas se debe intervenir sobre la siguiente secuencia de eventos:
+    a) Reduciendo las probabilidades que desarrollen una complicación durante el embarazo y
+         el parto.
+    b) Reduciendo las probabilidades de morir entre las que desarrollan una complicación.
+La incidencia de complicaciones del embarazo ha sido el foco de numerosos programas de salud
+materna. El potencial de muchas intervenciones para prevenirlas ha sido reevaluado y se ha
+observado que muchas de estas complicaciones no pueden anticiparse ni evitarse, es por ello,
+que se recomienda incrementar la cobertura y calidad de la atención antenatal, para la detección
+oportuna de potenciales complicaciones obstétricas y neonatales22.
+Por lo tanto, aunque la mayoría de las complicaciones obstétricas no se pueden predecir ni
+prevenir, pueden ser tratadas una vez detectadas, por ello todas las mujeres deben tener acceso
+a la atención obstétrica básica y de emergencia, ya que muchas de las complicaciones que
+aparecen en el período del parto pueden tratarse con intervenciones costo-efectivas siempre que
+estas formen parte de un paquete de intervenciones oportunas.
+La reducción de las muertes maternas es un proceso en extremo complejo que debe de ser
+abordado integralmente en cada una de las etapas y que requiere un continuo de la atención;
+desde la etapa preconcepcional (antes de salir embarazada); la captación temprana de la
+embarazada (antes de 12 semanas de gestación) obtener al menos cinco atenciones de calidad
+durante su embarazo; ser atendida por personal calificado durante su parto y postparto
+inmediato, y tener una atención en los tres primeros días de su postparto. Los eslabones
+anteriormente citados, brindan una enorme posibilidad de obtener una maternidad segura.
+Por ello, los logros de esta operación deben ser atribuibles al esfuerzo realizado por cada uno de
+los actores de la red de servicios ambulatorios que posibilitaron el incremento de la demanda de
+los servicios obstétricos y la mejoría de la calidad en la oferta de estos. A continuación, un
+esquema que brinda la secuencia de la lógica vertical en el diseño del proyecto original, es decir,
+las relaciones de causa y efecto entre las diferentes partes de la cadena para atribuir los
+resultados obtenidos por las intervenciones:
+22 Yuster, 1995. Rethinking the role of the risk approach and antenatal care in maternal mortality reduction.
+   International Journal of Gynecology & Obstetrics. Volume 50, Supplement 2, October 1995, Pages S59-S61.
+   Fortney, 1995. Antenatal risk screening and scoring: a new look International Journal of Gynecology & Obstetrics.
+   Volume 50, Supplement 2, October 1995, Pages S53-S58.
+                                                         21
+"
+"                                                                   Grafico No. 1
+                               Modelo de las tres demoras, sus determinantes e intervenciones
+              Determinantes para la utilización de                 Condicionantes del tipo de                         Tipo de intervención y
+                  los servicios y el resultado                                demora                                        responsables
+                                                                                                              Los ESFAM y ES de primer nivel, dan información
+                               Limitada capacidad de la          1.-Toma de decisión poco                       a la mujer y el entorno acerca de identificación
+                                 mujer para identificar          oportuna para buscar atención                  de señales de peligro. Elaboran en conjunto del
+                               riesgo. (Cultura, género,         medica                                            plan de parto: Sitio de atención, medio de
+                                 falta de información)                                                         transporte, acompañante, cuidado de los hijos y
+                                                                                                                                    casa etc.
+  Determinantes                       Limitantes de                2.-limitada identificación de un             Los ESFAM y ES organizan en la comunidad
+      sociales,                    accesibilidad a los             establecimiento de salud y
+                                servicios: económicos,                                                              en comités de transporte, sistema de
+    económicos,                                                    obtener acceso oportuno                      notificación de alerta, hogares materno. Se
+                               geográficos, transporte,
+    culturales y              cuidado de los niños, etc                                                            proporcionan incentivos a las parteras
+   estructurales                                                                                                para que acompañe a la embarazada al ES
+                                                                                                                   y a esta también se le da un bono para
+                                                                        3.- Limitada capacidad de                                  transporte
+                                                                        respuesta por modelo de
+                               Deficiente Calidad de
+                                     los servicios:                     gestión e infraestructura
+                                                                        sanitaria y equipamiento                      La SESAL implementa el MGH para
+                                                                    insuficiente u obsoleto, RRHH                  mejorar la eficiencia y transparencia en
+                                                                    escaso y con limitaciones en el                el uso de los recursos: Mejoramiento de
+                                                                         manejo de la norma de                        la infraestructura y equipamiento,
+                                                                                                                  personal médico y de apoyo suficiente y
+                                                                     atención, desabastecimiento
+                                                                                                                        capacitado, abastecimiento de
+                                                                     de medicamentos e insumos
+                                                                                                                        medicamentos e insumos, etc.
+                                                                                    etc.
+                                          Fuente: Modelo de análisis de morbilidad y mortalidad materna, McCarthy y Maine (1994) adaptado por el autor.
+Los esfuerzos realizados en esta operación por la SESAL y Banco se centraron en el
+fortalecimiento de la gestión hospitalaria, mejoramiento de la capacidad resolutiva de los
+hospitales y el incremento de la cobertura y la calidad en la atención materna-neonatal, de
+acuerdo con lo señalado el recuadro azul del grafico anterior.
+La evidencia recolectada por la firma consultora para la elaboración del informe de evaluación
+externa independiente verificó el cumplimiento de indicadores de gestión técnica y administrativa
+que efectúan los gestores de servicios de nivel hospitalario. Adicionalmente, el informe también
+incluye una evaluación con resultados sugerentes de efectos positivos en la salud de la población
+atendida debido a la implementación del Modelo de Gestión Descentralizada y Modelo de
+Gestión Hospitalaria en los hospitales intervenidos por esta operación.
+Una de las claves que contribuyó para el mejoramiento de los indicadores hospitalarios, fueron
+las transferencias de recursos (en el marco del convenio) recibidas por los gestores
+descentralizados. Estos recursos permitieron, agilizar los procesos de adquisición, contratación
+del personal suficiente para la atención continua y el abastecimiento permanente de los insumos
+y medicamentos de acuerdo a las necesidades.
+                                                                               22
+"
+"Por ejemplo, en el hospital San Lorenzo se redujo a cero la ocurrencia de muertes maternas y
+neonatales intrahospitalarias; reducción de la mora quirúrgica a 0 y los días estancia de 3,5 a
+2,5; aumento de los egresos hospitalarios en un 55%; incremento de la atención de partos en un
+15%; y el abastecimiento de medicamentos mejoró de 22% a 97%23.
+En términos de la evaluación de impacto del programa, los resultados son promisorios y en la
+dirección esperada de acuerdo con los objetivos planteados. La metodología de evaluación
+consistió en la estimación de un modelo de diferencia-en-diferencias, utilizando tres hospitales
+bajo tratamiento y tres hospitales como control24. Los resultados indican que las atenciones en
+el servicio de obstetricia se incrementaron en un 12% y la atención de parto en un 16%.
+En el caso de la mortalidad materna, la RMM para los tres hospitales intervenidos, se redujo de
+48 a 10 muertes por cada 100.000 NV, en el periodo de vida de este proyecto. Destaca el caso
+del Hospital de Intibucá que redujo de 64 a 0 muertes, y en los hospitales de Lempira y Valle, se
+redujo de 52 a 22 y de 29 a 6 muertes por 100.000 NV respectivamente. En los tres casos, se
+superó la meta de reducción de las muertes propuesta al inicio del proyecto. Esta evidencia es
+consistente con la literatura que indica que las muertes maternas están fuertemente relacionas
+con el retraso en recibir tratamiento oportuno al llegar al hospital25,26.
+Por otro lado, la tasa de mortalidad hospitalaria neonatal igualmente tuvo resultados
+satisfactorios en los tres hospitales al descender de 3,3 a 1,4 muertes de recién nacidos por cada
+1.000 NV. Nuevamente, estos resultados están en línea con la evidencia27 que encuentra que
+demoras en el hospital explican muertes neonatales.
+La reducción de la mortalidad materna-neonatal pudiera ser explicada al hecho que la prestación
+de servicios estuvo enfocada en procesos de mejora continua de la calidad, estimulando la
+aplicación de las normas de atención especialmente en el manejo de las complicaciones
+obstétricas y neonatales.
+A estos beneficios, asociados al mejoramiento de la gestión hospitalaria, es de esperar que se
+agreguen aquellos derivados del ahorro de recursos públicos, debido a la expansión y ampliación
+de los modelos descentralizados de salud que muestran una mayor eficiencia y transparencia en
+la utilización de los recursos.
+23 Fuentes estadísticas del Hospital San Lorenzo y de Informes de Monitoreo de la SESAL.
+24 Como es pertinente a toda evaluación de estas características, las conclusiones descansan en el cumplimiento de
+   los supuestos de identificación del programa, y también en el poder estadístico asociado a la estimación. Respecto
+   al primero, el informe de la consultora testea el supuesto de tendencias paralelas con datos anteriores al
+   tratamiento. Respecto al segundo, se reconoce que este diseño pudo haber logrado mayor poder estadístico con
+   más unidades bajo tratamiento.
+25 Viva Combs Thorsen , Johanne Sundby, Address Malata, 2012. Piecing Together the Maternal Death Puzzle
+   through Narratives: The Three Delays Model Revisited. Plus One.
+26 Kilian Nasung Atuoye, Jenna Dixon, Andrea Rishworth, Sylvester Zackaria Galaa Sheila A. Boamah and Isaac
+   Luginaah, 2015. Can she make it? Transportation barriers to accessing maternal and child health care services in
+   rural Ghana. BMC Health Services Research. Vol 15:333.
+27 Peter Waiswa Karin Kallander Stefan Peterson Goran Tomson George W. Pariyo, 2010. Using the three delays
+   model to understand why newborn babies die in eastern Uganda. Tropical Medicine and International Health.
+                                                         23
+"
+"                    d. Resultados no previstos
+2.3       Eficiencia
+ Los costos operativos del programa fueron de US$784,728.23 equivalente a un 2,62% del
+ presupuesto total asignado para esta operación.
+ Este programa ha sido calificado en su desempeño como satisfactorio de acuerdo con la
+ metodología utilizada por el Banco para la calificación de proyectos, que mide cinco índices que
+ se combinan en un indicador sintético28,29. Los índices miden desviaciones en términos de costo
+ y tiempo con respecto al plan acumulado, al plan anual del Proyecto y a la planificación de la
+ duración del Proyecto estimada cuando logró su elegibilidad. El programa tuvo atrasos de
+ acuerdo con el periodo previsto de duración, ya que las obras de construcción tomaron un poco
+ más de tiempo su finalización, pero estos atrasos no comprometieron el alcance ni el desempeño
+ del mismo.
+ Por otro lado, no hubo variaciones importantes de costos de sus productos, por lo tanto, el
+ programa fue ejecutado de acuerdo con los costos esperados y su extensión no incidió
+ negativamente en el índice de cronograma o en la calidad de los servicios prestados. En la
+ tabla 3 se presenta el detalle de ambos índices:
+                                                        Tabla 3
+           Índice de rendimiento e índice de rentabilidad de los costos del programa
+                                                 Año de desempeño
+                                           2013              2014             2015             2016
+             SPI                             5               0.69              0.56             0.64
+             SPI(a)                          5                1.1              1.49             0.73
+             CPI                             1               1.13               1.3             0.85
+             CPI(a)                          1               1.22              1.63             0.91
+             Indicador de
+                                       Satisfactorio     Satisfactorio    Satisfactorio    Satisfactorio
+             Desembolso
+             Calificación              Satisfactorio     Satisfactorio    Satisfactorio    Satisfactorio
+ 28 Según metodología utilizada por el Banco, para este programa se calculan cinco indicadores de desempeño en un
+    indicador sintético. Los cinco indicadores son: (i) desembolsos históricos acumulados de Honduras; (ii) índice de
+    costo de desempeño (acumulado durante la vida del proyecto) (CPI); (iii) índice de costos de desempeño anual
+    (CPI(a)); (iv) índice de cronograma (acumulado durante la vida del proyecto) (SPI); y (v) índice de cronograma
+    anual (SPI(a)). acumulado, SPI. El proyecto se considera satisfactorio cuando tiene su indicador sintético es igual
+    o mayor a 2,5.
+ 29 El CPI y SPI son satisfactorios cuando se encuentran en un rango de entre 0,8 a 2 (inclusive).
+                                                           24
+"
+"     Tabla 4
+Costos del proyecto
+    25
+"
+" 2.4     Sostenibilidad
+                  a. Aspectos generales de sostenibilidad
+Para la sostenibilidad de las intervenciones para la mejoría de los indicadores, de salud materna
+infantil y la transformación del modelo de gestión y financiamiento, se espera que los mismos se
+incrementen y consoliden. Los elementos que respaldan esta afirmación son los siguientes:
+     •   Actualmente se encuentra finalizando con el apoyo del Banco, el diseño de una nueva
+         política para la Reducción Acelerada de la Mortalidad Materna e Infantil (RAMNI). Dicha
+         política será elevada al ámbito sectorial por el presidente de la Republica a través de un
+         decreto ejecutivo que tendrá una duración de 10 años (2018-2030), consistente con los
+         Objetivos de Desarrollo Sostenible.
+     •   La aprobación de esta política será una oportunidad para fortalecer el ejercicio de
+         alineamiento y armonización del sector gubernamental, cooperación externa y sociedad
+         civil, en apoyo a las estrategias definidas para el mejoramiento de la cobertura de los
+         servicios para la reducción de la mortalidad materna e infantil, lo facilitara la gestión
+         financiera para lograr la sostenibilidad.
+     •   Hay una baja rotación de los técnicos vinculados a los proyectos, lo cual les proporciona
+         sostenibilidad técnica a los proyectos
+     •   Existe la voluntad política para continuar mejorando el modelo de gestión hospitalaria que
+         privilegia la descentralización de la gestión en los hospitales de la SESAL.
+Con relación a la sostenibilidad en la mejoría de los indicadores, de salud materna infantil y la
+transformación del modelo de gestión, financiamiento y provisión de servicios, se espera que los
+mismos se incrementen y consoliden.
+La afirmación anterior está respaldada en el hecho la política para la Reducción Acelerada de la
+Mortalidad Materna e Infantil (RAMNI), actualmente se encuentra en fase de revisión y ajuste con
+apoyo del BID y será elevada a nivel de política sectorial por el presidente de la República en
+consejo de ministros y tendrá una duración de 10 años (2018-2027), consistente con los
+Objetivos de Desarrollo Sostenible.
+Por otro lado, la aprobación de esta política será una oportunidad para fortalecer el ejercicio de
+alineamiento y armonización del sector gubernamental, cooperación externa y sociedad civil, en
+apoyo a las estrategias definidas para el mejoramiento de la cobertura de los servicios para la
+reducción de la mortalidad materna e infantil, lo que le brindará sostenibilidad financiera.
+Un aspecto de mucha importancia para la sostenibilidad del Proyecto ha sido la voluntad y
+decisión política del gobierno, de asignar los recursos con fondos del tesoro nacional, para ir
+absorbiendo el financiamiento en forma progresiva del modelo de gestión descentralizada.
+El financiamiento del MGD inicialmente se realizó en un 100% con fondos BID, pero ha sido
+progresivamente absorbido por la SESAL. Al cierre del proyecto en el 2017, el BID financiaba
+59% del financiamiento del MGD y con recursos nacionales se financiaba el 41%. En el 2018, el
+gobierno ha aumentado los recursos destinados al MGD, de tal forma que actualmente el BID
+financia el 37% y el gobierno un 63% del presupuesto que se invierte en el MGD, con la nueva
+operación del banco HO-L119530 se continuará con el 37% del financiamiento con fondos BID
+correspondientes a 9 de los 38 gestores, cubriendo una población de 425.045 personas. El resto
+30 HO-L1195 Programa de mejora de la gestión y calidad de los servicios de salud materno-neonatal.
+                                                       26
+"
+"          de los gestores seguirá siendo financiado con fondos del GOH31 y se espera que para el año
+          2020 los gestores descentralizados sean absorbidos en su totalidad con fondos nacionales.
+          La sostenibilidad financiera del modelo estará sujeta a que el gobierno continúe absorbiendo el
+          financiamiento del mismo. Además de lo anterior y con el fin de agilizar la extensión del modelo
+          de gestión descentralizada con recursos nacionales se recomendó al gobierno implementar una
+          asignación del presupuesto para servicios de salud en forma per cápita, que permita la aplicación
+          de un modelo de financiamiento en base a resultados, con enfoque en la demanda.
+                                                               Tabla 5
+                           Financiamiento de la Gestión Descentralizada en Honduras (US$)
+                                                           (US$133.275.295)
+Financiamiento
+                      2011         2012          2013           2014         2015          2016         2017       Total
+     en US$
+2418/BL-HO           2,506.097     5,494.812      6,921.339     1,227.985      926.253                             17,076.486
+1619/SF-HO                         3,241.667                                                                        3,241.667
+2743/BL-HO                                         4473.399       523.581                                           4,996.980
+2943/BL-HO                                                     12,429.976   14,147.891      12,207.535  5,592.981  44,378.383
+I SM 2015                            269.982        631.896                                                           901.878
+II SM 2015                                                                     514.389         414.623                929.012
+3723/BL-HO                                                                                              6,694,241   6,694,241
+             BID     2,506.097     9,006.461     12,026.634    14,181.542   15,588.533      12,622.158 12,287.222  78,218.648
+         Fondos
+                     2,330.534     1,216.468      6,159.211     5,648.301    4,988.015      16,565.606 18,148.513  55,056.648
+     Nacionales
+         Totales     4,836.631   10,222.929      18,185.845    19,829.843   20,576.548      29,187.764 30,435.735 133,275.295
+                             b. Salvaguardias ambientales y sociales
+          El programa 1072/BL-HO fue clasificado de acuerdo con la Política de Salvaguardias
+          Ambientales y Sociales del Banco (OP-703) como categoría “B”, teniendo en cuenta que los
+          impactos negativos son básicamente moderados y que además, poseen medidas de mitigación,
+          de relativo fácil abordaje y que son bien conocidas y efectivas.
+          Los riesgos durante el diseño identificados y abordados por este proyecto estaban relacionados
+          con: (i) un inadecuado manejo de desechos sólidos y descargas de efluentes hospitalarios y
+          comunes; (ii) manejo ineficiente y mala calidad del uso de los recursos tales como agua y
+          energía; (iii) falta de aplicación y/o inexistencia de un plan de higiene y seguridad laboral; y
+          (iv) falta de un plan y de equipo para enfrentar contingencias como incendios, inundaciones,
+          sismos y otros. Asimismo, durante el diseño del programa se observó además, que existían
+          inconsistencias en el nivel de cumplimiento de los procesos de licenciamiento/permisos
+          ambientales (carencia de evaluaciones y auditorías ambientales previas) y también de
+          licenciamientos sanitarios en los tres hospitales que serían intervenidos, cuyas medidas de
+          mitigación se refieren en los párrafos siguientes.
+          31  Fuente: Sección de finanzas de la Unidad de Gestión Descentralizada. 2017 (UGD).
+                                                                   27
+"
+"También se consideró, que había un riesgo que después de construidas las obras y puesto en
+operación el equipo adicional, habría una mayor demanda de energía y agua potable; mayor
+descarga de efluentes hospitalarios y comunes, debido a las actividades diarias de los hospitales
+que se ampliaron; generación de residuos sólidos domésticos y peligrosos hospitalarios
+(punzocortantes, bioinfecciosos, farmacéuticos, y químicos); emisiones de gases de efecto
+invernadero por operación de sistemas de calefacción/aire acondicionado y generadores de
+electricidad, entre otros.
+Los riesgos ambientales anteriormente descritos fueron mitigados mediante la implementación
+de medidas para reducir el impacto ambiental. Las medidas de mitigación estaban incluidas en
+un Plan de Gestión Ambiental y Social (PGAS) para cada uno de los hospitales. Entre ellas, se
+encontraban medidas y acciones correctivas para mitigar y prevenir los pasivos ambientales
+conjuntamente entre la SESAL, Secretaría del Ambiente y los gobiernos locales.
+Las medidas de mitigación que se tomaron fueron las siguientes: (i) gestión administrativa de las
+licencias ambientales correspondientes; (ii) mejora de la gestión del manejo de los efluentes
+líquidos domésticos y hospitalarios y en la construcción de los hospitales de La Esperanza y de
+Gracias, Lempira de un adecuado sistema hidrosanitario; (iii) mejora de la gestión de los
+desechos sólidos domésticos y patogénicos, incluyendo la construcción de espacios especiales
+para el almacenamiento de dichos residuos; (iv) mejora de la eficiencia y manejo de los recursos
+energía y agua- incluyendo la implementación de un sistema eléctrico suficiente para soportar la
+carga de energía con un sistema de energía de emergencia y de un generador eléctrico de
+500 Kw; (v) elaboración y aplicación de un plan de contingencias y manejo de riesgos;
+(vi) elaboración y aplicación de un plan de seguridad laboral; y (vii) divulgación y socialización
+del Plan de Gestión Ambiental y Social.
+        III. CRITERIOS NO BÁSICOS
+  3.1   Desempeño del Banco
+Para asegurar la calidad de los servicios de asistencia proporcionados por el Banco, técnicos de
+la representación del Banco, acompañaron a las autoridades de la SESAL en el diseño de la
+operación para garantizar la calidad de los productos.
+Este acompañamiento permitió identificar los principales riesgos, mecanismos de mitigación y
+los medios para incrementar la probabilidad de éxito de la operación. Estos medios incluyeron la
+asistencia técnica con especialistas y técnicos de la representación local, consultores y
+especialistas de la sede del Banco, asegurando la calidad técnica en la preparación de la
+operación y además facilito el fortalecimiento de los aspectos técnicos del contratante.
+Por otro lado el Banco definió mecanismos para asegurar la calidad de la monitoria, evaluación
+y supervisión de las actividades programadas, estableciendo reuniones periódicas de medición
+del progreso de la operación para identificar y resolver proactivamente los obstáculos y
+amenazas al logro de los resultados previstos.
+  3.2   Desempeño del prestatario
+La Secretaria de Salud, fue el organismo ejecutor de esta operación, quien ha delegado a la
+Unidad Administradora de Fondos de Cooperación Externa (UAFCE), como encargada de
+coordinar con los demás actores, el cumplimiento de los compromisos del gobierno.
+                                                28
+"
+"El desempeño de la UAFCE permitió la ejecución adecuada de la operación y el sostenimiento
+de los objetivos y fines delineados y el cumplimiento de casi la totalidad de los compromisos
+identificados en la matriz de resultados.
+Las autoridades de la SESAL a través de Sub-Secretaría de redes Integradas de Servicios de
+Salud, mantuvieron una vigilancia y compromiso constante con la garantía de cumplimiento de
+los objetivos del proyecto, trabajando mancomunadamente con el Banco.
+                          IV.      HALLAZGOS Y RECOMENDACIONES
+                                                   Tabla 6
+                       Hallazgos                                         Recomendaciones
+     I.    Lógica vertical
+                                                        Fortalecer la voluntad política de las nuevas
+                                                        autoridades de la SESAL, para continuar con la
+                                                        expansión y consolidación del MGH. (Articulo #50
+                                                        de la LMPS)
+                                                        La implementación sistemática y continua del
+                                                        mejoramiento de la calidad, debe ser considerada
+                                                        como un elemento crítico para acelerar la
+                                                        reducción de la mortalidad materna neonatal.
+                                                        Fortalecer los procesos de mejoramiento y
+  El modelo de gestión hospitalario ofrece una buena    auditoria de la calidad, especialmente en los
+  alternativa en la mejoría de la capacidad de          servicios obstétricos y neonatales del segundo
+  respuesta, eficiencia y calidad en la prestación de   nivel, mediante el desarrollo de una metodología
+  servicios del segundo nivel de atención (Hospitales   en el nivel central y los hospitales.
+  públicos).                                            Potenciar en forma progresiva los procesos de
+                                                        habilitación y acreditación de los servicios de
+                                                        salud.
+                                                        Desarrollo de la capacidad estratégica de la
+                                                        unidad de compra de la SESAL y potenciar
+                                                        técnicamente a los gestores descentralizados y
+                                                        fundaciones.
+                                                        Normalizar el mecanismo que asegure la
+                                                        articulación de la red de servicios de primer y
+                                                        segundo nivel para el abordaje integral del modelo
+                                                        de las tres demoras.
+                                                        Debe impulsarse la elaboración del plan nacional
+                                                        de salud con participación de
+                                                        Continuar con el desarrollo y fortalecimiento
+                                                        organizacional de la SESAL, alineándola con lo
+  La LMPS y la ley del SNS (Esta última, pendiente      dispuesto por la LMPS y la ley del SNS, que
+  de aprobación por el Congreso de la Republica)        incluya elaboración e implementación de
+  demandan del fortalecimiento de la función de         manuales de procedimientos entre otros.
+  rectoría de la SESAL, principalmente en aspectos      Para el fortalecimiento de la función rectora de la
+  de planificación, regulación, fiscalización, compra   SESAL, recomienda la revisión y readecuación del
+  y contratación de servicios de salud.                 marco jurídico que facilite la implementación de
+                                                        políticas sectoriales, plan nacional de salud y
+                                                        estrategias, el conjunto de prestaciones de salud y
+                                                        el establecimiento de convenios público-público y
+                                                        otras definidas por la SESAL.
+                                                     29
+"
+"                    Hallazgos                                       Recomendaciones
+   II.   Ejecución y Presupuesto
+                                                   Crear mecanismos agiles para la asignación de
+                                                   presupuesto en función de las programaciones
+                                                   establecidas en el Plan de Ejecución del Proyecto
+                                                   (PEP) y las políticas fiscales del país.
+Débil procesos de asignación presupuestaria en     Fortalecer mecanismos para asegurar el
+función de las necesidades reales de ejecución     financiamiento con fondos del tesoro nacional para
+financiera requerida.                              la sostenibilidad y la institucionalización del MGD.
+                                                   Definir procesos expeditos para modificaciones e
+                                                   incorporaciones presupuestarias de Proyectos y
+                                                   hacer una reestructuración de presupuesto en
+                                                   base a asignación per cápita.
+                                                   Implementar modelos o mecanismos de pago a los
+                                                   gestores, más expeditos y eficientes; como por
+Tardía asignación de fondos a los gestores o       ejemplo la creación de un fideicomiso especial
+fundaciones                                        administrado por el Banco Central (Artículo 22 de
+                                                   la LMPS).
+  III.   Experiencia general con la gestión del proyecto
+                                                   Definir por parte de la Subsecretaria de Redes
+                                                   Integradas de Servicios de Salud el mecanismo
+Limitada coordinación y participación de otros     para la conducción y articulación de los
+actores clave dentro de la SESAL vinculados a la   departamentos de primer y segundo nivel, la UGD
+implementación y desarrollo del MGD                y la Unidad de gestión de Información (UGI), para
+                                                   fortalecer la planificación, monitoria, evaluación y
+                                                   seguimiento del MGD.
+  IV.    Asuntos no resueltos
+                                                   Gestionar la pronta discusión y aprobación por
+                                                   parte del Congreso Nacional de la Republica de la
+Está pendiente la reorganización funcional del     ley del SNS.
+SNS en el marco de la nueva ley y de la LMPS       Continuar con el rediseño y la implementación de
+                                                   la nueva estructura organizativa de la SESAL de
+                                                   acuerdo con lo dispuesto por la LMPS
+                                                   Dar seguimiento al proceso de certificación
+                                                   mediante la aprobación de la guía para la
+El sistema para la certificación de gestores o     verificación que asegure su capacidad e idoneidad
+fundaciones debe de ser fortalecido.               Fortalecer los sistemas de información, monitoria
+                                                   y evaluación para mejorar los procesos de
+                                                   planificación y la adecuada toma de decisiones.
+   V.    Sostenibilidad Financiera
+                                                   Continuar con la absorción progresiva del
+Aumento progresivo de financiamiento del MGD
+                                                   financiamiento con fondos del tesoro nacional para
+con fondos del tesoro nacional.
+                                                   asegurar la sostenibilidad financiera del modelo.
+  VI.    Sostenibilidad Política
+                                                   Realizar reuniones de socialización del MGD con
+En enero del 2018, asumieron nuevas autoridades    las nuevas autoridades para socializar el Modelo
+nacionales y de la SESAL.                          de Gestión Descentralizada y demostrar sus
+                                                   ventajas.
+                                                30
+"

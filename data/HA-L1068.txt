@@ -1,0 +1,1105 @@
+"outlist[[i]]"
+"                           INFORMACIÓN BÁSICA DEL PROYECTO
+NÚMERO DE PROYECTO (S): HA-L1068
+TÍTULO: PROGRAMA PILOTO DE GENERACION Y DESARROLLO DE TEJIDO PRODUCTIVO EN
+ÁREAS PRIORIZADAS DE DESARROLLO ECONÓMICO
+INSTRUMENTO DE PRÉSTAMO: OPERACIÓN DE INVERSIÓN NO REEMBOLSABLE
+PAÍS: REPÙBLICA DE HAITI
+PRESTATARIO: MINISTERIO DE ECONOMÍA Y FINANZAS/ MINISTERIO DE COMERCIO E INDUSTRIA
+PRÉSTAMO (S):2827/-GR-HA
+SECTOR/SUBSECTOR: MERCADOS FINANCIEROS / DESARROLLO DEL MERCADO DE LA BANCA
+FECHA DE APROBACIÓN DEL DIRECTORIO: 07 NOV 2012
+FECHA DE EFECTIVIDAD DEL CONTRATO DE PRÉSTAMO: 29 ENE 2013
+FECHA DE ELEGIBILIDAD PARA EL PRIMER DESEMBOLSO: 21 OCT 2013
+MONTO DEL PRÉSTAMO (S)
+MONTO ORIGINAL: US$ 3.500.000
+MONTO ACTUAL: US$ 3.500.000
+CONTRAPARTIDA LOCAL: US$ 175.000
+COSTO TOTAL DEL PROYECTO: US$ 3.675.000
+MESES EN EJECUCIÓN
+DESDE LA APROBACIÓN: 62 MESES
+DESDE LA EFECTIVIDAD DEL CONTRATO: 50 MESES
+PERÍODOS DE DESEMBOLSOS
+FECHA ORIGINAL DE ÙLTIMO DESEMBOLSO: 29 ENE 2017
+FECHA ACTUAL DE ÙLTIMO DESEMBOLSO: 31 DIC 2017
+EXTENSIONES ACUMULADAS (MESES): 11 MESES
+EXTENSIONES ESPECIALES (MESES): 0 MESES
+DESEMBOLSOS
+MONTO TOTAL DESEMBOLSADO A LA FECHA: US$ 3.289.366
+DISBURSEMENT GRAPH
+REDIRECCIONAMIENTO. ESTE PROYECTO NO
+RECIBIÓ FONDOS DE OTRO PROYECTO? NO
+ENVIÓ FONDOS A OTRO PROYECTO?         NO
+Calificaciones de la Performance del Proyecto en los PMRs:
+  No.   Fecha PMR                         PCR Stage                            Desembolsos
+                                                                               (USD millones)
+  1     Junio 2017                        NA                Alerta             0.0
+METODOLOGÍA DE ANÁLISIS ECONÓMICO EX POST: NO
+METODOLOGÍA DE EVALUACIÓN EX POST: OTROS
+CLASIFICACIÓN DE EFECTIVIDAD EN EL DESARROLLO: PARCIALMENTE NO EXITOSO
+BANK STAFF
+                           POSITIONS       AT PCR                  AT APPROVAL
+                   VICE PRESIDENT VPS      ANA MARIA RODRÍGUEZ     SANTIAGO LEVY
+                   VICE PRESIDENT VPC      ALEXANDER DE LA ROSA    ALEXANDER DE LA ROSA
+                                                  iv
+"
+"                   COUNTRY MANAGER             VERONICA ZAVALA        AGUSTIN AGUERRE
+                   SECTOR MANAGER              JUAN ANTONIO KETTERER  ANA MARIA RODRIGUEZ
+                   DIVISION CHIEF              JUAN ANTONIO KETTERER  KURT FOCKE
+                   COUNTRY REP                 FELIPE GOMEZ ACEBO     AGUSTIN AGUERRE
+                   PROJECT TEAM LEADER         DANIEL FONSECA         JOAQUIN DOMINGUEZ
+                   PCR TEAM LEADER             JOAQUIN DOMINGUEZ      NA
+Staff Time and Cost
+  Stage Project Cycle                 # of staff weeks                USD (including travel and
+                                                                      consultant costs)
+  Preparation                         47                              216,000
+  Supervision                         184                             214,000
+  Total                               231                             430,000
+DESCRIPCION DE LOS OBJETIVOS DE DESARROLLO DEL PROYECTO/PROGRAMA:
+El objetivo del programa es catalizar la aparición de una oferta adecuada de bienes y servicios, en la
+forma de tejido productivo sostenible, que responda a la demanda derivada de las inversiones en curso
+de desarrollo, con foco principal en el Polo de Crecimiento Económico Norte (PCEN). Su objetivo
+específico es apoyar el desarrollo de las iniciativas seleccionadas de la Cadena de Valor (CdV) de
+agronegocios, turismo e industria, principalmente relacionadas con el PCEN, para que puedan mejorar
+sus capacidades de generación de beneficios en forma sostenible.
+                                                      v
+"
+"I.            RESUMEN EJECUTIVO
+El programa tuvo como objetivo general el catalizar la aparición de una oferta adecuada, en la
+forma de tejido productivo sostenible, que respondiera a la demanda derivada de las inversiones
+en desarrollo, con foco principal en el PCEN. Su objetivo específico era apoyar el desarrollo de
+las iniciativas seleccionadas de las cadenas de valor de agronegocios, turismo e industria,
+principalmente relacionadas con el PCEN, para mejorar sus capacidades de generación de
+beneficios en forma sostenible.
+Las características innovadoras del programa lo hacían un piloto orientado a generar, a partir de
+los resultados alcanzados, lecciones aprendidas sobre las intervenciones propuestas para lograr
+los conocimientos necesarios para diseñar futuras intervenciones de mayor envergadura y
+alcance. También, se buscaba evaluar la respuesta del sistema financiero haitiano como vector
+de desarrollo y crecimiento de las MiPyMes a partir de una serie de intervenciones clásicas e
+innovadoras aplicables al contexto haitiano dentro de una estrategia general de intervención
+diseñada para la reconstrucción sostenible del país luego del terremoto de 2010.
+El programa se estructuró en dos componentes: (i) un Acelerador de Empresas (Incubadora de
+Empresas -IE-); y (ii) la generación de Espacios Productivos Conjuntos (EPC)1. El programa fue
+parte de una estrategia amplia y abarcativa de desarrollo del sector privado2 que incluía otras
+operaciones complementarias3.
+El diseño del programa se realizó en línea con la Estrategia del Banco en el País (EBP)
+2011-2015 y también con la ruta y prioridades establecidas por el Gobierno de Haití para la
+recuperación y desarrollo del país luego del terremoto del 20104 estableciéndose así una clara
+relevancia de este, tanto al momento de su diseño, como así también al momento de su
+cancelación5.
+En lo que hace a su efectividad, el Programa logró alcanzar parte de los resultados propuestos,
+aunque a partir de una intervención diferente de la originalmente diseñada (tanto en el
+componente del acelerador como en el relativo a los EPCs) motivada por una necesaria
+adaptación a los cambios requeridos por la realidad cambiante del país.
+El programa ha logrado mantenerse dentro de los costos estimados de ejecución, aunque
+reasignando las distintas categorías en función de los cambios realizados para su adaptación.
+En cuanto a la sostenibilidad de los resultados alcanzados, el programa ha evidenciado la
+existencia de dificultades estructurales asociadas a los niveles de institucionalidad existente
+(particularmente en la contraparte pública ejecutora) que hacen que los mismos no puedan ser
+mantenidos en el tiempo de manera independiente.
+La característica de piloto del Programa ha dejado importantes y válidas lecciones aprendidas a
+los efectos de poder proyectar futuras intervenciones. En particular, queda claro que el diseño
+de la operación en el marco de la estrategia de desarrollo del sector privado, si bien orientado a
+instalar una política pública del sector, no pudo sobrepasar las limitaciones en las capacidades y
+1  Microparques industriales.
+2  Desarrollo del Sector Privado. Nota Sectorial. Agosto 2011.
+3  Detalle operaciones Estrategia Sector Privado.
+4  Action plan for the national Recovery of Haiti. Immediate key initiatives for the future. Government of the Republic
+   of Haiti. March 2010.
+5  Evaluación del Programa de País: Haití 2011-2015.
+                                                          6
+"
+"desarrollo institucionales estructurales propias del Gobierno de Haití agravadas por el terremoto
+del 2010 y cuya reposición no pudo ser alcanzada en el período posterior al mismo y tampoco
+pudo movilizar a los distintos actores (públicos y privados) y al sistema financiero en su conjunto.
+II.            INTRODUCCIÓN
+2.1        El desafío de la reconstrucción. Las guías estratégicas.
+Luego del terremoto de enero de 2010, los esfuerzos del Gobierno de Haití, el Banco y el resto
+de los donantes se centraron en lograr una intervención dirigida a la reconstrucción efectiva del
+país. Con base en esta definición, era necesaria una acción conjunta público-privada que
+permitiera (permita) lograr una masa crítica de inversiones para generar una demanda de obras,
+bienes y servicios y la aparición de un sector privado que respondiera a esta demanda
+desarrollando así un tejido productivo sostenible que, de manera progresiva, lograra superar la
+dependencia de la ayuda externa6.
+Pero el principal reto en lograr este objetivo radicaba en las características del pequeño sector
+privado haitiano (la mayor parte de las MiPyMEs) y micro productores independientes (sin el nivel
+de gestión de las anteriores) que operaban en el sector informal de la economía, con tecnologías
+obsoletas y una fuerza laboral poco calificada resultado de una sistemática falta de inversión y
+de fallas en sus instituciones de formación profesional que limitarían atender, adecuadamente, a
+la aparición de esa oferta de obras bienes y servicios en las cantidades y calidades requeridas.
+Este sector era percibido por el sistema financiero con un alto grado de riesgo y una situación
+donde: (i) la aplicación de tasas de interés no era (es) compatible con la tasa interna de retorno
+de los proyectos de inversión de estas MiPyMEs -invalidando el efecto de apalancamiento
+buscado- o; y (ii) no existía crédito para una gran parte de este sector.
+La solución a este problema requería una intervención que pusiera a disposición del pequeño
+sector privado haitiano tanto fondos prestables como asistencia técnica no reembolsable que,
+progresivamente pudiera: (i) revertir la descapitalización existente; (ii) incrementar la
+productividad y rentabilidad de manera sostenible; (iii) apoyar la creación y desarrollo de
+MiPyMEs y su transición hacia la economía formal; y (iv) apoyar la inclusión de los micro
+productores hacia esquemas productivos empresariales y su progresiva transformación en
+microempresarios (a través de la integración de capacidades gerenciales necesarias a tal efecto).
+En este sentido, y en línea con la estrategia del país definida en el Plan de Acción para el
+Recupero y Desarrollo Nacional7, el Banco diseñó una Estrategia de Desarrollo del Sector
+Privado (EDSP) que, coordinando sus ventanillas públicas buscaría lograr la máxima
+6   Se define al tejido productivo sostenible como el conjunto de recursos humanos y de capital (bajo la forma de
+    inversiones en activos productivo) capaz de generar una corriente de beneficios sostenible que permita:
+    (i) responder, en el mediano y largo plazo, a las demandas de bienes y servicios planteados por el mercado;
+    (ii) generar excedentes para reinversión en sus recursos humanos y capital que permita su permanencia en dicho
+    mercado; y (iii) posibilitar un adecuado crecimiento y desarrollo posteriores.
+7   El cual postulaba cuatro acciones para el desarrollo del sector privado: (i) la promoción de la inversión extranjera
+    directa (IED); (ii) el desarrollo e implementación de mecanismos de financiación del sector privado a través de
+    intervenciones de riesgo compartido para catalizar la participación de las instituciones financiera locales; (iii) la
+    potenciación de la cultura empresarial; y (iv) la realización de las inversiones integradas en polos regionales,
+    destinadas a estimular el desarrollo económico de los mismos con base en la producción de vestimenta, la
+    agricultura, el turismo y la construcción. En particular, el plan define tres grandes polos económicos fuera de
+    Port-Au Prince y un portafolio de cinco clusters prioritarios: Frutas y vegetales, cría de animales, turismo, vivienda
+    y desarrollo urbano y confección de indumentaria.
+                                                             7
+"
+"adicionalidad de sus intervenciones a través de un enfoque programático compuesto por una
+serie de operaciones reembolsables y no reembolsables para lograr su adecuada
+complementación y así catalizar y apalancar los fondos del sector financiero privado para generar
+y potenciar nuevas inversiones.
+Bajo este enfoque, la EDSP combinaba apoyos financieros y de asistencia técnica de acuerdo
+con el desarrollo de cada segmento productivo del sector privado y su capacidad para acceder a
+los mismos. Así, la EDSP apoyaría a: (i) las MiPyMEs que, con cierto grado de desarrollo
+comprobable y operando en el mercado, no eran elegibles8 para su financiación por los
+intermediarios financieros (a través de Productive Haiti9); (ii) a cadenas de valor estratégicas
+donde existieran empresas poco desarrolladas o nuevas iniciativas a las que el mercado, por
+falta de apetito de riesgo, no estaba dispuesto a brindarles financiamiento en ningún caso (ni
+siquiera utilizando los instrumentos de Productive Haiti); y (iii) a microproductores independientes
+que no llegaban a ser microempresarios y que requerían una intervención focalizada con
+asistencia financiera, técnica y organizacional10. Este programa, buscaba dar una respuesta
+técnica, en el marco de las estrategias definidas (la del Gobierno de Haití y la del Banco) a los
+puntos (ii) y (iii) precedentes.
+2.2       El desafío de la ejecución. El contexto político-institucional y el rol del Banco
+La característica de piloto de la operación permitiría verificar, en la práctica, que las hipótesis de
+intervención definidas eran válidas y los resultados a obtener serían pertinentes y así identificar,
+con mayor detalle, los elementos a tener en cuenta al momento de diseñar operaciones a mayor
+escala.
+Para lograr esta meta, identificar una contraparte de ejecución con las habilidades y las
+capacidades de ejecución técnica era clave en el proceso de diseño de la operación.
+Esta decisión tomaba mayor relevancia en el contexto existente posterior al terremoto donde ya
+no se podía contar con una parte importante de la estructura institucional pública
+(fundamentalmente sus recursos humanos con experiencia y memoria institucional) y la
+construcción de un espacio equivalente tomaría mayor tiempo pudiendo afectar la ejecución de
+la operación, sumado a la alta inestabilidad del clima político-institucional existente11.
+8   En general, la falta de colaterales registrables e información global de su situación crediticia en el sistema (por la
+    falta de una central de deudores) constituían el mayor obstáculo para el otorgamiento del crédito que, por sus
+    características, siempre se asemeja a un crédito personal (independiente del destino final de los fondos solicitados)
+9   Este producto, apoyaría a las MiPyME utilizando: (i) una instancia de financiación tipo blending acorde con la tasa
+    interna de retorno de los posibles programas de inversión de las mismas (a través del Fonds d’Investissement
+    Social -FIS-); (ii) una instancia de asistencia técnica para asegurar la canalización de crédito para inversión por
+    parte de las MiPyMEs denominada (Servicios de Apoyo Empresarial -SDE- a través de la operación HA-L1057
+    2555/GR-HA); y (iii) una instancia de financiación alternativa destinada a reforzar el capital propio de las PyMEs
+    para inversión en crecimiento y desarrollo (a través de una Facilidad de Deuda Subordinada (FDS) que se
+    encontraba en diseño a la fecha de aprobación de la operación.
+10  Esta es una diferencia clave que se tuvo en cuenta en el momento del diseño de la operación. En las MiPyMEs, la
+    gerencia se desarrolla por el propio empresario; en el caso de los micro productores, esta gerencia está incompleta
+    (sólo conocen de manera razonable, pero con limitaciones, el proceso productivo) y debe ser ocupada por un gestor
+    externo que, progresivamente, transmita estos conocimientos para que, al final del tratamiento, estos micro
+    productores se conviertan en microempresarios o puedan organizarse en formas agregadas de desarrollo
+    organizacional (vía PyMEs o cooperativas).
+11  El país se encontraba, a la fecha de diseño de la operación, en una parálisis de gestión institucional debido a
+    diversos acontecimiento político-sociales derivados de la elección presidencial que, pospuesta por el terremoto,
+    tuvo lugar el 28 de noviembre de 2010 pero, como consecuencia de las denuncias de fraude realizadas y la reacción
+    social masiva de los partidarios de uno de los candidatos desplazados (a la postre el futuro presidente), fue
+    necesario revisarla y anunciar los nuevos resultados el 2 de febrero de 2011 fijando para el 20 de marzo de 2011
+                                                             8
+"
+"Así, el organismo ejecutor (OE) identificado originalmente para la operación fue el Fonds de
+Développement Industriel (FDI), el cual también había sido elegido para la ejecución de las
+operaciones HA-L1050 (2416/GR-HA Fondo de Garantía Parcial de Crédito para el Desarrollo
+Empresarial) y HA-L1057 (2555/GR-HA Programa de Servicios de Desarrollo Empresarial y
+Capacitación para la Inversión) 12. Adicionalmente, el programa previó la participación de una
+consultoría técnica independiente como apoyo para reforzar sus capacidades, potenciar la
+sostenibilidad de los desarrollos a realizar y proveer el adecuado nivel de equilibrio de cara a
+asegurar una adecuada y transparente toma de decisiones en la asignación de los recursos de
+la operación.
+Sin embargo, el Banco, para contribuir a reforzar la construcción de la necesaria institucionalidad
+en el sector público haitiano luego de la inestabilidad política e institucional posterior al terremoto,
+decidió apoyar la construcción de espacios de decisión gubernamentales y concentrar las
+operaciones relativas al desarrollo del sector privado en la órbita del MCI.13
+La operación se aprobó, así, el 7 de noviembre de 2012 y el 11 de diciembre de 2012 se firmó el
+contrato y, desde el comienzo, experimentó retrasos en su instrumentación. Estos retrasos,
+prácticamente paralizaron la operación por casi un año14, mostrando signos de reactivación hacia
+fines del año 2013 luego que se concentrarán las funciones técnicas y fiduciarias en el MCI 15.
+Si bien se consideraba que, a partir de ese momento, la dinámica de ejecución podría avanzar
+de manera adecuada, las dificultades institucionales para su ejecución volvieron a bloquear el
+desarrollo de la operación.
+Es así que, a los efectos de avanzar y seguir brindando el apoyo necesario para consolidar la
+construcción de un espacio institucional adecuado en el MCI, se ampliaron las definiciones
+correspondientes a los componentes del programa y se fueron adaptando los criterios que
+determinaban su instrumentación a los efectos de entender la percepción de la contraparte
+   la segunda vuelta que proclamo a Michel Martelly. En este proceso, además, se posibilitó la vuelta (ambos estaban
+   exiliados) de Jean-Claude Duvalier (Baby Doc) y Jean Bertrand Aristide, dos figuras que polarizaban políticamente
+   al electorado y aumentaban la convulsión social del país. En adición a estos sucesos, la estructura política
+   institucional haitiana requiere que el primer ministro sea autorizado por el Congreso antes de poder formar gabinete.
+   Luego de dos nominaciones fallidas, finalmente se nombró a Gary Conille 5 meses después de la asunción del
+   nuevo presidente siendo elegido el 14 de octubre de 2011 para estar en el cargo sólo 6 meses y dando lugar a una
+   nueva elección de primer ministro, Laurent Lamothe, el 16 de mayo de 2012.
+12 El FDI es una institución especializada de la Banque de la Republique d’Haiti (BRH) (Banco Central de Haiti) con
+   autonomía operativa y financiera y cuyo directorio es el mismo que el del BRH. El FDI promueve el desarrollo del
+   sector privado ofreciendo préstamos, garantías de crédito y asistencia técnica a PyMEs sostenibles con potencial
+   de generación de empleo y valor agregado. El FDI reportaba una gestión y sostenibilidad adecuados y capacidad
+   institucional para ejecutar satisfactoriamente programas con organismos internacionales de desarrollo.
+13 Estas decisiones se toman como resultado de la Encerrona que realizan el Banco y el gabinete ministerial el 7 de
+   agosto de 2012 y se materializan a través de la solicitud formal del MEF al Banco para que esto ocurra (Nota
+   BM/BID/430/09-12 del 14 de septiembre de 2012). Cabe destacar que el MEF (quien había validado al FDI como
+   ejecutor de las operaciones HA-L1050 y HA-L1057) tenía un gran interés en asegurar el adecuado desarrollo del
+   sector privado y, por lo tanto, si bien validó el traspaso técnico de las operaciones al MCI, se reservó dos elementos
+   importantes relacionados con la ejecución de la operación: (i) la ejecución fiduciaria; y (ii) los niveles de decisión
+   estratégicos a través del Comité Director.
+14 Como referencia, valga destacar que, siendo ratificada el 29 de enero de 2013, recién pudo cumplir total elegibilidad
+   el 21 de octubre de 2013 y su primer desembolso tuvo lugar el 4 de noviembre de 2013.
+15 La solicitud tiene lugar luego que el ministro (MCI), asumiera temporalmente las carteras del MEF y el MCI y como
+   consecuencia de los acuerdos alcanzados en la misión de cartera del 4 de octubre de 2013 donde se indicó esta
+   situación. De hecho, el cumplimiento de las condiciones contractuales se da con el ministro Laleau en ejercicio de
+   sus funciones en el MEF. El cambio se solicita durante diciembre de 2013.
+                                                               9
+"
+"gubernamental. Adicionalmente, el Banco buscó reforzar la estructura del MCI con recursos
+humanos que pudieran incrementar la capacidad técnica y fiduciaria de ejecución de la operación
+y posibilitó, al mismo tiempo, reducir al máximo los elementos definidos en relación con la
+ejecución del programa que pudieran ralentizar la toma de decisiones que impactaran
+negativamente en su desarrollo.
+Los resultados alcanzados, en el marco de esta adaptación funcional de la operación (que
+además de focalizar la totalidad de las acciones de ejecución en el MCI, incluyó la adaptación de
+los conceptos a pedido del MCI de: (i) acelerador de empresas ampliando los criterios para
+selección de potenciales candidatos, los montos máximos a ser financiados y el uso de
+instituciones financieras intermedias para la etapa de asignación de los montos de apoyo a las
+empresas, incluyendo la retención de una parte del financiamiento como colateral del préstamo;
+y (ii) EPCs permitiendo el uso de recursos para potenciar la actividad de plantas con apoyo a los
+micro productores fuera del ámbito físico de las mismas (lo cual no estaba previsto en el diseño
+original)16, los cuales no afectaron la lógica vertical de la operación (ni sus indicadores) son el
+objeto de descripción, análisis y evaluación del presente PCR.
+III.       CRITERIOS CENTRALES. DESEMPEÑO DEL PROYECTO
+3.1        Relevancia
+a.         Alineación con las necesidades de desarrollo del país y alineamiento estratégico
+El programa fue diseñado en total alineación con las necesidades de desarrollo del país tal cual
+fuera definido en el marco del Plan para el Recupero y Desarrollo Nacional del Gobierno de Haití
+buscando posibilitar la catalización de una oferta crediticia de parte del sistema financiero que
+pudiera apoyar y potenciar el desarrollo del sector MiPyME haitiano. Este sector, se consideraba
+estratégico para impulsar la reconstrucción y asegurar la sostenibilidad del crecimiento y
+desarrollo necesarios en el mediano y largo plazo a los efectos de reducir sustancialmente las
+condiciones de pobreza y la dependencia de la ayuda externa.
+En particular, se buscó identificar, de manera sistémica y de manera integral e integrada, un
+modelo de intervención que, a diferencia de intervenciones anteriores, pudiera focalizar al
+sistema financiero haitiano como un vector de cambio para las condiciones existentes de
+desarrollo de las MiPyMEs a partir de reconocer que el elemento clave de la dinámica de
+funcionamiento de la intermediación financiera no era la falta de fondeo (de hecho, el sistema
+era y es altamente líquido tanto por la baja cantidad de préstamos como por las medidas de
+encaje impuestas por el Banco Central) sino la percepción negativa de riesgo que este sector
+asignaba a las MiPyMEs a partir de un diagnóstico claro centrado en: (i) la informalidad general
+del sector; (ii) la falta de inversión en tecnologías y recursos humanos; (iii) la falta de capital; y
+(iv) la falta de conocimientos técnicos y de gestión que aseguraran su capacidad competitiva en
+los mercados donde se desarrollaban.
+En este sentido, la operación se diseñó como parte de un enfoque programático de respuesta
+(solución) a los problemas identificados a partir de una estrategia que diferenciaba claramente
+16   Esta adaptación se realizó para apoyar la visión más amplia sobre el alcance que estas iniciativas debían tener en
+     línea con la estrategia de desarrollo de las MiPyMEs que el MCI definió, de manera diversa, con cada cambio de
+     autoridades. Un detalle más preciso se desarrolla en los capítulos correspondientes a Relevancia del Diseño y
+     efectividad.
+                                                           10
+"
+"los niveles en los cuales el sector MiPyME operaba en el país a partir de un enfoque de cadena
+de valor transversal y con énfasis en el Polo de Crecimiento Económico Norte (PCEN)17.
+Toda la intervención buscaba atraer, en distintos momentos, la capacidad prestable del sector
+financiero a partir de reducir la percepción de riesgo que este tenía sobre el sector MiPyME. Así,
+los instrumentos de Productive Haiti tenían una intención de catalizar una intervención más
+rápida (corto plazo) del sector financiero aportando tanto capacidad técnica (a través de los
+servicios técnicos no reembolsables de desarrollo empresarial) como una baja del riesgo de
+capitalización (al utilizar el FIS como una vía de reducción sintética de la tasa final de préstamo
+al beneficiario y así lograr una mayor reinversión de las utilidades obtenidas) mientras que, la
+presente operación, asumía que tanto el desarrollo de las empresas existentes (pero con niveles
+de capitalización prácticamente nulos) y las start-up -donde en ambos casos ninguna sería
+rápidamente percibida como potencial cliente del sistema financiero-, tendrían recién un aporte
+de fondos de intermediación financiera en el momento en el que pudieran demostrar, luego de
+un período de construcción de capital y resultados sostenibles, que contaban con las
+capacidades técnicas y de gestión suficientes para ser sujeto de crédito18.
+Tanto la creación de empleo (formal) sostenible como la movilización de fondos del sistema
+financiero hacia las MiPyMEs y la formalización de este sector, siguen siendo parte de los
+desafíos que el país refleja en el diseño y exteriorización de sus estrategias a través de las
+distintas administraciones que se han sucedido y también son claves en las estrategias de país
+del Banco (EPB) dado lo cual la operación, en el marco de toda la estrategia diseñada para
+desarrollar el sector privado, ha sido adecuada y ha tenido en cuenta tanto la problemática como
+los elementos claves para su enfoque.
+No obstante, es necesario resaltar algunos puntos que, aun cuando fueron objeto de una clara
+identificación con respecto a los riesgos derivados de esta situación (en particular los referidos a
+la ejecución y los temas político-institucionales identificados) a partir de la debilidad institucional
+estructural existente y la decisión estratégica del Banco de apoyar la construcción de este
+espacio de gobernanza, superaron largamente las medidas previstas en los planes de mitigación
+de riesgos que fueron diseñadas a tal efecto.
+17 Así, se identificaron aquellas cadenas de valor que: (i) existían y operaban eficazmente (las cuales no requerían
+   intervención; (ii) aquellas cadenas donde sus participantes existían pero no operaban eficientemente (las cuales
+   requerían apoyo de Productive Haiti (HA-L1057 + FIS); y (iii) aquellas cadenas que no existían o donde sus
+   participantes no lograban llegar a un nivel mínimo de capacidad de desarrollo (para las cuales se diseña esta
+   operación en la forma de una incubadora de empresas y la instrumentación del concepto de micro parques
+   productivos). El enfoque también partía de la estrategia del Banco en concentrar una importante cantidad de los
+   recursos disponibles en desarrollar una iniciativa de desarrollo industrial (el Parque Industrial de Caracol) y hacer
+   que la misma fuera el ancla potencial para crear diversas cadenas de valor derivadas de éste tanto en temas
+   agropecuarios y de servicios como así también aprovechar el corredor norte entre la República Dominicana y Haití
+   (a través de la ruta 6 recientemente finalizada con fondos de la Unión Europea) para desarrollar la cadena turística
+   a partir de Cap Haitien, Labadie y la fortaleza de La Citadelle con una serie de intervenciones adicionales de
+   infraestructura y servicios.
+18 De hecho, las matrices de resultado de ambas operaciones expresan estos outcomes de manera clara. En la
+   operación HA-L1057, se define como “Empresas (MiPyMEs) receptoras de BDS obtienen financiamiento a mediano
+   y largo plazo (productivo)” mientras que, en la presente operación, en lo referente a las empresas asistidas por la
+   incubadora se indica “Empresas elegibles para financiamiento por los intermediarios financieros” y en lo relativo a
+   los micro parques (EPC por espacios productivos conjuntos) los “Beneficios generales anuales del EPC”. En estos
+   dos últimos casos queda claro que las mediciones tienen por objetivo el mostrar que este subsector de las MiPyMEs
+   definido en la estrategia tiene la capacidad de ser sujeto de crédito (aunque no necesariamente lo tenga que pedir
+   debido a la lógica de la intervención) y, como en el caso de los EPC, que esta generación de beneficios (y por ende
+   capitalización correspondiente) se logra de manera sostenida y sostenible en el tiempo.
+                                                           11
+"
+"Así, la operación se fue reinventando (sin perder sus objetivos y metas previstas) para validar
+esta decisión estratégica y permitir que fuera la contraparte misma la que fuera proponiendo
+distintos niveles de intervención en línea con sus objetivos estratégicos que permitieran, así,
+construir esta necesaria institucionalidad. Esto llevó, a adaptar las intervenciones con una
+definición diferente de la originalmente definida pero siempre manteniéndola como un
+instrumento de política púbica para lograr el desarrollo del sector MiPyME.
+Cabe remarcar que la inestabilidad política e institucional ha generado impactos negativos en el
+desarrollo de la ejecución del programa. En efecto, luego del lanzamiento de la operación en
+2013 y hasta su cierre en el en 2017, cinco ministros diferentes han pasado por el MCI con hojas
+de ruta y visiones diferentes que han motivado adaptaciones a la estrategia de instrumentación
+de la operación.
+b.       Relevancia del Diseño (Lógica vertical)
+El Proyecto fue diseñado respetando la estrategia de desarrollo del sector privado y el rol que el
+mismo tenía en dicha estrategia. Así, su lógica vertical buscaba responder a la generación de
+empleo en este sector (clave para lograr la sostenibilidad a mediano y largo plazo de la iniciativa)
+y a la creación y supervivencia de las empresas apoyadas (como un factor adicional a crear
+(mantener) el empleo ya sea bajo la forma de empleo propiamente dicho -rol de las PyMEs- o
+bajo la forma de generación de riqueza individual empresarial -rol de las microempresas-). Ambos
+factores, hacen al objetivo de romper el círculo vicioso que condena a las MiPyMEs haitianas a
+su supervivencia (sin lograr evolucionar a una etapa de desarrollo y crecimiento virtuosos).
+Por ello, la operación, a diferencia de la de Servicios de Apoyo Empresarial (HA-L1057), no
+buscaba movilizar la liquidez del sector financiero al asumir que, independientemente de los
+instrumentos existentes, este sector no apoyaría en ninguna circunstancia a esta parte de las
+MiPyMEs ya que su percepción de riesgo invalidaba siquiera su posible evaluación. En este
+sentido, se buscó que fueran las herramientas del Gobierno de Haití (a través del programa) las
+que pudieran crear y desarrollar este círculo virtuoso de generación de resultados positivos para
+lograr los ahorros que la capitalización de las MiPyMEs requería.
+Dado que existían dos niveles diferentes de conocimientos, aptitudes y habilidades para lograr
+ambos objetivos19 los componentes del programa definieron diferentes productos que requerían
+distintos niveles de inversión e intervención para lograrlos.
+Así, los productos definidos en cada componente fueron: (i) para el Acelerador de Empresas, la
+cantidad de empresas asistidas por la incubadora de empresas (con capital y asistencia técnica
+-permanente por 18 meses y puntual según las necesidades de cada plan de negocios; y (ii) para
+los EPC, los micro productores asistidos por el EPC y Talleres de capacitación realizados (en
+relación con la asistencia técnica de producción y de gestión que el administrador del EPC debía
+transmitirles) y las inversiones físicas (infraestructura y equipos) que se necesitaban para montar
+el EPC para que los micro productores pudieran desarrollar sus actividades a partir de la
+capacitación recibida y las órdenes de producción gestionadas. Esta lógica refleja el supuesto
+que, sin estas inversiones (lógica de la oferta a partir de la identificación de propuestas
+aceptables para ser apoyadas) no habría movilización alguna del sistema financiero para
+apoyarlas.
+19 Ver Pirámide de Desarrollo del Sector Privado.
+                                                   12
+"
+"A partir de estos elementos, el programa asume en su lógica vertical que, en ambos casos
+(acelerador y EPC), el apoyo brindado (infraestructura, equipos, capital y asistencia técnica
+permanente y puntual) construiría un círculo virtuoso para generar excedentes (utilidades por
+sobre las necesidades de explotación) sostenidos y sostenibles para lograr su reinversión y
+correspondiente capitalización.
+Así, se estructuran los resultados (efectos) que el Programa buscaba alcanzar, a saber:
+i) en el Acelerador,
+     a. Que las empresas asistidas estuvieran al día en el pago de las cuotas de capital aportado
+         por la IE. Este capital (cuya tasa original era de 0% reconociendo la necesidad de construir
+         el capital de la MiPyME a partir de la reinversión del surplus de utilidades) debía ser
+         devuelto en un plazo máximo de 5 años.
+     b. Que las empresas asistidas por la IE fueran evaluadas como elegibles para ser objeto de
+         financiamiento por los intermediarios financieros. Este indicador buscaba una doble lectura.
+         La primera, relacionada con la evaluación de la transferencia de las capacidades de gestión
+         necesarias para gerenciar la empresa y lograr la adecuada presentación de los planes de
+         negocio y propuestas de desarrollo necesarios para ser evaluado por una institución
+         financiera y la segunda, la capacidad de generación de resultados por encima de las tasas
+         de interés que éstos le podrían cobrar para financiarlos (validando así el concepto de
+         sostenibilidad de los resultados alcanzados).
+ii) en el EPC: La tasa de ahorro promedio anual generada por los micro productores del EPC
+     con respecto al capital mínimo necesario para reponer la capacidad productiva entregada al
+     inicio del Programa a los micro productores. Este indicador mide la relación entre las utilidades
+     generadas, en promedio, por año, por los micro productores del EPC y los costos derivados
+     de mantener intacta la capacidad productiva tanto del EPC como de las unidades individuales
+     asignadas a cada micro productor. La lógica de este supuesto es que el EPC no busca
+     utilidades (más allá de las necesarias para reponer su capacidad operativa y de gestión) y que
+     el resto se va asignando a cada micro productor en función de las actividades que cada uno
+     va haciendo y que redundan en su beneficio.
+iii) En conjunto: Las personas empleadas por la IE y el EPC. Como resultado de ambas
+     intervenciones, el supuesto es que las empresas asistidas por la IE como así también los micro
+     productores del EPC (ya sea dentro del mismo EPC o tomando la decisión de independizarse
+     y ser asistidos por el resto de instrumentos de la EDSP) incrementarán, en la medida que van
+     aumentando sus utilidades, no sólo la inversión en sus cuadros operativos y de gestión sino
+     que necesitarán incrementar su nómina para hacer frente al incremento de las demandas de
+     productos y servicios que les serían requeridos.
+La tercera etapa de la cadena causal tiene que ver con el impacto esperado de las inversiones
+realizadas y los resultados alcanzados. El programa lo diferenció en un objetivo general y en un
+objetivo específico, estrechamente relacionados.
+Así, se esperaba catalizar la aparición de una oferta adecuada, en la forma de tejido productivo
+sostenible20 que respondiera a la demanda derivada de las inversiones en curso de desarrollo,
+20   Se define al Tejido Productivo Sostenible (TPS) como el conjunto de recursos humanos y capital (bajo la forma de
+     inversiones en activos productivos) que, agrupados en función de sus propias capacidades empresariales y
+     gerenciales (como MiPyMEs o agrupaciones de micro productores en un EPC) y a través de un proceso de
+     formación y capacitación progresiva y sostenido, puede generar una corriente de beneficios sostenible que le
+     permite responder, en el mediano y largo plazo, a las demandas por bienes y servicios que el mercado les plantee
+                                                           13
+"
+"      con foco principal en el PCEN a partir de las iniciativas seleccionadas de las cadenas de valor
+      de agronegocios, turismo e industria para que pudieran mejorar sus capacidades de generación
+      de beneficios en forma sostenible.
+      Este impacto requería no sólo que el programa fuera exitoso, sino que, al mismo tiempo, se
+      dieran el resto de las condiciones que la estrategia general del Banco había acordado con el
+      Gobierno de Haití en potenciar el desarrollo del PCEN para validar el concepto de desarrollo
+      regional.
+      En función de los elementos desarrollados, la clasificación general de la relevancia del programa
+      se considera como satisfactoria ya que la lógica vertical se mantuvo a lo largo de la ejecución
+      del programa. Los aspectos que limitaron la adecuada obtención de los resultados esperados
+      fueron motivados por los cambios en la ejecución (tanto de la contraparte original como de los
+      medios, gestión e instrumentos involucrados) que se materializaron por una adaptación del
+      programa derivada de una decisión estratégica del Banco acordada con el Gobierno de Haití. En
+      la sección de efectividad se describen, de forma detallada, estas limitaciones.
+                                                             Tabla 1. Matriz de Resultados
+                                                  Elegibilidad + 60       Finalización Proyecto
+                          Aprobación21                                                                                 Descripción
+                                                        días                       (PCR)
+    Indicadores                         Fin                      Fin                          Fin
+                       Un     Línea             Un     Línea               Un       Línea
+                                         Pr                       Pr                           Pr
+                      Med     Base             Med     Base                Med       Base
+                                        (P)                      (P)                          (A)
+Objetivos del Programa
+General               Catalizar la aparición de una oferta adecuada, en la forma de tejido productivo sostenible, que responda a la demanda de
+                      las inversiones en curso de desarrollo, con foco principal en el PCEN.
+Específico            Apoyar el desarrollo de las iniciativas seleccionadas de las cadenas de valor de agronegocios, turismo e industria,
+                      principalmente relacionadas con el PCEN, para que puedan mejorar sus capacidades de generación de beneficios en forma
+                      sostenible
+   Resultados
+Personas              Cant.      0      300    Cant      0       300      Cant.         0     185    Indica la cantidad de personas que se
+                                         23
+empleadas por: i) la                             .                                           (158    emplearán como resultado de la instalación
+incubadora de                                                                                +27)*   de: i) las empresas apoyadas en forma
+empresas (IE); y de                                                                                  directa por la IE; y ii) los EPC.
+los (EPC)22                                                                                          *Por favor notar que en POD en la MdR
+                                                                                                     original este indicador era agregado y en
+                                                                                                     PMR para seguimiento se desagrego en 2
+                                                                                                     por lo cual acá se agrega el indicador 1
+                                                                                                     (empleo IE) con el indicador 5 (empleo EPC)
+                                                                                                     para comparar con la meta original
+                                                                                                     agregada de 300. Empleo IE era de 158, y
+                                                                                                     esto se suma al empleo de EPC de 27 para
+                                                                                                     un total de 185. El ratio en el PCR checklist
+                                                                                                     se toma sobre el agregado por consistencia
+                                                                                                     con MdR original y contraste con meta
+                                                                                                     original agregada.
+                                                                                                     Fuente: Informe de Avance del Programa /
+                                                                                                     OE
+Empresas al día en      %      N/A     100      %       N/A      100        %         N/A     25     Indica el grado de avance de la devolución
+los pagos de                                                                                         del capital recibido de la IE, a partir de la
+                                                                                                     rentabilidad obtenida por las empresas
+          y generar los suficientes excedentes para reinversión en sus recursos humanos y capital que permita su
+          permanencia en dicho mercado y posibilite, eventualmente, su adecuado crecimiento y desarrollo posteriores.
+      21  Por favor notar que estas metas concuerdan con las establecidas en la columna de “Fin de Proyecto” de la MdR
+          original como aparece en el POD, a pesar de que la MdR original también proyectaba las metas más allá del cierre.
+      22  Al comenzar la ejecución, este indicador se dividió en dos; uno para los empleos generados por el Acelerador y el
+          otro para los empleos generados por los Micro parques.
+      23  Por favor notar que estas metas concuerdan con las establecidas en la columna de “Fin de Proyecto” de la MdR
+          original como aparece en el POD, a pesar de que la MdR original también proyectaba las metas más allá del cierre.
+                                                                      14
+"
+"cuotas de capital                                                                          apoyadas por la IE independientemente de
+aportado por la IE                                                                         la cuantía del pago, es decir, mide se han
+                                                                                           pagado o no su cuota correspondiente.
+                                                                                           Fuente: Informe de Avance del Programa /
+                                                                                           OE
+Tasa de ahorro         %       0     50      %      0       50      %        0       0     Mide la relación entre el ahorro generado en
+promedio anual                                                                             promedio, por año, por los micro
+generado por los                                                                           productores del EPC y el capital mínimo
+microproductores                                                                           necesario para reponer la capacidad de
+del EPC con                                                                                producción originalmente aportada a los
+respecto al capital                                                                        micro productores en los EPC. (Horizonte: 5
+mínimo necesario                                                                           años de funcionamiento)24
+para reponer la                                                                            Fuente: Informe de Avance del Programa /
+capacidad                                                                                  OE
+productiva
+entregada al inicio
+del Programa a los
+microproductores
+Empresas               %       0     80      %      0       80      %        0       27    Mide el porcentaje de empresas que, siendo
+evaluadas como                                                                             tratadas por la IE, son evaluadas como
+elegibles para ser                                                                         elegibles por los intermediarios financieros
+objeto de                                                                                  (IFI) para financiación. Permite una doble
+financiamiento por                                                                         medición: i) la evaluación sobre la
+los intermediarios                                                                         transferencia de capacidades gerenciales,
+financieros                                                                                operativas y administrativas necesarias para
+                                                                                           presentar una propuesta de financiación a
+                                                                                           una IFI y así lograr la condición necesaria
+                                                                                           para ser evaluado; y ii) la relativa a la
+                                                                                           generación de beneficios por encima de las
+                                                                                           tasas de interés que las IFIs le cobrarían
+                                                                                           para otorgarle un préstamo lográndose así
+                                                                                           la condición suficiente de sostenibilidad25.
+                                                                                           Esta medición se podrá llevar a cabo en
+                                                                                           cualquiera de las instituciones que
+                                                                                           participan en el programa SIF-BDS lo cual
+                                                                                           asegura su factibilidad de instrumentación.
+                                                                                           La misma será parte del informe final que
+                                                                                           cada Program Manager deberá elaborar. En
+                                                                                           ambos casos, la medición se hace por
+                                                                                           medio de un tercero independiente que
+                                                                                           asegura la objetividad de la evaluación.
+                                                                                           Fuente: Informe de Avance del Programa /
+                                                                                           OE
+                 3.2     Efectividad
+       a.        Estado de los objetivos de desarrollo del Proyecto.
+       Como se ya se indicó en 3.1, Relevancia del Diseño, el proyecto se fue adaptando para reflejar,
+       en la práctica, la decisión estratégica del Banco de acompañar la construcción de un espacio
+       institucional a mediano y largo plazo en las contrapartes ejecutoras en todos los programas
+       desarrollados en el país.
+       Así, parte de las operaciones que estaban relacionadas con la EDSP y que fueran originalmente
+       concebidas para ser ejecutadas por el FDI, luego, a la luz de las dificultades con que se estaba
+       instalando el nuevo gobierno, el Banco, en acuerdo con el Gobierno de Haití y buscando reforzar
+       24 Los montos están relacionados con los equipos de uso particular y comunitario que entregará el Programa al EPC
+          para el desarrollo de sus actividades productivas.
+       25 Se utiliza para la comparación: (i) la rentabilidad promedio sobre el capital de la empresa (ROE); y (ii) la tasa
+          promedio de financiación del mercado basada en los instrumentos Productive Haiti (BDS+FIS). Una relación mayor
+          a uno entre el cociente de ambas tasas indica el cumplimiento de la segunda condición.
+                                                                 15
+"
+"estas capacidades, definió al MCI como la UE del programa con un primer alcance técnico y
+luego, a partir de las demoras mostradas por el MEF como ejecutor fiduciario, en su totalidad.
+Esto, requirió ajustar los recursos del MCI para potenciarlos en el marco de las nuevas tareas
+fiduciarias a desarrollar y el programa actuó en consecuencia tomando las correspondientes
+medidas de mitigación de riesgos a través de la incorporación de consultores con perfil fiduciario
+y el reforzamiento adicional de la coordinación general del programa de micro parques.
+La visión del MCI (más amplia en los criterios para la selección de los potenciales candidatos en
+el componente de la IE incluyendo dentro de estos términos los correspondientes a los montos
+prestables máximos y los tipos de empresas objeto del apoyo -en algunos casos más
+relacionadas con el objetivo de la operación HA-L1057 que con la presente-) termina adaptando
+las acciones planeadas para lograr la entrega de los productos definidos, aunque, debido a las
+limitaciones institucionales para instrumentar adecuadamente estas acciones, genera diferencias
+con respecto al logro de los resultados previstos en la matriz original26.
+El MCI también instrumentó una visión más amplia del concepto original de micro parques al
+delinear varias interpretaciones adicionales de este concepto (por ejemplo el permitir que se
+considere un micro parque a una instalación donde los microempresarios no son parte de la
+misma sino beneficiarios de sus acciones aunque con limitaciones en cuanto a su formación y el
+apoyo en capital y equipo para realizar sus tareas) las cuales, en algunos casos, se acercan más
+a un tratamiento tipo acelerador (préstamo a tasa blanda o cero y asistencia técnica subsidiada).
+Así, uno de los EPC apoyados se enrola en esta definición (Jus de Marmelade -JMSA-)27
+mientras que el otro, retiene las condiciones originales (Micro parque de cocineras de CODEVI).
+Cabe destacar que, en función de los montos asignados a los préstamos realizados por la IE (los
+cuales fueron superiores a los originalmente pensados) parte de las empresas en condiciones
+de recibirlos fueron atendidas por la operación HA-L1050, en el marco de su primera
+reformulación.28 En su conjunto, todo esto significó que los logros del proyecto fueron parciales,
+y la efectividad es Insatisfactoria como reflejada por los porcentajes de logro en los indicadores
+de resultado en el checklist del PCR.
+26 Ver Informe Final TNS al 31JUL2017. Este informe, si bien no tiene la rigurosidad de la evaluación de impacto
+   originalmente prevista, dados los cambios efectuados durante la evolución del programa, sirve como una suerte de
+   evaluación basada en la evidencia, para demostrar la pertinencia de los resultados alcanzados en relación con el
+   programa.
+27 También hubieron adaptaciones en el caso de JMSA, por ejemplo, se tiene un período de desarrollo en cuanto a
+   la aportación de las inversiones (equipamiento) que claramente excede el horizonte original pensado para la
+   evaluación del funcionamiento de los micro parques (se estimaba un máximo de 6 años a tal fin y el contrato para
+   la devolución del préstamo efectuado ha sido realizado a 15 años) y las condiciones financieras pactadas implican,
+   en la práctica, que la operación se parezca más a un leasing que a un préstamo directo.
+28 En este sentido, si estas empresas hubieran sido atendidas por esta operación, se hubieran alcanzado las metas
+   ajustadas al cierre del proyecto las cuales estaban por arriba de las presupuestadas originalmente.
+                                                         16
+"
+"b.              Resultados obtenidos
+                                                          Tabla 2. Matriz de Resultados Alcanzados
+                                                                                             Objetivo y
+                                                               Unid         Línea   Año                    %
+                   Resultado/Indicador                                                        Logros                 Medios de verificación
+                                                              Medida        Base    Base                 Logro
+                                                                                            Alcanzados
+ Personas empleadas a través del programa de Incubadora de Empresas (Acelerador)
+                                                                                           P        300
+ Personas empleadas por: i) la incubadora de empresas
+                                                               Cant.          0     2013   P(a)       90
+ (IE)
+                                                                                           A        158
+ Repago del préstamo de la Incubadora de Empresas (Acelerador)
+ Empresas al día en los pagos de cuotas de capital                                         P        100
+ aportado por la IE                                              %            0     2013   P(a)       60
+                                                                                           A          25
+ EPC mejora las tasas de ahorro de los beneficiarios
+ Tasa de ahorro promedio anual generado por los micro                                        P      100
+ productores del EPC con respecto al capital mínimo                                         P(a)      30
+                                                                 %            0     2013
+ necesario para reponer la capacidad productiva
+                                                                                             A         0
+ entregada al inicio del Programa a los micro productores
+ Beneficiarios apoyados por la Incubadora de Empresas (Acelerador) son elegibles para ser financiadas por otras fuentes
+                                                                                             P        80
+ Empresas evaluadas como elegibles para ser objeto de                                                 30
+                                                                 %            0     2013    P(a)
+ financiamiento por los intermediarios financieros
+                                                                                             A        27
+ Empleos creados a través de la instalación de Microparques
+                                                                                             P         0
+ Personas empleadas a través de la instalación de los
+                                                               Cant.          0     2015    P(a)    120
+ Micro parques (EPC)
+                                                                                             A        27
+                                                                                             Objetivo y
+                                                               Unid         Línea   Año                    %
+                         Productos                                                            Logros                 Medios de verificación
+                                                              Medida        Base    Base                 Logro
+                                                                                            Alcanzados
+                                                                                           P          10
+ Empresas asistidas por el Acelerador                          Cant.          0     2013 P(a)         22
+                                                                                           A          12
+                                                                                           P           1
+ Microparques construidos y funcionando                        Cant.          0     2015 P(a)          2
+                                                                                           A           1
+Where: P = Start-Up Plan; P (a) = Revised Annual Target; A = Actual.
+                                                                               17
+"
+"    Se generó un cambio entre la matriz original de productos de la operación y la que luego se
+    incorporó en el PMR. La matriz original definía, como indicadores de producto en lo relativo
+    a micro parques (Espacios Productivos Conjuntos (EPC)) a una desagregación estimada
+    de los componentes tentativos de un EPC estándar incluyendo, básicamente, el detalle de
+    los elementos de infraestructura general y de servicios que se pensaba tendría cualquiera de
+    estas iniciativas. La diversidad de posibilidades que surgieron como consecuencia de los
+    intercambios mantenidos con la contraparte y que luego se materializaron en la práctica,
+    requirió un cambio de mayor pragmatismo para definir a un EPC como una unidad de negocio
+    conjunta que podía requerir todo o parte de la infraestructura general y de servicios definida
+    en la matriz original y cuyo elemento clave era tenerlo construido (o equipado) y en
+    funcionamiento. Así se reflejó, posteriormente, en el PMR.
+    Adicionalmente se estimó que sería posible construir (equipar) dos EPCs en lugar de 1
+    (originalmente previsto en la matriz de resultado).
+    Cabe destacar que el indicador de resultado correspondiente a la cantidad de personas
+    empleadas se presenta agregado en el PCR (para compararlo con la MDR original) pero en
+    este cuadro (que refleja al PMR) se ha separado en el correspondiente a: (i) la incubadora
+    de empresas (IE); y (ii) los Espacios Productivos Conjuntos (EPC)29.
+    Por favor notar que la meta de 300 era inclusiva del empleo de IE y del empleo de EPC (180
+    de IE y 120 de EPC) como aparece agregado en MdR original.
+29 En este sentido, se han hecho todos los cálculos correspondientes a la puntuación y determinación de calificación
+   de la operación de acuerdo con las guías de desarrollo de PCRs.
+                                                         18
+"
+"c.            Análisis Contrafactual
+Dadas las condiciones de desarrollo de la operación y los retrasos operados, no fue posible
+realizar una evaluación de impacto en los términos originalmente previstos. No obstante,
+Technoserve (TNS) realizó, en oportunidad de preparar su informe final y en acuerdo con la UEP,
+un estudio30 para verificar el estado de situación de los apoyos realizados en el marco del
+Acelerador.
+En el mismo, se visitaron 33 empresas cuyas demandas de financiación (planes de negocios)
+estaban aprobadas a través de la revisión de TNS (si bien de éstas, 27 no habían recibido aún
+financiación a la fecha del estudio). Cabe destacar que, del total de las 33, 25 han conseguido
+financiación posterior (12 por la presente operación y 13 por la operación 2416/GR-HA
+(HA-L1050 primera reformulación)).
+A través de los elementos desarrollados en este estudio, se valida la pertinencia de los resultados
+alcanzados por el proyecto, ya que si el mismo no hubiera sido desarrollado (aún con las
+limitaciones y adaptaciones indicadas) ninguna de estas iniciativas hubiera tenido lugar ya que
+los empresarios apoyados por la IE, consultados por TNS, han manifestado claramente que el
+programa constituía una oportunidad única e inexistente para ellos ya que, en ningún caso,
+hubieran podido acceder a financiamiento por parte del sistema financiero31. De hecho, el
+100% (6 empresas) que ya habían recibido apoyo financiero al momento de la visita estuvieron
+de acuerdo con esta apreciación y 9 de los 27 restantes también validaron esta premisa. El resto,
+si bien de acuerdo con que era una oportunidad importante para lograr acceder a financiación,
+dado el tiempo transcurrido y las experiencias vividas, prefería convalidar esta situación una vez
+les fuera asignado el crédito32.
+Esta evidencia empírica (basada en el reporte de TNS) que, valida los supuestos de intervención
+definidos en el diseño del programa, se alinea con diferentes evaluaciones sistémicas globales
+que han verificado que el crédito al sector privado MiPyME no ha tenido un incremento importante
+en el sistema en su conjunto motivado por distintos factores de carácter estructural33.
+En particular, cabe destacar que, en el mercado financiero haitiano, el crédito interno es bajo y
+unos pocos prestatarios representan un nivel significativo del mercado de crédito, lo cual refleja
+la falta de información en la credibilidad del sistema y las dificultades para el cobro de deudas,
+sumado al hecho que los spreads de crédito son altos, aunque los clientes top pueden acceder
+en mejores términos. También, es de notar que la concentración del crédito se da,
+fundamentalmente, en el comercio seguido del sector inmobiliario, quedando una asignación de
+sólo el 15% para la industria y prácticamente ninguna asistencia del sector formal financiero para
+30 Ver Informe Final TNS al 31JUL2017.
+31 100% de las empresas visitadas que ya contaban con financiamiento validaron este concepto (6 empresas de 6 ya
+   financiadas), del total de las que seguían en proceso de postular por el financiamiento, 9 adicionales lo validaron
+   para un total de 45% de las empresas visitadas que lo validaron (15 sobre un total de 33) han validado este
+   concepto. Las otras (18 de 33), abstuvieron de responder hasta poder concluir con el proceso de financiación.
+32 Lamentablemente, no hubo posibilidad de llevar a cabo un seguimiento a quienes habían sido ya atendidos con
+   posterioridad a la primera visita.
+33 Ver Anexo IV. Capítulo IV: Resultados en el desarrollo del sector privado del grupo BID. Informe de Evaluación del
+   Programa de País (OVE, Julio 2016). En particular, 1.15 – The development of Haiti’s private sector is also
+   constrained by significant limitations in terms of access to finance y 1.16 Limitations in access to finance are
+   explained mainly by the high levels of informality in the economy, the scarcity of financial information on the
+   borrowers and the weakness of the instruments to mitigate credit risk.
+                                                         19
+"
+"el sector de agricultura, tal cual se deriva del informe del FMI relativo a Política Monetaria e
+Intermediación Financiera de mayo de 20153435.
+En función de lo desarrollado, el equipo considera que los resultados parciales alcanzados son
+atribuibles al proyecto.
+Uno de los resultados no fue alcanzado (Tasa de ahorro promedio anual generado por los micro
+productores del EPC) ya que la instrumentación del micro parque de Jus de Marmalade se basó
+en una interpretación distinta a la concepción original de un micro parque en el diseño de la
+operación y, por lo tanto, los micro productores no recibieron ningún tipo de equipo o formación
+cuyo valor debería ser repuesto como resultado de sus acciones.
+En el resto de los casos (y sobre todo en relación con las empresas apoyadas por el Acelerador),
+los resultados alcanzados fueron parciales debido a varios motivos. Entre ellos, destaca que los
+cambios constantes durante la ejecución de la operación en el seno del organismo ejecutor han
+motivado problemas en la comunicación hacia los beneficiarios, tiempos de tratamiento de los
+dossiers demasiado largos y apoyo de consultores, en muchos casos, no acordes con las
+expectativas y necesidades36.
+Los puntos anteriores, no obstante, son producto de temas de mayor profundidad estructural
+tales como la cultura de financiación (orientada a la persona y su conocimiento por parte de los
+intermediarios financieros y la desconfianza existente en cuanto al repago), la baja y volátil
+constitución y funcionamiento de sus instituciones (y en particular del MCI que, a la sazón, fue el
+ejecutor principal del proyecto) y el contexto post-terremoto y la falta de coordinación entre la
+contraparte gubernamental y la ayuda internacional que no logró desarrollar adecuadamente
+todas las iniciativas discutidas y planificadas obligando a una reprogramación permanente de las
+estrategias y operaciones asociadas a las mismas.
+En función de los parámetros establecidos en las guías del BID y considerando la parcialidad de
+los resultados logrados, la efectividad del proyecto da insatisfactoria. No obstante, los logros
+parciales alcanzados se consideran atribuibles al proyecto en el contexto haitiano donde la
+escasez de financiamiento en un contexto post-terremoto era una gran limitante al desarrollo del
+sector privado tal como ha sido expuesto.
+d.       Resultados no anticipados
+No se han evidenciado resultados diferentes a los buscados por el programa.
+34 International Monetary Fund (IMF) Haiti. Selected Issues (June 2015). En particular, cabe notar que solo existían,
+   a diciembre de 2014, un total de 100.000 créditos sobre un total de 10.000.000 de personas y que la mayoría de
+   los bancos concentraba el 40% de su crédito en los 10-15 clientes más importantes. Para todo el sistema, los 100
+   principales deudores concentraban el 50% del total de los créditos.
+35 Haiti ocupaba el último lugar en el mundo en la práctica relativa a la resolución de impagos de acuerdo con los
+   rankings del Banco Mundial (Doing Business). Esta incapacidad para cobrar las deudas explica por qué el crédito
+   está concentrado en unos pocos clientes importantes dado que el contacto personal cercano y directo ayuda a
+   lograr el repago.
+36 En la encuesta, 75% manifestaron la falta de comunicación del MCI, 85% la extrema duración de las evaluaciones
+   de propuestas y sólo el 36% consideró a los consultores como competentes, aunque cabe destacar que, en muchos
+   casos, se reconoce que su actuación se vio limitada por la falta de pago en los tiempos adecuados por parte del
+   MCI (ver 4.2 para mayor detalle).
+                                                         20
+"
+" 3.3                        Eficiencia
+El análisis de eficiencia ex-post del programa se basa en el uso de la metodología CTOA (por
+sus siglas en inglés) que realiza un análisis de sobrecostos y sobretiempos utilizando los
+indicadores del PMR.
+El Proyecto fue clasificado como “Satisfactorio” en sus indicadores de eficiencia -Schedule
+Performance Index (SPI) y Cost Performance Index (CPI) dentro del último PMR del programa
+(2do período 2017). Los índices SPI y CPI miden si un proyecto tuvo sobre tiempos y sobre
+costos, respectivamente. Se consideran como satisfactorios, valores promedio del índice entre
+0.8 y 2. Para los años de ejecución del proyecto, los valores de los índices CPI y SPI fueron 1.40
+y 0.99 respectivamente, conformando un índice sintético (SI) de 2.88 el cual también se considera
+como Satisfactorio (tomando como referencia un valor límite de 2.5).
+Por ende, se cataloga a la eficiencia del programa como parcialmente-no-satisfactoria.
+Cuadro Evolución Anual CPI y SPI
+  3.
+ 2.5
+  2.
+                                                                            CPI(a) - Cost Performance
+ 1.5                                                                        Index (annual)
+                                                                            SPI(a) - Schedule
+  1.
+                                                                            Performance Index (annual)
+ 0.5
+  0.
+                            2013         2015        2016        2017
+También el avance financiero de la operación se ha clasificado como Satisfactorio y el programa
+se ha desempeñado, en este aspecto, y con referencia a los desembolsos históricos del país,
+también en forma satisfactoria.
+                     1.5
+                                                1.
+   Prop. Desembol.
+                       1.            0.670.71
+                                                                                        Problem
+                     0.5      0.130.19
+                                                                                        Alert
+                       0.
+                                                                                        Country Level
+                     -0.5                                                               Operation
+                            0 12 24 36 48 60 72 84 96 108120132144156168180192
+                                          Meses desde la Aprobación
+                                                            21
+"
+"Tabla 3. Productos y Costos del Proyecto
+                   22
+"
+"3.4       Sostenibilidad
+a.        Aspectos generales de sostenibilidad
+La matriz de riesgos de la operación clasificaba al programa con riesgo entre moderado a bajo a
+partir de la calificación de sus diferentes tipos de riesgo. En particular, los riesgos de Desarrollo
+y de Gestión Pública y Gobernabilidad fueron calificados como bajos (sólo uno, el
+correspondiente a la salida de micro productores seleccionados por el gestor del EPC se
+consideraba medio) y, en todos los casos, se previeron acciones de mitigación adecuadas a los
+riesgos definidos. Tanto los riesgos reputacionales como aquellos relacionados con los aspectos
+ambientales y sociales y también los fiduciarios, se reconocían como bajos en todos los aspectos.
+Ha sido evidente que los factores de riesgo asociados con la Gestión y Gobernabilidad, se
+incrementaron sustancialmente con respecto a su evaluación inicial en el marco de una
+comprensión limitada de las características particulares no sólo del impacto que el terremoto
+generó en la institucionalidad haitiana y en sus cuadros de gestión, sino también en las
+decisiones estratégicas que, apoyadas por el Banco como soporte a la frágil construcción
+institucional del país, no lograron vislumbrar la verdadera dimensión del desafío a encarar.
+Así, las medidas adoptadas por el Banco para potenciar la construcción de institucionalidad en
+la contraparte ejecutora no lograron cambiar la óptica de intervención cortoplacista orientada a
+la demostración rápida de resultados por parte de los responsables a cargo de la ejecución del
+programa en el MCI y lograr instalar, en cambio, la necesidad de construir un espacio de
+desarrollo del sector MiPyME sostenible a mediano y largo plazo.
+En este sentido, la operación se adaptó para reconocer y plasmar la visión del MCI sobre las
+definiciones que, según su estrategia y entendimiento, eran las necesarias para el desarrollo de
+las MiPyMEs.
+Así, en el marco de la IE, el MCI, sin dejar de lado el concepto base sobre la necesidad de apoyo
+técnico y financiero para este sector redefine parte de los criterios establecidos para la selección
+y establece nuevas condiciones de otorgamiento de las líneas de crédito admitiendo a candidatos
+que podrían haber sido asistidos más por la operación HA-L1057 y el FIS que por el programa37.
+La revisión final del programa ha mostrado que, a la luz de los resultados obtenidos, si bien se
+han alcanzado parte de las metas previstas, éstas no serían posibles de replicar ni de considerar
+como exitosas en el mediano y largo plazo ya que no lograrían, en la práctica, la construcción
+del espacio virtuoso buscado38 debido a los problemas de institucionalidad comentados y la
+dinámica de funcionamiento de las instituciones gubernamentales haitianas (y en particular del
+MCI) en un contexto político volátil y complicado al cual se suma el contexto económico negativo
+y la falta de crecimiento económico posterior al primer impulso luego del terremoto39. También
+37 En realidad, el programa termina siendo utilizado como una suerte de fusión intermedia entre ambos programas
+   reconociendo la incapacidad del HA-L1057 en dar respuesta, fundamentalmente por la falta de fondos disponibles
+   a partir de la demora en la instrumentación efectiva del FIS, a las necesidades planteadas, oportunamente, por
+   este sector de las MiPyMEs identificado en la estrategia original.
+38 De acuerdo con el Informe Final de TNS, varias empresas no han utilizado los fondos para los objetivos solicitados
+   ya sea por ser insuficientes debido a que las condiciones macroeconómicas del país afectaron lo originalmente
+   pedido en función de los tiempos tomados para la aprobación de las propuestas (más de 1 año) y algunas los han
+   utilizado para rubros originalmente no previstos en la iniciativa (comercio).
+39 Más allá de la relativa situación estable en los últimos años, Haiti continúa siendo uno de los países con baja
+   percepción de estabilidad política no sólo a nivel regional sino también a nivel internacional (se ubica 178 entre 213
+                                                            23
+"
+"contribuyen a limitar la sostenibilidad de los logros alcanzados, la alta morosidad por parte de
+algunas empresas participantes que, al mismo tiempo, no han recibido el apoyo técnico previsto
+originalmente en el programa a los efectos de acompañar el desarrollo de su gestión.
+Otro de los temas que también afecta a la sostenibilidad (a partir de una interpretación y uso
+global por parte de la contraparte pública de los distintos instrumentos de la EDSP) es la reacción
+del sector privado financiero con respecto al programa que, si bien no definía a este como parte
+de su desarrollo (de hecho, su actuación se preveía una vez que el mismo pudiera demostrar
+sus resultados) la utilización temprana de una parte de los intermediarios financieros no
+bancarios40, demostró que, en la práctica, la movilización de este sector y, por extensión, la del
+sector bancario, requeriría una intervención con un foco distinto para lograr su participación y el
+cambio en la forma en que se toman las decisiones de financiación41.
+Adicionalmente, y durante toda la vida del programa, el resto de las intervenciones previstas por
+el Banco para dinamizar y generar la demanda de bienes y servicios en el PCEN, en el mejor de
+los casos, ha avanzado de manera muy lenta y con variados problemas de instrumentación42.
+En función de lo anterior, se considera que este piloto, si bien ha logrado algunos resultados
+positivos atribuibles a su intervención43, no es sostenible de manera independiente y por lo tanto
+su clasificación es insatisfactoria en las condiciones en las cuales se ejecutó. Esta situación se
+da, fundamentalmente, por las dificultades no resueltas en cuanto a la capacidad para la gestión
+de su contraparte ejecutora y la existencia de condiciones de volatilidad política e institucional
+que generan una situación de alta complejidad para la toma de decisiones orientadas a resolver
+la problemática del sector MiPyME en el mediano y largo plazo.
+b.          Salvaguardas ambientales y sociales
+Desde la óptica del control de las salvaguardas ambientales y sociales, tanto el MCI como las
+instituciones financieras no bancarias participantes no han realizado un adecuado seguimiento
+   países en 2010 y 178 entre 207 en 2014 según el Worlwide Governance Indicator -WB 2015-). Prueba de ello ha
+   sido el cambio de al menos 3 ministros en un período de 4 años en el MCI. La evolución del PBI (en dólares a
+   precios actuales) muestra, a partir del año 2010, la siguiente evolución: 2011 (+13.50%); 2012 (+4.96%);2013
+   (+7.14%);2014 (+3.82%);2015 (-0.58%);2016 (-8.64%). Fuente: https://datos.bancomundial.org/pais/haiti .
+40 La selección de las propuestas a financiar (siguiendo los lineamientos técnicos de ser revisado cada candidato en
+   forma previa por TNS) la termina haciendo una institución financiera intermedia no bancaria que sólo funcionó,
+   como un revisor financiero de los planes de negocio presentados ya que los fondos prestados pertenecen al
+   programa y no son complementados por los de la institución participante.
+41 El otorgamiento de crédito en el sistema financiero haitiano se basa en el conocimiento personal de quien lo solicita
+   (extendido a su familia) y en los colaterales que pueda aportar. La intención de cambiar este percepción a través
+   de las herramientas de la estrategia diseñada, a la luz de las lecciones aprendidas, demuestra que el foco de
+   intervención debe partir de una comprensión distinta de los supuestos con que se ha intentado resolver este
+   problema teniendo en cuenta la verdadera dimensión del problema identificado (que pasa por una percepción de
+   riesgo extrema y limitada al conocimiento personal que invalida cualquier otro elemento que pueda servir, de
+   manera formal, para la evaluación de un negocio).
+42 Ver Evaluación de la Estrategia de País 2011-2015. En particular, el Parque Industrial de Caracol (PIC), pensado
+   como la inversión ancla más importante para potenciar el desarrollo de la zona, no ha logrado, hasta la fecha,
+   alcanzar las expectativas previstas en tal sentido (se esperaban cifras de empleo directo de 53.000 personas más
+   40.000 adicionales de manera indirecta para el año 2020 cuando en la actualidad cuenta con 8.200 personas
+   trabajando de manera efectiva perteneciendo, más de 7.500 a una sola empresa que se beneficia de condiciones
+   altamente blandas para el uso de las instalaciones y exporta su producción en el marco de la Ley HOPE II -
+   beneficios impositivos para productos haitianos en el mercado de USA- por un período máximo de 10 años).
+43 Cabe destacar que estos resultados han sido logrados manteniendo la óptica de intervención del programa desde
+   la demanda a partir de la difusión del programa y de la recepción de las propuestas de apoyo y financiación
+   presentadas por los potenciales beneficiarios que han sido objeto de revisión, clasificación, apoyo y seguimiento
+   hasta las instancias de otorgamiento crediticio.
+                                                           24
+"
+"de la utilización de los fondos prestados (en particular en la IE) y se han podido observar algunos
+temas asociados a prácticas que podrían ser mejoradas si hubiera una verdadera intención de
+seguimiento al respecto44.
+Adicionalmente, cabe destacar la insuficiente capacidad del MCI para el manejo de temas
+ambientales y sociales, así como la ausencia de un sistema de gestión ambiental y social para
+manejar los subproyectos bajo el programa45.
+IV.       CRITERIOS NO CENTRALES
+4.1       Actuación del Banco
+El Banco, en el marco de su estrategia de empoderar y potenciar la institucionalidad del Gobierno
+de Haití y sus dependencias, pasó la ejecución del programa del FDI a los ministerios
+responsables (en principio el MEF y el MCI) para luego apoyar la solicitud del Gobierno de Haití
+de concentrar la totalidad de la ejecución en el MCI. Al mismo tiempo, apoyó con recursos de la
+operación y con recursos generales de sectores transversales, la generación y refuerzo de la
+capacidad de ejecución de los ministerios involucrados los cuales, debido a los problemas
+identificados, no fueron suficientes para lograr la adecuada ejecución del programa.
+4.2       Actuación del Prestatario
+Independientemente de los problemas generales derivados del sismo del año 2010, el programa
+ha tenido problemas de ejecución a partir de varios factores, entre ellos:
+i) Institucionales: relacionados con la coordinación intra e interinstitucional;
+ii) Operativos:
+     a. que todas las decisiones de aprobación de contrataciones y pagos pasan necesariamente
+          por la cabeza al frente del ministerio y;
+     b. que esa figura haya cambiado varias veces a lo largo de toda la ejecución del programa.
+Estos, han generado problemas en el adecuado desenvolvimiento de la operación (a partir de
+temas tales como el atraso del pago de consultorías contratadas en algunos casos por meses
+por falta de la autorización personal ministerial o aprobaciones y autorizaciones para realizar
+distintos tipos de actividades)46.
+También, la comunicación de los alcances del programa ha sido uno de los temas que ha
+impactado negativamente en su ejecución y, fundamentalmente, en la comprensión de este por
+parte de sus beneficiarios finales (a pesar de las medidas previstas para su adecuada difusión y
+las tomadas adicionalmente para ponerlo en conocimiento de las distintas regiones). Esto
+también ha sido el resultado de las diferentes visiones que cada ministro ha intentado aplicar, en
+su gestión ministerial, para adaptarlo a su programa de intervención.
+44  Ver Informe Final Technoserve 31JUL 2017.
+45  Estas deficiencias dieron como resultado incumplimientos relacionados con: (i) desplazamiento económico de cinco
+    agricultores sin un previo plan adecuado de restauración de medios de vida y; (ii) supervisión inadecuada por parte
+    de la agencia ejecutora de aspectos socioambientales.
+46  La percepción de la eficiencia del gobierno se clasifica como baja a nivel regional e internacional (se ubica 207
+    entre 209 países en el año 2014 según el Worlwide Governance Indicator -WB 2015-)
+                                                           25
+"
+"V.    HALLAZGOS Y RECOMENDACIONES
+5.1      Dimensiones 1 a 5
+La evaluación llevada a cabo por TNS en su informe final,47 sobre una muestra de empresas
+beneficiarias del acelerador, ha mostrado que la intervención realizada, si bien responde al
+diagnóstico realizado, no ha podido alcanzar, en su instrumentación, los beneficios esperados
+de una manera sostenible y por lo tanto de manera efectiva. A partir de los efectos observados,
+se han podido identificar varios hallazgos que permiten recolectar la información que se buscaba
+obtener, del piloto, para futuras intervenciones. Esto, a su vez, permite pensar en otras
+alternativas y descartar la escalabilidad de la propuesta evaluada en las condiciones
+desarrolladas.
+Dimensión 1: Técnica-Sectorial
+Desde lo técnico, la operación fue afectada por la limitada capacidad, en la práctica, de los
+recursos técnicos necesarios para servir como apoyo a la instrumentación del acelerador
+(aunque en algunos casos, esto se vio potenciado por la falta de pago a tiempo por parte del OE
+debido a su propia dinámica procedural interna).
+Otro tema clave, que ha sido desarrollado en los distintos capítulos del PCR, ha sido que el OE
+de la operación (MCI) ha tratado de rediseñar la operación (de manera diferente en cada cambio
+de administración) para adaptarla a su propia visión de intervención, lo que ha derivado en una
+constante dificultad para avanzar de acuerdo con el diseño original (que buscaba lograr un vector
+de cambio estructural en el sector de MiPyMEs a mediano y largo plazo) para convertirlo en una
+solución, en la práctica, sólo de corto plazo.
+Esta situación se vio particularmente reforzada por la constante rotación de consultores de corto
+plazo en el marco de la ejecución de la operación planteada tanto en términos del OE como así
+también en el marco de la Inter coordinación con los responsables del monitoreo y supervisión.
+Dimensión 2: Organizacional y de gerenciamiento
+Uno de los temas que más impactan en la sostenibilidad del proyecto, ha sido el cambio del OE
+del diseño original. Si bien se tomaron medidas de mitigación para enfrentar este riesgo, las
+mismas no pudieron contener el impacto que la débil institucionalidad de la contraparte (sumada
+a temas de coordinación interministerial) tuvo en la ejecución del programa.
+En la práctica, el hecho que el OE requiera en forma permanente de apoyo externo para la
+ejecución (con una limitada participación de la estructura de planta permanente gubernamental)
+hace que quienes están a cargo del proyecto tengan una visión acotada de las tareas a realizar
+ya que: (i) sus incentivos están inversamente alineados con una ejecución efectiva; y
+(ii) dependen necesariamente del mandato impartido por la autoridad (ministro y colaboradores)
+que solicitan su contratación. Ambas situaciones se ven afectadas, al mismo tiempo, por la
+dinámica de rotación del titular de la cartera.
+Otro tema que se ha podido evidenciar (y que excedió las expectativas originales) es que las
+relaciones interministeriales, en el caso específico de la operación, no han funcionado y se tuvo
+que forzar el cambio de OE (concentrándolo en un solo ministerio) para lograr cumplir las
+47  TNS. Informe Final. 31 JUL 2017.
+                                                26
+"
+"condiciones previas al primer desembolso. Esto también se ha evidenciado en el hecho que el
+propio MCI solicitó que el Comité Director del proyecto fuera dejado de lado para concentrar
+todas las decisiones en el MCI (aduciendo problemas de coordinación interministerial y lentitud
+para el logro de acuerdos).
+Dimensión 3: Actores y procesos públicos
+Como ya se ha comentado, el MCI ha tenido varios cambios de ministros durante la operación lo
+cual, por las características de los procedimientos de aprobación gubernamentales haitianos, el
+carácter personal de las administraciones y el desafío político y social que las mismas implican
+en su relacionamiento, la han demorado y limitado en su desarrollo normal. Adicionalmente,
+también se han operado disidencias en cuanto a los alcances e instrumentación del proyecto en
+el equipo de colaboradores directos de cada ministro lo cual ha derivado en cambios constantes
+de consultores de apoyo para su correspondiente ejecución.
+Por otro lado, esta dinámica de actuación del OE no benefició a las acciones de comunicación
+efectiva del programa más allá de aquellas iniciativas que pudieran estar asociadas a lograr una
+visibilidad en la actuación del ministerio y los responsables del programa. De hecho, esto ha sido
+parte del motivo de la falta de sostenibilidad de los resultados obtenidos (hecho remarcado por
+los empresarios entrevistados por la TNS).
+Otro tema que se ha podido constatar es la falta de interés por parte del sistema de
+intermediación financiera de participar, asumiendo riesgos, en el financiamiento de las empresas
+objetivo del proyecto. Como ya se ha comentado, si bien no era la intención original del diseño,
+el OE decidió su participación para apoyar la interacción entre el programa y el sector financiero
+y así lograr una mejor sinergia y complementariedad en el control en concomitancia con la
+coordinación general del proyecto. No obstante, la revisión efectuada por TNS mostró que los
+empresarios no sólo no obtuvieron apoyo efectivo por parte de las instituciones intervinientes,
+sino que, a las mismas, sólo les interesaba la devolución de los importes prestados por encima
+del destino de la utilización de estos.
+Dimensión 4: Fiduciaria
+Un punto clave detectado es que el hecho que todas las decisiones deban pasar
+indefectiblemente por el ministro del sector (aprobaciones de contrataciones y pagos) hacen que:
+(i) exista un cuello de botella claro que ralentiza cada acción; y (ii) este se potencie ante
+situaciones de cambios permanentes en el titular de la cartera (tal el caso del MCI).
+Lo anterior hace que, en ocasiones, y a los efectos de compensar las demoras operadas por los
+procesos internos de la contraparte, se le soliciten al Banco no objeciones aceleradas en
+procesos que, por sus características y dado el riesgo reputacional que podrían involucrar,
+requieren un análisis y evaluación adecuados. Esta situación, también afecta el normal avance
+de la operación (ya sea sustentando adecuadamente las intervenciones que se aprueban o
+tratando de explicar por qué no se puede avanzar en el sentido solicitado).
+Dimensión 5: Administración de riesgos
+La inclusión de una firma técnica especializada (Technoserve) resultó, a lo largo de la ejecución,
+un acierto en el diseño de la operación al permitir contar con un tercero independiente que pudo
+aportar, desde su trabajo, la necesaria objetividad en relación con las acciones tomadas.
+                                                   27
+"
+"Por otro lado, la estructura diseñada para avalar la decisión del Banco de apoyar la construcción
+de institucionalidad y el correspondiente fortalecimiento de sus actores intervinientes (el MEF Y
+el MCI) no sólo no pudo lograr su objetivo (dar un balance técnico – fiduciario a la ejecución) sino
+que constituyó uno de los problemas más importantes para lograr avanzar. De hecho, sólo
+cuando se pudieron consolidar las acciones fiduciarias y técnicas en un solo ministerio (el MCI)
+se pudieron aprobar las condiciones contractuales previas al primer desembolso.
+La creación del Comité Director (pensado para balancear las decisiones estratégicas y responder
+al equilibrio de decisiones entre el MEF y el MCI) corrió la misma suerte. En ambos casos, se
+asumió que ambos ministerios buscarían un trabajo conjunto coordinado y positivo para lograr
+superar las limitaciones del sector MiPyME diagnosticadas, pero, en la práctica, esto no pasó.
+Tampoco se evaluaron adecuadamente las limitaciones que implican, en la práctica, que los
+procedimientos gubernamentales sólo autoricen al ministro a aprobar las contrataciones y pagos
+correspondientes. Esto también ha sido un factor que, en el marco de los cambios políticos
+sucedidos en el programa, lo han afectado negativamente y también han generado un incremento
+en los riesgos fiduciarios y de reputación de la operación48.
+Conclusiones y recomendaciones
+Como lección aprendida, es necesario entender que, los cambios estructurales necesarios para
+impactar en el sector privado deben partir de pequeñas intervenciones lideradas por instituciones
+que no estén sujetas a la volatilidad de la dinámica política e institucional del Gobierno de Haití
+ya que esta situación afecta sustancialmente la capacidad de ejecución de la operación.
+También es importante notar que, a diferencia de lo pensado en la EDSP, el sistema financiero
+haitiano no ha mostrado, en el conjunto de las operaciones de la estrategia, apetito alguno por
+cambiar las condiciones existentes y se ha mantenido apegado a los usos y costumbres que
+sigue para el otorgamiento de crédito. En este sentido, priman para el otorgamiento de créditos
+características relacionadas más con préstamos de tipo personal (sin una identificación final del
+destino de los fondos) que aquellas relacionadas con la evaluación de las informaciones
+derivadas de la operativa y dinámica empresarial, debido al alto nivel de percepción de riesgo
+que tiene todo el sistema en su conjunto.
+Si bien ambos temas eran conocidos al momento del diseño de la operación, la misma tenía por
+objetivo cambiar ese estado de situación. En el primer caso, se buscó al FDI para tratar de
+aligerar los temas de burocracia gubernamental y conocimiento técnico y comercial del sector
+MiPyME y, en el segundo, se buscaron intervenciones que pudieran mejorar las condiciones de
+percepción de riesgo de los potenciales demandantes de crédito ante el sistema financiero. Por
+eso la operación buscaba instrumentar dos elementos claves al respecto: (i) una mejor
+capitalización (vía mejores resultados sostenibles en el tiempo que permitieran la generación de
+ahorros); y (ii) un mejor nivel de información para la evaluación (a través de una mejor gerencia
+y sistemas de producción de información acordes en tal sentido).
+Así, y complementando lo indicado en el primer párrafo, dicha intervención, además, tendría que
+poder empoderar y fortalecer a una cadena de valor para que sea la empresa que la lidere la
+que, a través de su relación normal con el sistema financiero, “presente” y “garantice” a los
+nuevos potenciales clientes de la institución financiera para que ésta comparta y mantenga sus
+48 La dilación en el pago a consultores por parte de los fondos anticipados al MCI tuvo que ser resuelta, en algunos
+   casos, con pagos directos a proveedores para evitar posibles impactos negativos relacionados con reclamos.
+                                                          28
+"
+"valores culturales (al mismo tiempo que desarrolla herramientas para validar su actuación con
+los nodos de la cadena).
+Tal vez la intervención que le cabe en estas intervenciones al Gobierno de Haití sea la de definir
+la priorización de cadenas de valor que más aporten a los objetivos estratégicos de desarrollo
+del país, pero sólo hasta ese punto. Su elección debería estar validada por una institución
+financiera que, en esencia, complemente los fondos para el desarrollo de los nodos de la cadena
+(las MiPyMEs) aportando el riesgo necesario con sus fondos a partir del conocimiento de la
+contraparte privada que lidere y se haga responsable, adecuadamente, de la misma (cuyo riesgo
+principal debería estar aceptado y gerenciado por la empresa líder de la cadena).
+Así, lograda una intervención exitosa, ésta serviría de laboratorio para el desarrollo de nuevas
+cadenas de valor en pares Ancla-IFI con el apetito y la responsabilidad de lograr el desarrollo de
+sus nodos. En este esquema, todos los elementos diseñados en la EDSP (el acelerador, micro
+parques, sistemas de apoyo empresarial, FIS) se convierten en instrumentos disponibles y
+posibles de usar en el grado que, el líder de la cadena esté dispuesto a utilizarlos de acuerdo
+con la estrategia de desarrollo planteada y el nivel de riesgo que, para tal fin, este dispuesto a
+utilizar49.
+49  Un proxy de este tipo de intervención sugerida es el ¨Programa Piloto de Apoyo a Cadenas Productivas”
+    (Reformulación 2 HA-G1050 y HA-G1022) pero concentrando su ejecución bajo la forma de un fideicomiso
+    administrado, por ejemplo, por el FDI para darle la dinámica necesaria para avanzar.
+                                                           29
+"

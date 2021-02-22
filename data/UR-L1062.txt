@@ -1,0 +1,1786 @@
+"outlist[[i]]"
+"                                                                                          Desembolso
+                                                         Etapa
+ No.    Fecha PMR                                                                         Actual (US$
+                                                         PCR
+                                                                                          millones)
+                 2º período Ene – Dic 2013,
+ 1                                                         N.A.     SATISFACTORIO               822.765
+               validado 25 de junio de 2014
+                 2º período Ene – Dic 2014,                                                    1.883.061
+ 2                                                         N.A.     SATISFACTORIO
+                validado 28 de abril de 2015                                                  (2.705.826)
+                 2º período Ene – Dic 2015,                                                    1.282.702
+ 3                                                         N.A.     SATISFACTORIO
+                validado 25 de abril de 2016                                                  (3.988.528)
+                 2º período Ene – Dic 2016,                                                     783.160
+ 4                                                         N.A.     SATISFACTORIO
+                validado 20 de abril de 2017                                                  (4.771.688)
+                 2º período Ene – Dic 2017,                                                     228.312
+ 5                                                         N.A.     SATISFACTORIO
+                validado 17 de abril de 2018                                                  (5.000.000)
+Metodología de análisis económico ex post:       Cost Benefit Analysis
+Metodología de evaluación ex post:               Evaluación impacto intervención clave
+CLASIFICACIÓN DE EFECTIVIDAD EN EL DESARROLLO: PARCIALMENTE SATISFACTORIO
+Bank Staff
+ Posición                      al PCR                                 A la Aprobación
+ Vicepresidente VPS            Ana María Rodríguez-Ortiz              Santiago Levy
+ Vicepresidente VPC            Alexandre da Rosa                      Alexandre da Rosa
+ Gerente País                  José Luis Lupo                         José Luis Lupo
+ Gerente Sector                 Moisés J. Schwartz                    Ana María Rodríguez-Ortiz
+ Jefe de División              Lea Giménez Duarte                     Carlos Santiso
+ Representante de País         Morgan Doyle                           Tracy Betts
+ Jefe Equipo Proyecto          Rodrigo Serrano Berthet                Gustavo Beliz
+Tiempo y Costo de Staff
+                                                                        US$ (incluyendo costos de viaje y
+ Etapa del Ciclo de Proyecto                # de semanas
+                                                                                   consultorías)
+ Preparación                                      27                                  344.93K
+ Supervisión                                     101                                  742.20K
+ Total                                           128                                 1087.13K
+Descripción de los Objetivos de Desarrollo del Proyecto/Programa:
+El objetivo general es contribuir a la disminución del delito violento en la ciudad de Montevideo, mediante
+acciones específicas de prevención en tres territorios y sus poblaciones vulnerables. Los objetivos
+específicos son: (i) contribuir a incrementar la eficacia de la fuerza policial para la prevención y
+esclarecimiento de delitos en los territorios seleccionados; y (ii) contribuir a incrementar la reinserción
+social de menores de edad con concentración de factores de riesgo asociados a violencia y delito en las
+áreas de influencia del programa.
+                                                                                                            v
+"
+"                  I.  Introducción
+1.1 Tal como se establece en la propuesta de préstamo aprobada1, al momento del diseño en el
+       2012, Uruguay padecía de un agravamiento de sus problemas de inseguridad, verificado tanto
+       a nivel de estadísticas, como de percepción de temor y victimización de la población, con un
+       alto nivel de concentración territorial y una creciente concentración etaria.
+1.2 Montevideo, teniendo el 39,8% de la población nacional, presentaba en 2010 el 58% de los
+       delitos del país y aglutinaba el 83,61% de las rapiñas2. Por su parte, los jóvenes de hasta 24
+       años y en particular los menores de 18 años aparecían como un grupo con alta incidencia en
+       los delitos con violencia en todo el país. En 2007, el 10% de los homicidios cometidos en el
+       país habían sido perpetrados por menores de edad, mientras que para 2010 esa cifra había
+       aumentado al 26%3. Asimismo, el 53% de las rapiñas cometidas en Montevideo y aclaradas
+       judicialmente, eran atribuibles a menores de edad en 2010. Finalmente, había en el país un
+       total aproximado de 900 menores de 18 años bajo el sistema de justicia penal, de los cuales
+       la mitad cumplía medidas de privación de la libertad y el resto medidas alternativas. En
+       resumen, el país vivenciaba un nivel alto y creciente de delitos violentos, con una importante
+       participación de jóvenes en los mismos.
+1.3 Se entendía que el crecimiento del delito violento era afectado por dos fenómenos que el
+       programa se proponía abordar: (i) la ineficacia del efecto disuasivo de la Policía Nacional (PN)
+       sobre la comisión de delitos violentos, manifestada en una baja capacidad para realizar tareas
+       de prevención comunitaria ex ante, y de investigación de actividad criminal ex post; y (ii) la
+       debilidad de los programas sociales de prevención secundaria y terciaria que ya existían, que
+       carecían de estrategias específicas para población con alta concentración de factores de
+       riesgo de violencia y/o en conflicto con la ley penal (también referido en algunos documentos
+       como riesgo socio-delictual).
+1.4 El Gobierno de Uruguay ya venía propiciando varias acciones para atender a esta situación,
+       en el marco de una profunda reforma del sistema de seguridad ciudadana del país, entre las
+       que se encontraban: (i) la aprobación de un nuevo marco jurídico para el Instituto del Niño y
+       del Adolescente (INAU), que creaba un Sistema de Responsabilidad Penal Adolescente
+       (SIRPA); (ii) la mejora presupuestaria y tecnológica de la PN, y la compra de equipamiento,
+       acompañada de compromisos de gestión (mayor control de ausentismo); (iii) la reorganización
+       funcional del área de investigación criminal, a través de la asignación de jefes regionales y
+       equipos de investigación a cuatro zonas de Montevideo; (iv) el despliegue de una estrategia
+       de control del delito a través de operativos combinados con la justicia en las zonas más
+       conflictivas de Montevideo; (v) la identificación de los adolescentes y jóvenes que no estudian
+       ni trabajan, como población prioritaria de atención, en el marco del Gabinete Social; y (vi) la
+       constitución de una mesa de articulación interinstitucional con la participación del Ministerio
+       del Interior (MI), el Ministerio de Educación y Cultura (MEC), la Intendencia Municipal de
+       Montevideo (IMM), el Instituto Nacional de Empleo y Formación Profesional (INEFOP), el
+       Ministerio de Trabajo y Seguridad Social (MTSS), el INAU, el Instituto Nacional de la Juventud
+       (INJU), la Junta Nacional de Drogas (JND) y el Ministerio de Salud (MS), para coordinar
+       acciones sobre la población juvenil vinculada al delito y la violencia. Estas y otras acciones
+       amparaban el inicio del proceso de reestructura institucional de la Jefatura de Policía de
+  1 Propuesta de préstamo UR-L1062, párrafos 1.1 a 1.5.
+  2 Estadísticas del Observatorio Nacional de Violencia y Criminalidad (ONVC) del MI, 2011.
+  3 Cifras oficiales del OVC, MI. En Brasil, la participación de la misma franja etaria en homicidios fue del 11% en 2009
+                                                                                                                        6
+"
+"      Montevideo (JPM), que se profundizaría durante la ejecución del préstamo, y que estaba
+      orientado a generar un cambio cultural que permitiera focalizarse en la prevención del delito
+      y la protección del ciudadano4.
+1.5 Complementariamente, el país se propuso, y así lo expresó en la Exposición de Motivos de
+      la Ley de Presupuesto Nacional (2010-2014)5, mejorar las condiciones de seguridad pública,
+      apoyando la reforma estructural de recursos humanos y la reforma organizacional en
+      Ministerio del Interior, apuntando a lograr una fuerza pública profesionalizada, y a ofrecer una
+      mayor cobertura para la atención de adolescentes en conflicto con la ley. Los objetivos del
+      programa estuvieron alineados con estas prioridades.
+1.6 El Programa de Gestión Integrada Local de Seguridad Ciudadana (UR-L1062; 2770/OC-UR)
+      fue diseñado y aprobado en el año 2012 (25 de octubre), con un plazo original de 4 años
+      (ultimo desembolso previsto para el 25 de octubre de 2016), y se le otorgó una extensión
+      posterior del plazo de ultimo desembolso hasta el 31 de diciembre de 20176. Buscaba
+      respaldar al país en dar respuesta a algunos de estos desafíos, y en el marco de las
+      prioridades definidas por el Gobierno de Uruguay. Las estrategias de trabajo propuestas, y
+      los resultados esperados mantuvieron relevancia para la nueva Administración que asumió el
+      gobierno en 20157, que avanzó en la consolidación de la reforma organizativa de la Policía, a
+      través de la implementación de la Ley Orgánica Policial aprobada en 2014 y de un régimen
+      de trabajo de alta dedicación exclusiva, que apunta a combatir con más eficacia las rapiñas,
+      el microtráfico y otros delitos conexos.
+1.7 El Programa, por su parte, procuró también dar respuesta a la complejidad, fragmentación y
+      falta de coordinación entre agencias, que se identificaba en el sector de seguridad ciudadana,
+      como una herramienta para poner en marcha políticas integrales de prevención del delito,
+      involucrando a diferentes sectores del Estado.
+1.8 Se propuso inicialmente contribuir a la disminución del delito violento en la ciudad de
+      Montevideo, mediante acciones focalizadas de prevención y control en tres territorios que
+      correspondían con tres comisarias priorizados por su alta concentración delictiva (territorio
+      que fuera luego ampliado a toda la JPM), y con foco en poblaciones vulnerables. Para ello,
+      buscaba atender: (i) la ineficacia policial para desarrollar una tarea disuasiva del delito,
+      basada en la proximidad con la comunidad y en la investigación criminal; (ii) la debilidad de
+      programas sociales de prevención secundaria y terciaria de la violencia, con ausencia de
+      estrategias específicas para menores de edad vulnerables y en conflicto con la ley; y (iii) la
+      desarticulación de los sistemas de información en materia de prevención social y control
+      delictivo.
+1.9 Específicamente, el Programa esperaba: (i) incrementar la eficacia de la fuerza policial para
+      la prevención y esclarecimiento de delitos en los territorios seleccionados; e (ii) incrementar
+      la reinserción social de menores de edad de 12 a 17 años con altos factores de riesgo
+  4 Serrano-Berthet, R, ed (2019).
+  5 Ver documento completo en http://archivo.presidencia.gub.uy/sci/proyectos/2010/08/cm_185_2_exposicion.pdf
+  6
+    El Programa contó con una extensión inicial del plazo de desembolso hasta el 31 de agosto de 2017, solicitada vía
+    nota UGP 30/2016 (EZSHARE-1399598922-5, 1399598922-6, 1399598922-7), y posteriormente con una extensión
+    adicional hasta el 31 de diciembre de 2017, solicitada vía nota UGP 54/2017 (EZSHARE-586189632-63, 586189632-
+    66, 586189632-70).
+  7 Ver documento completo Exposición de Motivos. Proyecto de Presupuesto Nacional 2015-2019
+    https://www.mef.gub.uy/innovaportal/file/16500/4/iv-las-asignaciones-de-este-presupuesto.pdf.
+                                                                                                                    7
+"
+"      asociados a conductas violentas y delito en las áreas de influencia del programa, mediante la
+      implementación de los siguientes dos componentes:
+1.10 Componente 1: Desarrollo de un modelo policial orientado a la solución de problemas.
+      El objetivo de este componente fue mejorar la eficacia de la policía para prevenir e investigar
+      el delito en los territorios seleccionados, a través de la implementación del método de
+      Policiamiento comunitario Orientado a la solución de Problemas (POP), inicialmente en tres
+      comisarias modelo8, expandido luego a toda la JPM. Para esto se previeron acciones a nivel
+      de las comisarias seleccionadas, y de la Jefatura de Montevideo: (i) desarrollo de contenidos
+      de programas académicos en formatos presenciales y virtuales, y protocolos de actuación en
+      POP e investigación y análisis criminal; ii) capacitación de 375 funcionarios policiales en POP;
+      (iii) capacitación de 375 funcionarios policiales en investigación y análisis criminal; (iv)
+      fortalecimiento de la Academia Nacional de Policía; (v) creación y equipamiento tecnológico
+      de tres unidades de análisis criminal en las comisarías; (vi) reingeniería organizativa de las
+      tres comisarías priorizadas, lo que incluía el diseño de un tablero de control del accionar
+      policial con indicadores de proceso, resultados e impacto asociados a los cuadrantes de
+      actuación en el territorio en que se subdividía cada comisaría; (vii) diseño e implantación de
+      un Código de Ética para el personal policial; y (viii) modernización de la infraestructura física
+      y equipamiento tecnológico de las tres comisarías a intervenir para fortalecer el acercamiento
+      comunitario a través de estrategias POP.
+1.11 Componente 2: Fortalecimiento de una Red Social de Prevención Secundaria y
+      Terciaria de Violencia Juvenil. El objetivo de este componente era disminuir la participación
+      de menores de edad en la comisión de delitos violentos en las área de influencia del programa,
+      a través de: (i) la puesta en funcionamiento de servicios especializados en la atención y
+      acompañamiento de 680 menores en conflicto con la ley penal, a través de un proceso
+      socioeducativo personalizado, que permitiera maximizar el desarrollo de sus potencialidades,
+      y propiciar su reinserción social, focalizando tempranamente acciones preventivas; (ii) el
+      desarrollo e implementación de un sistema informativo de alerta temprana de violencia juvenil,
+      que consolidara estadísticas sociales y judiciales de múltiples fuentes y permitiera la
+      derivación inmediata del menor una vez hubiera tomado contacto con la comisaría, de modo
+      de activar el trabajo conjunto entre el MI y el MIDES; (iii) la activación de mecanismos de
+      articulación interinstitucional con el resto de las prestaciones sociales existentes en los
+      territorios intervenidos, que permitieran la generación de trayectorias de estos adolescentes
+      en las instituciones de socialización y participación naturales para su edad, en el marco de
+      los programas ya existentes de la política social; y (iv) la capacitación intensiva de 150
+      referentes educativos y operadores del sistema de protección social para la gestión
+      personalizada del acompañamiento a los menores.
+1.12 Cabe mencionar que durante el período de implementación del Programa tuvo lugar un
+      proceso de reestructura policial que implicó cambios importantes en la organización
+      geográfica y en la forma de funcionamiento de la Jefatura de Policía de Montevideo (JPM),
+      buscando mejorar las estrategias de despliegue y la capacidad de investigación. Estos
+      cambios brindaron oportunidades de ajuste programático y adaptaciones a las intervenciones
+      previstas en el préstamo, fortaleciendo la lógica vertical y los objetivos propuestos. Siendo
+  8
+    El POP es uno de los métodos de policiamiento que cuenta con mayor evidencia de impacto. Se enfoca en entender
+    y atender las causas de un problema criminal. Sigue una metodología conocida como SARA que tiene cuatros
+    pasos: (1) selección de un problema concreto en cada territorio; (2) análisis en profundidad de causas y
+    determinantes y de las posibles soluciones; (3) implementación de la solución más adecuada; y (4) evaluación de
+    su impacto, para retroalimentar el proceso de decisión. Para desarrollarlo de manera óptima precisa de una alta
+    capacidad de análisis criminal, inteligencia en la investigación criminal, y relacionamiento de proximidad con la
+    comunidad.
+                                                                                                                   8
+"
+"       que el proceso de reestructura buscaba definir un modelo único de trabajo para toda la JPM
+       se decidió aplicar el método POP al principal problema de seguridad de la ciudad (rapiñas),
+       problema prioritario al que se enfocaba el préstamo. Del análisis criminal y a través del
+       proceso de aprendizaje apoyado por el préstamo se identificó que la mejor solución era el
+       policiamiento de puntos calientes (hot spot policing) y se diseñó el Programa de Alta
+       Dedicación Operativa (PADO) basado en dicho modelo de trabajo. Ya no para ser
+       implementado en territorios focalizados utilizando el método POP, sino como programa
+       modelo para toda la ciudad, manteniendo una comisaría modelo en la que ya se venía
+       trabajando al momento de la reestructura de la JPM.
+1.13 Seguramente esta expansión haya fortalecido los efectos alcanzados por el programa en
+       términos de reducción de las tendencias en rapiña (como se explicará mas adelante). De
+       todas formas es importante destacar que a pesar de la tendencia decreciente que se vino
+       registrando de los delitos de rapiña en Montevideo, principalmente en las áreas de
+       intervención del PADO hasta 2017, y de la reducción de los menores indagados, la
+       inseguridad continúa hasta hoy siendo una de las principales preocupaciones de los
+       uruguayos y su combate un de los principales desafíos para el país, retomados por la nueva
+       operación del Banco con el país (UR-L1112).
+1.14 Las tendencias decrecientes registradas hasta 2017, registraron un cambio de signo a partir
+       de los datos cerrados a 2018. En 2018 se registraron cifras récord en los delitos de Homicidio
+       (11,8 cada 100mil habitantes), Hurto (3994 cada 100mil habitantes) y Rapiña (793 cada
+       100mil habitantes). Aunque aún no hay información suficiente para realizar un análisis
+       completo, se identifica como posible causa la entrada en vigor desde noviembre de 2017, de
+       un nuevo código del proceso penal, que modifica la forma en que se organiza la investigación
+       criminal y la relación entre jueces, fiscales y policías.
+1.15 En lo relativo al fortalecimiento de la red de prevención de violencia juvenil, por su parte, a
+       partir de 2015, se registraron cambios a nivel institucional y programático en el MIDES,
+       principal socio estratégico para las acciones del Componente 2, que permitieron la
+       incorporación de las acciones de prevención de comportamientos socio-delictivos, al
+       programa Jóvenes en Red9 (que se encontraba en fase de expansión y consolidación), y la
+       generación de otras sinergias con esta cartera.
+                II. Criterios Centrales. Rendimiento del Proyecto
+  2.1 Relevancia
+2.1 En términos generales se considera que el Programa se alineó adecuadamente a las
+       necesidades y prioridades de desarrollo del país y a la Estrategia País del Banco al momento
+       del diseño, con una lógica vertical sólida que viabilizó respuestas pertinentes y basadas en
+       evidencia científica a los problemas identificados y a los objetivos de desarrollo definidos
+       (sólida relevancia interna)10.
+  9 Jóvenes en Red, es la intervención más importante del país en atención a población juvenil que no estudia ni trabaja
+  con una cobertura inicial de más de 2000 beneficiarios a partir de 2012. Forma parte de las estrategias sociales
+  mencionadas en el párrafo 1.4 (numeral v),
+  10 Durante la implementación, tuvo lugar una expansión del alcance territorial de las actividades de prevención de
+  delito, acompañando el proceso de reestructura de la JPM, lo que fortaleció la relevancia del Programa y su capacidad
+  de respuesta a los problemas identificados.
+                                                                                                                      9
+"
+"2.2 Complementariamente, los objetivos se alinearon adecuadamente a las prioridades del Banco
+      en la temática plasmadas en el GCI-9 y en el Marco Sectorial de Seguridad Ciudadana
+      (pertinente relevancia externa).
+2.3 De acuerdo con las dos evaluaciones realizadas sobre sus principales líneas de acción11, el
+      Programa propuso intervenciones pertinentes a los problemas identificados, que generaron
+      efectos positivos en los procesos asociados a la transición hacia una policía preventiva.
+                    a. Alineación con las necesidades de desarrollo del país
+2.4 Tal como fue resumido en la Introducción de este informe, Uruguay padecía al momento del
+      diseño, de un agravamiento de sus problemas de inseguridad, verificado en cifras estadísticas
+      en niveles altos y crecientes de delitos violentos, en particular para el caso de la rapiña, y en
+      una creciente percepción de temor y victimización, mostrando fuerte concentración territorial
+      en Montevideo y creciente participación de los jóvenes tanto como víctimas y como
+      victimarios.
+2.5 El programa estuvo alineado con las prioridades del país en la medida en que procuraba
+      apoyar directamente el objetivo de “crear de un ambiente estable y seguro para el desarrollo,
+      el bienestar de la ciudadanía y el pleno disfruta de sus libertades y oportunidades”12.
+2.6 También era consistente con la Estrategia de País 2010-2015 (GN-2626), vigente durante su
+      aprobación y elegibilidad en 2012, y en particular con la intención de “desarrollar e implantar
+      acciones focalizadas en la prevención de la violencia, incluyendo violencia juvenil y
+      doméstica, así como también el apoyo a la creación de un modelo de policía comunitaria”.
+      Asimismo, los resultados esperados también fueron consistentes con la Estrategia de País
+      2016-2020 (GN-2836) vigente, y contribuyen especialmente al objetivo de “incrementar la
+      eficacia de la Policía Nacional para prevenir el delito”.
+                    b. Alineación estratégica
+2.7 Los resultados esperados para el Programa se alineaban también con las prioridades de
+      financiamiento del Noveno Aumento General de Recursos del BID (AB-2764) (GCI-9) tanto
+      con el enfoque de pobreza, disminución de homicidios y desarrollo de planes de prevención
+      de violencia a nivel de ciudades, como por tener como destinatario a un país pequeño.
+2.8 Los objetivos también estaban alineados con la Estrategia Institucional del Banco 2010-2020,
+      específicamente con el objetivo de “Fortalecer la capacidad del Estado”, al dotar a sus
+      instituciones de herramientas para mejorar su eficiencia, eficacia y transparencia, y con el de
+      “Ofrecer infraestructura incluyente y servicios de infraestructura”, a fin de velar por que las
+      zonas urbanas estén mejor dotadas de servicios públicos para la población pobre y
+      vulnerable, en particular de “seguridad pública y ciudadana”.
+2.9 Finalmente, el Programa estaba alineado con la prioridad Sectorial de Instituciones para el
+      Crecimiento y el Bienestar Social (GN-2587-2), de “desarrollar la capacidad para diagnosticar
+      los temas atinentes a la seguridad ciudadana y traducirlos en políticas y acciones eficaces” a
+      través de la provisión de conocimientos, herramientas y metodologías que permiten mejorar
+      la toma de decisiones y adoptar un enfoque basado en la evidencia. Y ha sido consistente
+      con el Marco Sectorial de Seguridad Ciudadana y Justicia (GN-2771-3), en tanto que trabaja
+  11 AGEV-OPP (2015); Pantoja, Rodrigo (2015).
+  12 Objetivo expresado en expresado en el Presupuesto Nacional 2010-2014, aprobado por el Parlamento a fines de
+     2010.
+                                                                                                             10
+"
+"     con sus cuatro dimensiones: (i) jóvenes y mujeres en riesgo; (ii) policía; (iii) rehabilitación y
+     reinserción para privados de libertad; y (iv) gestión de la seguridad.
+                  c. Relevancia del diseño
+2.10 El Programa tuvo como propósito incrementar la eficacia de la fuerza policial para la
+     prevención y esclarecimiento de delitos en territorios seleccionados por su alta concentración
+     delictiva dentro de Montevideo; y mejorar la reinserción social de menores de edad de 12 a
+     17 años con altos factores de riesgo asociados a conductas violentas y delito en las áreas de
+     influencia del programa. Esto se lograría a partir del diseño e implantación de un modelo de
+     policía de proximidad orientada a la resolución de problemas, y el desarrollo de una Red
+     Social de Prevención Secundaria y Terciaria de Violencia Juvenil. A partir del logro del objetivo
+     del Programa, se contribuiría a la disminución del delito violento en la ciudad de Montevideo,
+     mediante acciones focalizadas de prevención y disuasión. Esta lógica que acompañó el
+     diseño y puesta en marcha de la operación se evidencia en la Tabla 1. Matriz de resultados
+     (aprobación @, 60 días después de alcanzar la elegibilidad y @ exit), y en la Cadena de
+     Resultados, ilustrada en la Figura 1.
+2.11 La mejora de la eficacia policial se relaciona tanto con la formación del personal policial en
+     los niveles básicos y superiores, como con la disponibilidad de sistemas informáticos de
+     soporte que sean actualizados de manera confiable y en plazos razonables para permitir
+     análisis criminal, y con en el cambio de prácticas de policiamiento pasando de las
+     concepciones asociadas al rol del policía como “persecutor” a las concepciones de protección
+     de la población y disuasión del delito.
+2.12 En este sentido, el programa se apoyaba en líneas de trabajo existentes en la PN, sistemas
+     de información ya implementados con apoyo de programas previos del Banco, y prioridades
+     definidas por las autoridades; y focalizaba la inversión en los desafíos más relevantes. En
+     este sentido la estrategia de capacitación policial y la generación de capacidades para el
+     análisis criminal aparecían como claves, y se procuró desde el inicio contactar al país con los
+     mejores equipos técnicos y asesores internacionales. Complementariamente, el apoyo al
+     diseño y puesta en funcionamiento de intervenciones de POP, inicialmente para
+     implementación piloto, y luego para implementación en toda la JPM resultaba un aspecto
+     clave de las prioridades de la reforma en curso. Y finalmente, para garantizar un abordaje
+     integral de la problemática, el Programa se planteó la puesta en marcha de intervenciones
+     específicas para reducir el inicio y consolidación de trayectorias socio-delictivas en
+     adolescentes y jóvenes.
+2.13 Dado que los niveles de hurto y rapiña venían en crecimiento constante desde hacía una
+     década, y el conocimiento ya existente sobre la multi causalidad de este tipo de
+     problemáticas, no era de esperarse que se lograra en un período acotado de tiempo revertir
+     la tendencia a nivel general del país, pero sí la reducción específica en las áreas y poblaciones
+     intervenidas. Dado que en el diseño original la intervención de policiamiento orientado a
+     problemas (POP) era implementada de manera piloto en 3 seccionales, se esperaba
+     identificar una mejora comparada de las variables principales, entre los territorios intervenidos
+     y aquellos sin intervenir. Sin embargo, a partir de la ampliación de alcance del programa, que
+     paso de tres comisarias modelo, a una comisaría modelo POP y el PADO en toda la JPM, los
+     indicadores fueron ajustados para reflejar efectos en el enlentecimiento de los niveles de
+     crecimiento en los delitos priorizados, en toda la zona de intervención.
+2.14 Las acciones previstas procuraban frenar el incremento del nivel de delito, fortalecer la
+     capacidad para aclarar los acontecidos, y ver los efectos de estas mejoras en la percepción
+     de la ciudadanía sobre el desempeño policial. En el primer caso, se eligió medir el nivel de
+                                                                                                    11
+"
+"     delito por la evolución de las denuncias realizadas, y la estimación de las no realizadas. En el
+     segundo caso, identificando los casos en que se identificaban responsables del delito como
+     resultado del procedimiento policial, generando una mayor tasa de esclarecimiento. Y en el
+     tercero, midiendo la percepción de la población mediante la ENV. Tal como se muestra en la
+     Tabla 1, el alcance geográfico de los indicadores que referían inicialmente a las 3 zonas
+     priorizadas fue ajustado para reflejar el incremento de alcance de las intervenciones a toda la
+     JPM. Adicionalmente, al momento de consolidar la información al cierre del Programa, para
+     el reporte de resultados, fueron necesarios otros ajustes a indicadores, por motivos
+     metodológicos y de disponibilidad y fiabilidad de la información (que se detallan en la tabla),
+     , manteniendo incambiadas las variables priorizadas, y la lógica vertical.
+2.15 Como es sabido, los cambios institucionales no generan resultados inmediatos. De hecho, los
+     procesos de reforma policial y de justicia experimentados en América Latina han requerido de
+     tiempo para su consolidación e impacto en indicadores de criminalidad o percepción de temor
+     (Serrano, 2019). Lo mismo sucede con cambios culturales, en particular los de
+     comportamientos socio-delictivos. En este sentido, se considera importante ser cauto a la
+     hora de definir las metas en el momento de diseño. Para algunos casos será necesario
+     analizar la evolución de los indicadores, considerando la velocidad esperable para identificar
+     efectos en cada caso.
+2.16 El programa alcanzó a implementar las intervenciones de manera piloto en la seccional 25, y
+     luego amplió las acciones a toda la JPM en el marco de la reestructura antes mencionada.
+     Parte de la reestructura consistió en la creación de zonas operativas que abarcaban a más
+     de una seccional y particionaban otras, por lo que la implementación fraccionada dejaba de
+     tener sentido, y la nueva delimitación geográfica invalidaba la delimitación original del diseño
+     metodológico de la evaluación de impacto. Por otra parte, las autoridades definieron al PADO
+     como la estrategia operativa para poner en práctica los principios del POP, , y en acuerdo con
+     el Banco, a partir de 2015 la zona de incidencia del Programa se extendió a todo Montevideo.
+2.17 La combinación de acciones preventivas mediante el PADO en los circuitos y horarios de
+     mayor incidencia delictiva de Montevideo, con acciones de prevención con adolescentes con
+     perfil socio delictivo sobre representados en los delitos de rapiña, esperaba permitir atacar la
+     alta concentración de crímenes tanto en unidades territoriales como en personas, con el fin
+     de contribuir a reducirlos.
+                                                                                                   12
+"
+"                                     Figura 1.    Cadena de Resultados del Programa
+          PRODUCTOS                 RESULTADOS                            OBJETIVOS ESPECÍFICOS
+ Diseño e implementación
+ de 3 comisarías modelo     Reducción de denuncias
+ POP                        por rapiña y robo de                            Incrementar la eficacia de
+                            vehículos en preventiva en                      la fuerza policial para la
+                            Montevideo (-10%)                               prevención                  y
+ Diseño e implementación                                                    esclarecimiento de delitos
+ de intervenciones POP en                                                   en       los      territorios
+ todo Montevideo (tablero                                                   seleccionados
+ de control, protocolos,
+ UAC, etc).
+                            Aumento de delitos de
+                            rapiña esclarecidos en el                                                     El objetivo general
+                            área de intervención policial                                                 de este programa
+Capacitación de 750         preventiva en Montevideo                                                      es contribuir a la
+Policías en análisis        (de 14 a 16%).                                                                disminución      del
+criminal, POP e                                                                                           delito violento en la
+investigación criminal.                                                                                   ciudad            de
+                                                                                                          Montevideo
+Sistema informático de       Reducción de rapiñas                           Incrementar la reinserción
+alertas juveniles            cometidas por menores en                       social de menores de edad
+implementado                 las seccionales tratadas                       con altos factores de riesgo
+                             (de 43.5 a 41.5%)                              asociados a conductas
+                                                                            violentas y delitos en las
+Capacitacion de 150          Reducción de tasa de                           áreas de influencia del
+técnicos para la prevención  reincidencia de menores                        programa.
+de violencia juvenil         infractores registrados en
+implementada                 las seccionales piloto (de
+                             47 a 44%
+Modelo de gestión de
+violencia implementado con
+650 adolescentes
+                                                                                                                              13
+"
+"2.18 A través del Programa, se procuraba aunar esfuerzos del área policial con el área social, y
+       convocar una acción inter-agencial, con una doble focalización: (i) en barrios que concentran
+       la acción delictiva en Montevideo; y (ii) en población juvenil en contexto de mayor
+       vulnerabilidad y concentración de factores de riesgo asociados a delito y violencia. Al
+       focalizarse sobre territorios y poblaciones con alta incidencia delictiva, se proponía desarrollar
+       un Modelo de Atención Integral que pudiera ser replicable al resto del país, buscando tanto
+       una mejora en los índices delictivos, como en la percepción de seguridad en los barrios.
+2.19 A partir del logro de los productos previstos en cada componente, se disuadiría la comisión
+       de delitos violentos, aumentaría la cantidad de delitos de rapiña esclarecidos, mejoraría la
+       percepción del desempeño policial, disminuirían los delitos de rapiña no denunciados, se
+       reducirían las rapiñas cometidas por menores y la tasa de reincidencia de menores infractores
+       en las seccionales tratadas.
+2.20 La lógica vertical del programa se amparaba en la evidencia empírica regional y extrarregional
+       de más de 50 intervenciones similares, la cual recomienda en estos casos dos ejes
+       simultáneos: (i) la acción policial de base local orientada a la solución de problemas y
+       respaldada en adecuada información delictual y criminológica, como la prevista en el
+       componente 1; y (ii) acciones socio educativas integrales concentradas en prevención social
+       temprana de la violencia y en atención intensiva de la población afectada13, como las del
+       componente 2. En este sentido, se considera que la lógica vertical del programa es apropiada
+       en términos de consistencia interna, en la medida en que las acciones definidas están
+       relacionadas con las necesidades identificadas para el país y con cada uno de los objetivos
+       específicos, y estos últimos están alineados con el objetivo general, como se ve en la Fig 1.
+2.21 Esta apreciación es sustentada por las dos evaluaciones realizadas sobre las principales
+       intervenciones, por un lado, la evaluación del Programa de Alta Dedicación Operativa –
+       PADO, resultante de la implementación de la estrategia del policiamiento orientado a
+       problemas (POP), realizada en 2015; y por otro lado la evaluación del componente 2 realizada
+       también en 2015. En ambos casos, los evaluadores califican de pertinentes las intervenciones
+       diseñadas, para dar respuesta a los problemas identificados en el diagnóstico.
+2.22 La Matriz de Resultados presentada como Tabla 1, presenta los indicadores originalmente
+       previstos, así como nuevos indicadores acordados entre el equipo del Banco y la UE en el
+       Taller de Cierre, y que fueron validados por SPD como parte del proceso de elaboración de
+       este PCR. Los ajustes surgen en primer lugar, para evidenciar el incremento del alcance
+       geográfico de las acciones del componente 1, que pasaron de 3 seccionales piloto a toda la
+       Jefatura de Policía de Montevideo a partir de 2015; en segundo lugar, se definen nuevos
+       medios de verificación para casos en que los originales no estuvieron disponibles, y en tercer
+       lugar se sugieren indicadores nuevos, y/o sustitutivos para aquellos que no fue posible medir.
+       Se procuro que fuera posible evidenciar los efectos del programa tal como fue implementado,
+       en las dimensiones originalmente previstas en los objetivos. Se mantiene el indicador original,
+       con el agregado de “inactivado” y se agrega luego la versión nueva sustitutiva.
+  13 La evidencia científica subregional que conjuga simultáneamente trabajo policial comunitario y en base a información
+     criminal y trabajo social de asistencia temprana a los factores de riesgo de violencia, que con las debidas
+     adaptaciones puede ser aplicable al Uruguay: (i) El Programa “Fica Vivo” en Belo Horizonte, redujo en un 69% el
+     número de homicidios conforme a su evaluación quasi-experimental (Beato Filho CC. “Impact of Staying Alive
+     Program in a community in BH.” Rev Salud Pública. 2010, www.scielo.br/rsp); (ii) El Programa de Seguridad de
+     Diadema, ganador del Concurso de Buenas Prácticas de 2006, logró reducir en un 85.71% los homicidios de jóvenes
+     de entre 16 y 20 años, y bajar en 44% el número de adolescentes enviados a centros de detención juvenil del 2001
+     al 2005; y (iii) El Programa de la ciudad de Canoas (RS), logró reducir en un 86% las tasas de homicidios de 2009
+     a 2011, siendo uno de los ganadores del Concurso de Buenas Prácticas del BID-Universidad Chile-OSI, 2012.
+                                                                                                                      14
+"
+"                         Tabla 1. Matriz de resultados (aprobación @, 60 días después de alcanzar la elegibilidad y @ exit)
+                                                                                                              Al terminar el proyecto
+                                             En aprobación                En elegibilidad + 60 días
+                                                                                                                        (PCR)
+            Indicadores                Unidad       Línea               Unidad        Línea                 Unidad       Línea                            Comentarios
+                                                              Meta                                Meta
+                                          de          de                   de           de                     de          de          (A)
+                                                               (P)                                  (P)
+                                       Medida       Base                Medida        Base                  Medida       Base
+  Impacto #1: Contribuir a la disminución del delito violento en la ciudad de Montevideo.
+  Indicador # 1.1 (inactivado)
+  Victimización por rapiñas en
+                                                                                                                                               El indicador no puede
+  las seccionales tratadas                 %          10        8          %            10           8         %           10          S/D
+                                                                                                                                               calcularse14.
+  respecto a las seccionales
+  no tratadas.
+                                                                                                                                               El nuevo indicador mide la
+                                                                                                                                               misma variable (victimización),
+                                                                                                                                               con un medio de verificación
+                                                                                                                                               alternativo (Encuesta LAPOP).
+  Indicador #1.1 (nuevo)                                                                                                                       Utiliza la comparación antes-
+                                                                                      29.87       26.88                  29.87        28.24
+  Victimización por delito en                                              %                                   %                               después para la Jefatura de
+                                                                                     (2012)      (-10%)                 (2012)       (2016)
+  Montevideo                                                                                                                                   Montevideo en virtud en que el
+                                                                                                                                               Programa amplió su alcance a
+                                                                                                                                               toda la Jefatura.
+                                                                                                                                               Y una meta de reducción
+                                                                                                                                               absoluta del 10%15.
+                                                                                                                                               El indicador no puede
+  Indicador # 1.2 (inactivado)
+                                                                                                                                               calcularse.
+  Denuncias por rapiña en las
+                                                                                                  22,53                                        Adicionalmente, no se
+  tres seccionales tratadas en             %        24,53    22,53         %          24,53                    %         24,53         S/D
+                                                                                                  (-8%)                                        recomienda la utilización de un
+  relación con seccionales no
+                                                                                                                                               ratio, dado que su evolución
+  tratadas.
+                                                                                                                                               podría deberse tanto a mejores
+14 La comparación entre seccionales tratadas y no tratadas fue pensada para seccionales de similar nivel delictivo dentro de la Jefatura de Montevideo, dado que el departamento
+capital posee un comportamiento muy diferente a los metropolitanos y del interior. El programa amplió su área de intervención a toda la Jefatura de Montevideo, por lo que no es
+posible comparar efectos entre seccionales tratadas y no tratadas. Por otra parte, los resultados de la encuesta nacional de victimización uruguaya no permiten desagregación por
+delito ni por seccional.
+15 La meta del indicador original era de reducción del 20% en el comparativo entre zonas tratadas y no tratadas, por lo que no es comparable con una expectativa de modificación
+del valor absoluto.
+                                                                                                                                                                               15
+"
+"                                                                                              Al terminar el proyecto
+                                     En aprobación               En elegibilidad + 60 días
+                                                                                                       (PCR)
+         Indicadores            Unidad     Línea               Unidad      Línea            Unidad      Línea                        Comentarios
+                                                     Meta                            Meta
+                                  de         de                   de         de                de         de       (A)
+                                                       (P)                             (P)
+                                Medida     Base                Medida      Base             Medida      Base
+                                                                                                                          en las tratadas como a
+                                                                                                                          empeoramiento en no tratadas.
+                                                                                                                          El nuevo indicador mide la
+                                                                                                                          misma variable (prevalencia de
+                                                                                                                          rapiña), con el mismo medio de
+                                                                                                                          verificación (Observatorio MI).
+                                                                                                                          Utiliza la comparación antes-
+                                                                                                                          después para la Jefatura de
+Indicador #1.2 (nuevo)                                          Tasa                         Tasa
+                                                                            915       827                915      1059    Montevideo en virtud en que el
+Rapiñas consumadas en                                           c/100                        c/100
+                                                                          (2012)     (-8%)             (2012)    (2017)   Programa amplió su alcance a
+Montevideo                                                     mil hab                      mil hab
+                                                                                                                          toda la Jefatura.
+                                                                                                                          Se eligió la tasa y no el valor
+                                                                                                                          absoluto para medir la
+                                                                                                                          prevalencia sin sesgos relativos
+                                                                                                                          al eventual crecimiento
+                                                                                                                          poblacional
+Resultado # 1 Mejora la eficacia de la fuerza policial para la prevención y esclarecimiento de delitos en áreas de influencia del Programa.
+                                                                                                                          Se agrega un indicador adicional
+                                                                                            Variaci                       y específico para medir la
+                                                               Variació
+                                                                                               ón                         evolución de la rapiña.
+(nuevo). 1.1 Evolución de                                      n anual
+                                                                           1.6%              anual      1.6%     -4.4%    Se plantea como variación
+rapiñas consumadas en                                            de la               1.5%
+                                                                          (2012)             de la     (2012)    (2017)   interanual para detectar cambios
+Montevideo                                                     tasa en
+                                                                                            tasa en                       en la tendencia.
+                                                                  %
+                                                                                               %                          La meta se establece en un 10%
+                                                                                                                          de reducción.
+(Original) 1.2 Delitos de                                                                                                 La zona de intervención fue
+rapiña esclarecidos en                                                                                                    ampliada a toda la Jefatura de
+seccionales tratadas, en          %          14        16         ***        ***       ***    ***        ***       ***    Montevideo, no es posible
+relación con seccionales no                                                                                               comparar las seccionales
+tratadas.                                                                                                                 originales.
+                                                                                                                                                          16
+"
+"                                                                                                             Al terminar el proyecto
+                                              En aprobación                 En elegibilidad + 60 días
+                                                                                                                         (PCR)
+            Indicadores                 Unidad      Línea                 Unidad      Línea                Unidad        Línea                            Comentarios
+                                                               Meta                               Meta
+                                           de         de                     de         de                    de           de          (A)
+                                                                 (P)                               (P)
+                                        Medida       Base                 Medida      Base                 Medida         Base
+                                                                                                                                               Se ajusta redacción para
+                                                                                                                                               ampliar zona de intervención.
+  (Nuevo). 1.2 Delitos de                Tasa
+                                                                                       3.56        3.9                     3.2        3.65     Utiliza la comparación antes-
+  rapiña consumados en                 c/100 mil                             %                                %
+                                                                                     (2013)      (2017)                 (2013)      (2017)     después para la zona
+  Montevideo16                            hab
+                                                                                                                                               intervenida, con una meta de
+                                                                                                                                               10% de incremento en el %.
+  (Original) 1.3 Denuncias por                                                                                                                 No se dispone de estadísticas
+  hurto o robo de vehículo en                                                                                                                  que incluyan hurto o robo de
+                                           %         S/D        S/D          ***        ***        ***       ***           ***         ***
+  las que se recupera el                                                                                                                       vehículo, solamente hurto.
+  vehículo.                                                                                                                                    Por otra parte, la variable
+                                                                                                                                               recuperación es confusa dado
+                                                                                                                                               que hay casos donde no es
+  (nuevo) 1.3 Denuncias por                                                                       7365                                         posible la recuperación
+                                                                                      8183                   # al         8183       6892      (incendio, sacada del país, etc.)
+  hurto de vehículo en                                                   # al año                (2017)
+                                                                                     (2012)                  año        (2012)      (2017)     y ésta puede ocurrir en un año
+  Montevideo.                                                                                     -10%
+                                                                                                                                               diferente al del hurto.
+                                                                                                                                               No fue posible identificar el
+                                                                                                                                               origen de la línea de base de la
+                                           %          34         44          %          34          44                                         MR. La pregunta originalmente
+                                                                                                                                               referida no pertenece a la ENV
+                                                                                                                                               2011.
+  1.4 Percepción del
+  desempeño policial en área                                                                                                                   Se recalculó la LB y el valor
+  de intervención.                                                                                                                             ENV 2016 con la pregunta
+                                                                                                    43                     39                  ¿cuán satisfecho/a está usted
+                                                                                        39                                            30.3
+                                                                             %                   (2017)       %         (2011)                 con los resultados de la
+                                                                                     (2011)                                         (2017)
+                                                                                                 +10%                                          actuación
+                                                                                                                                               de la Policía en el combate
+                                                                                                                                               contra la delincuencia?
+  1.5 Delitos de rapiña no
+                                           %          59         56          %          59          56        %            59         S/D      No es posible reportarlo.
+  denunciados.
+16 El nivel de esclarecimiento se calcula como el # de rapiñas registradas como aclaradas en el SGSP, sobre el # total de rapiñas registradas en el mismo sistema para Montevideo.
+                                                                                                                                                                               17
+"
+"                                                                                          Al terminar el proyecto
+                                   En aprobación            En elegibilidad + 60 días
+                                                                                                    (PCR)
+         Indicadores          Unidad    Línea              Unidad     Línea              Unidad     Línea                        Comentarios
+                                                   Meta                          Meta
+                                de        de                 de         de                 de         de        (A)
+                                                    (P)                           (P)
+                              Medida    Base               Medida     Base              Medida       Base
+                                                                                                                       La ENV 2016 no reporta esta
+                                                                                                                       variable.
+                                                                                                                       Se agrega un nuevo indicador
+                                                                                                                       específico para medir la
+                                                                                                                       capacidad de contar con
+(nuevo). 1.6 Tiempo de toma
+                                                                        50         45                 50         24    información en tiempo real.
+de conocimiento para los                                   Minutos                      Minutos
+                                                                     (2013)     (2017)             (2013)     (2017)   El cálculo refiere a la mediana
+delitos de rapiña.
+                                                                                                                       del tiempo transcurrido entre la
+                                                                                                                       ocurrencia del hecho y la toma
+                                                                                                                       de conocimiento por la policía.
+Resultado # 2 Disminución del crecimiento la participación de menores en delitos violentos en el área de influencia del Programa.
+(Original) 2.1 Rapiñas                                                                                                 No fue posible acceder a la
+cometidos por menores en        %        43,5      41,5       %        43,5      41,5                                  información para calcular el
+las seccionales tratadas.                                                                                              indicador.
+                                                                                                                       Se expande la definición para
+                                                                                                                       abarcar todo el territorio
+ (ajustado). 2.1 Jóvenes
+                                                                       938        844                           628    intervenido.
+indagados por rapiña en                                       #                             #        938
+                                                                     (2012)     (2017)                        (2017)   El cálculo refiere al # de
+Uruguay
+                                                                                                                       adolescentes indagados en
+                                                                                                                       eventos registrados en el SGSP
+(Original) 2.2 Tasa de
+                                                                                                                       No fue posible acceder a la
+reincidencia, de menores
+                                %         47        44        %         47         44      %          47        S/D    información para calcular el
+infractores registrados en
+                                                                                                                       indicador.
+seccionales piloto.
+                                                                                                                       Se ajusta redacción para
+ (nuevo). 2.2 Tasa de                                                                                                  ampliar a todo Uruguay dado
+                                                                       38.2      34.4                38.2      27.8
+reincidencia de jóvenes en                                    %                            %                           que los jóvenes pueden cometer
+                                                                     (2012)     (2017)             (2012)     (2017)
+delitos de rapiña en Uruguay                                                                                           un delito de rapiña en cualquier
+                                                                                                                       parte del territorio.
+                                                                                                                                                       18
+"
+"  2.2 Eficacia
+2.23 Los siguientes apartados describen la efectividad alcanzada por el programa a partir de los
+     objetivos planteados, identificándose los resultados alcanzados, los elementos y evidencias
+     que permiten atribuir los mismos a las acciones del programa, así como otros resultados no
+     previstos originalmente. En los casos en que los indicadores previstos no permiten reportar
+     resultados se procurará identificar otros indicios de efectividad en dimensiones proxy
+     analizadas por las evaluaciones disponibles.
+                  a. Declaración de objetivos de desarrollo del proyecto
+2.24 El objetivo general de este programa fue contribuir a la disminución del delito violento en la
+     ciudad de Montevideo. La contribución del Programa a la disminución del delito violento, en
+     particular la rapiña, esperaba verse reflejada en la disminución de la prevalencia, medida a la
+     vez mediante el nivel de victimización, y de denuncias (indicadores #1 y #2 de impacto). Para
+     ello el Programa definió como objetivos específicos: (i) incrementar la eficacia de la fuerza
+     policial para la prevención y esclarecimiento de delitos en los territorios seleccionados; y (ii)
+     incrementar la reinserción social de menores de edad de 12 a 17 años con altos factores de
+     riesgo asociados a conductas violentas y delito en las áreas de influencia del programa.
+2.25 Los resultados esperados se vinculaban por un lado con “Mejorar la eficacia de la fuerza
+     policial para la prevención y esclarecimiento de delitos en áreas de influencia del Programa
+     (Resultado #1); y por otro lado con “Disminuir el crecimiento de la participación de menores
+     en delitos violentos en el área de influencia del Programa (Resultado #2).
+2.26 Las mejoras en la eficacia de la fuerza policial para la prevención y el esclarecimiento se
+     verían reflejadas en mejoras en: la cantidad de delitos registrados en Montevideo (#1.1); la
+     cantidad de delitos esclarecidos en Montevideo (#1.2); la cantidad de denuncias de hurto de
+     vehículo en Montevideo (#1.3); la percepción del desempeño policial en el área de
+     intervención (#1.4); y la cantidad de delitos de rapiña no denunciados.
+2.27 Por su parte, la disminución del crecimiento de la participación de menores en delitos violentos
+     esperaba verse reflejada en la disminución de: el número de menores implicados en Rapiñas
+     en las seccionales tratadas (#2.1); y en la tasa de reincidencia, de los menores infractores
+     registrados en Montevideo (#2.2).
+2.28 Como se discutió anteriormente, durante la ejecución del programa, hubo una expansión del
+     policiamiento PADO, y el diseño se ajustó pasando de tres comisarias con modelo POP a un
+     conjunto de intervenciones POP en todo Montevideo. Por tanto, las definiciones geográficas
+     definidas en el momento del diseño se vieron afectadas. De esta manera, los indicadores de
+     resultado se ajustaron para medir mejor el alcance de los resultados del programa, por
+     ejemplo, el indicador de “Delitos de rapiña esclarecidos en seccionales tratadas, en relación
+     con seccionales no tratadas” se redefinió a “Delitos de rapiña esclarecidos en Montevideo”
+     No obstante, los cambios realizados en la matriz de resultados no afectaron la lógica vertical
+     y se encuentran alineados con los objetivos específicos planteados en el diseño de la
+     operación. Todos los cambios relevantes pueden verse en la tabla I de la sección 2.1 de este
+     documento.
+                  b. Resultados logrados
+2.29 En esta sección se presenta un detalle de los resultados esperados para cada componente,
+     su indicador y metas originalmente definidos, y los valores alcanzados al cierre del Programa,
+     incluyéndose una razón del porcentaje de logro para cada caso. Ver resumen en Tabla 2a.
+     Matriz de Resultados Alcanzados
+                                                                                                   19
+"
+"2.30 Durante la ejecución del Programa se midieron y reportaron al Banco en forma semestral los
+     indicadores de productos de acuerdo con la Matriz de Resultados vigente. Las mediciones
+     correspondientes a los resultados fueron recogidas por evaluaciones de intervenciones
+     específicas, o realizadas al finalizar el período de ejecución.
+2.31 El objetivo general del programa fue parcialmente logrado en términos de incidencia en los
+     niveles de delito violento, pero se entiende que existen resultados intermedios visibles en la
+     medida que hoy se cuenta con una policía fortalecida y entrenada en servicios policiales
+     orientados hacia la comunidad, con una mejor capacidad de respuesta a incidentes y un mejor
+     reporte de las denuncias por parte de la ciudadanía en Montevideo.
+2.32 En cifras, el impacto sobre los indicadores seleccionados es mixto, se registraron mejoras en
+     el nivel de victimización (bajando de 29.89% a 28.24% entre 2012 y 2016), aunque la mejora
+     fue menor a la esperada (5% vs 10%), pero hay que considerar que se trata de una medición
+     asociada al delito en general y no específicamente a la rapiña por no disponerse de fuentes
+     de información confiables que permitan medir específicamente ese tipo de delito. Por otro
+     lado, la aproximación realizada mediante la medición de la tasa de denuncias c/100.000
+     habitantes, manifiesta un impacto negativo, en la medida que el nivel de denuncias se
+     incrementó de 915 a 1059 para cada 100.000 habitantes en el período 2011-2016. Sin
+     embargo, para analizar estas cifras es importante considerar que el delito en general tiene
+     tendencias, de compleja reversión, y el Programa se impuso metas sobre el nivel de delito,
+     no sobre la evolución de la tendencia, si observamos el nuevo indicador de resultados 1.1
+     que se agregó, el cual mide la tendencia en las rapiñas consumadas, se ve el efecto en la
+     reducción de la tendencia. Pensar en indicadores de este tipo a futuro puede ser una forma
+     de detectar mejor los posibles efectos en este tipo de variables de difícil reversión en valores
+     absolutos.
+2.33 La Tabla 2.a muestra los valores alcanzados tanto para los indicadores de impacto como para
+     los de resultados, y a continuación, se analiza el logro de los resultados esperados, y la
+     entrega de los productos previstos, organizados por cada Componente (Resultado).
+                                                                                                   20
+"
+"                     Tabla 2a. Matriz de Resultados Alcanzados
+                                                                      Valor de      Año de                        Ratio de
+                                                        Unidad de                                Metas y                       Medios de
+Impacto/Indicador                                                     línea de      línea de                      Logro (%
+                                                          Medida                                 alcance real                  verificación
+                                                                      base          base                          Alcanzado)
+Impacto #1: Contribuir a la disminución del delito violento en la ciudad de Montevideo.
+                                                                                                 P         26.88
+Indicador # 1.1 Victimización por delito en
+                                                             %               29.87         2012 P(a)                   55%     LAPOP
+Montevideo.
+                                                                                                 A         28.24
+                                                                                                 P            827              Observatorio del
+Indicador # 1.2 Rapiñas consumadas en                   Tasa c/100
+                                                                               915         2012 P(a)            0     -164%    Ministerio del
+Montevideo                                                mil hab
+                                                                                                 A          1059               Interior (MI).
+                                                      Unidad     Valor de     Año de                             Ratio de
+Resultado/Indicador                                      de      línea de     línea de     Metas y alcance real Logro (%    Medios de verificación
+                                                      Medida     base         base                               Alcanzado)
+Resultado # 1 Mejora la eficacia de la fuerza policial para la prevención y esclarecimiento de delitos en áreas de influencia del Programa.
+                                                     Variación                             P              1.5%
+Indicador # 1.1 Evolución de rapiñas                 anual de                                                        100
+                                                                      1.6%          2012 P(a)                               MI-Observatorio
+consumadas en Montevideo.                             la tasa                                                     (6000%)
+                                                       en %                                A (2017)      -4.4%
+                                                                                           P                3.9
+Indicador # 1.2 Delitos de rapiña esclarecidos en                                                                           Ministerio del Interior-
+                                                         %              3.56        2013 P(a)                        27%
+Montevideo                                                                                                                  SGPS
+                                                                                           A (2017)        3.65
+                                                                                           P              7365
+Indicador # 1.3 Denuncias de hurto de vehículo                                                                      100%
+                                                      número           8183         2012 P(a)                               Ministerio del Interior
+en Montevideo.                                                                                                     (158%)
+                                                                                           A (2017)       6892
+Indicador # 1.5 Percepción del desempeño                                                   P                 43      0%     Encuesta de
+                                                         %                39        2011
+policial en área de intervención.                                                          P(a)                   (-218%)   Victimización
+                                                                                                                                                    21
+"
+"                                                    Unidad    Valor de   Año de                               Ratio de
+Resultado/Indicador                                   de      línea de   línea de     Metas y alcance real Logro (%       Medios de verificación
+                                                    Medida    base       base                                 Alcanzado)
+                                                                                      A (2017)         30.3
+                                                                                      P                  56
+Indicador # 1.6 Delitos de rapiña no                                                                                      Encuesta de
+                                                      %               59       2012 P(a)                          S/D
+denunciados.                                                                                                              victimización
+                                                                                      A                 S/D
+                                                                                      P                  45
+Indicador # 1.4 Tiempo de toma de conocimiento                                                                   100%     Ministerio del Interior-
+                                                    Minutos           50       2013 P(a)
+para los delitos de rapiña.                                                                                     (530%)    SGPS
+                                                                                      A (2017)      24
+Resultado # 2 Disminución del crecimiento la participación de menores en delitos violentos en el área de influencia del Programa.
+                                                                                      P             844
+Indicador # 2. 3 Jóvenes indagados por rapiña                                                                    100%     Ministerio del Interior -
+                                                       #             938       2012 P(a)
+en Uruguay.                                                                                                     (338%)    Observatorio
+                                                                                      A (2017)      628
+                                                                                      P                34.4
+Indicador # 2.4 Tasa de reincidencia, de jóvenes                                                                 100%
+                                                      %             38.2       2012 P(a)                                  MI-SGSP
+en delitos de rapiña en uruguay.                                                                                (272%)
+                                                                                      A (2017)       27.8
+                                                                                                                                                 22
+"
+"  Resultado #1 Mejora la eficacia de la fuerza policial para la prevención y esclarecimiento
+  de delitos en áreas de influencia del Programa.
+2.34 En términos generales, se considera que el Programa ha avanzado satisfactoriamente en el
+     logro de los resultados esperados en relación con la mejora de la eficacia de la fuerza policial
+     para la prevención y el esclarecimiento de delitos.
+2.35 Pese a que la clasificación automática generada por el check list determina una valoración de
+     “insatisfactorio” para el primer resultado, desde el punto de vista técnico se considera que se
+     registraron resultados positivos, y en algunos casos por encima de los esperados, para la
+     evolución de la rapiña (indicador 1.1) lográndose cambiar la tendencia creciente a una
+     tendencia decreciente; también para el esclarecimiento de delitos de rapiña en Montevideo
+     (indicador 1.2) pasando de 3.56% a 3.65% en el período 2013-2016; para la denuncia de
+     hurto de vehículo (indicador 1.3) pasando de 8183 denuncias al año en 2012 a 6892 en 2017;
+     y en la mejora del tiempo de toma de conocimiento para delito de rapiña (indicador 1.6) que
+     bajó de 50 a 24 minutos entre 2012 y 2017.
+2.36 Fueron menos alentadores los resultados en términos de mejora de la percepción ciudadana
+     sobre el desempeño policial (indicador 1.4), la cual empeoró en el período 2011-2017,
+     pasando de 39% a 30.3% las respuestas favorables. Finalmente, no fue posible medir los
+     efectos en la reducción de los delitos no denunciados (indicador 1.5).
+2.37 Independiente de las variables identificadas en los indicadores de resultados, de las
+     dificultades técnicas que siempre existen para medir este tipo de dimensiones de la seguridad
+     ciudadana, y de los sesgos que pueden acarrear indicadores asociados a la percepción; se
+     entiende que el programa ha logrado mejoras significativas mediante la implementación de
+     un modelo policial comunitario orientado a la solución de problemas no solo en las 3
+     seccionales policiales priorizadas inicialmente, sino en toda la Jefatura de Policía de
+     Montevideo. Asimismo, sentó las bases para la creación del Programa de Alta Dedicación
+     Operativa – PADO, creado como resultado de la aplicación del análisis POP propuesto por el
+     Programa, ampliado en los último años también a los Departamentos de San José y
+     Canelones (limítrofes con Montevideo) para cubrir toda el área metropolitana que concentra
+     el 90% de los delitos17, y que se aplica actualmente también en el interior del país
+     principalmente en la zona turística de la franja costera y zonas de frontera.
+2.38 En una primera etapa el aporte del Programa se concentró en la formación de funcionarios
+     policiales de distinto nivel, en las tres líneas de formación previstas (producto 1.9): Policía
+     Orientada a la Solución de Problemas (POP) (Productos 1.2, 1.3 y 1.4), Análisis estratégico
+     de la información e Investigación criminal (Producto 1.5). De esta manera se formaron 323
+     funcionarios en 2013; 277 funcionarios y 12 fiscales penales del Ministerio Público y Fiscal en
+     2014; 326 funcionarios policiales y 19 fiscales penales del Ministerio Público y Fiscal en 2015;
+     y 47 funcionarios policiales y 4 fiscales en 2016 (Totalizando 973 funcionarios y 35 fiscales).
+     En esta tarea estuvieron involucradas instituciones de primer nivel, entre ellas: Instituto Jill
+     Dando de Seguridad y Ciencia Criminal (JDI), University College of London; Centro de Análisis
+     y Modelamiento en Seguridad (CEAMOS); Instituto de Criminología, Universidad de
+     Cambridge; John Jay College of Criminal Justice, City University of New York.
+2.39 También se destaca la promoción del uso y disponibilización de software predictivo del delito
+     para el patrullaje preventivo inteligente PredPol. Este software opera a partir del análisis de
+     los datos de criminalidad existentes, proporcionando pronósticos en tiempo real sobre la hora
+     y el lugar de ocurrencia de los eventos delictivos. El software delimita áreas de 150 metros
+     cuadrados con alta probabilidad de incidencia delictiva y hace posible optimizar el patrullaje
+  17 AGEV-OPP (2015) .
+                                                                                                  23
+"
+"      e incrementar la capacidad preventiva y disuasiva de la policía. Durante 2015 se implementó
+      una estrategia de patrullaje que combinó el uso de PredPol con la metodología de análisis de
+      puntos calientes denominada Áreas Críticas (producto 1.3). Los indicadores de gestión y
+      desempeño de la herramienta contribuyeron a su evaluación. Las predicciones se realizaron
+      para el delito de rapiña en las comisarías 1, 3, 4, 7, 10, 11, 16, 17, 20, 22, 24, además de las
+      comisarías 15, 19 y 25 inicialmente priorizadas por el Programa.
+2.40 En lo que refiere a los productos entregados, para promover los resultados mencionados, se
+      considera que el Programa tuvo un avance satisfactorio, con un logro promedio del 93% de
+      las metas actualizadas en los 15 productos previstos para el Componente 1 (Ver tabla 2), de
+      los cuales se detallan a continuación algunas actividades.
+2.41 A nivel de implementación de las comisarías modelo (producto 1.1), entre 2013 y 2014 se
+      financiaron obras y mejoras en equipamiento para la seccional 25, y luego las inversiones se
+      ampliaron a la mejora de las condiciones de operación de todas las seccionales de la JPM
+      como ya fue escrito. Por este motivo, este producto tuvo una asignación presupuestal final
+      72% mayor al monto inicialmente previsto.
+2.42 A partir de la ejecución del Programa y el vínculo con la academia internacional, se propuso
+      sustituir la realización del Tablero de Control originalmente previsto (producto 1.3), por la
+      contratación e implantación del software PredPol, que es una herramienta de predicción de
+      incidentes delictivos, junto con la implementación de la metodología de análisis de puntos
+      calientes (Áreas Críticas). El software opera a partir del análisis de los datos de criminalidad
+      existentes, proporcionando pronósticos en tiempo real sobre la hora y el lugar de ocurrencia
+      de los eventos delictivos18, y posibilitando la optimización del patrullaje y el incremento de la
+      capacidad preventiva y disuasiva de la policía.
+2.43 En relación con la mejora de la actuación policial, con el apoyo de criminólogos de Florida
+      Atlantic University, se realizaron en 2013 los protocolos de actuación policial para estandarizar
+      y optimizar las prácticas de patrullaje policial disuasivo en los puntos de predicción del delito
+      establecidos por PredPol19 (producto 1.4). Y en forma posterior, se apoyó la revisión del
+      programa de trabajo policial basado en hot spots en Montevideo (Programa de Alta
+      Dedicación Operativa –PADO-) y la instrumentación del trabajo policial orientado a problemas
+      y su impacto, a partir de una consultoría que propuso ajustes para fortalecer el programa en
+      materia de capacitación del personal, herramientas de gestión y enfoque20.
+2.44 Se superó el alcance previsto originalmente de creación de Unidades de Análisis únicamente
+      en las Seccionales Policiales Nos. 15, 19 y 25 (producto 1.5). Y se implantó el software
+      PredPol primero en la Dirección de Información Técnica y luego en las tres seccionales piloto,
+      y demás Unidades de Respuesta de la Policía de Montevideo (URPMs) y del Grupo de
+      Reserva Táctica, dependientes de las cinco Jefaturas operacionales de la ciudad.
+2.45 La herramienta PredPol fue contratada para predecir eventos delictivos en la Jefatura de
+      Policía de Montevideo, y se aplica desde 2015 en el marco de una estrategia de patrullaje
+      que combinó el uso de PredPol con la metodología de análisis de puntos calientes
+      denominada Áreas Críticas. En ese año el sistema PredPol fue integrado al sistema de
+      Compromisos de Gestión del Ministerio del Interior21, lo cual contribuye a garantizar el uso
+  18  A través de la aplicación de matemáticas basadas en los modelos de predicción de terremotos y sus réplicas, la
+      herramienta informática alcanza el doble de precisión que los métodos tradicionales de análisis criminal. El software
+      delimita un área de 150 metros cuadrados con alta probabilidad de incidencia delictiva.
+  19 Memorias institucionales de la Unidad Ejecutora. Años 2014 y 2015.
+  20 MI (2016).
+  21 Memoria Institucional de la Unidad Ejecutora. Año 2015.
+                                                                                                                        24
+"
+"     efectivo de la herramienta por parte de las unidades encargadas del despliegue de recursos
+     de patrullaje en la ciudad.
+2.46 En el marco del fortalecimiento de las capacidades de análisis delictual y criminal, también se
+     realizó con apoyo del Programa: (i) una evaluación de los efectos del uso de cámaras de
+     video en los uniformes de la Dirección Nacional de Policía de Tránsito en el comportamiento
+     de policía y conductores, a cargo de la Universidad de Cambridge; (ii) el desarrollo de un
+     Panel de Análisis Delictivo, a través del software QlikView, cuyas funcionalidades permiten
+     realizar un análisis delictivo para la definición de estrategias de patrullaje y despliegue policial
+     en base a las tendencias delictivas y los recursos disponibles, sobre la totalidad de delitos y
+     faltas registradas en el SGSP y datos demográficos del Instituto Nacional de Estadística (INE),
+     (iii) la incorporación del software ArcGIS, que es una herramienta para la edición y producción
+     de datos complejos, de mapeo, análisis y de geoprocesamiento.
+2.47 Estas actividades mejoran el diagnóstico de la criminalidad y el monitoreo del patrullaje
+     disuasivo en la zona Metropolitana. En particular, las herramientas informáticas permitirán
+     reducir el tiempo destinado hoy de la Unidad de Análisis Criminal de la Policía Nacional en la
+     elaboración de diagnósticos georreferenciados de la criminalidad, permitiendo desarrollar y
+     profundizar nuevas tareas de análisis criminal.
+2.48 El Código de Ética Policial fue diseñado por la Organización de Estados Americanos (OEA) y
+     aprobado por el MI en 2015 (producto 1.6). Se trata de un código de 22 artículos que sintetizan
+     los principios éticos de la Policía Nacional de Uruguay, y que rige su comportamiento en tanto
+     servidores públicos. El código está inspirado en la defensa de los derechos humanos y en el
+     cumplimiento de la Ley.
+2.49 Es importante destacar la entrega de nuevo mobiliario y equipos informáticos para las
+     Seccionales Policiales Nos. 15, 19 y 25 (producto 1.7) y la capacitación presencial y virtual en
+     aspectos de proximidad a la ciudadanía e investigación del delito de base local, en comisarías
+     (producto 1.8).
+2.50 Asimismo, en el marco de los Productos 1.9, 1.10, 1.11 y 1.12, se capacitaron 850 Policías y
+     8 docentes en aspectos de proximidad, investigación del delito de base local y
+     gerenciamiento, y se otorgaron becas de estudios en el exterior para 47 policías y 8 docentes.
+     El préstamo apoyó el diseño e implementación de convenios del MI con centros de
+     criminología de reconocimiento mundial que capacitaron al personal del Ministerio en técnicas
+     e intervenciones con evidencia robusta de impacto. Los principales colaboradores incluyeron
+     al Instituto de Criminología (Universidad de Cambridge), el Instituto Jill Dando de la Ciencia
+     del Crimen (Universidad del Colegio de Londres), y la Escuela de Justicia Criminal John Jay
+     (Universidad de la Ciudad de Nueva York). Estas colaboraciones permitieron que expertos de
+     renombre global no solo capacitaran a funcionarios y policías del Uruguay sino también
+     asesoraran en la adopción de técnicas de análisis criminal y patrullaje de zonas críticas, o el
+     piloto de POP. Los cursos de capacitación se organizaron en torno a tres ejes temáticos:
+     (i) Análisis Estratégico de la Información Criminal, (ii) Investigación Policial y (iii) Policiamiento
+     Orientado a Problemas.
+2.51 El Programa también apoyó el fortalecimiento de la ENP a través de la dotación de un sistema
+     de videoconferencia, una pantalla de cine para dictar cursos y seminarios, mobiliario y
+     equipamiento informático (producto 1.13). Facilitó que la OEA capacitara en Ética Policial, en
+     forma presencial, a 25 policías que luego oficiaron de instructores y mentores del curso virtual
+     del mismo contenido, del que participaron otros 645 policías (producto 1.14). Y que se
+     implementaran planes anuales de difusión y sensibilización en Ética Policial (producto 1.15).
+                                                                                                         25
+"
+"      Resultado # 2 Disminución del crecimiento la participación de menores en delitos
+      violentos en el área de influencia del Programa.
+2.52 El Componente 2 del Programa, co-ejecutado con el Ministerio de Desarrollo Social, se
+      propuso poner en marcha una estrategia de acompañamiento de proximidad a adolescentes
+      en conflicto con la ley, dirigida a prevenir su participación en actividades delictivas. En cuanto
+      a la participación de menores y jóvenes en delitos violentos en el área de influencia del
+      programa (Resultado #2), se identificaron mejoras en la reducción del número de jóvenes
+      indagados por rapiña en el país (Indicador 2.1), que bajó de 938 en 2012 a 628 en 2017. Y
+      también se identificó una reducción muy relevante en la tasa de reincidencia de los jóvenes
+      en los delitos de rapiña (indicador 2.2), que bajó de 38.2% en 2012 a 27.8% en 2017 (más
+      del doble de la reducción inicialmente esperada).
+2.53 Adicionalmente, se identificaron algunos logros complementarios, en los menores tratados
+      que guardan relación con la prevención de la reincidencia: el 49% de los casos atendidos
+      hasta junio de 2015 se reinsertó en la educación, el 12% en capacitación laboral y el 17% se
+      incorporó a un empleo22.
+2.54 Se considera importante destacar que el Programa ha promovido -de manera articulada con
+      el sector social- la construcción de modelos de intervención específicos para población juvenil
+      de alta vulnerabilidad y riesgo socio-delictual, financiando la mejora de sistemas de
+      información (producto 2.1), la capacitación de técnicos y la difusión de evidencias
+      internacionales en el abordaje efectivo de esta población, pese que no fue posible el diseño
+      del plan de formación previsto (producto 2.2), y el acompañamiento activo de 349
+      adolescentes en conflicto con la Ley (productos 2.3 y 2.4). Cabe mencionar que el costo final
+      del producto 2.4 fue significativamente menor que el planeado originalmente (65% del P), esto
+      se debe en parte a una cobertura menor a la planificada, y en parte a que la segunda fase
+      implementada en el marco del Programa Jóvenes en Red redundaba en una reducción de los
+      costos por beneficiario, en virtud de que parte del equipo técnico y de los gastos era provisto
+      por el MIDES.
+2.55 El acompañamiento fue realizado en dos fases, siendo que en la primera (2015-2016)
+      implementada por la ONG CEPID fueron seleccionados 400 jóvenes, de los cuales aceptaron
+      304 que iniciaron el proceso de acompañamiento, y 126 efectivamente lo completaron y
+      egresaron (41%). En esta fase se encontraron algunas dificultades para la implementación de
+      metodologías específicas para población con riesgo socio delictivo. En la segunda etapa
+      implementada por MIDES-INJU (2016-2017) fueron derivados 146 jóvenes, de los cuales 62
+      iniciaron el proceso, y 19 efectivamente lo completaron y egresaron (31%).
+2.56 En lo que refiere a los productos entregados, se identifica un avance satisfactorio en el
+      cumplimiento de las metas, en un 50% de los productos del Componente 2.
+2.57 De esta forma, el Programa ha complementado las acciones del Ministerio del Interior que
+      apuntan a una mejora de la eficacia de la fuerza policial y la disminución del crecimiento de
+      la participación de menores en delitos violentos, contribuyendo indirectamente a la
+      disminución del delito violento en la ciudad de Montevideo.
+  22 Pantoja, Rodrigo (2015).
+                                                                                                      26
+"
+"                                                        Tabla 2.b Matriz de productos alcanzados
+                                                                         Valor de la                      Metas y           Ratio de
+                                                             Unidad de                  Año de la                                               Medios de
+  Producto/Indicador23                                                    línea de                      alcance real        Logro (%
+                                                               Medida                    línea de                                              verificación
+                                                                             base                          (2017)          Alcanzado)
+  Componente #1 Desarrollo de un modelo policial orientado a la solución de problemas.
+  Producto # 1.1 Comisaría Modelo de aproximación                                                       P          3
+                                                                                                                                               Informes del
+  comunitaria con lógica de solución de problemas               Obras         0            2012        P(a)        3
+                                                                                                                               100%              Ejecutor
+  implementada.                                                                                         A          3
+  Producto # 1.2 Propuesta de Comisaría Modelo de                                                       P          1
+                                                                                                                               100%            Informes de
+  aproximación comunitaria con lógica de solución de         Documento        0            2012        P(a)        1
+                                                                                                                             (200%)            consultorías
+  problemas implementada.                                                                               A          2
+  Producto # 1.3 Tablero de Control con indicadores de          Crime                                   P          1
+                                                                                                                                0%
+  proceso, resultados e impacto para orientar la tarea del   information      0            2012        P(a)        1                       Sistema informático
+                                                                                                                               (0%)
+  personal diseñado e implantado.                            systems (#)                                A          0
+                                                                                                        P          1
+  Producto # 1.4 Protocolos de actuación de policía                                                                                            Informes de
+                                                             Documento        0            2012        P(a)        1           100%
+  comunitaria y de investigación criminal diseñados.                                                                                           consultorías
+                                                                                                        A          1
+                                                                                                        P          3
+  Producto # 1.5 Unidades de análisis (delictual para                                                                          100%            Informes del
+                                                               Unidad         0            2012        P(a)        3
+  prevención y criminal para persecución) creadas.                                                                           (133%)              Ejecutor
+                                                                                                        A          4
+                                                                                                        P          1
+                                                                                                                                               Informes del
+  Producto # 1.6 Código de Ética Policial diseñado           Documento        0            2012        P(a)        1           100%
+                                                                                                                                                 Ejecutor
+                                                                                                        A          1
+  Producto # 1.7 Seccionales policiales que modernizan                                                  P          3
+                                                                                                                                               Informes del
+  su infraestructura para favorecer la participación y       Seccionales      0            2012        P(a)        3           100%
+                                                                                                                                                 Ejecutor
+  atención ciudadana.                                                                                   A          3
+  Producto # 1.8 Plan de capacitación presencial y virtual                                              P          1
+  en aspectos de proximidad a la ciudadanía e                                                          P(a)        1           100%            Informes del
+                                                             Documento        0            2012
+  investigación del delito de base local, en comisarías                                                                                          Ejecutor
+                                                                                                        A          1
+  piloto implementado.
+  Producto # 1.9 Policías capacitados en aspectos de                                                    P        750
+                                                                                                                               100%              Memoria
+  proximidad, investigación del delito de base local y         Policías       0            2012        P(a)      750
+                                                                                                                             (113%)            Institucional
+  gerenciamiento.                                                                                       A        850
+23 La doble numeración en el caso de los productos corresponde a que para el PMR se decidió modificar la numeración inicial prevista en la Matriz de Resultados
+aprobada, en la cual la numeración se relacionaba con los subcomponentes a los que el indicador hacía referencia. Para evitar la desvinculación entre el PCR y la
+documentación de aprobación del proyecto se mantiene la numeración original entre paréntesis en cada caso.
+                                                                                                                                                             27
+"
+" Producto # 1.10 Docentes capacitados en aspectos de                                             P       8
+ proximidad, investigación del delito de base local y                                           P(a)     8            Memoria
+                                                            Docentes    0           2012                   100%
+ gerenciamiento (acompañados con coaching de 8                                                                      Institucional
+                                                                                                 A       8
+ profesores internacionales al año).
+ Producto #1.11 Policías capacitados en centros                                                  P      34
+ académicos internacionales en aspectos de                                                      P(a)    34            Memoria
+                                                            Policías    0           2012                   138%
+ proximidad, investigación del delito de base local y                                                               Institucional
+                                                                                                 A      47
+ gerenciamiento.
+ Producto #1.12 Docentes capacitados en centros                                                  P       6
+ académicos internacionales en aspectos de                                                      P(a)     8            Memoria
+                                                            Docentes    0           2012                   100%
+ proximidad, investigación del delito de base local y                                                               Institucional
+                                                                                                 A       8
+ gerenciamiento.
+ Producto #1.13 Escuela Nacional de Policía                                                      P       1
+                                                               ENP                                                  Informes del
+ modernizada en aulas y equipamiento para formación                     0           2012        P(a)     1 100%
+                                                          Modernizada                                                 Ejecutor
+ virtual                                                                                         A       1
+                                                                                                 P     750
+                                                                                                                    Informes del
+ Producto #1.14 Policías capacitados en Ética Policial.     Policías    0           2012        P(a)   750
+                                                                                                            89%       Ejecutor
+                                                                                                 A     670
+                                                                                                 P       3
+ Producto #1.15 Planes anuales de difusión y                                                                        Informes del
+                                                             Planes     0           2012        P(a)     3 100%
+ sensibilización en Ética Policial implementados.                                                                     Ejecutor
+                                                                                                 A       3
+ Componente #2 Desarrollo de una red social de prevención secundaria y terciaria de violencia juvenil.
+ Producto #2.1 Sistema informático de alerta temprana                                            P       1
+ de violencia juvenil que consolide estadísticas sociales   Sistema     0           2012        P(a)     2  50% Sistema informático
+ y judiciales en funcionamiento.                                                                 A       1
+ Producto #2.2 Plan de capacitación presencial y virtual                                         P       1
+                                                                                                                    Informes del
+ en aspectos de prevención de violencia juvenil,               Plan     0           2012        P(a)     1   0%
+                                                                                                                      Ejecutor
+ diseñado.                                                                                       A       0
+                                                                                                 P       8
+ Producto #2.3 Supervisión técnica de alerta temprana                                                               Informes del
+                                                          Supervisores  0           2012        P(a)    10  90%
+ en funcionamiento                                                                                                    Ejecutor
+                                                                                                 A       9
+ Producto #2.4 Modelo Integral e Intensivo de                                                    P       6
+ acompañamiento a adolescentes en funcionamiento,                                               P(a)     9
+                                                                                                                    Informes del
+ incluyendo tutoría especializada, apoyo psicológico      Instituciones 0           2012                    88%
+                                                                                                                      Ejecutor
+ individual y para el grupo familiar y programas                                                 A       8
+ recreativos y de apoyo escolar implementado.
+Donde: P = Programación inicial; P (a) = Meta Anual Revisada; A = Actual.
+                                                                                                                                  28
+"
+"                     c. Análisis contrafactual
+2.58 La atribución de los resultados alcanzados debe ser analizada tomando en cuenta el contexto
+      de las medidas aplicadas en cuanto organización de la Jefatura de Policía de Montevideo en
+      el período 2013-2017. Entre las que se encuentran, sin financiamiento del Programa: (i) la
+      descentralización en cuatro zonas operacionales, (ii) la reconfiguración de la estructura de
+      cada jefatura (pasando a estar formada por un comisario, área de investigación y área de
+      respuesta de patrullero), (iii) la incorporación de una quinta zona operativa, compuesta de
+      División de Tránsito, Grupo de Reserva Táctica, entre otras, (iv) la creación de la Unidad de
+      Respuesta de la JPM, descentralizando el patrullaje; y (v) la Operación Luz Roja, que satura
+      el patrullaje en lugares más delictivos. Complementariamente, se sumaron las estrategias de
+      focalización del patrullaje a partir de acciones financiadas por del Programa tanto en términos
+      de capacitación, como de pilotaje de metodologías, y de Software. Entre estas: (i) la creación
+      inicialmente de la Dirección de Información Táctica, y luego de la Unidad de Análisis Criminal
+      (UAC) por medio de la cual se profundiza la distribución de patrullaje de acuerdo a criterios
+      de delitos geo-referenciados; (ii) la profundización en 2015 del uso del software PREDPOL a
+      la mitad de Seccionales de Montevideo, (iii) la reasignación de mayor policiamiento en la
+      Seccional 25; y (iv) la creación del PADO en abril de 2016, que tiene por objetivo reducir los
+      delitos contra la propiedad.
+2.59 Asimismo, la operación también ha convivido con otras intervenciones en el área social, que
+      apuntan a disminuir la incidencia de jóvenes en delitos violentos. A modo de ejemplo, se citan:
+      “Programa de Integración Social para Jóvenes en Riesgo” (UR-T1092) y el Programa Jóvenes
+      en Red24 ejecutados por el MIDES y el Programa de “Prevención de violencia en adolescentes
+      a través de deportes y otras actividades” (UR-T1077), ejecutado por Fundación Celeste y el
+      Ministerio del Interior.
+2.60 En términos de evidencia, como parte del programa se desarrollaron evaluaciones de impacto
+      y de resultados. Por un lado, se realizó una evaluación del impacto de las medidas aplicadas
+      en la Policía de Montevideo en el período 2013-2015, utilizando la metodología de diferencias
+      en diferencias entre el comportamiento en Montevideo, y en otro departamento del país
+      identificado a tales efectos25. Por otro lado, se realizó una evaluación de resultados de PADO,
+      que inició su implementación en abril de 201626, comparando información administrativa del
+      período 11-abr-2015 al 10-abr-2016 (sin PADO) con la información del período 11-abr-2016
+      al 10-abr-2017 (con PADO)27 y; finalmente, se realizó una evaluación de los resultados del
+      Componente 2 del Programa28.
+2.61 Estas evaluaciones evidencian la incidencia de las intervenciones en los efectos alcanzados,
+      y la atribución es amparada además por evidencia internacional ya conocida desde el diseño
+      de las intervenciones. Cabe mencionar que en el diseño del Programa se previó la realización
+      de otra evaluación de impacto que no fue posible realizar debido a la expansión del área de
+      cobertura de las intervenciones.
+  24 El Programa apunta a promover el ejercicio de derechos de adolescentes y jóvenes entre 14 y 24 años que estén
+  desvinculados del mercado formal de trabajo y del sistema educativo sin haber culminado Ciclo Básico.
+  25 Cid, Alejandro (2017).
+  26 Ver nota de prensa de inicio del funcionamiento del PADO, del 11 de abril de 2016 que incluye video explicativo
+  https://www.minterior.gub.uy/index.php/78-noticias/ultimas-noticias/3669-pado
+  27 AGEV-OPP Evaluación de Diseño, Implementación y Desempeño (DID).
+  28 Pantoja, Rodrigo (2015).
+                                                                                                                 29
+"
+"2.62 A continuación, se explican estas relaciones para cada resultado esperado.
+2.63 En relación con el Impacto #1, relativo a la disminución del delito violento en la ciudad de
+      Montevideo, se combinan los resultados de las dos evaluaciones antes mencionadas. Por un
+      lado, la evaluación de impacto mostró indicios de una asociación significativa entre las
+      medidas aplicadas en Montevideo por el Ministerio del Interior, y con apoyo del Programa, en
+      el período 2013-2015 y la disminución del número de rapiñas. En particular, comparando
+      zonas de Montevideo con zonas semejantes de Canelones (Toledo y Las Piedras), la
+      aplicación de las medidas tomadas en la Policía estaría asociada con una disminución de
+      entre 1,2% y 3,2% en el número de rapiñas entre 2013 y 2015. Si se comparan los efectos en
+      la Seccional 25 de Montevideo respecto a las otras Seccionales del Departamento, las
+      medidas tomadas en ese período estarían asociadas con una disminución de las rapiñas en
+      el rango de 0,35% a 1,27%. Esta evaluación ha demostrado, mediante la metodología de
+      diferencias en diferencias, una asociación significativa entre las medidas aplicadas por la JPM
+      en el período 2013-2015 y la reducción de las rapiñas de entre el 1,2% y 3,2%, si se comparan
+      zonas de Montevideo con zonas semejantes de Canelones (Toledo y Las Piedras), y de entre
+      0,35% y 1,27% si se comparan los efectos de la Seccional Policial No. 25 con otras
+      Seccionales del Departamento29.
+2.64 Complementariamente, la evaluación DID del PADO concluye que los datos del año 2016
+      “parecen confirmar la eficacia de la intervención, ya que se constata un descenso en las
+      rapiñas, que puede considerarse, al menos en parte, un efecto de la actuación de PADO”.
+      Las rapiñas en Montevideo (delitos y tentativas) disminuyen un 7% en el período 2015-2016,
+      tomando los meses de abril a agosto de cada año, y disminuyen un 3%, si se consideran los
+      meses de enero a agosto. Asimismo, el estudio concluye que las reducciones en las rapiñas
+      entre 2015-2016 “son particularmente pronunciadas en las zonas en que actúa PADO30
+      (disminuye 21% en circuitos PADO y aumenta 5% fuera de circuitos PADO, en Montevideo),
+      lo que justifica atribuirle la mayor parte de la reducción del delito de rapiña”. Otros delitos
+      también experimentaron un decrecimiento durante el período 2015-2016, particularmente los
+      delitos contra la persona como homicidios, violencia privada y lesiones”. La misma evaluación
+      -realizada por la Agencia de Evaluación (AGEV)- afirma que la intervención tiene una base
+      teórica sólida y que su aplicación se apoya en evidencia empírica 31. Pese a ello, del análisis
+      de los datos elaborados por la Unidad de Análisis Criminal surge que la tasa de disminución
+      de las rapiñas tendió decrecer a medida que pasaban los meses de 2017. “Esto sugiere que
+      los resultados de la intervención decaen a medida que los ofensores adoptan
+      comportamientos adaptativos”32.
+2.65 Este vínculo entre la intervención y el impacto logrado es consistente con otras literaturas que
+      identifican la importancia de un despliegue operativo oportuno de la policía en la vía pública,
+      con adecuados criterios de focalización y número de oficiales33, de la capacitación policial en
+      función del análisis de estadísticas34, y de la capacitación orientada a aspectos comunitarios35
+  29  Cid, Alejandro (2017).
+  30  Las rapiñas en Montevideo disminuyen 7% si se consideran los meses de abril a agosto de cada año, y disminuyen
+      3% si se consideran los meses de enero a agosto.
+  31
+      AGEV-OPP (2015).
+  32 AGEV-OPP (2015).
+  33 Sherman, L. W., (1990)
+  34 R. Soares, R. Viveiros, I. (2010).
+  35 Thomas, G.R. (1998).
+                                                                                                                  30
+"
+"       en la disminución del crimen, así como de la relación entre la articulación de sistemas de
+       información y la prevención criminal36.
+2.66 Programas como el Communities that Care (CDC) de Estados Unidos, que identifican
+       tempranamente estos factores de riesgo a partir de un trabajo coaligado entre la policía y los
+       operadores sociales, poseen evidencia de impacto para disminuir incidencia criminal37. A nivel
+       regional, la evidencia que conjuga simultáneamente trabajo policial comunitario y en base a
+       información criminal y trabajo social de asistencia temprana a los factores de riesgo de
+       violencia: i) El Programa “Fica Vivo” en Belo Horizonte, redujo en un 69% el número de
+       homicidios conforme a su evaluación quasi-experimental (Beato Filho CC. “Impact of Staying
+       Alive Program in a community in BH. ”Rev. Salud Pública. 2010, www.scielo.br/rsp); ii) El
+       Programa de Seguridad de Diadema, ganador del Concurso de Buenas Prácticas de 2006,
+       logró reducir en un 85.71% los homicidios de jóvenes de entre 16 y 20 años, y bajar en 44%
+       el número de adolescentes enviados a centros de detención juvenil del 2001 al 2005; iii) El
+       Programa de la ciudad de Canoas (RS), logró reducir en un 86% las tasas de homicidios de
+       2009 a 2011, siendo uno de los ganadores del Concurso de Buenas Prácticas del BID-
+       Universidad Chile-OSI, 2012.
+2.67 Esta evidencia también es congruente con la priorización otorgada a este tipo de
+       intervenciones en la Estrategia Sectorial de las Instituciones para el Crecimiento y el Bienestar
+       Social (GN-2787-2) en el cual se promueve las evaluaciones de diagnóstico sectoriales,
+       encuestas de victimización, el fortalecimiento de instituciones nacionales y locales en
+       seguridad pública y la generación de conocimiento estratégico para la toma de decisiones,
+       como ser la implementación de sistemas de información que recopilan datos de delincuencia
+       y violencia para la evaluación y monitoreo de políticas. Asimismo, se propone respaldar
+       programas de prevención, protección, integración, empleo y rehabilitación social de grupos
+       vulnerables o en situación de riesgo, especialmente las mujeres y los jóvenes (párrafos 5.46
+       y 5.47).
+2.68 En cuanto al Resultado #1, “Mejora la eficacia de la fuerza policial para la prevención y
+       esclarecimiento de delitos en áreas de influencia del Programa”, [……]38. El documento de
+       Marco Sectorial de Seguridad Ciudadana y justicia del BID destaca el resultado de un
+       experimento realizado durante 2015 en donde se compara la capacidad de un software
+       predictivo con la de analistas criminales entrenados. Los resultados muestran que analistas
+       criminales adecuadamente entrenados son igualmente de efectivos que un software
+       predictivo.
+2.69 Finalmente, en lo que refiere al Resultado #2, “Disminución del crecimiento de la
+       participación de menores en delitos violentos en el área de influencia del Programa”,
+       de acuerdo a la evaluación de resultados realizada a partir de datos administrativos de la
+       primer fase de implementación (2013-201539), la intervención atendió en ese período 147
+       casos, de los cuales 39 son bajas que desertan antes de lograr objetivos planteados; se
+       cuenta con seguimiento de 146 casos; 57 jóvenes acceden a documentos (39%); 50 jóvenes
+  36 Weisburd, D., Morris, N.A., Groff, E.R; Sherman, L.W., Gartin, P. R., Buerger, M. E. (1989).
+  37 Feinberg et al, (2007).
+  38 La literatura internacional que sustenta la relación entre la intervención y el Resultado #1 es la misma que se citó
+     en el párrafo 2.65.
+  39 El componente 2, co ejecutado con el MIDES tuvo dos Fases, una primera con una experiencia piloto implementada
+  en convenio con una Organización No Gubernamental subcontratada por el MIDES, después de la cual se realizó la
+  evaluación de resultados, y se propusieron ajustes técnicos a la metodología de trabajo; y una segunda Fase en que
+  la intervención fue absorbida por el Programa Jóvenes en Red (el programa bandera del MIDES para atender a jóvenes
+  que ni estudian ni trabajan).
+                                                                                                                     31
+"
+"      acceden a asistencia en salud (34%); 98 jóvenes acceden a acciones para su integración
+      social, incluyendo actividades recreativas, deportivas y culturales (66,7%); 73 jóvenes (50% )
+      acceden a beneficios económicos. Estos logros contribuyen a la integración social de los
+      jóvenes, pero que “no tienen mayor incidencia en la probabilidad de incidencia en delito de
+      los usuarios del proyecto”40.
+2.70 Por otro lado, en los ámbitos que sí guardan relación con la prevención de la reincidencia, y
+      que por tanto tienen mayor valor potencial en términos de impacto social, es posible señalar
+      que el proyecto logra resultados al reinsertar en la educación a 72 casos (49%), insertar en
+      capacitación laboral a 18 jóvenes (12.24%) e insertar en empleos a 25 jóvenes (17%)41.
+2.71 Tanto para el diseño metodológico original, como para las recomendaciones de ajuste que
+      tuvieron lugar al finalizar la primera fase como resultado de la consultoría de Rodrigo Pantoja
+      (2015), se analizó una vasta evidencia científica. Entre la mas reciente (2010 y 2015) se
+      destaca: i) el efecto positivo de la intervención motivacional sobre la reincidencia, en jóvenes
+      sancionados por conducir bajo los efectos del alcohol, en el programa “Prime for Life”
+      (Beadnell, Crisafulli, Stafford, Rosengren, & DiClemente, 2015); ii) el efecto positivo sobre la
+      reincidencia de las acciones de justicia restaurativa en distintos tipos de infractores (Bergseth
+      & Bouffard, 2013); iii) una revisión de literatura de 21 estudios de intervención en estados
+      unidos con adolescente infractores mostró que los programas que utilizaron intervenciones
+      de tipo terapéuticas vs control conductual lograron en un 88% de los casos resultados mejores
+      que los de los grupos de control (Evans-Chase & Zhou, 2014).
+2.72 El análisis de esta evidencia empírica permite sostener que: (i) la intervención motivacional
+      para predisponer el cambio conductual en adolescentes infractores de ley es pertinente y
+      beneficiosa, al menos para incrementar el tiempo de sobrevivencia en libertad para los casos
+      potencialmente reincidentes; (ii) las prácticas de justicia terapéutica como los tribunales de
+      tratamiento en drogas y la justicia restaurativa tienen efectos positivos en los adolescentes
+      infractores de ley, pudiendo llegar a producir reducciones significativas de reincidencia; (iii)
+      las intervenciones de carácter cognitivo-conductual muestran resultados mixtos, con
+      experiencias tanto exitosas como de fracaso, sin embargo, los estudios de mejor calidad
+      metodológica (meta-análisis y experimentos) tienden a evidenciar un impacto significativo,
+      aunque de tamaño de efecto moderado sobre la reincidencia en delito, y las intervenciones
+      cognitivo-conductuales se muestran eficaces para generar impacto en variables
+      instrumentales asociadas a la reincidencia, lo cual incluye la reducción de conductas y
+      actitudes agresivas; (iv) las intervenciones de carácter familiar-sistémico tienden a reportar
+      resultados exitosos en términos de reducción de reincidencia en población adolescente
+      infractora de ley, llegando a tener desempeño significativamente superiores a métodos
+      intensivos de gestión de casos; y (v) las intervenciones multimodales que combinan alguno
+      de los componentes anteriores con prácticas orientadas a la eficiencia en la gestión de casos
+      tanto en recintos penales como la comunidad, tienden a mostrar resultados favorables en
+      cuanto a su capacidad para reducir la participación de adolescentes infractores de ley en
+      nuevos delitos.
+                    d. Resultados imprevistos
+2.73 Alcance mayor al previsto en cuanto a la apropiación de los productos del Componente
+      1 al interior de Jefatura de Montevideo. El Programa se había propuesto trabajar en forma
+      piloto con sólo tres Seccionales Policiales, pero sus productos fueron rápidamente
+  40 Pantoja, Rodrigo (2015)
+  41 Pantoja, Rodrigo (2015).
+                                                                                                    32
+"
+"     incorporados por la Jefatura de Montevideo, ampliando su alance geográfico. Esto se aprecia
+     por ejemplo en el uso de PredPol (software financiado como parte del producto 1.3), en la
+     generación de Unidades de Análisis (producto 1.5), así como en las capacitaciones impartidas
+     a gran número de policías de todas las Seccionales de Montevideo (productos 1.9 y 1.1.). Su
+     vínculo con la academia internacional, que le ha permitido introducir nuevos conocimientos,
+     pilotear la implementación de metodologías y luego evaluarlas42, seguramente contribuyen a
+     una rápida apropiación y expansión de los resultados.
+2.74 Catalizador de propuestas innovadoras al interior del MI. El vínculo logrado con
+     especialistas y centros académicos internacionales en investigación criminal y policiamiento
+     orientado a la solución de problemas ha facilitado la incorporación de herramientas novedosas
+     para el país y la región, así como la evaluación de su implementación, e incluso la generación
+     de nuevas iniciativas que serían instrumentadas por otros actores del sector. A modo de
+     ejemplo, en el marco del Programa, y en particular como producto del desarrollo de la
+     metodología POP, el Ministerio del Interior ha planificado la implementación de un plan
+     piloto de justicia restaurativa43 en seccionales policiales de la Jefatura de Policía de
+     Montevideo (incluidas las seccionales 15, 19 y 25) con financiamiento de Rentas Generales;
+     estos programas tienen evidencia científica de efecto positivo en la disminución de la
+     reincidencia delictiva. También se prevé la implementación de un proyecto piloto de
+     cámaras de video en uniformes, a ser financiado por el nuevo Programa. Ambas iniciativas
+     coordinadas desde la Unidad Ejecutora del Programa. En particular, en el marco del plan
+     piloto de justicia restaurativa, se realizaron actividades para la sensibilización de los actores
+     del sistema judicial penal, se redactó un proyecto de Ley sobre justicia restaurativa en
+     Uruguay, y en 2015 comenzaron a ejecutarse conferencias de mediación entre las partes
+     involucradas con alto grado de éxito (26 acuerdos firmados en 28 conferencias de mediación
+     en 2016).
+2.75 Institucionalización de modelos exitosos, como el PADO. Los distintos productos del
+     Programa que permitieron la creación de la Unidad de Análisis Criminal, como son las
+     herramientas informáticas y metodologías para el análisis del delito, así como modelos para
+     la organización del policiamiento, la sensibilización y capacitación en las teorías
+     criminológicas y en la evidencia empírica sobre patrullaje en puntos calientes, y las
+     evaluaciones de las intervenciones, han sido pasos que han permitido generar nuevos
+     modelos organizacionales, como es el PADO. El PADO estaba teniendo buenos resultados
+     en la reducción de la rapiña hasta 2017, y ha sido institucionalizado en el Ministerio, con vías
+     de aumentar su cobertura.
+2.76 Institucionalización de un Área Conflicto con la Ley en el Instituto Nacional de la
+     Juventud (INJU). Se crea un área específica vinculada con el conflicto con la Ley, la que
+     asume la referencia técnica y programática de la articulación con actores involucrados en esta
+     área de políticas (MIDES, MI, INJU, Instituto de Inclusión Social Adolescente –INISA-). En el
+     marco de esta Área se coordinan las actividades de del Programa de Acompañamiento al
+     Egreso en Comunidad y el Componente II de Gestión Integrada Local de Seguridad
+     Ciudadana.
+  42 La investigación que analiza el rendimiento de un software de policía predictiva y que realiza experimentos de
+     dosificación de la fuerza policía, es la primera realizada en un país en desarrollo.
+  43 La justicia restaurativa es un método de resolución de conflictos que implica reunir a víctimas e infractores para
+     alcanzar acuerdos de restauración del daño causado por estos conflictos.
+                                                                                                                    33
+"
+"  2.3 Eficiencia
+2.77 Si bien durante el diseño de la operación no se previó la realización de un análisis económico
+     ex post, el mismo fue realizado satisfactoriamente con las siguientes características:
+          Metodología
+2.78 En la etapa de aprobación del proyecto, con la información disponible se llevó a cabo un
+     análisis costo beneficio (ACB), en ese momento consideraron los efectos que tendría la
+     disuasión y el esclarecimiento de delitos, bajo los supuestos de ahorros en el sistema penal,
+     en el sistema judicial, en el gasto público en salud de casos derivados de delitos, en el gasto
+     público y privado en seguridad, en ahorro en pérdidas de valor de la propiedad afectada por
+     la delincuencia y en pérdidas por muerte o incapacidad. El análisis de costo-beneficio del
+     Componente I, estimó que en el caso de que se cumplan las metas establecidas, el beneficio
+     por cada dólar invertido sería de aproximadamente US$9.58. Para en el caso del Componente
+     II, esta cifra ascendió a US$13.99.
+2.79 Durante la preparación de este PCR, se actualizó el análisis costo beneficio con los resultados
+     observados del programa, en efecto, los beneficios económicos se derivaron de los logros
+     alcanzados durante el proyecto y reportados en la Cuadro 1, por ejemplo, se contabilizó el
+     número de rapiñas evitadas por el programa y asimismo, se consideró dentro de los beneficios
+     económicos que menos jóvenes se encuentren involucrados en delitos.
+2.80 Con respecto a los costos, se incluyeron todos los costos del proyecto desde el inicio hasta
+     el cierre de operaciones.
+          Supuestos
+2.81 Costos: se tomaron los costos reportados en los estados financieros auditados, de la versión
+     final registrada en convergencia. Fueron excluidos los costos de monitoreo y evaluación.
+2.82 Tasa de descuento: Se consideró una tasa del 12%.
+2.83 Período contemplado: Se realizaron los cálculos considerando el período de 2013 a 2017,
+     debido a que un 99% de los recursos se ejecutaron hasta 2017.
+          Resultados
+2.84 En base a los supuestos expuestos y considerando solo los beneficios directos derivados de
+     la etapa de implementación del proyecto (sin considerar otros posibles a futuro), se identifica
+     que el programa fue eficiente desde el punto de vista del análisis costo beneficio (ACB) con
+     un valor presente neto de $5,189,042, y una relación costo beneficio de 2.11 (por cada dólar
+     invertido, el retorno social se valoriza en 2.11 dólares).
+2.85 La tasa interna de retorno estimada es del 108%, lo que manifiesta una alta rentabilidad del
+     proyecto, con un valor superior a la tasa social de descuento para los proyectos de inversión
+     de este tipo que es del 12%. Esto es posible en la medida en que los beneficios logrados
+     excedieron los costos del proyecto durante la ejecución, con una inversión relativamente baja
+     se concretó un margen alto de beneficios.
+                        Cuadro 1. Resultados comparativos CBA Ex ante y ex Post CBA
+                                      Ex Ante CBA                           Ex Post CBA
+                                          USD                                   USD
+   RCB                                   13.99                                  2.11
+   TIR                                No reportada                             108%
+                                                                                                  34
+"
+"   VPN                               $36,377,148                            $5,189,042
+2.86 Adicionalmente, como parte del análisis de eficiencia se realizó una evaluación de los costos
+     del programa y los tiempos insumidos, que se apoya en la información histórica generada por
+     los índices de desempeño durante el período de ejecución. Con este propósito, se toma
+     información de la evolución del Índice de Rendimiento de Costos (CPI por su sigla en inglés),
+     el Índice de Rendimiento del Cronograma (SPI por su sigla en inglés), y el indicador de
+     desembolsos.
+2.87 El desempeño de los índices CPI y SPI muestran una evolución acumulada satisfactoria
+     mostrando valores superiores a 0,8 y menores a 2 durante la mayor parte del período de
+     ejecución del Programa (Cuadro 2). En los años 2013 y 2014 se identifica un retraso en la
+     entrega de los productos previstos (SPI<1), que se asocia con la demora en la habilitación de
+     créditos presupuestales para la Ejecución de cada año, que afectó el inicio de procedimientos
+     de contrataciones y adquisiciones, y que se superó en los años siguientes con la
+     incorporación del Programa en el Presupuesto Nacional. Asimismo, en el año 2013 el
+     proyecto estuvo un 25% por encima de su presupuesto (CPI (a) =0,75) lo que obedece a la
+     decisión del Ministerio del Interior de habilitar presupuesto adicional de Rentas Generales
+     para construir la Seccional 25, obra finalizada en 2014.
+2.88 Finalmente, el indicador de desembolsos acumulados como proporción del presupuesto total
+     muestra una evolución satisfactoria logrando un valor de 95% a junio de 2017, superado la
+     media de todos los proyectos del país en los últimos diez años, para los mismos meses
+     transcurridos desde la aprobación. La Unidad Ejecutora proyecta finalizar el Programa con
+     una ejecución de los recursos de préstamo de US$ 4.890.000 (97,8% de los recursos) y total
+     de US$ 7.060.000 (98,7% del presupuesto).
+                Cuadro 2. Índice de desempeño del costo e índice de desempeño del cronograma
+                           2011        2012        2013       2014       2015      2016    2017(*)
+   SPI                       1         0,86         0,95       1,01      1,09       1,16     1,16
+   CPI                       1         1,33         1,06       1,21       1,1       1,14     1,14
+   SPI (anual)               1         0,86         0,92        1,0       1,0       1,04     1,04
+   CPI (anual)               1         1,33         0,75        0,9      0,83       0,84     0,84
+   Satisfactorio = 0.8= I =2
+   (*) Nota: Valores según PMR 2017 (I)
+                                                                                                35
+"
+"                                                             Tabla 3 Costos del Proyecto
+  # en
+         Productos                                          2013              2014           2015            2016               2017(*)               Costo
+  PMR
+  Componente 1: Desarrollo y consolidación de acciones inclusivas.                                                                              $5.659.60044
+         Comisaría Modelo de               P          $1.346.550         $300.000                                                                $1.646.550
+         aproximación comunitaria con      P(a)       $1.346.550         $300.000                                                                $1.647.000
+  1.1
+         lógica de solución de
+         problemas implementada.           A          $1.347.000       $1.477.000                               $0                  $0           $2.824.000
+         Propuesta de Comisaría            P             $34.690                                                                                     $34.690
+         Modelo de aproximación            P(a)          $34.690                                                                                     $34.690
+  1.2
+         comunitaria con lógica de
+         solución de problemas.            A             $39.000                                                $0                  $0               $39.000
+         Tablero de Control con            P             $31.310                                                                                     $31.310
+         indicadores de proceso,           P(a)          $31.310                                                                                     $31.310
+  1.3
+         resultados e impacto para
+         orientar la tarea.                A             $23.000                                                $0           $144.000               $167.000
+         Protocolos de actuación de        P             $36.600                                                                                     $36.600
+         policía comunitaria y de          P(a)          $36.600                                                                                     $36.600
+  1.4
+         investigación criminal
+         diseñados.                        A             $36.600                                                $0                  $0               $36.600
+         Unidades de análisis (delictual   P           $109.800          $109.800         $109.800                                                  $329.400
+  1.5    para prevención y criminal para   P(a)        $109.800           $54.000         $123.000      $210.000                                    $454.000
+         persecución) creadas.             A             $72.000          $49.000         $123.000      $283.000              $84.000               $611.000
+                                           P             $36.600                                                                                     $36.600
+         Código de Ética Policial
+  1.6                                      P(a)          $36.600                                                                                     $36.600
+         diseñado
+                                           A             $30.000                                                $0                  $0               $30.000
+                                           P             $36.600          $36.600          $36.600                                                  $109.800
+         Seccionales policiales que
+  1.7                                      P(a)          $36.600          $36.600          $36.600                                                  $102.600
+         modernizan su infraestructura.
+                                           A             $41.000          $25.000          $34.000              $0            $14.000               $114.000
+         Plan de capacitación presencial   P           $123.100                                                                                     $123.100
+  1.8    y virtual en aspectos de          P(a)        $123.100           $34.000                                                                    $86.000
+         proximidad a la ciudadanía (…).   A             $52.000          $35.000                               $0                  $0               $87.000
+         Policías capacitados en           P           $163.387          $146.400         $146.400                                                  $456.187
+         aspectos de proximidad,           P(a)        $163.387          $145.000         $223.000       $60.000                                    $550.000
+  1.9
+         investigación del delito de base
+         local (…).                        A           $186.000          $145.000         $159.000       $83.000                    $0              $573.000
+                                           P             $19.613                                                                                     $19.613
+         Docentes capacitados en
+  1.10                                     P(a)          $19.613          $16.000                                                                    $20.000
+         aspectos de proximidad,
+                                           A              $4.000          $16.000                               $0                  $0               $20.000
+44 Los montos totales por componente de este cuadro corresponden a la suma de los valores de costos actual (A), a diferencia de lo mostrado en los reportes de
+PMR donde en dicho lugar se indica la suma de los valores planificados actualizados P(A).
+                                                                                                                                                           36
+"
+"# en
+        Productos                                      2013       2014       2015       2016    2017(*)     Costo
+PMR
+        investigación del delito de base
+        local (…).
+        Policías capacitados en centros   P       $311.100    $311.100                                   $622.200
+1.11    académicos internacionales        P(a)    $311.100    $399.000                                   $559.000
+        (…).                              A       $160.000    $399.000                     $0 $139.000   $698.000
+        Docentes capacitados en           P         $79.300     $79.300                                  $158.600
+1.12    centros académicos                P(a)      $79.300     $71.000    $30.000                         $92.000
+        internacionales (…).              A         $28.000     $34.000         $0         $0       $0     $62.000
+        Escuela Nacional de Policía       P       $305.000                                               $305.000
+        modernizada en aulas y            P(a)    $305.000    $100.000   $175.000                        $275.000
+1.13
+        equipamiento para formación
+        virtual                           A               $0  $100.000   $159.000          $0       $0   $259.000
+                                          P         $36.600     $36.600    $36.600                       $109.800
+        Policías capacitados en Ética
+1.14                                      P(a)      $36.600     $36.600    $30.000                         $90.000
+        Policial.
+                                          A         $30.000     $30.000    $30.000         $0       $0     $90.000
+        Planes anuales de difusión y      P         $16.266     $16.266    $16.266                         $48.798
+1.15    sensibilización en Ética Policial P(a)      $16.266     $21.000    $16.000                         $49.000
+        implementados.                    A         $12.000     $21.000    $16.000         $0       $0     $49.000
+Componente 2: Dispositivos institucionales transversales.                                               $1.751.000
+        Sistema informático de alerta     P                   $110.000                                   $110.000
+2.1     temprana de violencia juvenil     P(a)                  $73.000    $94.000    $10.000              $44.000
+        (…).                              A               $0    $34.000         $0         $0       $0     $34.000
+        Plan de capacitación presencial   P       $111.268      $30.000                                  $141.268
+        y virtual en aspectos de          P(a)    $111.268      $37.000  $194.000     $10.000              $21.000
+2.2
+        prevención de violencia juvenil
+        (…).                              A          $3.000      $8.000         $0         $0       $0     $11.000
+        Supervisión técnica de alerta     P       $101.475    $121.770   $121.770                        $345.015
+2.3     temprana en funcionamiento        P(a)    $101.475      $68.000    $87.000    $60.000            $196.000
+        (…).                              A         $22.000     $57.000    $57.000    $87.000  $23.000   $246.000
+        Modelo Integral e Intensivo de    P       $445.619    $779.656  $1.007.316                      $2.232.591
+2.4     acompañamiento a                  P(a)    $445.619    $417.000   $500.000   $700.000            $1.349.000
+        adolescentes (…).                 A         $73.000   $263.000   $313.000   $592.000  $219.000  $1.460.000
+Componente 3: Administración y coordinación                                                              $807.000
+                                          P       $310.166    $252.086   $295.328                        $857.580
+        Administración, seguimiento y
+3.1                                       P(a)    $310.166    $237.000   $250.000   $170.000             $720.000
+        evaluación.
+                                          A       $243.000    $153.000   $154.000   $167.000   $90.000   $807.000
+                                          P      $3.655.044  $2.329.578 $1.770.080                      $7.754.702
+Costos Totales(*)                         P(a)   $3.655.044  $2.045.200 $1.758.600 $1.220.000           $6.393.800
+                                          A      $2.401.600  $2.846.000 $1.045.000 $1.212.000 $713.000  $8.217.600
+      (*) Nota: Valores según PMR 2019 (I).
+                                                                                                                 37
+"
+"  2.4 Sostenibilidad
+                    a. Aspectos generales de sostenibilidad
+2.89 La probabilidad de que los logros del Programa sean sostenibles en el tiempo se asocia a la
+      ocurrencia de los siguientes factores (i) prioridad política y disponibilidad presupuestal; (ii)
+      apropiación de los productos por parte del Estado; (iii) ajuste de las condiciones operativas a
+      los cambios en la legislación.
+2.90 Prioridad política y disponibilidad presupuestaria. El Ministerio del Interior viene
+      implementando desde 2013 una política de seguridad integral que combina medidas de
+      prevención, disuasión y control. La seguridad pública ha constituido una prioridad de las
+      últimas administraciones y el gobierno que asumió en 2015 ha priorizado esta área
+      nuevamente en el Presupuesto Nacional 2016-2020, con asignaciones incrementales de
+      recursos públicos. El gobierno se ha comprometido con la consolidación de la reforma
+      organizativa de la Policía, a través de la implementación de la Ley Orgánica Policial aprobada
+      en 2014 y de un régimen de trabajo de alta dedicación exclusiva, que apuntan a combatir con
+      más eficacia las rapiñas, el microtráfico y otros delitos conexos. En este sentido, un año de la
+      implementación del Programa de Alta Dedicación Operativa (PADO) el Ministerio del Interior
+      decidió extender su horario durante 2017 y abarcar nuevos departamentos a partir de 2018
+      (Colonia, Maldonado y Rocha).
+2.91 En cuanto al vínculo con el Banco, en 2016 el gobierno solicitó un nuevo préstamo, que es
+      efectivo desde enero de 2017, para apoyar el “Programa Integral de Seguridad Ciudadana”
+      (Préstamo 3785/OC-UR) y que tiene el objetivo general de contribuir a la reducción de los
+      delitos violentos contra la propiedad (particularmente rapiñas) y contra las personas
+      (particularmente violencia intrafamiliar y juvenil), que pretende dar continuidad y ampliar los
+      logros alcanzados por el préstamo 2770/OC-UR. Los objetivos específicos son: (i) reducir la
+      tasa de rapiñas en Montevideo; y (ii) reducir la tasa de violencia intrafamiliar (de pareja) y
+      juvenil (por y contra jóvenes) en dos barrios piloto de alta vulnerabilidad delictiva en
+      Montevideo (Marconi y Casavalle).
+2.92 Apropiación de los productos. Los productos del Componente 1 han sido ampliamente
+      incorporados en el Ministerio, superando el alcance previsto. El préstamo logró que la Jefatura
+      de Policía de Montevideo (JPM) reemplazara el patrullaje aleatorio y sin foco por un patrullaje
+      enfocado en las zonas críticas donde se concentra el delito. El préstamo también logró que
+      se hiciera un piloto en una de las 25 comisarías de Montevideo (la comisaría 25) sobre
+      Policiamiento Orientado a la solución de Problemas (POP). La apropiación también se percibe
+      en la apertura al aprendizaje e intercambio de experiencias con centros de criminología de
+      reconocimiento mundial, que luego fueron recogidos en la adopción de técnicas de análisis
+      criminal y patrullamiento de zonas críticas, o el piloto de POP.
+2.93 En cuanto al Componente 2, el MIDES logró apropiarse de la metodología novedosa que se
+      proponía para el abordaje de la problemática de los jóvenes en conflicto con la Ley, pasando
+      de ser una experiencia piloto implementada por una Organización No Gubernamental
+      subcontratada por el MIDES, a ser absorbida por el Programa Jóvenes en Red, el programa
+      bandera del MIDES para atender a jóvenes que ni estudian ni trabajan, el cual institucionalizó
+      una “ventanilla” de atención para adolescentes en conflicto con la ley utilizando la metodología
+      ASSET desarrollada por el programa45.
+  45 Pantoja, Rodrigo (2015).
+                                                                                                    38
+"
+"2.94 Durante el diseño se consideró que la baja participación en los programas de tutoría a poner
+      en marcha (por ser voluntaria) era un riesgo alto. De acuerdo con la evaluación del
+      Componente 2 del Programa, este riesgo no se materializó en un problema de ejecución,
+      desde que se constató una deserción del 26,5% entre los casos que efectivamente ingresan
+      al proyecto para recibir atención. Esta cifra no es distinta de los niveles típicos de deserción
+      en proyectos psicosociales aplicados en régimen de acceso voluntario46.
+2.95 Ajuste a la nueva legislación. Si bien en 2016 y 2017 se observó por primera vez en
+      décadas, una reducción en el crecimiento del delito, desde noviembre 2017 y durante todo
+      2018, los indicadores de criminalidad han aumentado en Uruguay. Los expertos atribuyen
+      esta realidad al proceso de puesta en funcionamiento del nuevo Código Penal (vigente desde
+      noviembre de 2017). Este nuevo código modificó los roles que tomaban jueces y fiscales
+      durante la investigación criminal. Bajo este nuevo esquema, el fiscal toma un rol central
+      durante el proceso de investigación y debe trabajar de manera más cercana con la policía.
+2.96 Un primer estudio realizado por Chainey47 sugiere que la entrada en vigencia del nuevo CPP
+      puede estar relacionada con el timing de aumento de la criminalidad, reduciendo la efectividad
+      del PADO. Si bien los mecanismos que operan no están claros aún, este hecho parece estar
+      alineado con la evidencia regional. Acosta, Mejía y Zorro (2018), encuentran que la
+      implementación de cambios en el CCP de Colombia estuvo asociado al aumento de
+      homicidio, asaltos y delitos contra la propiedad, así como al aumento de la reincidencia.
+2.97 Todavía se desconoce si el impacto observado se trata de un efecto transitorio o si tendrá
+      impacto de largo plazo sobre las trayectorias de los principales indicadores de criminalidad
+      de Uruguay. Por lo que es necesario analizar este cambio en mayor profundidad e identificar
+      cuáles son los factores que pueden estar incidiendo para minimizar los efectos sobre la
+      sostenibilidad de los efectos del programa.
+                     b. Salvaguardas ambientales y sociales
+2.98 El proyecto fue clasificado como categoría “C” de acuerdo a la Política de Salvaguardias y
+      Medio Ambiente (OP-703) por lo que no se aplicaron salvaguardas durante la implementación
+      de la operación.
+                III. Criterios no Centrales
+  3.1 Desempeño del Banco
+3.1 El Banco ha mantenido un intercambio permanente con la Unidad Ejecutora y con las
+      autoridades del Ministerio del Interior y del Ministerio de Desarrollo, tanto en relación con
+      aspectos técnicos como fiduciarios. Esto ha ocurrido tanto durante el proceso de preparación
+      de la operación, como durante la ejecución e incluso durante el cierre. En particular, cabe
+      mencionar que se contó con varias consultorías especializadas de apoyo, entre ellas la del
+      consultor Rodrigo Pantoja destinada al fortalecimiento de equipos técnicos del componente II
+      (primero con CEPID y después con JER), permitiendo el ajuste de las prácticas, a prácticas
+      basadas en evidencia, con utilización de escalas de medición de riesgo, entrevista
+      motivacional, y metodologías de terapia cognitiva comportamental, entre otras. También se
+      apoyó en la identificación del consultor Alejandro Cid, quien realizara la evaluación intermedia,
+      y la revisión de la matriz de resultados a la luz de la reestructura ya mencionada. Finalmente,
+      se contó con el apoyo del Profesor Spencer para la realización de la evaluación impacto del
+  46 Pantoja, Rodrigo (2015).
+  47 Chainey, Spencer y Estevez Soto (2019).
+                                                                                                    39
+"
+"     PADO en su primer período de implementación, y con el financiamiento de otros apoyos
+     mediante un BPR.
+3.2 Se considera que el acompañamiento brindado por el Banco ha sido Satisfactorio, y permitió
+     asegurar la calidad del diseño de la operación y el acompañamiento permanente durante la
+     ejecución para mitigar riesgos y aprovechar oportunidades para logro de los resultados
+     previstos.
+  3.2 Desempeño del Prestatario
+3.3 Se considera que el desempeño del prestatario ha sido Satisfactorio en la medida que el MI
+     ha demostrado capacidad de ejecución para llevar adelante con eficiencia las inversiones
+     acordadas con el Banco, aun habiendo encontrado algunas dificultades para el cumplimiento
+     de los acuerdos técnicos de co-ejecución con el MIDES.
+3.4 En particular, en lo que respecta a aspectos organizativos, la UE contó durante todo el
+     proceso con el personal necesario, el cual contaba con la capacidad técnica necesaria para
+     resolver de manera oportuna las problemáticas de la implementación. En términos
+     contractuales la UE ha cumplido a satisfacción del Banco con la entrega oportuna de la
+     documentación relativa a las cláusulas contractuales de Informes de Progreso, Semestral,
+     Planes Operativos Anuales, entre otros.
+              IV. Hallazgos y Recomendaciones
+4.1 En esta sección se sintetizan los principales hallazgos del programa que generaron lecciones
+     aprendidas durante su implementación y que, para proyectos en similares circunstancias,
+     permiten facilitar la resolución de problemas, la mitigación del riesgo o la repetición del éxito.
+4.2 Dado que el proceso de evaluación y cierre de este Programa ha sido posterior a la
+     preparación de una nueva operación, aquí se detallarán tanto hallazgos específicos para la
+     reflexión sobre los resultados alcanzados por este programa, como hallazgos y
+     recomendaciones que ya han sido considerados para el diseño de la nueva operación
+     (UR- L1112).
+  Dimensión 1: técnico-sectorial
+4.3 Hallazgo #1. Para los programas que contienen experiencias piloto basadas en modelos
+     innovadores de intervención o en propuestas de ajuste a los modelos existentes, aparece
+     como pertinente que el Banco prevea mecanismos ágiles de adaptación de las actividades
+     del proyecto, para favorecer los casos en que el país se muestra abierto a incorporar con
+     mayor velocidad los cambios en proceso de testeo. En los formatos actuales, el proyecto
+     podrá aparecer como ineficiente por no haber implementado completamente el piloto
+     diseñado, cuando en realidad, el inicio de la implementación de este tuvo fuertes incidencias
+     en cambios generales al modelo de intervención policial.
+4.4 Hallazgo #2. Las mediciones específicas en temas de victimización no son aún en la región
+     parte de las estadísticas sistemáticas asumidas por todos países, por lo que su realización,
+     como es el caso habitualmente de las Encuestas Nacionales de Victimización, queda
+     condicionado al financiamiento específico ya sea por parte de las secretarías de Estado o de
+     los Proyectos. Cuando los indicadores seleccionados por evidenciar el logro de los resultados
+     están atados a este tipo de relevamiento específico, la visualización de los resultados queda
+     condicionada a que se mantengan los compromisos asumidos, y en ocasiones no existe
+     posibilidad de incidir en los plazos para disponibilizar la información. En ese sentido, se
+     sugiere analizar en cada caso la utilización de otras fuentes, como estadísticas regionales (en
+     este caso podría ser LAPOP), o prever mecanismos que procuren garantizar los
+     relevamientos como podría ser la contratación anticipada de estas encuestas.
+                                                                                                    40
+"
+"4.5 Hallazgo #3. Las variables con formas de cálculo o interpretación no estandarizada pueden
+    dificultar la obtención de los datos. Por ejemplo, en el caso de la variable reincidencia, no
+    existe una forma única conceptualmente de medirla, y los cambios permanentes y mejoras
+    en los sistemas de información, y en la clasificación de delitos pueden cambiar la posibilidad
+    de medir la variable de una forma u otra. Se recomienda no incluir en indicadores de
+    resultados indicadores con variables sobre la cuales no existe certeza de que será posible
+    construir la información a posteriori. Lo mismo sucede con la variable de número de delitos,
+    dado que las tendencias delictivas suelen ser difíciles de modificar, y las metas de cambio en
+    valores absolutos suelen carecer de dimensionamiento realista de si es posible lograr dichas
+    variaciones. Como alternativa, se recomienda considerar indicadores que miran las
+    variaciones interanuales y permiten detectar cambios en las tendencias más allá de los
+    valores absolutos.
+  Dimensión 2: Organización y Gestión
+4.6 Hallazgo #4. En caso de componentes co-ejecutados por otros organismos, donde se
+    incorporan riesgos cuya capacidad de mitigación puede exceder al organismo ejecutor, se
+    recomienda establecer claramente las cláusulas de compromiso de las partes y un
+    mecanismo formal que permita modificar el mecanismo de ejecución en caso de que los
+    acuerdos sectoriales no se mantengan y no sea posible implementar con el marco institucional
+    previsto en el diseño de la operación.
+4.7 Hallazgo #5. El modelo de ejecución puede convertirse en un catalizador clave para la
+    implementación del proyecto, como en este caso que la ubicación de le UE en la
+    subsecretaría, permitió una fuerte incidencia de las actividades del Programa en las políticas
+    y modelos de intervención generales del país en materia de prevención y atención policial. Se
+    recomienda analizar cuidadosamente la gobernanza del Proyecto y la dependencia jerárquica
+    de las Unidades de Ejecución.
+  Dimensión 3: Procesos públicos y actores
+4.8 Hallazgo #6. No es novedad que los proyectos suelen tener que contemplar durante su
+    período de ejecución, la existencia de cambios de Gobierno. Si bien estos cambios suelen
+    incorporarse en la Matriz de Riesgos, muchas veces son imprevisibles los posibles efectos de
+    estos en los modelos de intervención y capacidad de ejecución de los proyectos. En este
+    sentido, surge como necesario prever en el ciclo de supervisión de proyecto la posibilidad de
+    actualizar con mayor flexibilidad los documentos de Proyecto (POD y Anexos) de acuerdo con
+    las implicancias de los cambios que se propongan. En el caso de este Proyecto, se registraron
+    cambios muy significativos en la dirección estratégica y en la estructura administrativa del
+    MIDES, que afectaron de manera importante las características de implementación del
+    componente 2, y no pudieron ser plasmados adecuadamente en los documentos de proyecto.
+    Si bien es entendible que los objetivos y efectos esperados (¿para qué) de los proyectos no
+    deben ser modificados y oír tanto deben quedar salvaguardados por los documentos
+    aprobados, algunas de las respuestas en términos de actividades y mecanismos y tal vez
+    hasta metodologías, que tienen que ver con el ¿Cómo? Quedan amarrados a los documentos
+    de diseño, y para su ajuste se requiere un proceso de reaprobación bastante burocrático.
+  Dimensión 4: Gestión de riesgos
+4.9 Hallazgo #7. Dado la fuerte implicancia que pueden tener y usualmente tienen los cambios
+    de autoridades en la implementación de los proyectos, se recomiendo generar mecanismos
+    para que cuando estos cambios se registran, y se vislumbren efectos importantes sobre la
+    gobernanza y/o las prioridades del Proyecto, se realice un proceso de Análisis de Riesgos
+                                                                                                41
+"
+"   completo de acuerdo con las guías de GRP, tal como se realiza en el diseño de la operación,
+   y no solamente la actualización prevista para los PMR.
+                                                       Tabla 4
+                                          Hallazgos y Recomendaciones
+             Hallazgos                                             Recomendaciones
+Dimensión 1: Técnica – Sectorial
+# 1 Velocidad de incidencia de      # 1 Se recomienda prever mecanismos que permitan adaptar en parte el diseño
+propuestas piloto en los modelos    de una intervención cuando se trata de un Piloto, que puede ser expandido con
+operativos generales                anticipación a lo previsto.
+# 2 Imposibilidad de incidir en
+                                    # 2 Cuando la medición de resultados depende de la realización de
+plazos de disponibilidad de
+                                    relevamientos específicos como el caso de la ENV 2016 es necesario prever
+fuentes       de       información
+                                    mecanismos que garanticen el acceso a los datos oportunamente.
+secundarias.
+# 3 Variables con medios de         # 3(a)Se recomienda no incluir en indicadores de resultados indicadores con
+verificación             complejos  variables sobre la cuales no existe certeza de que será posible construir la
+conceptualmente             pueden  información a posteriori.
+requerir ajustes en las formas de   #3(b) En casos de variables asociadas a tendencias, se recomienda considerar
+cálculo          durante         la indicadores que miran las variaciones interanuales y permiten detectar cambios
+implementación                      en las tendencias más allá de los valores absolutos.
+Dimensión 2: Organización y Gestión
+ # 4 La co-ejecución con otros      # 4 Se recomienda establecer claramente las cláusulas de compromiso de las
+organismos incorpora riesgos        partes y un mecanismo formal que permita modificar el mecanismo de ejecución
+cuya capacidad de mitigación        en caso de que los acuerdos sectoriales no se mantengan y no sea posible
+excede al organismo ejecutor        implementar con el marco institucional previsto en el diseño de la operación.
+# 5 El modelo de ejecución
+puede      convertirse     en   un  # 5 Se recomienda analizar cuidadosamente la gobernanza del Proyecto y la
+catalizador clave para la           dependencia jerárquica de las Unidades de Ejecución.
+implementación del proyecto
+Dimensión 3: Procesos públicos y actores
+# 6 Cambios en equipos de           # 6 Surge como necesarios prever en el ciclo de supervisión de proyecto la
+gobierno          afectan        la posibilidad de actualizar con mayor flexibilidad los documentos de acuerdo con
+implementación                      las implicancias de los cambios que se propongan.
+Dimensión 5: Gestión de riesgos
+# 7 Necesidad de actualización      # 7 Se recomienda generar mecanismos para que cuando estos cambios se
+del Análisis de Riesgos en los      registran, se realice un proceso de Análisis de Riesgos completo de acuerdo
+cambios de Gobierno                 con las guías de GRP, tal como se realiza en el diseño de la operación.
+                                                                                                                  42
+"
+"            Bibliografía
+Acosta, C., Mejía y D. Zorro, A (2018). Evaluación de impacto de la implementación del Sistema
+Penal Acusatorio en Colombia.
+AGEV-OPP (2015). Evaluación DID del Programa de Alta Dedicación Operativa, Montevideo.
+Banco Interamericano de Desarrollo (2012) Propuesta de préstamo UR-L1062. Washington DC.
+Banco Interamericano de Desarrollo (2017). Marco sectorial de seguridad ciudadana y justicia.
+Washington DC.
+Chainey, S y Estevez-Soto, P (2019). Quantitative evaluation of PADO and the change in rapiñas
+since January 2017, with recommendations for improving PADO.
+Cid, Alejandro (2017). Evaluación de medidas aplicadas en la Policía en el período 2013-2015
+(Versión 24 de abril de 2017).
+Feinberg et al, (2007) “Effects of the Communities That Care model in Pennsylvania on youth risk
+and problem behaviors”. Prevention Science. 8, 261-70.
+Mazeolle, L. et al. (1999) “Problem –Oriented Policing in Public Housing: Final Report of the
+Jersey City Project”. National Institute of Justice.
+MI (2016). Consultoría de Spencer Chainey, recogida en la Memoria Institucional de la Unidad
+de Ejecutora. Año 2016.
+Pantoja, Rodrigo (2015). Informe de evaluación proyecto GISC 2013-2015.
+Sherman, L. W., (1990) \"Police crackdowns: initial and residual deterrence\". Chicago Journals,
+Crime and Justice, vol.12, pp.1-48.
+Sherman, L.W., Gartin, P. R., Buerger, M. E. (1989) \"Hot spots of predatory crime: routine
+activities and the criminology of place\" Criminology vol. 27 number 1.
+Serrano-Berthet, R, ed (2019) “Del policía cazador al policía protector. La Reforma Silenciosa de
+la Policía Nacional de Uruguay 2010-2018”. Borrador, no para circulación.
+Soares, R. Viveiros, I. (2010) \"Organization and information in the fight against crime: an
+evaluation of the integration of police forces in the state of Minas Gerais, Brazil\" IZA Discussion
+Paper No. 5270.
+Thomas, G.R. (1998) “Coordinated agency network-CAN- a juvenile supervision Project” San
+Diego Police Department. Herman Goldstein Award Submission.
+Weisburd, D., Morris, N.A., Groff, E.R. (2009) \"Hot spots of juvenile crime: a longitudinal study of
+arrest incidents at street segments in Seattle, Washington\" Journal of Quantitative Criminology,
+Vol. 25, pp.443-467.
+                                                                                                 43
+"

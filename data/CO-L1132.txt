@@ -1,0 +1,1308 @@
+"outlist[[i]]"
+"FONDOS ENVIADOS A OTRO PROYECTO: NO
+Calificaciones del desempeño del proyecto en los PMR:
+    No.   PMR Fecha                          Etapa de PCR                             Desembolsos
+                                                                                      reales (millones
+                                                                                      de USD)
+    1     Marzo 2018                                              SATISFACTORIO       0.0
+METODOLOGÍA DE ANÁLISIS ECONÓMICO EX POST: N/A
+METODOLOGÍA DE EVALUACIÓN EX POST: N/A
+CLASIFICACIÓN DE EFECTIVIDAD DE DESARROLLO:       Exitoso
+PERSONAL DEL BANCO
+                       POSICIONES          EN PCR                      EN LA APROBACIÓN
+                VICEPRESIDENTE VPS         ANA MARIA RODRIGUEZ         SANTIAGO LEVY
+                                           (A.I.)
+                VICEPRESIDENTE VPC         ALEXANDER DE LA ROSA        ALEXANDER DE LA ROSA
+                GERENTE DE PAÍS            RAFAEL DE LA CRUZ           RAFAEL DE LA CRUZ
+                GERENTE SECTORIAL          JUAN ANTONIO KETTERER       ANA MARIA RODRIGUEZ
+                                           (A.I.)                      ORTIZ
+                JEFE DE DIVISIÓN           JUAN ANTONIO KETTERER       JUAN ANTONIO KETTERER
+                REPRESENTANTE DE PAÍS      RAFAEL DE LA CRUZ           RAFAEL DE LA CRUZ
+                JEFE DE EQUIPO DEL         ALVARO CONCHA               ALVARO CONCHA
+                PROYECTO
+                JEFE DE EQUIPO DEL PCR     ALVARO CONCHA               ALVARO CONCHA
+Tiempo y costo del personal
+ Ciclo de proyecto de etapa          # de semanas de personal           USD (incluidos los gastos de
+                                                                        viaje y asesoría)
+ Preparación                          14.85                             105,792.24
+ Supervisión                          38.15                             130,709.02
+ Total                                53.00                             236,501
+DECLARACIÓN DE LOS OBJETIVOS DE DESARROLLO DEL PROYECTO / PROGRAMA:
+El objetivo del Tercer Programa bajo la Línea CCLIP CO-X1007 fue continuar apoyando los esfuerzos
+del gobierno por fortalecer la competitividad del sector productivo mediante la financiación de proyectos
+de inversión, reconversión productiva y desarrollo empresarial y exportador.
+                                                     v
+"
+"         I.   INTRODUCCIÓN
+La línea CCLIP aprobada por el Banco a Bancóldex por monto de US$650 millones desde finales
+de 2008 ha tenido tres Programas Multisectoriales de Crédito (PMC) hasta el momento, dirigidos
+a financiar proyectos de inversión, reconversión productiva y desarrollo empresarial y exportador
+de micros, pequeñas y medianas empresas (MIPYMES). El primero por US$100 millones
+(CO-L1078; 2080/OC-CO), dirigido a financiar proyectos de inversión, reconversión productiva y
+desarrollo empresarial y exportador de micros, pequeñas y medianas empresas (MIPYMES). Un
+segundo PMC por US$200 millones (CO-L1082; 2193/OC-CO) se aprobó en 2009 y el programa
+objeto de este informe sería el tercero bajo la línea (CO-L1132), por un valor de US$200 millones.
+Este Programa Multisectorial de Crédito (PMC) se destina al apoyo del financiamiento de
+proyectos empresariales, de inversión fija, reconversión productiva, desarrollo exportador. A
+través de las líneas de crédito para las Pequeñas y Medianas Empresas (PYMES), esta
+operación apunta a contribuir al aumento de la competitividad empresarial del país por la vía de
+los mejoramientos productivos de cada empresa. Según publicaciones especializadas1 la
+competitividad del país viene mejorando en los últimos años, hasta situarse en el puesto 59 que
+actualmente tiene entre una medición de 138 países. Los índices que realizan estas mediciones
+se basan en dimensiones de desarrollo asociadas a factores macroeconómicos, institucionales,
+financieros y de infraestructura, entre otros. Las mejoras sostenidas en el desempeño en estos
+factores, por parte de los países, apuntarían a la mejora de su productividad y competitividad.
+Las PYMES vienen en un camino de adopción de una cultura de productividad y competitividad
+empresarial, entre otros, como resultado de las medidas económicas de 1990 durante el
+Gobierno de César Gaviria, Presidente de Colombia que consolidó las medidas de apertura
+económica del país. Las medidas mencionadas se conocen como “apertura” la cual pretendió,
+entre otros, que las empresas tuvieran que mirar hacia otros mercados diferentes al mercado
+interno. La apertura económica o también llamada “Programa de modernización de la economía
+colombiana” aunque contempló como uno de sus pilares, la gradualidad mediante la cual la
+estructura productiva tendría tiempo de adaptarse a los cambios2 no logró en un principio
+incentivar una rápida preparación de las empresas para el nuevo escenario de competencia con
+empresas foráneas que se avecinaba. Los procesos de incremento de la productividad y
+competitividad de las empresas colombianas han sido lentos, la paulatina entrada en vigencia de
+distintos Tratados de Libre Comercio (TLC) firmados por Colombia con otros países3, ha sido un
+factor que les ha empujado a modernizarse y buscar mayores eficiencias, por otro lado, muchas
+otras empresas no han logrado sobrevivir a este proceso.
+El Foro Económico Mundial mide y compara la competitividad de los países desde 1979. Define
+la competitividad como el conjunto de instituciones, políticas y factores que determinan el nivel
+de productividad de un país. La productividad, a su vez condiciona el nivel de prosperidad que
+puede alcanzar una economía. La productividad conduce al crecimiento y permite niveles de
+ingresos más altos y mayor bienestar4.
+Las empresas que han decidido dar la batalla en un mercado globalizado donde sus
+competidores presentan constantemente nuevas tendencias, propuestas y modelos de negocio,
+1   Reporte Mundial de Competitividad, Foro Económico Mundial, “Doing Business”, Banco Mundial (WB, por sus siglas
+    en inglés) y Corporación Financiera Internacional (IFC, por sus siglas en ingles), varios años. World
+    Competitiveness Report, World Economic Forum, 2017.
+2   Landerretche G, Oscar. \"Apertura económica, Estado nacional y soberanía: reflexiones sobre el caso colombiano
+    para promover el debate\". Rev. Análisis Político, No. 10. Bogotá, IEPRI-UN, mayo-agosto de 1990.
+3   Tratados de Libre Comercio vigentes en Colombia, http://www.tlc.gov.co/publicaciones/5398/acuerdos_vigentes.
+4   WEF – IGC 2017 – 2018.
+                                                           -1-
+"
+"tienen por delante cruciales retos para su supervivencia y crecimiento. Entre ellos la optimización
+de los procesos productivos, a través del financiamiento de proyectos de crecimiento,
+actualización de sus sistemas de producción y otros, lo cual es posible por los recursos
+disponibles del sector financiero con los cuales las empresas podrán adoptar aquellas medidas
+necesarias para incrementar su productividad y competir en mejor forma.
+Este programa, que corresponde al tercer crédito del CCLIP con recursos del BID, cuenta con un
+aporte local de US$200 millones, con lo cual el total de la operación es de US$400 millones. Su
+ejecución fue prevista para un periodo de 48 meses, en el lapso comprendido entre el diciembre
+de 2014 y diciembre de 2018. El programa no tuvo prórrogas y utilizó a la fecha de preparación
+de este informe el 100% de los recursos aprobados por el BID, así como el 100% de los recursos
+locales, alcanzando de esta manera un 100% total de ejecución financiera.
+Con base en información suministrada por el BID, respecto de la ejecución de los dos primeros
+programas bajo la línea CCLIP, se evidenció que a finales de 2012 estos habían desembolsado
+prácticamente la totalidad de sus recursos. Sus resultados mostraron que:
+    i.     Con las recuperaciones de los primeros sub-préstamos concedidos con recursos
+           desembolsados por ambos programas, se han financiado US$163 millones adicionales
+           en sub-prestamos elegibles, para un total de financiación de US$673 millones; se
+           financiaron 19.065 sub-préstamos para MIPYMES, con una concentración de 47% para
+           Microempresa, 38% para Pequeñas empresas y 15% para Medianas empresas
+   ii.     Los sub-préstamos fueron focalizados en los grupos objetivos;
+  iii.     El plazo medio de los recursos desembolsados fue de 4,3 años, notablemente mayor a la
+           media del sistema durante el periodo 2008-2012, de 1,5 años
+  iv.      El spread medio aplicado por los ECs para el repase de fondos del programa fue de un
+           9,6%, con una tendencia declinante en el referido periodo.
+Adicionalmente, considerando dos Evaluaciones de Impacto de las Líneas de Financiamiento
+para Inversión de Bancóldex demuestran que las MIPYMES beneficiarias, en relación con
+empresas comparables, no beneficiarias, han accedido a tasas de interés más bajas, créditos
+más grandes y préstamos a mayor plazo; y registrando incrementos en su producción (24%),
+empleo (11%), inversión (70%) y productividad (10%).
+Los préstamos otorgados por el BID bajo la línea CCLIP son una muestra de la cartera de
+Bancóldex y de las líneas de crédito en general, los créditos BID tienen un efecto en toda la
+cartera y su consecuente cambio. Por su parte, en 2017, Bancóldex desembolsó COP 3,58
+billones y financió a más de 70.000 empresas ubicadas en 30 departamentos del país. Durante
+el año, el Banco continuó afianzando su filosofía de atender a todos los tamaños de empresa, y
+más de la mitad de sus desembolsos totales fueron para créditos a las Pymes, muy de la mano
+de los créditos BID. Efectivamente, Bancóldex realizó desembolsos por COP 556.836 millones
+de pesos a microempresas; pese a no cumplir la meta de colocaciones planteada para el año, el
+porcentaje de cumplimiento es alto, 84%, teniendo en cuenta que durante 2017 hubo un
+descenso importante en la demanda de crédito de las microempresas, producto de la situación
+económica del país5.
+El presente informe presentará de manera sintetizada el grado de cumplimiento de los objetivos
+de desarrollo alcanzados por el programa, así como las acciones llevadas a cabo para la
+consecución de los productos previstos en la matriz de resultados.
+5    Informe de la Junta Directiva y el presidente a los Accionistas, Bancóldex, 2017.
+                                                            -2-
+"
+"II.      CRITERIOS CENTRALES. RENDIMIENTO DEL PROYECTO
+2.1      Relevancia
+Los Programas Multisectoriales de Crédito son un instrumento utilizado por el Banco para apoyar
+el desarrollo sectorial a través de ajustes a las políticas públicas, los cuales son graduales en el
+tiempo acorde a las capacidades legislativas y de implementación de cada país. En este caso
+este programa es el tercero dentro de la línea CCLIP aprobada en 2008 por parte del Banco a
+Bancóldex por un monto de US$650 millones cuyo objeto es el financiamiento de proyectos
+empresariales de inversión, reconversión productiva y desarrollo exportador. Este programa es
+relevante para Colombia, en la medida que sus objetivos están alineados con su Plan de
+Desarrollo, así mismo se encuentra alineado con el Banco y su estrategia de desarrollo para el
+país.
+                 a. Alineación con las necesidades de desarrollo del país
+La Estrategia Banco País 2015 -2018 (EBP) se enmarca en las Directrices para las Estrategias
+de País (GN 2468-7) y presenta la visión estratégica, y los objetivos y áreas prioritarias de política
+que la componen, en la que se incluyen los grandes desafíos de desarrollo de Colombia:
+(i) aumentar la productividad; (ii) mejorar la efectividad de la gestión pública; y (iii) asegurar mayor
+movilidad social.
+La estrategia del Banco con el País 2012-2014 (GN-2648-1) se enfocó en los siguientes sectores:
+(i) transporte; (ii) ciencia, tecnología e innovación; (iii) comercio exterior; (iv) acceso a servicios
+financieros; (v) educación y formación para el trabajo; (vi) protección social; (vii) salud; (viii) agua
+potable y saneamiento; (ix) vivienda y desarrollo urbano; (x) gestión de riesgo; y
+(xi) gobernabilidad y modernización del estado. Además, se incluyeron las siguientes áreas de
+diálogo: (i) agropecuario; (ii) gestión ambiental y adaptación a las consecuencias de cambio
+climático; (iii) políticas para promover el emprendimiento; (iv) política fiscal; (v) seguridad
+ciudadana; (vi) eficiencia energética y energía renovable; (vii) sistema de monitoreo y evaluación
+de políticas del gobierno; (viii) tecnologías de la información y las comunicaciones;
+(ix) cooperación internacional, en particular, cooperación sur-sur; e (x) integración.
+Según la Estrategia del Banco con el País 2015 - 2018, en los últimos 20 años Colombia mostró
+un cambio favorable en sus indicadores Macroeconómicos. Entre 2000 y 2012 la inversión,
+mayormente privada, pasó de 14% a 24% del PIB y el ahorro del 16% a 20% del PIB. También
+se indica que la brecha observada entre ahorro e inversión de 3.6% del PIB, fue cubierta en
+buena medida por inversión extranjera directa, lo que indica cierta vulnerabilidad en caso de
+desacelerarse el flujo positivo de capitales.
+El mismo informe señala que en 1990 el PIB per cápita colombiano representaba el 29% del
+promedio de los países pertenecientes a la OCDE. En el año 2000 bajó a 20%, después de la
+crisis económica de finales de los 90´s, para recuperarse solo parcialmente en 2011 alcanzando
+24%. Se agrega que en el análisis de brechas del CDC se muestra que entre los factores más
+notables que explican esta situación se encuentran: (i) baja productividad de los factores de
+producción; (ii) baja efectividad de la gestión pública; y (iii) limitada movilidad social y fragilidad
+de la clase media.
+De lo anterior se desprende que la Productividad de la Economía ha sido puesta por el Banco y
+por el país como pilar fundamental para su desarrollo. Los objetivos de este préstamo que son:
+financiamiento de proyectos empresariales, de inversión fija, reconversión productiva, y
+desarrollo exportador se alinean en gran medida con las necesidades de Colombia y
+especialmente apoya el área estratégica de productividad de la economía. Esta área estratégica
+                                                   -3-
+"
+"se focaliza en incrementar la provisión de bienes públicos y disminuir progresivamente subsidios
+en una sociedad más educada, y contiene los siguientes objetivos estratégicos: (i) estimular la
+innovación y el desarrollo empresarial y agrícola; (ii) lograr una educación de calidad y dar
+prioridad a la población más vulnerable; y (iii) elevar la calidad de la infraestructura para disminuir
+los costos de transacción y transporte de la economía.
+Las MIPYME juegan un rol crucial para el crecimiento económico de Colombia, así como para
+su diversificación productiva y su competitividad. De acuerdo con la información más reciente,
+este segmento empresarial representa el 99,6% de las empresas del país, generando un 80,8%
+del empleo y un 40% del Producto Interno Bruto (PIB). Al generar empleos e ingresos en áreas
+rurales o económicamente deprimidas, las MIPYME contribuyen en la reducción de la pobreza y
+ayudan a remover desequilibrios regionales y sectoriales. En efecto, el grado de concentración
+de las MIPYME en los seis departamentos de mayor importancia económica de países
+apreciablemente inferior al de las empresas grandes (62%, versus 79,2% en el caso de las
+empresas grandes), evidenciando así su mayor presencia en los departamentos menos
+desarrollados del país.
+Sin embargo, las MIPYME enfrentan importantes desafíos para apuntalar sus niveles de
+productividad y competitividad, entre los que destaca su obsolescencia tecnológica, primando en
+ellas la utilización de máquinas y equipos con tecnologías atrasadas y deficiencias técnicas en
+sus procesos nucleares de producción. Su incapacidad para acceder a tecnologías más
+modernas en su proceso productivo se debe, en buena medida, a su limitado acceso al mercado
+de financiamiento formal, particularmente a aquel para inversiones de mediano y largo plazo,
+debiendo recurrir a financiamiento de sus propios proveedores y/o financiamientos bancarios de
+muy corto plazo, y a tasas de interés o con exigencias de requisitos (garantías, documentación,
+etc.) que frecuentemente han sido incompatibles con la rentabilidad de sus proyectos, limitando
+así sus posibilidades de expansión productiva. El programa propuesto buscará ayudar a resolver
+el problema de la baja productividad y competitividad de las MIPYME, generada por su
+obsolescencia tecnológica, a través del fomento del crédito para proyectos de inversión
+productiva y modernización empresarial y tecnológica.
+Las referidas dificultades en materia de financiamiento se han reportado en el Perfil de País de
+Colombia más reciente (2010) realizado por el BM-IFC. Los resultados de las encuestas
+empresariales levantadas por dichas organizaciones muestran que el acceso al financiamiento
+es el mayor obstáculo que perciben las empresas dentro del clima de negocios del país, y este
+obstáculo es particularmente importante para las micro y pequeñas empresas. En efecto,
+mientras que un 25% de las empresas medianas y un 56% de las empresas grandes
+manifestaron haber accedido a financiamiento bancario para inversiones, tan solo un 9,9% de
+las micro y pequeñas empresas reportaron haber tenido acceso a dicho financiamiento.
+Un factor crítico que contribuye a originar esta deficiente situación, por el lado de la oferta, ha
+sido que los Establecimientos de Crédito (EC) enfrentan una base de captaciones a plazos tan
+cortos que limita sus posibilidades de ofrecer crédito a mediano y largo plazo. Dada la menor
+percepción de riesgo que tienen los EC de firmas grandes bien capitalizadas, el limitado fondeo
+de mediano y largo plazo disponible tiende a asignarse a dichas firmas.
+Incrementar el acceso de los EC, a fondeo de mediano y largo plazo, es esencial para que su
+financiamiento a las MIPYME se adecúe mejor a los plazos de maduración de sus proyectos de
+inversión y les permita competir y sobrevivir en un entorno de negocios cada vez más desafiante
+y competitivo.
+                                                   -4-
+"
+"                   b. Alineación estratégica
+El presente programa objeto de este informe está alineado con las metas del BID bajo el pilar de
+Instituciones para el Crecimiento / Bienestar Social del GCI-9. El programa también está alineado
+con la Estrategia de País del BID con Colombia para 2012-2014, la cual apoya la promoción de
+líneas de crédito y el desarrollo de productos financieros (de seguro, ahorro, microcrédito y de
+micro-franquicias) y no financieros (asistencia técnica para MIPYMES) a través de bancos de
+segundo piso.
+El Programa también está alineado con la EBP 2015-2018 que tiene por objetivo apoyar las áreas
+estratégicas que contribuyan en el corto y mediano plazo a lograr la visión estratégica de llevar
+a Colombia a ser un país de altos ingresos con movilidad social en dos décadas. Para lograr este
+objetivo, se requiere enfrentar las vulnerabilidades del país para crecer de manera sostenida,
+mejorar sus niveles de productividad, sus instituciones y lograr mayor movilidad social6.
+Para abordar la problemática identificada en el área estratégica de financiamiento al sector
+privado se planteó como indicador “aumentar el acceso al crédito” y propuso las siguientes
+acciones de política sugeridas para este objetivo estratégico en su EBP 2015-2018: (i) desarrollar
+políticas activas que favorezcan un mejor acceso al financiamiento con el desarrollo de sistemas
+de garantías reciprocas; (ii) mejorar las regulaciones y normativas para favorecer la reducción de
+los márgenes de intermediación que reduzcan los costos de inversiones forzosas, mejoren la
+competencia y el desarrollo de mercados secundarios; y (iii) aumentar el acceso al crédito a
+través de estímulos de oferta y demanda, expandiendo el fondeo de segundo piso para subsanar
+fallas de mercado, aumentando plazos de financiamiento, promocionando servicios no
+financieros que mejoren las destrezas empresariales a sectores sub-atendidos y promocionando
+el acceso al crédito a las mujeres7, esta última directamente apoyada por la línea CLIPP de la
+que hace parte la presente operación.
+La operación también se vincula con otros programas de crédito con Bancóldex que buscan
+apoyar el financiamiento de proyectos de inversión en tecnologías innovadoras. En efecto, parte
+de los recursos del programa propuesto (por hasta US$10 millones) serán utilizados para
+complementar el financiamiento de otra operación del Banco en preparación con Bancóldex que
+tiene por objetivo apoyar el financiamiento de proyectos de inversión en medidas de eficiencia
+energética en hoteles y clínicas y que contará con US$10 millones en recursos concesionales
+del Clean Technology Fund (CO-L1124).
+El Banco ha venido apoyando ampliamente al país con intervenciones dirigidas a fortalecer la
+profundización del sistema financiero y la competitividad. Entre ellas se destacan: (i) un Programa
+de Reforma del Sector Financiero (CO-0232) y un Programático de Mejoramiento de
+Competitividad (con dos préstamos: CO-L1007 y CO-L1027); (ii) los préstamos en pesos de la
+CII para compañías de arrendamiento financiero; (iii) la entrada de Bancóldex como Banco
+Confirmante en el Programa de Facilitación de Financiamiento al Comercio Exterior (TFFP) del
+Banco; (iv) un mecanismo de garantías “verdes” para Bancolombia fondeado con recursos del
+Clean Technology Fund (CO-L1124) para apoyar proyectos de eficiencia energética; y (v) más
+de 40 operaciones FOMIN destinadas a: (i) el fortalecimiento de instituciones de microcrédito;
+(ii) la ampliación de la cobertura crediticia de instituciones no reguladas hacia las micro y
+pequeñas empresas; y (iii) la movilización y bancarización de remesas. A este conjunto de
+6   Estrategia del BID con Colombia 2015 -2018.
+7   De acuerdo al Financial Inclusion Index del Banco Mundial, y para la población mayor a 15 años, en 2014 el 14%
+    de las mujeres se había endeudado con una institución financiera, mientras que para los hombres este porcentaje
+    fue 18%. Sin embargo, se reconoce que este tema requiere de mayor investigación en el futuro. A su vez, cabe
+    destacar que el plan de inclusión financiera de 2014 (Superintendencia Financiera de Colombia) incluye como
+    objetivo primordial aumentar el acceso de servicios financieros a la población de menores recursos.
+                                                           -5-
+"
+"operaciones, se suman la Línea CCLIP CO-X1007 y los dos primeros préstamos bajo la misma
+(CO-L1078 y CO-L1082).
+                 c. Relevancia del diseño
+Esta operación presenta en su diseño una lógica de intervención clara que se expresa en la
+matriz de resultados del programa. Se parte de la noción sobre la importancia que tiene para
+Colombia estimular el desarrollo competitivo y productivo el país, lo cual tiene implicación directa
+en el nivel de desarrollo socioeconómico de sus habitantes. Por la vía del estímulo al aparato
+productivo, representado en este caso por las empresas, se considera que entre mejor sea el
+ambiente macroeconómico, habrá condiciones y estímulos favorables para el crecimiento de las
+empresas y por ende de la actividad económica en general. Al momento de preparación de este
+proyecto se consideraron los datos arrojados en ese momento por el World Economic Forum, en
+su reporte mundial sobre competitividad en la cual se situaba Colombia en el puesto 66 sobre
+una muestra de 144 países, con un puntaje de 4.2, el cual se desprende de la ponderación
+agregada de distintos factores, algunos de ellos serían: innovación, infraestructura, ambiente
+macroeconómico, tamaño de mercado, desarrollo de mercados financieros y eficiencia del
+mercado laboral entre otros.
+Otro índice que se ocupa de ver asuntos relacionados con la competitividad de los países es el
+Índice de Facilidad para hacer Negocios del Banco Mundial-Corporación Financiera Internacional
+(BM-IFC). Estos índices observan a los países periódicamente y así analizan su evolución en el
+tiempo respecto a factores que favorecen la competitividad, entre los cuales encontramos de
+nuevo aspectos macroeconómicos en forma relevante, dentro de los cuales se destaca el entorno
+empresarial así como la capacidad de las empresas para innovar, integrarse y adaptarse a
+nuevos entornos competitivos frente a empresas que llegan de otras latitudes y que ponen a
+prueba sus niveles de productividad para poder competir por un mercado cada vez más sensible
+a productos de alto valor agregado.
+La lógica vertical del proyecto conecta los productos con los resultados e impactos de manera
+causal y lógica y calza con el objetivo del Programa y su mecanismo de operación a través de
+un único componente.
+A nivel de Productos, la matriz de resultados del programa propone establecer el número de
+empresas que obtienen financiamiento para los proyectos de inversión, reconversión productiva
+y desarrollo exportador, lo cual es consistente con el objetivo mismo de la operación que es
+mantener el apoyo al Gobierno Colombiano para fortalecer la competitividad y el sector
+productivo mediante la financiación de proyectos a las empresas.
+A nivel de resultados, se apunta directamente a los desafíos de las MIPYME para apuntalar sus
+niveles de productividad y competitividad, entre los que destaca su obsolescencia tecnológica,
+primando en ellas la utilización de máquinas y equipos con tecnologías atrasadas y deficiencias
+técnicas en sus procesos nucleares de producción8. Su incapacidad para acceder a tecnologías
+más modernas en su proceso productivo se debe, en buena medida, a su limitado acceso al
+mercado de financiamiento formal, particularmente a aquel para inversiones de mediano y largo
+8  Ver Análisis Empírico de la Aplicación del Modelo de Modernización de la Gestión para Organizaciones en Pymes
+   Colombianas, Revista Escuela de Administración de Negocios, Número, 65, enero-abril 2009, páginas, 79, 80 y
+   98.
+                                                        -6-
+"
+"plazo910, debiendo recurrir a financiamiento de sus propios proveedores y/o financiamientos
+bancarios de muy corto plazo, y a tasas de interés o con exigencias de requisitos (garantías,
+documentación, etc.) que frecuentemente han sido incompatibles con la rentabilidad de sus
+proyectos, limitando así sus posibilidades de expansión productiva. El programa propuesto buscó
+ayudar a resolver el problema de la baja productividad y competitividad de las MIPYME, generada
+por su obsolescencia tecnológica, a través del fomento del crédito para proyectos de inversión
+productiva y modernización empresarial y tecnológica. El programa apunta de manera específica
+a lograr aumento en los plazos de financiamiento usados por las empresas. Un segundo
+indicador es el lograr calidad en la cartera de sub-prestamos que las ECs realizan a las
+MIPYMES, tomando como referencia de línea base el indicador promedio de la calidad de la
+cartera del sistema financiero colombiano. Ambos indicadores son plenamente consistentes con
+el mejoramiento de las condiciones macroeconómicas para una mayor productividad y
+competitividad de las empresas, por una parte, lograr que no se deteriore la calidad de la cartera,
+apunta a que las instituciones del sector financiero logren mantener flujos de recursos positivos
+y así mantener su capacidad de colocación de recursos en el mercado, por otra parte, el aumento
+del plazo promedio de financiamiento permite mejorar flujos de recursos en las empresas
+generando mayores impactos en los indicadores de productividad. Finalmente, al incrementar el
+acceso de los EC, a fondeo de mediano y largo plazo, es esencial para que su financiamiento a
+las MIPYME se adecúe mejor a los plazos de maduración de sus proyectos de inversión y les
+permita competir y sobrevivir en un entorno de negocios cada vez más desafiante y competitivo.
+La Matriz de resultados en su nivel más alto propone a nivel de impacto la mejora en la
+producción real de las firmas beneficiarias. Según Porter y van der Linde11 lograr un mejor
+desempeño, frente a otras empresas similares en el mismo tipo de negocio o rivales, supone
+apuntalar los niveles de productividad que exige producir a costos más bajos que los rivales u
+ofrecer productos con un valor superior que justifiquen un precio más alto. En ese sentido el
+acceso al financiamiento se considera una capacidad fundamental para que las empresas
+puedan llevar a cabo los proyectos que les permitirán optimizar sus procesos, ser productivas y
+más eficientes, e innovar.
+9  Ver Op.Cit. 4, páginas 5 y 6; y Colombia Country Profile 2010, Enterprise Surveys, The World Bank and the
+   International Finance Corporation.
+10 Ver Luis Alberto Zuleta J., “Política Pública e Instrumentos de Financiamiento a las Pymes en Colombia” en
+   Eliminando Barreras: El Financiamiento a las Pymes en América Latina, Carlos Ferraro (ed.), Capitulo II, CEPAL,
+   noviembre 2011.
+11 Michael E Porter and Claas van der Linde (1995) Towards a New Conception of The Environment Competitiveness
+   Relationship, Journal of Economic Perspectives, Volume 9, Number 4.
+                                                         -7-
+"
+"                                                   Tabla 1. Matriz de resultados
+                                                                                               Al terminar el proyecto
+                               En aprobación               En elegibilidad + 60 días
+                                                                                                        (PCR)
+    Indicadores                                                                                                             Comentarios
+                       Unidad                           Unidad                              Unidad
+                                    Línea de    Meta                 Línea de     Meta                   Línea de
+                       de                               de                                  de                       (A)
+                                      Base       (P)                   Base        (P)                     Base
+                       Medida                           Medida                              Medida
+Objetivo específico de Desarrollo 1 : Mejora en el acceso al financiamiento de las empresas beneficiaras, medida por la evolución en el
+plazo promedio de los créditos otorgados con recursos del programa y la calidad de la cartera
+   Impactos
+La producción real
+de las firmas
+beneficiarias se
+incrementa con
+relación a la
+                            %          0         18         %            0          18         %            0       N.D
+producción de
+empresas
+comparables no
+beneficiarias para el
+2017
+Resultados
+Plazo promedio de
+los préstamos
+otorgados con
+recursos del              años        2,18      4,30       años        2,18       4,30        años         2,18     4,30
+programa durante
+su período de
+ejecución
+Calidad de la
+cartera de sub
+préstamos del
+                            %          2        1,70        %            2        1,70         %            2       1,70
+programa durante
+el período de
+ejecución
+           2.2      Efectividad
+           El objetivo del Programa bajo la Línea CCLIP CO-X1007 es el de continuar apoyando los
+           esfuerzos del gobierno por fortalecer la competitividad del sector productivo mediante la
+           financiación de proyectos de inversión, reconversión productiva y desarrollo empresarial y
+           exportador. Con dicho fin, se canalizaron recursos crediticios, a través de la red de
+           Establecimientos de Crédito (EC) intermediarios de Bancóldex, destinados a la financiación de
+           proyectos de inversión de MIPYMES. El principal resultado del programa es el incremento de la
+           producción real de las firmas beneficiarias con relación a la de empresas comparables, no
+           beneficiarias. Los resultados intermedios del programa son una mejora en el acceso al
+           financiamiento de las empresas beneficiarias, medida por la evolución en el plazo promedio de
+           los créditos otorgados con recursos del programa y la calidad de la cartera de sus subpréstamos.
+           Finalmente, el producto esperado es el número de empresas elegibles que obtienen
+           financiamiento de mediano y largo plazo para inversiones a través del programa.
+           En el documento que se incluye en la Propuesta de Préstamo (POD) en el cual se presenta un
+           resumen ejecutivo de evaluaciones realizadas por Bancóldex para las operaciones anteriores de
+                                                                  -8-
+"
+"la línea CCLIP12, se encontró que menores tasas de interés, créditos más grandes y préstamos
+con plazos más largos caracterizan las relaciones de crédito que involucran a Bancóldex. Estas
+características se traducen en menores tasas de interés promedio y préstamos a mayores plazos
+para las empresas que utilizan el crédito de Bancóldex en comparación con aquellas que no.
+Tales efectos exhiben alguna persistencia en el tiempo. En cuanto a términos, los préstamos
+promedio de las empresas que usan recursos de Bancóldex también tienden a exhibir plazos
+más largos, aunque este efecto puede tomar dos años en materializarse.
+Los hallazgos del estudio muestran también que los beneficiarios disfrutan de mejores
+condiciones de crédito después de recibir crédito de Bancóldex, en comparación con las
+empresas que han obtenido acceso a crédito de otras fuentes. Es decir, Bancóldex ofrece alguna
+\"adicionalidad\", en lugar de simplemente sustituir crédito que fuentes privadas estarían
+dispuestas y capaces de ofrecer bajo condiciones similares. Esto sugiere un papel potencial para
+Bancóldex en facilitar el acceso al crédito. Dado que el imperfecto acceso al crédito, ampliamente
+entendido como imperfecta sustitución entre fuentes internas y externas de financiamiento,
+constituye una falla de mercado que potencialmente impide el crecimiento, estos resultados son
+consistentes con Bancóldex ayudando a fomentar el desarrollo productivo.
+En otro estudio relacionado (Eslava, Maffioli y Meléndez, 2012)13, se encontró también un
+impacto positivo de recibir un préstamo con recursos de Bancóldex en el desempeño de las
+empresas, bajo la forma de aumentos en la producción, el empleo, la inversión y la productividad.
+Los hallazgos del estudio también arrojan luz sobre cómo los beneficiarios de Bancóldex difieren
+de los destinatarios de otras fuentes de crédito. Por un lado, las empresas que reciben crédito
+Bancóldex han estado pagando tasas de interés más altas, confrontado plazos de crédito más
+cortos, y usando garantías más frecuentemente que otras, sugiriendo que ellas han estado
+sujetas a condiciones de crédito más restrictivas y/o que ellas son percibidas como más
+riesgosas por los intermediarios financieros. Por otro lado, los beneficiarios de Bancóldex han
+estado utilizando crédito más intensamente que otras empresas, demostrando que ellos no están
+totalmente racionados en el mercado de crédito para comenzar.
+En cuanto al nivel del desempeño de las empresas beneficiarias, este estudio encuentra que los
+beneficiarios de créditos fondeados con recursos de Bancóldex registraron incrementos en la
+producción, el empleo, la inversión y la productividad en los cuatro años siguientes a su primer
+préstamo con recursos de la referida institución. Los efectos estimados son de 24 por ciento para
+la producción, 11 por ciento para el empleo, 70 por ciento en términos de inversión y alrededor
+de 10 por ciento en términos de productividad. El estudio también analizó cómo la intensidad del
+tratamiento, más allá del simple hecho de haber sido tratado, afecta el desempeño. Consistente
+con resultados anteriores, se encontró que el monto del préstamo tiene un efecto positivo sobre
+la producción, el empleo y la inversión.
+En cuanto a cómo el impacto de las líneas de crédito destinadas a financiar proyectos de
+inversión a largo plazo difiere de aquellas destinadas a propósitos de corto plazo, el estudio
+encontró que las primeras incrementan no solo la inversión, sino también la producción y la
+productividad en los cuatro años que siguen al tratamiento inicial. Para préstamos de corto plazo,
+por el contrario, el estudio fue incapaz de identificar ningún efecto significativo en la inversión o
+la producción. Curiosamente, las líneas de crédito de más corto plazo tienen un impacto positivo
+12  Ver Evaluaciones de Impacto de las Líneas de Financiamiento de Inversión de Bancóldex en Términos del Acceso
+    al        Crédito        y      del      Desempeño          de        las      Empresas        Beneficiarias;
+    http://idbdocs.iadb.org/wsdocs/getDocument.aspx?DOCNUM=37692781.
+13  Ver Marcela Eslava, Alessandro Maffioli y Marcela Melendez (2011) “Government-Owned Banks and Firm
+    Performance: Micro Evidence from Colombia, “Working Paper, IDB.
+                                                       -9-
+"
+"significativo sobre medidas de rendimiento posiblemente vinculadas a los tipos de gastos para
+los que estas líneas estaban dirigidas. Este es el caso de las exportaciones y del número de
+productos de exportación. Es interesante observar que, a pesar de la pequeña participación de
+préstamos a largo plazo en el número total de préstamos de Bancóldex, el impacto que encontró
+el estudio para uso general de Bancóldex más estrechamente se asemeja a la de los préstamos
+a largo plazo. El estudio interpreta esto como evidencia que es este tipo de préstamos los que
+afectan más intensamente el desempeño de una empresa. Una implicación aparente es que un
+mayor énfasis debería ser puesto en este tipo de créditos, más que en los de promoción de las
+exportaciones que puede ser atendida con préstamos a corto plazo14.
+                   a. Declaración de objetivos de desarrollo del proyecto.
+El programa corresponde a un tercer crédito para Bancóldex bajo la sombrilla de la línea CCLIP
+(CO-X1007), con el ánimo de dotar a Bancóldex con recursos adicionales de mediano y largo
+plazo, para continuar financiando proyectos de inversión de MIPYMES a través de los ECs,
+ampliando de esta forma las alternativas de financiamiento para las empresas que buscan
+desarrollar sus proyectos de inversión, reconversión productiva y desarrollo empresarial y
+exportador.
+A través del desarrollo del programa, el cual se estructuró en un único componente, se continúa
+apoyando los esfuerzos del gobierno por fortalecer la productividad y competitividad del sector
+productivo mediante la financiación de proyectos a las MIPYMES en las líneas antes
+mencionadas. Los recursos a las empresas fueron desembolsados a través de la red de
+establecimientos de crédito (EC) intermediarios de Bancóldex que fueron elegibles y
+seleccionados, destinados a financiar proyectos de inversión de MIPYME mediante
+sub-préstamos de acuerdo a lo descrito en el Flujo Operativo.
+Los sub-préstamos ofrecidos a las MIPYMES contaron con las siguientes características:
+(i) denominados en dólares americanos (US$) o pesos colombianos (COP); (ii) tasas libremente
+negociadas con los ECs; (iii) de mediano y largo plazo; (iv) por un monto máximo contemplado
+dentro del RC, con posibilidad de financiación adicional por parte de los EC o MIPYMES.
+Así mismo, se contempló en el proyecto que a fin de crear una masa crítica de fondeo de
+financiamiento de inversión fija a plazo, los fondos provenientes de: (i) las recuperaciones de los
+sub-préstamos concedidos con los recursos del Préstamo que se acumulen en exceso a las
+cantidades necesarias para su servicio; y (ii) las recuperaciones de los sub-préstamos
+concedidos con los recursos aportados por Bancóldex como aporte local más allá del período de
+ejecución del Proyecto y durante la vida del Préstamo, se utilizarán para la concesión de nuevos
+sub-préstamos que se ajusten sustancialmente a las normas y términos establecidos en el
+Contrato de Préstamo y en el RC.
+                   b. Resultados logrados
+El proyecto muestra avances importantes en el logro de los resultados, se destaca que el
+indicador de resultado (1.1) plazo promedio de los préstamos otorgados con recursos del
+programa se encuentra en 2017 en un cumplimiento del 127% respecto de la meta fijada. El
+indicador de producto que más sobresale es (1.1) número de empresas elegibles que obtienen
+financiamiento para inversión, reconversión productiva y desarrollo exportador a través del
+programa, con un nivel de cumplimiento muy por encima de la meta fijada, en un 140%.
+14  Evaluaciones de Impacto de las Líneas de Financiamiento de Inversión de Bancóldex en Términos del Acceso al
+    Crédito y del Desempeño de las Empresas Beneficiarias.
+                                                      -10-
+"
+"Contando ya con información del último corte a diciembre 31/2017, teniendo en cuenta que el
+objetivo del programa es promover el crecimiento y la transformación del aparato productivo
+colombiano, se considera muy positivo que antes de obtener los resultados finales del programa
+se pueda observar que un número mayor de empresas estén accediendo al financiamiento y que
+se estén financiando a un plazo cada vez mayor.
+La evaluación de efectividad se realiza tomando en cuenta el nivel de indicadores cumplidos en
+la última versión oficialmente reportada por el Ejecutor, previo a la culminación de este informe,
+de acuerdo con la matriz de resultados del programa.
+En cuanto a los resultados alcanzados por el programa, con base en la información provista por
+Bancóldex hasta el momento de realización del presente informe, se observa:
+                                                -11-
+"
+"                                                         Tabla 2. Matriz de Resultados logrados
+                                                            Valor de      Año de
+                                          Unidad de                                      Metas y
+          Resultado/Indicador                              Línea de      línea de                       % Alcanzado              Medios de verificación
+                                            Medida                                     alcance real
+                                                             base          base
+  Resultado #1
+                                                                                     P       4.30
+                                                                                                                        Encuesta realizada directamente a las
+  Plazo promedio de los préstamos
+                                                                                                                        entidades financieras vigiladas por la
+  otorgados con recursos del
+                                              años            2.18          2013     P(a)    4.30           150%        Superintendencia Financiera
+  programa durante su período de
+                                                                                                                        correspondiente a créditos para actividad
+  ejecución
+                                                                                                                        productiva
+                                                                                     A       5.37
+  Calidad de la cartera de                                                           P       1.70
+  subpréstamos del programa durante            %              2.00          2013     P(a)    1.70           303%        Sistemas de Bancoldex
+  el período de ejecución15                                                          A       1.09
+                                                           Valor de      Año de
+                                         Unidad de                                       Metas y
+                Producto                                   Línea de     línea de                       % Alcanzado              Medios de verificación
+                                           Medida                                     alcance real
+                                                             base          base
+  Número de empresas elegibles que                                                   P      1.333
+  obtienen financiamiento para                                                                                         Sistemas de información de Bancóldex
+                                          Empresas             0           2013      P(a)   1.333          140%
+  inversión productiva y desarrollo a                                                                                  para el programa
+  través del programa                                                                A      1.870
+Donde: P = Planificado; P (a) = Objetivo anual revisado; A = real.
+15  Proporción de la cartera vencida sobre la cartera bruta expresada en porcentaje para indicar la morosidad de la misma.
+                                                                                -12-
+"
+"                    c. Análisis contrafactual
+Indicador de Resultado 1.1 Plazo promedio de los préstamos otorgados con recursos del
+programa durante su período de ejecución16.
+El financiamiento promedio al sector privado en América Latina y el Caribe (40% del PIB) es muy
+inferior al promedio de las economías avanzadas (112% del PIB)17. Las restricciones en la
+provisión de financiamiento se corresponden con carencias del mercado que dificultan los planes
+de expansión y modernización empresarial. Las causas básicas pueden estar relacionadas con
+fallas en el gobierno y fallas de mercado, como la selección adversa y el riesgo moral en los
+mercados crediticios18. Así, al margen de las reformas normativas, se ha diseñado un gran
+número de intervenciones para aliviar las restricciones crediticias y dotar a las empresas del
+capital que necesitan para implementar sus planes de expansión y modernización. Por ejemplo,
+la provisión de programas de financiamiento subvencionado de bancos de desarrollo de segundo
+nivel y de estructuras de garantía crediticia como mecanismo de transferencia de riesgo son
+políticas utilizadas frecuentemente para soslayar la falta de financiamiento a largo plazo y
+garantías adecuadas. Concretamente, las garantías reducen el riesgo crediticio del prestamista
+al reducir la pérdida financiera que la institución financiera sufriría si la empresa cayera en
+situación de incumplimiento19.
+El perfil de riesgo de las micro y pequeñas, inclusive de las medianas empresas son bastante
+altos, por lo cual los plazos de créditos a los que acceden son de un rango relativamente corto,
+el promedio de la industria se fija en 2,18 años, el presente proyecto tuvo como meta lograr un
+promedio de 4,3 el cual fue excedido llegando a los 5,37 años, igualmente este logro fue
+apalancado por la ley de garantías mobiliarias que permiten el acceso a créditos para este perfil
+de compañías.
+Lo anterior muestra resultados muy favorables para la productividad de las MIPYMES en
+Colombia, en especial al sector exportador, donde se realizan inversiones considerables en
+maquinaria especializada, gastos logísticos, mantener estándares de calidad para lograr llegar a
+mercados con altas exigencias. Lo anterior requiere de mantener un perfil de deuda razonable
+para los objetivos trazados como compañía, en relación a los días de pago que oscilan entre los
+60 y 120 días comúnmente. Igualmente, para estas compañías presenta un reto realizar
+inversiones a largo plazo cuando su apalancamiento de deuda se muestra a corto plazo, ya que
+esto aumenta el perfil de riesgo de la compañía haciéndola aún menos accesible al sistema
+financiero tradicional.
+En diferentes sectores de la economía se muestran correlaciones importantes entre el capital
+invertido y las ventas, por lo cual es necesario contar con capital suficiente para realizar dichas
+inversiones y así promover el crecimiento y expansión de las MIPYMES. Así mismo, el estudio
+de impacto de las Líneas de Financiamiento de Inversión de Bancóldex de la línea CCLIP
+anteriores, en términos del acceso al crédito y del desempeño de las empresas beneficiarias,
+encontró que financiar proyectos de inversión a largo plazo difiere de aquellas destinadas a
+16  El indicador de plazo se calcula ponderando el plazo de cada operación sobre el monto que ésta representa en el
+    total del programa. Fuente: Bancóldex.
+17  Véase Fernández-Arias et al., 2014. Estadísticas recientes centradas específicamente en Brasil muestran un
+    aumento más rápido del promedio del país: del 36% en 2007 al 59% en 2014 Fuente: Banco Central de Brasil,
+    2015).
+18  Los posibles prestamistas imputan un alto riesgo de incumplimiento a las PYME especialmente, las cuales suelen
+    carecer de un historial crediticio, garantías adecuadas y pericia para preparar estados financieros complejos, y en
+    consecuencia les niegan el crédito. Véase Beck y Demirguc-Kunt (2006), Michelacci y Silva (2007) y Canton et al.
+    (2012).
+19  Véase Evaluación del Impacto de Programas de Desarrollo Productivo a Nivel Empresarial en Brazil; OVE, (2015).
+                                                          -13-
+"
+"propósitos de corto plazo, el estudio muestra que las primeras incrementan no solo la inversión,
+sino también la producción y la productividad en los cuatro años que siguen al tratamiento inicial.
+Los efectos estimados son de 24% para la producción, 11% para el empleo, 70% en términos de
+inversión y alrededor de 10% en términos de productividad.
+¿se hubieran logrado este resultado sin el Programa?
+Aumentar el plazo promedio de los préstamos otorgados de 2,18 años, a 5,37 años por el
+presente proyecto, superando la meta de 4,3 años se explica a través de los siguientes datos:
+   Evolución del plazo promedio de la cartera de Bancoldex (Excluidas las operaciones del BID)
+                                         AÑO              PLAZO PROMEDIO (años)
+                                         2014                        2.39
+                                         2015                        2.75
+                                         2016                        2.42
+                                         2017                        2.65
+                                         2018                        2.59
+               Fuente: Elaboración propia, información suministrada por Bancoldex, julio 2018
+En palabras de Bancoldex “En este punto se nota la mayor incidencia, el plazo promedio general
+de Bancóldex en el periodo del programa es de 2.56 años, el del programa es de 5.37 años,
+generando mayor flexibilidad para que las MIPYMES realicen inversiones más ambiciosas en el
+desarrollo de su actividad”. Esto nos permite observar que el Programa incide directamente en
+los plazos promedio de la cartera total de Bancoldex.
+Indicador de Resultado 1.2 Calidad de la cartera de sub-préstamos del programa durante
+su período de ejecución20
+Este indicador muestra una sana cartera de los préstamos otorgados por el proyecto ya que
+finalizando 2017 este se encontraba en 1,09, comparado con el promedio del sistema que se
+ubica en 1,0 para la cartera comercial de instituciones oficiales especiales según la
+Superintendencia Financiera y en 6,49 para establecimientos bancarios. Lo anterior señala alta
+efectividad en la selección de los proyectos de las empresas beneficiarias según los criterios de
+elegibilidad para la financiación de sus proyectos: (i) planes de mejoramiento, orientados a
+mejorar indicadores de competitividad/productividad; (ii) proyectos de innovación y desarrollo
+tecnológico; (iii) planes de expansión internacional; y (iv) programas para el control y
+mejoramiento de impactos ambientales. Igualmente señala que a mayores plazos las empresas
+pueden cumplir con sus obligaciones, igualmente por otras condiciones de los créditos entre las
+que se resalta que los periodos de gracia que van hasta seis (6) meses en capital, para
+operaciones con plazo hasta de tres (3) años y hasta dieciocho (18) meses de período de gracia
+a capital, para operaciones con plazos superiores a tres (3) años. En proyectos de larga
+maduración, el período de gracia se puede extender hasta treinta y seis (36) meses previa
+aprobación de Bancóldex. También se puede atribuir el indicador al desarrollo y puesta en
+marcha del Sistema de Administración de Riesgos Ambientales y Sociales que apoyan la
+selección de proyectos por su adicionalidad.
+20  El indicador de la calidad de la cartera, dado que Bancóldex opera en segundo piso, se mide con un proxy
+    consistente en la identificación de los créditos prepagados por entidades financieras motivadas por el cobro de la
+    operación de crédito dado el impago del subprestatario. Fuente: Bancoldex.
+                                                           -14-
+"
+"Por su parte, a nivel país, el Indicador de Calidad por Mora (ICM)21 ha mostrado una aceleración
+desde principios de 2017, ubicándose en 5,1% en enero de 2018, el nivel más alto observado
+desde noviembre de 2009, cuando alcanzó 5,2%. En particular, se registraron aumentos entre
+enero de 2017 y el mismo mes de 2018 de 1,1 pp, 0,9 pp, 0,8 pp, y 0,5 pp para la cartera de
+vivienda, comercial, de consumo, y microcrédito, en su orden22. Asimismo, la cartera vencida
+total continuó presentando aceleraciones desde principios de 2017, alcanzando un crecimiento
+real anual del 23,3% a enero de 2018. Este comportamiento se explica principalmente por la tasa
+de crecimiento de la cartera vencida comercial, que se ubicó en 26,6%.23
+¿se hubieran logrado este resultado sin el Programa?
+Según el Banco de la República, el indicador de calidad de la cartera por mora para todas las
+EC, en los créditos comerciales, se ubicó en 4.0, en contraste con los datos suministrados por
+Bancoldex en donde su índice de calidad de la cartera para los préstamos otorgados en el marco
+del Programa se ubicó en 1.09, demostrando que los criterios establecidos en el reglamento de
+crédito permiten mitigar el riesgo de incumplimiento asociado.
+En este sentido, podemos afirmar que las políticas de crédito del Programa se convierten en un
+ejemplo demostrativo para Bancoldex y las EC de manera que puedan transferir el conocimiento
+a sus operaciones de crédito a través de otras líneas.
+Por otra parte, la naturaleza de la actividad crediticia es procíclica, es decir, los bancos tienden
+a subestimar el riesgo cuando la economía está en auge y a sobrevalorarlo en recesión. Lo
+anterior obedece a que en fases de expansión se percibe mayor optimismo en relación con la
+situación financiera futura de los proyectos que requieren financiación, mientras que en periodos
+de crisis las decisiones de crédito se circunscriben a los mejores deudores.
+Este comportamiento puede provocar crecimientos excesivos de la cartera durante las fases de
+auge, los cuales se pueden materializar más adelante en considerables pérdidas al revertirse el
+ciclo económico. En consecuencia, es evidente que la evolución del crédito y su calidad son
+variables que están estrechamente vinculadas al desempeño de la economía. Sin embargo, la
+relación que existe entre el crecimiento de la cartera y su deterioro no está determinada
+exclusivamente por factores macroeconómicos, ya que también está influenciada por las políticas
+crediticias adoptadas por los bancos, como sería el caso de los incrementos en las
+participaciones de mercado a través del otorgamiento indiscriminado de préstamos24 el
+crecimiento de las colocaciones y las posibles pérdidas asociadas a las mismas dependen en
+gran medida de las políticas y de los procesos de gestión adoptados por cada entidad financiera.
+Es aquí cuando podemos reiterar que las políticas incluidas en el Reglamento de Crédito del
+Programa ayudan a influenciar un comportamiento de la cartera sano y que se evidencia en el
+índice alcanzado. En relación con el efecto mitigador de dichas políticas sobre la relación entre
+el crecimiento de la cartera y su deterioro, es de vital importancia el análisis sectorial que deben
+realizar las entidades financieras, el cual es una condición necesaria para la determinación de
+los portafolios de crédito y para la toma de decisiones sobre los nichos de mercado hacia los
+cuales se deben dirigir las colocaciones25.
+21 El ICM se calcula como la razón entre la cartera vencida y la total (la cartera vencida incluye el saldo de los créditos
+   que se han dejado de pagar por un período mayor a treinta días).
+22 Al incluir los castigos en el cálculo del ICM para estas carteras a enero de 2018 este se ubicó en 7,0%, 14,4%,
+   7,5% y 14,8% para la cartera comercial, consumo, vivienda y microcrédito, respectivamente. Se observa que el
+   ICM con castigos para la cartera de consumo ha aumentado a un mayor ritmo que el ICM sin castigos desde
+   principios de 2015.
+23 Datos tomados del informe de estabilidad financiera, Banco de la República, mayo de 2018.
+24 Campos (2005). Pág. 9.
+25 Superintendencia Financiera de Colombia, 2011.
+                                                         -15-
+"
+"Indicador de Producto 1: Número de empresas elegibles que obtienen financiamiento para
+inversión productiva y desarrollo a través del programa
+Este indicador muestra un avance superior al esperado ubicándose en el 140% de cumplimiento
+a la fecha del presente informe pasando de 1.333 proyectos beneficiarios esperados a 1.870.
+También vale la pena resaltar que se hicieron un total de 12.147 colocaciones de recursos a
+proyectos calificados como viables por la línea de crédito de Bancóldex, de estos, 6.344
+correspondieron a proyectos de menor monto y de mayor adicionalidad financiados con los
+recursos de la contraparte y 3.933 corresponden a créditos otorgados con recursos provenientes
+de las recuperaciones de los subpréstamos.
+                          Fuente: Elaboración propia, informes de Bancóldex
+En cuanto a los beneficiarios se observó que los créditos otorgados a las PYMES atendieron
+sectores muy variados, entre los que se observan: agropecuario, alimentos y bebidas, artes
+gráficas, autopartes, comercio, construcción, editorial, educación, electrónico, farmacéutico,
+informático y software, iluminación y ventanería, inmobiliario, metalúrgico, muebles y maderas,
+plásticos, químico, salud, telecomunicaciones, textil confección, transportes y almacenamiento,
+entre otros.
+Con respecto a los ECs a través de los cuales se desembolsaron los créditos a las empresas,
+con base en información proporcionada por el programa se observó entre ellos los siguientes:
+Banco Pichincha, Banco Davivienda, Banco Caja Social, GM Financial Colombia, Opportunity
+International Banco Finandina, Bancolombia, ARCO Grupo Bancóldex, Financiera Dann
+Regional, Cooperativa Financiera de Antioquia, Banco Popular, Banco Colpatria, Banco de
+Bogotá, Leasing Bancolombia, Leasing Corficolombiana, Financiera Jusriscoop, Confiar
+Cooperativa Financiera y el Banco de Occidente.
+Respecto a los montos de los créditos otorgados las PYMES se encuentra un rango muy amplio
+que va en desde COP$1.500 MM que equivalen aproximadamente a US$526.000 en su límite
+alto, hasta COP$5 MM, que equivalen aproximadamente US$1.800. Al contrastar la información
+incluida en el Reglamento de Crédito del proyecto acerca de los montos límite este indica que el
+monto máximo solicitado por une empresa podría llegar a ser de COP$3.000 MM o su equivalente
+en dólares y no establece límite inferior, con lo cual se confirma que los montos de crédito
+otorgados a las PYMES durante la ejecución del programa se mantuvieron dentro del criterio
+establecido en el Reglamento.
+¿se hubieran logrado este resultado sin el Programa?
+El gran avance en el indicador se da en gran medida por la implementación de SARAS (Sistema
+de Administración de Riesgos Ambientales y Sociales) por parte de Bancóldex, si bien este
+desarrollo permitió subir la restricción del monto límite de los créditos de US$100.000 a
+                                                 -16-
+"
+"US$1.000.000, esta misma plataforma permitió administrar los riesgos de créditos de menor
+monto y propiciar la viabilidad de proyectos con mayor adicionalidad, esto es un efecto muy
+deseable en la operación de este tipo de programas que además de su impacto en términos de
+productividad de las firmas beneficiarias, promueve el acceso a crédito de las MIPyME y apoya
+las reformas de política impulsadas por el gobierno en este sentido a través de operaciones de
+crédito a la nación, también apoyadas por el Banco. Esto es un efecto directo del Programa toda
+vez que la línea CCLIP incluye los análisis y la administración de riesgos ambientales que
+finalmente se hizo operativo, a través del sistema mencionado, para la presente operación.
+Desde un punto de vista cuantitativo, en contraste con las dos primeras operaciones y con el
+ánimo de construir un dato de línea base, observamos: (i) con las recuperaciones de los primeros
+subpréstamos concedidos con recursos desembolsados por ambos prestamos (y recursos de la
+contraparte por US$210 millones), se financiaron US$163 millones adicionales en subpréstamos
+elegibles, para un total de financiación de US$673 millones; (ii) se financiaron 19.065
+subpréstamos para MIPYME, con una concentración de 47% para Microempresa, 38% para
+pequeñas empresas y 15% para medianas empresas; (iii) los subpréstamos fueron focalizados
+en los grupos objetivos; (iv) el plazo medio de los recursos desembolsados fue de 4,3 años,
+notablemente mayor a la media del sistema durante el periodo 2008-2012 de 1,5 años; y (v) el
+spread medio aplicado por los EC para el repase de fondos fue de un 9,6%, con una tendencia
+declinante en el referido periodo.
+Lo anterior lleva a la reflexión acerca de las razones virtuosas por las cuales hay eficiencia en la
+colocación de los créditos a las PYMES por parte de Bancóldex. Un factor que se puede atribuir
+es el reconocer la experiencia adquirida y el refinamiento de los productos de Bancóldex para
+aprovechar un mayor conocimiento del mercado y de los clientes, en este caso las PYMES, factor
+en el cual la línea CCLIP ha contribuido directamente a través de las 3 operaciones llevadas a
+cabo.
+                d. Resultados imprevistos
+El análisis de atribución realizado para los indicadores de resultados no arrojó ningún resultado
+imprevisto.
+  2.3   Eficiencia
+El análisis de eficiencia del Programa incluye una primera parte cualitativa del desempeño y el
+uso de los recursos y una segunda parte en la que se hace un análisis cuantitativo basado en la
+actualización del análisis económico realizado ex ante para el diseño de la presente operación.
+     a. Análisis cualitativo
+La eficiencia hace referencia al uso racional de los recursos para lograr la meta, también se dan
+otras expresiones según las cuales simplemente se le considera como la relación positiva entre
+el uso de los recursos del proyecto y los resultados conseguidos. Tomando cualquiera de las dos
+aproximaciones mencionadas y considerando que el programa cumplió sus objetivos al 100% en
+un plazo inferior al previsto, 36 meses de 48, se puede afirmar que el programa fue eficiente ya
+que no consumió todo el recurso tiempo que tenía disponible para alcanzar los resultados
+previstos.
+En términos de eficiencia, aunque ya se mencionó anteriormente en el análisis de resultados del
+indicador de producto, es importante volver a resaltar que el aprovechamiento del Sistema
+SARAS, (Sistema de Administración de Riesgos Ambientales y Sociales) permitió administrar los
+recursos de manera que se permitiera el acceso a un mayor número de beneficiarios.
+                                                 -17-
+"
+"En cuenta a la caracterización de los créditos, es importante aclarar que todos los proyectos
+financiados corresponden a iniciativas de modernización de MIPYMES en Colombia, en ese
+sentido, un proyecto puede apuntarle a varios de los ítems mencionados a continuación (Se
+clasifican las inversiones de acuerdo a la descripción del objeto principal de inversión):
+    •   Modernización y ampliación de la capacidad productiva. 57%
+    •   Desarrollo, adquisición y transferencia de tecnología. 26%
+    •   Diseño de nuevos productos y/o generación de valor agregado en los mismos. 7%
+    •   Plan de expansión internacional. 0%
+    •   Programas para el control y mejoramiento del impacto ambiental. 10%
+                                                -18-
+"
+"      b. Análisis cuantitativo – Análisis Económico
+                                                               Tabla 3. Costos del proyecto26
+                             Mejora en el acceso al financiamiento de las empresas beneficiaras, medida por la evolución en el plazo promedio de los
+         Productos                                      créditos otorgados con recursos del programa y la calidad de la cartera
+                           Metas y
+                                                                                                                                                        %
+    Producto/Indicador     alcance      2013     2014    2015          2016                2017                  2018               Cost
+                                                                                                                                                   Alcanzado
+                             real
+       1.1 Número de                   $0.00     $0.00  $0.00     $40.000.000,00      $80.000.000,00            $0.00         $200.000.000,00
+                              P
+     empresas elegibles
+        que obtienen
+    financiamiento para                $0.00     $0.00  $0.00    $100.000.000,00     $100.000.000,00            $0.00         $200.000.000,00          100
+                             P(a)
+   inversión productiva y
+  desarrollo a través del
+          programa                     $0.00     $0.00  $0.00    $101.705.000,00      $98.295.000,00              --          $200.000.000,00
+                              A
+                                        0.00      0.00  $0.00     $40.000.000,00      $80.000.000,00        $80.000.000,00    $200.000.000,00
+                              P
+        Otros Costos         P(a)       0.00      0.00  $0.00    $100.000.000,00     $100.000.000,00            $0.00         $200.000.000,00          100
+                              A
+                                        0.00      0.00  $0.00    $101.705.000,00      $98.295.000,00              --          $200.000.000,00
+                                       $0.00     $0.00  $0.00     $80.000.000,00     $160.000.000,00       $160.000.000,00    $400.000.000,00
+                              P
+            Total                      $0.00     $0.00  $0.00    $200.000.000,00     $200.000.000,00            $0.00         $400.000.000,00          100
+                             P(a)
+                              A        $0.00     $0.00  $0.00    $203.410.000,00     $196.590.000,00              --          $400.000.000,00
+Nota: Los costos incluyen financiamiento del BID y la contraparte local, y deben ser consistentes con la información presentada en el último reporte de PMR. Si
+existe alguna inconsistencia entre los datos, el PCR será rechazado para su corrección.
+.
+26   Para programas multifase, se debe preparar una tabla separada de costos para cada fase. Para PBLs, no se requiere la descomposición de los costos por
+     componente.
+                                                                              -19-
+"
+"El presente análisis económico está basado en el Anexo de Análisis Económico desarrollado
+para el Tercer Programa para el Financiamiento de Proyectos de Inversión, Reconversión
+Productiva y Desarrollo Empresarial y Exportador. Este documento presenta un cálculo de
+beneficios de los créditos que Bancóldex otorgó usando los recursos de este Tercer Programa
+de financiamiento. El monto total de los recursos del programa es de US$400 millones, de los
+cuales US$200 millones han sido financiados por el Banco Interamericano de Desarrollo, como
+mostramos en la tabla 3 de Costos del Proyecto.
+Los beneficios esperados de esta intervención son los que están asociados a una relajación de
+las restricciones crediticias que enfrentan las empresas beneficiadas con crédito fondeado con
+recursos de este programa. Tales efectos pueden verse reflejados inicialmente en unas mejores
+condiciones de crédito, y finalmente redundan en un mejor desempeño económico de los
+beneficiarios. El presente análisis se enfocará en los beneficios en términos de incremento de la
+producción, como variable que resume los impactos en diferentes dimensiones del desempeño:
+empleo, adquisición de capital, productividad, todas las cuales finalmente redundan en mayor
+producción.
+El impacto de los créditos de segundo piso de Bancóldex sobre el desempeño de los beneficiarios
+ha sido objeto de una evaluación de impacto previa (Eslava, Maffioli y Meléndez, 2012a). Los
+cálculos del presente análisis se basan en los efectos individuales que estos autores estiman, y
+por tanto descansan sobre los supuestos que ellos hacen en su evaluación ex post, parten de la
+metodología que ellos diseñan, y presuponen que los efectos estimados para las muestras
+empleadas en sus estimaciones son extrapolables a la población de MIPYMES general. En
+particular, la evaluación de impacto mencionada arriba utiliza datos de la Encuesta Anual
+Manufacturera, que cubre la población de establecimientos manufactureros de 10 o más
+empleados (incluyendo firmas grandes). El supuesto implícito es, entonces, que los efectos que
+estos autores estiman para todos los establecimientos manufactureros no micro son
+extrapolables a la población objetivo del programa: MIPYMES de diferentes sectores27.
+El cálculo propuesto de beneficios en términos del desempeño de las empresas receptoras de
+créditos Bancóldex utiliza estimativos previos del impacto que obtener crédito Bancóldex tiene
+sobre el desempeño de un beneficiario (de Eslava et al., 2012a). Esos estimativos se expanden
+y convierten en valores monetarios tomando en cuenta el número de créditos esperados y un
+monto supuesto del valor base de producción.
+Es importante mencionar que Eslava et. al (2012a) restringen la estimación a empresas
+manufactureras uni-establecimiento: aquellas que no tienen más de un establecimiento
+manufacturero. Esto efectivamente excluye a las empresas más grandes, acercando la
+estimación al impacto sobre MIPYMES.
+Nuestro cálculo de beneficios esperados en términos de desempeño multiplica el valor de d28
+estimado por Eslava et al. (2012a) por el valor base de producción para calcular un beneficio
+estimado en valores monetarios, por beneficiario. Esta ganancia por beneficiario se multiplica
+27  Tomado del Análisis Económico del Tercer Programa para el Financiamiento de Proyectos de Inversión,
+    Reconversión Productiva y Desarrollo Empresarial y Exportador.
+28  Coeficiente d captura el cambio en desempeño de una firma cuando recibe crédito de Báncoldex, relativo al
+    desempeño de los establecimientos elegibles de similares características pero que no se beneficiaron de crédito
+    Bancóldex. Como la variable dependiente es el logaritmo natural del valor de la producción, ese cambio en
+    desempeño estimado es el incremento porcentual en producción de las beneficiarias relativo a las no beneficiarias.
+    Aunque es de esperar que el efecto porcentual del crédito de Bancóldex varíe por tipo de empresa en función de
+    características tales como el tamaño o el sector, la estimación de Eslava et al (2012a) no permite efectos
+    heterogéneos.
+                                                       -20-
+"
+"luego por el número de beneficiarios que se sirvieron, calculado como se indica en la próxima
+sección.
+En este punto es útil resaltar los supuestos implícitos y limitaciones que este análisis de
+beneficios hereda de la estimación de Eslava et al. (2012a), mencionados también más arriba.
+Primero, un supuesto fundamental que subyace este cálculo de beneficios esperados de esta
+Tercera Línea de Financiamiento es que los efectos previamente estimados por Eslava et al.
+(2012a) para empresas uni-establecimiento del sector manufacturero, no micro, son
+extrapolables a otros sectores de la economía. Segundo, se impone un mismo efecto porcentual
+para todas las empresas, sin importar su sector o tamaño. La única variación en este efecto
+porcentual esperado que se introduce en el análisis de beneficios es la implicada en el intervalo
+de confianza que arrojan los estimativos de Eslava et al (2012a) para el valor de d. Aunque,
+repetimos, sería deseable introducir otras fuentes de variabilidad en este efecto, no hay otros
+valores previamente estimados para d que nos den una base sólida para introducir tal
+variabilidad29.
+Escenarios:
+El cuadro 1 muestra la estimación de beneficios económicos de los beneficiarios de Bancóldex,
+en términos del incremento de producción. El beneficio bruto del programa está calculado como
+el producto entre el número de beneficiarios y el incremento esperado de producción para cada
+beneficiario. El último se calcula a partir del incremento porcentual en la producción por el uso
+de créditos Bancóldex que estimaron Eslava et al. (2012) y de un valor base sobre el cual aplicar
+ese incremento porcentual esperado. El cuadro 1 muestra una estimación base (columna 1), en
+la que el incremento porcentual esperado corresponde al valor puntual estimado por Eslava et
+al. (2012a) y el valor base producción corresponde al valor de producción promedio para Pymes
+uni-establecimiento en la EAM 2007-2009 utilizado para el cálculo en el análisis económico
+ex ante que hemos incrementado para el presente análisis basados en el IPC de 2010 a 2017.
+     Cuadro 1. Cálculo de beneficios en desempeño a los beneficiarios de créditos Bancóldex
+                                       Beneficiario     Beneficiario     Beneficiario    Beneficiario   Beneficiario
+                                       promedio,        promedio,        promedio,       promedio del   promedio del
+                                       efecto           efecto           efecto          sector de      sector de
+                                       individual       individual en    individual en   firmas más     firmas más
+                                       puntualmente     el límite        el límite       pequeñas       grandes
+                                       estimado         inferior del     superior del
+                                                        intervalo de     intervalo de
+                                                        confianza        confianza
+                                               (1)             (2)              (3)            (4)            (5)
+ Valor base (en miles de pesos,
+ 2010-2017, solo Pymes, IPC                   5,717,345      5,717,345        5,717,345      2,229,764      29,158,458
+ indexado)30
+ Efecto individual: d en columnas                  0.24              0.1            0.38           0.24           0.24
+ 1 a 3, límite inferior y superior del
+ intervalo de confianza (de dos
+ errores estándar alrededor del
+ estimador puntual) en columna 4
+ y límite superior del intervalo de
+ confianza en la columna 5
+29  Tomado del Análisis Económico del Tercer Programa para el Financiamiento de Proyectos de Inversión,
+    Reconversión Productiva y Desarrollo Empresarial y Exportador.
+30  Promedio de 2010 a 2017, indexado IPC anual del valor base 2007-2009
+                                                           -21-
+"
+" Beneficio por beneficiario (miles
+ de pesos)                            1,372,163     571,734     2,172,591      535,143     6,998,030
+ Beneficio esperado por
+ beneficiario en miles de dólares        459.84       191.60       728.08       179.34      2,345.18
+ de diciembre de 2017 (tasa de
+ cambio 31 dic.2017)31
+ Efecto real sobre el total de
+ beneficiarios                     5,585,677.15 2,327,365.48 8,843,988.83 2,178,414.09 28,486,953.49
+Este cálculo base corresponde a un escenario probable y arroja un beneficio esperado de
+US$5.585 millones de incremento de producción en las empresas beneficiarias.
+El cuadro 1 también presenta otros escenarios en los que se varía o bien el beneficio porcentual
+individual o bien el valor base de producción que entran en el cálculo. Discutimos esos escenarios
+alternativos y la sensibilidad del resultado, a continuación:
+Escenarios alternativos sobre el efecto individual: las columnas 2 y 3 del cuadro 1 muestran
+el cálculo análogo sobre el supuesto de que el efecto individual se sitúa en alguno de los límites
+de un intervalo de confianza de dos desviaciones estándar alrededor de su valor estimado
+puntual (un nivel de confianza mayor a 95%, bajo supuestos estándar). El límite inferior del
+intervalo de confianza del efecto individual arroja un beneficio total esperado de cerca de
+US$2.327 millones, mientras que el superior implica un beneficio total de cerca de
+US$8,843 millones.
+Escenarios alternativos sobre la producción base: Dada la alta variabilidad del valor de la
+producción a través de establecimientos, el cuadro 1 también presenta dos escenarios
+adicionales que dan límites superiores e inferiores para el valor base de producción (columnas 4
+y 5). El límite inferior está dado por el valor promedio de la producción en el subsector
+manufacturero donde este valor es el menor a través de subsectores. Los resultados en estas
+columnas indican que, bajo el supuesto (heredado de Eslava et al, 2012a) de que el impacto
+porcentual es igual para empresas de todos los tamaños, el efecto monetario se reduciría a la
+tercera parte si los créditos se dirigen a beneficiarios cuyo valor base de producción está en el
+límite inferior contemplado en lugar del valor promedio.
+El escenario base, en que el beneficiario promedio corresponde a la Pyme manufacturera
+promedio, arroja un beneficio esperado de casi US$5,585 millones. Este cálculo base
+corresponde a un escenario probable, e indica una alta rentabilidad del programa. Sin embargo,
+es bueno tener en cuenta la amplitud de la banda de estimaciones (los límites inferiores y
+superiores en el cuadro 1) que indica que, bajo el supuesto de que el impacto porcentual es igual
+para empresas de todos los tamaños, el efecto monetario sería mucho menor si los créditos se
+dirigen a beneficiarios cuyo valor base de producción es menor.
+Finalmente, el cuadro 2 estima la tasa interna de retorno y el valor presente neto del programa.
+Se asume en este último cálculo que la tasa de descuento es de 12%. Se supone, por
+consistencia con las estimaciones de Eslava et al (2012a)—quienes hacen una estimación única
+de beneficios a los cuatro años de haber recibido crédito Bancóldex por primera vez— que el
+beneficio se realiza cuatro años después de recibido el crédito, y que la asignación de créditos
+del programa se hace por partes iguales en los cuatro años de duración del mismo. El resultado
+del cálculo es una tasa interna de retorno esperada de 46%, muy superior a la tasa de descuento
+de 12%. El valor presente neto correspondiente sobrepasa los 584 millones de dólares. Se
+provee también límites inferior y superior para la tasa interna de retorno y el valor presente neto,
+que muestran que aún en el escenario menos favorable el programa tiene un valor presente neto
+31  Fuente Banco de la República.
+                                                 -22-
+"
+"positivo, cercano a US$65 millones. El límite superior sugiere un valor presente neto del
+programa un poco por encima de US$1,100 millones.
+                        Cuadro 2, Estimación de flujos y cálculos de TIR y VPN
+                               Año 1 -    Año 2 -   Año 3 -    Año 4 -     Año 5 -    Año 6 -    Año 7 -   Año 8 -
+                                2014       2015      2016        2017       2018       2019       2020      2021
+          Inversiones
+          (inversiones y
+          costos)                   100        100       100         100
+          Incremento en
+          producción,
+          escenario base
+          (beneficiario
+    a     promedio)                                                             460        460        460      460
+          Incremento en
+          producción,
+          estimado límite
+    b     inferior                                                              191        191        191      191
+          Incremento en
+          producción,
+          estimado límite
+    c     superior                                                              728        728        728      728
+ Flujo a                          (100)      (100)     (100)       (100)        460        460        460      460
+ Flujo b                          (100)      (100)     (100)       (100)        191        191        191      191
+ Flujo c                          (100)      (100)     (100)       (100)        728        728        728      728
+                                                            Escenario límite         Escenario límite
+                                                           inferior (beneficiario   superior (beneficiario
+                                       Escenario base      promedio en sector       promedio en sector
+                                      (beneficiario        de firmas más            de firmas más
+                                      promedio             pequeñas)                grandes)
+                       TIR                    46%                    18%                     64%
+                      VPN                     584                     65                    1,102
+Cifras en millones de dólares.
+Fuente: Construcción propia basados en el modelo de análisis económico ex ante
+ 2.4     Sostenibilidad
+                   a. Aspectos generales de sostenibilidad
+El equipo de Proyecto y Bancóldex seguirán cooperando para dar continuidad a la línea CCLIP
+para: (i) contemplar dentro de la Línea actividades de intermediación financiera dirigidas a
+proyectos productivos de mayor envergadura y en sectores ambientalmente sensibles, según
+Bancóldex desee expandir la aplicación de su sistema SARAS para abarcar dichas actividades
+en el rango de financiamiento del programa; y (ii) enmarcar adecuadamente el conjunto de las
+actividades de financiación de Bancóldex en el ámbito ambiental y social comprensivo para la
+institución, incluyendo la promoción de financiación para mercados verdes y eficiencia en el uso
+de energía y de los recursos naturales, y otras actividades, mediante protocolos específicos que
+permitan abordar los impactos ambientales y sociales de cada operación. El RC contempla la
+posibilidad de añadir sectores propuestos por Bancóldex y aprobados por el Banco, así como de
+                                                     -23-
+"
+"incluir protocolos de gestión ambiental para líneas específicas, por ejemplo, las líneas del CTF
+para eficiencia energética y conversión de la flota de autobuses de Bogotá.
+BANCOLDEX se encuentra constituido como una sociedad de economía mixta del orden
+nacional, por lo cual no forma parte del Presupuesto General de la Nación; es decir, que no
+sufraga sus gastos con cargo a recursos del Tesoro Público, sino que, por el contrario, sus gastos
+se pagan con recursos derivados del ejercicio de su propia operación como establecimiento de
+crédito, es por ello por lo que no está obligado a llevar su control presupuestal en los Sistemas
+de Gestión Financiera Pública (SGFP). El presupuesto de la Entidad se estructura de acuerdo
+con el Plan de Acción Estratégico que permite establecer el curso de acción de los frentes de
+negocio para el año planeado y la posterior definición de colocaciones por línea (necesidades de
+desembolsos de créditos) y gastos de funcionamiento, los que son cubiertos con la generación
+interna de fondos, captación de recursos y la adquisición de obligaciones con entidades
+financieras. Es importante destacar, que tanto para la elaboración y el seguimiento al
+presupuesto, BANCOLDEX maneja políticas claras que se encuentran definidas en los procesos
+de Planeación presupuestal y Gestión Presupuestal establecidos en la cadena de valor de
+BANCOLDEX y que son aprobados por la alta Dirección. Desde este punto de vista, la
+sostenibilidad de las líneas de crédito que apunten a la productividad de las MiPyMES está fuera
+del alcance de cambios políticos bruscos y más bien seguirán respondiendo a políticas públicas
+de largo plazo como los planes de desarrollo.
+Aunque la demanda de financiamiento para proyectos de inversión puede ser un riesgo, este
+riesgo se consideró bajo al momento de diseño, a juzgar por el dimensionamiento relativamente
+pequeño del programa frente a la potencial demanda y la experiencia del BID con los dos
+préstamos anteriores. Efectivamente el número de proyectos apoyados por la operación dan
+cuenta de una demanda creciente favorecida también por las políticas de acceso al mercado
+para las MIPYMES y los paquetes de reformas impulsados en torno a la inclusión y la
+transparencia del sector, así mismo la reglamentación de la ley de garantías mobiliarias. Con las
+condiciones creadas por los paquetes de reformas para el sector impulsadas por el gobierno, se
+puede prever que la demanda de este tipo de instrumentos de acceso continuará en crecimiento.
+Análisis/descripción de cómo han influido las líneas de crédito BID en la Cartera de
+Bancoldex: El principal efecto del apoyo del BID ha sido el permitir mayores plazos y mejores
+tasas para apoyar la inversión de las MIPYMES. El hecho de que esto se refleje en menores
+montos frente a los promedios de Bancóldex indica el apoyo diferencial que se ha brindado a las
+MIPYMES más pequeñas.
+Bancóldex ha profundizado su rol de Banco de desarrollo ofreciendo a los empresarios no sólo
+servicios financieros, sino también servicios no financieros enfocados al conocimiento e
+información concentrada en entender las necesidades que tienen las compañías colombianas.
+Entendiendo las necesidades de los empresarios de acuerdo con sus circunstancias de
+crecimiento, finalizando el 2017, el Banco decidió orientar la gestión del año 2018, en seis focos
+estratégicos que complementan la labor de las unidades de negocio “Plataformas de
+Crecimiento”. Los seis frentes están orientados a fortalecer el apoyo a los exportadores
+colombianos; a realizar operaciones de crédito directo bajo criterios de elegibilidad específicos;
+a fortalecer la atención de las entidades micro financieras para aumentar el crédito
+microempresarial; a la creación de líneas de crédito en condiciones especiales; a financiar y
+estructurar proyectos e inversiones verdes que generen impactos positivos sobre el medio
+ambiente y finalmente, a convertir al Banco en un actor relevante en la estructuración de
+programas y proyectos que contribuyan a la productividad y el desarrollo empresarial y regional
+                                                -24-
+"
+"del país32. Estos focos estratégicos diseñados por Bancoldex dan muestra clara de la penetración
+filosófica de los Programas desarrollados con el Banco (BID) que han tenido componentes de
+diseño directamente relacionados con estos focos y que han mostrado al Bancoldex su beneficio
+en los términos que hemos señalado en el presente informe anteriormente para las operaciones
+que atiendan criterios de elegibilidad específicos en cuanto a tipo de inversiones, riesgo de
+crédito, garantías e impacto agregado de dichas operaciones.
+III.      CRITERIOS NO CENTRALES
+3.1       Desempeño del Banco
+El desempeño del Banco puede calificarse como favorable en sus dos dimensiones:
+      (i)     Desempeño para garantizar la calidad a la entrada: La calidad del Programa se
+              observa desde su diseño, el mismo toma en cuenta los Programas Multisectoriales
+              de Crédito (PMCs) de apoyo el desarrollo del sector privado para apoyar el
+              financiamiento de proyectos empresariales de inversión fija, reconversión productiva
+              y desarrollo exportador. el Banco aprobó a finales de 2008 una Línea de Crédito
+              Condicional para Proyectos de Inversión (CCLIP) con Bancóldex por US$650 millones
+              (CO-X1007) y un primer PMC por US$100 millones (CO-L1078) dirigido a financiar
+              proyectos de inversión, reconversión productiva y desarrollo empresarial y exportador
+              de micros, pequeñas y medianas empresas (MIPYMES). Un segundo PMC por
+              US$200 millones (CO-L1082) se aprobó en 2009. El programa propuesto es el tercer
+              PMC a aprobarse bajo la Línea. En el diseño se prestó especial atención a la
+              problemática de las MIPYMES en cuanto a sus requerimientos entre los que destaca
+              su obsolescencia tecnológica, primando en ellas la utilización de máquinas y equipos
+              con tecnologías atrasadas y deficiencias técnicas en sus procesos nucleares de
+              producción. Su incapacidad para acceder a tecnologías más modernas en su proceso
+              productivo se debe, en buena medida, a su limitado acceso al mercado de
+              financiamiento formal, particularmente a aquel para inversiones de mediano y largo
+              plazo. En este sentido los créditos elegibles buscaban financiar proyectos inversión
+              productiva, ampliar el plazo promedio de los préstamos y mejorar la calidad de la
+              cartera.
+              El diseño del Reglamento de Crédito fijó las pautas para el otorgamiento de los
+              préstamos, las condiciones financieras, las modalidades de créditos elegibles y las
+              condiciones generales en montos, plazos, amortizaciones, tasas de redescuento y
+              periodos de gracia.
+              Como parte de la ejecución del programa, se identificaron instrumentos de monitoreo
+              y evaluación. Se presentaron informes periódicos de seguimiento del programa, en el
+              que BANCOLDEX informó al Banco el progreso en la ejecución de las actividades
+              programadas, así como en el cumplimiento de objetivos previamente acordados para
+              los indicadores de producto y resultados, que se describen en la matriz de resultados
+              y una evaluación de impacto que evaluará la medida en que se alcanzaron los
+              objetivos del programa a través de sus indicados de resultado e impacto. La
+              evaluación de impacto se realizará al final del Programa e incluirá la recopilación de
+              información sobre los beneficiarios del programa al principio del programa y hacia el
+              final del período de desembolso.
+32   Bancoldex, Informe de Gestión 2017.
+                                                  -25-
+"
+"    (ii)      Calidad de la supervisión del banco. El Banco llevó a cabo la supervisión del
+              avance en la implementación del Programa y aseguró el cumplimiento en el logro de
+              los productos diseñados como se evidencia en los informes de monitoreo PMR y los
+              indicadores logrados por encima de la meta planteada. Finalmente, se formalizó la
+              contratación de la firma auditora DELOITTE & TOUCHE LTDA para la prestación de
+              los servicios de auditoria externa a los Estados Financieros del proyecto a corte del
+              31 de diciembre de 2017.
+    (iii)     Salvaguardas ambientales y sociales
+El presente programa brindó a Bancóldex fondeo para operaciones de créditos de segundo piso.
+Por tanto, los impactos y riesgos ambientales y sociales ocurrieron a nivel de sub-préstamos y
+no eran predecibles ex ante. De acuerdo con la directiva B.13 de la Política de Medio Ambiente
+y Cumplimiento de Salvaguardias (OP-703), la operación no requirió clasificación. Sin embargo,
+para efectos del programa propuesto, Bancóldex contó con una lista negativa de proyectos no
+financiables y una lista positiva de proyectos/sectores elegibles, previamente acordadas con el
+Banco y establecidas en el RC. El sistema de gestión y demás condiciones socio-ambientales se
+detallan en el IGAS.
+Dada su naturaleza de banco de segundo piso, Bancóldex no realiza verificaciones ex ante de
+cada proyecto, dejando a las entidades de primer piso esta tarea según las condiciones de la
+legislación vigente y del mercado. En vista de su monto, naturaleza general y concentración y
+elegibilidad sectorial, el Equipo de Proyecto consideró que la operación no planteó riesgos
+significativos en aspectos ambientales y sociales dado el sistema a ser implementado por
+Bancóldex para el Tercer Programa.
+El sistema aplicable al Tercer Programa complementó la legislación del país con el Reglamento
+de Crédito del Programa. Este incluyó las siguientes medidas:
+    •     Las operaciones incluidas en la Lista de Exclusión del BID no fueron financiables aun
+          cuando tuvieran los permisos ambientales;
+    •     Para las operaciones elegibles que pudiesen generar impactos ambientales y sociales
+          negativos estimados como menores, o excepcionalmente moderados, considerando las
+          actividades excluidas, la magnitud de los proyectos, y la limitación de la cartera a sectores
+          elegibles y actividades de bajo riesgo, los ECs se comprometieron ante Bancóldex a
+          requerir que sus sub-prestatarios cumplan con la legislación local;
+    •     El Reglamento de Crédito incluyó una disposición que indica que las violaciones
+          detectadas por Bancóldex o el BID en materia de legislación ambiental o inclusión de
+          operaciones o actividades no elegibles (i) resultarían en la remoción de los créditos
+          correspondientes de la cartera del BID y en la no elegibilidad de las respectivas empresas
+          para el Programa en el futuro; y (ii) podrían resultar, mediante acciones correctivas que
+          Bancóldex implementaría según sus acuerdos con los ECs, en la cancelación anticipada
+          del sub-préstamo, y/o en sanciones a los ECs involucrados.
+Las actividades e inversiones elegibles para financiamiento incluyeron proyectos para mejorar el
+desempeño ambiental de las empresas cuando ellas lo soliciten. Bancoldex informó lo siguiente:
+Monitoreo Socio Ambiental
+    a. Porcentaje de transacciones con problemas socio-ambientales (meta 0; tolerancia
+          5% /120 días) - Todos los créditos financiados con recursos BID están clasificados en
+          categoría C en la clasificación periódica que realiza Bancóldex, esto se debe a que existe
+                                                   -26-
+"
+"         una lista de exclusión de actividades no permitidas amplia y al límite constante del monto
+         máximo a ser financiado. El promedio del monto de crédito por operación está en
+         US$31.600 dólares para la vida del programa.
+     b. Porcentaje de préstamos con beneficios ambientales (meta indicativa 10-25%). el 10%
+         de los créditos tiene por objetivo fundamental la mejora del impacto ambiental.
+(iv) Monitoreo y Evaluación
+Como parte de la ejecución del programa, se identificaron los siguientes instrumentos de
+monitoreo y evaluación: (i) informes periódicos de seguimiento del programa, en el que la AE
+informa al Banco cualquier progreso en la ejecución de las actividades programadas, así como
+en el cumplimiento de objetivos previamente acordados para los indicadores de producto y
+resultados, que se describen en la matriz de resultados que se adjunta al programa propuesto;
+(ii) auditorias financieras anuales sobre el uso de recursos del programa; y (iii) una posible
+evaluación de impacto que evaluará la medida en que se alcanzaron los objetivos del programa
+a través de sus indicados de resultado e impacto. La evaluación incluirá la recopilación de
+información sobre los beneficiarios del programa al principio del programa y hacia el final del
+período de desembolso. El plan de evaluación contempla el costeo para una posible evaluación
+de impacto hacia el final de la ejecución del programa a partir de las informaciones recolectadas
+por Bancoldex sobre la situación económica y financiera de los beneficiarios del programa y los
+resultados de la Encuesta Anual Manufacturera (EAM) del DANE. La evaluación de impacto del
+programa evaluará fundamentalmente el comportamiento de la producción real de las empresas
+beneficiarias con relación a la de empresas comparables, no beneficiarias. La evaluación de
+impacto que se describió en el Plan de Monitoreo y Evaluación en el momento de la aprobación
+planeaba usar la metodología de “propensity score matching”.
+La ejecución del programa fue monitoreado a través de informes de seguimiento. Dichos informes
+fueron preparados por la AE y enviados al Banco en los plazos estipulados en las condiciones
+generales de contratación. Estos informes, que constituyen una fuente de información para el
+PMR, incluyen: (i) informes semestrales; (ii) un informe de progreso intermedio, 24 meses
+después de la fecha del primer desembolso; y (iii) un Informe Final, al final de la ejecución del
+programa. En general, estos informes proporcionaron evidencia sobre: a) el estado de ejecución
+de las actividades del programa, los problemas y/o riesgos de ejecución identificados y las
+medidas propuestas para subsanar o mitigar esos problemas o riesgos; b) la medida en que se
+estaban cumpliendo los requisitos ambientales del programa; y c) el logro de los indicadores de
+producto, resultado e impacto en la medida en que estos se materializaban.
+Además, los esfuerzos de monitoreo del programa incluyen auditorías financieras realizadas
+anualmente por una firma de contadores públicos independientes, de conformidad con las
+directrices del Banco para informes financieros y auditorías externas.
+Los resultados de impacto del programa, si se identifican fuentes de fondeo para realizarla
+eventualmente (2019) se informarán en un informe de evaluación de impacto.
+Finalmente, los resultados que eventualmente se obtengan de la evaluación de impacto se
+presentarán en foros académicos y de diseñadores de política pública.
+3.2      Desempeño del Prestatario
+BANCOLDEX cumplió adecuadamente con lo acordado, llevó a cabo la colocación de los
+recursos para las MIPYMES dentro de los plazos establecidos e incluso antes del tiempo
+previsto, entregó los productos del Programa comprometidos en la Matriz de Resultados.
+                                                 -27-
+"
+"IV.      HALLAZGOS Y RECOMENDACIONES
+ 4.1     Dimensión Técnico Sectorial
+         a) DISEÑO DEL PROGRAMA
+Hallazgo 1: El diseño del Programa contó con el sustento suficiente dadas las dos operaciones
+iniciales de la serie y la madurez del Organismo Ejecutor en la ejecución de recursos de crédito
+del Banco con enfoque de desarrollo de la productividad empresarial. Desde este punto de vista
+los indicadores fueron fijados adecuadamente y recogieron las lecciones aprendidas por el Banco
+en el diseño de este tipo de Programas.
+Recomendación 1: Es importante dar continuidad al diseño de este tipo de Programas en donde
+la experiencia del Banco y del Ejecutor confluyen técnica y estratégicamente, logrando como en
+este caso una alta eficiencia en el uso de los recursos y el logro de los indicadores.
+         b) MONITOREO Y EVALUACIÓN DEL PROYECTO
+Hallazgo 2: El Plan de Monitoreo y Evaluación del Programa incluyó claramente los indicadores
+a los que se daría seguimiento como parte de la verificación del cumplimiento de las acciones
+del Programa, los medios de verificación y la información específica para que el Banco verifique
+su cumplimiento. En esta medida a través de los informes semestrales de seguimiento y las
+reuniones periódicas, el Banco logró realizar un adecuado seguimiento de los avances y logros
+del Programa, sin embargo era difícil prever en la etapa de diseño que la ejecución de los
+recursos tendría la dinámica que tuvo y que la ejecución se realizaría en un tiempo aproximado
+del 75% del planeado; misma que se dio apalancada por la reformas al sector realizadas por
+Gobierno de la Nación y que impulsaron también el acceso a estas líneas de crédito por parte de
+las MIPYME.
+Recomendación 2: Es importante que el Organismo Ejecutor a través del monitoreo de la
+colocación de sus recursos anticipe las posibles desviaciones en los tiempos de ejecución que
+permita al mismo tiempo al Banco anticipar las posibles nuevas operaciones a diseñar y hacer
+operativas, con el mismo Ejecutor u otros.
+ 4.2     Dimensión Organizativa y Administrativa
+     a. Capacidad de Gestión del Proyecto
+Hallazgo 3: El cumplimiento de las condiciones del desembolso inicial se dieron en un periodo
+de tiempo bastante corto lo que demuestra que los organismos ejecutores con experiencia tienen
+la facilidad de cumplir con las normas generales establecidas por el Banco para este tipo de
+desembolsos.
+Recomendación 3: Identificar el actor idóneo para la articulación de las acciones del proyecto
+genera una alta eficiencia dada el alto interés en el logro de los objetivos. En este caso el MHCP
+jugó un rol determinante para que los demás actores respondieran de manera oportuna.
+                                                -28-
+"
+"                                                          Tabla 4
+                                            Hallazgos y recomendaciones
+                             Hallazgos                                                  Recomendaciones
+Dimensión 1: Dimensión Técnico Sectorial
+Hallazgo # 1: El diseño del Programa contó con el sustento
+                                                                    Recomendación # 1: Es importante dar continuidad al
+suficiente dadas las dos operaciones iniciales de la serie y la
+                                                                    diseño de este tipo de Programas en donde la
+madurez del Organismo Ejecutor en la ejecución de recursos de
+                                                                    experiencia del Banco y del Ejecutor confluyen técnica y
+crédito del Banco con enfoque de desarrollo de la productividad
+                                                                    estratégicamente, logrando como en este caso una alta
+empresarial. Desde este punto de vista los indicadores fueron
+                                                                    eficiencia en el uso de los recursos y el logro de los
+fijados adecuadamente y recogieron las lecciones aprendidas por
+                                                                    indicadores.
+el Banco en el diseño de este tipo de Programas.
+Dimensión 2: Monitoreo y Evaluación del Proyecto
+Hallazgo # 2: El Plan de Monitoreo y Evaluación del Programa
+incluyó claramente los indicadores a los que se daría seguimiento
+como parte de la verificación del cumplimiento de las acciones del
+Programa, los medios de verificación y la información específica
+                                                                    Recomendación # 2: Es importante que el Organismo
+para que el Banco verifique su cumplimiento. En esta medida a
+                                                                    Ejecutor a través del monitoreo de la colocación de sus
+través de los informes semestrales de seguimiento y las reuniones
+                                                                    recursos anticipe las posibles desviaciones en los
+periódicas, el Banco logró realizar un adecuado seguimiento de los
+                                                                    tiempos de ejecución que permita al mismo tiempo al
+avances y logros del Programa, sin embargo era difícil prever en la
+                                                                    Banco anticipar las posibles nuevas operaciones a
+etapa de diseño que la ejecución de los recursos tendría la
+                                                                    diseñar y hacer operativas, con el mismo Ejecutor u
+dinámica que tuvo y que la ejecución se realizaría en un tiempo
+                                                                    otros.
+aproximado del 75% del planeado; misma que se dio apalancada
+por la reformas al sector realizadas por Gobierno de la Nación y
+que impulsaron también el acceso a estas líneas de crédito por
+parte de las MIPYME.
+Dimensión 3: Dimensión Organizativa y Administrativa
+Hallazgo # 3: El cumplimiento de las condiciones del desembolso     Recomendación # 3: Identificar el actor idóneo para la
+inicial se dieron en un periodo de tiempo bastante corto lo que     articulación de las acciones del proyecto genera una alta
+demuestra que los organismos ejecutores con experiencia tienen      eficiencia dada el alto interés en el logro de los objetivos.
+la facilidad de cumplir con las normas generales establecidas por   En este caso el MHCP jugó un rol determinante para que
+el Banco para este tipo de desembolsos.                             los demás actores respondieran de manera oportuna
+                                                             -29-
+"
+"                                                           Informe de Terminación de Proyecto
+                                                 Escribir nombre del proyecto y número de la operación
+                                                               Efectividad en el Desarrollo
+                                                                         Resumen
+I. Efectividad en el Desarrollo - Criterios Centrales
+                            Calificación general recomendada:                                                  Exitoso
+                                                                                                                        Peso
+1. Relevancia                                                                                3.00                       20%
+2. Efectividad                                                                               4.00                       40%
+       % de resultados alcanzados                                                           100.0%
+3. Eficiencia                                                                                2.00                       20%
+4. Sostenabilidad                                                                            3.00                       20%
+II. Efectividad en el Desarrollo - Criterios No Centrales
+Desempeño Del Banco                                                                                   Muy satisfactorio
+Desempeño Del Prestatario                                                                              Satisfactorio
+"

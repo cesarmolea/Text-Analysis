@@ -1,0 +1,1343 @@
+"outlist[[i]]"
+"INFORMACIÓN BÁSICA DEL PROYECTO
+  Número de proyecto (s): HO-L1033
+  Título: Programa Vial del Corredor Agrícola Tegucigalpa – Puerto Castilla
+  Instrumento de préstamo: Inversión
+  País: Republica de Honduras
+  Prestatario: República de Honduras
+  Préstamo (s): 2155/BL-HO
+  Sector/Subsector: Transporte
+  Préstamo: 1412/OP-HO
+  Préstamo: 2155/BL-HO
+  Fecha de aprobación Directorio: 24-jun-2009
+  Fecha de efectividad contrato de préstamo: 13-nov-2010
+  Fecha de elegibilidad primer desembolso: 16-nov-2011
+  Préstamo: 1412/OP-HO
+  Fecha de aprobación: 01-dec-2011
+  Fecha de efectividad contrato de préstamo: 22-may-2012
+  Fecha de elegibilidad primer desembolso: 09-Feb-2015
+  Monto préstamo (s)
+  Préstamo: 2155/BL-HO
+  Monto original: US$50.000.000
+  Monto actual: US$50.000.000
+  Préstamo: 1412/OP-HO
+  Monto original: US$25.000.000
+  Monto actual: US$25.000.000
+  Pari Passu:
+  Monto original: US$2.000.000
+  Monto actual: US$4.839.820,62
+  Costo total del proyecto: US$79.839.820,62
+  Meses de ejecución
+  Desde aprobación: 85 meses
+  Desde efectividad del contrato: 81 meses
+  Periodos de desembolso
+  Préstamo: 2155/BL-HO
+  Fecha original de desembolso final: 13-may-2016
+  Fecha actual de desembolso final: 31-may-2017
+  Extensión acumulativa (meses): 0
+  Extensión especial (meses): 13,771
+  Desembolsos
+  Monto total de desembolsos a la fecha: US$50.000.000
+  Préstamo: 1412/OP-HO
+  Fecha original de desembolso final: 30-Jun-2014
+  Fecha actual de desembolso final: 30-Jun -2017
+  Extensión acumulativa (meses): 0
+1   Originalmente el Organismo Ejecutor era SOPTRAVI (cuyo nombre cambió a Secretaría de Infraestructura y
+    Servicios Públicos [INSEP]) y a partir de septiembre de 2012 fue nombrado como tal Cuenta Desafío del Milenio
+    - Honduras (MCA-H) (hoy denominado Inversión Estratégica de Honduras [INVEST-H]). Además, debido a
+    acontecimientos políticos acaecidos en Honduras en 2009, el prestatario, Gobierno de Honduras (GdH),
+    experimentó atrasos en el cumplimiento de condiciones previas al primer desembolso.
+                                                          v
+"
+"Extensión especial (meses): 36
+Desembolsos
+Monto total de desembolsos a la fecha: US$25.000.000
+Gráfico de desembolsos
+*Eje X (horizontal): Numero de meses
+*Eje Y (vertical): Desembolsos acumulados como proporción de la cantidad total
+Redireccionamientos
+Recibidos fondos de otro proyecto [NO]
+Enviado fondos a otro proyecto [NO]
+Evaluaciones del desempeño del proyecto en PMRs:
+ No. Fecha de PMR                  Etapa PCR                                     Desembolso a la
+                                                                                 fecha     (US$
+                                                                                 millones)
+ 1       31 de diciembre, 2017 No iniciado                   Satisfactorio       US$50,00
+ 2       31 de diciembre, 2016 No Iniciado                   Satisfactorio       US$47,45
+ 3       31 de diciembre, 2015 No Iniciado                   Satisfactorio       US$45,91
+Metodología de análisis económico ex post: análisis costo – beneficio
+Metodología de evaluación ex post: excedente del consumidor
+Clasificación de Efectividad en el Desarrollo: 66,7%
+Staff del Banco
+          Posición                       En el PCR                     En la Aprobación
+          Vicepresidente VPS             Santiago Levy                 Santiago Levy
+          Vicepresidente VPC             Alexandre Meira Rosa          Otaviano Canuto
+          Gerente de País                Verónica Zavala               Gina Montiel
+          Gerente de Sector              Agustín Aguerre               Roberto Vellutini
+          Jefe de División               Néstor Roa                    Agustín Aguerre
+          Representante                  Eduardo Almeida               Steven Stone
+          Líder del Equipo de PCR        Alfonso Salazar               Rafael Acevedo
+                                                   vi
+"
+"Tiempo y Costo del Staff
+         Etapa del Ciclo de Proyecto    # de semanas del staff        US$ (Incluyendo viajes y
+                                                                      costos de consultoría)
+         Preparación                    21,6                          111.890
+         Supervisión                    78,6                          545.250
+         Total                          100,2                         657.140
+Descripción de los objetivos de desarrollo del proyecto/programa: La mejora sostenible de las
+condiciones del transporte de carga y pasajeros en el Corredor Agrícola.
+                                                 vii
+"
+"  RESUMEN EJECUTIVO
+   I.  Se presenta el Informe de Terminación de Proyecto (PCR, por su sigla en inglés) del
+       Programa Vial del Corredor Agrícola Tegucigalpa – Puerto Castilla (el Programa) el cual
+       ha sido elaborado con una activa participación del Organismo Ejecutor (OE).
+  II.  El Corredor Agrícola (el Corredor) tiene relevancia a nivel nacional por cuanto forma
+       parte de los corredores estratégicos del Plan Estratégico de Gobierno (2014-2018),
+       donde se define como uno de los objetivos “fortalecer la infraestructura y el desarrollo
+       logístico del país, a través de proyectos de transporte que faciliten una conexión más
+       ágil y de menor costo a nivel regional e internacional”. El Programa ha contribuido a la
+       ampliación, la integración y modernización de la infraestructura de transporte del país.
+       Además, está alineado con los objetivos de vialidad e integración de la Estrategia de
+       País con Honduras, 2015-2018 (GN-2796-1) por cuanto ha contribuido a la reducción
+       de tiempos y costos transporte, mejorando el flujo de personas y bienes en una de las
+       áreas con mayor potencial de actividad económica de Honduras. Asimismo, el
+       Programa a la fecha de su aprobación se encontraba alineado con la Estrategia del
+       Banco en el País vigente (período 2007-2010); específicamente en la reducción de
+       costos logísticos y de producción de transporte y energía; estableciéndose el
+       mejoramiento de las bases para la modernización del Corredor Agrícola.
+ III.  El objetivo general del Programa fue “la mejora sostenible de las condiciones del
+       transporte de carga y pasajeros en el Corredor Agrícola”, lo cual se lograría con la
+       pavimentación y rehabilitación de los tramos viales que conforman el Corredor. La
+       evaluación final del Programa indica que se rehabilitaron 136,69 km de carreteras y que
+       los valores de la mayoría de los indicadores han sobrepasado los valores meta, lo que
+       establece su efectividad.
+ IV.   Las intervenciones realizadas consistieron en la rehabilitación y pavimentación de
+       cuatro tramos viales y el principal resultado generado por las obras realizadas ha sido
+       cuantificado en una reducción en el tiempo de viaje por carretera entre Tegucigalpa y
+       Puerto Castilla (año de línea de base 2008) de 10,3 horas a 5,5 horas (46%). Asimismo,
+       se ha producido una reducción del 10% en el costo de transporte de carga de
+       48,45 US$/t a 43,60 US$/t.
+  V.   El análisis costo beneficio ex post realizado evidencia la eficiencia de los productos
+       definidos para el Programa. Los ahorros en costos de operación vehicular (con valores
+       que van entre el 20% al 66% por tipo de vehículo) han sido superiores a los valores
+       meta establecidos originalmente. Lo anterior como consecuencia de la mejora de la
+       superficie de rodamiento que ha reducido los gastos de los usuarios relacionados con
+       combustibles, neumáticos, lubricantes y reparaciones de los vehículos, entre otros.
+ VI.   El Programa refleja eficiencia por cuanto, habiendo realizado la evaluación económica
+       ex post del Programa con la variación en las metas físicas originales, se ha establecido
+       una Tasa Interna de Retorno Económico (TIRE) de 22,3% y Valor Actual Neto
+       Económico (VANE) de US$37,02 millones.
+VII.   Con la información disponible, los impactos y resultados obtenidos con el Programa
+       permiten concluir que se ha logrado la mejora de las condiciones del transporte de
+       carga y pasajeros en el Corredor.
+VIII.  Más allá de los datos numéricos y del análisis respectivo, la rehabilitación del Corredor
+       Agrícola ha sido reconocida por diferentes sectores del país como un importante logro
+       en el desarrollo vial de Honduras y ha generado mucho optimismo en el GdH,
+                                               1
+"
+"    gobiernos municipales, habitantes del área de influencia, productores, transportistas,
+    emprendedores, empresarios vinculados al turismo en tanto la mejora de la
+    accesibilidad lograda con el proyecto puede abrir nuevas posibilidades de estimular las
+    actividades productivas y turísticas de la zona y contribuir a beneficiar a la población
+    del área de influencia. El PCR incorpora evidencia testimonial de lo anterior que refleja
+    posibles impactos de este Programa. Esta información para el equipo de proyecto tiene
+    una especial importancia porque refleja la percepción directa y espontánea de actores
+    claves en relación con la mejora del Corredor Agrícola (ver enlaces de testimonios de
+    impactos en el corredor y publicaciones de prensa y fotografías).
+IX. Con respecto a la sostenibilidad, recientemente el GdH ha asignado la responsabilidad
+    del mantenimiento vial a INVEST-H, que en la actualidad se encuentra realizando
+    adecuaciones administrativas y de creación de capacidades para afrontar de una
+    manera más efectiva el mantenimiento de la red vial. Asimismo, ha comenzado a
+    realizar actividades de mantenimiento atendiendo urgencias viales y tramos que
+    permitan la conectividad de importantes centros de producción agropecuaria y turística.
+    Sin embargo, a la fecha no se cuenta con la planificación ni la asignación de recursos
+    para el mantenimiento de los tramos intervenidos con este Programa.
+                                            2
+"
+" I.      INTRODUCCIÓN
+1.1      Honduras posee un territorio de 112.492 km2 y cuenta con una población estimada en
+         2016 de 8.721.000 habitantes y su Producto Interno Bruto (PIB) a dicho año se reporta
+         en US$21.367 millones2. La economía de Honduras creció 3,5% en el período
+         2010-2015, presentando valores inferiores al promedio registrado previo a la crisis
+         económica entre los años 2003-2008 (5,6%)3.
+1.2      Pese a los importantes avances de los últimos años, el sector transporte continúa
+         siendo una de las restricciones más críticas para el crecimiento económico y social. Los
+         indicadores internacionales muestran una calidad de infraestructura limitada que afecta
+         su competitividad pese al potencial productivo del país. El Foro Económico Mundial en
+         su reporte del 2009-2010 ubicaba a Honduras con el subíndice de infraestructura en la
+         posición 89 de 1334.
+1.3      Las actividades agropecuarias son de las más importantes del sector primario de la
+         economía de Honduras, e importantes zonas de potencial productivo se localizan en los
+         departamentos de Atlántida (valle del Aguán), El Paraíso (valle de Jamastrán) y
+         Olancho (valles de Agalta y Guayape).
+1.4      No obstante, la expansión sostenible del potencial productivo de tales zonas se
+         encuentra limitado por varios factores; siendo la deficiente infraestructura vial existente
+         uno de los más importantes; ya que provoca altos costos y tiempo de transporte de
+         insumos y productos agropecuarios desde y hacia los mercados de comercialización.
+         Además, limita la accesibilidad a los servicios básicos de salud y educación a los
+         habitantes de tales zonas en las que el 75% de su población se encontraba debajo de
+         la línea de pobreza y el 58% se encontraba en pobreza extrema5.
+1.5      En ese contexto el Banco financió el Programa Vial del Corredor Agrícola Tegucigalpa
+         – Puerto Castilla, cuya área de influencia se localiza en los departamentos de Olancho
+         (valle de Agalta) y Colón, donde se estableció realizar las obras viales siguientes:
+         (i) Rehabilitación de carretera Gualaco – San Esteban (42 km); (ii) Rehabilitación de
+         carretera San Esteban – Bonito Oriental (88 km); y (iii) Pavimentación de Carretera
+         Bonito Oriental – Puerto Castilla – Trujillo (50 km).
+1.6      Con las obras viales incluidas en el Programa, se estaría habilitando una vía
+         pavimentada alterna de acceso a la zona nororiental del país de menor longitud a la
+         existente (Tegucigalpa – San Pedro Sula – Puerto Castilla).
+1.7      El Programa se estructura con los siguientes componentes: (i) administración, estudios
+         y supervisión; (ii) rehabilitación y pavimentación del corredor agrícola entre Gualaco y
+         Puerto Castilla (aproximadamente 180 km) incluyendo rehabilitación de sus puentes y
+         seguridad vial; (iii) apoyo a las capacidades e instrumentos de gestión; y
+         (iv) mantenimiento rutinario a través de microempresas de mantenimiento con
+         pobladores indígenas de la zona.
+1.8      La Propuesta de Préstamo fue aprobado el 24 de junio de 2009 y la fecha aprobada
+         para el último desembolso fue el 31 de mayo de 2017.
+2   Fuente: Honduras en Cifras, Banco Central de Honduras, www.bch.hn.
+3   En base a datos del Banco Central de Honduras y del Fondo Monetario Internacional.
+4   Fuente: Foro Económico Mundial, The Global Competitiveness Report 2009-2010.
+5   Párrafo 1.28 de la Propuesta de Préstamo.
+                                                      3
+"
+"1.9    Durante la preparación de esta operación, el GdH definió originalmente como OE a la
+       Secretaría de Obras Públicas, Transporte y Vivienda (SOPTRAVI, hoy la Secretaría de
+       Infraestructura y Servicios Públicos [INSEP]), pero debido a problemas de ejecución de
+       dicha entidad y con el objeto de mejorar el desempeño de la cartera, a partir de
+       septiembre de 2012 se traspasaron las operaciones de transporte a Cuenta Desafío del
+       Milenio - Honduras (MCA-H) (hoy INVEST-H).
+1.10   El presente informe analiza el Programa en términos de los impactos, resultados y
+       productos que se pretendían alcanzar como un insumo para la rendición de cuentas y
+       el aprendizaje de lecciones para una mayor efectividad en el desarrollo. Como parte del
+       análisis, los resultados han sido construidos a partir de los indicadores de desempeño
+       del Marco de Resultados/Matriz de Indicadores asociados con el objetivo del Programa.
+       Para ello se realizó una evaluación costo-beneficio ex post con el objetivo de constatar
+       la rentabilidad económica al final de la ejecución y determinar los valores finales de los
+       indicadores.
+II.    CRITERIOS CENTRALES. DESEMPEÑO DEL PROGRAMA
+II.1   Relevancia
+2.1    Se analiza a continuación la consistencia de los objetivos del Programa y su diseño con
+       la Actualización de la Estrategia Institucional 2010-2020 (AB-3008) del Banco y las
+       prioridades de desarrollo del país.
+       a. Alineamiento con las necesidades de desarrollo del país
+2.1.1. Para el análisis de la alineación del Programa con las necesidades del país, se ha
+       tomado de referencia lo establecido en la Ley para el establecimiento de una Visión de
+       País y un Plan de Nación para Honduras (Decreto Legislativo No. 286-2009), con la
+       cual se definen los derroteros del país en función de la identificación de sus
+       necesidades.
+2.1.2. La Visión de País contiene los principios, objetivos nacionales y metas de prioridad
+       nacional para el período 2010-2038. Por su parte el Plan de Nación cubre la primera
+       fase de la Visión de País (2010-2022) y se conforma de lineamientos estratégicos,
+       objetivos y 58 indicadores que demarcarán el accionar de los gobiernos en torno a la
+       Visión de País. Los Planes de Gobierno que se consideran relevantes para el lapso en
+       que se ejecutó el Programa corresponden a los períodos 2010-2014 y 2014-2018.
+2.1.3. El Programa se encuentra alineado con el Plan de Gobierno 2010-2014; puesto que
+       aporta al logro de los objetivos establecidos para el sector de infraestructura vial,
+       específicamente contribuye a alcanzar las metas siguientes: (i) pavimentar 507 km de
+       carreteras en el período 2010-2014; y (ii) rehabilitar y/o mejorar 198 km de carreteras
+       en el período 2010-2014.
+2.1.4. Respecto al Plan de Estratégico de Gobierno 2014-2018, el Programa es congruente
+       con el Objetivo General 1.2 Aumentar la generación de empleo y mejorar la
+       competitividad y productividad, y particularmente con el objetivo específico de
+       ampliación y modernización de la infraestructura, ya que contribuye a la meta de mejorar
+       sustancialmente el estado actual de la red vial en sus diferentes categorías, con el fin
+       de reducir costos de operación y tiempos de viaje.
+                                                4
+"
+" 2.1.5. Por lo anterior se puede concluir que el Programa se encontraba alineado con las
+        necesidades de desarrollo del país, tanto en el período de su aprobación como durante
+        su ejecución.
+        b. Alineamiento estratégico
+ 2.1.6. En el lapso entre la fecha de aprobación y la del último desembolso del Programa, las
+        Estrategias del Banco en el País fueron las correspondientes a los períodos 2007-2010
+        (GN-2475), 2011-2014 (GN-2645) y 2015-2018 (GN-2796-1). Se analiza a continuación
+        el alineamiento del Programa en cada una de ellas.
+ 2.1.7. A la fecha de su aprobación, el Programa se encontraba alineado a la Estrategia del
+        Banco en el País vigente (período 2007-2010); particularmente en el área de
+        focalización de mejora de la competitividad, específicamente en (i) reducción de costos
+        logísticos y de producción en transporte y energía; donde expresamente se establece
+        que se buscará sentar las bases para la modernización del Corredor Agrícola6.
+ 2.1.8. La Estrategia del Banco en el País para el período 2011–2014 se concentró en cinco
+        sectores: (i) gestión pública; (ii) sistema financiero; (iii) protección social; (iv) salud; y
+        (v) energía. Lo anterior en vista a que, durante dicho período el Banco se enfocó
+        principalmente en ejecutar la cartera de transporte pendiente de períodos anteriores a
+        la aprobación de dicha Estrategia.
+ 2.1.9. Con respecto a la Estrategia del Banco en el País para el período 2015-2018, el
+        Programa se encuentra alineado con el sector prioritario 3: Vialidad para Integración
+        Regional, que tiene por objetivo estratégico mejorar la integración nacional y regional,
+        y disminuir costos de operación y transporte. Uno de los resultados esperados en la
+        Matriz de Resultados de la estrategia es consolidar la integración vial del nororiente de
+        país donde se localiza geográficamente el Corredor Agrícola.
+2.1.10. Dado que el Programa se encuentra alineado con la Estrategia de País al tiempo de la
+        aprobación y su cierre, se concluye que el proyecto ha sido relevante.
+        c. Relevancia del diseño
+2.1.11. De los elementos contenidos en la Propuesta de Préstamo, se establece que la lógica
+        vertical del Programa se basa en que la deficiente infraestructura vial existente en la
+        zona de influencia del Programa generaba costos de operación vehicular y tiempos de
+        viaje elevados, lo que dificultaba el acceso de la población a los servicios sociales
+        básicos y mejores oportunidades de empleo, así como a los mercados de insumos y
+        productos; lo que limita el desarrollo del potencial productivo de las zonas de influencia
+        con el consecuente estancamiento de las condiciones de vida de la población.
+2.1.12. De acuerdo con la evaluación económica ex ante del Programa, los tramos del Corredor
+        Agrícola contaban con una superficie de rodamiento no pavimentada con un índice de
+        Rugosidad Internacional (IRI) entre 8 y 10 m/km, lo que generaba bajas velocidades de
+        circulación que se traducía en altos costos de operación y tiempos de viaje.
+2.1.13. Además, con la baja densidad de carreteras pavimentadas en la región nororiental del
+        país, la integración de este territorio con el resto de la nación se encontraba limitada.
+2.1.14. El diseño del Programa contempló la pavimentación de los tramos viales del Corredor
+        Agrícola, lo que mejoraría las condiciones de circulación; ya que, al reducir la rugosidad
+        superficial de las vías, se incrementarían las velocidades de circulación y con ello
+ 6  GN-2475, párrafo 4.12.
+                                                  5
+"
+"          estarían reduciendo los costos de operación vehicular y tiempos de viaje de los
+          usuarios.
+2.1.15. En el Programa se diseñaron componentes y productos orientados a la realización de
+          las obras viales identificadas y a apoyar las capacidades institucionales en la gestión.
+          No obstante que el objetivo general del Programa definía la mejora sostenible de las
+          condiciones del transporte de carga y pasajeros en el Corredor Agrícola, los recursos
+          de la operación fueron destinados a intervenir solamente a algunos tramos del corredor
+          lo que limitaba el logro del objetivo planteados. Con tales definiciones se estableció la
+          Matriz de Resultados y a efecto de identificar y analizar los ajustes experimentados
+          durante la ejecución del Programa, en la Tabla 1 se presenta la comparación de las
+          metas esperadas en la Matriz de Resultados definida al inicio de la ejecución cuando el
+          Programa alcanzó la elegibilidad; y la correspondiente el cierre del Programa7.
+2.1.16. Es importante mencionar que, al momento de preparación de la operación, únicamente
+          se requería de la incorporación de un marco de resultados que no incluyó indicadores
+          de impacto, fue hasta el proceso de ejecución en que fue necesario incorporarlos8.
+ 7  Cuando se aprobó este Programa no se tenía la regla de la carga de información luego de los 60 días de alcanzar
+    la elegibilidad, por lo tanto, con fines ilustrativo se anexa el siguiente enlace que muestra la comparación de la
+    matriz original con la matriz definida como base durante la ejecución.
+ 8  Operaciones preparadas posteriormente, incorporan una mejor definición de la lógica vertical, objetivos SMART,
+    matriz de resultados, plan de monitoreo y evaluación y Reporte de Monitoreo de Progreso (PMR).
+                                                              6
+"
+"                  Tabla 1. Comparativa de la Matriz de Resultados registrada al inicio de la ejecución y al cierre del Programa
+                             Al inicio de la ejecución del Programa                                    Al cierre del Programa
+                                                         Unidad de  Valor                                              Unidad de
+                               Descripción                 Medida    Meta                 Descripción                   Medida   Valor Meta
+IMPACTOS
+                                                                            Condiciones de transporte de
+                                                                            carga y pasajeros en el Corredor
+  Impacto No. 1                       -                       -        -
+                                                                            Agrícola mejorada de manera
+                                                                            sostenible
+                                                                            Tiempo de viaje en carretera entre
+    Indicador 1.1                     -                       -        -    Tegucigalpa y Puerto Castilla para           Horas      7,72
+                                                                            camión.
+                                                                            Costo de transporte de carga
+    Indicador 1.2                     -                       -        -                                                 US$/t     42,12
+                                                                            Tegucigalpa - Puerto Castilla
+RESULTADOS
+                   Condiciones de transitabilidad                           Condiciones de transitabilidad de
+                   de la infraestructura vial en el                         la infraestructura vial en el tramo
+  Resultado No. 1
+                   tramo Gualaco- Trujillo del                              Gualaco - Trujillo del Corredor
+                   Corredor Agrícola mejorada                               Agrícola mejorada
+                   Costo de operación de vehículos                          Costo de operación de vehículos
+    Indicador 1.1  livianos en el tramo Gualaco -       US$/Veh-km   0,28   livianos en el tramo Gualaco - Bonito     US$/Veh-km    0,28
+                   Bonito Oriental                                          Oriental
+                   Costo de operación de autobuses
+                                                                            Costo de operación de autobuses en
+    Indicador 1.2  en el tramo Gualaco - Bonito         US$/Veh-km   0,43                                             US$/Veh-Km    0,43
+                                                                            el tramo Gualaco - Bonito Oriental
+                   Oriental
+                   Costo de operación de camiones                           Costo de operación de camiones
+    Indicador 1.3  medianos en el tramo Gualaco -       US$/Veh-km   0,54   medianos en el tramo Gualaco -            US$/Veh-km    0,54
+                   Bonito Oriental.                                         Bonito Oriental.
+                   Costo de operación de camiones                           Costo de operación de camiones
+    Indicador 1.4  pesados en el tramo Gualaco -        US$/Veh-km   0,72   pesados en el tramo Gualaco -Bonito       US$/Veh-km    0,72
+                   Bonito Oriental.                                         Oriental.
+                   Tiempo medio de viaje en el tramo                        Tiempo medio de viaje en el tramo
+    Indicador 1.5                                          Minutos    42                                                Minutos      42
+                   Gualaco - San Esteban                                    Gualaco - San Esteban
+                   Tiempo medio de viaje en el tramo                        Tiempo medio de viaje en el tramo
+    Indicador 1.6                                          Minutos    88                                                Minutos      88
+                   San Esteban - Bonito Oriental                            San Esteban - Bonito Oriental
+                   Tiempo medio de viaje en el tramo                        Tiempo medio de viaje en el tramo
+    Indicador 1.7                                          Minutos    50                                                Minutos
+                   Bonito Oriental - Trujillo                               Bonito Oriental - Trujillo                               50
+                   Gestión de la conservación vial                          Gestión de la conservación vial de
+  Resultado No. 2  de las carreteras intervenidas                           las carreteras intervenidas dentro
+                   dentro del Programa, mejorada                            del Programa, mejorada
+                   Actividades de mantenimiento                             Actividades de mantenimiento
+    Indicador 2.1                                            km      181                                                  km        181
+                   realizadas por la comunidad Pech                         realizadas por la comunidad Pech
+                                                                      7
+"
+"                                      Al inicio de la ejecución del Programa                                    Al cierre del Programa
+                                                                  Unidad de   Valor                                             Unidad de
+                                       Descripción                   Medida   Meta                 Descripción                    Medida    Valor Meta
+  PRODUCTOS
+   Componente No. 1                                                                  Costos directos
+                           Carretera Gualaco - Trujillo/Puerto                       Carretera Gualaco- Trujillo/Puerto
+      Producto 1.1                                                     km    180,80                                                 km         123,789
+                           Castilla mantenida.                                       Castilla mantenida
+                           Carretera Gualaco - San Esteban                           Carretera Gualaco - San Esteban El
+      Producto 1.2                                                     km     74,00                                                 km          83,02
+                           El Carbón rehabilitada                                    Carbón rehabilitada
+                           Carretera El Carbón - Bonito
+                                                                                     Carretera El Carbón - Bonito Oriental
+      Producto 1.3         Oriental                                    km     47,00                                                 km          45,67
+                                                                                     rehabilitada
+                           rehabilitada.
+                           Carretera Bonito Oriental -
+                                                                                     Carretera Bonito Oriental - Corocito
+      Producto 1.4         Trujillo/Puerto Castilla (50.8 km)          km     51,00                                                 km           8,00
+                                                                                     rehabilitada
+                           rehabilitada
+                           Apoyo a las capacidades e                                 Apoyo a las capacidades e
+   Componente No. 2
+                           instrumentos de gestión                                   instrumentos de gestión
+                           Gestión ambiental y social                                Gestión ambiental y social
+      Producto 2.1                                                   Estudio    4                                                 Estudio          2
+                           implementada                                              implementada
+                           Gestión vial de SOPTRAVI
+      Producto 2.2                                                   Unidad     1    Gestión vial de SOPTRAVI fortalecida         Unidad           1
+                           fortalecida
+   Componente No. 3        Ingeniería y Administración                               Ingeniería y Administración
+                           Diseños carretera Bonito Oriental-
+                                                                                     Diseños carretera Bonito Oriental-
+      Producto 3.1         Trujillo/Puerto Castilla                  Estudio    1                                                 Estudio          1
+                                                                                     Trujillo/Puerto Castilla desarrollados
+                           desarrollados
+                           Supervisión rehabilitación carretera
+                                                                                     Supervisión Rehabilitación carretera
+      Producto 3.2         Bonito Oriental-Trujillo/Puerto             km      51                                                   km             8
+                                                                                     Bonito Oriental - Corocito realizada
+                           Castilla realizada
+                           Supervisión obras de rehabilitación                       Supervisión obras de rehabilitación
+      Producto 3.3         carretera Gualaco-El Carbón                 km      74    carretera Gualaco-El Carbón                    km          83,02
+                           realizada                                                 realizada
+      Producto 3.4         Otros estudios realizados                 Estudio    1    Otros estudios realizados                    Estudio          2
+                           Auditorías Financieras y                                  Auditorías Financieras y Ambientales
+      Producto 3.5                                                  Informes   13                                                Informes         23
+                           Ambientales realizadas                                    realizadas
+                           Supervisión Rehabilitación
+                                                                                     Supervisión Rehabilitación carretera
+      Producto 3.6         carretera El Carbón Bonito Oriental         km      47                                                   km          45,67
+                                                                                     El Carbón Bonito Oriental realizada
+                           realizada
+9   El valor indicado corresponde a promedio de los km mantenidos en el tramo. El valor registrado en Convergencia de 495,14 km corresponde a la suma de los
+    valores registrados entre los años 2014 a 2017.
+                                                                               8
+"
+"2.1.17. Como puede notarse en la versión inicial de la matriz de resultados, no se encontraban
+          definidos indicadores de impacto, lo que denota una deficiencia en el diseño del
+          Programa por cuanto al cierre del mismo no habría forma de determinar los impactos
+          generados con la intervención.
+2.1.18. A fin de suplir lo anterior, al cierre de la operación, con fines analíticos, se ha
+          incorporado el impacto denominado Condiciones de transporte de carga y pasajeros en
+          el Corredor Agrícola mejorada de manera sostenible, cuyo enunciado es congruente
+          con el objetivo general del Programa que buscaba la mejora del transporte de carga y
+          pasajeros en el Corredor.
+2.1.19. Se considera que los indicadores de impacto introducidos en la Matriz de Resultados
+          durante la ejecución del Programa son adecuados para la medición del logro de su
+          objetivo general.
+2.1.20. Respecto a la medición de los objetivos específicos, los indicadores incorporados
+          permiten medir el impacto en la reducción de costos de operación y tiempos de viaje; a
+          su vez el indicador 1.1 Tiempo de viaje en carretera entre Tegucigalpa y Puerto Castilla
+          para camión permite medir la integración regional y la mejora en la accesibilidad a partir
+          de la comparación de los tiempos de viaje establecidos para el trayecto antes de la
+          ejecución del Programa (donde el recorrido se realizaba entre Tegucigalpa – San Pedro
+          Sula – Puerto Castilla) y el tiempo que toma el transporte de carga sobre el Corredor
+          Agrícola.
+2.1.21. Al cierre del Programa no se definió ningún indicador de impacto para la medición del
+          objetivo específico de mejorar las condiciones de vida de la población de las zonas
+          dentro del área de influencias del proyecto.
+2.1.22. Los indicadores de resultados definidos al inicio de la operación no fueron variados
+          durante la ejecución del Programa. No obstante, es de resaltar que no se establecieron
+          indicadores de resultados para el tramo Bonito Oriental – Trujillo/Puerto Castilla.
+2.1.23. Únicamente en 2 de los 12 productos establecidos en la Matriz de Resultados no se
+          operaron cambios en sus valores durante la ejecución del Programa. Se analiza a
+          continuación las razones de tales cambios y su efecto en el logro de los resultados
+          definidos originalmente.
+2.1.24. El Producto 1.1 Carretera Gualaco-Trujillo/Puerto Castilla10 mantenida fue realizado a
+          través de la contratación de microempresas asociativas de mantenimiento que fueron
+          capacitadas y reactivadas para la prestación de esos servicios.
+2.1.25. El valor meta de los Productos 1.2 Carretera Gualaco-San Esteban El Carbón
+          rehabilitada, y 1.3 Carretera El Carbón - Bonito Oriental rehabilitada fueron ajustados
+          durante la ejecución, al determinarse que las longitudes de los tramos viales definidas
+          durante la preparación del Programa eran diferentes a las reales medidas en el campo.
+2.1.26. La descripción y valor meta original del Producto 1.4 Carretera Bonito Oriental-
+          Trujillo/Puerto Castilla (50,8 km) rehabilitada fue reducido durante la ejecución debido
+          a que, con el diseño final, se estableció que debido al franco deterioro del tramo vial
+ 10 Se aclara que en el tramo comprendido entre El Carbón – Bonito Oriental (45,67 km) y Bonito Oriental - Corocito
+     (8 km) no se realizaron actividades de mantenimiento vial con las microempresas debido a que se encontraban
+     en proceso constructivo hasta el cierre de la operación.
+                                                           9
+"
+"        requeriría una intervención más profunda y de mayor costo a la prevista durante el
+        diseño de la operación. Derivado de lo anterior se decidió atender únicamente los
+        primeros 8 km del tramo. Además, los recursos financieros remanentes fueron utilizados
+        para solucionar problemas imprevistos de fallas geológicas e inestabilidad de taludes
+        que se presentaron en los tramos Gualaco – San Esteban y San Esteban – El Carbón.
+        Esta situación afectó en el logro de los productos planificados en la zona de influencia
+        del tramo que dejó de atenderse de acuerdo con lo previsto en el diseño del Programa.
+        No obstante, esta circunstancia no desvalida la lógica vertical del Programa.
+2.1.27. El producto 2.1 Gestión ambiental y social implementada experimentó cambios en los
+        valores meta, pasando de cuatro a dos estudios, pero se logró el objetivo de elaborar y
+        socializar la guía socioambiental de infraestructura vial para las actividades de
+        construcción, mejoramiento y rehabilitación de la infraestructura vial hondureña definida
+        en el diseño del Programa.
+2.1.28. Los productos de supervisión de la rehabilitación de los tramos viales del Componente
+        No. 3 Ingeniería y Administración experimentaron cambios en sus valores metas, debido
+        al ajuste en la longitud de los tramos viales citada en el párrafo 23.12.2.5.
+2.1.29. El producto 3.4 Otros estudios realizados experimentó cambios en los valores meta,
+        pasando de 1 a 2 estudios, estos no afectaron al logro de los resultados definidos
+        originalmente para el Programa.
+2.1.30. En general la relevancia del Programa se califica como satisfactoria, por cuanto sus
+        objetivos se encuentran alineados con las necesidades del país y con las Estrategias
+        del Banco en el País vigentes en la aprobación y al cierre del Programa. Como en todo
+        proyecto, durante la ejecución se presentaron situaciones cambiantes que requirió que
+        el GdH y el BID adoptaran las respuestas más convenientes para tratar de alcanzar los
+        objetivos de desarrollo del Programa; el cambio de OE por ejemplo fue una situación
+        que garantizó una ejecución más fluida. Asimismo, en la parte técnica se adoptaron
+        soluciones que permitieran contar con una carretera con la mejor calidad posible.
+II.2    EFECTIVIDAD
+2.2.1.  En este apartado se evalúa si el Programa alcanzó los objetivos planteados. También
+        se hace una comparación entre los resultados esperados y los realmente alcanzados.
+        a. Declaración de los objetivos de desarrollo del programa
+2.2.2.  El objetivo general del Programa fue “la mejora sostenible de las condiciones del
+        transporte de carga y pasajeros en el Corredor Agrícola”, lo cual se lograría con la
+        pavimentación y rehabilitación de los tramos viales que conforman el Corredor.
+2.2.3.  Los objetivos específicos definidos fueron: (i) reducir los costos de operación y tiempos
+        de viaje; (ii) incrementar la integración regional del país a través de las mejoras en
+        accesibilidad; y (iii) mejorar las condiciones de vida de la población de las zonas dentro
+        del área de influencias del proyecto.
+2.2.4.  Para lograr estos objetivos, el Programa se estructuró con las siguientes componentes:
+        (i) administración, estudios y supervisión; (ii) rehabilitación y pavimentación del tramo
+        del corredor agrícola entre Gualaco y Puerto Castilla (aproximadamente 180 km)
+        incluyendo rehabilitación de sus puentes y seguridad vial; (iii) apoyo a las capacidades
+        e instrumentos de gestión; y (iv) mantenimiento rutinario a través de microempresas de
+        mantenimiento con pobladores indígenas de la zona.
+                                                  10
+"
+"2.2.5. En general el diseño de los productos contenidos en los componentes del Programa
+       fue adecuado para el logro de la mayoría de los objetivos fijados ya que, con la
+       pavimentación y rehabilitación de los tramos viales, efectivamente se mejorarían las
+       condiciones de circulación con la consecuente reducción de los costos de operación y
+       los tiempos de viaje.
+2.2.6. Además, con la habilitación del Corredor Agrícola se estaría mejorando la integración
+       de la región nororiental con el resto del país. Adicionalmente, el Corredor Agrícola
+       constituye una alternativa eficiente de comunicación entre Tegucigalpa y la zona de
+       Puerto Castilla y Trujillo lo que incrementa la oferta de transporte por carretera en
+       Honduras.
+2.2.7. El Programa no definió componentes explícitos para la consecución del objetivo
+       específico 3: mejorar las condiciones de vida de la población de las zonas dentro del
+       área de influencias del proyecto. Con el propósito de tener algún tipo de información
+       que permitiera establecer si el Programa había contribuido de alguna manera a la
+       mejora de las condiciones de vida de la población, durante la elaboración del PCR el
+       OE realizó entrevistas con habitantes de la zona de influencia, autoridades municipales,
+       emprendedores, entre otros (¶ 2.2.18).
+       b. Resultados logrados
+2.2.8. Los valores de los indicadores de impacto y resultados logrados con la ejecución del
+       programa se establecieron en base a los resultados obtenidos en la evaluación
+       económica ex post del Programa y se presentan en la Tabla 2; y el cálculo de los
+       porcentajes alcanzados se presentan a continuación.
+                                              11
+"
+"                                                                   Tabla 2. Matriz de Resultados Alcanzados
+                                                                              Valor de
+                                                              Unidad de                    Año de Línea                             Porcentaje
+                                     Indicador                                Línea de                           Valor Meta                            Medio de Verificación
+                                                                Medida                        de Base                               Alcanzado
+                                                                                Base
+ IMPACTOS
+ Impacto No. 1        Condiciones de transporte de carga y pasajeros en el Corredor Agrícola mejorada de manera sostenible
+                      Tiempo de viaje en carretera entre                                                       P          7,72
+                                                                                                                                                   Evaluación Costo – Beneficio
+    Impacto 1.1       Tegucigalpa y Puerto Castilla para         Horas           10,3           2008          P(a)        7,72        186%
+                                                                                                                                                    Ex post realizada por el OE
+                      camión                                                                                   A          5,50
+                                                                                                               P         13,11
+                      Costo de transporte de carga                                                                                                 Evaluación Costo – Beneficio
+    Impacto 1.2                                                  US$/t          48,45           2008          P(a)       42,12       76,7%11
+                      Tegucigalpa - Puerto Castilla                                                                                                 Ex post realizada por el OE
+                                                                                                               A          43,6
+ RESULTADOS
+ Resultado No. 1      Condiciones de transitabilidad de la infraestructura vial en el tramo Gualaco-Trujillo del Corredor Agrícola mejorada
+                      Costo de operación de vehículos                                                          P          0,28
+                                                                                                                                                   Evaluación Costo – Beneficio
+   Resultado 1.1      livianos en el tramo Gualaco - Bonito US$/Veh-km            0,5           2008          P(a)        0,28        150%
+                                                                                                                                                    Ex post realizada por el OE
+                      Oriental                                                                                 A          0,17
+                                                                                                               P          0,43
+                      Costo de operación de autobuses en                                                                                           Evaluación Costo – Beneficio
+   Resultado 1.2                                             US$/Veh-km          0,54           2008          P(a)        0,43        100%
+                      el tramo Gualaco-Bonito Oriental                                                                                              Ex post realizada por el OE
+                                                                                                               A          0,43
+                      Costo de operación de camiones                                                           P          0,54
+                                                                                                                                                   Evaluación Costo – Beneficio
+   Resultado 1.3      medianos en el tramo Gualaco-          US$/Veh-km          0,64           2008          P(a)        0,54        300%
+                                                                                                                                                    Ex post realizada por el OE
+                      Bonito Oriental                                                                          A          0,34
+                      Costo de operación de camiones                                                           P          0,72
+                                                                                                                                                   Evaluación Costo – Beneficio
+   Resultado 1.4      pesados en el tramo Gualaco-Bonito US$/Veh-km              0,97           2008          P(a)        0,72        188%
+                                                                                                                                                    Ex post realizada por el OE
+                      Oriental                                                                                 A          0,50
+                                                                                                               P           42
+                      Tiempo medio de viaje en el tramo                                                                                            Evaluación Costo – Beneficio
+   Resultado 1.5                                                Minutos           60            2008          P(a)         42         144%
+                      Gualaco - San Esteban                                                                                                         Ex post realizada por el OE
+                                                                                                               A           34
+                                                                                                               P           88
+                      Tiempo medio de viaje en el tramo                                                                                            Evaluación Costo – Beneficio
+   Resultado 1.6                                                Minutos          132            2008          P(a)         88         155%
+                      San Esteban - Bonito Oriental                                                                                                 Ex post realizada por el OE
+                                                                                                               A           64
+                                                                                                               P           50
+                      Tiempo medio de viaje en el tramo                                                                                            Evaluación Costo – Beneficio
+   Resultado 1.7                                                Minutos           66            2008          P(a)         50         219%
+                      Bonito Oriental – Trujillo                                                                                                    Ex post realizada por el OE
+                                                                                                               A           31
+ Resultado No. 2      Gestión de la conservación vial de las carreteras intervenidas dentro del Programa, mejorada
+                                                                                                               P          181
+                      Actividades de mantenimiento
+   Resultado 2.1                                                  km               0            2008          P(a)        181          74%           Informe Semestral del OE
+                      realizadas por la comunidad Pech
+                                                                                                               A          134
+11 El porcentaje alcanzado se ha calculado en base al P(a), debido a que en la definición original de la metodología para el cálculo del indicador se partía del peso bruto de los
+   vehículos de carga (esto es el peso del vehículo más el peso de las mercancías transportadas); haciendo que el valor no correspondiera con la descripción del indicador (valor P
+   esperado). A efectos de poder comparar la línea de base del indicador y el resultado alcanzado, durante la ejecución del Programa se corrigió el valor meta P(a) con la forma
+   correcta de estimarlo y de esa manera poder tener valores comparables y mostrar los resultados con la situación con proyecto.
+                                                                                       12
+"
+"                            (i)          Indicadores de impacto
+                (1) Tiempo de viaje en carretera entre Tegucigalpa y Puerto Castilla para camión
+ 2.2.9.    El valor meta del tiempo de viaje establecido para el proyecto en la línea base no cambió
+           en el trascurso de la ejecución, el cual estaba establecido en 7,72 horas, y los valores
+           finales calculados en la evaluación económica ex post son inferiores a los límites máximos
+           establecidos en la Matriz de Resultados del proyecto. El tiempo de viaje sobre la carretera,
+           se ha establecido a partir de la velocidad media de operación de los vehículos en los
+           tramos del proyecto. Adicionalmente, se hicieron dos viajes sobre el corredor
+           (Tegucigalpa – Puerto Castilla y Puerto Castilla – Tegucigalpa) para medir el tiempo en
+           minutos del viaje Tegucigalpa – Puerto Castilla. El cálculo se presenta a continuación.
+                   Tabla 3. Medición de tiempo de viaje Tegucigalpa – Puerto Castilla (viceversa)
+      Código
+                               Sección            Longitud (km)    Velocidad (km/h)        Promedio (minutos)
+       INSEP
+     08P01510         Tegucigalpa-Río Dulce           52,86              65,82                    49,21
+     08P01520           Rio Dulce-Guaimaca            36,33              69,20                    26,16
+                      Guaimaca Limite Dptal.
+     08P01530                                          10,0              75,47                    6,43
+                            F.M./Olancho
+                    Limite Dptal F.M./Olancho -
+     15P01540                                         28,74              81,91                    21,34
+                               Limones
+     15P01550            Limones - Juticalpa          40,88              77,08                    33,25
+     15P01560             Juticalpa - Telica          10,72              56,48                    11,76
+                    Telica - San Francisco de la
+     15P03910                                         19,63              81,59                    14,65
+                                  Paz
+                     San Francisco de la Paz-
+     15P03920                                         30,52              63,56                    25,74
+                               Gualaco
+     15P03930         Gualaco - San Esteban            41,0              77,24                    33,70
+                  San Esteban - Santa María del
+     15P03935                                          42,0              88,51                    25,49
+                               Carbón
+                  Santa María del Carbón/Limite
+     15P03940         Departamental Olancho/           25,4              65,01                    25,71
+                                Colón
+                   Limite Dptal. Olancho/Colón -
+     02P03950                                         20,16              80,62                    12,60
+                           Bonito Oriental
+     02P03960        Bonito Oriental - Corocito         8,0              57,93                    7,67
+     02P01385        Corocito - desvío a Trujillo      25,5              60,35                    23,32
+                     Desvío a Trujillo - Puerto
+     02P01390                                         13,11              48,00                    14,87
+                                Castilla
+                                 Total               404,85              69,92                   331,85
+                                                                                                 5 horas
+                                                                                                 31 min
+   Fuente: Evaluación Económica ex post del Programa Préstamo BID 2155/BL-HO, Petrona Bulnes. Julio 2017.
+2.2.10.    La meta original era reducir el tiempo de viaje en 2,57 horas (10,30 horas a 7,73 horas) y
+           el resultado alcanzado es de 4,8 horas (10,3 a 5,5 horas), por lo que el porcentaje
+           alcanzado es 187%.
+                                                         13
+"
+"                  (2) Costo de transporte de carga Tegucigalpa - Puerto Castilla a precios de 2008
+2.2.11.       A efectos de calcular el costo de transporte de la carga, se sustrajo al peso máximo
+              vehicular el valor de la tara de los vehículos y el cálculo se realizó considerando que los
+              camiones circulaban los 409 km entre Tegucigalpa y Puerto Castilla. Los cálculos fueron
+              realizados con los valores resultantes del costo de operación vehicular y volumen de
+              tránsito de los análisis económicos ex ante y ex post, respectivamente. En las tablas
+              siguientes se presentan los cálculos.12
+                        Tabla 4. Costo de transporte de la carga. Cálculo de valor de línea base
+                                                             TPDA13
+                          Peso                                              Costo de
+                                                Carga        Análisis                       Carga
+         Tipo de         Máximo       Tara                                 Operación
+                                              Efectiva        Costo                         Anual        Costo Total
+        Vehículo        Vehicular      (t)                                  Vehicular
+                                                  (t)     Beneficio Ex                        (t)
+                            (t)                                            US$/V-km
+                                                               Ante
+    Camión
+                           8,00        5,5       2,50            42          US$0,43     38.325,00    US$2.668.740,76
+    mediano
+    Camión pesado         16,00        6,5       9,50            7           US$0,72     24.272,50     US$751.899,93
+    Camión
+                          23,00       12,1      10,90            9           US$1,00     35.806,50    US$1.346.793,08
+    articulado
+                                                                                Suma: 98.404,00        US$4.767.433,77
+                                                                     Costo de Transporte (US$/ton):     US$48,45/ton
+                             Tabla 5. Costo de transporte de la carga. Cálculo de valor meta
+                                                              TPDA
+                          Peso                                              Costo de
+                                               Carga        Análisis                        Carga
+          Tipo de        Máximo      Tara                                 Operación
+                                              Efectiva       Costo                          Anual        Costo Total
+         Vehículo       Vehicular     (t)                                  Vehicular
+                                                  (t)      Beneficio                           (t)
+                            (t)                                            US$/V-km
+                                                            Ex Ante
+    Camión mediano         8,00       5,5        2,50           54          US$0,37      48.913,49    US$2.944.141,94
+    Camión pesado         16,00       6,5        9,50           9           US$0,65      30.978,54     US$863.001,97
+    Camión
+                          23,00      12,1       10,90           11          US$0,86      45.699,18    US$1.482.731,64
+    articulado
+                                                                                 Suma: 125.591,21      US$5.289.875,55
+                                                                     Costo de Transporte (US$/ton):     US$42,12/ton
+                          Tabla 6. Costo de transporte de la carga. Cálculo de valor obtenido
+                                                              TPDA
+                           Peso                                            Costo de
+                                                 Carga      Análisis                        Carga
+          Tipo de        Máximo       Tara                                Operación
+                                               Efectiva       Costo                         Anual        Costo Total
+         Vehículo       Vehicular      (t)                                 Vehicular
+                                                   (t)      Beneficio                          (t)
+                             (t)                                           US$/V-km
+                                                             Ex Post
+    Camión mediano         8,00        5,5        2,50          60          US$0,37       54.750,00   US$3.295.446,07
+      Camión pesado       16,00        6,5        9,50           2          US$0,65        6.935,00    US$193.195,61
+          Camión
+                          23,00       12,1       10,90          18          US$0,86       71.613,00   US$2.323.518,08
+         articulado
+                                                                                 Suma: 133.298,00     US$5.812.159,76
+                                                                Costo de Transporte (US$/ton):          US$43,60/ton
+   12  Como ejemplo de cálculo se usan los valores para camión mediano de la Tabla 6. Para el cálculo de la carga anual
+       transportada se multiplican las 2,5 toneladas por los 60 vehículos que transitan diariamente por los 365 días del
+       año; lo que resulta en 54.750,00 toneladas anuales. Para establecer el costo total de transporte, se multiplica el
+       número de vehículos que pasan anualmente por el tramo (60 vehículos * 365 días/año) por la longitud del corredor
+       (409 km) y por el costo de operación vehicular con todos (US$0,37/veh–km) lo que resulta en US$3.295.446,07.
+       El costo de transporte resulta de dividir el costo total de transporte anual (US$5.812.159,06) entre la carga total
+       transportada anual (133.298,00 ton), lo que da como resultado US$43,60/ton.
+   13  Tránsito Promedio Diario Anual (TPDA).
+                                                               14
+"
+"2.2.12.    Como lo demuestran los cuadros anteriores, los valores obtenidos en los indicadores de
+           tiempo de viaje y costos de transporte de carga entre Tegucigalpa y Puerto Castilla, son
+           significativamente menores a los calculados en el análisis ex ante; por lo que se concluye
+           que el objetivo específico (i) reducir los costos de operación y tiempos de viaje ha sido
+           alcanzado.
+2.2.13.    Dado que en la Matriz de Resultados no se incluyeron indicadores para los objetivos
+           específicos (ii) incrementar la integración regional del país a través de las mejoras en
+           accesibilidad y (iii) mejorar las condiciones de vida de la población de las zonas dentro
+           del área de influencias del proyecto; el OE no recabó información que facilite medir la
+           obtención de tales objetivos. Por tal razón a continuación se presentan las evidencias que
+           se han identificado para dimensionar su consecución.
+2.2.14.    Al haber pavimentado 128,69 km y reconstruido ocho km de carretera se ha dotado a los
+           departamentos de Olancho y Colón de un corredor que ha mejorado la accesibilidad en
+           la zona haciendo posible la integración de esta importante zona de producción
+           agropecuaria y de potencial turístico al resto del territorio.
+2.2.15.    Además, antes de las intervenciones efectuadas con el programa, la única conexión
+           pavimentada entre la región nororiental del país (donde se localiza Puerto Castilla) y las
+           regiones sur y central era a través del corredor Logístico y Turístico lo que requería un
+           mayor tiempo de viaje. Con la pavimentación del Corredor Agrícola, se habilitó una
+           alternativa de conexión más corta entre las regiones mencionadas que facilita el
+           transporte de bienes y personas, con lo que ha contribuido al logro del objetivo específico
+           (ii) incrementar la integración regional del país a través de las mejoras en accesibilidad.
+2.2.16.    Diversos estudios abordan el problema de la infraestructura vial y sus impactos negativos
+           en la competitividad del país y su incidencia en diferentes cadenas productivas, con una
+           mayor afectación a los pequeños productores, estimándose que sus costos de transporte
+           son cuatro veces mayores comparados con los de los grandes exportadores14. Existen
+           análisis que concluyen que las inversiones en infraestructura de transporte pueden
+           contribuir no sólo a la eficiencia económica a través de la reducción de costos de
+           transporte, sino reduciendo la necesidad de mantener altos y costosos inventarios15.
+2.2.17.    Las evidencias internacionales indican que la eficiencia de la infraestructura de transporte
+           contribuye a la actividad económica y a los esfuerzos por disminución de la pobreza. Una
+           evaluación de impacto en Indonesia encuentra que un incremento de 1% en la rugosidad
+           del camino, medido por el IRI, reduce el consumo per cápita en 0,26% y los ingresos en
+           0,89% (Gertler et al., 2014). Otra evaluación en Bangladesh muestra que la mejora de
+           caminos rurales reduce los costos de transporte en 25% e incrementa las cantidades
+           producidas en un rango de 8%-22%16. Asimismo, Casaburi et al., 2013, concluye que la
+           mejora en caminos en Sierra Leone lleva a una reducción de los precios de Cassaba de
+           18% en mercados locales, pero un incremento del 7% en los ingresos netos de los
+           agricultores debido a la caída en los costos de transporte (59%). Finalmente, se evidencia
+           para Perú que la mejora de caminos rurales incrementó la asistencia escolar de varones
+           adolescentes (12 a 18 años) y de niñas menores (6 a 11 años) en aproximadamente 7%
+   14 Fuente: http://siteresources.worldbank.org/INTTLF/Resources/LPI2010_for_web.pdf.
+   15 Public Capital, Growth and Welfare, Analytical Foundations for Public Policy, Pierre-Richard Agénor, Princeton
+      University Press, 2013.
+   16 Las estimaciones en cambios de producción varían de contexto a contexto. Otra evaluación en África Subsahariana
+      muestra que una reducción de 1% en los tiempos de viajes, densidades con aproximadamente 100.000 habitantes
+      incrementa la producción que usa pocos insumos en 2,9%.
+                                                          15
+"
+"             (Valdivia, 2008). Asimismo, de comparaciones antes y después, en intervenciones
+             previas en Nicaragua financiadas por el BID, se evidencia que, con la rehabilitación de
+             los caminos rurales, como lo fue el proyecto Acoyapa-San Carlos-Frontera Costa Rica
+             (1254/OP-NI, 1796/SF-NI), han ocurrido incrementos relevantes en la producción agrícola
+             y otras actividades económicas. En efecto, la producción agropecuaria en las regiones de
+             Chontales y río San Juan, en el área de influencia del proyecto anteriormente referido,
+             pasaron en 2006 de 34.600 toneladas/año a 90.330 toneladas/año en el 201117, los
+             ingresos por turismo pasaron de US$3,1 millones a US$5,2 millones; y la producción
+             pesquera de 750 toneladas/año a 997 toneladas/año. Finalmente, los estudios de
+             impactos realizados en Nicaragua18 indican que la mejora de caminos rurales tiene efecto
+             positivo en la mejora del bienestar de la población beneficiada, con reducción de tiempo
+             de transporte, desarrollo de servicios de transporte y mejora en indicadores de educación
+             y salud. El tipo de intervención en el Corredor Agrícola es similar a la realizada en
+             Nicaragua, por lo que los impactos pueden ser similares.
+2.2.18.      Debido a que en Honduras se carece de registros institucionales en diversas áreas, se
+             recopiló información publicada en los diferentes medios de comunicación en relación al
+             dinamismo generado en el área de influencia del Corredor Agrícola, a partir de las nuevas
+             condiciones de la carretera. En el siguiente vínculo, puede constatarse los impactos
+             percibidos de la mejora en las condiciones de vida de las personas del área de influencia
+             del Corredor Agrícola, asimismo, es importante constatar visualmente la situación ex ante
+             y la situación ex post en los tramos intervenidos. Este enlace recoge publicaciones de la
+             prensa nacional y fotografías que comparan las condiciones difíciles de acceso antes del
+             proyecto y las condiciones de accesibilidad logradas a partir de la intervención. Asimismo,
+             en las tablas 7, 8 y 9 se pueden apreciar datos recolectados por el OE ante diferentes
+             instancias gubernamentales que reflejan un mejoramiento de las condiciones de
+             negocios, ocupación hotelera, número de hoteles e incremento en el número de unidades
+             de transporte que circulan por el corredor, derivados de la mejora sustancial de las
+             condiciones de accesibilidad, reducción de los costos de operación y tiempos de viaje.
+             En el siguiente enlace se muestran los testimoniales de distintos beneficiaros del
+             Programa.
+2.2.19.      La mejora de las condiciones de vida de la población puede verse reflejada a partir de
+             diferentes dimensiones, siendo una de ellas el aumento de la actividad económica en la
+             zona y aumento en la oferta de transporte.
+2.2.20.      En materia económica los municipios beneficiados por el proyecto han experimentado
+             mayor dinamismo que refleja un incremento del 39% en el número de negocios (ver Tabla
+             7); lo cual abre las posibilidades de nuevos empleos y puede incidir en la mejora en las
+             condiciones de vida de la población.
+                 Tabla 7. Número de negocios, a nivel de municipios del Corredor Agrícola, 2015-2017
+                 Departamento                Municipio             2015          2016            2017
+             Olancho                   Gualaco                      99            106             112
+             Olancho                   San Esteban                  250           330             510
+             Colón                     Bonito Oriental              623           732             878
+             Colón                     Trujillo                     680           740             796
+    17  El 39% por encima de la meta del proyecto (PCR, 1796/SF-NI).
+    18  Fuente: General Study of the Impact of Rural Roads in Nicaragua, OECD, COWI Consulting, Junio 2008.
+                                                            16
+"
+"             Departamento               Municipio             2015             2016           2017
+                    Total (Gualaco - Trujillo)                1.652            1.908          2.296
+        Fuente: Construcción de INVEST-H, información Tributaria Municipal Gualaco, San Esteban, Bonito Oriental.
+        2018.
+2.2.21.  Asimismo, el número de hoteles en los municipios beneficiados por el proyecto se ha
+         incrementado en un 15,6% (ver Tabla 8) y el índice de ocupación ha pasado del 77,4% al
+         94,7% (ver Tabla 9); lo que también ha abierto posibilidades de nuevos empleos con la
+         consecuente incidencia en la mejora en las condiciones de vida de la población.
+              Tabla 8. Número de hoteles, a nivel de municipios del Corredor Agrícola, 2015-2017
+          Departamento        Municipio             2015                  2016                   2017
+          Olancho             Gualaco               3                     4                      4
+          Olancho             San Esteban           7                     8                      8
+          Colón               Bonito Oriental       3                     4                      4
+          Colón               Trujillo              19                    19                     21
+          Total (Gualaco - Trujillo)                32                    35                     37
+         Fuente: Construcción de INVEST-H, a partir de información Tributaria Municipal
+         Gualaco, San Esteban, Bonito Oriental. 2018.
+         Tabla 9: Índice de ocupación hotelera, a nivel de municipios del Corredor Agrícola, 2015-2017
+                                               2015                  2016                      2017
+                                       Número Porcentaje Número Porcentaje Número
+              Tamaño del hotel                                                                  Porcentaje de
+                                          de         de        de           de          de
+                                                                                                 ocupación
+                                       hoteles ocupación hoteles ocupación hoteles
+          Hasta 20 habitaciones            6       81,4%        8        90,4%           7          96,4%
+          Entre 21 y 40 habitaciones       6       78,0%        4        94,3%           5          96,9%
+          Entre 41 y 60 habitaciones       2       63,2%        2        95,9%           1          96,1%
+          Más de 60 habitaciones           0        0,0%        0         0,0%           1          70,6%
+          Ocupación                       14       77,4%        14       92,3%          14          94,7%
+         Fuente: Instituto Hondureño de Turismo.
+2.2.22.  Con la mejora de la accesibilidad lograda con las intervenciones en el Corredor Agrícola
+         se ha observado un incremento de la oferta de transporte público; lo cual facilita el acceso
+         a servicios sociales básicos como educación y salud, entre otros. En la Tabla 10 se
+         muestra que del año 2015 al 2017 el número de unidades de transporte público sirviendo
+         a la zona se incrementó en un 300%.
+           Tabla 10: Número unidades de transporte público, a nivel de municipios del Corredor Agrícola,
+                                                        2015-2017
+          Departamento           Municipio               2015                   2016                2017
+          Olancho           Gualaco
+          Olancho           San Esteban
+                                                           5                      20                 20
+          Colón             Bonito Oriental
+          Colón             Trujillo
+         Fuente: Construcción de INVEST-H, información Tributaria Municipal Gualaco, San Esteban, Bonito Oriental.
+         2018.
+                                                        17
+"
+"2.2.23. En complemento de lo anterior el OE realizó entrevistas con actores claves en el área de
+        influencia del proyecto, constatándose que la mejora de las condiciones de accesibilidad
+        han generado condiciones para mayor actividad económica en el área productiva y en
+        turismo con la consecuente incidencia positiva en las condiciones del área de influencia
+        (Testimonios de beneficiarios sobre los impactos del Programa).
+          (ii)   Indicadores de resultados
+2.2.24. Se desarrolla a continuación el análisis de los indicadores de resultados contenidos en la
+        Tabla 2 Matriz de Resultados Alcanzados.
+             (1) Costo de operación vehicular entre Gualaco – Bonito Oriental
+2.2.25. Los valores establecidos en la línea base no fueron cambiados durante la ejecución del
+        Programa; y los valores finales alcanzados han sido inferiores a los valores meta
+        establecidos para este indicador. Los valores finales fueron obtenidos a partir de la
+        evaluación costo - beneficio ex post donde fueron analizados los costos de operación a
+        través de la introducción de las características de los tramos mejorados en el Modelo
+        HDM-4.
+             (2) Tiempo de viaje en los tramos intervenidos por el Programa
+2.2.26. El valor meta del tiempo de viaje establecido para el programa en la línea base no cambió
+        en el trascurso de la ejecución; y los valores finales calculados en la evaluación
+        económica ex ante son inferiores a los límites máximos establecidos en la Matriz de
+        Resultados del proyecto. El tiempo de viaje sobre la carretera se ha establecido a partir
+        de la velocidad media de operación de los vehículos en medidas en los tres tramos
+        intervenidos con el Programa.
+             (3) Actividades de mantenimiento realizadas por la comunidad Pech
+2.2.27. Se logró la creación de tres Microempresas Asociativas de Mantenimiento Vial (MEAVC)
+        integradas por miembros de la comunidad Pech (Waika Araikiwa, Kaha Uskû y Empresa
+        Recolectora de Corozo Pech [ERCOP]) contratadas en las comunidades Pech de Santa
+        María del Carbón en el municipio de San Esteban, departamento Olancho y Silin y
+        Moradel en el municipio de Trujillo, departamento de Colón y de actividades
+        complementarias dentro del seno de la Comunidad. Las MEACV Pech, estuvieron
+        integradas por 50 socios/trabajadores, con equitativa participación de hombres (50%) y
+        mujeres (50%) y atendieron, durante los 32 meses de contrato, 133 km de la red vial
+        pavimentada.
+2.2.28. Adicionalmente a las 3 MEACV Pech, como apoyo al Componente 2 del Programa fueron
+        reactivadas 13 MEACV integradas por socios del área de influencia aledañas a los tramos
+        a intervenir (entre estos se encuentran tramos del Corredor de Oriente, Corredor Pacífico
+        y Corredor Agrícola). También se contrataron supervisores para el respectivo seguimiento
+        técnico de las actividades realizadas por las microempresas las cuales consistieron en el
+        mantenimiento rutinario del derecho de vía y limpieza de drenajes en una longitud
+        adicional de 512 km durante nueve meses, lo que generó 129 empleos directos. La
+        longitud atendida por estas MEACV no se colocó como km mantenidos en la Matriz de
+        Resultados, puesto a que el alcance definido en dicha matriz se focalizó en el
+                                                 18
+"
+"             mantenimiento de los tramos rehabilitados con el Programa (Gualaco - San Esteban - El
+             Carbón y Corocito - Trujillo19).
+             c. Análisis de la atribución de los resultados
+2.2.29.      En base a los resultados logrados y la evidencia existente en otros países presentada en
+             los párrafos 2.2.15 a 2.2.17, parece razonable atribuir a las intervenciones viales
+             realizadas con el Programa la reducción en los tiempos de viaje y costos de operación
+             vehicular observados en el Corredor Agrícola. Existe evidencia indicativa sobre mejoras
+             en conectividad y mejora en las condiciones de vida de la población (medida vía cambios
+             en actividad económica). Sin embargo, el proyecto en su diseño no consideró levantar
+             información que permita asignar atribución de resultados a los objetivos específicos (ii) y
+             (iii). Los estudios realizados (ver Tabla 6) muestran un aumento del tráfico de camiones
+             consistente con una mayor conectividad, y la evidencia en las Tablas 7 a 9 es claramente
+             indicativa de mejoras en la actividad económica, consistente con los resultados
+             encontrados en la literatura previa, y con la lógica vertical del proyecto.
+             d. Resultados imprevistos
+2.2.30.      Tomando en cuenta la necesidad de atención de fallas en taludes en corte y relleno
+             focalizados en el tramo entre Gualaco y San Esteban, el cual fue rehabilitado con recursos
+             del Programa, las obras de contención de dichas fallas se incluyeron como parte del
+             alcance del contrato de obras del tramo VI. Bonito Oriental – Corocito, debido a que los
+             trabajos entre Gualaco y San Esteban finalizaron en 2013 y las fallas se activaron entre
+             2015 y 2016. Por lo anterior, se incluyó este alcance en el contrato de obras que se
+             encontraba vigente y se atendieron fallas en taludes en corte y relleno entre las
+             estaciones 66+830 y 67+740 consistentes en la colocación de muros de tierra armada y
+             gaviones. También se incluyó en ese contrato obras de mejoramiento en el terraplén y
+             colocación de doble tratamiento entre los km. 124+300 y 131+220 ubicado en la Sección
+             IV. San Esteban – El Carbón, debido a la falta de mantenimiento que el GdH a través del
+             Fondo Vial (FV) debió hacer en las carreteras una vez estas fueron entregadas por el
+             INVEST-H en 2014. Con esta estrategia de intervención se fortaleció la sostenibilidad de
+             las inversiones del Programa.
+2.2.31.      En uno de los tramos intervenidos con el Programa del Corredor Agrícola,
+             específicamente entre las comunidades de El Carbón en el departamento de Olancho y
+             Bonito Oriental en el departamento de Colón, se aplicó una tecnología innovadora en la
+             región en una de las capas de la estructura de pavimento ya que dicha tecnología no
+             había sido aplicada en otros proyectos de la región, la cual consistió en colocar una
+             geomalla triaxial bajo la estructura de la base (sub rasante) en una longitud de 45.67 km
+             lo que permitió, por un lado disminuir el volumen de material granular a colocar en la base
+             y mantener la estructura de la capa de rodadura diseñada. Con la aplicación de esta
+             geomalla triaxial se logró sobrepasar el número de ejes equivalentes del diseño, pasando
+             de 1,8 millones a 3,8 millones, dando como resultado un aumento en la vida útil del
+             proyecto y un caso histórico de soporte para futuros proyectos en el país y en la región
+             sin necesidad de incrementar los espesores de las diferentes capas del pavimento y tener
+             que hacer una mayor inversión. La aplicación de esta tecnología por primera vez en
+    19  No se incluyó el tramo El Carbón – Bonito Oriental para ser atendido con las MEACV porque estaba en proceso
+        de construcción. Por otra parte, con la tercer MEACV Pech se atendió el tramo Corocito – Trujillo, en vista a que
+        se encontraba en proceso de construcción el tramo Bonito Oriental - Corocito.
+                                                            19
+"
+"              Honduras demostró sus ventajas, las cuales fueron documentadas mediante una
+              verificación única en el país y en América Latina utilizando un equipo especializado, para
+              lo cual se realizaron pruebas de verificación de los resultados obtenidos entre el 10 y
+              12 de mayo del 2016 realizados por doctores en ingeniería de la Universidad Estatal de
+              IOWA20.
+2.2.32.       De conformidad con el Informe de Gestión Ambiental y Social (IGAS) del Programa se
+              contempló la implementación de una estrategia para la conservación del hábitat del
+              Colibrí Esmeralda (especie endémica) que reside en el remanente de bosque seco del
+              Valle de Agalta en el departamento de Olancho. La estrategia original del IGAS previó la
+              realización de los siguientes análisis: (i) medidas de ejecución de obras del tramo vial en
+              la zona del Valle de Agalta; (ii) análisis de potencial de servicios forestales para la zona
+              de influencia directa del proyecto en el Valle de Agalta; y (iii) análisis de medidas de
+              control forestal de la zona de influencia del proyecto. Con el objetivo de fortalecer dicha
+              estrategia en resultados de conocimiento aplicados para el manejo a futuro del hábitat del
+              Colibrí Esmeralda, la estrategia se actualizó en 2012, incluyendo: (i) medidas especiales
+              de ejecución de las obras del tramo vial en la zona del Valle de Agalta; (ii) manejo de un
+              relleno sanitario en una zona de botadero municipal en el que se detectó presencia del
+              colibrí esmeralda; y (iii) diagnóstico integral actualizado de la presencia del colibrí
+              esmeralda21. El diagnóstico integral de la presencia del colibrí esmeralda se realizó a
+              través de un convenio entre las Universidades Nacional Autónoma de Honduras e Indiana
+              de Pennsylvania donde especialistas en biología y forestales diseñaron medidas de
+              mitigación y conservación del área de influencia por donde se rehabilitó la vía (sección III:
+              Gualaco - San Esteban, específicamente en cuatro km). Los principales resultados del
+              estudio fueron: (i) estrategia a corto plazo que consistió en realizar el estudio y diseño de
+              un relleno sanitario y cierre técnico del botadero actual que opera en la comunidad de El
+              Ciruelo, municipio de San Esteban, Olancho; (ii) estrategia a mediano plazo que busca
+              contribuir al conocimiento del colibrí esmeralda a través de un trabajo de investigación
+              con respecto al patrón y uso del hábitat a través de la consultoría que realizaron las
+              universidades de Honduras e Indiana mencionadas arriba, cuyo estudio se denominó
+              “Evaluación de Biodiversidad y Ecosistema en el Valle de Agalta para la protección del
+              colibrí esmeralda’’; y (iii) desarrollo de la consultoría denominada ‘’Esquema de pagos por
+              servicios ambientales en el valle de Agalta’’ y realización de un monitoreo biológico que
+              se llevaría a implementar por parte de autoridades locales Las medidas fueron
+              implementadas durante el proceso constructivo con la supervisión del OE y
+              acompañamiento del Banco.
+2.2.33.       Con el financiamiento del Programa y la coordinación de INVEST-H con la alcaldía
+              municipal de San Esteban, se lograron acciones para ser implementadas a corto plazo,
+              como ser: (i) declaratoria del área donde opera el botadero municipal de San Esteban
+              (conocido como El Ciruelo) como un patrimonio de la vida silvestre, específicamente del
+              Colibrí Esmeralda; (ii) diseño de un relleno sanitario manual para la disposición de
+    20  Se realizaron 21 ensayos dinámicos para medir módulos resilientes ‘’in situ’’ a largo plazo y deformaciones de las
+        capas granulares de la estructura de pavimento con el equipo Automated Plate Load Test (APLT), realizado por
+        los doctores en ingeniería David J. White y Pavana Vennapusa de la Universidad Estatal de IOWA. Como resultado
+        de esta innovadora iniciativa de mejoramiento de la subrasante, INVEST-H fue seleccionado como finalista del
+        concurso Superhéroes del Desarrollo del Banco Interamericano de Desarrollo, el cual premia el aprendizaje logrado
+        por agencias ejecutoras que han enfrentado desafíos durante la ejecución y encontraron soluciones creativas.
+    21  La actualización de la estrategia ambiental del proyecto se realizó de común acuerdo entre el equipo de
+        salvaguardias ambiental y social y el equipo técnico del Banco, el OE, y el Prestatario. El análisis de potencial de
+        servicios forestales para la zona de influencia directa del proyecto en el Valle de Agalta, se realizó con recursos de
+        la cooperación técnica ATN/SF-11005-HO, ejecutada por la unidad de salvaguardias ambiental y social del Banco.
+                                                                20
+"
+"               desechos sólidos de manera organizada, eficiente y que conserve el área del remanente
+               de bosque seco donde opera el botadero; y (iii) obras de mejoramiento para el acceso al
+               botadero municipal y construcción de un cerco perimetral en donde el GdH a través de la
+               municipalidad de San Esteban construirá a futuro el relleno sanitario descrito en el literal
+               ii.
+2.2.34.        Como parte del apoyo al Fortalecimiento Institucional del antiguo OE (SOPTRAVI ahora
+               INSEP), se aprobó el financiamiento para la reactivación y formación de
+               13 microempresas de conservación y mantenimiento vial en tramos en de la red vial
+               nacional no concesionados, los cuales fueron priorizados con base en criterios de atender
+               tramos con mayor volúmenes de tráfico y que conectan a los principales corredores
+               estratégicos de la red nacional que formen parte de los principales ejes transversales de
+               desarrollo económico. A través de estas microempresas, se realizaron actividades de
+               mantenimiento de al menos 512 km en los departamentos de Francisco Morazán,
+               Olancho, Choluteca, Valle, Comayagua, Intibucá, La Paz y Yoro, por un período de
+               nueve meses durante el 2015.
+ II.3          EFICIENCIA
+ 2.3.1.        Para el análisis de la eficiencia del proyecto se efectuó una evaluación económica ex post
+               cuya metodología22 se basó en un análisis diferencial entre una situación base o llamada
+               también “Sin proyecto” con una situación “de proyecto”. Ambas situaciones se
+               proyectaron de manera independiente dentro de un horizonte de evaluación de 20 años,
+               de manera tal que estas proyecciones se hacen desde un punto de vista técnico
+               (evolución de las características de la carretera) como económico (crecimiento del tráfico)
+               y un costo asociados a ellas evaluadas a una tasa de descuento social del 12%.
+ 2.3.2.        Luego, se compararon los costos (del proyecto y se estimaron anualmente los costos de
+               inversión y mantenimiento de la carretera), contra los beneficios, (ahorros de costos de
+               operación vehicular, de tiempo de viaje). Los flujos anuales, por tramo vial, se presentan
+               en la Tabla 11.
+                                           Tabla 11: Flujos de Costos y Beneficios
+                                                         Flujo de Beneficios Tramos Intervenidos
+                                                                    (en US$ millones)
+                       Año
+                                    Gualaco - San     San Esteban - El Carbón -            Bonito Oriental  Total
+                                    Esteban          El Carbón        Bonito Oriental - Corocito            proyecto
+                         1               -5,55             -5,93             -7,16               -6,95         -25,59
+                         2               -5,71             -5,79             -8,22               0,96          -18,76
+                         3               1,67              1,26              2,99                1,17           7,09
+                         4               2,91              2,13              4,10                1,41          10,55
+                         5               3,91              2,92              4,69                1,68          13,20
+                         6               4,41              3,37              1,88                1,98          11,64
+                         7               1,88              1,43              3,48                2,31           9,10
+                         8               3,31              2,45              4,69                2,62          13,07
+                         9               4,37              3,33              5,30                2,95          15,95
+                        10               4,89              3,80              2,17                3,12          13,98
+                        11               2,11              1,62              4,06                3,21          11,00
+                        12               3,76              2,84              5,36                3,29          15,25
+     22 Para la realización de la evaluación técnica-económica del proyecto se ha utilizado el modelo HDM-4 de Desarrollo
+        y Gestión de Carreteras: Es un modelo de transporte diseñado para apoyar la toma de decisiones relacionadas
+        con la gestión de la conservación y rehabilitación de proyectos de carreteras, en aplicaciones principalmente
+        dirigidas a la planeación estratégica, la programación de actividades de intervención y la evaluación técnico-
+        económica de planes y políticas de conservación.
+                                                               21
+"
+"                                                     Flujo de Beneficios Tramos Intervenidos
+                                                                  (en US$ millones)
+                    Año
+                                 Gualaco - San   San Esteban - El Carbón -             Bonito Oriental  Total
+                                 Esteban         El Carbón          Bonito Oriental - Corocito          proyecto
+                      13              4,89             3,79               5,98               3,38           18,04
+                      14              5,41             4,28               2,49               3,48           15,66
+                      15              2,35             1,83               -0,32              3,57            7,43
+                      16             -0,07             -0,95              6,07               3,63            8,68
+                      17              5,41             4,28               6,71               3,78           20,18
+                      18              5,94             4,78               2,81               3,89           17,42
+                      19              2,60             2,05               5,40               4,01           14,06
+                      20              4,76             3,74               6,88               4,12           19,50
+                  VPN (US$
+                  millones)          11,09             5,32              10,68               9,94           37,02
+                   TIR (%)          24,50%           18,20%             21,60%             26,00%          22,30%
+              Beneficio/Costo         2,05             1,74               1,76               2,43              -
+                     Fuente: Evaluación económica ex post.
+2.3.3.      En el análisis efectuado los beneficios se contabilizaron a partir de la comparación de los
+            costos totales de transporte en donde la metodología adopta el supuesto que los costos
+            de operación de los vehículos y los tiempos de recorrido dependen de la velocidad media
+            de circulación en el tramo carretero, de su longitud y del índice internacional de rugosidad.
+2.3.4.      En la evaluación ex post se utilizaron los costos finales de las intervenciones, así como
+            las mediciones de los volúmenes de tránsito y tiempos de viaje realizados después de la
+            finalización de las obras. Para la proyección del crecimiento del tránsito fueron analizadas
+            las series históricas de volúmenes de tránsito, así como otras variables normalmente
+            incidentes en la generación de viajes automotores, como lo son la variación del PIB y la
+            tasa de motorización.
+2.3.5.      El Programa refleja eficiencia satisfactoria por cuanto, habiendo realizado la evaluación
+            económica ex post del Programa, aún con la variación en las metas físicas originales, se
+            ha establecido una Tasa Interna de Retorno Económico (TIRE) de 22,3% y Valor Actual
+            Neto Económico (VANE) de US$37,02 millones.
+2.3.6.      Adicionalmente a los favorables indicadores obtenidos en la evaluación económica ex
+            post es importante mencionar que las obras se realizaron dentro de márgenes de tiempos
+            y costos razonables para el tipo de intervenciones realizadas23.
+            a. Costos del Programa
+2.3.7.      Los costos del programa se presentan en la Tabla 12. Los cuales incluyen todas las fuentes
+            de financiamiento.
+2.3.8.      Adicionalmente se detallan a continuación los costos originalmente previstos en el
+            Programa para la rehabilitación del tramo entre Gualaco y Puerto Castilla, los cuales
+            sufrieron modificaciones por las siguientes razones: (i) ajustes de cantidades de obras
+            por revisión de diseños referenciales que se utilizaron por el antiguo OE para la licitación
+            de las obras, las cuales fueron revisadas en campo por los supervisores; (ii) ajustes en
+            diseño de estructura de pavimento licitada para el tramo El Carbón – Bonito Oriental y
+            revisión de diseños de obras hidráulicas; y (iii) en vista al alto grado de deterioro de la vía
+            entre Bonito Oriental y Trujillo (longitud 51 km), sumado a los daños estructurales de
+   23  El costo por km promedio de los tramos viales intervenidos con el Programa asciende a US$377.437, y al
+       compararlo con el costo promedio de tramos con similares intervenciones en los departamentos de Intibucá, Valle
+       y Francisco Morazán (US$488.588) refleja un costo por km comparativamente menor.
+                                                           22
+"
+"18 puentes ubicados en el tramo, el OE tuvo que realizar un análisis de costos (EEO#2)
+para incorporar en los contratos en ejecución (tramos Gualaco – San Esteban, San
+Esteban – El Carbón) las modificaciones necesarias para la construcción de las obras, lo
+que dejó evidenciado una disponibilidad de recursos por US$10 millones para poder
+atender el tramo Bonito Oriental – Corocito (longitud 8 km) en vista a que el costo de
+rehabilitar el tramo completo (Bonito Oriental – Trujillo longitud 51 km) representaba una
+inversión de al menos US$42 millones (ver EEO#2, Plan de Acción/Análisis de Valor) .
+                                        23
+"
+"                                                       Tabla 12: Costo de los tramos viales intervenidos con el Programa (US$)
+                                   PRESUPUESTO ORIGINAL DEL CONVENIO
+                                                                                       MONTO CONTRATO ORIGINAL                         MONTO CONTRATO FINAL
+                                                DE PRÉSTAMO
+              OBRAS                    BID            OFID           Total          BID            OFID          Total            BID            OFID          Total
+                                  28.500.000,00  22.500.000,00   51.000.000,00 29.330.410,45  21.494.992,75  50.825.403,20   32.639.417,00  23.080.500,33 55.719.917,33
+  Rehabilitación       Carretera,
+  Sección      III: Gualaco-San   16.700.000,00                  16.700.000,00 14.067.402,59                 14.067.402,59   14.820.403,00       0,00     14.820.403,00
+  Esteban
+  Rehabilitación       Carretera,
+  Sección IV: San Esteban-El      11.800.000,00   2.800.000,00   14.600.000,00 12.289.548,10                 12.289.548,10   15.112.712,64       0,00     15.112.712,64
+  Carbón
+  Rehabilitación       Carretera,
+  Sección V: El Carbón-Bonito                    19.700.000,00   19.700.000,00                17.591.683,44  17.591.683,44        0,00      17.466.492,17 17.466.492,17
+  Oriental
+  Rehabilitación de la carretera,
+  SVI tramo No.1: Bonito Oriental 10,000,000.00                  10,000,000.00  2.973.459,76   3.903.309,31  6.876.769,07     2.706.301,36   5.614.008,16  8.320.309,52
+  – Corocito24
+24  El tramo originalmente contemplaba la rehabilitación de 51 km desde Bonito Oriental hasta Trujillo y Acceso a Trujillo, pero con los recursos remanentes del Programa se
+    priorizó la atención de ocho km desde Bonito Oriental hasta Corocito.
+                                                                                       24
+"
+"Tabla 13. Costo total del Programa (US$)
+              25
+"
+"26"
+"27"
+"II.4   SOSTENIBILIDAD
+       a. Aspectos generales de sostenibilidad
+2.4.1. Asegurar el mantenimiento de las obras viales es importante no sólo desde el punto de
+       vista de la preservación de estas, de acuerdo con los criterios de diseño, sino para
+       propiciar la continuidad de la generación de los beneficios esperados del proyecto, tales
+       como los costos de operación vehicular y ahorros en tiempo de viaje.
+2.4.2. Honduras contaba con el Fondo Vial, institución descentralizada con el objetivo de dar
+       mantenimiento a la red vial a efecto de preservar la vida útil de las mismas, los recursos
+       han provenido de un cargo a los combustibles y el mantenimiento se ha realizado a través
+       de contratos suscritos con empresas de mantenimiento. Pese a contar con dicha entidad,
+       su desempeño no fue satisfactorio y el mantenimiento vial siguió siendo un problema por
+       resolver para el país.
+2.4.3. Recientemente el GdH ha intervenido dicha entidad, a efecto de contrarrestar la crisis
+       financiara e institucional en la que se había encontrado en los últimos años, asignando la
+       responsabilidad del mantenimiento vial a INVEST-H.
+2.4.4. En la actualidad INVEST-H se encuentra realizando adecuaciones administrativas y de
+       creación de capacidades para afrontar de una manera más efectiva el mantenimiento de
+       la red vial. Asimismo, ha comenzado a realizar actividades de mantenimiento atendiendo
+       urgencias viales y tramos que permitan la conectividad de importantes centros de
+       producción agropecuaria y turística. INVEST-H ha manifestado al Banco su compromiso
+       para el adecuado mantenimiento de los tramos intervenidos, tanto porque es una
+       responsabilidad del Prestatario consignada en el Contrato de Préstamo, como por el
+       hecho de que INVEST-H ha sido el Organismo Ejecutor. Sin embargo, a la fecha no se
+       cuenta con la planificación ni la asignación de recursos para el mantenimiento de los
+       tramos intervenidos con este Programa.
+       b. Salvaguardias ambientales y sociales
+2.4.5. Durante la ejecución del Programa se activó la Política de Medio Ambiente y
+       Cumplimiento de Salvaguardias (OP-703) ya que estaban previstos impactos
+       socioambientales relevantes o significativos, y se previó que podrían presentarse
+       impactos negativos principalmente durante la ejecución de las obras.
+2.4.6. Los impactos negativos (polvo, contaminación, destrucción de hábitat de vida silvestre,
+       saneamiento y manejo de desechos sólidos en campamentos de contratistas, entre otros)
+       fueron mitigados y prevenidos con la implementación, por parte del Contratante,
+       Contratistas y Supervisores de Obras, de medidas de control ambientales y sociales en
+       las obras tales como la señalización horizontal y vertical de cruces peatonales en zonas
+       escolares, realización de campañas de educación y seguridad vial a los potenciales
+       beneficiarios del Programa especialmente a las personas que viven más próximas al
+       límite del derecho de vía, particularmente en la zona que cruza la comunidad de Santa
+       María del Carbón, la comunidad Pech, mismas que minimizaron el riesgo de accidente
+       para vehículos, bienes y personas, así como apego a los planes de manejo ambiental en
+       los contratos de obra.
+2.4.7. La Política Operativa de Pueblos Indígenas (OP-765) se activó en el IGAS en atención a
+       la existencia de la comunidad de la etnia Pech, y con el objetivo de salvaguardar a los
+                                                 28
+"
+"            pueblos indígenas y sus derechos y potenciar su desarrollo, mejorando su calidad de vida
+            en función de mayores oportunidades desde el punto de vista laboral y económico. Este
+            documento preparado al inicio de la conceptualización del Programa permitió que se
+            definieran recursos específicos para ser invertidos en la población Pech. En la ejecución
+            del Programa, se actualizó un diagnóstico del interés de la comunidad en la conformación
+            de tres microempresas de mantenimiento vial, y de identificación de otros proyectos de
+            interés para dicha comunidad. Como resultado, las microempresas Pech fueron
+            conformadas, y contratadas para el mantenimiento de los tramos entre los municipios de
+            Gualaco y San Esteban, San Esteban – El Carbón en el departamento de Olancho y entre
+            Corocito – acceso a Trujillo en el departamento de Colón. Por otra parte, se implementó
+            un programa de asistencia técnica de la Universidad Agraria del departamento de
+            Olancho para contribuir a la reforestación en la zona a través de un vivero diseñado y
+            operado por la comunidad indígena Pech de Santa María del Carbón.
+2.4.8.      La Política Sobre Reasentamiento Involuntario (OP-710) se activó en el IGAS como
+            resultado de la identificación de un número aproximado de 23 afectaciones menores con
+            el objetivo de evitar o reducir el impacto con las revisiones respectivas al diseño.
+III.        CRITERIOS NO CENTRALES
+            c.      Desempeño del Banco
+3.1         El OE indicó una clasificación “satisfactoria’’ al desempeño del Banco en tanto que
+            durante el diseño de la operación y durante la ejecución del Programa, se contó con un
+            apoyo permanente en cuanto a los requerimientos técnicos y fiduciarios. El Banco supo
+            interpretar las condiciones cambiantes ocurridas durante la ejecución y mantener el
+            enfoque para lograr un balance entre la consecución de las metas físicas con el balance
+            adecuado de calidad, acompañando las decisiones de hacer ciertas modificaciones
+            planteadas por el GdH. Sin embargo, en cuanto a los temas socioambientales, el OE
+            indicó que el apoyo del Banco fue puntual y en algunos casos con un nivel de respuesta
+            no acorde con la celeridad que se requería25.
+            d.      Desempeño del prestatario
+3.2         El antiguo OE era SOPTRAVI (ahora INSEP) quien reflejaba un bajo ritmo de ejecución,
+            procesos licitatorios demorados, demoras en pagos a contratistas, supervisores y
+            consultores que conllevó en muchos casos al pago de intereses moratorios al sobrepasar
+            el tiempo estipulado en cada contrato para que el contratante efectuara los pagos de
+            manera oportuna. En vista de lo anterior, en el año 2012, el Prestatario decidió nombrar
+            a INVEST-H como OE que supo manejar el proceso difícil de darle continuidad a una
+            cartera en ejecución y finalizar el Programa de la mejor manera posible de acuerdo a las
+            condiciones que las nuevas realidades planteaban. Sin embargo, el equipo considera que
+            el desempeño del Prestatario no debe limitarse únicamente al período de ejecución de un
+            Programa, sino también a garantizar el mantenimiento de las obras a fin de conservar los
+            beneficios derivados de ellos. En tal sentido, el Prestatario tuvo un desempeño
+            satisfactorio durante la ejecución, pero decrece en relación con la sostenibilidad que debe
+            darle al Programa.
+    25 La adopción de medidas especiales de las obras en el tramo vial del Valle de Agalta (1 km), se implementó de
+       común acuerdo entre el equipo de salvaguardias ambiental y social y el equipo técnico del Banco, el OE.
+                                                         29
+"
+"IV. HALLAZGOS Y RECOMENDACIONES
+4.1 A continuación, se presenta el cuadro resumen de los principales hallazgos y
+    recomendaciones obtenidos como parte de la ejecución del Programa.
+                                       30
+"
+"                                                           Tabla 14. Hallazgos y recomendaciones
+                                       Hallazgo                                                                    Recomendación
+Dimensión 1. Técnica
+El Programa presentó falencia en su lógica vertical al no exponer una clara
+definición del problema, sus causas y cómo los componentes contribuirían a
+revertir tal situación. Se definió el objetivo específico (iii) sin que se le vinculara Realizar un análisis cuidadoso que defina claramente el problema
+ningún componente que permitiera su consecución. Por otro lado, no hubo                 y sus causas y diseñar componentes que aborden aspectos
+indicadores de impacto a los objetivos específicos (ii) y (iii) lo que dificultaría     críticos de la cadena de causalidad. Todo Programa debe tener
+verificar el cumplimiento de los objetivos. En vista de lo anterior, durante la         una clara definición de objetivos (SMART) y componentes que
+ejecución del Programa, se incluyeron dos indicadores de impacto asociados              permitan su consecución, asimismo debe tener definido los
+al costo de operación vehicular para camión y tiempo de viaje para el tramo             respectivos los respectivos indicadores de impacto, resultados y
+entre Tegucigalpa y Puerto Castilla. Para el objetivo específico iii) no se definió     productos.
+ningún indicador, por lo que no fue posible verificar su cumplimiento al final del
+Programa.
+Dimensión 2. Diseño
+En el país ha habido debilidades en el proceso de pre-inversión, lo cual no ha
+permitido contar sistemáticamente con estudios técnicos con la adecuada
+profundidad que contribuyan a reducir los riesgos de cambios en el alcance,
+tiempo y costo durante la etapa de ejecución de un proyecto, así como el
+cumplimiento a cabalidad de los resultados esperados. En el caso del                    Para programas de inversión específica es recomendable que la
+Programa Vial del Corredor Agrícola los estudios con los que se contaron                definición de la meta física y el dimensionamiento de los recursos
+durante la preparación del Préstamo no presentaban con el suficiente detalle            necesarios se haga sobre la base de estudios técnicos
+los alcances técnicos y costos que permitieran proyectar con mayor precisión            completos.
+las metas del Programa. La meta física del Programa (180 km) fuera
+establecida sin el soporte de los estudios técnicos que permitieran dimensionar
+adecuadamente el tipo de intervención y los recursos necesarios para su
+consecución.
+El objetivo general del Programa es la mejora sostenible de las condiciones del
+transporte de carga y pasajeros en el corredor agrícola. La propuesta de
+Préstamo define que el corredor agrícola comunica Tegucigalpa, la capital con
+el Departamento de Olancho y con el Atlántico de Honduras. Los tramos Para futuras operaciones es recomendable que la definición que
+intervenidos con el Programa se definieron entre Gualaco – San Esteban – El el alcance del Programa guarde un razonable balance con el
+Carbón – Bonito Oriental y Puerto Castilla, sin embargo, no se contemplaron objetivo del Programa.
+intervenciones entre tramos adyacentes como ser San Francisco de la Paz –
+Gualaco que se encontraban en condiciones similares. Lo anterior puso en
+riesgo el logro del objetivo general de la operación.
+                                                                                31
+"
+"                                      Hallazgo                                                             Recomendación
+                                                                                  La sostenibilidad de los proyectos de infraestructura debe
+                                                                                  responder a un proceso integral de planificación, estudios de pre-
+En el caso del Corredor Agrícola se observa un ineficiente proceso de inversión, diseño, ejecución y mantenimiento. Por lo que se
+planificación, problemas durante la ejecución y retos en el mantenimiento, recomienda que en la medida de lo posible las entidades
+causados principalmente por limitaciones de capacidades institucionales.          responsables de la ejecución hayan tenido bajo su gestión el
+                                                                                  diseño del proyecto y desde la fase de diseño se mantenga la
+                                                                                  coordinación con la entidad responsable del mantenimiento.
+El diseño original de la estructura de pavimento del tramo El Carbón – Bonito
+Oriental tal y como estaba concebido hubiera comprometido la ejecución del
+proyecto en plazo, ya que para su construcción se requerían condiciones
+climáticas particulares de precipitación y humedad que no eran las imperantes
+en el sitio de las obras y que no permitirían al contratista la implementación de Para futuras operaciones se recomienda que para el diseño de
+las obras programadas por dichas condiciones, sin que se tratara de una las obras se tome en consideración tecnologías de diseño y de
+responsabilidad del mismo al ser un aspecto climatológico particular de la zona. construcción que contribuyan a mantener el balance de tiempo,
+Para solventar esta situación, se efectuaron ajustes innovadores al diseño, costo y calidad.
+incorporando a la estructura de pavimentos, sin incremento de costos, una
+geomalla triaxial que posibilitó la construcción del pavimento en las condiciones
+climáticas imperantes, reducir además el volumen de material granular y una
+mayor capacidad estructural del pavimento.
+Dimensión 3. Organizacional y gerencial
+                                                                          32
+"
+"                                    Hallazgo                                                            Recomendación
+Durante la ejecución del Programa las capacidades institucionales de
+SOPTRAVI se vieron disminuidas poniendo en riesgo la ejecución y finalización
+de las obras, ya que bajo el esquema tradicional de contar con una unidad
+ejecutora dentro del Ministerio con baja capacidad de ejecución y a una alta
+dependencia en toma de decisiones y realizar pagos a contratistas y
+supervisores a nivel del Ministerio, provocaron demoras desde el proceso de
+licitación y durante la ejecución del primer tramo que se encontraba en
+ejecución (Gualaco – San Esteban – El Carbón). El GdH y el Banco lograron
+                                                                                Mantener el continuo diálogo con el Prestatario y acordar las
+acordar oportunamente el cambio de OE (SOPTRAVI ahora INSEP a INVEST-
+                                                                                decisiones necesarias para mantener un ritmo satisfactorio de
+H) lo que permitió mantener el enfoque del Programa y finalizar las obras que
+                                                                                ejecución y cumplir con las metas establecidas. Se recomienda,
+era posible ejecutar. El cambio de OE permitió un mayor ritmo de ejecución de
+                                                                                mantener y fortalecer a las entidades que participen de un
+las obras del primer tramo licitado, así como reducir los tiempos para poder
+                                                                                modelo alternativo de ejecución como es el caso de INVEST-H.
+hacer efectivo el pago de las estimaciones de obra y pago de supervisores, lo
+que contribuyó a que los implementadores (contratistas y supervisores)
+tuvieran mayor disponibilidad de efectivo en caja y con ello reducir atrasos en
+la ejecución de las obras. Asimismo, con INVEST-H como nuevo ejecutor se
+logró incrementar el ritmo de ejecución financiera (desembolsos) y el
+cumplimiento de las metas físicas programadas que permitió mantener una
+calificación del desempeño de la operación satisfactoria durante toda su
+ejecución.
+                                                                        33
+"
+"V. MAPA DE UBICACIÓN DEL CORREDOR
+                                  34
+"

@@ -1,0 +1,1515 @@
+"outlist[[i]]"
+" 22-Feb-2017                     13055968
+ 11-Dec-2015             7500000
+ 10-Dec-2014                      14000000
+ 11-Mar-2014                                       26000000
+ 25-Sep-2013                                      25000000
+ 13-Mar-2013                                   23000000
+ 14-Dec-2012   400288
+ 13-Nov-2012     2000000
+ 29-Aug-2012                                             30000000
+   8-Jun-2012   1281862
+ 25-May-2012      2820849
+ 23-May-2012                                      25000000
+ 19-Dec-2011                                21257123
+ 30-Jun-2011                                                                         53000000
+ 24-Mar-2011                           17500000
+   1-Nov-2010                         16500000
+ 17-May-2010                    12500000
+  22-Apr-2010           6846784
+   7-Apr-2010                                                       39000000
+REDIRECCIONAMIENTO
+EL   PROYECTO HA RECIBIDO FONDOS DE OTRO
+                                                     NO
+PROYECTO:
+EL   PROYECTO HA ENVIADO FONDOS A OTRO
+                                                     SÍ
+PROYECTO:
+Calificaciones de desempeño del proyecto en los PMR
+                  FECHA DEL                                                  DESEMBOLSOS US$
+          N°                            PCR               CALIFICACIÓN
+                    PMR                                                          MILLONES
+        2010-2   Marzo 2011       SATISFACTORIO                                    74.846.784,17
+        2011-2   Marzo 2012       SATISFACTORIO               0,86                 91.757.122,85
+        2012-2   Marzo 2013       SATISFACTORIO                 1                  61.502.999,43
+        2013-2   Marzo 2014       SATISFACTORIO                 1                  48.000.000,00
+        2014-2   Marzo 2015       SATISFACTORIO               1,06                 40.000.000,00
+        2015-2   Marzo 2016       SATISFACTORIO               0,86                  7.500.000,00
+        2016-2   Marzo 2017       SATISFACTORIO                                    13.055.967,54
+                                                                                              0,00
+METODOLOGÍA DE ANÁLISIS ECONÓMICO EX POST:           ANÁLISIS COSTO BENEFICIO CBA
+METODOLOGÍA DE EVALUACIÓN EX POST:                   EXPERIMENTAL
+CLASIFICACIÓN DE EFECTIVIDAD DEL DESARROLLO:         EXITOSO (CALIFICACIÓN 5)
+                                                    -v-
+"
+"STAFF DEL BANCO
+                    POSICIÓN                 EN EL PCR            EN LA APROBACIÓN
+              VICE PRESIDENT VPS       Santiago Levy Algazi      Santiago Levi Algazi
+              VICE PRESIDENT VPC        Alexandre Meira Da
+                                                                   Otaviano Canuto
+                                                Rosa
+              COUNTRY MANAGER            Rafael de la Cruz           Alicia Ritchie
+              SECTOR MANAGER          José Agustín Aguerre         Roberto Vellutini
+              DIVISION CHIEF                Nestor Roa          José Agustín Aguerre
+              COUNTRY REP               Fernando Quevedo             Carlos Melo
+             PROJECT TEAM                Jean Pol Armijos
+                                                                  Luis Alfredo Uechi
+             LEADER
+              PCR TEAM LEADER            Jean Pol Armijos
+DECLARACIÓN DE LOS OBJETIVOS DE DESARROLLO DEL PROYECTO / PROGRAMA:
+OBJETIVO DEL PROGRAMA:     Contribuir a la mejora sostenible de las condiciones del transporte de
+                           carga y pasajeros de la Red Vial Estatal (RVE).
+OBJETIVOS ESPECÍFICOS:         i   Reducir los costos de transporte y tiempo de viaje mediante la
+                                   mejora de condiciones de transitabilidad y de seguridad vial de
+                                   una porción sustancial de corredores y caminos prioritarios de la
+                                   RVE, que conectan sus zonas de producción con el mercado
+                                   interno y de los países vecinos.
+                               ii  Preservar el patrimonio vial del país, promoviendo su
+                                   sostenibilidad mediante el desarrollo e implementación de
+                                   mecanismos apropiados de mantenimiento.
+                               iii Fortalecer las capacidades de gestión del Ministerio de
+                                   Transporte y Obras Públicas (MTOP) en su rol de rector del sector
+                                   vial a nivel nacional.
+ORGANISMO     EJECUTOR
+                           MTOP
+(OE)
+RESPONSABLE DE
+                           MTOP a través de sus Entidades Operativas Desconcentradas
+EJECUCIÓN:
+                                                 - vi -
+"
+"                                          I. INTRODUCCIÓN
+Condiciones Generales. En febrero de 2007, tuvo lugar un acontecimiento que, a la
+postre, daría lugar a un cambio de rumbo en la política vial implementada en Ecuador,
+cuando las autoridades y representantes de la provincia de Loja promovieron ante el
+Congreso Nacional la declaración de una emergencia por el estado de total abandono en
+el que se encontraban sus carreteras2. El gobierno central no solo aceptó la propuesta,
+sino que la extendió a la totalidad de la RVE, reconociendo que el estado crítico de la
+misma dificultaba gravemente el tránsito hacia varios sectores del país, afectando a la
+producción nacional, el acceso a servicios de salud y educación, y la provisión de
+productos y servicios. En este contexto, las autoridades nacionales decidieron que era
+momento de adoptar medidas extraordinarias, por lo que se emitieron varios decretos
+presidenciales que permitieron declarar el estado de emergencia en la RVE, el cual entró
+en vigencia en el 26 de febrero de 2007.3
+A partir de ese entonces, en el último decenio el Gobierno de Ecuador (GdE), realizó un
+gran esfuerzo inversor del estado para ampliar y mejorar la calidad de infraestructura vial
+del país. Este esfuerzo tuvo resultados notables, como sugieren los avances logrados por
+el país en los indicadores comparativos internacionales disponibles al respecto4. En
+efecto, se estima que la inversión total en infraestructura vial realizada entre 2007 y
+2016 asciende a cerca de US$8.825 millones, repartidos del siguiente modo:
+(i) construcción con US$6.727,5 millones; (ii) mantenimiento US$724,7 millones;
+(iiii) US$261,9 millones en estudios de preinversión; y (iv) concesiones
+US$1.110,5 millones (MTOP, 2015). Se trata de un monto que representó en promedio el
+1,3% del Producto Interno Bruto (PIB) de ese período, y que en algunos años llegó a
+aproximarse al 2% del producto.
+Apoyo del BID. A principios del 2008 el GdE, solicitó al Banco asistencia técnica y
+financiera para apoyar el proceso de recuperación y mejoramiento de la red vial del país.
+Como explicado, la situación crítica de la RVE del año 2008 había llevado a que la red
+vial se encuentre en condiciones subóptimas, con el consecuente aumento en los costos
+de mantenimiento, aumento de tiempos de circulación y costos de operación vehicular,
+así como incremento de accidentes repercutía en la competitividad y conectividad del
+país.
+Para atender la solicitud del GdE el Banco aprobó la CCLIP5 con miras a formular un
+programa marco de inversiones en el sector vial, con un horizonte de mediano y largo
+plazo y sostener un diálogo permanente y estratégico con el país. La CCLIP está
+destinada a financiar parcialmente las necesidades del MTOP, bajo las siguientes líneas
+estratégicas: (i) ampliación de la capacidad vial; (ii) conservación del patrimonio vial;
+(iii) mejora de la gestión vial, particularmente la seguridad vial (señalización y puntos
+críticos) y dar solución a discontinuidades de la red, y (iv) mejora de la capacidad de
+planificación y programación viales. De esta manera, en febrero de 2010 se suscribió el
+contrato de préstamo número 2201/OC-EC, para financiar la ejecución del Primer
+2
+     Resolución 28-039 para asignar los recursos necesarios para reconstruir las siguientes carreteras: Loja-
+     Oña, Veracruz-Chaguarpamba-Río Pindo, y Loja-Zamora.
+3    Decretos presidenciales Núm. 147 del 26 de febrero de 2007, Núm. 295 del 27 de abril de 2007, Núm.
+     489 del 20 de julio de 2007.
+4    A modo de ejemplo, entre 2008-09 y 2017-18 Ecuador avanzó 71 posiciones en el indicador de calidad de
+     las carreteras que se publica en el Informe de Competitividad Global (ICG), pasando del puesto 100 al
+     puesto 29 de 138 países.
+5    Línea de Crédito Condicional para Proyectos de Inversión (CCLIP): Programa de Infraestructura de
+     Transporte Vial (EC-X1005) aprobada por US$1.250 millones para un plazo de 10 años.
+                                                     7
+"
+"Programa de Infraestructura y Conservación Vial (EC-L1065). El programa fue ejecutado
+por el MTOP, a través de sus Entidades Operativas6 Desconcentradas.
+                    II. CRITERIOS CENTRALES. DESEMPEÑO DEL PROYECTO
+2.1       Relevancia
+a. Alineación con las necesidades de Desarrollo del País
+El programa, se alineó con los objetivos de desarrollo estratégico del país definidos en los
+tres instrumentos de planificación estratégica nacional que abarcaron el período de
+ejecución del programa. En primer lugar, el Plan Nacional de Desarrollo de Ecuador
+2007-2010 dejó claramente de manifiesto que el sector transporte pasaría a ser prioritario
+para el gobierno, planteando un punto de inflexión en las políticas públicas implementadas
+en este ámbito. Incluyó entre sus metas el aumentar el acceso de la población a vías de
+buena calidad, aumentado el porcentaje de vías en buen estado y los niveles de servicio.
+El GdE propuso políticas de desarrollo productivo que promueven la competitividad a
+través de la reducción de los costos de producción, en particular los de transporte y
+energía. El programa del GdE planteó la reducción de estos costos por medio de la
+expansión de la infraestructura productiva, reconociendo que el desarrollo económico y
+productivo del país tiene estrecha relación con la infraestructura y la provisión eficiente de
+servicios de transporte dado que, cuando éstos son adecuados, se facilitan los procesos
+de mejoramiento de los niveles de producción y productividad de las empresas como
+consecuencia de la reducción de costos de logística, ahorro de inventarios y mejoramiento
+en el acceso a mayores mercados, tanto de insumos y mano de obra como de destino de
+la producción nacional7.
+En segundo lugar, el programa se alineó con el Plan Nacional del Buen Vivir (PNBV)
+2009-2013 dentro del Objetivo 11, que busca establecer un sistema económico social
+solidario y sostenible; específicamente con la Política 11.5, que busca “Fortalecer y
+ampliar la cobertura de infraestructura básica y de servicios públicos para extender las
+capacidades y oportunidades económicas”. El PNBV busca fortalecer la capacidad de
+provisión de vialidad para la producción, desarrollar una red pública de infraestructura y
+servicios, y mantener y expandir el sistema nacional de transporte y movilidad multimodal
+Finalmente, el Programa se alinea con el PNBV 2013-2017, pues este resalta la
+importancia de la eficiencia en la infraestructura vial y servicios de movilidad. En el capítulo
+7 se hace mención a los aspectos relacionados con la Estrategia Territorial Nacional y la
+necesidad de jerarquizar y hacer eficiente la infraestructura para la movilidad, generando
+corredores adecuados para los intercambios y flujos dentro del territorio; adicionalmente
+con la importancia de la conectividad en: (i) promover el ordenamiento territorial integral;
+(ii) jerarquizar y mejorar los servicios relacionados con vialidad, transporte terrestre,
+logística, energía y comunicación; (iii) reducir la contaminación ambiental y mitigar el
+cambio climático; y (iv) mantener y expandir el sistema nacional de transporte multimodal
+que fortalezca el comercio interno y externo, y la integración nacional y regional.
+6
+    El MTOP dentro de su estructura organizacional en el territorio del país trabaja con unidades
+    administrativas regionales conocidas como Entidades Operativas Desconcentradas.
+7   Los costos logísticos y en particular los costos de transporte impactan directamente sobre la estructura de
+    costos del aparato productivo nacional. Por lo tanto, el incremento en la producción experimentado en los
+    últimos años, así como el aumento en las exportaciones se traduce en una presión creciente sobre el
+    sistema de transporte, presión que no ha sido acompañada con las inversiones necesarias en términos de
+    infraestructura vial, especialmente en lo que se refiere a la RE, fundamental para el funcionamiento del
+    sector productivo. Por ende, a fin de sustentar el crecimiento económico actual y mantener la competitividad
+    regional, la inversión en infraestructura vial se torna absolutamente necesaria.
+                                                          8
+"
+"b. Alineación Estratégica
+El programa fue consistente con las dos estrategias del BID con el Ecuador, vigentes
+durante el período de ejecución de la operación. En primer lugar, para el período
+2008-2011 (GN-2490), se alineó en tres grandes ámbitos: (i) el desarrollo de la
+infraestructura productiva, incluidas iniciativas para mejorar el transporte como elemento
+clave para la integración, la productividad y la competitividad nacional; (ii) el desarrollo
+productivo y acceso a financiamiento, y (iii) la inclusión económica y social. En segundo
+lugar, el programa, también se alineó con la Estrategia del Banco con Ecuador para el
+periodo 2012-2017 (GN-2680), que tuvo por objeto contribuir al desarrollo económico
+inclusivo y sostenible del Ecuador, apoyando los esfuerzos que realiza el país por superar
+las restricciones de largo plazo al crecimiento económico y las barreras estructurales a la
+salida de la pobreza. Para ello, la operación se concentró en: (i) transporte y logística;
+(ii) desarrollo social; y (iii) desarrollo rural. El programa fue consistente con los objetivos
+de desarrollo de la Estratégica de País del Banco e incluida en el Documento de Programa
+País (CPD) 2013.
+Alineación con los objetivos de desarrollo estratégico del BID. El programa es
+consistente con: (i) el objetivo de desarrollo del Banco, de préstamos a países pequeños
+y vulnerables; y (ii) la prioridad de “Infraestructura para la competitividad y el bienestar
+social”, una de las cinco prioridades incluidas en el Marco de Resultados del Banco que
+fue aprobado como parte de los documentos del Noveno Incremento del Capital (GCI-9)
+(AB-2764), contribuyendo a la meta de desarrollo regional.
+El Programa fue consistente con la Actualización de la Estrategia Institucional (UIS)
+2010-2020 (AB-3008) al alinearse estratégicamente con el desafío de desarrollo de
+productividad, mediante la construcción de infraestructura y rehabilitación vial que
+resultó en reducción de costos de operación vehicular, tiempos de viaje contribuyó al
+Marco de Resultados Corporativos 2016-2019 (GN-2727-4) (CRF) mediante el
+número de km rehabilitados y mantenidos durante el período de ejecución.
+El programa también es consistente con el Marco Sectorial de Transporte (BK-C1139), al
+contribuir con Capacidad, Calidad, Cobertura y Conectividad y Fortalecimiento
+Institucional y Regulatorio y las líneas de acción: a) Mejorar conectividad de comunidades
+estratégicas con el puente sobre el río Babahoyo; b) apoyar rehabilitación y
+mantenimiento de infraestructura con las vías de mantenimiento por niveles de servicio; y
+c) fortalecer seguridad en el transporte a través de las auditorías de seguridad vial.
+c. Lógica Vertical
+La cadena de resultados al inicio, durante la ejecución y al finalizar el programa, presentó
+enlaces consistentes entre actividades, productos y resultados con una clara relación
+causa-efecto. Mediante los procesos de contratación de obras, bienes y estudios, se
+pudieron ejecutar con este préstamo un puente importante en Guayaquil, la rehabilitación
+de varias carreteras (CMS), auditorías de seguridad vial, equipos y herramientas
+tecnológicas, normativa y diseños de proyectos viales a nivel de factibilidad y diseño
+definitivo. El proyecto permitió alcanzar resultados de reducción de tiempos de viaje,
+mejoramiento de calidad de infraestructura y mejora en la capacidad de gestión del
+MTOP. Estos enlaces lógicos y la relación entre actividades, productos y resultados se
+resumen en la siguiente ilustración:
+                                                   9
+"
+"                             Figura 1. Relación entre actividades, productos y resultados
+                      Se mejora la
+    RESULTADOS
+                                                                           Se preserva el             Se fortalecen las capacidades de
+                  eficiencia de la red         Se reducen los                                       gestión del MTOP en su rol de rector
+                                                                         patrimonio vial del
+                  vial intervenida por        tiempo de viaje                                          del sector vial a nivel nacional
+                                                                                País
+                      el Programa
+                                                                                                         Estudios de
+                                                                                                        factibilidad y
+                  Puente Segmental                                                                                         Normativas técnica
+                                                                Corredores                           diseños finales de
+                     sobre el Río                                                                                              diseñadas,
+    PRODUCTOS
+                                           Contratos de     pilotos de la RVE                          ingeniería de
+                 Babahoyo operando                                                                                           oficializadas y
+                                          Mantenimiento      con adecuadas        Seguridad Vial        proyectos de
+                                                                                                                              socializadas
+                                          por Niveles de       soluciones a     en vías con altos   infraestructura vial
+                                          Servicio (CMS)    puntos críticos y       índices de           terminados
+                                            Operando           señalización     accidentabilidad
+                  Indemnizaciones y      (Mantenimiento          vertical y      implementada           Estudios de
+                        obras                                                                        preinversión para
+                                          por resultados)       horizontal
+                 complementarias del                                                                                          Herramientas
+                                                            implementados                              contratos por
+                   puente Babahoyo                                                                                         técnicas diseñadas
+                                                                                                    mantenimiento vial
+                      realizadas                                                                                             y desarrolladas
+                                                                                                       por niveles de
+                                                                                                    servicio, realizados
+    INSUMOS
+                             Contratación de Obras; Contratación CMS; Contratación de estudios; Adquisición de Bienes
+El programa estuvo estructurado por cinco (5) componentes: (i) construcción del puente
+segmental sobre el río Babahoyo; (ii) Contratos de Mantenimiento Vial por Niveles de
+Servicio (CMS); aplicada esta modalidad por primera vez en el país, basada en la práctica
+exitosa de países como Uruguay y Chile, pues incluye además de una intervención para
+la rehabilitación de una vía (obras principales), un período de mantenimiento bajo
+estándares preestablecidos, esto por un lado genera un incentivo para que el contratista
+haga un esfuerzo adicional para que la intervención inicial sea de mejor calidad y luego
+con el mantenimiento se responsabiliza por preservar la calidad del pavimento y hacer la
+inversión más sostenible sin tener intervenciones mayores durante la etapa de
+mantenimiento; (iii) gestión de la infraestructura y seguridad vial; que implica por un lado,
+identificar en el tiempo, el tipo de intervención más adecuada para rehabilitar un grupo
+priorizado de vías y por otro lado evaluar mediante auditorías de seguridad vial el diseño,
+ejecución y operación de vías y recomendar aspectos prácticos incluyendo mejoras de
+infraestructura, señalización y dispositivos para reducir accidentes de tránsito en puntos
+críticos de la red; (iv) estudios técnicos de proyectos de infraestructura vial; para procurar
+contar con estudios adecuados con enfoque integral para futuros proyectos (CMS); y
+(v) planificación en el sector transporte y subsector vial; afín de contribuir a la mejora de
+capacidad técnica en el MTOP, a través de capacitación, normativa y herramientas
+tecnológicas que permitan mejorar los procesos de planificación y toma de decisión por
+parte de funcionarios del MTOP.
+d. Relevancia en el Diseño - Cambios en la Matriz de Resultados
+En el diseño original del programa en 2009, el Banco aprobó un Marco de Resultados8
+con una lógica vertical fundamentada en productos, objetivos por componente e
+indicadores de resultados. Para el segundo semestre de 2010, después de la elegibilidad
+del programa, el Marco de Resultados se trasladó a la estructura de una Matriz de
+Resultados (MdR) como resultado de la implementación de la herramienta PMR en las
+8        En el diseño de la operación, aún no se había implementado el uso de la Matriz de Resultados para el
+         PMR, por lo tanto, para el implementar el PMR se requería de la definición de los resultados y el impacto.
+                                                                       10
+"
+"operaciones del BID en Ecuador. Allí se definieron e incorporaron los Resultados del
+programa sobre la base de una agrupación de los indicadores de resultados propuestos
+en el Marco de Resultados original manteniendo la consistencia de la lógica vertical
+establecida inicialmente. La cadena de resultados al inicio, durante la ejecución y al
+finalizar el programa, presentó enlaces consistentes entre actividades, productos y
+resultados con una clara relación causa-efecto.
+Los principales cambios registrados en la MdR del programa estuvieron relacionados con
+la implementación del PMR en la gestión del programa y fueron: (i) en el impacto: Para el
+primer semestre de 2011, se incorporó en el PMR el impacto del programa: “Mejora de
+las condiciones de transitabilidad y de seguridad vial de una porción sustancial de
+corredores y caminos prioritarios de la RVE” y su correspondiente indicador; (ii) en los
+resultados: Se mantuvieron los indicadores originales, y en el segundo semestre de 2010,
+como se señaló, se incorporaron al PMR los cuatro (4) resultados, que agruparon los
+Indicadores de resultados propuestos en la MdR original; (iii) en los productos: para la
+elegibilidad del programa, se incorporaron cuatro (4) productos nuevos que no se
+evidenciaban en el Marco de Resultados original, como son las fiscalizaciones de obras
+y los estudios de contratos de preinversión para los CMS. Asimismo, el Banco modificó
+las metas esperadas, cambiando las unidades de medida y las metas para los productos
+2.1; 4.1; 5.1; 5.2. En realidad, los cambios registrados en la MdR del programa fueron
+menores pues no modificaron la lógica vertical del programa. Adicionalmente las metas
+esperadas se fueron revisando periódicamente de acuerdo al avance del programa que
+fueron registradas en el PMR correspondiente. La tabla presentada a continuación nos
+indica la Matriz de Resultados del programa.
+                                        Tabla 1. Matriz de Resultados9
+   2     Eficiencia de la red vial intervenida por el programa mejorada
+                                     Unidad de      Línea
+             Indicador                                        Año       2011     Final del proyecto
+                                       medida       base
+         Reducción de costos
+         económicos promedio                                        P                    3,00
+         de operación vehicular
+  2.2    reducidos en los                %             0     2009
+         tramos intervenidos
+         con mantenimiento por                                      A                    6,60
+         niveles de servicio
+         Reducción de costos
+         económicos promedio                                        P   25,00           25,00
+  2.3    de operación vehicular
+         reducidos en el                 %             0     2008
+         conjunto vial del
+         puente segmental                                           A    0,00           19,80
+         Babahoyo
+         Velocidad promedio de
+         circulación vehicular                                      P   50,00           50,00
+         para el conjunto de
+  2.4                                   km/h           0     2009
+         tránsito que circula por
+         el complejo del puente                                     A    0,00           50,00
+         Babahoyo aumentada
+9   Se toma la MdR del segundo semestre de 2010, pues ella incorpora los cambios hasta 60 días después
+    de la elegibilidad.
+                                                   11
+"
+"   3    Patrimonio vial del país preservado
+                                   Unidad de   Línea
+             Indicador                                 Año         2011     Final del proyecto
+                                     medida    base
+        Índice promedio de
+                                                              P                    90,00
+        estado de los tramos
+  3.2   de la Red Estatal              %         60   2010
+        intervenidos con CMS
+                                                              A   85,00            92,70
+        incrementado
+        Opinión de los
+        usuarios respecto a los                               P                    20,00
+        tramos intervenidos
+  3.3   con mantenimiento por          %         0    2010
+        niveles de servicio
+        aumentada                                             A                    32,00
+        favorablemente
+        La calidad de los                                     P                    90,00
+        elementos de
+  3.4                                  %         50   2010
+        seguridad vial
+        incrementada                                          A                    89,00
+        Las capacidades de gestión del MTOP en su rol de rector del sector vial a nivel
+   4
+        nacional fortalecidas
+                                   Unidad de   Línea
+             Indicador                                 Año         2011     Final del proyecto
+                                     medida    base
+        Normas y                                              P                     1,00
+        Herramientas              Conjunto de
+  4.2   ejecutadas en el            normas y      0   2010
+        programa, son             herramientas
+                                                              A                     1,00
+        utilizadas por el MTOP
+   5    Tiempo de viaje reducido
+                                   Unidad de   Línea
+             Indicador                                 Año         2011     Final del proyecto
+                                     medida    base
+        Velocidad promedio de
+                                                              P   50,00
+        circulación vehicular
+  5.2   en el conjunto vial del       km/h       50   2008
+        puente segmental
+                                                              A    0,00            50,00
+        Babahoyo aumentada
+2.2       Efectividad
+a. Declaración de los Objetivos de Desarrollo del Programa
+El objetivo del programa es el de contribuir a la mejora sostenible de las condiciones del
+transporte de carga y pasajeros de la RVE. Los objetivos específicos fueron los de
+(i) reducir los costos de transporte y tiempo de viaje, mediante la mejora de condiciones
+de transitabilidad y de seguridad vial de una porción sustancial de corredores y caminos
+prioritarios de la RVE, que conectan sus zonas de producción con el mercado interno y
+de los países vecinos; (ii) preservar el patrimonio vial del país, promoviendo su
+sostenibilidad mediante el desarrollo e implementación de mecanismos apropiados de
+                                               12
+"
+"mantenimiento; y (iii) fortalecer las capacidades de gestión del MTOP en su rol de rector
+del sector vial a nivel nacional.
+b. Resultados Alcanzados
+Al finalizar el programa, los resultados logrados fueron consecuencia de la ejecución de
+los siguientes productos:
+1. Puente segmental sobre el río Babahoyo10. Fue la inversión individual más
+     representativa ejecutada con recursos del Préstamo (US$112 millones). Este
+     proyecto fue muy importante para mejorar la accesibilidad a la ciudad de Guayaquil,
+     reduciendo significativamente los tiempos de viaje. La obra se entregó en Julio de
+     2012; la fiscalización de la obra y las indemnizaciones y obras complementarias se
+     financiaron con aporte local.
+2. Contratos de CMS11. Se contrataron ocho (8) CMS (US$176 millones) siendo el
+     componente de mayor inversión del programa. Los CMS cubrieron una longitud de
+     975 km12 (aproximadamente el 10% de la RVE). De los ocho (8) CMS financiados con
+     recursos del Préstamo: cinco (5) contratos comprendieron obras y mantenimiento;
+     dos (2) contratos fueron parciales, pues correspondieron solamente a las obras
+     obligatorias; y un (1) contrato quedó inconcluso, pues no finalizó la fase de
+     mantenimiento al terminarse unilateralmente dicho contrato.
+3. Gestión de la infraestructura y seguridad vial. Se realizaron quince (15)
+     actividades dentro de este componente: once (11) se relacionaron con temas de
+     seguridad vial (revisión pormenorizada y crítica del estado de las vías estatales en
+     cinco distintas regiones del País13 y requisición de materiales para la seguridad vial
+     para todas la regiones del País); y, cuatro (4) actividades, estuvieron dirigidas a
+     aspectos de infraestructura en puntos críticos (rehabilitación y mantenimiento de vías
+     –paso lateral de Ambato en la región 3 y vía Santa Ana Poza Honda en la región 4 y
+     sus respectivas fiscalizaciones).
+4. Estudios técnicos de proyectos de infraestructura vial. Se realizaron estudios de
+     factibilidad y diseños finales de ingeniería de proyectos de infraestructura vial.
+5. Planificación en el sector transporte y subsector vial. En lo relativo al producto
+     de normativa técnica, se desarrolló una consultoría que revisó las normas y
+     especificaciones técnicas del sector transporte del MTOP. En cuanto a herramientas
+     técnicas se dotó de equipamiento para realizar el inventario vial; software y equipos
+10 Con una longitud de 2,3 km y cinco carriles de circulación, el puente, forma parte de un complejo vial se
+   encuentra conformado por cuatro (4) puentes: dos (2) sobre el río Daule que enlazan la ciudad de
+   Guayaquil con el Cantón Samborondón; dos (2) puentes sobre el río Babahoyo, que enlazan el Cantón
+   Samborondón con el Cantón Eloy Alfaro (Durán), uno de ellos el puente segmental sobre el río Babahoyo.
+11 El esquema previsto para cada uno de estos CMS incluyó una obra de rehabilitación a ejecutarse en el
+   primer año del contrato (normalmente colocación de una sobre capa asfáltica, aunque algún caso incluyó
+   obras de reconstrucción parcial o total del pavimento) más un período de mantenimiento ordinario
+   (limpieza, bacheos, etc.) de tres años de duración.
+12 Los CMS realizados corresponden a los siguientes tramos: Guayaquil – Santa Elena – 19 km; Papallacta
+   – Cuyuja – “Y” de Baeza – Puente Sta. Rosa- Puente el Salado – Simón Bolívar – 133 km; Puente San
+   Miguel – Lago Agrio – Coca – Loreto – Huataraco – 187 km; Zamora Gualaquiza – 114 km; San Pedro de
+   la Bendita – Verlacruz – Catacocha – Macará – Pte. Internacional – 141 km; Pelileo – Baños – Puyo –
+   81 km; Tena – Capricho-Puyo-Puente Pastaza – 179 km; y Playas-Data-Posorja-21 km.
+13 Durante la ejecución del programa, el concepto de corredores para clasificar las intervenciones fue
+   sustituido con el concepto de regiones atendidas por el programa. Cada región es un conjunto de varias
+   provincias agrupadas de acuerdo a los criterios del PNBV, que corresponde siguiente detalle: Región 1:
+   Imbabura, Esmeraldas, Carchi y Sucumbíos; Región 2: Napo, Pichincha, Orellana; Región 3: Tungurahua,
+   Cotopaxi, Chimborazo, Pastaza; Región 4: Manabí y Santo Domingo de los Tsáchilas; Región 5. Guayas,
+   Santa Elena, Los Ríos y Bolívar; Región 6: Azuay, Cañar y Morona Santiago; Región 7: Loja, El Oro y
+   Zamora Chinchipe.
+                                                     13
+"
+"    de geoprocesamiento. También se contrataron modelos de planificación de transporte
+    y se actualizaron estudios de aforo de tráfico y la propuesta de ubicación de puntos
+    del sistema permanente de actualización y monitoreo de aforo de tráfico.
+Los resultados alcanzados consistieron en:
+1. Resultado 1. Eficiencia de la red vial intervenida por el programa mejorada
+Indicador 1.1. Reducción promedio de costos económicos de operación vehicular
+en los tramos de la RVE intervenidos con mantenimiento por niveles de servicio en
+el marco del programa. De acuerdo con la evaluación económica ex post, los costos
+económicos promedio de operación vehicular, en los tramos de la RVE intervenidos con
+CMS, disminuyeron un promedio de 6,6%14, para la totalidad de vehículos que circulan
+en esos tramos, superando la meta esperada EOP del 3%. La evaluación económica ex
+post fue modelada utilizando la herramienta HDM-4 calibrada con los datos de demanda
+actualizados de información disponible provista por el MTOP, se evaluaron los siete
+(7) proyectos intervenidos con CMS. A continuación, se muestran los resultados de
+ahorros de costos de operación unitario promedio obtenidos:
+                 Figura 2. Costo de Operación Unitarios Promedio de Vehículos - Proyectos
+                                                  CMS (US$/veh - km)
+                                                                                            1.2662
+                                                                                                    1.1815
+                                                                          1.0090
+                                                                                  0.9396
+                                        0.6875 0.6465    0.6543 0.6178
+                    0.1542 0.1476
+                           -4%                -6%              -6%              -7%               -7%
+                       Camionetas            Buses      Camiones 2 ejes  Camiones 3 ejes   Camiones 5 ejes
+     Sin Proyecto        0.1542             0.6875           0.6543           1.0090            1.2662
+     Con Proyecto        0.1476             0.6465           0.6178           0.9396            1.1815
+     % Ahorro              -4%                -6%             -6%              -7%               -7%
+Indicador 1.2. Reducción promedio de costos económicos de operación vehicular
+para el conjunto del tránsito que circula por el complejo vial del puente intervenido
+por el programa. Los costos económicos de operación vehicular para el conjunto del
+tránsito (livianos, buses y camiones) que circula por el complejo vial del puente intervenido
+por el programa, disminuyeron un 19,8%15 sin alcanzar la meta EOP del 25%. Según los
+técnicos del MTOP dicha meta pudo haber sido sobreestimada en el diseño y en todo
+caso lo importante es que el proyecto es rentable en la evaluación socioeconómica, como
+14 Este valor se obtiene del anexo de evaluación económica Ex Post, cuadros V-3.1 a V-9.1 pág. 50 a
+   63, como un promedio de los ahorros de los costos de operación en el año 2016 divido para sus respectivos
+   costos de 7 proyectos CMS., computándose ahorros en Tramo C2A1 'Guayaquil – Santa Elena'
+   US$3.132 millones, Tramo C2A2 'Papallacta – Simón Bolívar' US$4.665 millones, Tramo C2A3 'San
+   Miguel – Puente Huataraco' US$2.762 millones, Tramo C2A4 'Zamora – Gualaquiza US$0,02 millones',
+   Tramo C2A5 'San Pedro - Puente Internacional' US$2.702 millones, Tramo C2A6 'Pelileo – Puyo'
+   US$2.566 millones, Tramo C32A7 'Tena - Puente Pastaza' US$2.538 millones.
+15 Esto se puede apreciar en el informe de evaluación económica ex post, cuadro V-1.1 pág. 44, donde se
+   comparan para el año 2016, al cierre del programa obras, los ahorros de costos de operación vehicular,
+   para totalidad del tráfico, que llegan a US$5.569 con los costos de US$28.060 de la situación sin proyecto.
+                                                      14
+"
+"se indica más adelante. Como se puede apreciar en la siguiente figura, al comparar los
+costos de operación vehicular unitarios, sin proyecto y con proyecto, se puede apreciar
+variaciones para cada tipo, siendo mayores los beneficios en el caso de los buses y
+camiones que en el de vehículos livianos.
+                 Figura 3. Costo de Operación Unitarios por tipo de Vehículos - Puente
+                                Segmental Río Babahoyo (US$/veh - km)
+                                                                                  1.33            1.34
+                                                                  1.02                    1.08            1.08
+                                                                          0.86
+                                   0.75
+                                           0.62   0.65
+                                                          0.55
+                      0.15 0.14
+                          -9%
+                                      -18%           -16%            -15%            -19%            -19%
+                       Livianos      Buses      Camiones 2 ejes Camiones 3 ejes Camiones 5 ejes Camiones 6 ejes
+      Sin Proyecto       0.15          0.75           0.65            1.02            1.33            1.34
+      Con Proyecto       0.14          0.62           0.55            0.86            1.08            1.08
+      % Ahorro           -9%          -18%           -16%            -15%            -19%            -19%
+Indicador 1.3. Aumento de la velocidad promedio de circulación vehicular para el
+conjunto de tránsito que circula por el complejo del puente intervenido por el
+programa. La velocidad promedio de circulación vehicular en el complejo del puente
+intervenido por el programa alcanzó la meta esperada de aumentar el 50% y permitió
+descongestionar el puente. Antes de la intervención (sin proyecto), los flujos vehiculares
+se realizaban por un (1) solo puente de cuatro (4) carriles para las dos (2) direcciones de
+circulación vehicular; la cual tenía un nivel de servicio categorizado como D y E, que
+representaba una circulación con congestión vehicular y consecuentemente velocidades
+bajas que no superaban los 30 km/h (velocidades entre el 30% y 50% de la circulación
+libre de tránsito), produciendo altos costos de operación y pérdida de tiempo. Después de
+la intervención se incorporaron cinco (5) carriles, de manera que ahora existen dos
+puentes con cinco carriles cada uno y con una velocidad máxima permitida de 70 km/h y
+se estima que el nivel de servicio se encuentra en C, que representa un nivel de
+circulación estable, con velocidades entre el 50% y 67% de la velocidad de circulación
+libre de tránsito. Según los técnicos del MTOP las mediciones actuales (con puente) se
+encuentran en el orden de la velocidad máxima permitida. La velocidad promedio de viaje
+para los diferentes tipos de vehículos, en el Puente Rafael Mendoza Avilés (tramo sobre
+el río Babahoyo), según la información levantada en la evaluación económica ex post es
+de 72 km/h.
+Es necesario resaltar que un resultado alcanzado, que complementa a este indicador, es
+el que se refiere a ahorros de tiempos de viaje que fueron considerables en casos como,
+por ejemplo, el puente segmental sobre el Río Babahoyo que tuvo importantes beneficios
+económicos relacionados a ahorros en tiempo de viaje. La evaluación económica ex post
+muestra como resultado que los ahorros por concepto de tiempos de viaje después de
+ejecutado el proyecto significaron aproximadamente US$15,6 millones, es decir un ahorro
+                                                     15
+"
+"del 38,4% respecto de los costos de tiempo de viaje sin proyecto16, al descongestionar
+significativamente los flujos vehiculares.
+2. Resultado 2. Patrimonio vial del País preservado
+Indicador 2.1. Incremento del índice promedio de estado de los tramos de la RVE
+intervenidos con CMS en el marco del programa. El índice promedio se incrementó
+del 60%17, establecido en la línea base del proyecto, al 92,7%, superando la meta
+esperada del 90%. Para esta medición, se utilizó el índice de servicio que es un indicador
+del grado de cumplimiento de los distintos estándares de los diversos elementos de la
+carretera, evaluado en un tramo de la carretera y para todo el proyecto18. El
+comportamiento del CMS por tramo intervenido antes y después del programa se resume
+en la siguiente ilustración:
+                               Figura 4. Índice de servicio de los tramos de la RVE intervenidos
+                                              Promedio                                       72%
+                                                                                                         93%
+                                 Playas-Data-Posorja[1].                                    70%
+                                                                                                       90%
+                  Tena - Capricho-Puyo-Puente Pastaza.                                           78%
+                                                                                                        92%
+                                    Pelileo-Baños-Puyo.                                         77%
+                                                                                                        92%
+         San Pedro de la Bendita –Velacruz - Catacocha-…                                       75%
+                                                                                                        92%
+                                    Zamora-Gualaquiza.                                         75%
+                                                                                                           96%
+   Puente San Miguel-Lago Agrio-coca-Loreto-Huataraco.                                      70%
+                                                                                                       90%
+         Papallacta- Cuyuja-“Y” de Baeza - Puente Santa…                              60%
+                                                                                                          95%
+                                  Guayaquil-Santa Elena                                     70%
+                                                                                                          95%
+                                                         0%     20%       40%      60%        80%        100%
+Indicador 2.2. Aumento de la opinión favorable de los usuarios respecto a los
+tramos de la RVE intervenidos en el programa. El indicador 2.2 no tuvo medición
+conforme lo establecido en la MdR que indica que: “se realizarán encuestas anuales de
+16  Esto se puede apreciar en el informe de evaluación económica ex post, cuadro V-1.1 pág. 44, donde se
+    comparan para el año 2016, al cierre del programa, los costos económicos de tiempo de US$25,0 millones
+    de la situación con proyecto, respecto de los costos de tiempo de US$40,6 millones de la situación sin
+    proyecto, produciendo un beneficio en ahorros de tiempos de viaje de US$15,6 millones en ese año.
+17 El 60% de línea de base corresponde al año 2009 de diseño del proyecto. En el 2011 se determinó el índice
+    de servicio de forma específica para cada uno de los proyectos, antes de las intervenciones, con un
+    promedio de 72% pues el valor del 60% era un estimativo grueso antes de que se definan los proyectos
+    de la muestra en el diseño del proyecto.
+18 Indice de evaluación es mensual y se realiza de acuerdo con las siguientes actividades:
+(a) Selección de la Muestra, donde: (i) se evalúa por tramo de proyecto; (ii) cada tramo se subdivide en
+    secciones de 1 km; (iii) se aceptan secciones especiales +/- 1 km; y (iv) se escoge al azar (sorteo) el 20%
+    de secciones.
+(b) Evaluación de la Muestra, donde: (i) la sección (1 km) se subdivide en segmentos de 200 metros; (ii) se
+    evalúa el cumplimiento de los estándares establecidos, en cada uno de los elementos de la carretera
+    (Calzada - Espaldones – Obras de drenaje – Seguridad vial – derecho de vía); (iii) se cuantifican los
+    segmentos totales del tramo, además los que cumplen con los estándares y los que no cumplen; y (iv) nota:
+    si un estándar de uno de los elementos esta incumplido, no es necesario evaluar los otros (por cada 200 m).
+(c) Cálculo del índice de servicio; donde: (i) se determinan el porcentaje de segmentos que cumplen en cada
+    uno de los elementos de la carretera (calzada, espaldón, obras de drenaje, seguridad vial, derecho de vía).
+    Este valor ya se conoce como índice de servicio de cada elemento; (ii) se les otorga un peso de acuerdo a
+    la importancia y se obtiene el promedio de los índices de los elementos, el cual será el índice final del
+    tramo. (d) peso de acuerdo a la importancia, de: (i) calzada, 1,00; (ii) espaldones, 0,75; (iii) obras de
+    drenaje, 0,75; (iv) seguridad vial, 0,75; y (v) derecho de vía, 0,50.
+                                                            16
+"
+"acuerdo a una metodología acordada que posibilite captar la opinión de los usuarios sobre
+el servicio de los tramos intervenidos, tanto en el terreno como en centros/asociaciones
+que agrupen informantes claves”. Pese a que se entiende que se debieron haber
+realizado encuestas directas a los usuarios de las vías, antes y después de la ejecución
+del proyecto, el MTOP, para tener una medición de este indicador, decidió realizar una
+encuesta interna a funcionarios del MTOP que utilizan las vías, en la que se obtuvo una
+opinión favorable respecto a los tramos de la RVE intervenidos en el programa. En base
+a este levantamiento se superó la meta planificada al aumentar la opinión favorable 33
+puntos porcentuales en promedio. Si bien esto puede generar dudas sobre la validez de
+la encuesta, el MTOP argumentó que sus funcionarios que conocen muy bien las vías
+fueron entrevistados buscando una información fidedigna y no sesgada, además que no
+cabía hacer una entrevista a usuarios después de los proyectos, si tampoco se había
+hecho antes. Además, MTOP argumentó que los funcionarios, como saben de manera
+clara cuál debería ser el estado en condiciones ideales de las vías, pueden incluso llegar
+a ser más exigentes que los usuarios.
+La medición efectuada corresponde a entrevistas realizadas en dos puntos en el tiempo;
+en la primera entrevista se obtuvo la opinión sobre el estado de las vías antes de la
+implementación de proyectos de CMS y en la segunda, la opinión sobre el estado de las
+vías luego de la ejecución de los proyectos de CMS, de acuerdo al siguiente detalle19:
+                           Figura 5. Opinión favorable respecto a los tramos de la RVE vial
+                                                             intervenidos
+                                                 Antes del CMS    Con CMS
+                                              Promedio                          44.5%
+                                                                                            77.6%
+                                 Playas-Data-Posorja[1].                            50%
+                                                                                             78%
+                 Tena - Capricho-Puyo-Puente Pastaza.                              48%
+                                                                                              80%
+                                    Pelileo-Baños-Puyo.                             50%
+                                                                                              80%
+        San Pedro de la Bendita –Velacruz - Catacocha-                         42%
+                   Macará-Pte. Internacional.                                                 80%
+                                    Zamora-Gualaquiza.                       40%
+                                                                                           75%
+  Puente San Miguel-Lago Agrio-coca-Loreto-Huataraco.                            45%
+                                                                                          73%
+  Papallacta- Cuyuja-“Y” de Baeza - Puente Santa Rosa-                        41%
+             Puente el Salado - Simón Bolívar                                              75%
+                                  Guayaquil-Santa Elena                      40%
+                                                                                              80%
+                                                         0%        20%    40%         60% 80%      100%
+Indicador 2.3. El índice de estado relacionado con los elementos de la seguridad
+vial se incrementa y se mantiene en el tiempo. El índice relacionado con los elementos
+de la seguridad vial alcanzó el 89% en promedio, sin embargo, no superó la meta
+propuesta del 90%, alcanzando un 97,5% de la meta. El índice corresponde a la parte de
+seguridad vial del índice de servicio fue explicado anteriormente. La medida aísla el grado
+de cumplimiento de los estándares de la seguridad vial en las intervenciones de los CMS.
+En las inspecciones in situ, se pudo verificar tramos de los ejes viales con CMS y sin
+19  No se contó con encuestas directas a usuarios de las vías intervenidas ni antes de la contratación, ni
+    después de la ejecución de los CMS.
+                                                            17
+"
+"CMS, constatando los avances en seguridad vial logrados en los tramos atendidos con
+CMS.
+3. Resultado 3. Capacidades de gestión del MTOP en su rol de rector del sector
+     vial a nivel nacional fortalecidas
+Indicador 3.1. Normas y Herramientas ejecutadas en el programa, son utilizadas
+por el MTOP. En el marco del proyecto y con los insumos de las intervenciones
+ejecutadas en el componente 5, el MTOP generó la actualización de la Norma
+Ecuatoriana Vial (NEVI-12) que es el documento técnico que establece las políticas,
+criterios y metodologías que se deben cumplir para dar factibilidad a los diseños viales en
+el país; y, en cuanto a las herramientas, las actividades realizadas facilitaron la
+actualización periódica y más frecuente del Inventario Vial y el fortalecimiento técnico en
+los departamentos de planificación y conservación vial del MTOP. Las herramientas
+fueron utilizadas por sus departamentos para actualizaciones periódicas del Plan
+Estratégico de Movilidad PMV-2012, por ejemplo, para la preparación del documento:
+Punto de Control y Plan Operativo, Evaluación y Plan Operativo 2016 del Plan Estratégico
+de Movilidad 2013-2037. En el caso de la normativa esta está siendo utilizada pues es la
+normativa vigente que junto con otros cuerpos normativos rige las contrataciones del
+MTOP en el portal de compras públicas.
+4. Resultado 4. Aumento de la velocidad promedio de circulación vehicular para
+     el conjunto de tránsito que circula por el complejo del puente intervenido por el
+     programa
+Indicador 4.1. Aumento de la velocidad promedio de circulación vehicular para el
+conjunto del tránsito que circula por el complejo vial del puente intervenido por el
+programa. El Indicador de este resultado es el mismo que el indicador 3 del resultado 1,
+por lo que se aplica lo indicado para dicho indicador.
+Finalmente, en cuanto al impacto del programa: Mejora de las condiciones de
+transitabilidad y de seguridad vial de una porción sustancial de corredores y caminos
+prioritarios de la RVE, fue medido mediante el indicador “Porcentaje de la RVE (RD) que
+se encuentra en buen estado”. Si bien el indicador superó la meta revisada, pasando de
+64% de 2010 al 93% en 2017; como no se contempló una evaluación de impacto, no se
+podría identificar el grado en que la variación del indicador seleccionado se puede atribuir
+al proyecto. Siendo lo más lógico pensar que dicha variación obedece en gran parte a
+otros factores como el aumento de la inversión estatal en proyectos viales, durante el
+período analizado. Sin embargo, vale señalar que la cobertura del programa que
+representó el 10% de la RVE fue significativa para el estado de las vías.
+                                              18
+"
+"                                                                           Tabla 2. Matrices de Resultados Alcanzados
+                                                Unidad         Valor de        Año de
+                                                                                                                                                %
+        RESULTADOS / Indicador                     de          la Línea       la Línea      Metas y Resultados Alcanzados         Fecha                        Medio de Verificación
+                                                                                                                                           alcanzado
+                                                Medida         de Base       de Base
+ Impacto 1. Mejora de las condiciones de transitabilidad y de seguridad vial de una porción sustancial de corredores y caminos prioritarios de la RVE
+                                                                                             Meta EOP         P          -           -
+Indicador 1
+                                                                                           Meta revisado     P (a)    79,2%        2013                   Información del MTOP -
+    Porcentaje de la RVE (RD) que se               %            64,7%           2010                                                        195,17%
+                                                                                                                                                          Dirección de Planificación
+    encuentra en buen estado20                                                               Alcanzado
+                                                                                                              A       93,0%        2017
+                                                                                               actual
+ Resultado 1. Eficiencia de la red vial intervenida por el programa mejorada
+Indicador 1.1                                                                                Meta EOP         P         3%         2016
+    Reducción promedio de costos                                                                                                                          Informe de evaluación
+    económicos de operación vehicular en                                                   Meta revisado     P (a)       -           -
+                                                   %              0%            2009                                                          220%        económica ex post de las
+    los tramos de la RE intervenidos con                                                                                                                  inversiones del programa
+    mantenimiento por niveles de servicio                                                    Alcanzado
+                                                                                                              A        6,6%        2017
+    en el marco del programa                                                                   actual
+Indicador 1.2                                                                                Meta EOP         P        25%         2011
+    Reducción promedio de costos                                                                                                                          Informe de evaluación
+    económicos de operación vehicular                                                      Meta revisado     P (a)                                        económica – ex post del puente
+                                                   %              0%            2009                                                         79,20%
+    para el conjunto del tránsito que circula                                                                                                             segmental sobre el río
+    por el complejo vial del puente                                                          Alcanzado                                                    Babahoyo
+                                                                                                              A       19,8%        2017
+    intervenido por el programa.                                                               actual
+       20  Este indicador no aparece ni en la MdR original, ni en la tabla 1, y fue incorporado luego del segundo semestre 2010 como indicado en el cuerpo del documento.
+                                                                                                19
+"
+"                                                    Unidad     Valor de      Año de
+                                                                                                                                                 %
+        RESULTADOS / Indicador                        de        la Línea    la Línea       Metas y Resultados Alcanzados          Fecha                           Medio de Verificación
+                                                                                                                                            alcanzado
+                                                    Medida     de Base      de Base
+                                                                                           Meta EOP          P         50%         2011                     Informe del MTOP preparado a
+Indicador 1.3                                                                                                                                               partir de la evaluación – ex post
+    Aumento de la velocidad promedio de                                                  Meta revisado     P (a)                                            del puente segmental sobre el
+    circulación vehicular para el conjunto             %          0%21        2009                                                             100%         río Babahoyo y de mediciones
+    de tránsito que circula por el complejo                                                                                                                 del complejo del puente de la
+                                                                                           Alcanzado                                                        Unidad Nacional al terminar el
+    del puente intervenido por el programa                                                                   A         50%         2017
+                                                                                              actual                                                        programa
+ Resultado 2. Patrimonio vial del País preservado
+Indicador 2.1                                                                              Meta EOP          P         90%         2011                     Reporte mensual de la
+                                                                                                                                                            fiscalización y supervisión
+    Incremento del índice promedio de                                                    Meta revisado     P (a)                                            respecto al estado de la capa de
+    estado de los tramos de la RVE                     %          60%         2009                                                             110%
+                                                                                                                                                            rodadura y otros componentes
+    intervenidos con CMS en el marco del                                                   Alcanzado                                                        viales. Se utilizó el índice de
+    programa                                                                                                 A         93%         2017                     servicio
+                                                                                              actual
+Indicador 2.2                                                                              Meta EOP          P     +20 puntos % 2016                        Entrevistas realizadas por el
+                                                                                                                                                            EGP del MTOP a los
+    Aumento de la opinión favorable de los
+                                                                                         Meta revisado     P (a)                                            supervisores técnicos de cada
+    usuarios respecto a los tramos de la
+                                                       %        n. d. (22)    2009                                                             160%         proyecto, en calidad de usuarios
+    RVE intervenidos en el programa
+                                                                                                                                                            de las vías, en dos puntos en el
+                                                                                           Alcanzado                                                        tiempo antes y después de la
+                                                                                                             A     +32 puntos % 2017
+                                                                                              actual                                                        intervención
+       21  Sería útil indicar el valor de línea de base y de meta, en km/h pero no existe la medición de velocidad en km/h para la línea de base, por ello se partió de la velocidad asociada al
+           nivel de servicio categorizado del puente.
+       22  No se cuenta con información levantada conforme a lo solicitado en la MdR; sin embargo, el MTOP estableció una metodología de entrevistas internas para levantar información
+           primaria.
+                                                                                               20
+"
+"                                                 Unidad       Valor de       Año de
+                                                                                                                                           %
+          RESULTADOS / Indicador                    de        la Línea      la Línea      Metas y Resultados Alcanzados      Fecha                     Medio de Verificación
+                                                                                                                                      alcanzado
+                                                 Medida       de Base       de Base
+ Indicador 2.3                                                                            Meta EOP        P       90%         2016               Reporte mensual de la
+      El índice de estado relacionado con los                                                                                                    fiscalización y supervisión
+      elementos de la seguridad vial se                                                 Meta revisado   P (a)                                    respecto al estado de la capa de
+                                                     %           50%          2010                                                       97,5%
+      incrementa y se mantiene en el tiempo                                                                                                      rodadura y otros componentes
+                                                                                          Alcanzado                                              viales. Se utilizó el índice de
+                                                                                                          A       89%         2017               servicio para seguridad vial
+                                                                                            actual
+  Resultado 3. Capacidades de gestión del MTOP en su rol de rector del sector vial a nivel nacional fortalecidas
+                                                                                          Meta EOP        P         1         2011
+ Indicador 3.1
+                                                                                                                                                 PMR e Informe Semestral de
+      Normas y Herramientas ejecutadas en                                               Meta revisado   P (a)       1         2014
+                                                 Normas           0           2010                                                       200%    Progreso presentado por el
+      el programa, son utilizadas por el                                                                                                         MTOP
+      MTOP                                                                                Alcanzado
+                                                                                                          A         2         2017
+                                                                                            actual
+En donde: P = Start-Up Plan; P (a) = Revised Annual Target; A = Actual.
+                                                               Valor     Año           Metas y Resultados Alcanzados al 31 diciembre de 2017
+                                               Unidad de       Línea    Línea                                                                          %              Medio de
+              PRODUCTOS                         Medida          de        de                                                                      alcanzado         Verificación
+                                                               Base     Base     Metas 2010 2011 2012 2013 2014 2015 2016 2017 TOTAL
+ Componente 1. Construcción del puente segmental sobre el río Babahoyo
+                                                                                   P         -    1     -     -    -      -      -     -       1
+           Puente segmental sobre el río                                                                                                                       Evaluación final
+  1.1                                           Puente           0      2010                                                                         100%
+           Babahoyo operando (obra)                                                                                                                            puente segmental
+                                                                                 P (a)       -     -    -     -    -      -      -     -       -
+                                                                                             21
+"
+"                                                 Valor  Año        Metas y Resultados Alcanzados al 31 diciembre de 2017
+                                    Unidad de    Línea Línea                                                                      %           Medio de
+        PRODUCTOS                     Medida      de     de                                                                  alcanzado       Verificación
+                                                 Base  Base  Metas 2010 2011 2012 2013 2014 2015 2016 2017 TOTAL
+                                                                                                                                       sobre el río
+                                                              A           -   1     -     -    -      -       -    -      1            Babahoyo
+                                                               P       -      1     -     -    -      -       -    -      1
+                                                                                                                                        Evaluación final
+     Fiscalización Obra puente
+                                                                                                                                        puente segmental
+ 1.2 segmental sobre el río        Fiscalización   0   2010  P (a)     -      -     -     -    -      -       -    -      -    100%
+                                                                                                                                        sobre el río
+     Babahoyo                                                                                                                           Babahoyo
+                                                               A       -      -     1     -    -      -       -    -      1
+                                                              P         -     -     1     -    -      -       -    -      1             Informe de
+                                                                                                                                        indemnizaciones y
+      Indemnizaciones y obras
+                                                             P (a)      -     -     -     -    -      -       -    -      -             obras
+ 1.3  complementarias del puente      Global       0   2010                                                                    100%
+                                                                                                                                        complementarias
+      Babahoyo                                                                                                                          presentado por el
+                                                              A         -     -     1     -    -      -       -    -      1
+                                                                                                                                        EDG MTOP
+Componente 2. CMS
+                                                              P        -     281   410    -    -      -       -    -     810            ISP del programa,
+                                                                                                                                        informes de los
+                                                             P (a)     -     281   434    -    -     148    148   20     884            CMS, certificados
+     Contratos de Mantenimiento
+                                                                                                                                        de aceptación y/o
+ 1.1 por Niveles de Servicio            km        119  2010                                                                     100%
+                                                                                                                                        terminación del
+     Operando                                                                                                                           MTOP e informes
+                                                              A        -     469   187    -    -      -      89   91     975            provisionales de los
+                                                                                                                                        CMS
+                                                              P        -      3     2     -    -      -       -    -      6
+      Contratos de Fiscalización                                                                                                         ISP del programa,
+ 1.2  del Mantenimiento por          Contratos     1   2010  P (a)     -      3     3     -    -      1       1    0      6     100%     informes finales de
+      niveles de servicio operando                                                                                                       fiscalizaciones.
+                                                              A        -      3     2     -    -      -       -    1      6
+                                                                          22
+"
+"                                                Valor   Año        Metas y Resultados Alcanzados al 31 diciembre de 2017
+                                   Unidad de    Línea  Línea                                                                    %            Medio de
+        PRODUCTOS                   Medida       de      de                                                                 alcanzado       Verificación
+                                                Base   Base   Metas   2010 2011 2012 2013 2014 2015 2016 2017 TOTAL
+Componente 3. Gestión de la infraestructura y seguridad vial
+    Corredores pilotos de la RVE                                P       -     -     1     1    -       -     -     -      2           Informes finales y/o
+    con adecuadas soluciones a                                                                                                        actas de
+    puntos críticos y señalización                                                                                                    intervenciones del
+    vertical y horizontal                                     P (a)     -     -     1     1    4       3     2     0      2           programa en
+3.1                                Corredor       0     2009                                                                  100%
+    implementados. Seguridad                                                                                                          soluciones a puntos
+    Vial implementada en vías                                                                                                         críticos y
+    con altos índices de                                                                                                              señalización vertical
+                                                                A       -     -     -     1    -       -     1     -      2           y horizontal
+    accidentabilidad
+Componente 4. Estudios técnicos de proyectos de infraestructura vial
+    Estudios de factibilidad y                                  P       -     5     5     -    -       -     -     -     10
+    diseños finales de ingeniería
+                                                                                                                                      Entrega recepción de
+4.1 de proyectos de                 Estudios      0     2009  P (a)     -     5     5     4    7       6     3     0      6   100%
+                                                                                                                                      los estudios
+    infraestructura vial
+    terminados                                                  A       -     2     1     2    -       3     -     -      8
+     Estudios de preinversión                                   P       -     2     2     -    -       -     -     -      4
+     para contratos por
+                                                                                                                                      Entrega recepción
+4.2  mantenimiento vial por         Estudios      0    2009   P (a)     -     2     -     6    -       -     -            6   100%
+                                                                                                                                      de los estudios
+     niveles de servicio,
+     realizados.                                                A       -     5     1     -    -       -     -     -      6
+                                                                           23
+"
+"                                                Valor    Año         Metas y Resultados Alcanzados al 31 diciembre de 2017
+                                   Unidad de    Línea   Línea                                                                    %           Medio de
+        PRODUCTOS                   Medida       de       de                                                                 alcanzado     Verificación
+                                                Base    Base    Metas   2010 2011 2012 2013 2014 2015 2016 2017 TOTAL
+Componente 5. Planificación en el sector transporte y subsector vial
+5.1                                                               P       -     -     2     2    -       -     -     -     4
+                                                                                                                                       Entrega recepción
+    Normativas técnica
+                                                                                                                                       provisionales o
+    diseñadas, oficializadas y      Normas        0     2009    P (a)     -     -     -     1    -       -     -     -     1   100%
+                                                                                                                                       definitivas de los
+    socializadas.                                                                                                                      estudios e informes
+                                                                  A       -     -     -     1    -       -     -     1     2
+5.2  Herramientas técnicas                                        P       -     -     2     2    -       -     -     -     4
+                                                                                                                                       Entrega recepción
+     diseñadas y desarrolladas,
+                                                                                                                                       provisionales o
+     en condiciones para su       Herramientas    0     2009    P (a)     -     -     2     3    1       1     -     -     3   100%
+                                                                                                                                       definitivas de
+     implementación                                                                                                                    contratos
+                                                                  A       -     -     1     2    0       -     -     -     3
+                                                                             24
+"
+"c. Análisis de Atribución
+En la aprobación del programa no se contempló un estudio de evaluación de impacto.
+Sin embargo, existe evidencia de buenos resultados en la aplicación del modelo de CMS
+en varios países de la región. Los CMS en la región no son nuevos, países como
+Argentina iniciaron en 1990 y Uruguay, Chile, Colombia y Brasil entre 1996 y 2000;
+habiéndose aplicado el modelo también en USA, Europa y Oceanía (Zietlow 2003).
+Actualmente la mayoría de los países de la región aplican este modelo con la finalidad de
+mejorar y conservar el patrimonio vial y mejorar o mantener la seguridad vial, entre otros.
+El Banco ha financiado varias intervenciones en la región que utilizan los CMS para el
+logro de sus objetivos, como por ejemplo en Perú, Paraguay, Honduras, Uruguay, etc.).
+Los resultados alcanzados pueden ser atribuidos al proyecto siguiendo la lógica vertical y
+la evidencia de la literatura u otras evaluaciones. En efecto, en el estudio de Contratación
+de los Contratos por Niveles de Servicio (Pereyra y Pérez, 2018), luego de revisión
+bibliográfica, se concluyen que aunque no se ha demostrado evidencia cuantitativa,
+habría un acuerdo entre las ventajas de eficiencia que se percibe por parte de los
+especialistas del sector en los contratos CMS: (i) una reducción de los costos en países
+desarrollados; (ii) un aumento potencial de innovaciones en el sector, una reducción de
+los sobre plazos; (iii) una reducción de impactos ambientales negativos; (iv) incrementos
+en el eficiencia del sector público; (v) aumento de la satisfacción de los usuarios; (vi) una
+mayor transferencia de riegos a los contratistas; (vii) una mejora en la calidad de los
+caminos; (viii) obtención de financiamiento de largo plazo y una gestión sostenible del
+sistema vial; y (ix) aumento de la flexibilidad e incremento de la transparencia y reducción
+de la corrupción.
+Comparando la eficiencia de contratos CMS, con contratos por rehabilitación y
+mantenimiento tradicional en Uruguay, en el estudio Contratos por niveles de servicio,
+mayor asignación presupuestal o mayor eficiencia. (Pérez, Pereyra, Sanroman, 2018), se
+encuentran resultados que permiten concluir que luego de controlar por las variables
+observables, el comportamiento en el Índice de Rugosidad IRI (medida de calidad de
+superficie del pavimento), es sistemáticamente de menor valor (y por lo tanto mayor
+calidad) en los contratos CMS versus los casos en donde el tramo es gestionado por
+administración tradicional.
+Basado en la evidencia encontrada en las evaluaciones arriba mencionadas, y en el rol
+que los incentivos asociados los contratos CMS tienen sobre los contratistas, es posible
+atribuir a la utilización de contratos CMS los resultados alcanzados por este programa en
+las carreteras intervenidas con contratos CMS.
+En el caso del puente, el aumento de calidad de nivel de servicio está ligado a la
+intervención del proyecto al disminuir la congestión y mejorar los tiempos de viaje luego
+de su ejecución. Y esto es aún considerado el aumento de la demanda, pues las vías
+atrajeron más usuarios al ser menos congestionadas.
+d. Resultados No Esperados
+No se identificaron resultados no previstos que sean atribuibles a la ejecución del
+programa.
+2.3   Eficiencia
+La evaluación de eficiencia se fundamentó en el análisis de viabilidad económica ex post
+de los proyectos implementados en el programa. Estas evaluaciones económicas se
+realizaron conforme a la metodología tradicional aplicable a los proyectos de inversión
+                                               25
+"
+"vial, basada en la comparación de costos y beneficios económicos totales23, entre el
+escenario “Sin Proyecto<U+201F> y el escenario “Con Proyecto<U+201F>, durante el período de análisis
+respectivo en cada caso (lapso de ejecución de obras, más el lapso de utilización de las
+mismas). La información utilizada fue suministrada por el MTOP y se complementó con
+datos disponibles de los estudios de consultoría efectuados en años recientes y
+supuestos razonables del Consultor que realizó la evaluación ex post. Los beneficios de
+los usuarios considerados en el análisis son los ahorros en tiempos de viaje y costos de
+operación vehicular, y los costos son aquellos ligados a las inversiones para rehabilitación
+vial y mantenimiento.
+El análisis económico se elaboró con apoyo del modelo HDM-424 que facilita la evaluación
+de inversiones en carreteras. Obtenido el flujo neto de costos económicos para el período
+de análisis mencionado, se calculó el Valor Actual Neto Económico (VANE) adoptando
+una tasa de descuento de 12,0%, la Tasa Interna de Retorno Económica (TIRE), más las
+ratios de Beneficio/Costo25 y de VANE/Inversión26. Tratándose de evaluaciones
+económicas, se utilizaron precios económicos que fueron estimados con la mejor
+aproximación disponible, para todos los factores de costo componentes del cálculo. El
+cálculo de los costos económicos totales en cada año del período de análisis considerado
+(para los escenarios “Sin Proyecto” y “Con Proyecto”), así como el cálculo de los referidos
+indicadores de rentabilidad. El modelo HDM-4 fue alimentado con: (i) los parámetros de
+diseño aplicables a los tramos de la vía preexistente y los tramos de la vía según el
+proyecto ejecutado (altimetría, geometría del trazado y su perfil transversal, estructura de
+pavimento y estado de la superficie de rodadura, etc.); (ii) las condiciones propias del
+entorno local que afectan la vía y los usuarios (clima, efectos de centros poblados, etc.);
+(iii) las características de la flota de vehículos (tipo, pesos, etc.) y de los usuarios (v.g.
+cantidad de pasajeros según tipo de vehículo); (iv) los costos totales o unitarios de las
+obras ejecutadas (inversión más mantenimiento), los costos de los insumos de los
+vehículos, los costos de tiempo de los pasajeros (valor del tiempo de trabajo y ocio), etc.,
+aplicables al país según la información disponible.
+Los insumos para la evaluación27; la cuantificación de costos de inversión y
+mantenimiento, del escenario sin proyecto y del escenario con proyecto; y la cuantificación
+de costos de los usuarios se muestran en detalle en el análisis económico ex post del
+programa. En dicho análisis, también se detallan los problemas presentados en la
+obtención de datos relacionados, especialmente con respecto a los Tráfico Promedio
+Diario Anual (TPDA)28 de las intervenciones, así como los supuestos generados en la
+23   El que cuantifica los beneficios por los excedentes del consumidor (ahorros de operación y tiempos de viaje
+     de los usuarios) y la variación de costos por las tareas a cargo del Estado en cuanto a gestión vial (inversión
+     y mantenimiento).
+24   Highway Development and Management (HDM-4).
+25   Se adopta la definición más reconocida para la relación Beneficio/Costo, consistente en el cociente del
+     Valor Actual de Beneficios (operación y tiempo) y el Valor Actual de Costos (inversión y conservación), es
+     decir VA(Beneficios)/VA(Costos).
+26   Si bien la relación Beneficio/Costo es de uso tradicional, la ratio VANE/Inversión es un indicador más útil
+     para comparar y priorizar inversiones, puesto que incluye directamente el monto de la inversión (el objeto
+     del financiamiento en los proyectos del Banco). Tratándose de evaluaciones económica ex post no se
+     realizan análisis de sensibilidad, en el entendido que se utilizan datos originados en registros contables,
+     mediciones, etc.
+27
+     Parámetros económicos, parámetros técnicos, Costos Unitarios para vehículos y pasajeros, parámetros
+     de modelación HDM-4.
+28   El análisis económico ex post indica que se presentaron problemas al momento de obtener datos por parte
+     del MTOP, sobre todo los relacionados con el TPDA. En el documento se menciona que se han imputado
+     valores de TPDA relacionados al Puente Rafael Mendoza Avilés, mediante una “actualización inversa”.
+     Asimismo, señala que la calidad de la información en cuanto al TPDA ex ante y ex post es un elemento
+     que podría condicionar la confiabilidad de la evaluación económica ex post”. Esta situación muestra la
+     debilidad del MTOP en el manejo de las mediciones y estadísticas relacionadas con sus intervenciones en
+     general y la falta de levantamiento oportuno y traspaso de información por parte del MTOP.
+                                                          26
+"
+"consultoría para poder realizar el análisis respectivo, concluyendo que los resultados
+alcanzados son válidos.
+Los resultados de la evaluación económica ex post aplicada permiten concluir la eficiencia
+del programa como satisfactoria. Se evaluaron ocho (8) proyectos; de los cuales siete (7)
+resultaron rentables tal como se explica a continuación:
+1. Puente segmental sobre el río Babahoyo29
+     Los indicadores de rentabilidad fueron positivos, con lo que puede afirmar que el
+     proyecto es rentable. El análisis realizado muestra un VANE (para una tasa de
+     descuento de 12%) de US$7,3 millones y una TIRE de 12,9%. El análisis ex post
+     concluye que estos resultados son conservadores debido a que no se cuantificaron
+     otros beneficios, por lo que la rentabilidad real del proyecto sería aún mayor30.
+2. CMS
+     Se evaluaron siete (7) de los ocho (8) CMS financiados por el programa, de los cuales
+     seis (6) fueron rentables.
+     Proyectos rentables. El análisis determinó seis (6) proyectos con una rentabilidad
+     positiva. El estudio revela indicadores muy satisfactorios en los seis casos; en
+     particular, el indicador VANE/Inversión varía entre 0,39 y 1,32 (con un promedio
+     simple de 0,67), en tanto la TIRE se ubica entre 18,9% y 35,8% (con un promedio
+     simple de 24,7%). Se debe tener presente que, en todos los casos, se ha realizado la
+     evaluación de los proyectos comparando la ejecución de los mismos con alternativas
+     reales y viables, por lo que el análisis que se ha efectuado se considera confiable y
+     conservador. Los CMS rentables cubrieron 839 km y fueron:
+                                              Tabla 3. CMS rentables
+              Evaluación económica ex post:                     km                VANE               TIRE
+                    Proyectos rentables                     realizados        (US$ millones)           %
+       1   Guayaquil-Santa Elena                               118,9                6,84             18,9
+       2   Papallacta-Cuyuja-“Y” de Baeza-Puente
+                                                               132,9               15,63             29,3
+           Sta. Rosa-Puente el Salado-Simón Bolívar
+       3   Puente San Miguel-Lago Agrio-Coca-
+                                                                187                 6,31             19,3
+           Loreto-Huataraco.
+       4   San Pedro de la Bendita-Verlacruz-
+                                                               140,7                7,31             24,4
+           Catacocha-Macará-Pte. Internacional
+       5   Pelileo-Baños-Puyo                                   80,2                4,59             20,5
+       6   Tena-Capricho-Puyo-Puente Pastaza                   179,1               15,19             35,8
+     Proyecto no rentable. Se determinó como no rentable al proyecto: Tramo “Zamora -
+     Gualaquiza”; 114,2 km. Los indicadores de rentabilidad muestran un VANE de
+     US$(-8,5) millones y una TIRE de (-26,5%). Estos indicadores devienen de la
+     condición del pavimento ex ante; específicamente, los indicadores de estado ex ante
+29 El nuevo puente se construyó con una plataforma de 20,8 m de ancho total (similar al puente preexistente);
+   en esta plataforma se habilitaron cinco carriles de circulación de aproximadamente 3,6 m cada uno. El
+   tramo del complejo vial sobre el Río Babahoyo se habilitó canalizando el flujo de tránsito 'La Puntilla a
+   Durán' por el puente preexistente y el tránsito 'Durán a La Puntilla' por el nuevo puente; con este esquema
+   de operación, el complejo quedó habilitado como una vía de 10 carriles (5 carriles por sentido), con lo que
+   se aumentó sensiblemente la capacidad de la vía.
+30 No se cuantificaron los beneficios propios de la evitación de costos a los usuarios por causa de la
+   congestión, en especial los relacionados por la imposibilidad de viajar en los horarios deseados, ni tampoco
+   (por insuficiente información) los beneficios ambientales por reducción de emisiones (ello ocurre en la
+   medida que se mejora la velocidad y los motores operan por mayor eficiencia) y por reducción de
+   accidentes (en la condición del puente inicial, los vehículos transitaban en ambos sentidos en un solo
+   puente, la construcción del puente paralelo hizo que cada puente lleve vehículos en un solo sentido,
+   disminuyendo el riesgo de colisión frontal en el puente).
+                                                       27
+"
+"disponibles se corresponden con un pavimento de buena calidad, lo cual determinó
+que los beneficios de una rehabilitación sean mínimos.
+Evaluación no realizada. No se pudo realizar la evaluación ex post del proyecto:
+Tramo “Playas - Posorja”; 18,8 km, debido a no disponer de suficiente y adecuada
+información sobre las condiciones de la infraestructura ex ante y ex post, así como
+respecto de la composición del tránsito y condiciones de circulación en la vía.
+VANE del programa. Si bien no se tiene una metodología de monetización de los
+componentes del programa, se puede asegurar el VANE>0 de todo el programa, aun
+si se consideran los componentes 3 ,4 y 5 como costos que no produjeron beneficios.
+En efecto, si se considera llevando a valor presente en el año común de 2009, un
+VANE de US$38,51 millones, sumando los valores obtenidos para los componentes
+1 y 2. Aun asumiendo que los costos de los componentes 3, 4 y 5 no tuvieron ningún
+beneficio, pero llevados a valor presente representan US$36,72 millones, se podría
+estimar que el VANE del proyecto sería US$38,51 - US$36,72 = US$1,79 millones
+por lo que el VANE total del proyecto, calculado de forma conservadora, sería positivo.
+                                 Tabla 4. VANE del proyecto
+                                                     VANE         VANE     Año VANE
+                        Año
+                                                     2009        Original    Original
+  Componente 3                                       -26.666
+  Componente 4                                        -8.048
+  Componente 5                                        -1.858
+  Auditorías y otros                                  -0.145
+  Puente Rafael Mendoza Avilés                         7.338        7.338         2009
+  Tramo C2A1 “Guayaquil - Santa Elena”                 5.455        6.843         2011
+  Tramo C2A2 “Papallacta - Simón Bolívar”             11.129      15.635          2012
+  Tramo C2A3 “San Miguel - Puente Huataraco”           4.490        6.307         2012
+  Tramo C2A4 “Zamora - Gualaquiza”                    -6.070       -8.528         2012
+  Tramo C2A5 “San Pedro - Puente Internacional”        5.200        7.306         2012
+  Tramo C2A6 “Pelileo - Puyo”                          3.267        4.590         2012
+  Tramo C32A7 “Tena - Puente Pastaza”                  7.696      15.190          2015
+  Total                                                1.787
+                                           28
+"
+"Desembolsos. Por otro lado, en cuanto, al uso de los desembolsos, se
+desembolsaron US$336,6 millones (90,6% del monto total aprobado). En total se
+realizaron diecinueve (19) desembolsos, de los cuales: once (11) se realizaron
+mediante la modalidad de anticipos del fondo rotativo y alcanzaron un monto de
+US$250 millones; y ocho (8) correspondieron a reconocimiento o reembolso de
+gastos, realizados por el MTOP, por un monto de US$88,6 millones.
+                                      29
+"
+"                                                                                     Tabla 5. Costos del proyecto
+ 1  Componente 1. Construcción del puente segmental sobre el río Babahoyo.
+                          Resultado                                       2009             2010             2011             2012             2013        2014    2015   2016    2017      Costo
+                                                                P                     68.477.134,46    32.506.134,75    19.662.065,39    19.662.065,40                                 140.307.400,00
+1.1 Puente segmental sobre el río Babahoyo operando.          P(a)                    69.560.525,00    32.506.134,75      1.108.061,51                     0,00    0,00   0,00    0,00 119.925.634,00
+                                                                A     42.195.283,00   20.818.433,00    46.203.222,00    10.439.809,00       268.887,00     0,00    0,00   0,00         119.925.634,00
+                                                                P                       4.429.234,04     1.194.590,48     2.376.175,48                                                   8.000.000,00
+1.2 Fiscalización puente Río Babahoyo. realizada              P(a)                      3.713.703,00     1.194.590,48             0,00             0,00    0,00    0,00   0,00    0,00   5.080.444,00
+                                                                A      2.357.585,00     1.288.466,00     1.074.122,00       360.271,00             0,00    0,00    0,00   0,00           5.080.444,00
+                                                                P                                                                                                                                0,00
+1.3 Indemnizaciones y obras complementarias del puente
+                                                              P(a)                                                        1.685.912,82      424.630,24     0,00    0,00   0,00    0,00           0,00
+    Babahoyo
+                                                                A                                                0,00             0,00             0,00    0,00    0,00   0,00                   0,00
+ 2  Componente 2. CMS
+            Resultado                        2009      2010            2011             2012              2013             2014            2015             2016             2017          Costo
+                                      P            5.785.134,85    43.503.374,41    61.650.898,95    27.302.795,62    16.355.644,16    10.542.051,08     197.194,33                    165.337.093,40
+2.1 Contratos de mantenimiento
+    por niveles de servicio          P(a)          6.635.882,00    43.503.374,41    37.436.529,00    24.037.787,48    24.340.181,60    20.087.698,75    30.955.083,88   13.092.007,19  174.074.046,19
+    operando
+                                      A            5.569.965,00    29.074.882,00    50.484.994,00    23.306.282,00    24.184.277,00    13.544.697,00    14.816.942,00   12.660.429,00  173.642.468,00
+                                                                                                 30
+"
+" 3  Componente 3. Gestión de la infraestructura y seguridad vial
+                           Resultados                                       2009  2010  2011         2012           2013            2014            2015           2016     2017      Costo
+                                                                        P                        4.000.000,00    5.000.000,00    3.000.000,00                                     12.000.000,00
+    Corredores pilotos de la Red Estatal con adecuadas
+    soluciones a puntos críticos y señalización vertical y horizontal
+3.1                                                                   P(a)         0,00         11.204.085,00   26.379.211,64   14.107.096,19   6.470.000,00   3.394.845,25  0,00 41.144.790,52
+    implementados. Seguridad Vial implementada en vías con
+    altos índices de accidentabilidad
+                                                                        A                       13.947.026,52   21.895.650,00    3.647.986,00     103.662,00   1.550.466,00       41.144.790,52
+ 4  Componente 4. Estudios técnicos de proyectos de infraestructura vial
+                            Resultado                                      2009  2010       2011           2012           2013           2014         2015          2016    2017      Costo
+                                                                       P                3.569.603,48   5.559.396,52           0,00                                                 9.129.000,00
+4.1 Estudios de factibilidad y diseños finales de ingeniería de                   0,00  3.569.603,48   4.282.430,00   3.730.129,65   2.709.913,57   962.607,95   963.574,25  0,00 11.502.286,00
+                                                                      P(a)
+    proyectos de infraestructura vial terminados.
+                                                                       A                3.493.384,00   4.771.631,00   1.045.669,00   1.832.778,00     5.315,00   353.509,00       11.502.286,00
+                                                                       P                1.000.000,00   1.000.000,00                                                                2.000.000,00
+4.2 Estudios de preinversión para contratos por mantenimiento
+                                                                      P(a)              1.000.000,00                          0,00           0,00         0,00         0,00  0,00          0,00
+    vial por niveles de servicio. realizados.
+                                                                       A                        0,00                          0,00           0,00         0,00         0,00                0,00
+                                                                                                31
+"
+" 5    Componente 5. Planificación en el sector transporte y subsector vial
+                              Resultados                                     2009 2010        2011           2012           2013        2014        2015         2016     2017     Costo
+                                                                        P                   483.445,48     216.554,52                                                              700.000,00
+5.1   Normativas técnicas diseñadas. oficializadas y socializadas.     P(a)        0,00     483.445,48            0,00    419.291,32       0,00         0,00       0,00    0,00          0,00
+                                                                        A                                         0,00          0,00       0,00         0,00       0,00                  0,00
+                                                                        P                 1.289.128,56   3.997.539,78   2.213.331,66                                             7.500.000,00
+      Herramientas técnicas diseñadas y desarrolladas. en
+      condiciones para su implementación (Dotación Tecnología GIS.
+5.2                                                                    P(a)        0,00   1.289.128,56   1.288.360,00     925.297,90 362.406,90   180.000,00       0,00    0,00  2.807.205,00
+      Inventario Vial. Dotación de Equipos. Tecnología de Movilidad.
+      Aforos).
+                                                                        A                    88.750,00   1.240.692,00   1.115.356,00 201.589,00   157.318,00   3.500,00          2.807.205,00
+           Otros costos                       2009        2010         2011          2012              2013               2014           2015           2016          2017        Costo
+                                        P                            145.000,00      103.000,00        253.000,00        103.000,00     354.000,00                                 958.000,00
+ Auditorías externas financieras y
+                                      P(a)              42.000,00    145.000,00       77.000,00         28.392,00        104.560,00      50.000,00     91.120,00         0,00      236.361,00
+ operativas
+                                        A                             19.500,00       31.668,00         53.393,00         42.160,00      42.540,00     47.100,00    14.600,00      250.961,00
+ Imprevistos                            P                                         2.500.000,00       2.500.000,00      2.500.000,00   2.500.000,00                              10.000.000,00
+ Imprevistos                          P(a)                                                                    2,02             0,00           0,00          0,00         0,00            0,00
+                                        A                                                                     0,00             0,00           0,00          0,00                         0,00
+                                                                                                32
+"
+" Total          2009          2010          2011          2012           2013          2014          2015          2016          2017         Costo
+        P                 78.691.503,35 83.691.277,16 101.065.630,64 56.931.192,68 21.958.644,16 13.396.051,08    197.194,33               355.931.493,40
+Costo
+       P(a)               79.952.110,00 83.691.277,16  57.082.378,33 55.944.742,25 41.624.158,26 27.750.306,70 35.404.623,38 13.092.007,19 354.770.766,71
+total
+        A   44.552.868,00 27.676.864,00 79.953.860,00  81.276.091,52 47.685.237,00 29.908.790,00 13.853.532,00 16.771.517,00 12.675.029,00 354.353.788,52
+                                                                          33
+"
+"2.4    Sostenibilidad
+a. Aspectos generales de sostenibilidad
+Los principales riesgos identificados que podrían obstaculizar la continuidad de los logros
+del programa y las acciones de mitigación respectivas identificadas son:
+(i) Insuficiencia de recursos para el mantenimiento de las obras realizadas.
+Teniendo presente la importante inversión en infraestructura vial que ha realizado el GdE
+en el último decenio, uno de los principales desafíos que se debe encarar en la gestión
+de la red en los próximos años será la conservación del capital vial que se ha acumulado.
+En efecto, el riesgo es que las restricciones presupuestarias que se prevén para los años
+por venir resulten en un recorte de los gastos de mantenimiento, lo cual aceleraría la
+pérdida del capital vial logrado durante la última década para toda la RVE. La evidencia
+empírica sugiere que el sobrecosto asociado a la restauración de la infraestructura una
+vez que ya ha alcanzado un excesivo nivel de deterioro supera con creces al ahorro que
+el Estado obtiene al posponer el mantenimiento (Hicks et al., 2000; Farahani, 2016).
+Las inspecciones realizadas durante la evaluación final mostraron, aunque pequeños,
+ciertos niveles de deterioro en las obras. En el caso del puente segmental sobre el río
+Babahoyo, se observó que el deterioro se relaciona con el vandalismo que afecta a las
+fachadas de las bases, las tapas de los canales eléctricos y varios grupos de luminarias;
+también se constató que las obras de compensación ejecutadas en el lado de Durán como
+el parque recreativo y la base del puente y la orilla, requieren, aunque se encuentran
+funcionales y en buen estado, de un mayor mantenimiento. Este mantenimiento se
+encuentra a cargo del MTOP en conjunto con las autoridades cantonales. En la visita de
+cierre de programa al puente, el MTOP se comprometió a realizar las readecuaciones
+necesarias e incorporarlas en el Plan de Mantenimiento del puente y facilidades conexas
+que asegurará su sostenibilidad.
+Con respecto a una potencial falta de mantenimiento integral de las vías intervenidas en
+el programa, este es un riesgo que de materializarse podría implicar un proceso de
+deterioro y reduciría en el tiempo los objetivos económicos y los beneficios del programa.
+Sin embargo, el MTOP a través de su Departamento de Conservación Vial y por tratarse
+de vías de importancia nacional al ser parte de la RVE, las incorpora automáticamente
+dentro de su plan de mantenimiento vial y con el uso de herramientas de gestión vial
+pueden indicar alertas tempranas para manejar estos riesgos, priorizando los tramos a
+intervenir y proponer las intervenciones adecuadas de mantenimiento en el momento más
+oportuno. Se prevé que las actividades en los próximo cinco años para los contratos CMS
+consistirán únicamente en mantenimiento rutinario y luego involucrarán mantenimiento
+periódico en la forma de recapeos.
+La continuidad del modelo de CMS facilitará la conservación del patrimonio vial. Prueba
+de que ha sido un mecanismo exitoso, el MTOP ha resuelto que futuros contratos de
+rehabilitación y mantenimiento se realicen por este mecanismo en los nuevos créditos
+firmados con CAF y previsto con el BID. Por la naturaleza de estos CMS, que buscan la
+preservación de la infraestructura, la sostenibilidad de los tramos CMS debería estar
+asegurada por el tiempo de duración de esos contratos. La intención del MTOP es
+prolongar a futuro la etapa de mantenimiento de los CMS, posterior a la intervención
+principal de rehabilitación, de 5 a 10 años.
+Para salvaguardar el patrimonio vial del país, el gran reto a futuro luego de la inversión
+realizada es el mantenimiento vial. El BID en un estudio (Gagliardi y Suárez, 2017)
+identificó que las necesidades de mantenimiento vial para maximizar los beneficios
+sociales de la inversión realizada por el gobierno para mejorar la infraestructura vial
+                                              34
+"
+"ascienden aproximadamente a 200 millones anuales31. Como medida de mitigación ante
+la falta de recursos estatales, el MTOP está desarrollando nuevas inversiones en
+rehabilitación y mantenimiento vial a través de créditos con la banca multilateral32, y
+además el gobierno nacional y el MTOP se encuentran en la búsqueda de alternativas
+que fomenten la inversión privada en el mantenimiento vial, promoviendo en la actualidad
+proyectos de su cartera vía concesiones y alianzas público-privadas.
+(ii) Cambio climático, desastres naturales y otras contingencias. El Ecuador es
+altamente vulnerable a eventos climáticos y naturales. Durante la ejecución del programa
+se materializaron eventos de esta naturaleza que afectaron la RVE como las fuertes
+temporadas invernales que provocaron, deslaves e inundaciones; y el terremoto de abril
+de 2016 que afectó una importante parte de la RVE. En las últimas décadas. Ecuador ha
+realizado avances importantes en el marco de política de Gestión del Riesgo de Desastres
+(GRD). En la Constitución de la República se define al Sistema Nacional Descentralizado
+de Gestión de Riesgos (SNDGR), conformado por el ente rector (SGR designada en
+2010), las unidades de Gestión del Riesgo de Desastres de todas las entidades públicas
+y privadas en los ámbitos local, regional y nacional, y las entidades de ciencia que
+estudian las amenazas y vulnerabilidades. Uno de los logros relevantes en 2017 fue la
+suscripción del préstamo BID 3913/OC-EC programa de Fortalecimiento del Sistema de
+Alerta Temprana, que se focaliza en la atención de las amenazas de tsunamis y desborde
+de represas. Para el caso particular de la RVE los Contratos de Mantenimiento por
+Servicios (CMS), alcanzados gracias a las intervenciones del BID con la CCLIP:
+Programa de Infraestructura de Transporte Vial (EC-X1005) y el Primer Programa de
+Infraestructura y Conservación Vial (EC-L1065), los mismos que facilitaron la mitigación
+de los impactos y la conservación del patrimonio vial. Los estudios de resiliencia
+contratados por el Banco a través de la cooperación técnica ATN/JF-15752-EC - Apoyo
+para asegurar la resiliencia de infraestructura pública y sistemas de servicio luego del
+sismo en Ecuador, que permiten identificar los tramos críticos que deben estar funcionales
+ante las amenazas de desastres naturales u otros riesgos.
+b. Salvaguardas ambientales y sociales
+El análisis ex post de gestión ambiental y social del programa concluyó que los proyectos
+financiados por el programa cumplieron la normativa ambiental ecuatoriana y con las
+cláusulas del contrato de préstamo. El equipo de gestión ambiental y social del MTOP a
+nivel central y los especialistas ambientales en las unidades regionales del Ministerio, se
+encargaron de los procesos de regularización ambiental de los proyectos en la fase inicial,
+de supervisar periódicamente el cumplimiento de los planes de manejo ambiental en la
+fase de construcción y de ser enlace con la autoridad ambiental nacional para el
+cumplimiento de las obligaciones ambientales. Asimismo, se encontraron evidencias
+respecto del trabajo de supervisión, seguimiento y acciones correctivas oportunas. De la
+31  Gagliardi, D y Suarez, R. 2017. “Gestión de Activos Viales en el Ecuador”. Producto de consultoría interno
+    para Banco Interamericano de Desarrollo. Esta estimación muestra que el nivel óptimo de inversión
+    (rehabilitaciones, reconstrucciones, etc.), para la conservación de la RVE en el cuatrienio 2017-20, se ubica
+    en aproximadamente US$949 millones (Gagliardi y Suárez, 2017), monto que se puede subdividir en dos
+    componentes: (i) obras de rehabilitación para los pavimentos en estado bueno o regular y obras de
+    reconstrucción para los pavimentos en mal estado, por un monto de US$591,5 millones (un 95% para la
+    red en asfalto y un 5% para la red en hormigón); y (ii) mantenimiento rutinario (costos recurrentes) por un
+    monto aproximado de US$357,5 millones en tareas básicas de limpieza, reparaciones menores, etc. Es
+    evidente que alcanzar estas cifras en una coyuntura de consolidación fiscal no será fácil, como sugiere la
+    magnitud de la brecha que ya existe en la estimación del nivel óptimo arriba descrita y el gasto en
+    mantenimiento que se ejecuta en la actualidad. En 2016, por ejemplo, se tenía previsto invertir
+    US$160 millones en rehabilitación y mantenimiento vial, cifra muy inferior a los US$237 millones por año
+    que en promedio deberían utilizarse para tal fin.
+32  Actualmente el MTOP está trabajando en un préstamo para mantenimiento vial con CAF por
+    US$192 millones y ha solicitado al MEF una segunda fase de la CCLIP con el BID por US$350 millones.
+                                                         35
+"
+"revisión documental realizada sobre los aspectos ambientales y sociales de los proyectos
+del programa, se deduce que no se presentaron eventos graves ni contingencias en
+relación con las actividades de intervención de un determinado proyecto. Asimismo, el
+análisis ex post indica que el equipo de supervisión ambiental del MTOP fue ágil y
+oportuno en sus inspecciones periódicas a los diferentes frentes de obra y generó
+informes con acciones correctivas sobre la marcha en conjunto con la contratista
+responsable de la obra. En la generación de reportes documentales no se aplicaron los
+formatos sugeridos en el MGAS que fueran diseñados ad hoc para el efecto; sin embargo,
+los proyectos se ajustaron, utilizaron y aplicaron guías, normas técnicas y lineamientos
+relacionados con aspectos de seguridad y salud ocupacional basadas en
+especificaciones señaladas por el MTOP.
+                                 III. CRITERIOS NO CENTRALES
+3.1     Desempeño del Banco
+El diseño de la operación se soportó en la experiencia de la división de transporte del
+Banco, con el apoyo de los especialistas sectoriales y del equipo fiduciario y operativo de
+la representación de Ecuador. Durante la ejecución, el equipo del BID coordinó y gestionó
+estrechamente con el MTOP, su Equipo de Gestión del programa y el MEF el estado de
+ejecución del programa y la revisión del cronograma de avance. Estos esfuerzos
+permitieron que el proyecto permanezca durante todos los años de su ejecución con
+status de satisfactorio en los PMRs del Banco.
+El proceso de monitoreo permitió mantener bajo control el cumplimiento de las políticas
+de adquisiciones y el mecanismo de desembolsos, así como las contingencias
+presentadas por aspectos como el elevado cambio de autoridades y agenda por parte del
+MTOP, así como por la materialización de eventos naturales, buscando asegurar la
+ejecución en el marco definido. Sin embargo, los aspectos antes mencionados dieron
+como resultado una elevada modificación de actividades durante la ejecución del
+programa lo que afectó la supervisión por parte del Banco y generó varios reprocesos
+durante el ciclo de vida del programa.
+Por otro lado, el programa presentó, para el desempeño del Banco, desafíos en varios
+aspectos, tanto para apoyar al MTOP en la planificación de las vías a intervenir (uno de
+los proyectos tiene un VANE negativo), como en la supervisión de aplicación de
+metodologías y frecuencias recomendadas para medir resultados, así como en el rol del
+BID para supervisar la aplicación del Manual Operativo del Programa (MOP).
+Para el proceso de cierre de la operación, el Banco contrató una evaluación económica
+ex post y una evaluación ambiental y social ex post, que sirvieron como insumos para
+elaborar el PCR. Para la elaboración de dichas evaluaciones el equipo del BID ha
+facilitado y participado de reuniones y visitas de las obras ejecutadas. Los hallazgos y
+recomendaciones se socializaron con el OE, buscando la manera de apoyar y solventar
+las situaciones identificadas.
+Prueba del desempeño satisfactorio, es que el OE demostró su interés de seguir
+trabajando con el Banco al solicitar financiamiento BID para la segunda fase de la Línea
+de Crédito Condicional para Proyectos de Inversión (CCLIP) por un monto de
+US$350 millones adicionales33.
+33  El MTOP, mediante oficio MTOP-MTOP-18-445-OF, de fecha 24 de mayo de 2018, solicitó al MEF se
+    considere el financiamiento del BID por US$350 millones para la segunda fase de la CCLIP. Hasta la fecha
+    el MEF no ha formalizado este pedido del financiamiento del MTOP en la programación 2019-2020.
+                                                     36
+"
+"3.2      Desempeño del Prestatario
+La ejecución del programa estuvo a cargo del MTOP a través de sus Direcciones
+Distritales, en calidad de entidades operativas descentralizadas, con el apoyo del Equipo
+de Gestión del programa (EGP). El EGP brindó el respectivo asesoramiento en los
+procesos de contratación del programa. Asimismo, verificó y dio seguimiento a las
+actividades ejecutadas para el cumplimiento de las políticas del BID.
+Como factores positivos en el desempeño del prestatario, se identificaron: la
+predisposición por parte del equipo del MTOP para buscar la adecuada ejecución del
+programa; el seguimiento, control y retroalimentación permanente con el Banco; los
+esfuerzos de coordinación del EGP con las Direcciones Distritales del MTOP para lograr
+la implementación del programa en los tiempos acordados con el Banco; la gestión de
+adquisiciones dentro de los estipulado en el Contrato de Préstamo, las Políticas de
+Adquisiciones y Contrataciones del Banco y en el Manual Operativo; los esfuerzos de
+coordinación intra e interinstitucionales para el cumplimiento de los distintos requisitos de
+ejecución; la capacidad operativa de los constructores y fiscalizadores y el adecuado
+cumplimiento de la programación de desembolsos.
+Asimismo, se destaca la capacidad de adaptación mostrada por el OE frente a los
+distintos desafíos y contingencias que se presentaron durante la ejecución, la cual
+permitió que el programa se ejecute permaneciendo con un estatus de satisfactorio
+durante toda su ejecución. Entre los principales desafíos que enfrentó el OE se destacan:
+En la fase de preparación: (i) demoras en la definición de las actividades a financiar;
+(ii) demoras en alcanzar acuerdos entre instituciones y entre Direcciones Distritales del
+MTOP respecto de las actividades y estándares a utilizar. En la fase precontractual:
+(i) demoras en la obtención de avales y techos presupuestarios34. En la fase contractual:
+(i) demoras en entrega de productos predecesores; (ii) ampliaciones de contratos;
+(iii) demoras en los procesos de liquidación de los contratos debido a discrepancias entre
+los contratistas y el MTOP. Transversales: (i) cambios de autoridades y alta rotación del
+personal en las distintas unidades del OE. El detalle de estos temas se presenta a
+continuación en la sección de hallazgos y recomendaciones.
+ 3.3       Desempeño de la Ejecución del Programa
+Con la finalidad de tener una visión del desempeño de la ejecución del programa, se
+presenta un resumen del análisis del desempeño del cronograma y costo del programa
+(CTOA)35. En el análisis CTOA, los resultados del índice de desempeño del cronograma
+mostraron que el programa cumplió con los tiempos planificados para su ejecución y el
+índice de desempeño del costo, que se utilizaron menos recursos que los presupuestados
+inicialmente, esto se corrobora al mirar el uso de los recursos de Préstamo; mientras que
+en la planificación inicial preveía utilizar US$350 millones de dólares de Préstamo; el total
+utilizado del financiamiento del Préstamo EOP fue de US$336,6 millones. De los
+US$13,3 millones de dólares de financiamiento del Préstamo que no fueron utilizados,
+US$9,9 millones se desistieron del Préstamo, en acuerdo con el MTOP, para ser
+utilizados por el Banco en el programa de Emergencia para Respuesta Inmediata por el
+Terremoto en Ecuador (EC-L1218) bajo la Facilidad de Respuesta Inmediata y
+US$3,3 millones fueron cancelados al no haber sido utilizado hasta el final del programa.
+34   Situación relacionada con la modificación de los requisitos establecidos por parte del GdE a la ejecución
+     de los programas de inversión en el País, con la finalidad de mejorar el control de los recursos fiscales.
+35   Por sus siglas en inglés: CTOA Cost and Time Overruns Analysis o Análisis del Valor Ganado. De acuerdo
+     a la metodología de evaluación de desempeño de Proyectos, planteada por el BID, se puede incluir, una
+     evaluación CTOA, empleando la metodología del Valor Ganado, que muestra los índices de desempeño
+     en costos y de desempeño en cronograma.
+                                                        37
+"
+"                                                                      IV. HALLAZGOS Y RECOMENDACIONES
+                                                                             Tabla 5. Hallazgos y Recomendaciones
+                                              Hallazgos                                                                                   Recomendaciones
+Dimensión 1: Lógica Vertical del programa
+1. Elevada modificación de actividades durante la ejecución del programa                              1. Se sugiere que en futuros programas el MTOP realice una revisión de la planificación
+                                                                                                         estratégica de su organización, con la finalidad de evaluar y validar el uso adecuado de
+   Durante la ejecución del programa, se modificó el 81% de las actividades planificadas                 sus recursos, cronogramas y priorizaciones de sus proyectos de inversión alineados
+   originalmente. Existieron cuatro (4) Reasignaciones de Categorías de Inversión; se incluyeron         con las estrategias nacionales
+   cuarenta (40) actividades nuevas; y se cancelaron cuarenta y nueve (49) actividades. Si bien los
+   cambios de actividades no modificaron la lógica vertical del programa y las actividades más
+   representativas se mantuvieron, el porcentaje de actividades modificadas muestra una debilidad
+   en la planificación estratégica del MTOP. La planificación del programa tuvo que ajustarse a las
+   modificaciones del MTOP debido a los cambios de agenda de la Organización
+2. La medición de resultados no se realizó con la frecuencia y la metodología sugerida en el MOP      2. Para la gestión de la información de las intervenciones realizadas por el MTOP; se
+                                                                                                         sugiere, como lección aprendida del Banco para futuros proyectos con este ejecutor,
+   Esta situación afectó la consistencia de dos (2) indicadores. Adicionalmente, se identificó una       revisar los procesos de levantamiento y generación de información estadística para la
+   debilidad en la generación de información estadística y gerencial relacionada con las once (11)       toma de decisiones en los siguientes aspectos: (i) determinación de objetivos de
+   intervenciones de obras realizadas por el MTOP. El Banco también tuvo su responsabilidad al no        medición de las intervenciones; (ii) identificación de métricas y metodologías de
+   exigir el cumplimiento estricto del ROP                                                               medición para la toma de decisiones; (iii) responsables de la generación y manejo de la
+                                                                                                         información; y (iv) generación de reportes gerenciales de información
+Dimensión 2: Ejecución y Presupuesto
+3. Procesos cancelados debido a reprogramaciones y reasignaciones de recursos                         3. Se sugiere que para futuras operaciones del Banco con este ejecutor, debido a sus
+                                                                                                         debilidades en planificación, se realice en el diseño o desde la planificación inicial, una
+   Durante la ejecución del programa se cancelaron cuarenta y cinco (45) procesos de contratación        priorización consensuada y efectiva de sus proyectos
+   registrados en el Sistema de Ejecución de Planes de Adquisiciones (SEPA). Como se mencionó,
+   la cantidad de actividades canceladas apunta a una debilidad en la planificación estratégica de la
+   Organización, más que a un problema de diseño
+                                                                                                  38
+"
+"                                               Hallazgos                                                                                      Recomendaciones
+4. Terminaciones unilaterales de contratos                                                               4. La responsabilidad plena de resolver y cerrar estos contratos es del ejecutor. En este
+                                                                                                            sentido se sugiere para futuros proyectos establecer criterios y requisitos, adecuados y
+   Durante la ejecución del programa se dieron por terminados unilateralmente cuatro (4) contratos,         razonados en los pliegos según la naturaleza y complejidad de las obras; de igual
+   de los cuales dos (2) de ellos el trámite de terminación unilateral no ha concluido                      manera; para la selección y contratación de la empresa que se encargará de la
+                                                                                                            fiscalización, en ambos casos con integración en las Comisiones Técnicas de
+                                                                                                            Evaluación de profesionales con perfiles adecuados y por último, la designación de un
+                                                                                                            profesional competente que funja como administrador de contrato
+5. Procesos cancelados por falta de priorización y/o actualización de los proyectos de Inversión         5. Para el primer factor identificado, la sugerencia pasa por establecer mecanismos de
+                                                                                                            comunicación interinstitucional a fin de dar seguimiento y propuestas de mejora en los
+   Durante la ejecución del programa se cancelaron siete (7) procesos por la imposibilidad de               procedimientos de obtención de avales y sus tiempos de duración. Estos problemas
+   obtener el aval y certificación presupuestaria, debido a la falta de prioridad o actualización de los    son entre las entidades ejecutoras y entidades normativas del gasto del país. El manual
+   proyectos de inversión en SENPLADES. La imposibilidad de obtener avales y certificaciones                operativo para futuras operaciones podría ser un instrumento para regular este tipo de
+   plurianuales está relacionada con dos factores: (i) las demoras asociadas a los procedimientos           situaciones. También en los contratos de préstamo futuros debería preverse durante las
+   establecidos; y (ii) a la generación de propuestas de contrataciones. El primer factor es externo; y     negociaciones de estos como remediarlos.
+   el segundo factor se encuentra asociado a una debilidad en la planificación, debido a que se          6. Además, para ambos factores, se sugiere al ejecutor revisar los procedimientos para
+   plantearon procesos de contratación que no estuvieron respaldados con proyectos de inversión             definir la cartera de proyectos, tanto a nivel interno trabajando con sus organizaciones
+   debidamente priorizados y/o actualizados                                                                 subregionales (operativas y desconcentradas) del MTOP que los proponen como a
+                                                                                                            nivel externo, con las entidades del Gobierno que definen la planificación, con una
+                                                                                                            adecuada socialización de los requisitos y procesos para las contrataciones de
+                                                                                                            inversión
+6. Procesos de cierre de las contrataciones demorados                                                    7. La ejecución de las contrataciones termina cuando se cierra el proceso. Se
+                                                                                                            recomienda al Ejecutor hacer esfuerzos para llegar al cierre definitivo de las
+   A pesar de que se obtuvieron actas de recepción provisional de los proyectos, del total de               contrataciones de acuerdo a lo que se encuentra normado la ley nacional, en el capítulo
+   actividades contratadas durante la ejecución del programa, el 43% no ha concluido el proceso de          VI de las recepciones y liquidación del Reglamento de la LOSNCP.
+   cierre definitivo de las mismas, es decir no ha liquidado sus contratos ni cuenta con el acta
+   entrega recepción definitiva. En el componente 2, que concentra el 55% de los recursos del            8. Para futuros préstamos con el ejecutor, se sugiere una revisión y mejora de los
+   préstamo, no se han cerrado el 71,4% de los contratos financiados por el programa, en donde los          procesos de cierre de las contrataciones del MTOP
+   aspectos que están tardando la firma de las actas entrega recepción definitivas, pasan por la
+   capacidad operativa del MTOP
+7. Otras causas de Retrasos en las adquisiciones                                                         9. La Coordinación y comunicación del MTOP con sus instancias internas, incluida la falta
+                                                                                                            de planificación estratégica son aspectos que se recomienda al MTOP corregir. De ser
+   Debilidades en los procesos de planificación de la selección y programación de actividades;              el caso, esto debe estar contemplado en futuras operaciones con este ejecutor. Es
+   demoras en la entrega de productos predecesores; demoras en alcanzar acuerdos con                        importante que se revisen los protocolos de comunicación con las Direcciones
+   Direcciones Distritales del MTOP respecto de las actividades y estándares de los contratos               Distritales y en general con el resto de los interesados
+                                                                                                      39
+"
+"                                                Hallazgos                                                                                      Recomendaciones
+Dimensión 3: Experiencia con la gestión del programa
+8. Manejo del MOP                                                                                          10. Se sugiere que en futuros proyectos se realicen revisiones periódicas del MOP,
+                                                                                                               instrumento de ejecución del proyecto, cuando sea oportuno y procedente, para
+    Durante la ejecución NO se observaron varios aspectos establecidos en el MOP, el cual no fue               proponer mejoras que agilicen procesos y reflejen las realidades cambiantes de los
+    revisado y actualizado conforme a las necesidades de la ejecución36                                        proyectos y se exija su cumplimiento del MOP al ejecutor
+9. Debilidad en el manejo de los expedientes de contrataciones (documentación y archivo)                   11. En cuanto a los temas de manejo de información y archivo, debido a la deficiencia de
+                                                                                                               los expedientes existentes, es prioritaria una revisión de los procedimientos de manejo
+    Se constató que el manejo de los expedientes de las contrataciones no es adecuado, pues no                 de expedientes de contratación y pagos, así como la implementación de un checklist de
+    contienen toda la información relevante establecida en Art. 13 del Reglamento de la LOSNCP, de             la documentación existente en cada expediente conforme a lo establecido en la
+    acuerdo a lo dispuesto en el Art. 31 del mismo reglamento, lo que dificulta el acceso a la                 LOSNCP y su reglamento. De forma que se facilite el acceso completo y transparente
+    información para su revisión                                                                               a toda la información relacionado con las contrataciones del MTOP
+10. Reconocimiento de gastos y procesos de adquisiciones sustancialmente análogos a los del                12. Para el caso de Ecuador, se sugiere analizar la pertinencia de reconocer
+     Banco de una Licitación Pública Internacional                                                             retroactivamente un proceso internacional iniciado con políticas locales en obras, y
+                                                                                                               proponerlas como una alternativa a analizar al arrancar nuevos préstamos con Ecuador
+     Para el proyecto puente segmental sobre el río Babahoyo, después de la evaluación se identificó
+     que, con la política de compras públicas del país, se pudo consolidar un proceso internacional
+     con principios de Economía, Eficiencia, Transparencia, y Debido Proceso
+          36  En la evaluación se identificó que durante la ejecución de la operación NO se observaron los siguientes aspectos establecidos en el MOP: (i) seleccionar contrataciones que no se
+              encuentren en proyectos priorizados por SENPLADES o en el PAI respectivo; (ii) ejecutar contrataciones de CMS en tramos menores a 100 km; (iii) ejecutar contrataciones de CMS
+              distintas a las detalladas en el MOP; (iv) mantener el Sistema de Clasificación de Archivos SICLAIR y archivos del programa con todos los insumos generados tanto de la administración
+              del programa como de las diferentes direcciones del MTOP, en copia física o magnética; (v) realizar una evaluación periódica de la capacidad institucional del MTOP; (vi) aplicar los
+              medios de verificación, frecuencia, metodología en el monitoreo de los indicadores de resultados; (vii) realizar reportes de mediciones y evaluaciones junto a los ISP; (viii) realizar una
+              evaluación intermedia del programa; y (ix) realizar modificaciones al MOP cuando se considere oportuno.
+                                                                                                   40
+"
+"                              V. REFERENCIAS
+• Hicks, R. G., S. B. Seeds y D. G. Peshkin, 1999. Selecting a Preventive
+  Maintenance Treatment for Flexible Pavements, Journal of the Transportation
+  Research Board, 1860.
+• Farahani, A. M. 2016. Do State Governments Defer Highway Maintenance
+  Expenditures? Chicago, IL: University of Illinois at Urbana-Champaign. Economics
+  Faculty.
+• Gagliardi, D. y R. Suárez. 2017. Gestión de Activos Viales en el Ecuador. Producto
+  de consultoría interno para el BID. Washington, D. C.: BID.
+• Pereyra y Pérez. 2018. Contratación de los Contratos por Niveles de Servicio.
+  Producto de consultoría interno para el BID. Washington. D. C.: BID.
+• Pérez, Pereyra. Sanroman, 2018. Contratos por niveles de servicio. mayor
+  asignación presupuestal o mayor eficiencia. Producto de consultoría interno para
+  el BID. Washington. D. C.: BID.
+                                      41
+"
+"                           ANEXO I: RESUMEN PCR CHECKLIST INVESTMENT
+                                                      Project Completion Report
+                                        Programa de Infraestructura Vial EC-L1065 (2201/OC-EC)
+                                                     Development Effectiveness
+                                                               Summary
+I. Development Effectiveness - Core Criteria
+                             Recommended overall rating:                                            Successful
+                                                                                                                Weight
+1. Relevance                                                                      4.00                           20%
+2. Effectiveness                                                                  3.00                           40%
+      % of outcomes that were achieved                                           97.4%
+3. Efficiency                                                                     3.00                           20%
+4. Sustainability                                                                 3.00                           20%
+II. Development Effectiveness - Non core Criteria
+Bank's Performance                                                                           Satisfactory
+Borrower's Performance                                                                  Moderately Satisfactory
+                                                                 42
+"

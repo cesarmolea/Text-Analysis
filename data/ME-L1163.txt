@@ -1,0 +1,1609 @@
+"outlist[[i]]"
+"                       INFORMACIÓN BÁSICA DEL PROYECTO
+NÚMERO DE PROYECTO: ME-L1163
+TÍTULO: SEXTO PROGRAMA Global de Crédito para el Desarrollo de Mercados Hipotecarios
+INSTRUMENTO DE PRÉSTAMO: Préstamo de Inversión
+PAÍS: México
+PRESTATARIO: Sociedad Hipotecaria Federal (SHF)
+PRÉSTAMO (S): 3597/OC-ME
+SECTOR / SUBSECTOR: Environment and Natural Disasters / Climate Change Financing
+FECHA DE APROBACIÓN POR EL DIRECTORIO: 30 noviembre de 2015
+FECHA DE EFECTIVIDAD DEL CONTRATO DE PRÉSTAMO: 28 abril de 2017
+FECHA DE ELEGIBILIDAD PARA EL PRIMER DESEMBOLSO: 14 junio de 2017
+MONTO (S) DEL PRÉSTAMO
+CANTIDAD ORIGINAL: US$100.000.000,00
+CANTIDAD ACTUAL: US$30.000.000,00
+PARI PASSU: US$0.00
+COSTO TOTAL DEL PROYECTO: $30.000.000,00
+MESES EN EJECUCIÓN
+DE APROBACIÓN: 37
+DE LA EFECTIVIDAD DEL CONTRATO: 19
+PERIODOS DE DESEMBOLSOS
+FECHA ORIGINAL DEL DESEMBOLSO FINAL: 28 abril de 2019
+FECHA ACTUAL DEL DESEMBOLSO FINAL: 22 diciembre de 2018
+EXTENSIÓN ACUMULATIVA (MESES): 0
+EXTENSIONES ESPECIALES (MESES): 0
+DESEMBOLSOS
+CANTIDAD TOTAL DE DESEMBOLSOS HASTA LA FECHA: $30.000.000,00
+GRÁFICO DE DESEMBOLSOS
+REDIRECCIONAMIENTO. ¿TIENE ESTE PROYECTO?
+FONDOS RECIBIDOS DE OTRO PROYECTO [ NO]
+FONDOS ENVIADOS A OTRO PROYECTO [ NO]
+Calificaciones del desempeño del proyecto en los PMR:
+                                                                         Desembolsos
+   No.          PMR Fecha           Etapa de PMR                        reales (millones
+                                                                            de USD)
+   1       19 de octubre de 2017     Desembolso       SATISFACTORIO          30,00
+                                             iv
+"
+"METODOLOGÍA DE ANÁLISIS ECONÓMICO EX POST: ANÁLISIS COSTO EFECTIVIDAD
+METODOLOGÍA DE EVALUACIÓN EX POST: ANÁLISIS COSTO EFECTIVIDAD
+CLASIFICACIÓN DE EFECTIVIDAD DE DESARROLLO: [SATISFACTORIO]
+PERSONAL DEL BANCO
+           POSICIONES                          EN PCR                  EN LA APROBACIÓN
+ VICEPRESIDENTE VPS                  ANA MARÍA RODRÍGUEZ           SANTIAGO LEVY
+ VICEPRESIDENTE VPC                  ALEXANDRE MEIRA DA ROSA       ALEXANDRE MEIRA DA ROSA
+ GERENTE DE PAÍS                     VERÓNICA ZAVALA               GINA MONTIEL
+ GERENTE SECTORIAL                   MOISES SCHWARTZ               ANA MARÍA RODRÍGUEZ
+ JEFE DE DIVISIÓN                    JUAN ANTONIO KETTERER         JUAN ANTONIO KETTERER
+ REPRESENTANTE DE PAÍS               TOMÁS BERMUDEZ                MERCEDES ARAOZ
+ JEFE DE EQUIPO DEL PROYECTO         LETICIA RIQUELME              LETICIA RIQUELME
+ JEFE DE EQUIPO DEL PCR              LETICIA RIQUELME              LETICIA RIQUELME
+Tiempo y costo (directo) del personal
+                                                                 USD (incluidos los gastos
+  Ciclo de proyecto de etapa       # de semanas de personal
+                                                                     de viaje y asesoría)
+ Preparación                                    19                                 241.383,61
+ Supervisión                                    50                                    201.260
+ Total                                          69                                 442.643,61
+DECLARACIÓN DE LOS OBJETIVOS DE DESARROLLO DEL PROYECTO / PROGRAMA:
+El objetivo del programa es contribuir al desarrollo de un mercado para financiar vivienda
+sustentable en renta, preferentemente para el nivel de ingresos medio. El financiamiento sería
+bajo un esquema de “project finance”, en donde la Sociedad Hipotecaria Federal (SHF) estaría
+otorgando directamente o a través de Intermediarios Financieros (IF) un préstamo, que sería
+repagado con el flujo futuro de las rentas del proyecto.
+El programa se va a evaluar de acuerdo a un solo objetivo específico de (i) financiar proyectos
+de vivienda sustentable para la renta en los términos acordados y estipulados en el Reglamento
+Operativo del Programa (ROP), para el nivel de ingresos medio.
+                                                 v
+"
+"  I.    INTRODUCCIÓN
+  Este Informe de Terminación de Proyecto (PCR por sus siglas en inglés) corresponde
+  exclusivamente a la sexta operación que el BID ha instrumentado al amparo de la
+  Línea de Crédito Condicional para Proyectos de Inversión (CCLIP) para el Desarrollo
+  de Mercados Hipotecarios Eficientes e Inclusivos en México (ME-X1006) 1, aprobada
+  el 25 de noviembre de 2008, por US$2.500 millones 2, para apoyar al Gobierno de
+  México en el desarrollo y fortalecimiento del mercado de financiamiento de vivienda
+  para los sectores no atendidos por los Intermediarios Financieros (IF) bancarios. Los
+  primeros tres programas (2067/OC-ME, 2173/OC-ME, y 2345/OC-ME), se destinaron
+  a financiar al sector primario y secundario de hipotecas para vivienda social y mejorar
+  su estructura de balance 3. El cuarto programa (2760/OC-ME) se diseñó para
+  contribuir a la reducción del rezago habitacional mediante el financiamiento de la
+  construcción de vivienda social; y el quinto (2896/OC-ME) para financiar la producción
+  de vivienda social sostenible 4. Cada una de estas operaciones tuvo su propio PCR.
+  Este sexto programa fue concebido a efecto de apoyar el desarrollo de un mercado
+  para financiar la vivienda en renta sustentable para ingresos medios,
+  complementando a las operaciones anteriores con el desarrollo de un producto
+  innovador que favorezca la contención urbana, la diversificación de la oferta de
+  vivienda y el seguimiento a la implementación de prácticas medio ambientales en el
+  sector.
+  Aspectos macroeconómicos. México se ha caracterizado por ser una de las
+  economías emergentes con mayor estabilidad macroeconómica durante los últimos
+  años. La inflación ha sido de un solo dígito desde el año 2000 y el país ha tenido un
+  crecimiento económico promedio cercano a 2,5% anual en los últimos diez años, lo
+  cual ha favorecido el desarrollo del mercado hipotecario en el país. No obstante, es
+  de destacar que en el periodo comprendido de 2012 a 2018, el Producto Interno Bruto
+  (PIB) creció en promedio 2,6% anual, y en 2% en 2018 5, en tanto que el IPC 6 creció
+  en promedio 4,1% 7 y el IGPP 8 para el sector de la construcción en 5,1% en promedio
+  para el mismo periodo 9. El índice de precios de vivienda de la Sociedad Hipotecaria
+  Federal (SHF), que se publicó hasta finales de 2016, creció 5,19% en promedio de
+  2012 a 2016. Asimismo, por el entorno de la economía internacional desfavorable y
+  el incremento de la tasa de interés de la Reserva Federal Americana (FED), las tasas
+  de interés de fondeo bancario 10 en México registraron importantes fluctuaciones
+  pasando de 3,51% el 3 de junio de 2014 a 7,02% el 1 de julio de 2017 y a 7,77% el
+  2 de julio de 2018, para concluir el año de 2018 en 8,3%. Estas fluctuaciones y
+  subidas de tipos tuvieron influencia en la solicitud de recursos del programa
+  desincentivando el uso de la fuente de fondeo de recursos del Banco, y el monto por
+1    El objetivo de la CCLIP es promover el desarrollo de mercados hipotecarios eficientes e inclusivos
+     apoyando a la SHF con instrumentos que le permitan dotar de liquidez y estabilidad a los mercados
+     hipotecarios.
+2    La CCLIP cuenta con un plazo de utilización de 10 años.
+3    US$500 millones cada uno, totalmente desembolsados.
+4    2760/OC-ME por US$200 millones y la 2896/OC-ME por US$50 millones. Totalmente desembolsadas.
+5    Fuente: https://www.inegi.org.mx/programas/pib/2013/default.html#Tabulados.
+6    Índice de Precios al Consumidor.
+7    Fuente: https://www.inegi.org.mx/temas/inpc/default.html#Informacion_general.
+8    Índice General de Precios al Productor.
+9    Fuente:
+     https://www.inegi.org.mx/app/indicadores/?tm=0&t=100005000020#D100005000020#divFV364445.
+10   Fuente: http://www.banxico.org.mx/apps/gc/tasa-objetivo-tasas-fondeo-gr.html.
+                                                  6
+"
+" el que se establece el programa en la elegibilidad. Por lo que respecta al crecimiento
+ promedio del PIB de la construcción 11, en el periodo 2012-2018, fue de 0,4% a precios
+ de 2013, destacando que en 2018 el crecimiento fue negativo en 2%, ritmo de
+ crecimiento inferior al del total de la actividad de económica del país.
+ Problemática
+ El mercado hipotecario y la vivienda. Un problema principal que se planteó en la
+ Propuesta para el Desarrollo de la Operación (POD por sus siglas en ingles) en el
+ momento del diseño de la operación fue la significada debilidad del mercado
+ hipotecario en México a principios de 2000 para hacer frente a la creciente demanda.
+ De esta forma, se planteó instrumentar un primer programa destinado a la vivienda
+ institucional sustentable en renta para familias de ingresos medio. La crisis de
+ 1994 había diluido la originación de hipotecas por parte de la banca comercial,
+ mientras que el Fondo Nacional de la Vivienda para los Trabajadores (INFONAVIT),
+ principal fuente de financiamiento de las familias aún tenía muy poca actividad, tan
+ solo otorgaba 185.000 créditos al año 12. Había un mercado desatendido y un rezago
+ habitacional considerable 13. A partir de esta necesidad, la política pública establecida
+ por el Gobierno de México entre 2001 y 2012, buscaba atender este rezago,
+ proponiendo que todo mexicano tuviera acceso a una vivienda, a través del
+ financiamiento.
+ Otras características del mercado de la vivienda eran las tendencias demográficas
+ crecientes y el sesgo de la demanda de vivienda y de crédito para la inversión a favor
+ de la vivienda nueva, lo que generó un importante desafío en términos de desarrollo
+ urbano y un mayor crecimiento y dispersión urbana hacia la periferia con usos
+ predominantemente habitacionales. Como consecuencia de las tendencias
+ demográficas, de las demandas de vivienda y crédito hipotecario descritas, se
+ esperaba que las principales ciudades y metrópolis de México enfrentasen un
+ aumento y concentración de la población urbana, que aún continua, y que pasarán de
+ 80,4 millones en 2010 a 103,3 millones en 2030. Esto implicaba planear y gestionar
+ ciudades con la capacidad de asentar de manera segura, sustentable y eficiente a la
+ población, a través de la oferta diversa de soluciones de vivienda. Para poder atender
+ esta demanda, se necesitaba contar con mecanismos de financiamiento adecuados,
+ ya que los montos a invertir para cubrir la brecha del rezago habitacional son de tal
+ magnitud que se requería la participación tanto del sector público, como del sector
+ privado.
+11  Fuente:
+    https://www.inegi.org.mx/app/indicadores/?tm=0&t=100005000020#D100005000020#divFV493955.
+12  Al 31 de diciembre de 2018, el INFONAVIT registró en sus estados financieros 5,164,156 créditos
+    administrados. En el periodo 2012-2016, INFONAVIT otorgó en promedio anual 580 mil créditos. En
+    2018 otorgó 544.5 mil créditos. Fuente: https://portalmx.infonavit.org.mx/wps/portal/infonavit.web/el-
+    instituto/el-infonavit/informes-director-general.
+13  Actualmente cerca de 35 millones de personas residen en viviendas con algún tipo de rezago. El
+    rezago habitacional ampliado se define como la suma de tres tipos de rezago: hacinamiento (vivienda
+    habitada por dos o más hogares), viviendas construidas con materiales deteriorados (en
+    paredes: material de desecho, lámina de cartón, carrizo, bambú, palma, embarro o bajareque; en
+    techos: material de desecho, lámina de cartón, palma o paja) y viviendas con materiales regulares (en
+    paredes: lámina metálica o de asbesto, madera o adobe; en techos: lámina metálica o de asbesto,
+    madera, tejamanil o teja). Según estadísticas de SHF el rezago habitacional como porcentaje del
+    parque habitacional habitado, muestra un descenso casi constante desde el 2000 hasta 2014 de (-)
+    13.8 %, y en número de viviendas se redujo en más de 700 mil en este periodo, es decir, el RH se
+    comprimió tanto en términos relativos como absolutos.
+                                                      7
+"
+" Es de destacar que, en enero de 2015, el Gobierno de México dio a conocer la nueva
+ política de vivienda que comprende una serie de medidas para facilitar el acceso al
+ crédito e incentivos fiscales para la industria 14. Considerando estas medidas, este
+ programa se dirigió a apoyar a las familias de ingresos medios como un primer
+ esfuerzo para poner a su disposición vivienda en renta institucional sustentable en
+ edificios verticales para contribuir al desarrollo de este mercado.
+ Contribuciones de la vivienda al total de emisiones Gases de Efecto Invernadero
+ (GEI) y uso de agua. Un segundo problema, identificado en el diseño de la operación
+ fue la fuerte contribución del sector de la construcción a la huella de carbono del país.
+ Así, durante la elaboración del POD se sustentó que el sector de la vivienda es
+ responsable por el 16% 15 del uso total de energía en el país, generando a su vez el
+ 4,9% de las emisiones de CO2 del país 16. Con respecto al agua, el abastecimiento
+ público representaba el 14,1% del volumen total de agua distribuida a hogares en el
+ 2009 17, mientras que la generación de residuos en grandes ciudades ascendía a
+ 1 kg diario por persona 18. Estas cifras que parecieran pequeñas tienden a
+ incrementarse, ya que el sector de la vivienda también genera emisiones de manera
+ indirecta a través otros sectores; construcción, (incluyendo cemento y acero),
+ transporte y saneamiento. Además de lo anterior, teniendo en cuenta la tasa de
+ crecimiento demográfico, se estimó durante el diseño de la operación que México aún
+ necesitaría construir alrededor de 600.000 viviendas nuevas al año durante la próxima
+ década, las cuales estarían contribuyendo con unas 25 MtCO2 de GEI a la huella de
+ carbono del país en ese mismo período 19.
+ Mercado de la vivienda en renta. Una tercera característica era el crecimiento de la
+ demanda de vivienda en renta en México. Al realizar el POD de este programa se
+ detectó que existía una proporción considerable de la población alquilando. De
+ acuerdo con el censo del 2010, 14,1% de las viviendas a nivel nacional eran de
+ arrendamiento. Este porcentaje no solo creció casi un punto porcentual en la última
+ década, sino que representó en términos absolutos 4,8 millones de unidades al 2012.
+ Según la Encuesta Nacional de Gasto en los Hogares (ENIGH), el 18,4% de los
+ hogares urbanos alquilaba su residencia en el 2010, una proporción menor que el
+ promedio de América Latina (21,2%) pero que ha aumentado más de dos puntos
+14 Divididas en cuatro rubros: (i) medidas para facilitar la compra o pagar menos buscando reducir costos
+   por comisiones de créditos y gastos de titulación de hipotecas a familias con ingresos menores a
+   2.6 VSM, apoyar con subsidios y menores tasas de interés la vivienda vertical, incluir en la hipoteca la
+   adquisición de electrodomésticos de alta eficiencia y que los créditos del INFONAVIT solo serán en
+   pesos; (ii) mayor acceso para los hogares a una vivienda digna, que considera el financiamiento para
+   vivienda a través del INFONAVIT, el Fondo de Vivienda del Instituto de Seguridad y Servicios Sociales
+   de los Trabajadores del Estado (FOVISSSTE) y la Comisión Nacional de Vivienda (CONAVI) para las
+   familias se integren a la formalidad; (iii) apoyo a sectores de la población que necesitan soluciones
+   especiales de vivienda a través de la banca de desarrollo y en los estados de Chiapas, Guerrero,
+   Oaxaca y Michoacán; y (iv) apoyo a la industria de la vivienda con estímulos fiscales y con la
+   instrumentación de un mecanismo de coordinación entre la Secretaria de Desarrollo Territorial y
+   Urbano (SEDATU), CONAVI, los Organismos Nacionales de Vivienda y los gobiernos locales para
+   impulsar el desarrollo urbano de vivienda ordenado, con viviendas que cuenten con la infraestructura
+   y servicios necesarios, y concretar desarrollos certificados.
+15 Balance Nacional de Energía (2008).
+16 Estrategia Nacional para la Vivienda Sustentable (2013).
+17 Comisión Nacional del Agua (CONAGUA) (2011) Estadísticas del Agua en México, edición 2011,
+   Capítulo 3 Usos del Agua.
+18 Manual de gestión integral de residuos sólidos. Embajada Británica y Secretaría de Desarrollo
+   Sustentable.
+19 Acción Nacional Apropiada de Mitigación (NAMA) de vivienda sustentable.
+                                                    8
+"
+" porcentuales desde 1992 20. Esta cifra es importante; sin embargo, la oferta de
+ vivienda en renta en el país no es institucional, presentando altos niveles de
+ informalidad al ser manejada por particulares. A pesar de esto, se encontró que existía
+ una demanda potencial de unas 150 mil viviendas de alquiler anualmente y de seguir
+ estas proporciones de tenencia y crecimiento poblacional, se estimó que, para los
+ próximos diez años, se necesitaba construir más del 30% del parque de viviendas que
+ existe actualmente para alquiler y una necesidad latente de institucionalizar el
+ mercado. Es en este contexto, este programa era la primera iniciativa que se
+ instrumentaba a través de SHF para contribuir al desarrollo de un mercado de
+ inversionistas institucionales para financiar vivienda en renta, enfocado a familias de
+ ingresos medio. (ver: Análisis de la Oferta y la Demanda).
+ Durante la elaboración del POD se encontró que la vivienda en alquiler enfrenta a
+ diversos retos descritos a continuación:
+     Informalidad del sector. No existía un mercado formal. La oferta estaba siendo
+     atendida por propietarios individuales que compran una o dos viviendas adicionales
+     y las ponen en alquiler, con el objetivo de suplementar sus ingresos. Estos
+     contratos informales se caracterizan por no pagar impuestos, siendo que menos
+     del 5% de los contratos de alquiler quedan registrados ante la Secretaría de
+     Hacienda y Crédito Público (SHCP) 21. Lo anterior implica una carencia de
+     profesionales en administración de vivienda en renta 22 y una falta de información
+     de la oferta, los arrendatarios no suscriben contratos con sus inquilinos o lo hacen
+     con contratos sin contenido vinculante. Esto impide tener conocimiento preciso de
+     las características de la vivienda, así como de la operación y de su comportamiento
+     real, e impide identificar claramente el nivel de riesgo que existe en el sector.
+     Restricciones para financiar proyectos de largo plazo o bajo esquema de
+     project finance, como la vivienda en renta. El sistema financiero de México era
+     relativamente poco profundo y pequeño, en relación con la economía (Fondo
+     Monetario Internacional (FMI), 2012), caracterizándose por un grado de
+     concentración elevado tanto en la oferta como en la demanda de financiamiento 23.
+     La Intermediación Financiera Privada (IFP 24) era liderada por entidades de la
+     banca privada (49%), y posteriormente por fondos de pensiones (15%), sociedades
+     de inversión (12%), banca pública (10%), casas de bolsa (5%), compañías de
+     seguros (6%), y entidades no reguladas (3%). El financiamiento total al sector
+     privado no financiero 25 ascendía tan solo al 29% del PIB 26. Esta cifra se encontraba
+     muy por debajo de otros países de la región: Chile 105,9%, Brasil 70,7%, Colombia
+20 “Alquiler en Números” Publicación BID 2014.
+21 Blanco et al. (2014).
+22 Actualmente los dueños de las viviendas son quienes las administran, sin contar con procesos y
+   lineamientos con mejores prácticas, situación por la cual actualmente no existe una demanda de
+   profesionales.
+23 Durante junio 2013 a junio 2014, la banca comercial otorgó financiamiento a más de 85 mil empresas
+   que no habían recibido crédito en los últimos cinco años. Sin embargo, esto solo representa el
+   26,9% de las empresas que contaban con un crédito.
+24 Conjunto de instituciones que canalizan el ahorro financiero de la economía hacia la demanda de
+   financiamiento.
+25 Eliminando el financiamiento de vivienda que hace INFONAVIT y FOVISSSTE.
+26 Siendo el 30% de esta cifra, créditos y emisiones de deuda en el extranjero. Reporte sobre el Sistema
+   Financiero - Banxico octubre 2014. Cifras a junio de 2014.
+                                                  9
+"
+"     50,2%, y Bolivia 47% 27. El problema se agudizaba en el financiamiento de largo
+     plazo, ya que se observó que el 60% de los créditos otorgados por la banca son
+     menores a un año (Comisión Nacional Bancaria y de Valores (CNBV)). Esto se
+     debió a que los bancos, financiaban estos créditos fundamentalmente con
+     depósitos a la vista, que son considerados altamente volátiles e insuficientes para
+     cubrir la demanda existente 28. Además, a partir de la crisis financiera de 2008, los
+     bancos han sido más cautelosos en sus modelos de negocio, y se han tenido que
+     ajustar a nuevos requerimientos de capital, requisitos de liquidez y solvencia. En
+     particular, Basilea III 29 ha incrementado el costo para financiar proyectos de largo
+     plazo y aquellos financiados bajo esquemas de “project finance” 30.
+     Poca especialización de los desarrolladores de vivienda e inversionistas en
+     el mercado de renta. Derivado del análisis del censo económico de 2014 destaca
+     que existían 2.944 unidades económicas que se dedicaban a la edificación de
+     vivienda, de los cuáles solamente el 15% se dedicaban exclusivamente a la
+     edificación de vivienda multifamiliar. Muchos de los desarrolladores de vivienda se
+     habían especializado en la construcción de vivienda social y participaban
+     básicamente en el mercado de venta, claramente por el enfoque que ha existido
+     en favorecer este mercado a través de subsidios y del financiamiento de los
+     Organismos Nacionales de Vivienda (ONAVIS) 31.
+     Baja aplicación de elementos sustentables en la vivienda de ingresos medios
+     y altos. Los esfuerzos para reducir la emisión de GEI en su mayoría han estado
+     dirigidos a la vivienda social, con lo cual se ha atendido a una gran parte del
+     mercado. Se observó que los segmentos de vivienda para la población de ingresos
+     medios y altos no habían sido considerados en la implementación obligatoria de
+     medidas de sustentabilidad, aun cuando estos sectores son los que más energía y
+     agua consumen.
+ Este sexto programa se instrumentó para apoyar al gobierno en sus primeros
+ esfuerzos por fomentar un mercado eficiente de vivienda en renta con un impacto
+ positivo en la economía, contribuyendo a incrementar la oferta de vivienda en renta
+ institucional preferentemente para el estrato de ingresos medios tener una oferta de
+ vivienda más diversificada. Es de destacar que los edificios financiados por el
+ programa fueron de los primeros proyectos residenciales que cuentan con
+ lineamientos de construcción sustentable y que son destinados para el alquiler. El
+ producto de SHF fue el primero que ofrecía un préstamo de largo plazo utilizando
+ metodologías de “project finance” para proyectos de vivienda en renta.
+27  Ver página de Internet del Banco Mundial.
+28  El componente más dinámico de la captación bancaria tradicional es la captación bancaria a la vista.
+    La captación a plazo ha mostrado una menor aportación porque enfrenta la competencia de los fondos
+    de inversión, que han aumentado su importancia y superan ya al saldo de la captación a plazo. La tasa
+    de crecimiento de largo plazo de la captación total del 6,9% (promedio de mayo de 2003 a abril de
+    2013) no bastaría para fondear el crédito si éste sigue creciendo a tasas recientes (alrededor del
+    8% desde el 2010). Por tanto, la banca enfrenta el reto de aumentar la tasa de crecimiento de su
+    captación a un nivel similar o apalancar su balance (Situación Banca, Julio 2013, BBVA Research).
+29  Conjunto integral de reformas elaborado por el Comité de Supervisión Bancaria de Basilea para
+    fortalecer la regulación, supervisión, y gestión de riesgos del sector bancario.
+30  Ver: Group of Thirty (2013). Long-term Finance and Economic Growth.
+31  INFONAVIT y FOVISSSTE.
+                                                     10
+"
+"    II. CRITERIOS CENTRALES. RENDIMIENTO DEL PROYECTO
+2.1      Relevancia
+    a. Alineación con las necesidades de desarrollo del país
+    La relevancia se refiere a la coherencia de los objetivos del programa, respecto a las
+    necesidades del país, en el contexto y circunstancias imperantes durante el período
+    de ejecución del programa y al momento de esta evaluación.
+    El programa era y sigue siendo relevante ya que se enfoca en poner en la mesa la
+    instrumentación de un primer proyecto de vivienda en renta para familias de ingresos
+    medios a través de la SHF para otorgar una solución de largo plazo considerando el
+    rezago habitacional, la movilidad de las familias y el crecimiento desproporcionado de
+    la dispersión urbana que trae como consecuencia un aumento y concentración de la
+    población urbana en las principales ciudades del país. Con en esta primera iniciativa
+    de vivienda en renta se buscaba apoyar de manera segura, sustentable y eficiente las
+    medidas de política de vivienda del gobierno, a través de la oferta diversa de
+    soluciones de vivienda, con mecanismos de financiamiento adecuados y con la
+    participación tanto del sector público, como del sector privado.
+    Asimismo, el programa es relevante porque busca disminuir las contribuciones de la
+    vivienda al total de emisiones GEI. De igual forma busca disminuir el consumo de
+    agua y la generación de residuos en grandes ciudades. Como ya se mencionó el
+    sector de la vivienda también genera emisiones de manera indirecta a través otros
+    sectores; construcción, (incluyendo cemento y acero), transporte y saneamiento.
+    Además de lo anterior, teniendo en cuenta la tasa de crecimiento demográfico, se ha
+    estimado que México necesitará construir alrededor de 600.000 viviendas nuevas al
+    año durante la próxima década, las cuales estarán contribuyendo con unas
+    25 MtCO2 de GEI a la huella de carbono del país en ese mismo período.
+    Si bien este programa se formuló con un solo objetivo, éste considera alcanzar dos
+    objetivos específicos: (i) financiar proyectos de vivienda en renta en los términos
+    acordados y estipulados en el Reglamento Operativo del Programa (ROP)
+    preferentemente para el nivel de ingresos medio; y (ii) construir, edificar o remodelar
+    proyectos de vivienda sustentables, con los recursos del préstamo. Mas adelante se
+    muestra que los edificios construidos bajo el programa serán accesibles a esta
+    población.
+    Para lograr estos objetivos, SHF acordó con el Banco los términos, condiciones y
+    criterios de elegibilidad para el financiamiento con los recursos del préstamo para la
+    construcción, remodelación y adquisición de proyectos destinados a vivienda en
+    renta, así como el mecanismo de asignación de recursos y procedimientos de gestión
+    ambiental y social, para alcanzar los indicadores de impacto y de resultados
+    planteados.
+    En virtud del análisis de la situación de mercado realizado por SHF y las alzas de las
+    tasas de interés, el 17 de febrero de 2017, SHF solicitó al Banco la cancelación de
+    US$70 millones, celebrándose la formalización del préstamo por US$30 millones el
+    28 de abril de 2017. En esta etapa fue necesario redimensionar, de común acuerdo
+                                              11
+"
+" con SHF, las metas de los indicadores de resultados, de impacto y de producto. Esto
+ ocurrió en anticipación a la fecha de elegibilidad, y contra las metas ajustadas de
+ elegibilidad se compara el logro del proyecto. Es importante resaltar que, a pesar del
+ redimensionamiento del préstamo, se esperaba lograr el mismo efecto demostración
+ sobre el mercado financiero con el financiamiento de este nuevo mercado incipiente
+ de la vivienda en renta sustentable.
+ Además el programa sigue siendo relevante ya que se diseñó un producto que tiende
+ a formalizar e institucionalizar el mercado de vivienda en renta, con financiamiento de
+ largo plazo considerando los riesgos de mercado propios de este tipo de
+ financiamiento y que la banca comercial no tiene en su cartera de servicios
+ financieros; asimismo, los proyectos financiados, sin contar con recursos
+ concesionales, han utilizado los nuevos códigos mexicanos que promueven la
+ sustentabilidad en proyectos de vivienda tales como: (i) capítulo de sustentabilidad
+ del Código de Edificación de Vivienda vigente que incluye la selección e instalación
+ de equipos mecánicos energéticamente eficientes, servicios de sistema para
+ aprovechamiento de las energías renovables, iluminación eficiente y natural, ahorro y
+ tratamiento de agua, manejo de residuos, y áreas verdes en estas edificaciones y
+ estructuras; (ii) La “Guía Metodológica” del Instituto Nacional de Ecología (INE) sobre
+ los procedimientos de construcción e instalación de dispositivos ahorradores de
+ energía y agua; y (iii) los “Manuales Explicativos sobre las Hipotecas Verdes para los
+ Constructores de Vivienda” emitidos por el INFONAVIT. Esto ha permitido que el
+ Banco contribuya con miras al futuro, con un valor agregado muy importante en el
+ diseño, estructura e instrumentación del marco para el financiamiento y construcción
+ de edificios sustentables.
+ Por lo anterior, se concluye que la instrumentación del programa por conducto de la
+ SHF, fue una primera iniciativa de contribución para atender la demanda de vivienda
+ en renta de las familias de ingreso medio, y fue consistente y estuvo alineado con las
+ prioridades y estrategias reflejadas en el Plan Nacional de Desarrollo; así como en
+ los planes y programas operativos de la SEDATU, CONAVI y de SHF, al instrumentar
+ con SHF las soluciones de financiamiento para apoyar la construcción de edificios en
+ renta para nivel de ingresos medios y propiciar la institucionalización y formalización
+ de la vivienda en renta, para coadyuvar en la mitigación del rezago habitacional.
+ b. Alineación Estratégica
+ El proyecto se alinea con la Estrategia de País con México vigente 2013-2018
+ (GN<U+02D7>2749) 32 que tenía como uno de sus objetivos “incrementar el nivel de
+ financiamiento de la economía real” considerando dentro de este objetivo como área
+ prioritaria de acción el desarrollo de los mercados financieros, incluyendo aumentar
+ el financiamiento bancario al sector privado no financiero por parte de la Banca
+ Pública de Desarrollo (BPD). Asimismo, el Banco ha apoyado al país en el sector de
+ desarrollo urbano, contribuyendo al objetivo de la Estrategia de País 2013-2018 de
+ promover el crecimiento ordenado, seguro y sustentable de las ciudades.
+ El programa se encontraba dentro de las prioridades de financiamiento del Noveno
+ Aumento General de Recursos del Banco Interamericano de Desarrollo (GCI-9)
+ (AB-2764) de préstamos en apoyo de iniciativas sobre cambio climático, energía
+32  A la fecha de redacción de este informe, aun no se publica la nueva estrategia de país.
+                                                  12
+"
+"renovable y sostenibilidad del medio ambiente, a través de la promoción de prácticas
+sostenibles al apoyar la implementación de medidas de eficiencia en el uso de la
+energía en el sector vivienda. Asimismo, el programa consideraba su contribución a
+las metas regionales de: (i) instituciones para el crecimiento y el bienestar social, por
+medio del aumento del porcentaje de firmas que usan a los bancos para financiar las
+inversiones; y (ii) protección del medio ambiente, al contribuir a la disminución de
+emisiones de CO2; tal como se define en el marco de resultados del GCI-9.
+Actualmente, se alinea con la estrategia institucional bajo el reto de productividad en
+inclusión (por su apoyo a la clase media).
+c. Relevancia del diseño – Lógica vertical
+Para el diseño de esta sexta operación se revisó, en adición a la problemática del
+sector vivienda en general, la problemática que enfrentaba la SHF para estar en
+posibilidad de poner a disposición de la sociedad el primer programa de
+vivienda en renta sustentable para el nivel de ingresos medios, lo que implicó
+identificar y analizar las estricciones para financiar proyectos de largo plazo o bajo
+esquema de “project finance”, considerando las características del sistema financiero
+de México en cuanto a la concentración del credito tanto en la oferta como en la
+demanda por la intermediación fnanciera privada y al ajuste que las instituciones
+financieras (IFI) han tenido que hacer para la implementación de los nuevos
+requerimientos de capital y requisitos de liquidez y solvencia de Basilea III. Esto ha
+supuesto un incremento en el costo para financiar proyectos de largo plazo y un
+desincentivo para el financiamiento del sector hipotecario y aquellos financiados bajo
+esquemas de “project finance”.
+De igual manera como se discutió anteriormente, habia una demanda desatendida
+para vivienda de alquiler, estando sezgado el mercado para construcción y puesta en
+venta de los inmuebles en lugar de alquiler. En términos de movilidad residencial, se
+observó que el alquiler es la opción de preferencia para los grupos demográficos más
+dinámicos, como es el caso de jóvenes que pueden preferir una tenencia temporal.
+La vivienda en alquiler permite a estos hogares evitar los altos costos de transacción
+de comprar y vender una vivienda, que en América Latina pueden llegar a representar
+un 12% del valor total.
+Por ello, se diseñó el programa bajo una logica vertical de que había demanda
+desatendida de vivienda en alquiler y una pririzacion del gobierno que dicha vivienda
+fuese sustentable. El programa también venía a cubrir dicha oferta a través de la
+institucionalización de la vivienda en renta, ademas demostrando que seguiría siendo
+rentable a pesar de ser sustentable. Ademas, había escasez de financiamiento a largo
+plazo, y el programa venia a apoyar el suplimiento de dicho financiamiento. Siendo
+posible un esquema con repago de largo plazo y una recuperacion via alquiler
+alternativa a la venta.
+En ese sentido se acordó que para cumplir el objetivo del programa, este tendría en
+cuenta un producto que se refiere al número de créditos otorgados para la
+construcción de edificios multifamiliares para renta con recursos del programa, que
+contabiliza el número de créditos otorgados para proyectos de vivienda en renta
+financiados con recursos del programa cuya construcción haya sido puesta en
+marcha. Con esto la SHF empezaría a atender la demanda de las familias de ingresos
+medio para rentar viviendas sustentables construidas al amparo de un novedoso
+                                          13
+"
+"esquema de financiamiento diseñado específicamente para contribuir al desarrollo del
+mercado de inversionistas institucionales de vivienda en renta y con la participación
+de Administradores de Vivienda en Renta (AVR).
+La logica vertical se mostró coherente durante la ejecucion del programa y se
+mantuvo. En resumen, para instrumentar la iniciativa de este programa, como una
+alternativa de solución a la problemática planteada se puso a disposición de la SHF
+un préstamo, por US$30 millones, para el otorgamiento de crédito, que era escaso y
+además primero en su tipo, por tratarse de la construcción de edificios de vivienda
+para alquiler para atender la demanda de vivienda en renta sustentable, como
+producto final. Esto permitiría alcanzar los resultados planeados de: (i) mobilizar
+apalancamiento de inversión privada en los proyectos; (ii) al menos 582 viviendas
+para renta construidas con estándares sustentables; (iii) la contribución del programa
+al desarrollo de un mercado de vivienda en renta a gran escala; (iv) al menos 2 AVR,
+operando bajo estándares de cumplimiento sustentable establecidos por el programa;
+y (v) al menos el 50% de viviendas con contratos “Green Lease”” firmados. Con lo
+anterior se alcanzaría a cumplir con el objetivo de contribuir al desarrollo de un
+mercado para financiar vivienda sustentable en renta.
+Es importante comentar que no obstante la cancelación parcial del préstamo por
+US$70 millones (que ocurrió previo a la elegibilidad) y las condiciones de mercado
+adversas al programa, su lógica vertical y su diseño se mantuvieron por la relevancia
+y adicionalidad del mismo, en el sentido de iniciar las acciones concretas para la
+formalización e institucionalización del mercado de vivienda en renta, entre otros por
+la instrumentación de los AVR, ya que ésta es una operación tipo, que con los
+resultados alcanzados permitirá establecer los criterios para fomentar la construcción
+de vivienda en renta, no sólo para los estratos de ingresos medios, como se refleja
+en la documentación financiera, técnica y legal que ampara la operación y
+administración de los edificios, sino para otro tipo de estratos. Por tanto, el efecto
+demostración sobre el resto del sistema financiero de crear financiamiento de
+mediano y largo plazo para este tipo de mercado de vivienda en renta se mantuvo.
+Por las razones expuestas en el análisis de esta sección referente a la alineación del
+programa con las necesidades de desarrollo del país y la estrategia de país vigente
+durante la vida del proyecto se puede concluir que aún a la fecha de este PCR, el
+programa es prioritario y relevante.
+El programa estaba bien alineado con las necesidades de desarrollo del país, así
+como con la estrategia vigente durante la vida del proyecto. Ayudo a potenciar el
+financiamiento de largo plazo para la construcción de edificios en renta para la clase
+media - que era un área de financiamiento incipiente y necesaria en el inicio del
+programa. La lógica vertical se mantuvo durante la vida del proyecto y como se va a
+mostrar los edificios están próximos a terminarse, han aplicado con éxito los
+estándares sustentables, y ahora en parte gracias al programa existe una asociación
+de administradores en renta equipados para contratos de green lease. Sumando esto
+a la coherencia de la lógica vertical se considera que la relevancia es excelente.
+                                          14
+"
+"                                                    Tabla 1. Matriz de resultados (aprobación @, 60 días después de alcanzar la elegibilidad 33 y @ exit)
+                                   En aprobación                 En elegibilidad + 60 días           Al terminar el proyecto (PCR)                                Comentarios
+      Indicadores                        Línea                                 Línea                               Línea
+                           Unidad de              Meta         Unidad de                  Meta       Unidad de
+                                           de                                   de                                   de        (A)
+                             Medida                (P)          Medida                     (P)        Medida
+                                         Base                                  Base                                 Base
+Objetivo específico de Desarrollo. Financiar proyectos de vivienda sustentable para la renta en los términos acordados y estipulados en el ROP, para el nivel de ingresos medios
+  Resultados
+Indicador #1.1                                                                                                                         El nivel de apalancamiento del programa se midió con base en la
+Valor total de la                                                                                                                      inversión total promedio y estructura financiera tipo de los
+                          Millones de                                                                 Millones
+inversión apalancada                        0       20     Millones de US$       0         12                         0       59,3     proyectos de vivienda multifamiliar del “pipeline” de la SHF.
+                               US$                                                                    de US$
+con recursos del                                                                                                                        • Se reporta el estimado de inversión total de los desarrollos por
+programa.                                                                                                                                 MX$1.158 MDP, equivalente aproximadamente a US$59,3 MDD.
+Indicador #1.2                                                                                                                         Los 609 departamentos en renta se distribuyen como sigue: 394
+Número de viviendas                                                                                                                    de Neuchatel en el Municipio de Miguel Hidalgo, CDMX, 200 de la
+para renta                                                                                                                             Pueblita en el Municipio de Chapala, Jal., y 15 de City Park, en el
+                            Número          0      957          Número           0        582         Número          0        609
+construidas con                                                                                                                        Municipio de Mexicali.
+estándares
+sustentables.
+Indicador #1.3                                                                                                                         SHF confirmó el 7 de mayo de 2019, los AVR que administrarán
+AVR operando bajo                                                                                                                      los proyectos que ya han sido identificados y están ya gestionando
+estándares de                                                                                                                          para administrar las propiedades, conforme a los contratos de
+cumplimiento                Número          1       4           Número           0          2         Número          0         3      administración y de “Green Lease” ya definidos:
+establecidos por el                                                                                                                    Neuchatel: Nomad Living
+programa.                                                                                                                              La Pueblita: Northsar Senior Living
+                                                                                                                                       City Park: Desarrollo de Activos
+Indicador #1.4                                                                                                                         En la documentación legal de los proyectos se establecen como
+Porcentaje de                                                                                                                          condiciones la obligación de los AVR de formalizar y seguir los
+viviendas que                                                                                                                   0      lineamientos ”Green Leases” establecidos en el ROP, una vez que
+                                 %          0     100%             %             0        50%            %            0
+contienen contratos                                                                                                             %      entren en operación los proyectos. Como las unidades no se han
+con lineamientos de                                                                                                                    terminado por completo, aun no existen los contratos con los
+Green Leases.                                                                                                                          eventuales inquilinos que es lo que el indicador medía.
+  Impactos
+Indicador #1.1                                                                                                                         SHF informó el 17 de julio de 2017 que el área responsable del
+Inversores                                                                                                                             producto de financiamiento que por temas de confidencialidad no
+institucionales de                                                                                                                     se pueden proporcionar los nombres de los inversionistas
+vivienda en renta                                                                                                                      institucionales que participaron dado que no fueron beneficiarios
+participando del                                                                                                                       directos del financiamiento proveniente del préstamo BID
+                            Número          0       5           Número           0          3         Número          0         4
+mercado mexicano.                                                                                                                      3597/OC-ME.
+                                                                                                                                       Originalmente se tenía en la Matriz de Resultados como un
+                                                                                                                                       impacto, pero ya se pudo contabilizar y evidencia el
+                                                                                                                                       potenciamiento de este mercado. Por ende, se utiliza como
+                                                                                                                                       evidencia y en el PCR checklist.
+               33  Por favor notar que las metas actualizadas dentro del periodo permisible hasta elegibilidad se modificaron tomando en cuenta la cancelación de US$70MM por petición
+                   del gobierno y el resultante monto del préstamo por US$30MM.
+                                                                                                  15
+"
+"                                                                                      SHF confirmó que el Indicador de GEI evitados y reducidos con los
+                                                                                      proyectos financiados con recursos del programa, se calculó con
+Indicador #2.1                                                                        base en una estimación que considera el comportamiento
+Gases de Efecto                                                                       promedio de todos los proyectos financiados bajo el esquema
+Invernadero (GEI)    Toneladas                                    Toneladas           diseñado para esta operación. Es una estimación ex ante
+                                         Toneladas
+evitadas y reducidas Métricas  0 1294.4               0 1.294,4    Métricas 0 1.294,4 considerando las especificaciones técnicas de los tres proyectos
+                                        Métricas CO2e
+con los proyectos    CO2e                                           CO2e              financiados, su diseño y que se alquilen con un nivel de ocupación
+financiados con                                                                       de 90%.
+recursos del
+programa.                                                                             Como la construcción está por finalizar y este impacto es una
+                                                                                      estimación – no se utiliza en el PCR checklist.
+                                                                16
+"
+"2.2     Eficacia
+a.    Declaración de objetivos de desarrollo del proyecto.
+    El presente programa propone un esquema novedoso, primero en su tipo, cuyo
+    objetivo era contribuir al desarrollo de un mercado para financiar vivienda
+    sustentable en renta61. El financiamiento sería bajo un esquema de project finance
+    en donde la SHF estaría otorgando directamente o a través de IF un préstamo,
+    que sería repagado con el flujo futuro de las rentas del proyecto.
+    En el POD el objetivo del programa leía como: contribuir al desarrollo de un
+    mercado para financiar vivienda sustentable en renta, preferentemente para el
+    nivel de ingresos medio. El financiamiento sería bajo un esquema de “project
+    finance”, en donde la SHF estaría otorgando directamente o a través de IF un
+    préstamo, que sería repagado con el flujo futuro de las rentas del proyecto.
+    Se considera por objetivo general contribuir al desarrollo del mercado de financiar
+    vivienda sustentable en renta. El programa se va a evaluar de acuerdo con un
+    solo objetivo específico de financiar proyectos de vivienda sustentable para la
+    renta en los términos acordados y estipulados en el ROP, para el nivel de ingresos
+    medio.
+    En cuanto a la medición del impacto se instrumentaron tres indicadores de los
+    cuales se presenta evidencia para 2: (i) al menos 3 inversores institucionales de
+    vivienda en renta participando del mercado mexicano, para medir la cantidad de
+    inversores en el mercado de renta mexicano, con independencia de su
+    participación en los proyectos financiados por el programa, con un efecto
+    demostración de la meta del programa al quinto año; y (ii) al menos 786,9 de
+    Toneladas Métricas CO2e GEI evitadas y reducidas con los proyectos financiados
+    con recursos del programa (en base a una estimación de SHF considerando un
+    nivel de ocupación de 90% y que los edificios se han edificado verdes, cumpliendo
+    todos los aspectos sustentables y tendrán ahorros considerables de energía).
+    b. Resultados logrados
+    Productos. Con la instrumentación del programa se otorgaron tres créditos con
+    recursos del préstamo por un total de US$30 millones, para financiar igual número
+    de proyectos de vivienda sustentable en renta para ingresos medios,
+    sobrepasando el resultado de inversión apalancada.
+    Apalancamiento. La inversión total del programa fue de US$89,30 millones. Por lo
+    que la participación del sector privado fue de US$59,3 millones. De este monto el
+    préstamo del BID representa el 33%, es decir US$30 millones.
+    Número de viviendas. Los tres edificios construidos cuentan 609 viviendas con
+    estándares sustentables, de tal suerte que el proyecto de Neuchatel tiene
+    394 viviendas, City Park 15 y La Pueblita 200.
+    Administradores de Vivienda en Renta. Con respecto a la participación de
+    Administradores de Vivienda en Renta en el programa, SHF confirmó que los AVR
+    para los proyectos financiados son: Nomad Living para el proyecto de Neuchatel;
+                                         17
+"
+"Northstar Senior Living para el proyecto de La Pueblita; y, Desarrollo de Activos
+S. de R.L. de C.V para el proyecto de City Park. Dichos AVR están comprometidos
+y llevarán a cabo las acciones previstas en los lineamientos, establecidos en el
+ROP, que se deben observar para generar en México un ecosistema, a través de
+empresas profesionales reconocidas por el gremio de inmobiliarios y que se
+encarguen como mínimo del marketing, evaluación de inquilinos, elaboración de
+contratos, cobros, mantenimiento, contabilidad y temas de sustentabilidad. Es de
+destacar que, a finales de 2017, se fundó la Asociación de Vivienda en Renta que
+tiene como objeto principal fomentar, el sector de vivienda en renta institucional
+en México y a la fecha cuenta con 21 socios, entre ellos la SHF. Los proyectos
+financiados al amparo del esquema de vivienda en renta consideran en los
+contratos de crédito, como obligación de hacer, la figura de AVR para la
+administración y aplicación de los lineamientos “Green Leases”. Aunque los
+edificios construidos bajo programa aún no se han puesto en alquiler por estarse
+completando su construcción en este momento, ya tiene el ejecutor definidos los
+AVRs que los administraran y gestionarán el alquiler bajo el esquema de contratos
+de green leases.
+Porcentaje de viviendas que contienen contratos con lineamientos de “Green
+Leases”. Los tres proyectos apoyados al amparo de este programa consideran en
+los contratos de arrendamiento con los inquilinos observar los lineamientos
+establecidos en el ROP en materia de “Green Leases” para alcanzar los ahorros
+en energía de 10%, en agua del 15% y en manejo de residuos del 20%, así como
+la utilización de materiales de bajas emisiones y la instrumentación de talleres de
+educación ambiental para operadores e inquilinos. Se espera que los 609
+departamentos de vivienda en renta de los tres proyectos financiados tengan
+contratos con lineamientos “Green Leases” una vez que los proyectos se
+encuentren en operación, para superar la meta de 50%. De acuerdo con
+información proporcionada por SHF, se espera que los proyectos alcancen el nivel
+de ocupación proyectado, a más tardar en octubre de 2022, como es el caso del
+proyecto de La Pueblita. Sin embargo, como a la fecha no se han puesto en
+alquiler por estar en las últimas fases de construcción, el logro en la Matriz de
+Resultados y del PCR Checklist se toma como cero.
+Cabe resaltar que los proyectos financiados por el programa presentan un avance
+en su construcción de acuerdo con lo programado, de tal suerte que para el
+proyecto City Park se prevé su terminación en estos meses, considerando que las
+viviendas deberán estar rentadas en diciembre 2019. En tanto que para el
+proyecto Neuchatel, la terminación de obra se espera para el mes de junio de
+2020 y alcanzar el nivel de ocupación proyectado para noviembre de 2020. Por
+lo que al proyecto de la Pueblita se refiere, se espera la terminación de la obra
+para julio de 2020 y llegar al nivel de ocupación estabilizado en octubre de 2022.
+En seguida se presenta un cuadro con información relevante:
+                                      18
+"
+"                         Cuadro 1. Características de los proyectos financiados por el programa
+        Proyecto/Empresa              Ubicación            Fecha de asociación al Fecha de inicio de   Fecha estimada de      Fecha de nivel de  Número de Porcentaje de
+                                                                 Programa               obra         terminación de la obra ocupación proyectado viviendas viviendas por
+                                                                                                                                                             ubicación
+   NEUCHATEL/Compass Group Mguel Hidalgo,Ciudad de
+                                                                23/12/2016          Octubre, 2017         Junio, 2020                               394         65%
+     Holding, S.A.P.I. de C.V.          México.                                                                               Noviembre, 2020
+  CITY PARK/Grupo Metalco S.A.
+                                Mexicali, Baja California.      04/08/2017        Septiembre, 2017        Junio, 2019                                15         2%
+             de C.V.                                                                                                           Diciembre, 2019
+   LA PUEBLITA/ Desarrollos 4T,
+                                   Chapala, Jalisco.            24/10/2018           Marzo, 2019           Julio, 2020                              200         33%
+           S.A.de C.V.                                                                                                          Octubre, 2022
+                                                                          TOTAL                                                                     609        100%
+ De acuerdo con la información proporcionada por SHF los tres proyectos
+ financiados consideran en su construcción los criterios de elegibilidad y
+ sustentabilidad establecidos en el ROP, así como que se ha seguido con los
+ sistemas de control para la supervisión de los aspectos ambientales y sociales
+ que han servido para dar los insumos para la preparación y presentación de los
+ reportes de esta sexta operación.
+ Impactos. Los impactos generados por los resultados del programa incluyen
+ según confirma SHF la participación de 4 inversores institucionales 34 participando
+ en el programa, uno más que la meta planteada.
+ Con respecto a la Tm2 de GEI evitadas y reducidas con los proyectos financiados
+ con recursos del programa, y dado que los criterios de elegibilidad y
+ sustentabilidad establecidos en el ROP fueron cumplidos durante la construcción,
+ se espera que esto se materialice sin problema una vez puestos en alquiler los
+ edificios, con lo que se espera llegar a los ahorros indicados en la matriz de
+ resultados. Sin embargo, aunque se cuenta con la contabilización del ahorro
+ esperado, no se ha valorizado en el PCR Checklist, dado que será una realidad el
+ ahorro hasta que la ocupación de las viviendas se materialice.
+34   Debido a que el BID no financió a estos inversionistas institucionales y por políticas internas de
+     confidencialidad en SHF, no se pueden revelar los nombres.
+                                                                                    19
+"
+"                                                 Tabla 2. Matriz de Resultados logrados
+                                                          Valor de        Año de
+                                                                                     Metas y alcance     %
+     Indicadores de Resultado      Unidad de Medida       Línea de       línea de                               Medios de verificación
+                                                                                           real      Alcanzado
+                                                            base           base
+                                                                                        P        5             SHF sobre el programa,
+                                                                                                               utilizando   información
+                                                                                      P(a)       3             propia, de
+                                                                                                               la CONAVI y de la Bolsa
+Inversores institucionales de
+                                       Número                                                                  Mexicana de Valores.
+vivienda en renta participando del                            0            2015                         +100
+                                                                                        A        4             Originalmente era un
+mercado mexicano.
+                                                                                                               impacto, pero al estar
+                                                                                                               verificado se incorpora
+                                                                                                               como evidencia en el
+                                                                                                               PCR Checklist.
+                                                                    20
+"
+"                                                                   Valor de      Año de
+                                                                                             Metas y alcance         %
+         Resultado/Indicador               Unidad de Medida        Línea de     línea de                                      Medios de verificación
+                                                                                                   real         Alcanzado
+                                                                     base         base
+ Objetivo específico #1 Financiar proyectos de vivienda en renta en los términos acordados y estipulados en el ROP para el nivel de ingresos medio.
+ Valor total de la inversión                                                                  P          20                  Informes periódicos de la
+                                            Millones de US$                                                                  SHF sobre el programa.
+ apalancada con recursos del                                          0           2015       P(a)        12         100
+ programa.                                                                                    A         59.5
+                                                                                                                             Informes periódicos de la
+                                                                                              P         957
+ Número de viviendas para renta                                                                                              SHF sobre el programa y
+ construidas con estándares                      Número               0           2015       P(a)       582         100      registro de la SHF.
+ sustentables.
+                                                                                              A         609
+ Objetivo específico #2 Construir, edificar o remodelar proyectos de vivienda sustentables con los recursos del préstamo.
+ AVR operando bajo estándares de                                                              P          4                   Informes periódicos de
+                                                 Número                                                                      la SHF sobre el programa
+ cumplimiento establecidos por el                                     0           2015       P(a)        2          100
+ programa.                                                                                    A          3                   y registro de la SHF.
+                                                                                              P         100                  Informes periódicos de
+ Porcentaje de viviendas que
+                                                                                             P(a)        50                  la SHF sobre el programa
+ contienen contratos con                            %                 0           2015                               0
+                                                                                                                             y
+ lineamientos de “Green Leases”.                                                              A          0                   registro de la SHF.
+                                                                   Valor de      Año de
+                                                                                             Metas y alcance         %
+               Producto                    Unidad de Medida        Línea de     línea de                                      Medios de verificación
+                                                                                                   real         Alcanzado
+                                                                     base         base
+ Producto #1                                                                                  P          6                   Informes periódicos de
+ Número de créditos otorgados para                                                                                           la SHF sobre el
+                                                                                                         3
+ la construcción de edificios                                                                P(a)                            programa.
+                                                 Número               0           2015                              100
+ multifamiliares para renta
+ financiados con recursos del                                                                 A          3
+ programa
+Donde: P = Planificado; P (a) = Objetivo anual revisado; A = real.
+                                                                            21
+"
+"c.    Análisis contrafactual
+En primer lugar, la instrumentación de los esquemas financieros propuestos no
+hubiera sido posible para disminuir las restricciones y barreras para financiar
+proyectos de largo plazo o bajo esquema de “project finance”, de vivienda en renta.
+Como ejemplo de esto:
+        •   La especialización de los desarrolladores de vivienda e inversionistas en
+            el mercado de renta es de suma importancia para diversificar su estructura,
+            ya que la mayoría de éstos se dedican a la construcción de vivienda social
+            y participan principalmente en el mercado de venta, por lo que la fundación
+            de la Asociación de Administradores de Vivienda en Renta fue dar un paso
+            más rumbo a la formalización e institucionalización de este segmento de
+            mercado para propiciar mayor inversión y participación de la sociedad en
+            este tipo de proyectos.
+        •   Los intermediarios financieros, debido a las restricciones regulatorias de
+            capital que tienen, no participan de manera activa en el financiamiento de
+            proyectos de largo plazo, según se analizó durante la elaboración del POD.
+            En ese sentido este programa era innovador y potenciaba mercado.
+        •   En esta línea, la aplicación de elementos sustentables en la vivienda de
+            ingresos medios y altos favorece la instrumentación efectiva a toda la
+            población de la política pública que el gobierno ha venido desarrollando
+            desde 2009 para abordar el cambio climático y reducir emisiones de GEI,
+            a través de la Ley General de Cambio Climático; así como en la aplicación
+            de la Acción Nacional Apropiada de Mitigación (NAMA) de vivienda y la
+            expedición de criterios para la vivienda sustentable a través de una norma
+            voluntaria (NMX<U+02D7>AA<U+02D7>164-SCFI-2013), en la que se continua trabajando en
+            los mecanismos para certificar y validar su cumplimiento. Además, en
+            ausencia del programa los proyectos no contarían con los lineamientos de
+            “Green Leases” ni la responsabilidad y obligación de los inquilinos para dar
+            cumplimiento a los mismos.
+        •   En cuanto al marco legal se refiere, el contenido mínimo de los contratos
+            de arrendamiento presenta muy poca variación de una entidad federativa
+            a otra y con esta operación se pretendió que los contratos escritos cuenten
+            con los elementos necesarios para asegurar trámites adecuados y
+            expeditos en la recuperación de los inmuebles y en la atención de las
+            controversias de arrendamiento. De igual forma, la profesionalización de
+            la correduría inmobiliaria mitiga los altos riesgos para los propietarios, por
+            un posible incumplimiento en la Ley de Extinción de Dominio y en la Ley
+            Federal para la Prevención e Identificación de Operaciones con Recursos
+            de Procedencia Ilícita, a efecto de que los propietarios conserven sus
+            bienes inmuebles, en caso de una incorrecta debida diligencia de los
+            inquilinos.
+En segunda instancia, el programa tenía por objetivo ofrecer una nueva alternativa
+para diversificar la oferta de vivienda en alquiler para la clase media. Como ya se
+discutió, a la incepción del programa, el mercado de vivienda estaba dominado
+únicamente por venta, no existiendo opción del alquiler, y evadir gastos de prima, para
+la clase media. Con este programa se atendía el tema de la oferta, además del tema
+                                          22
+"
+" de la mitigación, dado que los segmentos más altos de la población son los que
+ generan más emisiones. También el programa restringió a que los financiamientos
+ se destinaran a vivienda preferentemente media debido a que no se tenía la
+ experiencia en cuanto a temas regulatorios, por ser un tema complejo que cambia en
+ cada estado.
+ A continuación, se presenta un análisis que muestra que dichas unidades caen dentro
+ del ingreso de la clase media en las zonas donde fueron edificadas:
+          Neuchatel. El proyecto cuenta con 394 departamento y está ubicado en la
+          esquina de Ferrocarril Cuernavaca y Lago Neuchatel en la delegación Miguel
+          Hidalgo de la Ciudad de México. El mercado objetivo del proyecto está
+          conformado por personas con un nivel socioeconómico C y C+,
+          principalmente mandos medios que trabajen en la zona y busquen reducir
+          tiempos de traslado, incluso evitando el uso del automóvil. El perfil de los
+          inquilinos está previsto que sean jóvenes de entre 30 y 38 años que trabajan
+          por la zona.
+          De acuerdo con los resultados del estudio de mercado, dentro de la zona del
+          proyecto existe una población de alrededor de 900 mil habitantes, de los
+          cuales el 32% reporta ingresos de entre MXN$40.000 a MXN$100.000
+          mensuales, lo que los ubica dentro del nivel socioeconómico C+; mientras
+          que otro 13% cuenta con ingresos que van de los MXN$14.000 hasta los
+          MXN$39.000 mensuales, con un nivel socioeconómico C 35.
+          City Park. El proyecto City Park está conformado por 3 torres con un total de
+          15 departamentos, ubicado en Mexicali, Baja California. El mercado objetivo
+          del proyecto plantea como potenciales clientes a tres grupos de población:
+          personal ejecutivo y de negocios de las empresas establecidas en la región,
+          familias jóvenes con un nivel socioeconómico C o C+ y población que visita
+          la ciudad por motivos médicos. De acuerdo con los resultados del Estudio de
+          Mercado elaborado por XPLORA Investigación Estratégica (2017), Mexicali
+          cuenta con una población de 988.417 habitantes distribuidos en 291.763
+          hogares, a partir de los cuales se estima una demanda potencial de alrededor
+          de 427 hogares con ingresos mensuales alrededor de MXN$42.000,
+          correspondientes al segmento C.
+          La Pueblita. El proyecto está ubicado en el Municipio de Chapala Jalisco. El
+          mercado objetivo del proyecto está conformado por adultos mayores. De
+          acuerdo con el Estudio de Mercado de la Pueblita, elaborado por Proyekta
+          Medical (2016), se estima que en la zona de influencia del proyecto (San Juan
+          Cosalá, San Antonio Tlayacapan, Ajijic y Chapala) viven alrededor de 6 mil
+          personas que podrían demandar los servicios que ofrece el proyecto; de los
+          cuales el 50% reporta ingresos en el rango de US$25.000 anuales, lo que
+          significa que el proyecto está dirigido a otro segmento de población de
+35 Los niveles socioeconómicos están calculados según la metodología de la Asociación Mexicana de
+   Agencias de Inteligencia de Mercado y Opinión Pública, sobre niveles Socioeconómicos, basada en el
+   desarrollo de un modelo estadístico que permite clasificar los hogares tomando en consideración el
+   bienestar y calidad de vida del hogar y no solamente sobre un nivel de ingreso. Según datos de la
+   ENIGH y cálculos elaborados por Softec, el nivel socioeconómico de nivel medio comprende los
+   segmentos C+ (MXN$57.762 - MXN$144.406), C (MXN$35.546 - MXN$57.762) y C- (MXN$17.773 -
+   MXN$35.546)
+                                                23
+"
+"             ingresos medio del nivel socioeconómico C. El proyecto es el primer
+             desarrollo inmobiliario en su tipo dentro de la zona, al integrar servicios de
+             “independent living”, “assisted living” y “memory care”.
+ De acuerdo con el análisis anterior, gracias al programa financiado por el BID, se
+ apoyaron tres proyectos de vivienda en renta institucional con rentas accesibles para
+ familias de ingreso medio, como se muestra a continuación:
+                               Cuadro 2. Caracterización de los niveles de ingreso
+                                              Mínimo                Máximo
+       Nivel        Veces Salario                                                             Segmento
+                                              (MXN$)                (MXN$)
+        A/B          65           +           144.406                   +                          Alto
+        C+           26           65           57.762               144.406                   Medio alto
+         C           16           26           35.546                57.762                      Medio
+        C-            8           16           17.773                35.546                   Medio Bajo
+        D+           5.5          8            12.219                17.773                        Bajo
+        D/E           -          5.5            2.222                12.219                     Muy bajo
+   Fuente: elaborado por Softec con información del Instituto Nacional de Estadística y Geografía (INEGI) 2015 y
+   Mercamétrica 2015.
+ Considerando esta caracterización por niveles de ingreso, se observa que los
+ segmentos C+, C y C- corresponden al nivel socioeconómico medio. En México, la
+ regulación establece que el monto destinado para pagar una hipoteca no debe de ser
+ mayor al 30%, por lo que, tomando este indicador como referencia, se observa que
+ se puede atender a todos los hogares de un solo ingreso que se encuentran en el
+ nivel C+ y a algunos que se encuentran en el C.
+ Utilizando estas cifras, se identifica que los montos por renta mensual que tienen los
+ departamentos financiados representan entre 13-16% del ingreso para la clase C+.
+ Con esto podemos concluir que para la clase C+ son accesibles las viviendas. Ver los
+ hallazgos en la siguiente tabla.
+ Además, según la OECD el típico hogar mexicano gasta alrededor del 20% de su
+ ingreso en vivienda, pero este promedio incluye la clase alta que gasta una menor
+ fracción del ingreso total en vivienda. Datos también muestran que, para los quintiles
+ más bajos de ingreso, la vivienda puede llegar a ser más de un 40% del ingreso total
+ del hogar 36. El criterio hipotecario mexicano es que el costo de vivienda debe estar
+ alrededor del 30% del ingreso. Bajo esa óptica, la edificación de City Park es
+ cómodamente accesible para la clase C también. Cabe también recordar, que al ser
+ sustentables las edificaciones los inquilinos van a gastar menos como porcentaje de
+ su ingreso en las utilidades.
+36  http://www.oecdbetterlifeindex.org/topics/housing.
+                                                       24
+"
+"        Cuadro 3. Localización de los proyectos financiados por el programa y características de
+                                  la renta promedio según localización
+                                                    Renta
+                                                              Relación renta/
+                                                  promedio                      Relación renta/
+      Proyecto             Localización                        ingreso clase
+                                                  mensual                       ingreso clase C
+                                                                     C+
+                                                SHF (MXN$)
+Neuchatel             CDMX                         22.888           16%              40%
+City Park             Mexicali                     19.479           13%              34%
+La pueblita           Chapala/Guadalajara          22.895           16%              40%
+ Observando en el siguiente gráfico, como se distribuyen los distintos niveles
+ socioeconómicos en las ciudades que nos ocupan, vemos que estos proyectos
+ estarían destinados para atender un porcentaje relevante de la población.
+               Figura 1. Distribución de niveles socioeconómicos por distintas ciudades
+    Fuente AMAI: http://www.amai.org/nse/wp-content/uploads/2018/04/Nota-Metodolo%CC%81gico-
+    NSE-2018-v3.pdf consultado en agosto 2019.
+ Con el inicio de los trabajos del BID con SHF desde 2014 y la instrumentación del
+ financiamiento en 2016, el Banco ha contribuido para que la SHF promueva la
+ inversión en el sector de vivienda en renta. Es en este sentido SHF cuenta con una
+ cartera de 18 proyectos financiados por un monto de MXN$5.548 millones, de los que
+ MXN$595 millones corresponden al financiamiento proveniente del préstamo del
+ Banco.
+ Como se muestra en la siguiente gráfica, se muestra que SHF inició un piloto de
+ vivienda en renta durante 2014, y a partir de ese año, en el que se iniciaron los
+ trabajos con SHF para el diseño del programa, se observó un crecimiento en la cartera
+ de vivienda en renta. Los US$30MM del programa se adicionaron y no desplazaron
+                                               25
+"
+"el capital creciente de SHF con este destino. El expertise del Banco en este proyecto
+ayudó a SHF a desarrollar la capacidad de dichas gestiones.
+              Figura 2. Evolución del crédito de SHF a la construcción por categoría
+                   CRÉDITO SHF A LA CONSTRUCCIÓN
+                                    (MILLONES DE PESOS)
+      $25,000
+                                                                                     $1,133
+      $20,000                                           $825
+                                                                         $608
+                                      $256              $4,613                       $5,416
+      $15,000                                                            $4,139
+                     $92             $4,010
+      $10,000       $4,782
+                                                       $14,033                      $14,280
+                                    $11,307                             $12,336
+       $5,000
+                    $7,426
+          $-
+                     2014              2015              2016             2017        2018
+                              Puente Sindicado       Puente Tradicional    Renta
+A excepción del año 2017 año en el que SHF por temas estratégicos priorizó el crédito
+hipotecario por encima de los créditos a la construcción en general, incluyendo la
+renta.
+                Figura 3. Evolución del crédito de SHF a construcción y a hipotecas
+                           Créditos SHF Construcción vs Hipotecas
+                                           (Millones de Pesos)
+      $40,000
+      $30,000
+      $20,000
+      $10,000
+          $-
+                     2014              2015               2016             2017        2018
+                                          construcción      Hipotecario
+Con la instrumentación de esta operación innovadora, SHF a través de sus
+mecanismos de financiamiento canalizó los recursos del programa a tres proyectos
+destinados a vivienda de renta institucional con lineamientos de “Green Lease” a
+familias de ingresos medio, resolviendo la problemática que presentaba el sector
+durante la evaluación del programa. En este orden y por el programa que fue una de
+                                               26
+"
+"            las primeras experiencias, SHF ha incentivado la inversión en este mercado
+            financiando ya 18 proyectos y cuenta con los instrumentos y lineamientos para
+            financiar este tipo de proyectos, con la participación de inversionistas institucionales,
+            AVR y lineamientos que garanticen la sostenibilidad de los proyectos, como se
+            observa en el crecimiento que ha tenido la vivienda en renta.
+            Con datos a 2019, de la recién creada Asociación de Vivienda en Renta se observa
+            que existen 73 proyectos que se encuentran en distintas etapas de desarrollo,
+            sumando al parque de vivienda en México casi 16,000 departamentos, como se
+            muestra a continuación.
+                          Figura 4. Situación de los proyectos de parque de vivienda en México, 2019
+               Unidades                                   Proyectos                              Área Bruta de
+18,000                                      80                                                   Construcción
+16,000                                      70                                        2,000,000
+14,000
+                                            60
+12,000                 8,298                                     43                   1,500,000
+                                            50
+10,000                                                                                                     751,378
+                                            40
+ 8,000                                                                                1,000,000
+                       2,508                30
+ 6,000                                                                                                     336,470
+                                            20                   15
+ 4,000                                                                                  500,000
+ 2,000                 5,067                10                                                             636,977
+                                                                 15
+    -                                        0                                                -
+   Operación   Construcción  Predesarrollo     Operación   Construcción Predesarrollo    Operación Construcción  Predesarrollo
+            Con estas cifras se puede concluir, que el producto de vivienda en renta de SHF logró
+            desarrollar de manera favorable el ecosistema de vivienda en renta, atrayendo a
+            firmas internacionales como Greystar y promoviendo la figura de administradores de
+            vivienda en renta. Asimismo, logró sumar la participación e inversión del sector
+            privado promoviendo el desarrollo de la industria y de facilitar los mecanismos para
+            que dicho mercado pudiera hacer un crowding-in del sector privado. Al tratarse de un
+            mercado incipiente y en formación, el financiamiento que otorgó el programa se
+            complementa con otras acciones fuera del programa alternativas a esta operación de
+            hipotecas para viviendas en renta, es decir que, a futuro, estarán permitiendo seguir
+            aumentando la oferta de este segmento, como el desarrollo de un marco jurídico y
+            fiscal, ver Cuadro 4.
+            Hemos mostrado que el proyecto fue catalítico de este mercado de vivienda
+            sustentable en renta, así como que las viviendas serán accesibles a la clase media
+            que era la población meta del programa. A continuación, se complementan estos
+            análisis con un análisis cualitativo de la situación con y sin programa y como el
+            programa ayudo a potenciar el mercado.
+                                                           27
+"
+"                          Cuadro 4. Análisis cualitativo de la situación con y sin programa
+    Diagnóstico de la
+                                       Sin Programa                                 Con Programa
+    vivienda en renta
+                                                                  El programa ayudo a capacitar e identificar
+                                                                  AVRs en capacidad de operar bajo
+                                                                  estándares de cumplimiento sustentables
+                                                                  establecidos por el programa.
+                           Falta de profesionales en              Con la instrumentación del programa, en
+                           administración de vivienda en renta.   2017, SHF tuvo la iniciativa de crear la
+                                                                  Asociación de Vivienda en Renta (AVR), para
+                                                                  difundir, promover, incentivar y facilitar la
+                                                                  formalización e institucionalización del
+Informalidad del sector.                                          mercado de vivienda en renta para familias de
+                                                                  ingresos medios.
+                                                                  SHF ha generado y difundido información
+                           Omisión y falta de información del
+                                                                  relevante del programa y del esquema de
+                           sector.
+                                                                  operación.
+                                                                  Se ha considerado en los contratos de
+                                                                  arrendamiento obligaciones que permitan
+                           Formalización de contratos no
+                                                                  mayor seguridad ante el incumplimiento de
+                           vinculantes.
+                                                                  pagos (contratación de seguros) y otro tipo de
+                                                                  obligaciones.
+Restricciones para                                                Con este programa, único en su tipo, se
+financiar proyectos de                                            estableció como producto el número de
+                           Carencia de esquemas y de
+largo plazo o bajo                                                créditos otorgados para la construcción de
+                           financiamiento de largo plazo y
+esquema de “project                                               edificios      multifamiliares  para     renta,
+                           garantías.
+finance”, como la                                                 financiados con recursos del programa.
+vivienda en renta.                                                SHF ha puesto a disposición del mercado de
+                                                                  vivienda en renta esquemas de formalización
+                                                                  e       institucionalización,   así      como
+                                                                  financiamiento de largo plazo para incentivar
+                                                                  la inversión de este tipo proyectos.
+                                                                  Así mismo, ha llevado a cabo acciones de
+Poca especialización de                                           difusión y promoción del programa a través
+                           Ausencia de incentivos para
+los desarrolladores de                                            de la AVR.
+                           atender el mercado de vivienda en
+vivienda e inversionistas                                         El primer proyecto asociado al programa fue
+                           renta.
+en el mercado de renta.                                           Neuchatel a finales de 2016, a partir de
+                                                                  entonces SHF, con los recursos del
+                                                                  programa, detonó el financiamiento para
+                                                                  vivienda en renta al pasar de MXN$1.650
+                                                                  millones en 2016 a MXN$5.548 millones en
+                                                                  2018.
+                                                                  En el programa ayudo a definir y proveer los
+                                                                  lineamientos para la modalidad de contrato
+                                                                  de “Green Leases”.
+                                                                  En este sentido en el ROP del programa, se
+                                                                  establecieron los compromisos en materia de
+                                                                  sustentabilidad para incluir lineamientos de
+Baja aplicación de                                                “Green Leases”, por lo que una vez que se
+                           Irregularidad en la instrumentación
+elementos sustentables                                            empiecen a rentar las viviendas se
+                           y observación de medidas
+en la vivienda de                                                 formalizarán con los arrendatarios los
+                           sustentables.
+ingresos medios y altos.                                          contratos “Green Leases”, que contienen las
+                                                                  obligaciones en materia de sustentabilidad en
+                                                                  agua, electricidad y desechos sólidos. Los
+                                                                  proyectos financiados al amparo del
+                                                                  programa tienen la obligación de que los AVR
+                                                                  formalicen, en la etapa de estabilización de
+                                                                  los proyectos, dichos contratos.
+                                                      28
+"
+"                                                                                                              Con el indicador de resultados relativo a la
+                                                                                                              participación de los AVR en el programa, una
+                                            Contratos con diferencias sobre la                                vez que se concluya la construcción de los
+                                            forma de atender las controversias                                proyectos, se formalizarán contratos con los
+Marco jurídico del                          de arrendamiento.                                                 inquilinos, que incluyen cláusulas para
+arrendamiento y régimen                                                                                       garantizar los pagos y la aplicación de
+fiscal.                                                                                                       medidas sustentables de acuerdo con el ROP
+                                                                                                              del programa.
+                                                                                                              Revisión del esquema para proponer, en su
+                                            Falta de incentivos fiscales en la
+                                                                                                              caso, medidas e incentivos que permitan
+                                            vivienda en renta.
+                                                                                                              mayor inversión en el sector.
+        Para concluir, la efectividad se considera satisfactoria, de acuerdo con el PCR
+        checklist y los logros reportados. Se observa un sobrecumplimiento de todas las
+        metas con la excepción del % de viviendas bajo contratos de green lease – como
+        consecuencia de que las construcciones están aún por concluirse.
+        d.       Resultados imprevistos
+        No obstante, la cancelación parcial del préstamo por US$70 millones y las condiciones
+        de mercado adversas al momento del inicio del programa, no se presentaron
+        resultados imprevistos durante su instrumentación y operación.
+   2.3         Eficiencia
+        Considerando el tiempo transcurrido de 36 meses entre la aprobación del programa
+        por parte del directorio, y la elegibilidad del préstamo, se realizó en junio de 2018 la
+        comprobación de los tres proyectos financiados en diciembre de ese mismo año (los
+        proyectos entrarán en operación a finales de 2020 y principios de 2021), por lo que
+        no es posible contar, a esta fecha, con la información requerida de ocupación para
+        realizar un análisis costo beneficio, por lo que se acordó realizar un análisis costo
+        efectividad con la información disponible referente al costo de construcción por metro
+        cuadrado con 2 o 3 comparadores referentes.
+        Los proyectos financiados al amparo del programa cuentan con créditos de SHF por
+        MXN$1.158 millones, incluido el financiamiento del Banco por MXN$596 millones, que
+        representa el 62% con respecto a la inversión total por MXN$1.859 millones, incluidos
+        los costos de edificación y por m2 de construcción, como se muestra en el siguiente
+        cuadro:
+                        Cuadro 5. Características de los proyectos financiados y costos de las inversiones
+                                                                     realizadas mediante el programa
+                                                               Número
+                                        Total de                                   Porcentaje de                 Costo total de                    Relación     Costo de   Costo por
+                                                    Promedio      de    Superficie                                                 Monto del
+                          Número de    viviendas                                     viviendas   Inversión total  edificación                       crédito    edificación   metro
+              Proyecto                                 de     viviendas pormedio                                                 crédito de SHF
+                          habitantes* particulares                                 delprograma (MXN millones)        (MXN                        SHF/Inversión por unidad  cuadrado
+                                                   ocupantes*    por      en m2                                                 (MXN millones)
+                                      habitadas*                                   por ubicación                   millones)                       total (%)     (MXN)      (MXN)
+                                                              proyecto
+            1. Neuchatel    364,439     128,042        2.8       394       56            65      $    1,141,154  $     558,828  $        715,000      63       $ 1,303,000 $ 12,117
+           2. La Pueblita    50,738      13,597        3.7       200       70            33      $      611,565  $     293,537  $        380,000      62       $ 1,468,000 $ 11,497
+           3. City Park     988,417     291,763        3.4        15       82             2      $      106,292 $       75,871 $          63,000      59       $ 1,548,000 $ 12,000
+                Total      1,403,594    433,402         -        609        -           100      $    1,859,011  $     928,236 $       1,158,000      62            -          -
+           * INEGI 2015
+                                                                                        29
+"
+"Conforme lo anterior y a la información suministrada por SHF, los proyectos
+financiados presentan el escenario y características que se describen en seguida:
+Neuchatel. Este proyecto es patrocinado por Compass Group, y tiene un costo de
+edificación de MXN$558,8 millones, con un costo por metro cuadrado de
+MXN$12.117, que se encuentra en el rango paramétrico de aprobación utilizado por
+SHF (MXN$9.500 - MXN$13.500). El proyecto considera un programa de obra de
+42 meses, por lo que se estima que la construcción concluya en el mes de junio de
+2020. Sin embargo, debido al modelo de negocios del desarrollador, se estima que
+concluya la estabilización del inmueble en el mes de noviembre de 2020. El proyecto
+cuenta con 394 departamentos. El terreno se encuentra en un área totalmente
+consolidada dentro del Perímetro de Contención Urbana U1, con todos los servicios
+y la infraestructura urbana necesaria. El proyecto contará con 3 diferentes prototipos
+(1, 2 y 3 recamaras), con una renta mensual promedio de MXN$$22.888 y un área
+promedio de 56 m2.
+La Pueblita. Este proyecto está patrocinado por Desarrollos 4T, S.A. de C.V., con un
+costo de edificación de MXN$$293,5 millones y un costo por metro cuadrado de
+MXN$$11.497, que se encuentra en el rango paramétrico de aprobación utilizado por
+SHF (MXN$9.500 - MXN$13.500). El proyecto considera un programa de obra de
+21 meses, por lo que se estima que la construcción concluya en el mes de julio de
+2020. Asimismo, considera una etapa de estabilización de 27 meses para la renta de
+las unidades de vivienda, para alcanzar los niveles de ocupación proyectados en el
+mes de octubre de 2022. El proyecto cuenta con un total de 200 unidades divididas
+en 3 prototipos: 32 unidades para el cuidado de la memoria, 30 casas y
+138 departamentos. El terreno se encuentra en un área totalmente consolidada dentro
+del Perímetro de Contención Urbana U1, con todos los servicios y la infraestructura
+urbana necesaria. Las unidades con las que contará este proyecto tendrán un área
+promedio de 70 m2 y una renta promedio mensual de MXN$$22.895.
+City Park. Este proyecto es patrocinado por Grupo Metalco, con un costo de
+edificación de MXN$$75,8 millones y un costo por metro cuadrado de MXN$$12.000,
+que se encuentra por arriba del límite superior del rango paramétrico de SHF
+(MXN$8.500 y MXN$9.500), lo que se debe al tipo de sistema constructivo utilizado
+por el promotor en la estructura del edificio; que considera un sistema mixto en el que
+se utilizaron perfiles de acero estructural los cuales conforme a especificaciones
+fueron recubiertos con concreto reforzado. Debido a esto los costos de construcción
+se acrecentaron quedando fuera de los parámetros de los costos en construcciones
+análogas. El proyecto considera un programa de obra de 24 meses, por lo que se
+estima que la construcción concluya en el mes de diciembre de 2019. Asimismo,
+considera una etapa de estabilización para la renta de las unidades de vivienda que
+concluirá en el mes de junio de 2020. El proyecto City Park está conformado por 3
+torres con un total de 15 departamentos, ubicado en la denominada “Zona Dorada”,
+considerada como la de mayor desarrollo económico, comercial y habitacional de
+Mexicali. El terreno se encuentra en un área totalmente consolidada dentro del
+Perímetro de Contención Urbana U1, con todos los servicios y la infraestructura
+urbana necesaria.
+Como se ha mencionado en este PCR, este es el primer programa de renta de
+vivienda sustentable que se instrumenta en México a través de la SHF para familias
+de ingresos medios, por lo que la información de proyectos similares es incipiente y
+                                          30
+"
+" prácticamente inexistente para realizar adecuadamente un análisis de costo-producto
+ eficiencia. No obstante, y como se puede observar en la información de los proyectos
+ presentada en los párrafos anteriores, los costos de construcción por m2 de los
+ proyectos se encuentran en el rango de costos de acuerdo con los criterios de
+ elegibilidad y evaluación que observa SHF en su proceso de evaluación y de crédito.
+ SHF utiliza un modelo paramétrico que considera rangos con límites mínimos
+ (promedio MXN$9.463,05) y máximos (promedio MXN$13.401,84), que en promedio
+ es de MXN$11.432,27, para determinar si los costos por m2 de construcción de los
+ proyectos que están en el “pipe line” para ser autorizados, se encuentran en los
+ rangos del mercado de la industria de la construcción.
+ Cabe destacar que los costos de construcción de edificios verdes varían mucho en
+ función de la cimentación y la altura. El costo de la cimentación depende de la
+ ubicación del edificio, por lo que como dato general el costo por m2 de construcción
+ puede oscilar entre MXN$15.000 y MXN$18.000 37. De esta forma se debe considerar
+ que los proyectos sustentables de oficinas en renta son edificios que persiguen la
+ constancia LEED y por tanto sus costos por m2 de construcción pueden ser
+ superiores de entre 5% y 15% 38.
+ Por otra parte, se realizó un sondeo de un proyecto ubicado en la colonia Granada 39
+ que colinda con la colonia Ampliación Granada, donde se encuentra ubicado el
+ proyecto de Neuchatel, con 361 viviendas de 86,38 m2 en promedio con amenidades.
+ Los departamentos más pequeños son de 48 m2 y los más grandes de 140 m2. El
+ precio en preventa para departamentos de 67 m2 es de MXN$4,65 millones, es decir
+ su precio por m2 es de MXN$69.401 y para departamentos de 80,31 m2 es de
+ MXN$5,78 millones, es decir MXN$71.971 por m2. El precio promedio por m2 es de
+ MXN$69.817. Como se puede apreciar el precio por m2 considera los costos directos,
+ indirectos, utilidad, licencias, terreno y costo del proyecto aproximado, por lo que el
+ costo de construcción es de MXN$19.968 40, ósea que, su costo de construcción por
+ m2 en un área comparable esta por sobre el de Neuchatel de MXN$12.117.
+ No obstante, lo anterior y con la finalidad de contar con información que pueda ser
+ utilizada como referencia para mostrar que la comparación del costo de otros
+ proyectos sea equiparable al costo de los proyectos financiados por el programa, se
+ realizó un sondeo con la Cámara Mexicana de la Industria de la Construcción,
+ considerando los costos de construcción por m2 de vivienda multifamiliar media y de
+ semilujo, como se muestra en seguida:
+37 Cushman and Wakefield.
+38 La Certificación LEED (Liderazgo en Energía y Diseño Ambiental, por sus siglas en inglés) es un
+   sistema de certificación con reconocimiento internacional para edificios sustentables creado por el
+   Consejo de Edificación Sustentable de Estados Unidos (U.S. Green Building Council). Entre los
+   beneficios que proporciona esta evaluación se encuentran: espacios con mejores condiciones para la
+   salud y productividad; reducción de emisiones de gases de efecto invernadero; acceso a incentivos
+   fiscales; disminución en los costos de operación y residuos; incremento del valor de sus activos y
+   ahorro energético y de recursos. Para ello la certificación LEED considera la ubicación y transporte,
+   sitios sustentables, eficiencia en agua, energía y atmósfera, materiales y recursos, calidad de ambiente
+   interior, innovación y compromiso constante de mejora de las estrategias implementadas y prioridad
+   regional.
+39 https://propiedades.com/inmuebles/livix-4786301#tipos=desarrollos-venta&area=miguel-
+   idalgo&pagina=1&pos=5.
+40 CMIC/ Instituto Mexicano de Ingeniería de Costos.
+                                                   31
+"
+"                           Cuadro 6. Comparativa de costos de proyectos similares (MXN$)
+                                     Costo de
+                   Número de                                Paramétrico SHF                   CMIC Vivienda Multifamiliar 1/
+                                   edificación
+   Proyecto departamentos
+                                      por m2
+                        BID
+                                      (MXN)      Costo promedio por       Costo por m2       Media        Semilujo    Promedio
+                                                         m2              límite superior
+  Neuchatel           394.00        $12,117.00 $            11,500.00 $        13,500.00  $    9,912.00  $16,667.00   $13,289.50
+   City Park          15.00         $12,000.00 $              8,750.00 $         9,500.00 $    9,912.00  $16,667.00   $13,289.50
+  La Pueblita        200.00         $11,497.00 $            11,500.00 $        13,500.00  $    9,912.00  $16,667.00   $13,289.50
+     Total           609.00         $11,871.33 $            10,583.33 $        12,166.67  $    9,912.00  $16,667.00   $13,289.50
+ Ponderación          320.95        $11,910.51 $            11,432.27 $        13,401.48  $    9,912.00  $16,667.00   $13,289.50
+      1/ Cifras a abril de 2019. Incluye costos indirectos y utilidad de contratistas.
+Al comparar las cifras consultadas promediando los rangos mínimos y máximos del
+paramétrico referencial por zona utilizado por SHF, el programa obtiene un factor
+ponderado de 1,04, pero si se toma en cuenta el límite superior el programa se
+encuentra en 88%; asimismo, promediando los costos de la vivienda multifamiliar
+media y de semilujo del análisis de la Cámara Nacional de la Industria de la
+Construcción (CMIC), se obtiene que dos de los tres proyectos financiados se
+encuentran por debajo del 90%; obteniendo el programa un porcentaje ponderado de
+90, como se observa a continuación:
+                             Cuadro 7. Comparativa de costos de proyectos similares (%)
+                                                                             Paramétrico SHF
+                                                 Costo de                                                         Costo
+                             Número de
+                                               edificación                                                  promedio CMIC
+            Proyecto departamentos                              Costo promedio por Costo por m2
+                                                  por m2                                                        Vivienda
+                                   BID                                     m2             límite superior
+                                                  (MXN)                                                     Multifamiliar 1/
+           Neuchatel             394.00         $12,117.00                1.05                  0.90               0.91
+            City Park             15.00         $12,000.00                1.37                  0.89               0.90
+           La Pueblita           200.00         $11,497.00                1.00                  0.85               0.87
+              Total              609.00         $11,871.33                1.12                  0.88               0.89
+         Ponderación             320.95         $11,910.51                1.04                 0.88               0.90
+          1/ Considera el promedio de los costos de vivinenda multifamiliar media y de semilujo con cifras a
+          abril de 2019, conforme a CMIC/ Instituto Mexicano de Ingeniería de Costos.
+Como se puede apreciar y como conclusión, la información con la que se cuenta
+permite concluir que los costos por m2 fueron razonables. Aun en el caso del factor
+de 1,04 del costo promedio referencial de SHF sabemos que estos edificios por ser
+sustentables tendrían mayores costos, y un 4% extra es poco si se considera las
+mejoras en materia de sustentabilidad y ahorros energéticos y de agua que habrá por
+consecuencia. La mayoría de la muestra referencial de SHF no está conformada por
+edificios verdes, sino edificios estándares y edificios verdes. Además, se muestra en
+el caso de Neuchatel un comparador de un edificio de vivienda en la zona inmediata
+encontrándose el costo por debajo al de Neuchatel. Por todo esto concluimos que la
+eficiencia es satisfactoria. A continuación, se presentan los costos según el PMR.
+                                                                32
+"
+"                                                                         Tabla 3. Costos del proyecto
+                                                                                                                                                Costo Revisado del Componente
+1. Componente: Número de créditos otorgados para la construcción de edificios multifamiliares para renta financiados con recursos del programa:
+ Contabiliza el número de créditos otorgados para proyectos de vivienda en renta financiados con recursos del programa cuya construcción haya sido         30.000.000,00
+ puesta en marcha.
+                 Definición del Resultado                                     2016           2017             2018          2019           2020                Costo
+                                                                 P              -        10.000.000,00 20.000.000,00           -             -             30.000.000,00
+ 1.1 Número de créditos otorgados para la construcción de
+     edificios multifamiliares para renta financiados con       P(a)            -        10.000.000.00   9.144.901,99          -             -             30.000.000,00
+                    recursos del programa.
+                                                                 A              -        20.855.098,01   9.144.901,99          -             -             30.000.000,00
+                                                                              2016           2017             2018          2019           2020                Costo
+                                                                 P              -        10.000.000,00 20.000.000,00           -             -             30.000.000,00
+                           Total Cost                           P(a)            -        10.000.000,00   9.144.901,99          -             -             30.000.000,00
+                                                                 A              -        20.855.098,01   9.144.901,99          -             -             30.000.000,00
+                                                                                        33
+"
+"2.4      Sostenibilidad
+    a. Aspectos generales de sostenibilidad
+    Es conveniente destacar que el programa ha promovido y se espera SHF seguirá
+    promoviendo la aplicación de los nuevos códigos mexicanos que impulsan la
+    sustentabilidad en proyectos de vivienda tales como: (i) capítulo de sustentabilidad
+    de los Criterios de sustentabilidad en el Código de Edificación de Vivienda (CEV)
+    vigentes que incluyen la selección e instalación de equipos mecánicos
+    energéticamente eficientes, servicios de sistema para aprovechamiento de las
+    energías renovables, iluminación eficiente y natural, ahorro y tratamiento de agua,
+    manejo de residuos, y áreas verdes en estas edificaciones y estructuras; (ii) La
+    “Guía Metodológica” del Instituto Nacional de Ecología (INE) sobre los
+    procedimientos de construcción e instalación de dispositivos ahorradores de
+    energía y agua; y (iii) los “Manuales Explicativos sobre las Hipotecas Verdes para
+    los Constructores de Vivienda” emitidos por el INFONAVIT.
+    De igual forma se instrumentaron los criterios de sustentabilidad estipulados en el
+    ROP para los componentes que permiten a las edificaciones reducir el uso de
+    energía en 10%, agua en 15%, manejo de residuos 20% y mejorar la ubicación,
+    entre otros, con el fin de disminuir los costos operativos del proyecto a largo plazo.
+    Asimismo, se ha utilizado pintura de bajas emisiones. Se espera se sigan
+    aplicando estas medias para mantener los resultados del programa durante la vida
+    útil de los edificios, esto es durante 30 años.
+    Cada uno de los proyectos incluyen en el contrato con los inquilinos
+    especificaciones sobre las obligaciones del mismo respecto a ahorro de energía,
+    ahorro de agua y gestión de residuos conforme a los Lineamientos para los
+    inquilinos (Green Leases) establecidos en el ROP; así como, aplicar Lineamientos
+    para Administradores en Renta estipulados en el ROP. Estas acciones son
+    fundamentales en el tiempo durante la vida útil de los proyectos para la
+    sostenibilidad de los resultados del programa. Ya se han identificado los
+    administradores que van a gestionar estos edificios como reflejado en la Matriz de
+    Resultados y que están comprometidos a la sustentabilidad y por ende hay
+    confianza en que la utilización de green leases por los eventuales inquilinos será
+    un hecho.
+    Como se ha mostrado en este PCR SHF ha incrementado su cartera de proyectos
+    de vivienda en renta lo que refleja el interés de los inversionistas para formalizar
+    e institucionalizar este mercado. Se puede afirmar que el interés del sector y los
+    beneficios que ofrece el programa son suficientemente buenos para seguir
+    impulsando la estandarización de vivienda sustentable en renta, no sólo para
+    ingresos medios sino eventualmente para otros estratos de ingresos. Estos
+    resultados se lograron incluso con el redimensionamiento del proyecto. Como ya
+    se mencionó, la cancelación de los fondos, como consecuencia del
+    encarecimiento de los recursos del Banco, redujo esta fuente de fondeo, pero no
+    la demanda de crédito de vivienda en renta para el SHF. En el diseño de la
+    operación se consideró el riesgo macroeconómico de deterioro en el cuadro
+    macroeconómico que desestimule la inversión privada y por ende la demanda de
+    financiamiento para inversiones. Este riesgo general fue mitigado con el
+                                           34
+"
+"     seguimiento de la cartera de la demanda de este tipo de proyectos. Se observó
+     que SHF contó con un pipeline amplio de proyectos de vivienda en renta, situación
+     que permitió que el programa de renta financiara proyectos con estándares de
+     Ecocasa con recursos también de otras instituciones como el KFW, sin que se
+     materializara el riesgo de falta de demanda.
+     b. Salvaguardas ambientales y sociales
+     El programa es catalogado por la Política de Medio Ambiente y Cumplimiento de
+     Salvaguardas del BID (OP 703) como un instrumento flexible de préstamo para el
+     cual la clasificación de impactos ambientales ex ante no es factible (al no
+     conocerse específicamente cuales créditos puente y créditos hipotecarios serán
+     apoyados por este programa), por lo que la presente operación no requirió
+     categorización por su nivel de impacto potencial.
+     En el ROP se previó que en el programa se detallaran los riesgos ambientales y
+     sociales en función del componente financiado, siendo los de mayor riesgo los
+     asociados a los créditos puente y, disminuyendo para créditos hipotecarios
+     individuales. Dichos riesgos son variados en su naturaleza, intensidad, duración y
+     significancia y están en función del tipo y ubicación de los proyectos
+     habitacionales a los cuales los créditos están asociados. De esta forma los
+     impactos directos están asociados a molestias e incomodidades causados por las
+     actividades propias de la construcción y son de baja significancia si no están
+     ubicados en áreas de alta sensibilidad ambiental. Estos impactos son localizados
+     y temporales durante el proceso constructivo o de remodelación y han sido
+     controlados fácilmente por prácticas estándares de construcción y buenas
+     prácticas de manejo ambiental de las actividades de los contratistas. Por otra
+     parte, los impactos indirectos son ocasionados por la mala administración en el
+     crecimiento urbano que acarrea a menudo un deterioro de las condiciones
+     ambientales circundantes y en algunos casos el estrés en servicios urbanos (p.ej.
+     agua potable, saneamiento, transporte público y vialidades). En este sentido, el
+     programa considera a la construcción de viviendas con estándares de
+     sustentabilidad y que también cuenten con buenos accesos, infraestructura y
+     servicios urbanos eficientes. Los aspectos sinérgicos de planeación urbana están
+     a cargo de los municipios a través de las disposiciones estatales y/o locales como
+     disposiciones de uso de suelo, reglamentos de construcción y leyes de
+     asentamientos humanos 41. El manejo de los riesgos del programa incluyó la
+     exclusión de proyectos de alto riesgo (conjuntos habitaciones en sitios donde se
+     presuma contaminación de suelo, cercano a áreas naturales protegidas o zonas
+     arqueológicas, etc.) así como de la modificación de los procesos existentes de
+     revisión, evaluación y autorización, particularmente los asociados a los créditos
+     puente, para la inclusión de la sistematización y documentación de la
+     consideración de aspectos ambientales y sociales. El manejo de los riesgos
+41 De acuerdo con el ROP, las operaciones del Sexto Programa no han contravenido las leyes y
+   reglamentos mexicanos de: Ordenamiento Ecológico, Desarrollo Urbano y la Ley de Vivienda de la
+   Secretaría de Desarrollo Social (SEDESOL), las de Ecología de SEMARNAT y la CONAGUA, los
+   Reglamentos de Construcción, los Reglamentos de Agua Potable y Descarga, de cada municipio o
+   Estado donde están localizados los edificios construidos. Se han aplicado los criterios establecidos por
+   CONAVI en el “Código de Edificación de Vivienda”.
+                                                  35
+"
+"      ambientales se ha complementado con la adopción de buenas prácticas de
+      construcción como las Directrices EHS del Grupo Banco Mundial.
+      Por lo anterior, se ha observado que el programa se encuentra en el marco de la
+      legislación del país con el Reglamento de Crédito. Cabe destacar que la
+      Subdirección de Supervisión de Avance de Obra de SHF ha llevado a cabo la
+      supervisión de los créditos a la construcción de vivienda, con especial énfasis en
+      la verificación para garantizar que se han incluido en los procesos de elegibilidad,
+      evaluación y aprobación de proyectos, la consideración de riesgos ambientales y
+      sociales y el fortalecimiento de los sistemas de control para complementar la
+      supervisión de dichos aspectos.
+      De acuerdo con la información proporcionada por SHF, el programa no ha
+      enfrentado retos en términos de salvaguardas ambientales ni sociales; asimismo
+      se ha fortalecido a SHF en las funciones no sólo de supervisión sino de revisión,
+      análisis y aprobación de los proyectos a ser financiados, considerando su
+      ubicación, para que de acuerdo con el ROP se lleven a cabo las acciones para
+      documentar sistemáticamente la información sobre aspectos ambientales y
+      sociales en sus solicitudes de crédito.
+      Con todo esto, concluimos que la sostenibilidad es satisfactoria. Los apartamentos
+      entraran próximamente en alquiler y son accesibles para la población meta y los
+      administradores en renta van a utilizar los contratos green lease y SHF continuará
+      apoyando este mercado como ya muestra el análisis de su cartera provista
+      anteriormente.
+ III. CRITERIOS NO CENTRALES
+ 3.1      Desempeño del Banco
+      En este programa el Banco ha participado activa y efectivamente desde el diseño
+      del programa hasta su instrumentación con asistencia técnica y una adecuada
+      supervisión y seguimiento en el desembolso de los recursos del préstamo para la
+      adecuada instrumentación del programa.
+      Calidad al ingreso de la operación: Es de destacar que esta operación se
+      incluyó en el “pipe line” de proyectos en julio de 2014, aprobándose el POD, con
+      los cuatro indicadores de resultados planeados durante la evaluación, en octubre
+      de 2015. A partir de ese momento el proceso para la aprobación del programa y
+      del préstamo por US$100 millones en el Directorio Ejecutivo fue expedito
+      autorizándose el 28 de noviembre de 2015.
+      Hay que resaltar que, si bien la cancelación de parte de los recursos tras la
+      elegibilidad no afectó a los resultados ni a la lógica del programa, si implicaron un
+      costo interno para el Banco, en el sentido de la eficiencia en la gestión del
+      portafolio de proyectos en México, en donde el monto promedio es mayor 42.
+      Con la finalidad de coadyuvar en la agilización del mercado de vivienda en alquiler
+      en México, el Banco aprobó en 2015 la cooperación técnica ATN/KR<U+02D7>15068<U+02D7>RG52
+42  El monto promedio de las operaciones en México en la cartera a noviembre 2019 es de
+    US$163 millones.
+                                            36
+"
+"     para dar asesoría técnica a las entidades del Gobierno Mexicano encargadas de
+     la política de vivienda como CONAVI y la SEDATU para avanzar en la formulación
+     de criterios básicos para que los estados reformen las leyes de alquiler y
+     balanceen mejor los derechos y deberes de propietarios, arrendadores e
+     inquilinos 43.
+     Asimismo, se utilizaron recursos administrativos para diseñar el esquema de
+     sustentabilidad de la operación, el cual consistió en un checklist que debían llenar
+     los desarrolladores para identificar si cumplían con criterios de sustentabilidad en
+     energía, agua y residuos.
+ 3.2     Desempeño del Prestatario
+     SHF es una sociedad nacional de crédito que funciona principalmente como banco
+     de segundo piso y cuyo objeto es impulsar el desarrollo de los mercados primario
+     y secundario de crédito a la vivienda, mediante el otorgamiento de crédito y
+     garantías destinadas a la construcción, adquisición y mejora de vivienda,
+     preferentemente de interés social 44. Asimismo, puede garantizar financiamientos
+     relacionados con el equipamiento de conjuntos habitacionales.
+     En la instrumentación y ejecución de este programa, SHF ha cumplido con los
+     compromisos adquiridos en los documentos legales que formalizaron este
+     préstamo para el apoyo de los tres proyectos financiados conforme a sus políticas,
+     procedimientos y normativa y de acuerdo con las especificaciones establecidas
+     en el ROP, en materia de elegibilidad de créditos para la construcción,
+     remodelación y adquisición de proyectos destinados a la vivienda en renta,
+     mecanismos de asignación de recursos y mecanismos de gestión ambiental y
+     social.
+     Se estableció una Unidad Coordinadora que se ha responsabilizado del buen
+     manejo y uso de los recursos observando los aspectos fiduciarios del préstamo,
+     con el fin de dar cumplimiento al objetivo del programa; asimismo ha supervisado
+     el cumplimiento de los criterios de elegibilidad y sustentabilidad del programa por
+     las Estructuras Autorizadas, como por parte de los subprestatarios y receptores
+     de los tres créditos elegibles que se otorgaron al amparo del programa. De igual
+     forma, la Unidad Coordinadora se ha responsabilizado del cumplimiento de los
+     mecanismos de supervisión y control contenidas en el ROP, monitoreando
+     permanentemente el cumplimiento de los compromisos contractuales, haciéndose
+     responsable de servir como canal de comunicación y contacto con el Banco.
+ IV. HALLAZGOS Y RECOMENDACIONES
+     Dimensión Técnica-sectorial. El programa presenta cierta complejidad en su
+     instrumentación, debido principalmente a la volatilidad financiera presentada en
+     los mercados. El programa se instrumentó en tiempo y forma, e inclusive alcanzó
+     y rebasó la meta antes de lo previsto, salvo la comprobación del indicador de
+43 Esta cooperación técnica se aprobó en julio 2015.
+44 Ley Orgánica de SHF, Última reforma publicada DOF 10-01-2014, párrafo reformado DOF 22-06-2006,
+   20-08-2008.
+                                                37
+"
+"resultados de los contratos “Green Lease” en virtud de que la construcción de los
+proyectos no ha concluido. El ejecutor cuenta con la capacidad técnica y recursos
+de cooperaciones técnicas que le han permitido evaluar, financiar y supervisar los
+proyectos de vivienda.
+Así mismo, el programa logró contribuir en la profesionalización del sector a través
+de reglas para la operación de edificaciones de vivienda en renta, que incluyen
+temas de sustentabilidad tanto en la construcción como en la operación. Gracias
+a los esfuerzos del programa de SHF a la fecha hay más de 70 proyectos de
+vivienda en renta y una asociación de administradores de vivienda en renta.
+En cuanto a la cancelación de parte de los recursos al momento de la elegibilidad,
+si bien el programa pudo alcanzar los objetivos con el nuevo redimensionamiento,
+este hecho supone un coste en términos de eficiencia para el Banco en su tarea
+de gestión de la cartera.
+Al analizar la totalidad de la CCLIP que terminó con este programa, se observa
+como se fueron especializando los programas de financiamiento con SHF. Se
+observó una flexibilidad en el acompañamiento del BID para atender las
+necesidades de SHF en cada una de las etapas, considerando sus áreas
+prioritarias, así como la evolución que ha tenido el mercado de vivienda.
+Así las primeras operaciones de la CCLIP iniciaron con montos muy elevados para
+que pudieran mejorar sus condiciones financieras empatando su balance con
+pasivos de más largo plazo. En el momento en que SHF salió del mercado
+hipotecario de largo plazo, e inició con proyectos de fondeo de menor plazo con
+los desarrolladores de vivienda y mejora de vivienda, el espacio de colaboración
+con el Banco se ha ido reduciendo, debido a que los recursos del Banco son más
+atractivos en el largo plazo, sin embargo, SHF siguió trabajando con el Banco,
+valorando el apoyo del Banco aún cuando los fondeos del BID no sean tan
+atractivos en proyectos de menor plazo.
+Este último programa de vivienda en renta, aun cuando SHF contaba con la
+liquidez suficiente para hacer el programa sin el Banco, consideró importante el
+apoyo y acompañamiento del BID por lo cual no canceló en su totalidad el
+programa.
+Dimensión organizacional y gerencial. La aprobación y aplicación de la ley de
+austeridad, propició a principios de 2019 la salida de personal técnico y financiero
+probados de la SHF; no obstante, el personal que a la fecha es responsable de la
+coordinación de los programas financiados con recursos externos cuenta con la
+experiencia y solidez para desempeñar sus funciones.
+Es importante mencionar que, a partir del 2019, SHF depende operativamente del
+Director General de Banobras, por lo que las prioridades y programas
+seguramente tendrán un toque mucho más integral con respecto al tema de
+desarrollo urbano e infraestructura, con lo que el programa de vivienda en renta
+podría potenciar una estrategia de desarrollo urbano e infraestructura mucho más
+amplia. También podría darse el caso de que Banobras al ser un banco de
+desarrollo mucho más grande que SHF absorba la atención y prioridades de la
+Dirección General, con lo que SHF podría ser menos relevante.
+                                     38
+"
+"Dimensión relacionada con los procesos públicos/actores. No obstante que este
+programa se instrumentó y desembolsó en la administración anterior, los
+resultados obtenidos podrán apoyar el análisis para la implementación de una
+política pública en materia de vivienda en renta. Una ventaja importante para la
+continuidad de los proyectos de vivienda en renta es la creación de la Asociación
+de Vivienda en Renta en 2017, con lo cual se institucionaliza el sector.
+El programa y el préstamo tuvo los vistos buenos correspondientes de la SHCP,
+CONAVI, SEDATU y la propia SHF, con lo cual se apoyó uno de los pilares de
+desarrollo urbano y vivienda establecidos en la administración anterior.
+Así también se cumplieron todos los compromisos contraídos con el Banco.
+Derivado del éxito de este programa, se debería de empezar a ver cómo podemos
+implementar un programa de esta naturaleza en otros países y difundir los
+resultados.
+Dimensión Fiduciaria. Por ser financiamiento a IFI, en esta operación no se
+incluyen procesos de licitación, ya que los desarrolladores se rigen sobre bases
+comerciales y de mercado para la adquisición de los bienes y servicios que
+requieren para construir las viviendas. Los EFAS para el ejercicio 2018, se
+encuentran finalizados. Los recursos del préstamo se terminaron de comprobar
+en diciembre de 2018.
+Administración de riesgo. SHF cuenta con un área sólida en materia de riesgos
+de crédito, financieros y de mercado, que mitigan su riesgo de operación; sin
+embargo, existen riesgos políticos que deben considerarse, derivado de la
+aplicación de nuevas leyes y normas de la nueva administración gubernamental
+ya que habrá un nuevo enfoque en la política de vivienda, en donde se dará
+preferencia a la mejora de vivienda, sin embargo este riesgo se minimiza ya que
+la industria logró profesionalizarse durante estos últimos 5 años, con lo cual se
+requerirá menos la intervención del Estado.
+                                     39
+"
+"                                               Tabla 4. Hallazgos y recomendaciones
+                       Hallazgos                                                       Recomendaciones
+Dimensión 1: Técnica-sectorial.
+                                                          Recomendación # 1: Instrumentar talleres antes y durante la evaluación y
+Hallazgo # 1: Alto grado de complejidad en el diseño del  ejecución de los programas.
+programa.                                                 Recomendación # 2: Revisión de los aspectos técnicos y legales que
+                                                          impactan en el diseño de los indicadores a reportar en la matriz de resultados.
+                                                          Recomendación # 3: Dar seguimiento con el prestatario el contenido y
+Hallazgo # 2: Incumplimiento del indicador de contratos”  alcance de los indicadores incluidos en la matriz de resultados teniendo en
+Green Leases”.                                            cuenta los tiempos necesarios para la construcción e inicio de operación de
+                                                          los desarrollos.
+                                                          Recomendación # 5: Durante la ejecución de la CCLIP se observó que la
+                                                          Asistencia Técnica fue muy relevante para todos los proyectos que tuvieron
+Hallazgo # 3: La asistencia técnica es indispensable      un componente innovador: en específico ECOCASA y este programa de
+para la instrumentación de los programas.                 vivienda en renta. Será relevante continuar apoyando con cooperaciones
+                                                          técnicas, en la medida de lo posible, que faciliten el entendimiento,
+                                                          instrumentación y seguimiento en programas subsiguientes.
+Dimensión 2: Organizacional y gerencial.
+                                                          Recomendación # 7: Continuar difundiendo y promoviendo el programa,
+                                                          buscando lograr un mayor impacto.
+Hallazgo # 5: Experiencia y conocimiento del programa
+                                                          Recomendación # 8: Trabajar con el prestatario para fortalecer a la Unidad
+y de las mejores prácticas.
+                                                          Coordinadora en el diseño, implementación y seguimiento de nuevos
+                                                          programas dentro de su ámbito de influencia.
+Dimensión 3: Procesos públicos/actores.
+Hallazgo # 6: Cumplimiento de obligaciones en el          Recomendación # 10: Proporcionar información al Banco una vez que entren
+proceso de autorizaciones interno y externo.              en operación los proyectos para actualizar los resultados de impacto.
+Dimensión 4: Fiduciaria.
+                                                          Recomendación # 11: Mantener el seguimiento en tiempo y forma de los
+Hallazgo # 7: Seguimiento de auditorías.
+                                                          estados financieros de los proyectos.
+Dimensión 5: Administration de riesgo.
+                                                          Recomendación # 12: Dar seguimiento al mercado de vivienda en renta y
+                                                          observar cómo los actores privados atienden el sector sin el apoyo del sector
+                                                          público.
+Hallazgo # 8: Riesgos de operación.
+                                                          Recomendación # 13: Considerar en los riesgos del programa la posibilidad
+                                                          de que el país solicite la cancelación de parte de los recursos por las
+                                                          fluctuaciones macroeconómicas y establecer medidas de mitigación.
+                                                                  40
+"

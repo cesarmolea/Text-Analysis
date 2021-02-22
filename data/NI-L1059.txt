@@ -1,0 +1,1805 @@
+"outlist[[i]]"
+"INFORMACIÓN BÁSICA DEL PROYECTO
+ NÚMERO (S) DE PROYECTO: NI-L1059
+ TÍTULO: PROGRAMA DE ACOMPAÑAMIENTO A LA IMPLEMENTACIÓN DE LA POLÍTICA NACIONAL PARA LA PRIMERA
+ INFANCIA EN COMUNIDADES PRIORIZADAS.
+ INSTRUMENTO DE PRÉSTAMO: PRÉSTAMO DE INVERSIÓN
+ PAÍS: NICARAGUA
+ PRESTATARIO: REPÚBLICA DE NICARAGUA
+ PRÉSTAMO (S): 2725/BL-NI
+ SECTOR / SUBSECTOR: INVERSIONES SOCIALES/DESARROLLO DE LA PRIMERA INFANCIA
+ FECHA DE APROBACIÓN POR EL DIRECTORIO: 23 MAYO 2012
+ FECHA DE EFECTIVIDAD DEL CONTRATO DE PRÉSTAMO: 15 FEBRERO 2013
+ FECHA DE ELEGIBILIDAD PARA EL PRIMER DESEMBOLSO: 30 ABRIL 2013
+ MONTO (S) DEL PRÉSTAMO
+ CANTIDAD ORIGINAL: 20.000.000
+ CANTIDAD ACTUAL: 20.000.000
+ PARI PASSU: 28.000.000
+ COSTO TOTAL DEL PROYECTO: 48.000.000
+ MESES EN EJECUCIÓN
+ DE APROBACIÓN: 72 MESES
+ DE LA EFECTIVIDAD DEL CONTRATO: 63.5 MESES
+ PERIODOS DE DESEMBOLSOS
+ FECHA ORIGINAL DEL DESEMBOLSO FINAL: 15 FEBRERO 2017
+ FECHA ACTUAL DEL DESEMBOLSO FINAL: 30 DE MAYO 2018
+ EXTENSIÓN ACUMULATIVA (MESES): 15.5 MESES
+ EXTENSIONES ESPECIALES (MESES): N/A
+ DESEMBOLSOS
+ CANTIDAD TOTAL DE DESEMBOLSOS HASTA LA FECHA: 7
+ GRÁFICO DE DESEMBOLSOS
+                             Desembolsos USD (NI-L1059)
+                  25000000                                                  50%
+                  20000000                                                  40%
+                  15000000                                                  30%
+                  10000000                                                  20%
+                   5000000                                                  10%
+                         0                                                  0%
+                              1       2       3       4       5        6
+                                  Año      Desembolso       Porcentaje
+ RE-DIRECCIONAMIENTO. ¿TIENE ESTE PROYECTO?
+ FONDOS DE OTRO PROYECTO: NO
+ FONDOS ENVIADOS A OTRO PROYECTO: NO
+                                                iv
+"
+"Calificaciones del desempeño del proyecto en los PMR:
+                                                                                   Desembolsos reales
+     No.   PMR Fecha                   Etapa de PMR         Calificación           acumulados (millones
+                                                                                   de USD)
+           Enero a diciembre           Etapa 1             N/A
+           2012
+           Enero a diciembre           Etapa 2             Satisfactorio
+           2013
+           Enero a diciembre           Etapa 2             Satisfactorio
+           2014
+           Enero a diciembre           Etapa 2             Satisfactorio
+           2015
+           Enero a diciembre           Etapa 2             Satisfactorio
+           2016
+           Enero a diciembre           Etapa 3             Satisfactorio
+           2017
+METODOLOGÍA DE ANÁLISIS ECONÓMICO EX POST: ANÁLISIS COSTO-BENEFICIO
+METODOLOGÍA DE EVALUACIÓN EX POST: LINEA DE BASE (ANTES Y DESPUÉS)
+CLASIFICACIÓN DE EFECTIVIDAD DE DESARROLLO: Exitoso
+PERSONAL DEL BANCO
+                 POSICIONES                EN PCR                               EN LA APROBACIÓN
+    VICEPRESIDENTE VPS                      ANA MARIA RODRIGUEZ ORTIZ           SANTIAGO LEVY ALGAZI
+    VICEPRESIDENTE VPC                      ALEJANDRE MEIRA DA ROSA              ROBERTO VELLUTINI
+    GERENTE DE PAÍS                         VERÓNICA ZAVALA                      GINA MONTIEL
+    GERENTE SECTORIAL                       MARCELO CABROL                       HECTOR SALAZAR
+    JEFE DE DIVISIÓN                        FERDINANDO REGALIA                   FERDINANDO REGALIA
+    REPRESENTANTE DE PAÍS                   BAUDOUIN DUQUESNE                    CARLOS MELO
+    JEDE DE EQUIPO DEL PROYECTO             LEONARDO PINZÓN ENCISO               FLORENCIA LÓPEZ-BOO
+    JEFE DE EQUIPO DEL PCR                  LEONARDO PINZÓN ENCISO               LEONARDO PINZÓN
+                                                                                ENCISO
+Tiempo y costo del personal http://analytics:4030/Resources.aspx?oper=NI-L1059
+  Ciclo de proyecto de etapa           # de semanas de personal           USD (incluidos los gastos de
+                                                                          viaje y asesoría)
+  Preparación                          29                                 208.338,2
+  Supervisión                          128                                811.954,99
+  Total                                157                                1.020.293,19
+DECLARACIÓN DE LOS OBJETIVOS DE DESARROLLO DEL PROYECTO / PROGRAMA:
+Propiciar el desarrollo de las capacidades cognitivas, afectivas, motrices y sociales de los niños menores
+de 6 años en comunidades priorizadas. Esto se hará por medio de los objetivos intermedios de:
+(i) sensibilizar, formar y capacitar a padres y madres para propiciar una adecuada nutrición, salud,
+educación y buen trato, y lograr su participación activa en la promoción y cumplimiento de los derechos
+de la primera infancia; (ii) mejorar el acceso a los servicios de primera infancia por parte de poblaciones
+que se encuentran dispersas; y, (iii) mejorar la calidad de la atención de los servicios públicos.
+                                                      v
+"
+"          I.   INTRODUCCIÓN
+En Nicaragua para el año 2009, cerca de la mitad de los hogares del país eran pobres (43% de
+los hogares 1). Poco más de la mitad de los niños de 0 a 5 años cumplidos era pobre (71% en el
+área rural y 33% en el área urbana), lo que demuestra la vulnerabilidad de la infancia
+nicaragüense. Según el Instituto Nacional de Información para el Desarrollo (INIDE) 2, solamente
+el 9,4% de los niños menores de seis años en el área rural alcanzaba un nivel alto en el Índice de
+Bienestar de la Primera Infancia 3. Además, la desnutrición crónica se situaba en el 22% para los
+niños entre 0 y 5 años y el 19,4% para los niños entre 6 y 23 meses, con mayor incidencia en las
+familias más pobres, rurales y aquellas con madres con menor nivel de instrucción 4.
+Los niños exhibían importantes rezagos en su desarrollo cognitivo aún antes de iniciar la escuela.
+De acuerdo con un estudio realizado en una muestra de niños pobres en zonas rurales 5 de entre
+5 y 6 años, se observó que el 85% de ellos presentaba un retraso relativo de 1 año y 9 meses
+respecto a las normas internacionales. Cuando se compara a los niños con madres más
+educadas con aquellas madres menos educadas, se encuentran brechas significativas.
+La evidencia nicaragüense sugiere que estas brechas se deben a: (i) la pobreza y el bajo nivel
+de educación de los padres; (ii) el poco conocimiento de parte de los padres de mejores prácticas
+de crianza, de fortalecimiento de relaciones positivas y no violentas, del apego, la nutrición
+adecuada y la estimulación temprana; y (iii) el bajo uso de los servicios existentes 6.
+El Gobierno de Nicaragua mediante Decreto Presidencial Nº. 61-2011 con fecha veintinueve de
+noviembre de dos mil once, aprobó la Política Nacional para la Primera Infancia (PNPI) 7 (Amor
+para los más chiquitos y chiquitas, como la plena restitución de todos los derechos para las niñas
+y niños nicaragüenses menores de seis años, según la cual ellas y ellos empiezan a ejercer sus
+derechos desde que se encuentran en el vientre materno, a través de la atención integral de la
+madre y en todos los momentos de su vida, en la salud, seguridad y soberanía alimentaria,
+educación, estimulación temprana, desarrollo psicomotriz, afectivo, cognitivo, comunicacional y
+en formación en valores. La PNPI permitirá la articulación e integralidad de todos los programas
+y acciones dirigidos a la infancia que impulsan las instituciones del Sistema Nacional para el
+Bienestar Social (SNBS), conformado básicamente por instituciones relacionadas con el ámbito
+social, siendo las principales: MIFAN, MINED y MINSA.
+En este marco, en Diciembre de 2012 el Gobierno de Nicaragua (GDN) y el Banco Interamericano
+de Desarrollo (BID), suscribieron el contrato de Préstamo 2725/BL-NI denominado “Programa
+de Acompañamiento a la Implementación de la Política Nacional para la Primera Infancia
+en comunidades priorizadas (PAIPPI) 8, determinando que el Ministerio de la Familia,
+Adolescencia y Niñez (MIFAN) será el ejecutor, por tener un rol preponderante en el SNBS como
+1   Encuesta de Medición del Nivel de Vida (EMNV) de 2009,
+2   EMNV 2009 y Índice de Bienestar de la niñez y adolescencia nicaragüense (2009)
+3   Datos del estudio nacional de las condiciones de vida (2009) y Primera versión del índice de bienestar de la niñez
+    y la adolescencia nicaragüense (2009)
+4   INIDE, Encuesta Demográfica y de Salud ENDESA (2006-07)
+5   Fuente: Macours, Schady y Vakis (2008) en base datos de desarrollo cognitivo para las zonas rurales, medidas a
+    través del Test de vocabulario en Imágenes Peabody (TVIP), un test que ha sido usado en países latinoamericanos
+    (Schady et al, 2011). La evaluación de PAININ III (Santiago consultores 2011) muestra magnitudes de rezago
+    similares, aun usando distintas medidas como el Inventario de Desarrollo Comunicativo (MacArthur), y el Test de
+    Desarrollo Motor en las Escalas de Aptitudes y Psicomotricidad para Niños (McCarthy).
+6   UNESCO, 2010, Macours, Schady y Vakis, 2008; Villanger, 2008; Memoria del Foro Amor para los más Chiquitos
+    (APLMC); 2011, Evaluación del PAINNIN III; Santiago Consultores, 2011; EMNV, 2009; Ministerio de Salud
+    (MINSA) 2008; United Nations Population Fund (UNFPA), 2011; entre otros.
+7   Política Nacional para la Primera Infancia – Decreto Presidencial N° 61-2011 (2011)
+8   Contrato de Préstamo 2725/BL-NI (NI-L1059)
+                                                                                                                     1
+"
+"el ejecutor principal del Programa Amor y Coordinador de las acciones que emanan de la PNPI,
+desde la Comisión Técnica Nacional de amor para los más chiquitos (CTEC - APLMC).
+El programa consta de 3 componentes: (i) Componente 1: financia la atención integral a la niñez
+de forma parcial a la atención integral a los niños 0-6 años en 37 municipios priorizados,
+distribuido en dos grupos etarios: niños entre 0-3 años en el que utilizó una estrategia domiciliar
+de visitas de apoyo parental, y niños mayores de 3 hasta 6 años, con alternativa institucional en
+preescolares con visitas domiciliares de apoyo parental con menor frecuencia y duración con el
+fin de promover prácticas de higiene y salubridad, registro civil, nutrición y matrícula en el
+preescolar; (ii) Componente 2: Mejoramiento y dotación de espacios y capacitación del recurso
+humano: el objetivo es capacitar recursos humanos y crear ambientes aptos para el desarrollo
+infantil con equipamiento y condiciones físicas de la red de centros comunitarios de atención
+integral con recursos humanos de MIFAN, MINED y MINSA. Además, incluye reparaciones de
+acceso a agua potable, piso, techos seguros, letrinas y cercado perimetral, así como
+reparaciones menores en salas de estimulación temprana de las unidades de salud;
+(iii) Componente 3: Gestión, Supervisión y Evaluación que fortalece los mecanismos de gestión,
+supervisión y evaluación del Programa, con subcomponentes de asistencias técnicas y gastos
+operativos dirigidos a las delegaciones departamentales, municipios y comunidades, para
+garantizar la adecuada aplicación del protocolo de atención. Otro Subcomponente es el
+financiamiento del mantenimiento de un sistema de información gerencial integrado por los tres
+ministerios denominado “Registro Único de Protagonistas” para actualizaciones periódicas del
+sistema y consolidación de la información. Finalmente, el programa contempla los costos de
+informe de verificación de las coberturas reportadas en el Componente 1, complementada por
+una evaluación de desempeño anual independiente y evaluación de impacto del Programa.
+El Programa PAIPPI estuvo focalizado geográficamente. En un primer paso y basado en la
+metodología oficial por el INIDE en 2008, se estableció la lista abierta de 53 municipios elegibles,
+ya que presentaban un índice de Pobreza Extrema Ajustada (M0) mayor a 0,20. En un segundo
+paso se preseleccionaron 37 de los 53 municipios antes mencionados 9, ya que estos eran
+aquellos que contaban con información disponible de los indicadores específicos de la Tasa Bruta
+de Escolarización (TBE) del grupo de 3 a 6 años y la Tasa de Mortalidad Infantil (TMI). En un
+tercer paso, y dado que los recursos del programa no eran suficientes para cubrir la población
+total de niños en estos municipios, según el ejercicio de costeo 10, se focalizó el programa en los
+segmentos censales más pobres (esto es, con M0 mayor a 0,20) lo que daría cobertura a no
+menos de 80.000 niños por un periodo de dos años y medio.
+El PAIPPI proponía que con un financiamiento de un monto fijo per cápita, bajo especificaciones
+de calidad de prestaciones de reconocida efectividad, y al propiciar las capacitaciones y la
+dotación de equipos básicos en los municipios beneficiarios, se esperaba que aumentara el uso
+y la cobertura de estos servicios, y resultara en una mejora de la calidad de la atención a la niñez.
+Se ha documentado que las inversiones en salud, la buena nutrición, el desarrollo cognitivo y el
+bienestar emocional de los niños durante sus primeros años de vida, tienen el potencial de igualar
+oportunidades y, por tanto, de reducir en forma estructural la desigualdad 11. Los primeros
+1.000 días de la vida de un niño proveen una ventana de oportunidad, corta y única, para
+estimular su potencial. Entre los elementos esenciales de una atención integral del desarrollo
+infantil se destaca la necesidad de contar con una buena nutrición y con servicios de salud
+durante el embarazo, el parto y la vida del niño. Además, hoy en día se conoce la importancia de
+la “calidad” de la experiencia de la crianza, así como de las interacciones entre los padres o
+9    Ver EEO3
+10   Ver EEO1
+11   Engle, et al.,2011; Nores and Barnett, 2010; Engle, et al., 2007, Berlinksi et al., 2009, 2008; Baker –Henningham y
+     López Boo, 2010, Grantham Mc Gregor et al, varios años.
+                                                                                                                      2
+"
+" cuidadores y los niños. Es la sincronía entre todos estos elementos la que logra que sus efectos
+ sean mayores de los que se obtendrían con acciones aisladas.
+ Un programa anterior al PAIPII denominado Programa Urbano de Bienestar para la niñez en
+ extrema pobreza (2264/BL-NI), aprobado por el BID en el año 2009 y ejecutado entre octubre
+ 2010 y mayo 2015, presentó importantes resultados de impacto en la niñez atendida,
+ principalmente en los niños de hogares más pobres, con madres con menos años de educación
+ y en situación de desempleo, lo que indica que las intervenciones en la primera infancia tienen
+ mayores impactos en las poblaciones más vulnerables, un interesante resultado para ser tomado
+ en cuenta en la definición de políticas públicas y modalidades de atención 12.
+ El presente PCR tiene por objetivo presentar los resultados del desempeño del programa al final
+ de la fase de ejecución y documentar los principales hallazgos, recomendaciones y lecciones
+ aprendidas desde la experiencia del programa PAIPPI. La calificación general es el resultado de
+ la suma de los cuatro criterios centrales. Se utiliza una escala de cuatro puntos para cada criterio
+ central, donde la escala es positiva (“Excelente” y “Satisfactorio”).
+              I. Efectividad en el Desarrollo – Criterios Centrales
+              Calificación General recomendada                                           Exitoso
+                  Ámbito de Desempeño                 Calificación                        Peso
+              1. Relevancia                                 4                             20%
+              2. Efectividad                                3                             40%
+              % de resultados alcanzados                 85.1%
+              3. Eficiencia                                 4                             20%
+              4. Sostenibilidad                             3                             20%
+              II. Efectividad en el Desarrollo – Criterios No Centrales
+              Desempeño del Banco                                                     Satisfactorio
+              Desempeño del Prestatario                                               Satisfactorio
+           II. CRITERIOS CENTRALES. RENDIMIENTO DEL PROYECTO
+II.1       Relevancia
+                     a. Alineación con las necesidades de desarrollo del país
+ Nicaragua enfrentaba dos retos diferentes: (i) la atención de niños 0 a 3 años, para quienes no
+ existía un Programa público de atención integral con cobertura significativa; y (ii) la atención de
+ los niños entre 3 y 5 años para quienes necesitaban servicios que llegarán a las poblaciones
+ aisladas a bajo costo, ya que la distancia parece ser un determinante importante de la asistencia.
+ Asimismo, en cuanto a la demanda, la misma EMNV plantea como razones de no asistencia a
+ los servicios de primera infancia que: (i) no tiene suficiente edad (33%); (ii) no lo necesita (45%);
+ y (iii) por falta de dinero (4,8%), entre otros. La baja cobertura entonces no se debe sólo a la falta
+ de oferta, sino mayormente de demanda, por lo que el enfoque de atención debe ser el fomentar
+ la valoración por parte de los padres, de las prestaciones de primera infancia.
+ La oferta de la atención integral para la etapa de 0 a 3 años está a cargo del Ministerio de la
+ Familia, Adolescencia y Niñez (MIFAN), a través de los Centros de Desarrollo Infantil y en la
+ modalidad de visita casa a casa a través del Programa amor para los más chiquitos.
+ 12  Resultados de la Evaluación de Impacto del Programa Urbano de Bienestar para la niñez en extrema pobreza
+     (2265/BL-NI). Este estudio fue realizado por un equipo del BID (División de Salud y Protección Social y Salud) y
+     consultores de la Universidad Católica de Chile, liderados por la especialista Florencia Lopez Boo
+                                                                                                                   3
+"
+"En 2012 MIFAN atendió a 45.000 niños aproximadamente, de los cuales casi el 60% viven en el
+área rural. Esa cobertura equivale al 11% de la población nacional de esa edad.
+La oferta para los niños de 3 a 6 años está a cargo del Ministerio de Educación (MINED), a través
+de los prescolares (formales y comunitarios). Según el MINED en 2012, 5,8 de cada 10 niños en
+la edad correspondiente no reciben educación prescolar (7 de cada 10 en zonas rurales
+pobres) 13. En este grupo las razones principales de no asistir a un prescolar son que “está lejos
+de la casa” (9,7%); y/o “no tiene quien lo lleve” (1,4%) 14.
+El Programa estuvo alineado a la PNPI, que indica que cada institución del sector social, según
+su mandato y experticia, es responsable de proveer los recursos e implementar las acciones para
+mejorar los indicadores que le corresponden en vía del desarrollo integral de la niñez. La PNPI
+estipula para su implementación que las entidades del sector se articulen en el llamado Sistema
+Nacional de Bienestar Social (SNBS).
+La importancia de este marco de políticas es que reconoce la necesidad de invertir en la
+protección del capital humano del país, mediante acciones intersectoriales que acompañen el
+ciclo de vida de las personas, basado en el lineamiento del Plan Nacional de Desarrollo Humano
+(PNDH) que establece acciones por el bien común y la equidad social de las familias
+Nicaragüense, entre ellas: (i) educación de calidad para todos y todas; (ii) ampliar y fortalecer
+la educación inicial; (iii) restitución del derecho de niños y niñas a vivir una niñez digna y feliz;
+(iv) garantizar el cuidado de hijos e hijas de madres que trabajan, brindando atención integral
+para mejorar sus condiciones educativas, nutricionales y de salud; y (v) restituir el derecho de
+niños y niñas a ser inscritos en el Registro Civil de personas 15
+De esta manera, el PAIPPI surgió por la oportunidad e importancia de iniciar la implementación
+de la PNPI, teniendo en cuenta la necesidad de expandir la cobertura, focalizarse mejor en la
+población más vulnerable, y fomentar la calidad de los servicios, logrando disminuir la brecha de
+atención de 0 a 3 años con una atención de 33.192 niños de 32.949 familias que recibieron
+24 visitas de promoción del desarrollo al año, con una periodicidad quincenal y una duración de
+60 minutos. En el grupo de 3 a 6 años se contribuyó también a la disminución de la brecha de
+cobertura prescolar logrando integrar a 30.089 niños de 28.258 familias en los tres niveles de
+atención y atender a 27.778 niños de 25.895 familias en visitas de promoción del desarrollo,
+realizando seis visitas por año (una cada dos meses), con una duración de 60 minutos.
+                   b. Alineación estratégica
+El PAIPPI fue consistente con los objetivos estratégicos del BID. Estas mediciones se alinean
+con las prioridades de la Estrategia de País con Nicaragua (EPN) 2008-2012 16, y Alineación con
+el Noveno Aumento de Capital, GCI-9 17.El Programa contribuyó directamente a la línea de
+“Apoyar a las familias de menores ingresos a través de acciones orientadas al desarrollo integral
+de los niños menores de seis años”. Específicamente a los indicadores de: (i) aumento en la
+cobertura de los servicios de salud, en particular materno-infantil; (ii) número de niños menores
+de seis años recibiendo servicios de atención integral (estimulación temprana, complemento
+nutricional, vigilancia de crecimiento y desarrollo, y aprestamiento escolar); y (iii) reducción del
+porcentaje de niños menores de seis años con desnutrición crónica en los municipios (rurales)
+priorizados. Asimismo, el programa contribuyó de forma directa con la Estrategia de País con
+13  Verdisco et al, 2009.
+14  EMNV, 2009
+15  Plan Nacional de Desarrollo Humano 2012-2016
+16  GN-2499: Estrategia de País con Nicaragua 2008-2012
+17  AB-2764: Noveno Aumento General de Recursos del BID
+                                                                                                   4
+"
+"Nicaragua 2012-2017, la que plantea como objetivo la atención integral de la primera infancia,
+mejorar el acceso y ampliar el uso de servicios en especial de los primeros 1.000 días de vida.
+El Programa se enmarcó dentro de la política social favorable a la igualdad y la productividad,
+promovida por el mandato del GCI-9 18a través de la ampliación del acceso a servicios de
+atención integral a la niñez, así como a los servicios básicos de salud y nutrición. Los resultados
+del presente programa apoyaron directamente las metas de desarrollo regional de: (i) aumento
+de la matricula preescolar; (ii) aumento en el registro de niños recién nacidos; (iii) una reducción
+de la mortalidad infantil; y (iv) aumento en el indicador de personas (indígenas y no indígenas)
+que se benefician de un paquete de atención integral a la niñez.
+                   c. Relevancia del Diseño
+La lógica vertical con que fue diseñado el programa fue directa y pertinente (ver Figura 1).
+Los productos y entregables que fueron financiados, se tradujeron en resultados. Se evidencia
+consistencia en el diseño y la ejecución del Programa. Los indicadores de impacto, resultados y
+de productos se mantuvieron alineados con los objetivos planteado en el programa, referido a:
+“Propiciar el desarrollo de las capacidades cognitivas, afectivas, motrices y sociales de los niños
+menores de seis años en comunidades priorizadas”.
+Se analizaron tres aspectos a nivel de diseño: (i) la lógica vertical, donde se revisa la vinculación
+efectiva entre los productos establecidos con el cumplimiento de los objetivos y resultados
+esperados; (ii) los resultados logrados a través de la Matriz de Resultados (MR); y (iii) análisis
+de la atribución de los resultados, basado en la evaluación de impacto del Programa.
+Para logar el cumplimiento de los objetivos específicos, el Programa apoyó la atención integral
+a la niñez de 0 a 6 años en 37 municipios priorizados con énfasis en el grupo de los niños de
+0 a 3 años 19 con dos intervenciones clave.
+En primer lugar, el PAIPPI contempló el financiamiento de un monto fijo por niño atendido,
+relacionado al costo incremental de un conjunto de intervenciones de atención integral en los
+ámbitos de nutrición, salud, promoción integral del desarrollo infantil en la familia, y educación
+preescolar con las especificaciones acordadas. El financiamiento del monto fijo per cápita, bajo
+especificaciones de calidad de prestaciones de reconocida efectividad y al propiciar
+capacitaciones y la dotación de equipos básicos en los municipios beneficiarios, se esperaba que
+aumentara el uso y la cobertura de estos servicios, y resulte en una mejora de la calidad de la
+atención a la niñez.
+En segundo lugar, la atención directa para la primera etapa (0 a 3 años) se basó en una
+estrategia de apoyo parental donde se visitaba a las familias visitas casa a casa (aprox. 24 visitas
+anuales de 60 minutos de duración cada una); mientras la alternativa institucional en
+preescolares se dirigió a los niños mayores de tres años, que también recibirán visitas
+domiciliarias de apoyo parental, pero con menor duración y frecuencia (10 visitas anuales de
+90 minutos cada una, si la familia se acaba de incorporar y bajando al segundo y tercer año, a
+menos que antes de ello todos los niños del hogar hayan alcanzado la edad de escolaridad
+primaria). En estas visitas, un agente calificado interactúa con los niños y sus padres o madres
+para modelar prácticas de cuido y crianza, promover prácticas de higiene y salubridad, el registro
+18 GN-2588-4: Estrategia para una política social favorable a la igualdad y la productividad, que establece como
+   esfera prioritaria la inversión en la primera infancia.
+19 Se financió un monto fijo por niño atendido, relacionado al costo incremental de conjunto de intervenciones de
+   atención integral en nutrición, salud, promoción integral del desarrollo infantil en la familia, y educación preescolar.
+   El monto se estima en: (i) US$100 anuales por niño menor de 6 años para la visita domiciliaria de atención integral;
+   (ii) US$25 anuales por niño de 3 a 6 años para la provisión de una merienda en un centro de atención; y
+   (iii) US$35 anuales por niño menor de 6 años, para la atención integral en nutrición y salud.
+                                                                                                                         5
+"
+"civil y la matricula preescolar. Los aspectos de la promoción de la salud y nutrición en todo el
+rango de edad fueron responsabilidad del personal del MINSA bajo referencia activa del MIFAN.
+En lo que refiere a las visitas domiciliarias, la literatura existente muestra que estas
+intervenciones son muy costo-efectivas, particularmente cuando: (i) la intensidad es alta (visitas
+semanales tienen mayor impacto que visitas mensuales); (ii) la calidad es buena (medida como
+capacitación inicial y continua del personal, monitoreo y supervisión continuos, y la existencia de
+un protocolo escrito y detallado); (iii) la exposición al programa es larga; (iv) el foco de la
+intervención es claro (ej. estimulación vs. educación); y (v) cuando el proceso es interactivo entre
+la educadora y la madre o padre 20. El costo-efectividad del preescolar también ha sido
+documentado en Argentina 21 y Uruguay 22
+Complementario a la atención integral a la niñez, se capacitó a los recursos humanos de
+MIFAN, MINSA y MINED y se crearon ambientes aptos para el desarrollo infantil mediante
+la dotación de equipamiento, así como condiciones físicas de la red de centros comunitarios.
+Se financió un Diplomado en Primera Infancia que buscaba cerrar las brechas que existen en el
+recurso humano de los tres ministerios, así como reparaciones menores de infraestructura,
+dotación de mobiliario, y equipamiento de aproximadamente 200 centros comunitarios.
+Las reparaciones incluirán el acceso a agua potable, piso y techos seguros, letrinas y cercado
+perimetral. Además, se podrán hacer reparaciones menores en salas de estimulación temprana
+de las unidades de salud.
+Finalmente, se fortalecieron los mecanismos de gestión, supervisión y evaluación de
+relevancia para documentar los avances en la implementación de la Política de Primera Infancia.
+Se enfatizó en la supervisión efectuada por el personal técnico desde las delegaciones
+departamentales hacia los municipios y comunidades, para verificar la adecuada aplicación del
+protocolo de atención.
+A partir de los objetivos específicos se plantearon cinco resultados esperados:
+Para alcanzar el primer indicador de resultado “Porcentaje de niños de 0 a 3 años que reciben
+12 o más visitas según norma de atención durante el último año”; se planteó el producto 2: Niños
+de 0 a 3 años atendidos en visita mensual de promoción del desarrollo integral por MIFAN-SNBS.
+Para el segundo indicador de resultado “Porcentaje de niños y niñas de 3 a 6 años de las áreas
+prioridad matriculados en preescolar” se planteó el producto 3: Niños de 3 a 6 años con registro
+de evaluación bimestral de desarrollo y asistencia al preescolar por MINED-SNBS y visita
+bimestral de promoción del desarrollo integral por MIFAN-SNBS.
+Se contó con tres indicadores de resultado asociados a sensibilización, formación y capacitación
+a padres y madres (i) hogares donde por lo menos un miembro acudió a los servicios que están
+incluidos en el sistema de referencia en los últimos seis meses; (ii) padres quienes mostraron
+actitudes positivas en hogares con una mujer embarazada o un niño de 0 a 6 años, en la calidad
+del ambiente familia; y (iii) respuestas correctas que dieron los padres a la prueba estandarizada
+sobre competencias parentales 23 incluyendo actitudes y creencias cuyos productos asociados
+son los numerales 1, 2 y 3 de la matriz de resultados. En conclusión, la lógica vertical de la
+intervención es sólida y demuestra con claridad la relevancia de la operación, mostrando un
+vínculo claro entre la cadena causal de la intervención, los objetivos de desarrollo de la operación
+y las necesidades y realidades de Nicaragua.
+20  Los primeros años, Samuel Berlinski, Norbert Shady, 2016
+21  Berlinski et al., 2009
+22  Berlinski et al., 2008
+23  Measuring the Quality of Home-Visiting Services: A Review of the Literature, Schodt, Sara; Parr, James; Araujo,
+    María Caridad; Rubio-Codina, Marta
+                                                                                                                 6
+"
+"Figura1 Lógica Vertical del Programa de Apoyo a la Implementación de la Política a la Primera
+Infancia (PAIPPI).
+                                                                                      Objetivos               Objetivo del
+               Productos                          Resultados
+                                                                                    Específicos                Programa
+   1. Atención Integral a la niñez en
+       comunidades priorizadas
+1.1. Familias con al menos una               Porcentaje de niños y niñas de
+      embarazada y/o menor de seis
+                                             0-3 años que recibieron 12 o
+      años con por lo menos una visita
+                                             más visitas según norma de            Sensibilizar,
+      anual por el MIFAN-SNBS
+                                             atención durante el último año.       formar y capacitar
+1.2.  Niños de 0-3 años atendidos en
+      visita mensual de promoción del                                              a      padres         y
+      desarrollo integral por MIFAN -                                              madres1. Atención para
+                                             Porcentaje de los padres
+      SNBS
+                                             quienes mostraron actitudes                 Integral a launa
+                                                                                   propiciar
+1.3.  Niños de 3-6 años con registro de      positivas en hogares con una          adecuada
+                                                                                         niñez en
+      evaluación bimestral de desarrollo     mujer embarazada o un niño de               comunidad
+                                                                                   nutrición,      salud,
+      y asistencia al preescolar por                1. Atención
+                                             0-6 años,       en laIntegral a del
+                                                                      calidad            es
+                                                                                   educación,       buen
+      MINED-SNBS y visita bimestral de              la niñez
+                                             ambiente         en
+                                                          familiar.                trato priorizadas
+                                                                                          y lograr su
+      promoción del desarrollo integral
+      por MIFAN-SNBS
+                                                                                   participación
+1.4.  Niños/as menores de un año con
+                                                                                   activa       en      la
+                                             Porcentaje         de     respuestas
+      cuarto control de seguimiento de       correctas que dieron los padres       promoción             y
+      VPCD según norma de atención           en la prueba estandarizada                  Atención de
+                                                                                   cumplimiento
+      integral a la niñez.                   sobre competencias parentales         los derechos de la
+1.5.  Niños/a de 1 año cumplido y                                 Integral a
+                                                    1. Atenciónactitudes
+                                             incluyendo                          y primera infancia
+      menor de cinco por cumplir con                la niñez
+                                             creencias        en KIDI).
+                                                           (escala
+      tercer control de seguimiento de              comunidades
+      VPCD según norma de atención
+      integral a la niñez.                                                                                        1.
+                                                                                                                  Atenció
+1.6.  Niños/as de cinco años cumplidos
+                                                                                                                  n
+      a 6 años por cumplir con segundo
+                                                                                                                  Integral
+      control de seguimiento de VPCD          Porcentaje de niños y niñas de
+      según norma de atención integral                                                                            a la
+                                              3-6 años de las áreas                                               niñez en el
+                                                                                                            Propiciar
+      a la niñez.                             priorizadas matriculados en el       Mejorar el acceso              comuni de
+                                                                                                            desarrollo
+1.7.  Niños/as de 6 a 24 meses reciben        pre-escolar.
+                                                                                                            las dades
+                                                                                   a los servicios de
+      micronutrientes en las áreas                                                       1. Atención
+                                                                                   primera       infancia         prioriza
+      priorizadas.                                                                       Integral a la      capacidades
+                                                                                   por niñezparte       de        das
+                                              Porcentaje de hogares donde                       en          cognoscitivas,
+                                              por lo menos un miembro              poblaciones
+                                                                                         comunidad    que
+                                                                                                            afectivas,
+  2. Mejoramiento           de        las     acudió a los servicios que           se es encuentran
+                                                                                                            motrices        y
+      condiciones de atención                 están incluidos en el sistema        dispersas
+                                                                                         priorizadas        sociales       de
+                                                     1. Atenciónen
+                                              de referencia       Integral  a
+                                                                      los últimos
+ 2.1 Agentes calificados a cargo de las              la niñez en
+                                                                                                            los Atencióniños
+                                              seis meses
+                                                                                                                  n
+                                                                                                            menores        de
+ visitas domiciliarias graduados de
+ proceso de formación para dar dicha                                                                        seis Integral
+                                                                                                                   años en
+ atención.                                                                                                        a la
+                                                                                                            comunidades
+                                                                                                                  niñez en
+ 2.2 Espacios comunitarios y salas de           Usuarios primarios del registro                             priorizadas.
+ estimulación temprana rehabilitados                                                                              comuni
+                                                únicos        de     protagonistas                                dades
+                                                activos en el MIFAN, MINSA y                                      prioriza
+     Gestión,              Supervisión,         MINED durante el semestre                                         das
+                                                       1 Atención Integral a
+                                                anterior
+     Evaluación
+ 3.1 Informes Semestrales de verificación de
+ cobertura entregados                                                                     1. Atención
+                                                                                     Mejorar   la calidad
+ 3.4 Informe anuales de la evaluación de      Agentes calificados a cargo de
+ desempeños entregados                        las       visitas      domiciliarias
+                                                                                     de laIntegral
+                                                                                            atencióna la de
+                                              graduados de proceso de
+                                                                                                  en
+                                                                                     los niñezservicios
+ 3.2 Informes de seguimiento mensual de los                                               comunidad
+                                                                                     públicos.
+ Comités      Municipales    de      APLMC    formación para dar dicha                    es
+ entregados.                                         1 Atención Integral a
+                                              atención                                    priorizadas
+ 3.3 Usuarios primarios del registro únicos
+ de protagonistas activos en el MIFAN,         Espacios comunitarios y salas
+ MINSA y MINED durante el semestre             de estimulación temprana
+ anterior                                      rehabilitados
+ 3.5 Informe de evaluación de impacto
+ entregados
+                                                                                                                   7
+"
+"                                                            Tabla 1. Matriz de resultados
+                                                                  En elegibilidad + 60          Al terminar el
+                                        En aprobación
+                                                                         días                 proyecto (PCR)
+        Indicadores                                            Unidad Línea               Unidad Línea                 Cambios y razones del cambio
+                               Unidad de        Línea  Meta                        Meta
+                                                                  de       de                de         de     (A)
+                                  Medida       de Base  (P)                         (P)
+                                                              Medida Base                 Medida Base
+Impactos
+1. Porcentaje de niños
+menores de 6 años con
+retrasos en el desarrollo
+                                    %                                                        %        47,40    20
+del       Lenguaje        en                                                                                       Se modifica indicador para agregar
+Comunidades                                                                                                        mayor precisión en la definición del
+Beneficiarias                                                                                                      impacto (i.e. indicar Escala Peabody es
+                                                                                                                   más preciso que indicar \"lenguaje\").
+Puntaje      promedio     en
+prueba      de    desarrollo
+                             Escala Peabody
+cognitivo      –área      de                     70,5  71,3       %       70,5     71,3
+                                (PPVT III)
+lenguaje de niños de 3-6
+años beneficiados
+2. Porcentaje de niños                                                                                             Integrado posterior a la elegibilidad. Se
+menores de 6 años con                                         Denver                      Denver                   agregó      indicador     de      impacto
+retrasos en el desarrollo                                      test (%                    test (%                  relacionado          al       desarrollo
+                                    %                                     14,5     10%                 31,1    10
+social/individual         en                                   rezaga                     rezaga                   social/individual para analizar la
+comunidades                                                      dos)                       dos)                   atribución de los resultados del
+beneficiarias.                                                                                                     Programa en esta área.
+3. Porcentaje de niños
+de 6 a 23 meses con
+                                    %                                                        %        10,10    9,6
+desnutrición crónica en
+el área priorizada                                                                                                 Se modifica indicador y Línea de Base
+                                                                                                                   para tener mayor precisión en la
+Tasa      de    desnutrición Estatura x edad                                                                       medición.
+crónica en niños y niñas de        en 2
+                                                 18,4   15        %       18,4      15
+6 a 23 meses del área         desviaciones
+priorizada.                      estándar
+4. Porcentaje de niños                                                                                             Se modifica indicador y Línea de Base
+de 3 a 6 años asistiendo                                                                                           para alinearlo a los requerimientos de
+al      preescolar        en        %                                                        %          32     64  País expresados por la CTEC e
+comunidades                                                                                                        indicadores existentes de PI.
+beneficiarias.
+                                                                                                                                                          7
+"
+"Tasa de supervivencia de
+niños y niñas al tercer nivel
+                                 Matrícula    20     65     %   20    65
+de preescolar en las áreas
+priorizadas
+5. Porcentaje de niños
+menores de 6 años con
+retrasos en el desarrollo
+                                     %                                      % 31,20 11
+motor fino en                                                                           Se modifica indicador para agregar
+comunidades                                                                             precisión en la definición del impacto
+beneficiarias                                                                           (i.e. Escala Mc Carthy... es más preciso
+Puntaje promedio en               Escala                                                que indicar \"motor fine\")
+prueba de desarrollo             McCarthy
+                                               39,05  39,77   % 39,05 39,77
+psicomotor de niños de 0-      de Aptitudes y
+3 años beneficiados           Psicomotricidad
+6. Porcentaje de niños
+de 0 a 6 años
+registrados en el                    %                                      %  85    98
+Registro Civil en áreas                                                                 Se modifica indicador y Línea de Base
+priorizados.                                                                            para alinearlo a los requerimientos de
+Porcentaje de niños y                                                                   País expresados por la CTEC e
+niñas de 0-6 años que                                                                   indicadores existentes de PI.
+                                Número de
+cuentan con su partida de                        65    95     %   65    95
+                                   niños
+nacimiento en las áreas
+priorizadas.
+Resultados
+1. Porcentaje de niños y
+niñas de 0-3 años que
+recibieron 12 o más visitas          %            0    80     %    0    80  %   0    97              No hay cambios
+según norma de atención
+durante el último año.
+2. Porcentaje de niños y
+niñas de 3-6 años de las
+áreas            priorizadas         %           30    50     %   30    50  %  35    95              No hay cambios
+matriculados       en      el
+preescolar
+3. Porcentaje de hogares
+donde por lo menos un
+miembro acudió a los
+servicios     que      están         %           NA    50     %  NA     50  %  14    80              No hay cambios
+incluido en el sistema de
+referencia en los últimos
+seis meses
+                                                                                                                              8
+"
+"4. Porcentaje de los
+padres quienes mostraron
+                                                                                                                 Modificado en Línea de base, alineado
+actitudes positivas en
+                                                                                                                 a la información que brinda el
+hogares con una mujer              %                                                              %        82 84
+                                                                                                                 instrumento aplicado.
+embarazada o un niño de
+0-6 años, en la calidad del
+ambiente familiar
+Indicador de calidad del
+ambiente      familiar   en
+                                                                    Escala                                       Modificado en Línea de base, alineado
+hogares        del     área  Escala HOME
+                                                4,018     3,850     HOME 4,018 3,850                             a la información que brinda el
+beneficiada con una mujer        score
+                                                                    score                                        instrumento aplicado.
+embarazada o un niño de
+0-6 años
+5.      Porcentaje       de
+respuestas correctas que
+dieron los padres en la
+prueba       estandarizada
+                                   %                                                              %        79 80
+sobre       “competencias
+                                                                                                                 Modificado en Línea de base, alineado
+parentales”      incluyendo
+                                                                                                                 a la información que brinda el
+actitudes    y creencias
+                                                                                                                 instrumento aplicado.
+(escala KIDI).
+Cuestionario de actitudes,
+creencias y conocimientos                                Conoc      Escala             Conoc
+                              Escala KIDI        NA                            NA
+sobre       “competencias                                 Básic      KIDI               Básic
+parentales”.
+ Nota: Las metas alcanzadas (A) fueron calculadas, cuando era posible, con datos de la evaluación de impacto.
+                                                                                                                                                    9
+"
+"II.2       Efectividad
+                    a. Declaración de objetivos de desarrollo del proyecto.
+ El objetivo general del programa es propiciar el desarrollo de las capacidades cognitivas,
+ afectivas, motrices y sociales de los niños menores de seis años en comunidades priorizadas.
+ Esto se hará por medio de los objetivos específicos de: (i) sensibilizar, formar y capacitar a padres
+ y madres para propiciar una adecuada nutrición, salud, educación, buen trato y lograr su
+ participación activa en la promoción y cumplimiento de los derechos de la primera infancia;
+ (ii) mejorar el acceso a los servicios de primera infancia por parte de poblaciones que se
+ encuentran dispersas; y (iii) mejorar la calidad de la atención de los servicios públicos.
+                    b. Resultados Logrados
+ Los datos de monitoreo de MIFAN muestran que el porcentaje de niños y niñas de 0-3 años de
+ los municipios beneficiarios del Programa que recibieron 12 o más visitas según norma de
+ atención durante el último año alcanzó el 121%. En relación con el segundo indicador referido al
+ porcentaje de niños y niñas de 3 a 6 años de las áreas priorizadas matriculados en el preescolar
+ de 400% hace notar un incremento relevante en relación con una línea de base de 35% 24.
+ Datos administrativos también muestran que el porcentaje de hogares donde por lo menos un
+ miembro acudió a los servicios que están incluidos en el sistema de referencia en los últimos seis
+ meses pasó del 14% al 183%. En cuanto al cuarto indicador porcentaje de los padres quienes
+ mostraron actitudes positivas en hogares con una mujer embarazada o un niño de 0-6 años, en
+ la calidad del ambiente familiar pasó de 82 a 84%. El quinto indiciador de un porcentaje de
+ respuestas correctas que dieron los padres en la prueba estandarizada sobre competencias
+ parentales incluyendo actitudes y creencias pasó de 79% a 80% según datos recolectados en la
+ evaluación de impacto.
+ Tal como lo indica la Figura 1. El logro de la totalidad de los resultados del Programa, descanso
+ en la ejecución de 14 productos. Para lograr los objetivos específicos de formar y capacitar a
+ padres y madres para propiciar una adecuada nutrición, salud, educación, buen trato y lograr su
+ participación en la promoción y cumplimiento de los derechos de la primera infancia, y para
+ mejorar el acceso a los servicios de primera infancia el Programa enfatizó en el cumplimiento de
+ los siguientes siete productos:
+ El producto 1: Familias con al menos una embarazada y/o un menor de seis años con por
+ lo menos una visita anual por el MIFAN-SNBS, se logró a través de la realización de las
+ asambleas de presentación del Programa en las comunidades a intervenir, visitas para la
+ verificación del servicio en los hogares de las familias protagonistas y verificación de la
+ periodicidad e intensidad de las visitas casa a casa que recibían las familias según el rango de
+ edad de sus hijos. Estas visitas anuales se denominaron Visitas SNBS en el POA. El producto
+ facilitó la realización de una forma de “Auditoria Social” al Programa, realizado por las tres
+ instituciones del SNBS (MINED-MINSA-MIFAN) reportando la cantidad de 49.531 familias
+ visitadas.
+ El producto 1 fue complementado con las acciones definidas en el producto 2: Niños de
+ 0 a 3 años atendidos en visita mensual de promoción del desarrollo integral por MIFAN-
+ SNBS. El servicio de visita casa a casa para las familias con niños 0-3 inició en Septiembre del
+ 2013 y culminó en Diciembre de 2016 en los 37 municipios con un cobertura máxima de
+ 24   Sin embargo, el ratio que considera los datos de la evaluación externa para el indicador de impacto es de 1,14 lo
+      que se explica por una fuente diferente de datos.
+                                                                                                                    10
+"
+"33.192 niños (16.606 niñas y 16.582 niños) y 32.949 familias, y continuó por un período de seis
+meses adicionales en las 140 comunidades de Línea de base en 33 municipios hasta el mes de
+Junio del 2017, con el objetivo de lograr mayor tiempo de exposición al servicio, alcanzando una
+cobertura de 8.680 niños (4.304 niñas y 4.376 niños) de 8.419 familias.
+Bajo este producto se financiaron las acciones directas del servicio de visita casa a casa para el
+grupo etario 0 a 3, conteniendo en los honorarios de los técnicos de Primera Infancia, honorarios
+del personal técnico del nivel central, ayudas económicas y de movilización educadoras de
+0 a 3 que brindaron la atención a las familias. Se incluyó la capacitación en Reglamento
+Operativo, el proceso de inducción al personal técnico y comunitario, la capacitación permanente
+a educadoras 0 a 3 y la formación en competencias parentales (apego, empatía, resolución no
+violenta de conflicto, utilización de redes sociales, comunicación efectiva y asertiva, uso
+adecuado de la jerarquía, modelos adecuados de crianza para mejorar la convivencia familiar y
+comunitaria, el buen trato del adulto al niño y el fortalecimiento de lazos afectivos y así generar
+la armonía familiar), realizando además encuentros anuales con las familias protagonistas.
+Los niños con su familia eran visitados cada quince días con una duración de 60 minutos por su
+educadora de primera infancia, quien llevaba preparación y tema a impartir conforme la curricular
+de 0-3 años, y enseñanza de modelación y posterior aplicación por parte de los padres o tutor.
+El seguimiento y monitoreo técnico para asegurar la aplicación del instrumento de observación a
+las educadoras fue mediante insumos de reflexión y retroalimentación para mejorar la calidad de
+la visita a las familias protagonistas, realizado por los enlaces de MINED, MIFAN, Técnicas de
+seguimiento y monitoreo y los consultores contratados para este acompañamiento técnico por
+parte del Banco.
+Otra inversión importante fue la adquisición de material didáctico como juguetes, cuentos y
+colchonetas para dotar a la educadora y fortalecer la calidad de la visita casa a casa,
+brindándoles además material distintivo como camisetas, gorras y mochila con el logotipo de
+amor para los más chiquitos, así como botas y capotes para protegerse de la lluvia y la
+reproducción de documentos normativos, curriculares, instrumentos de aplicación y de
+seguimiento. Finalmente, financiaron acciones de promoción del Registro Civil, garantizar el
+cumplimiento del Derecho a un nombre y una nacionalidad a los niños del Programa y otros niños
+menores de 12 años en los 37 municipios priorizados del Programa, y la realización de Ferias de
+Salud y Nutrición que contribuyeron en gran manera a la promoción del VPCD y la sana
+alimentación.
+Con el producto 3: Niños de 3 a 6 años con registro de evaluación bimestral de su
+desarrollo, asistencia al pre-escolar y visita bimestral de promoción del desarrollo por
+MINED-SNBS, se garantizó la merienda escolar en las 1.971 aulas de prescolar comunitario
+atendidos por el Programa, que alcanzaron una cobertura de 30.089 niños (15.662 niñas y
+14.427 niños) de 28.258 familias. Para efectos de cumplimiento del indicador, solamente se
+reportaban 27.778 niños (14.261 niñas y 13.517 niños) de 25.895 familias, dado que el indicador
+de Programa contempla no solamente la atención en preescolar, sino también que se le
+garantizará una visita bimestral de promoción del desarrollo y evaluación bimestral de desarrollo.
+El monto total destinado a la merienda escolar durante toda la vida del Programa fue de
+US$1.321.284,03.
+También se cubrieron las necesidades de capacitación del personal técnico y comunitario a cargo
+del servicio prescolar (Asesores Pedagógicos, técnicos municipales y educadoras comunitarias)
+y se garantizó la ayuda económica para la movilización de las educadoras comunitarias que
+atendían el grupo etario 3 a 6 años, brindándoles además material didáctico y distintivo para la
+prestación del servicio prescolar y visita casa a casa.
+                                                                                                11
+"
+"Es importante mencionar que las 1.971 educadoras de prescolar que eran parte del Programa
+fueron absorbidas en su totalidad por el Ministerio de Educación a partir del año 2017, pasando
+a ser parte de la planilla institucional cubierta con fondos del Tesoro, lo que significa un
+importante avance en la sostenibilidad del servicio y la reducción de brechas en la educación
+inicial.
+Con los productos 4, 5 y 6 del programa niños/as con cuarto control de seguimiento de
+VPCD según norma de atención integral a la niñez 25 se garantizó el cumplimiento de servicios
+de salud esenciales en la primera infancia. Se financió la aplicación del esquema de VPCD de
+acuerdo a la edad del niño según norma de atención integral del MINSA. Se le transfirió al MINSA
+en los primeros dos años del programa el 15% del costo de atención en salud por niño menor de
+seis años atendido correspondiente a US$5,25 y en los últimos dos años U$ 4,25.
+Se realizó transferencia al MINSA por niño atendido, siempre y cuando cumpliera con el siguiente
+esquema: la cuarta atención de VPCD en niños menores de 1año y vacuna según norma de
+atención, la tercera atención de seguimiento de VPCD y vacuna en los niños/as de 1 año a menos
+de 5 años y con la segunda atención de seguimiento de VPCD y vacuna según norma a los
+niños/as de 5 a menores de 6 años. En el caso del grupo de 0 a 3 años se organizaron sesiones
+grupales de VPCD o se aprovechaban las sesiones de pesaje realizadas por el PROCOSAN y
+para el grupo de 3 a 6 años se coordinaba la realización de los servicios en los preescolares
+comunitarios. Durante los años 2013 al 2016, se logró cumplir con los VPCD a 11.393 niños
+menores de un año, 31.209 menores de 1 a 4 años y 5.886 menores de 5 a 6 años.
+Cabe mencionar que, para lograr el cumplimiento de estos productos, el MINSA, MINED y MIFAN
+compartieron el listado de las comunidades y a partir de ahí identificaron los establecimientos de
+salud correspondiente a cada niño del programa, el personal a cargo seleccionó los expedientes
+de la lista y los colocó en un lugar diferenciado con un rótulo que lo identificaba como
+protagonistas del Programa de Primera Infancia. Esta estrategia permitió un mejor seguimiento
+al cumplimiento de los VPCD.
+Contar con los costos por niño atendido actualizados permitió planificar mejor las inversiones e
+incorporar en el presupuesto general de la nación los recursos necesarios para garantizar la
+sostenibilidad de los servicios de salud y educación. No obstante, no se asignaron recursos para
+la modalidad de visitas al hogar lo que afectó la sostenibilidad de la entrega de este servicio a
+cargo del MIFAN luego del año 2017.
+También el producto 7: Niños/as de 6 a 24 meses reciben micronutrientes en polvo (MNP)
+permitió que los niños menores de 6 a 24 meses recibieran 60 sobres de micronutrientes en cada
+semestre, cuya función es promover el crecimiento, potenciar el aprendizaje, fortalecer el sistema
+de defensa, prevenir discapacidades y evitar alteraciones del desarrollo. El Personal del MINSA
+entregaba a la madre de la niña o niño los sobres de MNP durante los controles de VPCD, ferias
+de salud, brigadas móviles y registrarlo en los expedientes clínicos, llevaba un registro para dar
+seguimiento y asegurar que todas las niñas y niños atendidos por el Programa lo reciban. A las
+familias se les brindaba información sobre la importancia de los MNP a través de charlas para
+garantizar el suministro en el hogar durante los 60 días consecutivos. Del 2014 al 2017 se
+suministraron 36.417 dosis que significa 2.185.020 sobres de MNP a un máximo de 19.534 niños
+y niñas de las edades de 6 a 24 meses por año.
+25  Producto 2.4: Niños menores de 1 año cumplido con cuarto control de seguimiento de VPCD según norma de
+    atención integral a la niñez; Producto 2.5: Niños de 1 año cumplido y menor de 5 años con tercer control de
+    seguimiento de VPCD según norma de atención integral a la niñez; Producto 2.6: Niños de 5 años cumplidos a
+    6 años por cumplir con segundo control de seguimiento de VPCD según norma de atención integral a la niñez.
+                                                                                                               12
+"
+"Para lograr el objetivo específico de mejorar calidad de la atención el programa enfatizó en tres
+productos ligados al mejoramiento de la calidad de los servicios:
+Se diseñó una Estrategia de Formación dirigido a los agentes educativos que trabajan en el
+desarrollo de los servicios de primera infancia, Visita Casa a Casa y CDI, logrando la formación
+de 7.611 agentes educativos de primera infancia a nivel nacional entre el 2013 y 2017.
+En el producto 8: Agentes calificados a cargo de las visitas domiciliarias graduados de
+proceso de formación para dar dicha atención, se avanzó en los procesos de articulación con
+MINED quien certificó el Curso de Formación sobre Atención Integral a la Niñez, logrando la
+actualización de todo el personal que trabajan en los prescolares llegando a 11.500 educadoras,
+de ellas 3.100 formales (personal institución) y 8.400 comunitarias (voluntarias comunitarias),
+entre las que se encuentran las 1.974 que atendían a las niñas y niños de 3 a 6 en los municipios
+que se implementó el programa.
+Con las educadoras del MIFAN, se desarrollaron dos cursos sobre Atención a la Primera Infancia,
+en el 2015 y 2016, así como un proceso de formación continua a las 1.775 educadoras 0 a 3 años
+cada dos meses, en el que se hace énfasis en los temas de: Planificación de Actividades para la
+Visita Domiciliar, Elementos a considerar en la Visita a la Familia, Metodologías activas,
+participativas que facilitan aprendizajes significativos. En el 2016 se autorizó incluir a directoras
+y educadoras que atienden a niños menores de tres años de los 270 CDI en el proceso de
+formación, transcendiendo el financiamiento para grupos de educadoras que originalmente no
+estaban previstas, en ese año se logró capacitar a 4.758 agentes educativos, posteriormente en
+2017 se inició el fortalecimiento a las 37 personas que integran el equipo institucional (MIFAN e
+INIFOM) que brindan seguimiento a la red de CDI que atienden a 15.000 niñas y niños.
+Con este producto se logró dignificar 185 aulas de prescolares comunitarios de los
+200 propuestos, y equipar con mobiliario y juguetes a 200 preescolares de las comunidades
+priorizadas a través del producto 9: Espacios comunitarios y salas de estimulación
+temprana rehabilitados. También se rehabilitaron y equiparon 46 salas de estimulación
+temprana ubicadas en los centros y puestos de salud en los municipios para brindar una mejor
+atención a niños y niñas menores de 6 años, y se capacitó al personal de los SILAIS que están
+a cargo de los programas para la Niñez en la norma de atención y organización de los servicios
+de estimulación temprana y rehabilitación.
+Como un eje transversal de gestión, supervisión y evaluación, en cumplimiento a la Política
+Nacional para la Primera Infancia PNPI, la Comisión Nacional de Amor por los más Chiquitos y
+Chiquitas creó Comisiones Departamentales y Municipales como instancias de coordinación
+territorial que articulan esfuerzos en restituir el derecho de las niñas y los niños a vivir con plenitud
+y dignidad, en donde participan las y los técnicos oficialmente delegados por los ministerios de
+Salud, Educación y Familia, además de representantes de las alcaldías y líderes comunitarios
+en sus respectivos municipios. Estas acciones permitieron el cumplimiento del producto 10:
+Informes de seguimiento mensual de los Comités Municipales de APLMC entregados
+Se apoyó el funcionamiento de las Comisiones Municipales de los 37 municipios priorizados,
+garantizando el cumplimiento de los planes de trabajo interinstitucionales a fin de desarrollar
+sinergia lo que permitió el cumplimiento de las metas propuesta. Con este producto también se
+financió el desarrollo del monitoreo comunitario en 73 comunidades con presencia del Programa,
+que incluyó la conformación de comités de padres, capacitación a los Gabinetes de la Familia, la
+Comunidad y la Vida (GFCV), asambleas periódicas de evaluación del programa, reproducción
+de material y capacitación al personal técnico. El monitoreo comunitario se ejecutó involucrando
+a todos los actores de las comunidades priorizadas en función de empoderarlos como
+protagonistas y no como beneficiarios del Programa, capacitándolos en el protocolo de atención
+                                                                                                       13
+"
+"a la primera infancia para potenciar su rol de garante de la calidad de los servicios y movilizarlos
+como promotores del desarrollo infantil temprano en sus comunidades.
+Se diseñó e implementó un Sistema de Monitoreo y Evaluación (SME) de los servicios, que
+permitió dar seguimiento a la cobertura y a la Calidad de la visita y de los aprendizajes en los
+niños y niñas protagonistas del Programa y avanzar en el producto 12: Usuarios primarios del
+registro únicos de protagonistas activos en el MIFAN, MINSA y MINED durante el semestre
+anterior.
+Los Enlaces del MIFAN, MINED, técnicas de seguimiento y el responsable del sistema de
+información brindaban seguimiento y monitoreo al uso del sistema, haciendo énfasis en el
+instrumento de observación de las educadoras, cantidad de visitas por técnicos, analizando y
+evaluando los datos, identificando logros y dificultades, generando planes de acción según lo
+encontrado (capacitaciones, acompañamiento técnico inmediato, dotación de equipos). Así
+mismo la revisión de la información registrada en el SME (registro primario, educadoras, servicios
+brindados a las familias por grupo etario).
+También se devolvían los resultados y análisis con técnicos de primera infancia y técnicos
+Integrales de Seguimientos, que a su vez se reunían con las educadoras, como un proceso de
+retroalimentación. Durante los años 2014-2016 se realizaron 24.079 observaciones a las
+educadoras de 0 a 3 años. La tendencia promedio de los puntajes de las observaciones de la
+visita son a mejorar- se inició con un puntaje de calidad 1,73 y se alcanzó 1,81.
+                                Figura 2. Tendencia de puntajes de calidad 26
+                                Figura 3. Puntuaciones mensuales 2015-2016.
+26 En esta gráfica se refleja que el 2016 la puntuación de la observación fue mejor debido a la formación y
+   acompañamiento técnico periódico.
+                                                                                                        14
+"
+"                                                                    Tabla 2. Matriz de Resultados logrados
+                                                   Unidad de       Valor de       Año de línea        Metas y          %
+              Impacto/Indicador                                                                                                  Medios de verificación
+                                                     Medida     Línea de base       de base         alcance real  Alcanzado
+Panel A. Impacto #1 Mejorar el bienestar de los niños y su desarrollo cognitivo y socioemocional, particularmente en poblaciones vulnerables
+1.1 Porcentaje de niños menor de 6 años con                                                       P        39,77
+     retrasos en el desarrollo del lenguaje en         %             47,4             2013        P(a)     40         359        Evaluación externa final
+     comunidades beneficiarias                                                                    A        20
+1.2 Porcentaje de niños menores de 6 años
+                                                                                                  P        20
+     con     retrasos    en    el    desarrollo
+                                                       %             31,1             2013        P(a)     25         190        Evaluación externa final
+     social/individual    en      comunidades
+                                                                                                  A        10
+     beneficiarias.
+1.3 Porcentaje de niños y niñas de 6 a 23                                                         P        15
+     meses con desnutrición crónica en el              %             18,4             2013        P(a)     9          259        Evaluación externa final
+     área priorizada.                                                                             A        9,6
+1.4 Porcentaje de niños de 3 a 6 años                                                             P        65
+     asistiendo al prescolar en comunidades            %              32              2013        P(a)     60          97        Evaluación externa final
+     beneficiarias                                                                                A        64
+1.5 Porcentaje de niños menores de 6 años                                                         P        25
+     con retrasos en el desarrollo motor fino en       %             31,2             2014        P(a)     25         326        Evaluación externa final
+     comunidades beneficiarias                                                                    A        11
+1.6 Porcentaje de niños de 0 a 6 años                                                             P        95
+     registrados en el Registro Civil en áreas         %              85              2013        P(a)     90         130        Evaluación externa final
+     priorizadas                                                                                  A        98
+                                                             Valor de       Año de
+                                               Unidad de                                 Metas y             %
+          Resultado/Indicador                                Línea de      línea de                                       Medios de verificación
+                                                Medida                                 alcance real     Alcanzado
+                                                               base          base
+Panel B. Resultado #1 Padres y madres competentes para propiciar una adecuada nutrición, salud, educación, buen trato y participando
+activamente en la promoción y cumplimiento de los derechos de la primera infancia.
+1.1 Porcentaje de niños y niñas de 0-3
+                                                                                      P        80                 Registro Programa Amor para los más
+años que recibieron 12 o más visitas
+                                                   %             0           2013     P(a)     80          121    chiquitos. Documento Evaluación de
+según norma de atención durante el
+                                                                                      A        97                 Cobertura del Programa.
+último año.
+                                                                                                                  Registro Programa Amor para los más
+1.2. Porcentaje de niños y niñas de 3-6                                               P        50                 chiquitos. Documento Evaluación de
+años de las áreas priorizadas                      %            35           2013     P(a)     50          400    Cobertura del Programa.
+matriculados en el preescolar.                                                        A        95
+                                                                                                                                                         15
+"
+"1.3 Porcentaje de hogares donde por lo
+menos un miembro acudió a los                                            P       50               Registros de Programa Amor para los
+servicios que están incluido en el            %            14     2013   P(a)    50        183    más chiquitos y sistemas de referencia
+sistema de referencia en los últimos 6                                   A       80               de MINSA/MINED/MIFAN
+meses.
+1.4 Porcentaje de padres quienes
+mostraron actitudes positivas en                                         P       88
+hogares con una mujer embarazada o            %            82     2013   P(a)    88         33    Evaluación externa final
+un niño de 0-6 años, en la calidad del                                   A       84
+ambiente familiar.
+1.5 Porcentaje de respuestas correctas
+que dieron los padres en la prueba                                       P       82
+estandarizada sobre competencias              %            79     2013   P(a)    82         33    Evaluación externa final
+parentales incluyendo actitudes y                                        A       80
+creencias (KIDI).
+                                                       Valor de  Año de
+                                          Unidad de                         Metas y         %
+Producto                                               Línea de línea de                          Medios de verificación
+                                           Medida                         alcance real  Alcanzado
+                                                         base     base
+1.1Familias con al menos una
+                                                                         P      66.500
+embarazada y/o menor de seis años
+                                           Familias        0             P(a)   52.500      99    Informes semestrales de avance
+con por lo menos una visita anual por el
+                                                                         A      49.531
+MIFAN-SNBS
+1.2 Niños de 0-3 años atendidos en                                       P      40.000
+visita bimensual de promoción del        Beneficiarios     0             P(a)   33.000     100    Informes semestrales de avance, SME
+desarrollo integral por MIFAN-SNBS                                       A      33.192
+1.3 Niños de 3-6 años con registro de
+evaluación bimestral de desarrollo y                                     P      40.000
+                                                                                                  Informes semestrales de avance,
+asistencia al preescolar por MINED-      Estudiantes    10.000    2013   P(a)   30.000      89
+                                                                                                  Registros MINSA, SME
+SNBS y visita bimestral de promoción                                     A      27.778
+de desarrollo integral por MIFAN-SNBS
+1.4 Niños menores de un año con
+                                                                         P      13.300
+cuarto control de seguimiento de VPCD                                                             Informes semestrales de avance,
+                                         Beneficiarios   5.000    2013   P(a)   11.000     107
+según norma de atención integral a la                                                             Registros MINSA, SME
+                                                                         A      11.393
+niñez
+1.5 Niños de 1 año cumplido y menor
+                                                                         P      53.400
+de cinco con tercer control de                                                                    Informes semestrales de avance,
+                                         Beneficiarios  10.600    2013   P(a)   32.000      96
+seguimiento de VPCD según norma de                                                                Registros MINSA, SME
+                                                                         A      31.209
+atención integral a la niñez
+1.6 Niños de cinco años cumplidos a 6
+                                                                         P      13.300
+años por cumplir con segundo control                                                              Informes semestrales de avance,
+                                         Beneficiarios   5.000    2013   P(a)   10.000      18
+de seguimiento de VPCD según norma                                                                Registros MINSA, SME
+                                                                         A        5.886
+de atención integral a la niñez
+                                                                                                                                         16
+"
+"                                                                   P    20.000
+ 1.7 Niños de 6 a 24 meses reciben                                                 Informes semestrales de avance,
+                                              Niños     0          P(a)  8.500 230
+ micronutrientes en las áreas priorizadas                                          Registros MINSA, SME
+                                                                   A    19.534
+ 2.1 Agentes calificados a cargo de las
+                                                                   P     1.375
+ visitas domiciliares graduados de                                                 Informes semestrales de avance,
+                                            Agentes     0          P(a)  5.230 146
+ proceso de formación para dar dicha                                               Registros MIFAN
+                                                                   A     7.611
+ atención
+                                                                   P       250
+ 2.2 Espacios comunitarios y salas de       Espacios                               Informes semestrales de avance,
+                                                        0          P(a)    231 100
+ estimulación temprana rehabilitados      Rehabilitados                            Registros MIFAN
+                                                                   A       231
+                                                                   P         6     Documento de verificación de
+ 3.1 Informes semestrales de
+                                            Informes    0          P(a)      6 83  cobertura, elaborado por la firma
+ verificación de cobertura entregados
+                                                                   A         5     SANIGEST.
+ 3.2 Informes de seguimiento mensual                               P     1.332
+ de los Comités Municipales de APLMC        Informes    0          P(a)  1.670  99 Registro MIFAN
+ entregados                                                        A     1.655
+ 3.3 Usuarios Primarios del registro
+                                                                   P       480
+ único de protagonistas activos en el
+                                           Personas     0          P(a)    147 100 Registro MIFAN, SME
+ MIFAN, MINSA y MINED durante el
+                                                                   A       147
+ semestre anterior
+                                                                   P         3     Documentos de evaluación de
+ 3.4 Informe anuales de evaluación de
+                                             Informe    0          P(a)      3 133 Desempeño, elaborado por la firma
+ desempeño entregados
+                                                                   A         4     SANIGEST.
+                                                                   P         1     Documento de Análisis de los
+ 3.5 Informe de Evaluación de Impacto
+                                             Informe    0          P(a)      1 100 Resultados de la Evaluación de
+ entregados
+                                                                   A         1     Impacto.
+Dónde: P = Planificado; P (a) = Objetivo anual revisado; A = real.
+                                                                                                                     17
+"
+"                   c. Análisis contrafactual
+El préstamo NI-L1059 financió una evaluación de impacto experimental en la que
+215 comunidades fueron aleatoriamente asignadas a recibir visitas casa a casa y otras 215 a no
+recibirlas por la duración del experimento. La muestra final resulta en 205 comunidades ya que
+10 comunidades se cayeron de la muestra por la situación sociopolítica en Nicaragua al momento
+del levantamiento de la encuesta de seguimiento realizada entre 2017 y abril de 2018.
+La especificación econométrica se indica en la ecuación abajo donde y es la variable de resultado
+o impacto, <U+0001D44B><U+0001D44B><U+0001D456><U+0001D456> son los controles a nivel del niño y el hogar en línea de base (género e edad del
+niño, resultado de línea de base (i.e., puntaje Denver), educación del padre y de la madre, tamaño
+del hogar, y sí el padre o la madre falleció), <U+0001D6FE><U+0001D6FE> son efectos fijos de municipio, y <U+0001D716><U+0001D716><U+0001D456><U+0001D456> son los errores
+estándar conglomerados al nivel de la comunidad. El parámetro de interés es <U+0001D447><U+0001D447>1               <U+FFFD> y <U+0001D447><U+0001D447>2 <U+FFFD> (Treatment
+1 y Treatment 2, los dos brazos de evaluación que se están analizando actualmente 27), utilizando
+el estimador LATE, donde la variable endógena es si el niño recibió visitas domiciliares, y la
+variable instrumental (VI) es el estatus de tratamiento de la localidad.
+La muestra del análisis es la de los niños beneficiarios del programa PAIPPI en el año 2014, año
+de línea base, esto es niños de entre 0 a 3 años viviendo en aquellos municipios con una tasa
+de pobreza extrema mayor a 20%. Esto resulta en una muestra final de 3.715 niños que están
+presentes tanto en la línea de base como en la de seguimiento.
+La Tabla A1 en el apéndice muestra la media y desviación estándar medidas en línea de base
+de las variables de impacto y de resultado más relevantes con relación a los objetivos del
+programa. La última columna muestra el efecto del programa por medio de un estimador LATE.
+Los resultados de esta evaluación de impacto experimental (Lopez Boo, Kamei, Celhay y Leer,
+en proceso y ver Tabla A1) indican atribución sólo en 4 indicadores que siguen.
+En primer lugar, existen algunos efectos positivos del programa sobre un indicador de impacto,
+la motricidad fina 28 de los niños (impacto 1.5, Panel A en Tabla 2) donde el porcentaje de niños
+con rezago disminuye en 14 puntos porcentuales (5% de significancia) según resultados de la
+Tabla A1 en el Apéndice.
+Por otro lado, hay tres impactos positivos en resultados: en primer lugar, los datos recolectados
+en el contexto de la evaluación de impacto muestran impacto positivo en inscripción del niño en
+registro civil (indicador de resultado 1.6) que aumentó 5,4 puntos porcentuales (1% de
+significancia) y un efecto positivo y marginalmente significativo de 8 puntos en preescolar, el
+indicador 1.4 (Panel A, Tabla 2 y Tabla A1 en el apéndice). Si bien las tasas de monitoreo del
+programa muestran una meta cumplida de 95% de niños y niñas de 3 a 6 años de las áreas
+priorizadas matriculados en el preescolar (Panel A, Tabla 2) y la evaluación de impacto muestra
+que esa tasa es de un 47% según la encuesta de evaluación (Tabla A1) – siendo probablemente
+el fruto esta diferencia, algunos los errores de la medición durante el monitoreo -, evidentemente
+el foco durante las visitas domiciliares en alentar a cuidadores principales a inscribir a sus niños
+27  Treatment 1 son las visitas mientras que Treatment 2 son las visitas con un componente de monitoreo comunitario.
+28  La habilidad motora fina es la coordinación de los músculos pequeños, en movimientos, que generalmente
+    involucran la sincronización de manos y dedos, con los ojos. En niños de la edad de los beneficiarios, los aspectos
+    más relevantes que resultaron afectados son los temas de coordinación mano-ojo (para los infantes), el poder
+    agarrar un crayón entre los dedos sin que se caiga, por ejemplo, para los niños de alrededor de 1 año, entre otros.
+                                                                                                                    18
+"
+"en el prescolar parece haber tenido un gran efecto (una suba 17% cuando tomamos el dato de
+la Tabla A1 en el apéndice). La evaluación de impacto también encuentra que hubo un efecto
+positivo y significativo del programa no solo en la matricula sino también en la probabilidad de
+terminar el prescolar. En segundo lugar, la literatura muestra una fuerte conexión entre la
+depresión materna y el desarrollo infantil. Es por esto que es alentador ver que el programa logró
+reducir, en casi 4 puntos porcentuales, unos de los ítems del CESD (índice extensivamente
+usado de depresión materna), aunque se aclara que no debiera tomarse como evidencia de
+reducción en la depresión.
+No se encuentra sin embargo ningún efecto sobre estado nutricional, desarrollo de lenguaje o
+socioemocional, o la calidad de la estimulación en el hogar ni los conocimientos o actitudes
+parentales sobre el desarrollo (resultados 1.4 y 1.5, Panel B, Tabla 2 y índices HOME y KIDI en
+Tabla A1) por lo cual no tendrán atribución en el checklist ni el desarrollo personal-social del niño
+(resultados 1.2, Panel A, Tabla 2). Tampoco hay evidencia de impactos en un índice de disciplina
+que se recolectó para la evaluación de impacto. Cabe aclarar que, para el HOME, KIDI y los
+métodos de disciplina se colapsaron los componentes en un índice que se muestra en la Tabla
+A1 donde la proporción de respuestas “correctas” (donde correcto es 1 cuando responden el
+comportamiento deseado). La falta de impactos tiene que ver con los resultados mixtos en cuanto
+a la calidad de las visitas (mencionado en la respuesta al punto 4): si bien las educadoras
+entablaban una buena relación con las madres durante la visita, hubo varios aspectos que
+necesitan fortalecerse: no había durante las visitas una revisión sistemática de temas de
+sesiones anteriores, no había una clara demostración de actividades de estimulación cognitiva
+y el diálogo entre cuidadores y educadoras podría haber sido mucho más enriquecedor para las
+madres
+Los indicadores de resultado 1.1 y 1.3 no se han incluido en la evaluación de impacto ya que el
+MIFAN recolectó estos datos con su propio sistema de información al ser estos indicadores de
+utilización de sus servicios.
+El indicador de resultado 1.1 “Porcentaje de niños y niñas de 0 a 3 años que recibieron 12 o más
+visitas según norma de atención durante el último año” es un indicador de cobertura que refleja
+la oferta y demanda efectiva por los servicios de primera infancia en el hogar. La atribución del
+resultado está estrechamente relacionado a las actividades de visitas domiciliarias
+implementadas por el programa, el cual logró el 99% de su meta de visitas anuales con familias
+con una embarazada y/o menor de seis años (indicador de producto 1.1) y el 100% de su meta
+de niños de 0 a 3 años atendidos en visita mensual de promoción del desarrollo integral (indicador
+de producto 1.2). El logro de ambos productos se basa en la normativa indicada por las dos
+cartillas operativas principales del programa: el Manual de gestión de condiciones básicas en la
+primera infancia (MIFAN 2012) y el Marco curricular para la atención educativa de la niñez de
+0 a 3 años” (MIFAN julio de 2013). Asimismo, según datos levantados en paralelo a la evaluación
+de impacto, se estima que 76.8% de los beneficiarios de las visitas mensuales para niños
+0 a 3 están satisfechos con el programa. Este resultado es consistente con la evidencia y
+experiencia internacional de programas de visitas domiciliarias en otros países de la región que
+demuestran que la modalidad de entrega de servicios en domicilio es demandada por la
+población y se relaciona causalmente con incrementos en la cobertura de servicios DIT (ver
+Documento sectorial de primera infancia del BID, 2019, sobre la evidencia de otros programas
+de visita domiciliarias en Jamaica, Brasil y Perú que incrementaron efectivamente cobertura) 29.
+Mas aún, la evidencia internacional muestra que un incremento en el porcentaje de niños y niñas
+de 0-3 años que reciben 12 o más visitas según norma de atención durante el último año se
+29  Sector Framework Document Early Childhood Development (IDB, 2019).
+                                                                                                   19
+"
+"relaciona con mejoras en las pautas de crianza que llevarían a un mejor desarrollo del niño, dado
+el cumplimiento de un mínimo de visitas 30.
+Por otro lado, el indicador de resultado 1.3 “Porcentaje de hogares donde por lo menos un
+miembro acudió a los servicios que está incluido en el sistema de referencia en los últimos seis
+meses” es un indicador de cobertura que también refleja la oferta y demanda, pero en este caso
+por los servicios que están incluidos en el sistema de referencia. La atribución de este resultado
+está muy relacionado al logro de varios productos que representan la normativa de los tres
+ministerios prestadores de servicios de primera infancia (MIFAN, MINED y MINSA). En particular
+se atribuye al 99% de la meta de visitas anuales con familias con una embarazada y/o menor de
+seis años (indicador de producto 1.1) ya que esta visita anual con la madre embarazada es el
+punto de partida de la referencia-contrarreferencia a otros servicios de salud materno-infantil
+según la norma de atención del MINSA, y al 100% de la meta de niños de 0 a 3 años atendidos
+en visita mensual de promoción del desarrollo integral (indicador de producto 1.2), ya que se
+promueven en estas visitas los servicios de prevención de la violencia contra la mujer de MIFAN
+o a centros infantiles de cuidado dependientes de MINED o MIFAN, así como las visitas de control
+del niño sano de MINSA. La atribución de este resultado también se corresponde al logro del
+89% de la meta de “niños de 3 a 6 años con registro de evaluación bimestral de desarrollo y
+asistencia al preescolar por MINED-SNBS y visita bimestral de promoción de desarrollo integral
+por MIFAN-SNBS” (indicador de producto 1.3) al ser el objetivo de estas visitas bimestrales
+justamente la referencia al servicio de prescolar gratuito, y también al logro de tres productos
+cuyo objetivo es la subsecuente referencias a otros servicios de salud más complejos, según
+normativa del MINSA para el VPCD: (i) el 107% de la meta de “Niños menores de un año con
+cuarto control de seguimiento de VPCD según norma de atención integral a la niñez” (indicador
+1.4); (ii) el 96% de “Niños de un año cumplido y menor de cinco con tercer control de seguimiento
+de VPCD según norma de atención integral a la niñez (indicador de producto 1.5); y (iii) 18% de
+“Niños de cinco años cumplidos a seis años por cumplir con segundo control de seguimiento de
+VPCD según norma de atención integral a la niñez” (indicador de producto 1.6). Este resultado
+es consistente con la evidencia de entrega de servicios en domicilio (productos 1.1, 1.2 y 1.3)
+sumado a la atención en centros de salud para niños pequeños (indicadores 1.4, 1.5 y 1.6) lo
+que generaría una mayor demanda de servicios de referencia según los modelos de atención
+primaria de salud (OMS, 2003).
+Aún más importante, la evidencia internacional muestra que un incremento en el porcentaje de
+hogares donde por lo menos un miembro acudió a los servicios que está incluido en el sistema
+de referencia en los últimos seis meses se relaciona con mayores probabilidades de mejoras en
+la salud, la vacunación, una mayor probabilidad de asistir al prescolar, y a otros servicios de
+protección social, lo que conduciría a un mayor bienestar y capital humano de los niños (OMS,
+2003).
+Finalmente es importante destacar que el país haya realizado una evaluación de impacto que
+permita confirmar la atribución de las intervenciones del Programa, los avances, el análisis de
+los resultados alcanzados y los aspectos de mejora.
+                  d. Resultados imprevistos
+Un resultado imprevisto con la ejecución del Programa fue el fortalecimiento de las
+coordinaciones interinstitucionales locales de las Comisiones de Amor a los más Chiquitos
+municipales, que fue un factor clave para el desarrollo de las acciones en el nivel local, así como
+el apoyo de las alcaldías municipales. Estas articulaciones se vieron fortalecidas producto de las
+sesiones desarrolladas en el marco del Programa, logrando trascender a la planificación,
+30  Según lo que indica la literatura con menos visitas no hay impactos (Baker Henningham y Lopez Boo, 2010).
+                                                                                                              20
+"
+"ejecución y monitoreo conjunto de todos los temas de la primera infancia más allá del Programa.
+La implementación de mecanismos de coordinación a través de visitas y sesiones de trabajo con
+las delegaciones y agentes de las diferentes instituciones a través de procesos intersectoriales
+ha sido positiva y participativa, la ejecución conjunta del Programa permitió fortalecer las
+acciones en el nivel comunitario.
+Otro resultado imprevisto fue el tema del fortalecimiento de la capacidad institucional en temas
+de Primera Infancia, ya que inicialmente el Programa contemplaba solamente la formación del
+personal a cargo de las visitas, sin embargo este se amplió cubriendo toda la Red de Centros de
+Desarrollo Infantil a nivel nacional con una estrategia de formación a las educadoras y técnicos
+basada en el Rol activo y actividades desarrolladoras, enfocado en fortalecer y actualizar
+conocimientos y habilidades en educadoras para potenciar el rol educativo de las familias y
+cambios positivos en los patrones de crianza.
+Durante el período de ampliación de plazo para la preparación, acompañamiento y análisis del
+levamiento de datos para la evaluación de impacto, el personal del Programa continuó laborando
+desde la Dirección de Primera Infancia, brindando asistencia técnica a los CDI, seguimiento y
+monitoreo a los indicadores, elaboración de informes de seguimiento semanal y mensual,
+gestiones y revisiones de las solicitudes de subvención y otros.
+El personal del Programa también asume responsabilidades institucionales en el seguimiento y
+asistencia técnica a Delegaciones en actividades propias del indicador de “protagonistas de
+partos múltiples, adolescentes embarazadas y casos sociales que reciben acompañamiento de
+MIFAN mediante la Ley 718, “Ley Especial de Protección a las Familias en las que haya
+Embarazos y Partos Múltiples”
+Durante el período también se avanzó en la formación continua de 33 técnicos institucionales
+que brindan seguimiento a los CDI, en temas de crianza con ternura, planificación pedagógica,
+evaluación de los aprendizajes, uso del sistema SISCDI, etc.
+Un resultado imprevisto con la ejecución del Programa también fue el efecto en la disminución
+de uno de los índices de depresión materna.
+En conclusión, el Programa logró el cumplimiento de la mayoría de los indicadores de producto
+y algunos de resultado, y estos son atribuible a las acciones y servicios derivados del mismo
+(excepto por los resultados 14. y 1.5 que no son atribuibles), siendo totalmente alcanzadas y /o
+superadas las metas planteadas. Lo que permite una calificación de Satisfactorio en la
+Efectividad.
+2.3 Eficiencia
+El programa fue diseñado para ejecutarse en cuatro años, sin embargo, tuvo una extensión de
+15,5 meses adicionales, por lo cual se ejecutó en cinco años (diciembre 2012 a mayo 2018).
+Dicha extensión fue otorgada para finalizar el levantamiento de los datos de evaluación de
+impacto del programa en tanto se continuaba acompañando técnicamente a las delegaciones.
+Durante la vida del programa se muestra que la clasificación de indicadores de desempeño tiene
+resultado de satisfactorio. según la metodología de desempeño utilizada, la cual mide el avance
+de la consecución de los productos, el índice de desempeño de costo y el índice de desempeño
+de cronograma (respectivamente CPI y SPI por sus siglas en inglés) miden desviaciones en
+términos de costo y tiempo acumuladas con respecto al plan que se ingresó durante la
+elegibilidad del programa y además se calculan los índices de SPI(a) y CPI (a) que miden las
+desviaciones de costo y tiempo de la planificación anual.
+                                                                                              21
+"
+" El programa ejecutó sus productos con los costos esperados y en algunos productos se lograron
+ los objetivos a costos menores de los inicialmente estimados. El Presupuesto original del
+ Programa se modificó ampliando el componente 3 según el cuadro siguiente:
+                                                                                                                Traslado entre
+                                                                                         Presupuesto
+                       Componentes                          Presupuesto original                                  Categorías
+                                                                                           modificado
+                                                                                                                  aprobadas
+    I. Atención Integral a la niñez                                  15.192.046,00          13.398.201,37          -1.793.844,63
+    II. Mejoramiento, dotación de espacios y
+                                                                      2.700.000,00           2.427.302,47             -272.697,53
+    capacitación del recurso humano
+    III. Gestión, supervisión y evaluación                            1.565.600,00           3.774.496,16           2.208.896,16
+    Imprevistos                                                         142.354,00                        0           -142.354,00
+    Costos Financieros                                                  400.000,00             400.000,00                         0
+                                                                     20.000.000,00          20.000.000,00                         0
+ Dicha ampliación se realizó para cubrir las necesidades de contratación de digitadores,
+ contratación de servicios de internet para garantizar el registro actualizado del SME, así como la
+ contratación de personal de monitoreo local (TIS), administradores y contadores en las
+ Delegaciones territoriales que ejecutaron el 52,73% del presupuesto total del Proyecto mediante
+ transferencia a los municipios priorizados. Los gastos operativos del Programa no sobrepasan el
+ 8,9% del presupuesto total, siendo el 4,6% gastos operativos de las delegaciones y nivel central,
+ 4,2% la contratación de personal gerencial, administrativo y de apoyo y el 0,3% la auditoría
+ financiera.
+ Los informes de verificación de Coberturas y de Evaluación de Desempeño del Programa
+ sirvieron para analizar el costo-efectividad de la intervención, según como fue diseñada,
+ verificando el cumplimiento de los mismos según las especificaciones acordadas: (i) la intensidad
+ (número de visitas anuales según grupo etario); (ii) la duración (horas/minutos de contacto
+ educador-madre); y (iii) el cumplimiento con la norma de atención en las visitas según protocolos.
+                                                      Tabla 3: Costos del Proyecto
+OUTPUTS FINANCIAL PROGRESS (US$)
+Component Nbr.1: Componente 1. Atención Integral a la                                                               Component revised cost
+niñez en comunidades priorizadas
+                                                                                                                               13,398,201.37
+              Output                Unit of                   2013        2014        2015         2016       2017        2018     EOP 2018
+                                   Measure
+1.1  Familias con al menos una                   P       57,873.00  387,496.00  187,548.00    73,067.00                           705,984.00
+     embarazada y/o menor de                     P(a)    57,873.00  112,284.00  180,000.00   200,000.00  34,440.00                508,584.55
+     seis años con por lo menos     Familias     A
+     una visita anual por el                             63,171.81   83,167.82  127,844.78   210,872.00  23,528.14                508,584.55
+     MIFAN-SNBS
+              Output                Unit of                   2013        2014        2015         2016       2017        2018     EOP 2018
+                                   Measure
+1.2  Niños de 0-3 años atendidos                 P      242,797.00 2063,740.00 3096,000.00  4128,000.00 275,553.00               9806,090.00
+     en visita mensual de         Beneficiaries  P(a)   242,797.00 2000,000.00 1698,580.00  3000,000.00 690,876.00   81,336.97   8308,354.15
+     promoción del desarrollo         (#)        A
+     integral por MIFAN-SNBS                               144,362 1983,140.33 2665,070.44  2899,530.34 542,762.25  73,489.18   8,308,354.15
+              Output                Unit of                   2013        2014        2015         2016       2017        2018     EOP 2018
+                                   Measure
+1.3  Niños de 3-6 años con                       P
+                                                        159,000.00  645,260.00  461,050.00   578,440.00                          1843,750.00
+     registro de evaluación
+     bimestral de desarrollo y                   P(a)
+     asistencia al preescolar por                       159,000.00  350,000.00 1879,280.00  1800,000.00   5,730.00               3735,396.13
+                                  Students (#)
+     MINED-SNBS y visita                         A
+     bimestral de promoción del
+     desarrollo integral por                                     0     367,749    1449,867  1912,050.26   5,729.97              3,735,396.13
+     MIFAN-SNBS
+                                                                                                                                   22
+"
+"               Output                Unit of              2013       2014       2015       2016       2017       2018    EOP 2018
+                                   Measure
+1.4  Niños/as menores de un año                 P    23,100.00  51,663.00  37,146.00  22,846.00                         134,755.00
+     con cuarto control de                      P(a)
+                                  Beneficiaries      23,100.00  31,501.80  42,000.00  46,200.00  13,285.00              144,295.20
+     seguimiento de VPCD según
+                                       (#)      A
+     norma de atención integral a
+                                                     23,100.00  15,608.25  50,100.75  42,189.00  13,297.20              144,295.20
+     la niñez.
+               Output                Unit of              2013       2014       2015       2016       2017       2018    EOP 2018
+                                   Measure
+1.5  Niños/a de 1 año cumplido y                P
+                                                     23,100.00 180,606.00 129,007.00 169,528.00                         502,241.00
+     menor de cinco por cumplir
+     con tercer control de        Beneficiaries P(a)
+                                                     23,100.00 125,997.30 105,000.00 134,400.00  19,337.00              357,729.75
+     seguimiento de VPCD según         (#)
+     norma de atención integral a               A
+     la niñez.                                       42,000.00  55,781.25 119,836.50 120,745.80  19,366.20              357,729.75
+                                     Unit of
+              Output                                   2013      2014       2015       2016        2017       2018      EOP 2018
+                                   Measure
+     Niños/as de cinco años                     P    86,100.00  10,135.00  37,146.00   1,374.00                         134,755.00
+     cumplidos a 6 años por
+                                                P(a) 86,100.00  30,000.00  42,000.00  42,000.00                          99,524.25
+     cumplir con segundo control  Beneficiarios
+1.6
+     de seguimiento de VPCD            (#)
+     según norma de atención                    A    23,100.00   9,612.75  44,740.50  22,071.00                          99,524.25
+     integral a la niñez.
+                                     Unit of
+              Output                                   2013      2014       2015       2016        2017       2018      EOP 2018
+                                   Measure
+     Niños/as de 6 a 24 meses                   P    47,520.00 251,592.00 179,685.00 174,632.00                         653,429.00
+1.7  reciben micronutrientes en       niños     P(a) 47,520.00 124,746.30  86,400.00       0.00  26,816.00       0.00   244,317.34
+     las áreas priorizadas.                     A              124,934.47  84,876.85   7,906.75  26,599.27       0.00   244,317.34
+Component Nbr.2: Componente 2. Mejoramiento de las                                                         Component revised cost
+condiciones de atención                                                                                               2,427,302.47
+                                     Unit of
+              Output                                   2013      2014       2015       2016        2017       2018      EOP 2018
+                                   Measure
+2.1  Agentes calificados a cargo                P         0.00 400,000.00 550,000.00                                    950,000.00
+     de las visitas domiciliarias               P(a)      0.00 360,000.00 383,000.00 229,865.00  26,780.00 11,565.00    938,411.60
+     graduados de proceso de        Agentes
+     formación para dar dicha                   A
+                                                          0.00   4,177.93 703,185.33 197,988.34  21,494.99  11,565.01   938,411.60
+     atención.
+                                     Unit of
+              Output                                   2013      2014       2015       2016        2017       2018      EOP 2018
+                                   Measure
+2.2  Espacios comunitarios y                    P         0.00 875,000.00 875,000.00                                   1750,000.00
+                                    Espacios
+     salas de estimulación                      P(a)      0.00 787,500.00 807,700.00 850,000.00 113,400.00       0.00  1488,890.87
+                                  Rehabilitados
+     temprana rehabilitados                     A         0.00 119,480.31 423,839.95 789,547.26 156,023.35       0.00 1,488,890.87
+Component Nbr.3: Componente 3. Gestión, Supervisión                                                        Component revised cost
+y Evaluación                                                                                                          3,774,496.16
+                                     Unit of
+              Output                                   2013      2014       2015       2016        2017       2018      EOP 2018
+                                   Measure
+3.1  Informes Semestrales de                    P               75,000.00 100,000.00 100,000.00                         275,000.00
+     verificación de cobertura      informes    P(a)            60,000.00  75,653.22  66,168.64          0          0   201,821.86
+     entregados                                 A            0          0  75,653.22  64,601.03  61,567.61          0   201,821.86
+                                     Unit of
+              Output                                   2013      2014       2015       2016        2017       2018      EOP 2018
+                                   Measure
+3.2  Informes de seguimiento                    P    36,180.00 105,570.00 105,539.00 211,478.00                         458,767.00
+     mensual de los Comités                     P(a) 36,180.00 197,911.80 340,027.00 280,000.00 157,400.00       0.00  1002,229.29
+                                    informes
+     Municipales de APLMC
+                                                A    31,775.23 192,361.00 322,136.83 329,735.42 126,220.81       0.00 1,002,229.29
+     entregados.
+                                     Unit of
+              Output                                   2013      2014       2015       2016        2017       2018      EOP 2018
+                                   Measure
+3.3  Usuarios primarios del                     P     4,514.00  81,828.00  81,829.00  81,829.00                         250,000.00
+     registro únicos de                         P(a)  4,514.00  50,400.00  80,120.00  48,985.00  27,170.00   9,252.00   270,030.85
+     protagonistas activos en el   Personas
+     MIFAN, MINSA y MINED                       A
+                                                          0.00  81,265.96 113,190.98  39,163.77  27,158.14   9,252.00   270,030.85
+     durante el semestre anterior
+                                                                                                                         23
+"
+"                                 Unit of
+             Output                              2013       2014        2015        2016        2017       2018     EOP 2018
+                                Measure
+3.4  Informes anuales de la              P                 50,000.00  150,000.00  150,000.00                         350,000.00
+     evaluación de desempeños   Informes P(a)              90,000.00   71,768.00   80,000.00                     0    64,927.08
+     entregados                          A             0           0           0   39,390.20  25,536.88          0    64,927.08
+                                 Unit of
+             Output                              2013       2014        2015        2016        2017       2018     EOP 2018
+                                Measure
+3.5  Informe de evaluación de   informes P             0                          500,000.00                         500,000.00
+     impacto entregados                  P(a)
+                                                       0           0           0  250,000.00 270,000.00 270,364.79   450,608.00
+                                         A             0           0           0           0 180,243.20 270,364.79   450,607.99
+Other Cost
+                                              2013          2014        2015        2016        2017       2018        Cost
+                                         P
+                                                                                              67,000.00               67,000.00
+     Auditoria Financiera                P(a)              67,000.00   12,580.00   12,750.00  13,600.00   5,200.00    47,783.80
+                                         A                      0.00   12,833.80   16,150.00  13,600.00   5,200.00    47,783.80
+                                         P    139,814.00  339,500.00  373,580.00  365,335.00                       1,218,229.00
+                                         P(a) 139,814.00  147,165.00  400,000.00  399,500.00 303,083.00 147,441.27 1,737,095.29
+     Administración de Programa
+                                         A     87,302.86  273,879.65  456,544.48  474,167.61 313,099.22 132,101.47 1,737,095.29
+                                         P                                                   400,000.00                 400,000
+     Costos Financieros                  P(a)              36,524.89  100,000.00  126,500.00 136,975.11                 400,000
+                                         A      1,313.05   12,569.79   40,352.15  265,115.06  80,649.95                 400,000
+Total Cost
+                                              2013       2014        2015        2016        2017       2018       Cost
+                                         P       819,998    5517,390    6363,530    6556,529    742,553          0   20,000,000
+                                         P(a)    819,998    4571,031    6304,108    7566,369   1838,892    525,160   20,000,000
+                                         A       416,125    3323,729    6690,073    7431,224   1636,877    501,972   20,000,000
+ Nota: Los costos incluyen financiamiento del BID, no así el monto de contrapartida local, ya que ninguno de los
+ Ministerios participantes MINSA/MINED/MIFAN llevaban registro contable de los montos de personal institucional
+ participante de las acciones del Programa, movilización, combustible, alimentación, seguimiento y monitoreo desde
+ las delegaciones municipales, departamentales y nivel central.
+ Para complementar los resultados anteriores se realizaron dos tipos de análisis de eficiencia.
+ El primero es un análisis costo-beneficio que cuantifica los beneficios del programa en términos
+ del aumento de las ganancias futuras de los beneficiarios que resultan del aumento de años de
+ escolaridad y la mejora en el ingreso laboral. En la siguiente Tabla 4 se presenta los resultados
+ del análisis costo-beneficio asumiendo una tasa de descuento de 12%. Las estimaciones para el
+ escenario base (Escenario 2) se realizan con los siguientes supuestos: (i) los beneficiarios se
+ incorporan al mercado laboral a los 14 años de edad, y trabajan por 40 años; (ii) la tasa de
+ ocupación es de 60.7% según el dato al tercer trimestre de 2018 del INIDE; (iii) el retorno
+ educativo privado a un año adicional de educación es de 12,8% según las estimaciones de una
+ ecuación de ingresos de Mincer; (iv) se asume como salario base el salario mínimo legal de
+ Nicaragua en 2018; (v) se asume que el programa generará un incremento adicional de 1,5 más
+ años de escolaridad, según la evidencia de mediano plazo de Maluccio y Flores (2004) para el
+ programa Red de Protección Social de Nicaragua.
+ Los resultados sugieren que el beneficio neto del Programa asciende a US$68 millones, lo que
+ equivale a US$727,75 por beneficiario, la razón de costo-beneficio es de US$2.28, lo que indica
+                                                                                                                      24
+"
+"que el programa genera US$2,28 por cada dólar invertido, sugiriendo que el proyecto tiene
+rentabilidad social. La tasa interna de retorno (TIR) se estima en 14,9%. Para el escenario
+1, donde se asume un escenario pesimista –que solo incrementa los años de escolaridad en
+0,9 años– los indicadores de eficiencia se mantienen en rangos aceptables, con un beneficio
+neto por beneficiario de US$289,88 y una razón beneficio-costo de US$1,51. Para el escenario
+3, que considera un aumento mayor en los años de escolaridad (1,7 años) como resultado de la
+intervención, el beneficio neto por beneficiario es de US$900,8 y la razón beneficios costos
+asciende a US$2,58. Además de estos escenarios se llevaron a cabo diversos análisis de
+sensibilidad que sugieren que el Programa genera retornos sociales positivos.
+                                       Tabla 4 Indicadores de Eficiencia
+               Indicador             Escenario 1. Pesimista   Escenario 2. Base Escenario 3. Optimista
+     Beneficios                        US$80.874.058,64      US$122.020.137,53    US$138.289.489,20
+     Costos                            US$53.634.429,81       US$53.634.429,81    US$53.634.429,81
+     Número de beneficiarios                93.969                  93.969             93.969
+     Beneficio neto                    US$27.239.628,83       US$68.385.707,72    US$84.655.059,40
+     Beneficio neto por participante      US$289,88               US$727,75          US$900,88
+     Razón beneficio-costo                    1,51                   2,28               2,58
+     TIR                                     5,6%                   14,9%              19,1%
+         Fuente: Análisis Beneficio-Costo NI-L1059.
+Adicionalmente, se hizo un ejercicio de costo-efectividad aplicando la metodología de J-PAL –
+basada en Dhaliwal, Duflo, Glennerster, y Tulloch (2013). Los resultados del análisis costo-
+efectividad indican que para la atención integral de las y los beneficiarios de 0 a 3 años, el costo
+por beneficiario asciende a US$204,1 en 2018, mientras que para las y los beneficiarios en el
+rango de 3 a 6 el costo por beneficiario asciende a US$132,9 dólares en 2018. Al comparar estos
+resultados con costos de intervenciones similares, se observa que los costos del Programa
+NI-L1059 se encuentran dentro del rango de costos de estos programas, sugiriendo que el
+Programa fue costo-efectivo.
+ II.3    Sostenibilidad
+                  a. Aspectos generales de sostenibilidad
+Durante la fase de diseño se previó como posible riesgo la posibilidad de que el Gobierno de
+Nicaragua, no lograra asumir la continuidad de los servicios dirigidos a la primera infancia, debido
+a la baja cobertura de atención a la misma, que está relacionada con la limitación en el gasto
+público para este grupo etario, y con su limitada focalización.
+Debido al énfasis puesto inicialmente en la oferta universal de servicios sociales, se ignoró hasta
+2010 la importancia de focalizarlos, con el riesgo de producir un efecto “no pro-pobre” del gasto
+público y por tanto una mayor exclusión de los más vulnerables. La EMNV 2009 indica que el
+58% de los niños atendidos en CICO son “no pobres”. Con la actualización del Plan Nacional de
+Desarrollo Humano en septiembre de 2010, el Gobierno de Nicaragua (GDN) reconcilia el
+objetivo de largo plazo de coberturas universales, con la necesidad inmediata de priorizar los
+recursos públicos.
+Por lo anterior, el Programa contempló como mecanismo de financiamiento, un monto fijo y
+decreciente por niño atendido, y cubrir parcialmente el costo total de atención integral, para
+                                                                                                       25
+"
+"permitir movilizar el financiamiento de fuente fiscal hacia los municipios priorizados e
+intervenciones altamente costo-efectivas. De manera que las asignaciones hacia la primera
+infancia se aumenten con respecto de los niveles encontrados en 2012, previo al inicio del
+Programa.
+Los impactos de las prestaciones se sostendrán en el tiempo únicamente en la medida que la
+oferta pública de servicios para los beneficiarios más vulnerables también se sostenga. De
+acuerdo con la literatura, los costos de los Programas son cruciales porque determinan hasta
+qué punto se pueden entregar y mantener los servicios en la medida que el Gobierno local
+aumente su presupuesto para el desarrollo infantil temprano, El costeo también es importante
+para establecer el total de los costos de los recursos que junto con los beneficios permiten
+estipular qué tipos de Programas tengan un mayor retorno a la inversión. Asimismo, este sugiere
+tres grandes rubros para costear los servicios a la primera infancia: (i) visitas domiciliares,
+(ii) jardines de cuidado infantil de jornada completa, y (iii) niños que asisten a preescolar y
+participan en actividades educativas de tiempo parcial 31.
+En el diseño de la operación se analizó el impacto fiscal, el presupuesto público de gastos que
+se tendría que movilizar a futuro bajo diversos escenarios de cobertura, donde el escenario más
+conservador indicó que para financiar la atención a nivel nacional con la cobertura alcanzada en
+2015 (incluida la financiada bajo este programa), el PGR tendría que asignar a dicha atención no
+menos de US$40,5 millones en 2015. Por otro lado, el escenario más ambicioso (ej. 75% de
+cobertura en 2020 de los menores de 6 años pobres y el 100% de los extremadamente pobres a
+nivel nacional) significaría un costo total de US$92,4 millones. Con base en: la tendencia al alza
+de: (i) el presupuesto de los tres ministerios sociales entre 2006 y 2012 (69%); y (ii) la parte
+asignada a primera infancia dentro de cada ministerio (particularmente en el caso del MINED),
+Según la proyección que aplicó un aumento interanual es del 12%, tal como se indicó en el Marco
+Presupuestario de Mediano Plazo, con recursos por US$210 millones para Primera Infancia en
+2020.
+Sin embargo, las asignaciones no se incrementaron conforme la proyección esperada. Entre
+2016 y 2018, especialmente en el MIFAN, sostiene una disminución real de -21.4% en 2018,
+siendo el mayor afectado de los tres ministerios. El MINED por su parte en 2018 se disminuyó al
+-3.4% y MINSA al -3.5%, comprometiendo así la continuidad y sostenibilidad de las atenciones y
+provisión de los servicios de Primera Infancia logradas con el Programa.
+                  b.    Sostenibilidad financiera
+A fin de asegurar la sostenibilidad del financiamiento y basado en los niveles de cobertura y
+esfuerzo presupuestario de los respectivos ministerios, se previó el financiamiento de un
+porcentaje decreciente del costo de atención a lo largo del período de desembolso del programa.
+Específicamente, en los primeros dos años el Programa financió el 60% del costo anual por niño
+menor de 6 años atendido en las visitas domiciliarias, el 100% del costo anual por niño de
+3 a 6 años por concepto de la merienda y el 15% del costo de atención en salud por niño menor
+de seis años atendido (esto significa en montos totales: US$60, US$25 y US$5,25
+respectivamente). En los últimos dos años dentro del plazo de desembolso, los porcentajes
+respectivos fueron 55%, 90% y 12%. (US$55, US$22.50 y US$4.20 respectivamente). Dado que
+se cubrió parcialmente el costo por niño efectivamente atendido, el financiamiento sirvió de
+incentivo para que el MIFAN como ejecutor, MINED y MINSA canalizaran sus propios recursos
+hacia la primera infancia en las comunidades priorizadas.
+31   Los Primeros años, Samuel Berlinski y Norbert Schady, 2016
+                                                                                                26
+"
+"Durante la ejecución del Programa, los servicios continuaron brindándose con la misma
+intensidad y calidad, siendo asumido por los Ministerios el porcentaje que se dejó de percibir en
+los dos últimos años.
+Sin embargo, la sostenibilidad efectiva solamente se dio en el MINED, para el grupo etario
+3 a 6 años en el servicio específico de preescolar, logrando absorber el 100% de las educadoras
+de prescolar, incluyéndolas en planilla institucional una vez concluido el Programa, esto significa
+que el servicio prescolar que estaba siendo cubierto con fondos del Programa y que alcanzó una
+cobertura de 30.089 niños (15.662 niñas y 14.427 niños) de 28.258 familias continuó brindándose
+sin interrupción en las 1.970 salas de prescolar comunitario en la comunidades priorizadas y
+realizando 8 visitas casa a casa al año a las familias de los niños integrados al preescolar. Y el
+MINSA continuó brindando la cobertura VPCD al 100% de los niños y niñas menores de seis en
+las comunidades priorizadas.
+En miras hacia la sostenibilidad MIFAN deberá realizar un ejercicio detallado del costo de la
+oferta de servicios dirigidos a la Primera Infancia que mandata la PNPI, así como un análisis de
+las coberturas y brechas existentes, principalmente en el grupo etario 0 a 3 y proponer
+alternativas innovadoras de promoción del desarrollo infantil temprano desde las municipalidades
+y la empresa privada.
+                c. Sostenibilidad Técnica
+Con relación a la sostenibilidad de los resultados encontrados en la evaluación de desempeño,
+se espera que los mismos se sostengan en el tiempo, como lo es el Porcentaje de hogares donde
+por lo menos un miembro acudió a los servicios que están incluido en el sistema de referencia
+en los últimos seis meses, que alcanzó hasta un 80% en las comunidades priorizadas, y que es
+determinante para el desarrollo infantil temprano porque moviliza la demanda de las familias a
+los servicios básicos para sus hijos e hijas de 0 a 6 años.
+El fortalecimiento de las comisiones de amor para los más chiquitos y chiquitas en los municipios
+priorizados, movilizándolos para procurar la integralidad de los servicios para la primera infancia
+desde el SNBS, así también los alcances de la formación a 7.611 agentes calificados a cargo de
+las visitas domiciliarias que fortalecen la capacidad institucional en MIFAN, MINED, MINSA,
+INIFOM y CDI, fue provechoso para las municipalidades, así como para disponer de personal
+calificado y ser absorbido por el Ministerio de Educación una vez acabó el Programa.
+Otra acción que favorece la sostenibilidad fueron las capacidades adquiridas por personal
+voluntario, con funciones de educadoras comunitarias, que adquieren un compromiso con su
+comunidad, por los niños y niñas y sus familias, convencidas de que, potenciando esas
+capacidades infantiles, potencian el desarrollo de su comunidad, convirtiendo en capacidad
+instalada en la comunidad para futuras intervenciones en la primera infancia.
+Sin embargo, existen riesgos significativos para la continuación de los resultados alcanzados con
+el PAIPPI, por no lograrse la sostenibilidad de la oferta de servicios de visita casa a casa para
+ambos grupos etarios, lo que ocasiona una calificación Satisfactorio en el tema de la
+Sostenibilidad bajo esta modalidad. No obstante, existen aspectos positivos de desarrollo
+cognitivos y de otro tipo de habilidades que generaron las intervenciones del Programa, las que
+a su vez expanden logros académicos y de escolaridades en la infancia tardía y en la
+adolescencia, como beneficio que incide de manera positiva en la productividad, y de los ingresos
+en la edad adulta. Otro aspecto, es la oferta de cuidado infantil para los padres en beneficio de
+ahorro de gastos, de tiempo, buen cuido a sus niños y para facilitan la participación de las madres
+en el mercado laboral.
+                                                                                                 27
+"
+"                d. Salvaguardas ambientales y sociales
+De conformidad con lo establecido en la Política de medioambiente y cumplimiento de
+salvaguardias del Banco (OP-703) se clasifica la operación en la categoría “C”, dado que la
+inversión en los ambientes físicos consistió en reparaciones menores en locales públicos
+existentes. El Reglamento Operativo del Programa (RO) incluye la obligación por parte del
+MIFAN, MINED y MINSA, para lo cual se construyó un Manual de procedimientos para las
+rehabilitaciones, haciendo aplicar las normas de gestión ambiental y de prevención de riesgo en
+el uso de los locales.
+En cuanto a la inclusión social, se incluyeron comunidades vulnerables entre ellas algunas con
+población indígena, por lo que el Reglamento Operativo previó la consulta y adaptación de las
+prestaciones desde un enfoque inclusivo y de pertinencia cultural, de acuerdo con la Política
+OP-765.
+        III. CRITERIOS NO CENTRALES
+ III.1  Desempeño del Banco
+El desempeño del Banco se considera satisfactorio. Desde la preparación del Programa se contó
+con la asistencia técnica adicional al Ejecutor con el fin de aumentar las probabilidades de éxito
+del proyecto, estas fueron las Cooperaciones técnicas NI-T1116: Evaluación de Impacto de los
+Servicios Integrales de Desarrollo Infantil en Áreas Rurales de Nicaragua; y NI-T1082: Monitoreo
+del Gasto en Protección Social y Evaluación de Impacto del Programa Urbano de Bienestar.
+Para el monitoreo de los resultados, con el acompañamiento del equipo del proyecto y
+planificación, los instrumentos utilizados durante la ejecución del Programa fueron el Informe de
+Seguimiento del Progreso (PMR), los informes semestrales de progreso, que además de ser
+condición contractual para cumplimiento del Contrato de Préstamo, sus contenidos fueron
+analizados para el monitoreo como es el Plan Operativo Anual (POA), Plan de Adquisiciones
+(PA) y Matriz de Resultados (MR) relacionados a los resultados y productos con su respectivo
+avance financiero. Estos informes, además incluyen los riesgos del programa y el avance en las
+medidas de mitigación acordadas, lecciones aprendidas y conclusiones y recomendaciones para
+retroalimentar el Programa. En base a la información se realizaron reuniones de seguimiento,
+reuniones de planificación anual, misiones administrativas, dos revisiones de cartera anuales,
+cumplimiento al plan de supervisión mediante visitas de campo, consultorías técnicas, talleres, y
+acciones preventivas y correctivas, entre otras actividades, para el desempeño del Proyecto.
+Para garantizar el desarrollo del Programa con calidad se establecieron planes de acciones, que
+entre otras surgen mediante acuerdos suscritos en revisiones de cartera, se firmaron convenios
+interinstitucionales en el marco de la política de primera infancia para la creación de las
+comisiones y facilitar consenso entre las partes, se realizaron encuentros regionales y
+municipales, entre otras acciones, con el acompañamiento del Banco durante la vida del
+Programa.
+En materia fiduciaria, para el caso de las adquisiciones en cumplimiento a las políticas de
+adquisiciones GN-2349-7: Política para la Adquisición de Bienes y Obras financiadas por el BID;
+y GN-2350-7: Política para la Contratación de Consultores financiados por el BID, que nace del
+Plan de Ejecución Plurianual (PEP) y el Plan Operativo anual (POA), fueron realizados mediante
+procesos ex ante y ex post para los tipos de adquisiciones identificados en el PA. Todos los
+procesos de revisión ex ante fueron debidamente revisados en la documentación presentada
+para no objeción de licitaciones de bienes, consultorías, y firmas consultoras. Asimismo,
+                                                                                               28
+"
+"anualmente el Banco realizó visitas de supervisión para la revisión de los expedientes de los
+procesos ex post, especialmente consultorías y licitaciones públicas nacionales.
+En atención a los aspectos de gestión financiera, el Banco dio seguimiento como parte de la
+administración de las operaciones con garantía soberana que contempla las cláusulas de
+cumplimiento a la Auditoria Interna, Auditoría Externa y Control Interno, mediante la entrega
+oportuna de los Estados Financieros Auditados anual. Además, se registraron oportunamente
+las justificaciones de desembolso como parte de reconocimiento a los gastos elegibles y
+conforme el reporte del sistema SIGFA-PRO 32 y solicitudes de desembolso de acuerdo con el
+Plan Financiero vigente.
+En su análisis, destaca la corresponsabilidad del Banco en las modificaciones al diseño original
+del Programa y apoyo para la correcta ejecución del programa y también para lograr solucionar
+los problemas que se presentaron durante la ejecución del mismo.
+ III.2   Desempeño del Prestatario
+El Desempeño del Prestatario se considera satisfactorio. En el año 2013, previó al inicio de la
+ejecución del Programa, se realizó el Sistema de Evaluación de la Capacidad Institucional (SECI)
+a la Institución ejecutora MIFAN, encontrando un Riesgo bajo. De esta evaluación se originó un
+Plan de Acción para mejorar la Capacidad de Ejecución y de Control.
+MIFAN implementó todos los compromisos acordados en el Plan de Acción que resulta de la
+aplicación del SECI, y continuó brindando seguimiento y asesoría in situ a las Delegaciones
+Departamentales para la correcta ejecución de los fondos.
+Uno de los desafíos importantes y lecciones aprendidas del Programa, identificado desde el inicio
+de ejecución del Proyecto fue la falta de coordinación interinstitucional entre los actores claves
+conforme sus competencias institucionales. Si bien, el MIFAN era el ejecutor rector del Programa,
+hubo necesidad de crear acciones entre el MINED, MINSA y Alcaldías municipales, denominado
+CTEC, para la creación conjunta de estrategias, articulación local e integridad de los servicios,
+así como sesiones más frecuentes de los diversos equipos para la micro planificación y
+evaluaciones que contribuyeron, sin duda, a la mejora continua durante la ejecución del
+Programa.
+Otro reto fue la definición de la rehabilitación de los espacios comunitarios (preescolares y salas
+de estimulación temprana), que finalizó hasta en 2017 con 231 espacios comunitarios y salas de
+estimulación rehabilitados. Esto surgió, por un lado, debido a un tema conceptual de
+“Rehabilitación” ante procedimientos de registros nacionales de asignación presupuestaria; y,
+por otro lado, al realizarse diversos procesos licitatorios con montos poco atractivos en el
+mercado. No obstante, el MIFAN logró mitigar estos retrasos en el cronograma con planes de
+acción estratégicos de agrupación de procesos para hacer más atractivas las licitaciones a los
+oferentes. De este modo, y con la debida gestión de la asignación presupuestaria finalizaron
+estos 231 espacios comunitarios satisfactoriamente.
+Los resultados de Auditoría Financiera siempre fueron de opinión favorable, sin presentar
+hallazgos significativos; algunas observaciones al control interno fueron mejoradas en conjunto
+con Dirección Administrativa Financiera de la Institución.
+La ejecución física del Programa fue conforme lo planificado, logrando cumplir con las metas
+físicas planteadas para cada indicador de producto. Los costos financieros sufrieron variación
+respecto a los costos de diseño, en especial el componente III. Gestión, supervisión y evaluación,
+y se debe al fortalecimiento de la calidad mediante la contratación de digitadores, personal de
+32  Sistema Integral de Gestión Financiera y Auditoría
+                                                                                                 29
+"
+"monitoreo local, administración y contabilidad en las Delegaciones territoriales que
+incrementaron estos costos que fueron necesarios durante la ejecución del Programa.
+El programa fue extendido por 15,5 meses adicionales al plazo original de vencimiento, sin
+embargo, este requerimiento fue necesario para la finalización del levantamiento de datos de la
+evaluación de impacto.
+ III.3  Utilización de Sistemas de País
+El programa utilizó el Sistema de Ejecución de Planes de Adquisiciones (SEPA) para la
+planificación y publicación del plan de adquisiciones y sus actualizaciones. Para la publicación
+de los anuncios específicos de licitación de todas las contrataciones se utilizó el Sistema de
+Contrataciones Administrativas Electrónicas (SISCAE).
+Los registros de las operaciones se efectuaron durante los años 2013 a 2017, en el SIGFA
+(Sistema Integrado de Gestión Financiero y Auditoria). A partir del año 2018, se registró en el
+SIGAF (Sistema Integrado de Gestión Administrativa Financiera), Asimismo se registra las
+operaciones en el Sub-sistema SIGFAPRO (Sistema Integrado de Gestión de Proyectos),
+especial para proyecto que corresponden a Préstamos y Donaciones de Organismos
+Internacionales. El registro se ha continuado en el SIGFAPRO, debido a que el Sistema SIGAF,
+aún no cuenta con Módulo de Proyectos para registrar sus justificaciones al BID.
+                                                                                              30
+"
+"IV. Hallazgos y Recomendaciones
+                                                          Tabla 4. Hallazgos y recomendaciones
+                              Hallazgos                                                              Recomendaciones
+     Dimensión 1: Técnico-Sectorial
+     El Proyecto requirió 15.5 meses de extensión de plazo, para  En futuros proyectos se debe definir desde el principio toda la metodología e
+     cumplir con la Evaluación de Impacto                         instrumentos para recolectar la línea de base y los datos para los seguimientos en la
+                                                                  etapa de diseño. Es ideal definir sí la firma que realizó el Levantamiento de la Línea de
+                                                                  Base debe ser la misma que realice las mediciones de término medio y final, para evitar
+                                                                  atrasos en la selección y contratación de esta.
+     Datos Censales oficiales del INIDE son demasiados            Al no contar con censo actualizado se debe trabajar con las bases de datos de las
+     desfasados, lo que pone en riesgo el seguimiento monitoreo   instituciones, pero siempre con el apoyo del INIDE, que la Institución rectora de las
+     y evaluación de los resultados del proyecto.                 estadísticas de País, a fin de acercarnos a la proyección de las brechas y cobertura.
+                                                                  Existen datos en las propias instituciones que deben potencializarse, mejorar la calidad
+                                                                  del dato y aprovecharlos para los análisis
+     Limitados resultados alcanzados en las áreas de              Se debe crear un instrumento que mida los avances en estas dos áreas del desarrollo
+     competencias parentales y en la calidad del ambiente         de manera intermedia dentro del proyecto y no esperar a la evaluación de impacto.
+     familiar                                                     También, se debe crear una metodología que permita capturar la calidad de las
+                                                                  competencias parentales y el ambiente familiar de manera rutinaria dentro del período
+                                                                  de ejecución de la intervención y no al final. Para lograr esto, a parte de los temas de
+                                                                  cobertura, se debe profundizar y destinar mayores recursos a las intervenciones de
+                                                                  mejora de la calidad continua.
+     Los Enlaces del MIFAN, MINED, las técnicas de                Como práctica los resultados se regresaban con técnicos de primera infancia y técnicos
+     seguimiento y el responsable del sistema de información      integrales de seguimiento, que a su vez se reunían con las educadoras, como un
+     brindaban seguimiento y monitoreo al uso del sistema,        proceso de retroalimentación. Este mecanismo se recomienda mantener en la política
+     haciendo énfasis en el instrumento de observación de las     pública de primera infancia.
+     educadoras, cantidad de visitas por técnicos, analizando y
+     evaluando los datos, identificando logros y dificultades,
+     generando planes de acción según lo encontrado
+     (capacitaciones, acompañamiento técnico inmediato,
+     dotación de equipos).
+     En la fase inicial del Programa se requirió un proceso de    Para futuros procesos se recomienda establecer acuerdos de coordinación en la fase
+     coordinación interinstitucional efectivo entre MIFAN,        de condiciones previas y con el MHCP, especialmente coordinar desde la fase de
+     MINSA, MINED e INIFOM,                                       diseño con las demás instituciones para la continua colaboración por competencia
+                                                                  institucional en el programa.
+                                                                                                                                                            31
+"
+"La calidad de las visitas fue evaluada de dos maneras: (i) El  Aspectos que se implementaron de manera deficiente fueron la revisión de temas de
+Ministerio de la Familia por medio du sus supervisores         sesiones anteriores, la demostración de actividades y el diálogo entre cuidadores y
+aplicó checklists ocasionales para monitorear la calidad; (ii) educadoras, los cuales requieren mejora en otros programas. Además, se recomienda
+Una experta del BID observó 10 visitas del PAIPPI con in       entre medidas que el país podría tomar para mejorar estos aspectos, que además de
+instrumento validado internacionalmente. Se encontró una       la capacitación y supervisión, se realice un acompañamiento (coaching) de las
+buena relación entre los visitantes y las familias, y la       educadoras.
+participación en actividades de aprendizaje basadas en el
+juego introducidas por el educador por lo que las
+capacitaciones, protocolos y el M&E parecen haber
+funcionado en estos temas.
+Dimensión 2: Organizativa y Administrativa
+El Programa financió el desarrollo y puesta en marcha de       Todo proceso de construcción de Sistemas de Monitoreo y Evaluación debe partir de
+un Sistema de Monitoreo y Evaluación para asegurar el          un análisis de los instrumentos rectores del Programa (Matriz de Resultados, Políticas
+seguimiento oportuno de la cobertura y la calidad de los       Públicas, Reglamento Operativo, Protocolos, Curriculum, etc.) con la participación
+servicios de primera infancia. El sistema es alimentado de     activa de todas las áreas involucradas del Programa.
+los datos de los CDI y de las visitas parentales domiciliares,
+acorde al Reglamento Operativo y contenido al Curriculum
+Nacional de 0-3 años.
+                                                               Es importante preservar la experiencia acumulada del Personal en Programas dirigidos
+La prestación de los servicios contemplados en el Programa     a la primera infancia, con énfasis en desarrollo infantil temprano, inclusión, modelos de
+(salud, educación, servicios en los CDI), estuvieron           crianza, género, planificación por resultados, y conocimiento de las políticas del BID,
+disponibles a la población protagonista en el tiempo           para asegurar así la calidad de la prestación de los servicios, el acompañamiento
+programado y con la calidad esperada, gracias a que se         técnico oportuno y una correcta ejecución de los fondos.
+contó con personal con amplia experiencia, tanto en las
+áreas gerenciales, técnicas, planificación, administración,
+obras, adquisiciones e informática.
+Durante el arranque se registraron problemas               de  Se requiere un proceso e instrumento (convenio) de coordinación interinstitucional entre
+coordinación con los tres ministerios participantes.           MIFAN, MINSA, MINED e INIFOM, con la identificación de los canales de comunicación
+                                                               desde el diseño del Programa con acuerdos concretos. Desde el diseño de la operación
+Dimensión 3: Dimensiones relacionadas con los procesos y actores públicos
+El 100% de las educadoras 3-6 fueron incluidas a Planilla      Es necesario que se oficialice y/o institucionalice la visita casa a casa para el desarrollo
+institucional de MINED al concluir el Programa, logrando así   de habilidades parentales como un servicio especializado para la primera infancia,
+la sostenibilidad del servicio preescolar, no así las          especialmente para el grupo 0-3 que históricamente ha estado desatendido.
+educadoras 0-3 de MIFAN que realizaban las visitas casa a
+casa.
+                                                               Es importante invertir en el coste de los servicios de primera infancia para facilitar la
+                                                               gestión de recursos y presupuestación de fuente del tesoro y fuente externa.
+                                                                                                                                                            32
+"
+"                                                             En futuros programas/Proyectos desde su diseño debe acordarse con MHCP la
+                                                             incorporación parcial de las intervenciones en primera infancia en el PGR, para su
+                                                             oportuna sostenibilidad una vez concluidos los proyectos.
+La ejecución del Programa coincidió con el proceso de a      Elaborar propuesta de sostenibilidad de los servicios para la primera infancia desde las
+ampliación y presencia de MIFAN en los municipios y la       municipalidades, en el marco de la Ley 40 “Ley de Municipios” que contempla una
+ampliación de la Red Nacional de Centros de Desarrollo       partida del presupuesto para la niñez.
+Infantil administrados por las Alcaldías Municipales
+                                                             Diseñar una estrategia de fondo presupuestal para estimular a las Alcaldías
+                                                             municipales que promueven acciones dirigidas al desarrollo óptimo de la infancia
+                                                             temprana y la mejora continua de los servicios. Para esto es muy relevante contar con
+                                                             los costos por niño atendido actualizados que permita planificar mejor las inversiones e
+                                                             incorporar en el presupuesto general de la nación los recursos necesarios para
+                                                             garantizar la sostenibilidad de los servicios en sus diferentes modalidades, las
+                                                             inversiones en mantenimiento y la cualificación permanente del recurso humano.
+Dimensión 4: Dimensiones Fiduciarias
+Los procesos de licitación de contratación de servicios de   Es importante reconocer la asesoría técnica y flexibilidad para esta modificación, lo que
+mejoras de los locales preescolares y salas de estimulación  favoreció el cumplimiento de los indicadores y la oportuna dignificación de espacios
+temprana no fueron atractivos para los contratistas, por ser preescolares y salas de estimulación temprana. Se recomienda procesos de
+montos pequeños y en áreas de mucha dispersión               comparación de precios que se lleven a nivel local.
+geográfica, por lo que fue necesario agruparlos en lotes
+desde 2 hasta 6 locales por proceso.
+Dimensión 5: Gestión del Riesgo
+La institución ejecutora sufrió un siniestro en el primer    Es necesario invertir en equipos para el respaldo digital de los archivos contables en
+semestre de 2018 en las instalaciones del área financiera,   físico, para salvaguardar la información en caso de incidentes como el ocurrido.
+perdiendo una importante cantidad de documentación
+contable de los años 2013-2018.                              Se debe invertir en la construcción de un lugar de mayor seguridad, sin acceso por la
+                                                             vía pública, donde se instale el Archivo Central, para el resguardo de la documentación
+                                                             contable, tanto Institucional como de Programas.
+                                                                                                                                                       33
+"
+"        Tabla A1. Indicadores de impacto y de resultado: Medias de grupos de control y tratamiento y coeficiente de impacto (LATE)
+                                                                                Control                Tratamiento
+                                                                                                                               Efecto
+Indicadores de impacto                                                     Media           DE        Media         DE
+Tasa de desnutrición crónica (niños de 6 a 23 meses)                       0.113         0.317       0.112        0.315         0.043
+                                                                           0.156         0.363       0.140        0.347        -0.066
+Desarrollo Social Individual: Rezagado test Denver (niños 0-6 años)
+Motor fino: Rezagado test Denver (niños 0-6 años)                          0.297         0.457       0.253        0.435       -0.140 **
+Desarrollo Lenguaje: Rezagado test Denver (niños 0-6 años)                 0.190         0.392       0.192        0.394        -0.101
+Indicadores de resultado
+HOME (estimulación y pautas de crianza en el hogar)
+Dirigieron palabras de afecto al niño                                      0.765         0.424       0.805        0.396         0.011
+Respondieron verbalmente ante palabras/sonidos del niño                    0.715         0.452       0.760        0.427        -0.000
+Espontáneamente alabaron al niño                                           0.678         0.467       0.682        0.466         0.078
+Transmiten sonidos positivos hacia el niño                                 0.805         0.397       0.840        0.367        -0.036
+Acariciaron o besaron al niño                                              0.676         0.468       0.709        0.454         0.023
+Gritaron al niño                                                           0.015         0.120       0.019        0.135        -0.003
+Pegaron al niño                                                            0.002         0.046       0.010        0.101        -0.040
+Reganaron al niño                                                          0.029         0.169       0.043        0.202        -0.003
+Le prohibieron algo al niño                                                0.048         0.214       0.072        0.258        -0.034
+HOME (Total)                                                               7.447         1.862       7.573        1.814         0.156
+Acceso a servicios
+Niño registrado en registro civil (con partida de nacimiento)              0.799         0.401       0.823        0.382       0.054 ***
+Matricula prescolar (niños 3-6 años)                                       0.449         0.498       0.477        0.500        0.081 *
+Conocimiento parental sobre desarrollo infantil y pautas de crianza        0.744         0.127       0.746        0.126         0.012
+apropiadas (KIDI índice)
+Métodos de disciplina en el hogar (Índice)                                 0.808         0.125       0.809        0.121        -0.020
+Depresión materna
+                                                                                                                                        34
+"
+"Durante los últimos 7 días
+¿Cuántos días se sintió molesta/o por cosas que normalmente antes no le
+                                                                                       0.964         1.805        0.949         1.777          0.250
+molestaban?
+¿Cuántos días no sintió ganas de comer/ no tenía hambre?                               0.897         1.669        0.904         1.673          -0.166
+¿Cuántos días se sintió desanimada/o, y aún con la ayuda de la familia o
+                                                                                       1.170         2.027        1.195         2.009          0.183
+amigos no logro sentirse mejor?
+¿Cuántos días sintió que le costaba concentrarse en lo que hacía aún sin
+                                                                                       1.062         1.966        1.056         1.895          -0.054
+tener a nadie que le esté interrumpiendo?
+¿Cuántos días se sintió melancólica o deprimida?                                       1.120         1.992        1.058         1.919          -0.111
+¿Cuántos días sintió que todo lo que hacía costaba mucho esfuerzo?                     1.423         2.316        1.344         2.223          -0.111
+¿Cuántos días se sintió temerosa/con miedo?                                            0.799         1.758        0.792         1.685          0.146
+¿Cuántos días no durmió bien?                                                          1.377         2.083        1.342         2.078          -0.053
+¿Cuántos días hablaba menos de lo que usualmente habla?                                0.638         1.454        0.601         1.387         -0.369 **
+¿Cuántos días se sintió sola?                                                          1.100         2.145        1.084         2.124          -0.159
+¿Cuántos días se sintió triste?                                                        1.369         2.121        1.311         2.096          -0.297
+¿Cuántos días sintió que no lograba salir adelante?                                    1.628         2.543        1.441         2.335          0.108
+Nota: Media y desviación estándar medidas en línea de base. El efecto es un estimador LATE, donde la variable endógena es si el niño recibió visitas
+domiciliares, y la VI es el estatus de tratamiento de la localidad. Se incluyen los siguientes controles: resultado en línea de base (si se midió), efectos
+fijos de municipio, edad (en meses), y número total de habitantes, demografía de los padres, y nivel educativo. *p < .10,** p < .05,*** p < .01.
+                                                                                                                                                            35
+"

@@ -1,0 +1,2125 @@
+"outlist[[i]]"
+"Proyecto de Modernización de Puerto Cortés – Honduras                         Informe de Terminación de Proyecto (PCR)
+ REDIRECCIONAMIENTO. ESTE PROYECTO
+ ¿RECIBIÓ FONDOS DE OTRO PROYECTO? [NO] ¿CUÁL? [NÚMERO DE PROYECTO]
+ ¿ENVIÓ FONDOS A OTRO PROYECTO?                       [NO] ¿CUÁL? [NÚMERO DE PROYECTO]
+ CLASIFICACIÓN DEL DESEMPEÑO DEL PROYECTO EN LOS PMR:
+   Nº       FECHA PMR          ETAPA PMR                             CLASIFICACIÓN          DESEMBOLSO
+                                                                                            ACTUAL (US$
+                                                                                            MILLONES)
+                               SEGUNDO PERÍODO ENERO-DICIEMBRE
+     1      3/22/2011                                                   PROBLEM                      0.0
+                               2010
+                               SEGUNDO PERÍODO ENERO-DICIEMBRE
+            4/16/2012                                                   PROBLEM                 500,000.00
+                               2011
+                               SEGUNDO PERÍODO ENERO-DICIEMBRE
+            3/29/2013                                                   PROBLEM                1,800,000.00
+                               2012
+                               SEGUNDO PERÍODO ENERO-DICIEMBRE
+            7/8/2014                                                    PROBLEM                 4,800,00.00
+                               2013
+                               SEGUNDO PERÍODO ENERO-DICIEMBRE
+            5/13/2015                                                SATISFACTORY              9,264,729.00
+                               2014
+                               SEGUNDO PERÍODO ENERO-DICIEMBRE
+            3/30/2016                                                SATISFACTORY             10,000,000.00
+                               2015
+                               SEGUNDO PERÍODO ENERO-DICIEMBRE
+            4/7/2017                                                 SATISFACTORY             10,000,000.00
+                               2016
+                               SEGUNDO PERÍODO ENERO-DICIEMBRE
+            4/17/2018                                                SATISFACTORY              9,878,223.78
+                               2017
+ METODOLOGÍA DE ANÁLISIS ECONÓMICO EX POST: N/A
+ METODOLOGÍA DE EVALUACIÓN EX POST: ANTES Y DESPUÉS
+ CLASIFICACIÓN DE EFECTIVIDAD EN EL DESARROLLO: PARCIALMENTE EXITOSO
+"
+"Proyecto de Modernización de Puerto Cortés – Honduras                        Informe de Terminación de Proyecto (PCR)
+ PERSONAL DEL BANCO
+   POSICIÓN                                    DURANTE PCR                DURANTE APROBACIÓN
+   VICEPRESIDENTE VPS                          ANA MARÍA RODRÍGUEZ        SANTIAGO LEVY
+   GERENTE PAÍS                                VERONICA ZAVALA            GINA MONTIEL
+   GERENTE SECTOR                              FABRIZIO OPERTTI           ANTONI ESTEVADEORDAL
+   JEFE DE DIVISIÓN                            JAIME GRANADOS              N/A
+   REPRESENTANTE DE PAÍS                       EDUARDO ALMEIDA            MIGUEL MANZI
+   LÍDER DE EQUIPO DE                          MARGARITA LIBBY            MANUEL MARQUEZ
+   PROYECTO
+   LÍDER DE EQUIPO PCR                         ERICK MÉNDEZ
+   MIEMBRO DE EQUIPO PCR                       AGUSTÍN SARRÍA
+ TIEMPO DE PERSONAL Y COSTOS
+   ETAPA DE CICLO DE                           # DE SEMANAS DE PERSONAL   US$ (INCLUYENDO VIAJES Y
+   PROYECTO                                                               COSTOS DE CONSULTORES)
+   PREPARACIÓN                                            14,5                     US$ 17,400.00
+   SUPERVISIÓN                                             7                          US$ 3,300
+   TOTAL                                                  21,5                       US$ 20,700
+ DESCRIPCIÓN DE LOS OBJETIVOS DE DESARROLLO DEL PROYECTO/PROGRAMA:
+ (i) fortalecer la capacidad de control y seguridad de la aduana para que Puerto Cortés pueda mantener
+ su estatus de reconocimiento internacional como Puerto seguro; (ii) mejorar la coordinación operativa
+ para reducir costos logísticos, y (iii) mejorar la infraestructura y el equipamiento para garantizar una
+ atención al usuario permanente y de calidad.
+"
+"Proyecto de Modernización de Puerto Cortés – Honduras                Informe de Terminación de Proyecto (PCR)
+I.        INTRODUCCIÓN
+     A. Contexto político, social y económico del país
+Entre 2000 y 2008, la economía de Honduras tuvo un crecimiento anual promedio de 5,3%,
+impulsado por el consumo final, las exportaciones de café y de productos textiles. Sin embargo,
+entre 2008 y 2009, la economía estuvo afectada por las crisis gemelas (financiera y sociopolítica)
+con repercusiones negativas sobre el crecimiento, la inflación y las finanzas públicas 1. Durante
+los años 2010 y 2011 el Gobierno inició un periodo de estabilización política y económica que
+permitió la reinserción internacional del país y el fortalecimiento de las perspectivas
+macroeconómicas mediante un programa de estabilización respaldado por el Fondo Monetario
+Internacional.
+En el marco del programa con el FMI, Honduras logró un avance importante en el fortalecimiento
+de sus finanzas públicas asentado en una reforma tributaria con el objetivo de incrementar la
+recaudación entre 1.5 y 2.5 puntos del PIB, una racionalización del gasto público, en el aumento
+en la eficiencia de las empresas públicas, en el fortalecimiento del sistema financiero y en las
+mejoras en el sistema de pensiones. (Estrategia País del BID 2011-2014).
+Considerando que Puerto Cortes ha sido y es una de las infraestructuras que le permiten al país
+posicionarse en el comercio regional, el Gobierno retomó la iniciativa de mejora y fortalecimiento
+a esta aduana. El Puerto es parte de la logística en el comercio internacional para países como
+Nicaragua y El Salvador (que no poseen infraestructura marítima en el Atlántico) y para el propio
+país. La dinámica y actividad que ahí se ejecuta brindan una pauta sobre las condiciones
+económicas del país y su desempeño en la materia, ya que es el centro principal de transporte
+marítimo en Honduras, manejando el 81% de la carga y el 76% de los buques que entran o salen
+del país (POD del Proyecto). Con esta realizad se identificó la necesidad de realizar una
+intervención para mejorar la gestión del Puerto, de tal manera que, durante la fase de formulación
+del Proyecto, se determinó:
+“… Puerto Cortés no dispone de procedimientos modernos para recibir la información anticipada
+de las navieras y transportistas, que le permitan planificar sus acciones. Tampoco dispone del
+personal preparado para afrontar un reto técnico distinto y más complejo que la verificación física.
+En este punto la aduana de Puerto Cortés solo dispone de 24 funcionarios para la revisión física,
+sin perfil para la auditoría y ninguno sin para la documental o posterior y su sistema de análisis
+de riesgo es muy débil y nada focalizado a la operativa portuaria. Por otro lado, una parte
+importante de las mercancías para ser clasificadas correctamente y aplicarle las normas fiscales
+o parafiscales requieren de un análisis químico, físico o técnico. La aduana de Puerto Cortés no
+dispone de un laboratorio para cumplir esta función debiendo enviar las muestras a Tegucigalpa
+lo cual retrasa el despacho de mercancías innecesariamente.…” 2
+1 Honduras: un enfoque territorial para el desarrollo. BID. 2019.
+2 Propuesta para el desarrollo de la operación (POD). Pág. 4.
+                                                      Página 6 de 51
+"
+"Proyecto de Modernización de Puerto Cortés – Honduras                          Informe de Terminación de Proyecto (PCR)
+El Proyecto de Modernización de la Aduana de Puerto Cortés se ejecutó durante un periodo
+transformaciones en la organización del Gobierno, en particular para la gestión aduanera que
+tuvo varias intervenciones y la conformación de una instancia temporal. Las decisiones en
+materia de ordenamiento y ajustes institucionales afectaron el plazo y condiciones de ejecución
+previstas inicialmente, como consecuencia, el proyecto tuvo una extensión y cambios
+institucionales en su dirección y coordinación. Con todo esto, no se afectó el alcance y ámbitos
+de intervención previstos en su formulación y en base a esa ruta se mantuvo la ejecución.
+Durante la ejecución y en medio de ese contexto de ajustes institucionales, de forma general, se
+puede apreciar una fase inicial muy lenta desde el inicio del Proyecto, en donde los actores claves
+tuvieron dificultades para arrancar con las actividades del Proyecto (periodo 2010-2014). A partir
+de 2015, se logran articular acciones y se cambian la dinámica y desempeño, lo que coincide
+con la maduración de los ajustes y el liderazgo de la instancia donde se asignó la ejecución del
+Proyecto (Servicio de Administración de Rentas). En el gráfico 1 se visualiza una línea de tiempo
+con hitos relevantes.
+                                   Gráfico 1. Fases de Ejecución del Proyecto
+                                                    Fuente: elaboración propia
+     B. Actores claves del Proyecto
+De acuerdo con el documento de Préstamo (No. 2467/BL-HO), la ejecución tenía prevista la
+coordinación de dos entidades de Gobierno: la Secretaria de Finanzas (SEFIN), que dispone
+dentro de su estructura a la Unidad Administradora de Proyectos (UAP) y la Dirección Ejecutiva
+de Ingresos (DEI), con las funciones de recaudar, fiscalizar y cobro de los impuestos tributarios
+                                                         Página 7 de 51
+"
+"Proyecto de Modernización de Puerto Cortés – Honduras                              Informe de Terminación de Proyecto (PCR)
+y aduaneros, siendo el beneficiario del Proyecto. La DEI, debido a las transformaciones en las
+instituciones desapareció y el esquema inicial fue modificado 3.
+Estos cambios fueron un factor no previsto que puso en situación crítica la ejecución del Proyecto,
+particularmente en los primeros años. Los ajustes iniciados por el Gobierno en las instituciones
+vinculadas al Proyecto se gestaron en 2012 y se concretaron en los años 2015 y 2016, durante
+este plazo, los cambios en la DEI, incluyó una rotación de Directores a cargo de esta entidad del
+Gobierno 4, lo que conllevó también a cambios en el personal de mandos medios y técnicos
+vinculados con la ejecución del Proyecto.
+Lo anterior tuvo como consecuencia repercusiones en los procesos de gestión, administración y
+operación del Proyecto. Dicha situación se estabilizó en el año 2015, iniciando con ello un periodo
+de ejecución fuerte y cierre del Proyecto. En este sentido, SEFIN asumió un rol de supervisión a
+través de su UAP y el Servicio de Administración de Rentas (SAR), de ejecutor directo, siendo la
+Dirección Adjunta de Rentas Aduaneras (DARA) el beneficiario del Proyecto.
+                                  Gráfico 2. Esquemas de gestión del Proyecto
+      Esquema inicial de gestión del                              Esquema final de gestión del Proyecto
+                     Proyecto
+                                                    Fuente: elaboración propia
+¿Por qué el Gobierno solicitó financiamiento del Banco?
+El Banco ha sido un referente en la región con acompañamiento en Proyectos de esta naturaleza.
+Se habían ejecutado operaciones similares en Nicaragua, como la 1045/SF -NI (Programa de
+Fortalecimiento Institucional de las Administraciones Tributarias y Aduanera) y en México la
+ATN/OC-11348-ME (Fortalecimiento de la gestión aduanera en la Frontera Sur de México);
+asimismo, también se tomaron en cuenta las recomendaciones sobre mejores prácticas que
+3 Ver Anexo 1. Entidades participantes del Proyecto.
+4 Según reporte del Segundo Semestre 2014 (desde PMR): “…Desde que el proyecto fue ratificado por la Asamblea
+y publicado por Presidencia, en agosto de 2011 y hasta la fecha, ha habido seis Ministros/as-Directores/as de la
+DEI, y cuatro Directores/as de Aduanas. Adicionalmente cada nuevo/a titular ha traído su equipo asesor y nombrado
+su coordinador nacional, en este periodo el coordinador/ra, cambió seis ocasiones, cambiando también parte del
+equipo interno de la unidad ejecutora de la DEI…”
+                                                         Página 8 de 51
+"
+"Proyecto de Modernización de Puerto Cortés – Honduras                     Informe de Terminación de Proyecto (PCR)
+aporta la Organización Mundial de Aduanas (OMA) en su Marco Normativo para un Comercio
+Ágil y Seguro, temas en los que el Banco ha realizado aportes con los Gobiernos de la región.
+Es también válido mencionar que, superados los acontecimientos políticos ocurridos en 2009, el
+Gobierno tomó como referencia las operaciones en diseño que había iniciado con el BID, lo que
+permitió acceder a recursos en un periodo en donde se necesita retomar temas de relevancia
+para país, tales como el comercio y la competitividad.
+II.       CRITERIOS CENTRALES. DESEMPEÑO DEL PROYECTO
+     A. Relevancia
+     <U+F0A7>    Coherencia y consistencia de los objetivos del Proyecto
+Puerto Cortés es un importante nodo logístico para la región y para Honduras, ya que representa
+el principal centro marítimo el país moviendo un 79% de la carga total marítima 5 en Honduras; a
+nivel regional es el tercer puerto marítimo (sin incluir Panamá), sirviendo de plataforma para
+países como Nicaragua y El Salvador en el proceso de exportaciones con salida al océano
+Atlántico.
+La necesidad de dar cumplimiento a estándares internacionales y recomendaciones específicas
+en materia de gestión portuaria y aduanera, forman parte de los retos de competitividad del país,
+por lo que la ejecución del Proyecto fue una contribución acorde las necesidades del país en
+materia comercial.
+En este sentido, el objetivo general del Proyecto se orientó a fortalecer la Aduana de Puerto
+Cortés para brindar servicios de calidad y bajo costo para el operador, garantizar el control y la
+seguridad, alineándolo con el esfuerzo del Gobierno para lograr que Puerto Cortés sea un nodo
+logístico regional competitivo.
+Los objetivos específicos del Proyecto se definieron de la siguiente manera:
+          (i)       fortalecer la capacidad de control y seguridad de la aduana para que Puerto
+                    Cortés pueda mantener su estatus de reconocimiento internacional como Puerto
+                    seguro;
+          (ii)      mejorar la coordinación operativa para reducir costos logísticos, y
+          (iii)     mejorar la infraestructura y el equipamiento para garantizar una atención al
+                    usuario permanente y de calidad.
+Los componentes del Proyecto no fueron modificados durante la ejecución del Proyecto, se
+mantuvieron constantes en las tres fases (Diseño, Aprobación y Ejecución), asegurando con ello
+coherencia en cuanto a las líneas de intervención aprobadas. Los componentes se estructuraron
+de la siguiente manera:
+5 Dato obtenido a partir de estadísticas del Sistema de Información Estadística Portuaria de Centroamérica
+http://www.cocatram.org.ni/estadisticas/
+                                                      Página 9 de 51
+"
+"Proyecto de Modernización de Puerto Cortés – Honduras                              Informe de Terminación de Proyecto (PCR)
+     <U+F0A7>    Componente I. Fortalecimiento de la capacidad de fiscalización y seguridad en Puerto
+          Cortés.
+     <U+F0A7>    Componente II. Coordinación y facilitación operativa, con el objetivo de lograr la
+          coordinación adecuada entre los organismos de control y los operadores logísticos, para
+          potenciar los efectos del despacho anticipado y el nuevo modelo de fiscalización
+          atendiendo a la facilitación de la operativa en Puerto Cortés.
+     <U+F0A7>    Componente III. Fortalecimiento de la infraestructura y el equipamiento para mejorar la
+          atención al usuario y la operativa aduanera.
+La única modificación que se realizó con respecto al diseño fue a nivel de producto ingresándose
+una actividad no prevista, relacionada al componente III. En el segundo semestre del año 2012
+el Gobierno de Honduras solicitó apoyo al BID para que con los recursos del Proyecto se
+ejecutara la construcción de la aduana de “El Amatillo” 6. Esta modificación se refleja en la Matriz
+de Productos, con la incorporación de un producto: “3.3 Aduana de Paso \"El Amatillo\" Construida
+en su primera fase”. El producto incorporado, no alteró los objetivos del Proyecto, ni los
+resultados previstos en su diseño.
+       a. Alineación con las necesidades de desarrollo del país
+Puerto Cortés es el cuarto puerto con mayor movimiento de carga a nivel regional. Haciendo un
+análisis sin incluir a Panamá (cuya infraestructura portuaria supera con creces a los países de la
+región), Puerto Cortés obtiene una participación bastante importante en el comercio marítimo de
+la región, sobre todo si se toma en cuenta que aporta a la gestión de exportación e importación
+de países como Nicaragua y El Salvador, particularmente en este último caso, que no tiene salida
+al océano Atlántico.
+En la tabla se puede verificar el incremento de operaciones en Puerto Cortés durante el periodo
+2010 a 2017. Respecto a la gestión de carga, este absorbe un 79% de la carga portuaria del
+país; en la participación a nivel regional de Puerto Cortés, si bien hubo un incremento, hay una
+disminución respecto a 2010, donde se tenía 8.05% de participación regional; lo que puede
+explicarse por la mejora en países como Guatemala y Nicaragua que crecieron en un 62.58% y
+60.44%, respectivamente, casi duplicando el crecimiento de Honduras en el mismo periodo
+(33%).
+                        Tabla 1. Total de carga movilizado por país (Miles de TM)
+6 Ayuda Memoria de Misión de Administración del 09 y 11 de octubre de 2012. El ámbito de dicho apoyo superaba con
+creces la disponibilidad de los recursos previstos en el Proyecto, de tal manera que la iniciativa no fue aceptada en su
+totalidad, acotándose a una primera fase de diseños, adecuaciones y mejoras en este puesto fronterizo
+                                                      Página 10 de 51
+"
+"Proyecto de Modernización de Puerto Cortés – Honduras                                  Informe de Terminación de Proyecto (PCR)
+                                                                               Variacion         Variación
+                         País                      2010            2017
+                                                                               Nominal          Porcentual
+             Guatemala                             16,876.03       27,437.35     10,561.32         62.58%
+             El Salvador                             5,391.76       6,559.18      1,167.41         21.65%
+             Honduras                              10,581.59       14,093.62      3,512.04         33.19%
+             Nicaragua                               3,009.15       4,827.81      1,818.66         60.44%
+             Costa Rica                            13,474.09       17,142.78      3,668.69         27.23%
+             Panamá                                54,819.43       82,106.94     27,287.51         49.78%
+             Total región                         104,152.05     152,167.68      48,015.63         46.10%
+                Total Puerto Cortes              8,383.23       11,239.51
+             % respecto a total
+                                                 79.22%          79.75%
+             Honduras
+             % participación del PC en
+                                                  8.05%           7.39%
+             la Región
+        Fuente: Elaboración propia a partir de Sistema de Información Estadística Portuaria de Centroamérica.
+                                        http://www.cocatram.org.ni/estadisticas/cuadro1/
+Por la relevancia de Puerto Cortés para el país, los planes de Gobierno le han posicionado como
+parte los objetivos clave, especialmente, en cuanto a contribuir con los esfuerzos que pretenden
+que el puerto sea un nodo logístico regional competitivo. En el informe de país 2010, el Gobierno
+destaca en el Objetivo 3, numeral 14 que “…reactivó el Proyecto de expansión y modernización
+de Puerto Cortes…”, en referencia al inicio del Proyecto con financiamiento del BID.
+Así mismo, en el Plan de Gobierno 2010-2014, se establece que: “…con respecto a la
+infraestructura de puertos, Honduras tiene en Puerto Cortés, el puerto marítimo más importante
+del Atlántico en la región centroamericana (no incluye Panamá) […] del movimiento importador y
+exportador del país, incluyendo una demanda creciente proveniente de El Salvador y Nicaragua.
+En relación a lo anterior, se ha identificado la necesidad de realizar inversiones para modernizar
+y ampliar en el corto plazo la capacidad de Puerto Cortés…”. Esta afirmación está en sintonía
+con lo establecido en la Visión País 2010-2038 y Plan de Nación 2010-2022. 7
+En materia de gestión de aduanas en Puerto Cortés, la implementación de esquemas basados
+en sistemas de gestión de riesgos para las importaciones, así como esquemas de inspección no
+intrusivos permitirían mejoras en los tiempos (reducción) y agilización en los procesos de
+atención. La infraestructura con la que se disponía previo a la ejecución del Proyecto no permitía
+una mejora en la eficiencia de la gestión, considerando que las instalaciones estaban en un
+deterioro considerable.
+La necesidad de un laboratorio de ensayos con capacidad de bridar respuesta bajo parámetros
+de calidad y confianza en los resultados que dieran respuesta en tiempo y forma a este tipo de
+procesos, aportando en la mejora de atención a los usuarios y la simplificación de trámites, tenía
+7
+  “…En el ámbito de la región centroamericana y de los flujos comerciales globalizados, Honduras debe aprovechar
+su localización geográfica con el fin de constituirse como el más importante circuito de transporte terrestre
+interoceánico para el tránsito de mercaderías en Centroamérica. Lo anterior implicará constante inversión, renovación
+e innovación y la construcción de un aparato de servicios conexos con extraordinarias posibilidades para el país.
+Honduras debe asumir el reto de mantener a Puerto Cortés como el más importante puerto en el Atlántico de
+Centroamérica…”
+                                                         Página 11 de 51
+"
+"Proyecto de Modernización de Puerto Cortés – Honduras                                     Informe de Terminación de Proyecto (PCR)
+como requisitos: la disponibilidad de personal, reactivos y equipos de laboratorio. Previo al
+Proyecto, los análisis eran remitidos a la capital del país, lo que generaba tiempos de respuesta
+de aproximadamente 15 días.
+Lo señalado anteriormente, brinda una aproximación sobre la importancia que tuvo el Proyecto,
+ya que las acciones implementadas se orientaron hacia dos ámbitos complementarios que,
+desde una perspectiva teórica y basada en estudios relacionados con la dimensión portuaria,
+impactan positivamente en la eficiencia: el aporte en los aspectos operativos y la modernización
+de la infraestructura 8. Sin la intervención del Proyecto, es probable que Puerto Cortes hubiera
+tenido una afectación negativa como centro de comercio marítimo en la región.
+      b. Alineación estratégica
+La estrategia definida por el Banco para el periodo de diseño 9 de la operación se orientó a cuatro
+grandes bloques, uno de los cuales está dirigido a “Mejorar la competitividad”, estableciendo
+áreas de intervención, dentro de las que tenían una relación directa con el proyecto de reducción
+de costos logísticos, haciendo referencia específica a “…consolidar Puerto Cortés como un
+Puerto líder en Centroamérica…” (Estrategia país, 2007-2010. Pág. 20).
+Durante la ejecución del Proyecto, en la revisión de la Estrategia País para el periodo 2011-2014,
+el Proyecto no se vinculó con los cinco sectores priorizados 10. Se hace una referencia sobre a
+las mejoras de Puerto Cortes en lo referente a la coordinación con otros cooperantes, en el sector
+de transporte. Es importante señalar que, en ese periodo, el Gobierno había focalizado acciones
+dentro de un Programa de estabilización con el Fondo Monetario Internacional, que incluyó
+reformas estructurales, como se ha expuesto en secciones anteriores.
+Al finalizar la operación, el marco de referencia de la Estrategia País definida por el Banco (2015-
+2018) 11 se centra en “…apoyar los esfuerzos del Gobierno para revertir el estancamiento
+productivo y bajo crecimiento […] (iii) vialidad para la integración regional…”. En tal sentido, el
+Proyecto mantiene su relevancia, ya que como se ha mencionado previamente, Puerto Cortés
+es un importante nodo para el comercio regional.
+8 Competitividad – El motor del crecimiento. BID 2001. Capítulo 11, página 172.
+9 Estrategia del BID con el País (GN-2475) para el periodo 2007-2010.
+10 La Estrategia del Banco en el País para 2011-2014, definió cinco sectores de concentración para aprobaciones
+nuevas: i) gestión pública, ii) sistema financiero, iii) protección social, iv) salud, y v) energía.
+11 Estrategia del BID con el País Periodo 2015-2018:
+                                                        Página 12 de 51
+"
+"Proyecto de Modernización de Puerto Cortés – Honduras                                  Informe de Terminación de Proyecto (PCR)
+                                       Tabla 2. Matriz de relación del Proyecto
+                                                                                      Estrategia del        Estrategia del
+    Realidad del país y                Objetivos del        Estrategia del Banco
+                                                                                      Banco para el         Banco para el
+         necesidades                      Proyecto        para el País 2007-2011
+                                                                                     País 2011-2014        País 2015-2018
+                                  El objetivo general
+                                  del Proyecto es                                  No se vinculó
+                                  fortalecer la Aduana                             directamente a los
+                                  de Puerto Cortés                                 sectores
+                                  para que brinde                                  priorizados, debido
+ Puerto Cortes es el              servicios de calidad y                           a que el contexto
+ principal centro de              bajo costo para el                               estaba delimitado
+ comercio marítimo                operador, garantice                              por las acciones        Sector
+ (exportaciones e                 el control y la         Área de focalización: 2) acordadas entre el      Priorizado:
+ importaciones) de                seguridad,              Mejorar la               Gobierno y el FMI.      \"Vialidad para la
+ Honduras y sirve de              alineándola con el      competitividad           En la Estrategia se     integración
+ plataforma para países           esfuerzo del gobierno                            puede verificar que     regional\"
+ como Nicaragua y El              para lograr que                                  las mejoras a
+ Salvador Principalmente.         Puerto Cortés sea un                             Puerto Cortés, se
+                                  nodo logístico                                   destaca como
+                                  regional competitivo.                            parte de acciones
+                                  Son objetivos                                    entre el Banco y
+                                  específicos del                                  otros cooperantes.
+                                  Proyecto.
+ El país mantiene una
+ serie de acuerdos
+                                                          La EBP-HO plantea
+ comerciales, regionales
+                                  (i) fortalecer la       apoyar al GHO en sus
+ mediante al proceso de
+                                  capacidad de control    esfuerzos por abordar
+ integración comercial en
+                                  y seguridad de la       exitosamente el reto de
+ Centroamérica y como
+                                  aduana para que         la competitividad
+ bloque comercial hacia
+                                  Puerto Cortés pueda     focalizando sus
+ países de gran peso en la
+                                  mantener su estatus     actividades en cuatro
+ economía Mundial, con
+                                  de reconocimiento       áreas: i) Reducción de
+ Estados Unidos mediante
+                                  internacional como      costos logísticos y de
+ el CAFTA y con los
+                                  puerto seguro           producción en
+ países de la Unión
+                                                          transporte y energía;
+ Europea por medio del
+ Acuerdo de Asociación.
+ Como esquema de
+ orientación en la gestión                                Reducción de costos
+ aduanera, el marco SAFE                                  logísticos y de
+ de la Organización                                       producción.
+ Mundial de Aduana,                                       De esta forma, la
+ orienta aspectos que                                     EBPHO buscará
+ Honduras buscará dar                                     promover
+ cumplimiento, entre las                                  un sistema de
+                                                                                                           Mejorar
+ líneas SAFE está                                         transporte moderno y
+                                  (ii) mejorar la                                                          integración
+ definida:                                                eficiente, apoyando al
+                                  coordinación                                                             nacional y
+ Inspeccionar                                             país a completar el
+                                  operativa para                                                           regional, y
+ cargamentos con el uso                                   mejoramiento de la
+                                  reducir costos                                                           disminuir costos
+ de tecnología moderna.                                   carretera CA-5 Norte,
+                                  logísticos                                                               de operación y
+ Un sistema de                                            sentar las bases para la
+                                                                                                           transporte.
+ administración de riesgos,                               modernización del
+ para identificar envíos de                               corredor agrícola y el
+ alto riesgo potencial.                                   corredor turístico (El
+ La identificación de carga                               Progreso-Tela-Trujillo)
+ y contenedores de alto                                   y consolidar Puerto
+ riesgo.                                                  Cortés como un puerto
+ Los envíos anticipados de                                líder en Centroamérica.
+ información electrónica
+                                                        Página 13 de 51
+"
+"Proyecto de Modernización de Puerto Cortés – Honduras                              Informe de Terminación de Proyecto (PCR)
+                                                                                  Estrategia del        Estrategia del
+     Realidad del país y                Objetivos del     Estrategia del Banco
+                                                                                  Banco para el         Banco para el
+        necesidades                      Proyecto        para el País 2007-2011
+                                                                                  País 2011-2014       País 2015-2018
+ sobre la carga y los
+ contenedores
+                                                         El apoyo al sector
+                                                         portuario se orientará
+ El país estaba realizando                               mediante asistencia
+ esfuerzos para la                                       técnica para
+ incorporación del                                       acompañar los planes
+ esquema TIM, por lo que                                 de desarrollo e
+ era necesario su                                        inversión en Puerto
+ integración hasta el                                    Cortés, tanto en lo que
+ Puerto.                                                 refiere al análisis de
+ Por otra parte, la                                      factibilidad técnica,
+ necesidad de realizar                                   económica y ambiental
+ ensayos in situ implicaba        (iii) mejorar la       de las inversiones                            Mejorar las
+ el establecimiento de un         infraestructura y el   públicas, como al                             condiciones de
+ laboratorio que tuviera          equipamiento para      seguimiento del                               operación física
+ cumplimiento con                 garantizar una         proceso de APP que                            de los pasos de
+ estándares                       atención al usuario    dará lugar a las                              frontera/aduana
+ internacionales.                 permanente y de        inversiones                                   de mayor
+ Finalmente, destacamos           calidad.               en infraestructura y                          tamaño
+ la necesidad de generar                                 gestión operativa y
+ infraestructura de orden                                comercial de las
+ tecnológico, tanto en                                   terminales citadas. De
+ materia de hardware y                                   darse las condiciones,
+ software con la capacidad                               se apoyará mediante
+ de escalamiento a las                                   las ventanillas privadas
+ demandas del comercio                                   del Banco el
+ que se procesa en el                                    desarrollo de las
+ puerto.                                                 terminales de granos y
+                                                         contenedores del
+                                                         Puerto.
+Fuente: elaboración propia
+Tanto en las estrategias país del BID, durante el periodo de diseño, ejecución y finalización del
+Proyecto, como en las prioridades del Gobierno de Honduras en cuanto al Puerto Cortés, se
+evidencia la relevancia del Proyecto, a efectos de contribuir con su competitividad, por el impacto
+que tiene tanto a lo interno como a nivel regional.
+                                                       Página 14 de 51
+"
+"Proyecto de Modernización de Puerto Cortés – Honduras                 Informe de Terminación de Proyecto (PCR)
+      c. Relevancia del diseño
+El rol de las Aduanas en esta década y especialmente en los últimos años, se ha desarrollado
+buscando un equilibrio entre el cumplimiento de su función básica de control fiscal y parafiscal
+del comercio exterior y el aseguramiento de fronteras, junto al cumplimiento eficiente de su
+función, a través de medidas de facilitación de las transacciones comerciales. En el 2005 los
+países miembros de la Organización Mundial de Aduanas (OMA) aprobaron el marco de
+estándares que deberían implantar las aduanas para garantizar un comercio ágil y seguro,
+conocido como WCO SAFE Framework of Standards 12.
+Puerto Cortés es la principal aduana de Honduras, manejando más del 80% de los contenedores,
+el 50% de las declaraciones de exportación y el 25% de las de importación, el 50% de los
+tránsitos internos y el 80% de los internacionales, con una recaudación que supera el 30% del
+total nacional. Al momento de diseñar el Proyecto, estaba claro que la aduana no estaba
+preparada para afrontar el reto del crecimiento operativo del puerto en un ambiente de equilibrio
+entre control, seguridad y facilitación, aplicando los estándares del Marco SAFE; por ejemplo, la
+verificación física era la regla y no la excepción, lo que implicaba tiempos y costos de
+considerable impacto en el proceso de exportación e importación.
+La aduana no disponía de procedimientos modernos para recibir la información anticipada de las
+navieras y transportistas, que le permitan planificar sus acciones. Tampoco del personal
+preparado para afrontar un reto técnico distinto y más complejo que la verificación física. Así
+mismo, su sistema de análisis de riesgo era muy débil, sin perfiles de riesgo enfocados a la
+detección de irregularidades o ilícitos aduaneros teniendo presente la especialidad y el modus
+operandi en el tráfico marítimo y en el tránsito aduanero terrestre.
+Por otro lado, una parte importante de las mercancías para ser clasificadas correctamente y
+aplicarle las normas fiscales o parafiscales requieren de un análisis químico, físico o técnico; se
+tenía que recurrir al laboratorio de la capital (Tegucigalpa), que la aduana de Puerto Cortés no
+disponía de un laboratorio para cumplir esta función.
+El tránsito aduanero es uno de los elementos clave en la llegada o salida de las mercancías de
+Puerto Cortés. Al momento del diseño de la operación, la aduana utilizaba el sistema nacional
+de tránsito con base en el papel, aun cuando se iniciaba el Sistema de Tránsito Internacional de
+Mercancías Mesoamericano (TIM) en la frontera del El Amatillo con El Salvador. Este sistema,
+basado en el concepto de ventanilla única electrónica, debería ser extendido a Puerto Cortés y
+a las fronteras de Honduras, conectando el TIM con el Sistema de Despacho Anticipado y Análisis
+de Riesgo, que se propone, se tendría toda la operación integrada por vía electrónica, agilizando
+sustancialmente la liberación de cargas y mejorando el control.
+En cuanto a la infraestructura edilicia y el equipamiento de la Aduana de Puerto Cortés, la misma
+se encontraba en un estado de deterioro tal que no permitía soportar el equipamiento tecnológico
+12http://www.wcoomd.org/en/topics/facilitation/instrument-and-
+tools/tools/~/media/C6CDF626AFB348FCA2AC59B796B79833.ashx
+                                                      Página 15 de 51
+"
+"Proyecto de Modernización de Puerto Cortés – Honduras                 Informe de Terminación de Proyecto (PCR)
+necesario para su funcionamiento, sin perjuicio de la atención al usuario o de las condiciones de
+habitabilidad para los trabajadores o el riesgo para los mismos. Por ello, se determinó
+imprescindible llevar a cabo un reacondicionamiento del edificio incluyendo el equipamiento
+funcional, eléctrico y sanitario, entre otros.
+Por lo que respecta a la tecnología, si bien la aduana nacional realizó un gran avance con la
+implantación del nuevo Sistema Automatizado de Rentas Aduaneras de Honduras (SARAH),
+para implantar el modelo de despacho anticipado, análisis de riesgo, conexión con otros
+organismos y TIM, etc., por el alcance del sistema y los requerimientos de interoperabilidad, se
+determinó necesario realizar nuevas inversiones en infraestructura informática, reforzamiento de
+las telecomunicaciones y soporte eléctrico.
+Considerando la capacidad operativa del puerto y su posible expansión, la aduana precisa dar
+servicio continuado a sus sistemas y garantizar la disponibilidad de estos especialmente ante la
+eventualidad de desastres naturales. Por ello era necesario instalar un sistema operativo
+redundante que además permita tener un back-up del Sistema SARAH, dotado con la
+infraestructura eléctrica y de comunicaciones adecuadas.
+Las dimensiones de intervención se basaron el objetivo de fortalecer Puerto Cortés, teniendo en
+cuenta que la eficiencia portuaria se relaciona con las actividades que dependen de la
+infraestructura del puerto y sus procesos de gestión. Por ejemplo, el remolque o el manejo de
+cargas y la capacidad de ingreso de los barcos es fundamental para costos por tiempos de espera
+en aguas o mantenimiento de las cargas en barco; pero también, es claro que tiene que ver con
+los ámbitos relacionados con los procedimientos aduaneros.
+La (in) eficiencia de muchas operaciones portuarias e incluso el momento en que se realizan,
+afectan en gran medida el servicio de aduanas (que a menudo determina totalmente la
+operación) 13 que es sujeto de criterios para medir la capacidad del Puerto a través de indicadores
+asociados con la competitividad de sus operaciones y que repercuten en índices que permiten
+comparabilidad entre los servicios portuarios a nivel mundial.
+El diseño y los objetivos del Proyecto se definieron de forma clara y consistente con las
+necesidades que mostraba el país y con los resultados que se esperaban alcanzar. Durante la
+ejecución los indicadores intermedios y finales no tuvieron ajustes de fondo, aunque sí se hicieron
+revisiones en cuanto a la meta prevista. Estas revisiones, generalmente, obedecieron a un
+optimismo en cuanto al impacto a generar.
+El proyecto contó con una teoría de cambio clara donde se buscó que los indicadores intermedios
+y finales, contribuyeran la obtención de los objetivos específicos y por ende al objetivo general
+del Proyecto. Basado en la lógica vertical, la tabla 4 muestra la cadena de resultados a partir de
+los productos que se definieron en cada uno de los componentes, la manera en cómo estos se
+asociaron con los objetivos específicos y los indicadores (intermedios y finales) previstos para
+13 Competitividad: El Motor del Crecimiento. BID. 2001.
+                                                      Página 16 de 51
+"
+"Proyecto de Modernización de Puerto Cortés – Honduras                 Informe de Terminación de Proyecto (PCR)
+cada uno de los ámbitos, a fin de hacer una contribución efectiva en el objetivo general del
+Proyecto y verificarlo mediante los indicadores de impacto establecidos.
+Es pertinente mencionar que algunos indicadores, si bien son coherentes y pertinentes al ámbito
+del Proyecto, tuvieron limitaciones por su naturaleza y alcance. El indicador de liquidaciones
+complementarias, por ejemplo, es pertinente a la gestión aduanera, pero el esquema de
+administración en Honduras supone procesos ex post y la participación de entidades que no se
+podían vincular al proceso y en otros casos como el indicador de la cuota ingresar como resultado
+de una fiscalización, demandaba el desarrollo de un módulo de fiscalización específico.
+Otro indicador importante es el referido desde el ranking de Eficiencia de Administración de
+Aduanas elaborado por el Foro Económico Mundial, que es muy pertinente, pero como se
+explicará más adelante, no puede referirse de manera específica a la gestión del Puerto, de
+manera que, para evaluar el resultado del Proyecto, es muy amplio.
+Las fuentes de información para la medición de los indicadores se detallaron de forma muy clara
+en el diseño del Proyecto. Debido a la reestructuración de las instituciones y los cambios de
+personal, esto fue de mucha importancia para el seguimiento y monitoreo del Proyecto durante
+la fase de ejecución.
+En todo caso, el diseño del Proyecto estableció a una articulación de indicadores que en principio
+deberían dar coherencia al objetivo global. La lógica de intervención estuvo basada en la
+segregación de componentes, y luego, por componente, con una EDT que permitiera una
+atribución apropiada de las actividades con el resultado esperado por componente. En la medida
+que se lograran ejecutar los productos, se deberían obtener indicadores (intermedios y finales de
+componente) que dieran una pauta para alcanzar los objetivos del Proyecto.
+Bajo esta perspectiva, el diseño del Proyecto permite comprender de forma clara como las
+intervenciones, en sus diferentes niveles y ámbitos pueden aportar al objetivo del Proyecto y los
+resultados previstos basándose en una lógica vertical coherente. Con ello, fue posible monitorear
+correctamente los productos, resultados intermedios y finales, tal y como se puede apreciar en
+la Tabla 3.
+                                                      Página 17 de 51
+"
+"Proyecto de Modernización de Puerto Cortés – Honduras                                                                           Informe de Terminación de Proyecto (PCR)
+                                           Tabla 3: Lógica vertical en el diseño del Proyecto
+            PRODUCTOS                                                      RESULTADOS                                                             IMPACTO
+                                                                    Indicadores de Resultados              Indicadores de                            Indicadores de Impacto del
+             Componentes                  Objetivos Especificos                                                                  Objetivo General
+                                                                         Intermedios Finales            Resultados Finales                                      Proyecto
+ - Contrato adjudicado para la                                                                       Declaraciones de
+ provisión de asistencia técnica para                           Declaraciones de importación,        importación que aplican
+ el diseño del sistema de análisis de                           exportación y tránsito revisadas con uso de reglas varias y
+ riesgo, capacitación y adquisición de                          base en análisis de riesgo, bajo     probabilísticas en la
+ licencias.                                                     reglas probabilísticas y aleatorias  selección mediante el
+ - Estudio de seguridad en recintos y                                                                análisis de riesgo                            Cuota a ingresar sobre la cuota
+ costas elaborado.                                              eficacia en la selección medida por                                                declarada como resultado de una
+ - Porcentaje de certificados                  Fortalecer la                                         Declaraciones de                              fiscalización
+                                                                el porcentaje de liquidaciones
+ necesarios para realizar operaciones capacidad de control y                                         importación asignado a
+                                                                complementarias efectuadas en el
+ aduaneras están operativos para su          seguridad de la                                         los canales rojo y naranja
+                                                                despacho (canal rojo y naranja).
+ trámite en línea entre los diferentes       aduana para que    Recaudación proveniente de pago
+ organismos de control.                   Puerto Cortés pueda   electrónico.
+ - Oficina de análisis de riesgo           mantener su estatus
+ operativa y en funcionamiento.             de reconocimiento
+ - adquisición y disponibilidad de los     internacional como                                                                     Fortalecer la
+ equipos no intrusivos de control.            puerto seguro                                                                        Aduana de
+ - sistema de envío anticipado del                                                                                               Puerto Cortés
+ manifiesto de carga en                                                                                                              para que
+ funcionamiento.                                                                                                                      brinde       Incautaciones por ilícitos y
+ - Puesta en funcionamiento del
+                                                                                                                                   servicios de    contrabando
+ laboratorio de aduanas.
+ - adquisición del equipamiento para                                                                                             calidad y bajo
+ el laboratorio de aduanas.                                                                                                       costo para el
+                                                                                                                                    operador,
+                                                                                                                                   garantice el
+                                                                Incremento del porcentaje de         Tiempo promedio de
+                                                                                                                                   control y la
+                                                                declaraciones de importación y       despacho de la                 seguridad,
+ - Diagnóstico de requerimientos para                           exportación tramitadas con           declaración de                alineándola
+                                         Mejorar la             certificación electrónica            importación.               con el esfuerzo
+ la implantación del TIM transoceánico
+                                         coordinación operativa Porcentaje de tránsitos
+ elaborado.                                                                                                                       del gobierno
+                                         para reducir costos    internacionales tramitados por                                                     Tiempo promedio de despacho
+ - Sistema TIM en funcionamiento en                                                                                                para lograr
+                                         logísticos             sistema TIM en Puerto Cortés                                                       de la declaración de importación
+ Puerto Cortés.                                                                                                                    que Puerto
+                                                                Reducción de los tiempos de
+                                                                despacho de tránsitos                                            Cortés sea un
+                                                                internacionales de mercancías en                                  hub logístico
+                                                                Puerto Cortés mediante el sistema                                    regional
+                                                                del TIM                                                           competitivo.
+                                                                                                     Porcentaje de usuarios
+ - Edificio de la Aduana de Puerto       Mejorar la                                                  externos e internos
+                                                                Adjudicación de obras del edificio
+ Cortés reacondicionado.                 infraestructura y el                                        satisfechos con los
+                                                                de la Aduana de Puerto Cortés                                                      Mejora en ranking de Eficiencia
+ - Edificios de las oficinas tributarias equipamiento para                                           servicios de la Aduana de
+                                                                                                     Puerto Cortés.                                de Administración de Aduanas
+ readecuados.                            garantizar una
+                                                                                                                                                   elaborado por el Foro Económico
+ - Instalación de un Data Center.        atención al usuario                                         Incremento en la
+                                                                                                                                                   Mundial
+ - Aduana de Paso “El Amatillo”          permanente y de                                             disponibilidad de
+ construida en su primera fase.          calidad                                                     servicios informáticos y
+                                                                                                     telecomunicaciones
+                                                                      Fuente: elaboración propia.
+A nivel de ajustes a productos, indicadores y resultados, no se formalizaron cambios respecto a
+la Matriz de Resultados del diseño. Las revisiones y ajustes abordaron las metas de cumplimiento
+previstas, como se puede visualizar en la tabla 4, que compara meta de aprobación respecto a
+60 días posterior a la elegibilidad y al final del Proyecto.
+                                                                               Página 18 de 51
+"
+"Proyecto de Modernización de Puerto Cortés – Honduras                              Informe de Terminación de Proyecto (PCR)
+          Tabla 4. Matriz de resultados: indicadores y ajustes en el periodo de ejecución
+                                                                       Meta 60     Meta al
+                                                       Meta en la
+                                                                       días tras  final del          Comentario
+                                                      Aprobación
+                                                                     elegibilidad proyecto
+ Objetivo           Fortalecer la Aduana de Puerto Cortés para que brinde servicios de calidad y bajo
+ General            costo para el operador, garantice el control y la seguridad, alineándola con el esfuerzo
+                    del gobierno para lograr que Puerto Cortés sea un nodo logístico regional competitivo.
+                    Indicador de impacto:
+                    Cuota a ingresar
+                    sobre la cuota
+                    declarada como                       32%             32%        32%
+                    resultado de una
+                    fiscalización.
+                    Incautaciones por
+                                                          140             140        140        No se gestaron
+                    ilícitos y contrabando
+                                                                                                cambios.
+                    Mejora en ranking de
+                    Eficiencia de
+                    Administración de
+                                                           90              90         90
+                    Aduanas elaborado
+                    por el Foro
+                    Económico Mundial
+                    Tiempo promedio de                                                          Se estimó una
+                    despacho de la                                                              reducción positiva
+                    declaración de                                                              en la medición de
+                    importación                                                                 los tiempos de
+                                                                                                despacho, teniendo
+                                                                                                en consideración
+                                                         10 h             10h         6h        que se estaban
+                                                                                                haciendo
+                                                                                                intervenciones en
+                                                                                                aspectos de orden
+                                                                                                operativo,
+                                                                                                infraestructura y
+                                                                                                procedimentales.
+ Objetivo           Fortalecer la capacidad de control y seguridad de la aduana para que Puerto Cortés
+ Específicos        pueda mantener su estatus de reconocimiento internacional como puerto seguro
+                    Declaraciones de
+                    importación,
+                    exportación y tránsito
+                    revisadas con base
+                                                         85%             85%        85%
+                    en análisis de riesgo,
+                    bajo reglas
+                    probabilísticas y
+                    aleatorias
+                                                         Página 19 de 51
+"
+"Proyecto de Modernización de Puerto Cortés – Honduras                              Informe de Terminación de Proyecto (PCR)
+                                                                       Meta 60     Meta al
+                                                       Meta en la
+                                                                       días tras  final del          Comentario
+                                                      Aprobación
+                                                                     elegibilidad proyecto
+                    eficacia en la
+                    selección medida por
+                    el porcentaje de
+                    liquidaciones
+                                                         30%             30%         60%
+                    complementarias                                                             Se estimó un
+                    efectuadas en el                                                            incremento
+                    despacho (canal rojo                                                        positivo, como
+                    y naranja).                                                                 consecuencia de
+                    Recaudación                                                                 las intervenciones
+                    proveniente de pago                  25%             50%         90%        en los sistemas de
+                    electrónico.                                                                riesgos y los
+                    Declaraciones de                                                            avances en los
+                    importación que                                                             sistemas
+                    aplican uso de reglas                                                       electrónicos.
+                    varias y                             50%             50%         95%
+                    probabilísticas en la
+                    selección mediante el
+                    análisis de riesgo
+                    Declaraciones de                                                            Se estimó una
+                    importación asignado                                                        disminución
+                    a los canales rojo y                                                        positiva, es decir, el
+                    naranja                                                                     porcentaje de
+                                                                                                asignaciones sería
+                                                         75%             75%         55%
+                                                                                                menor como
+                                                                                                condición de
+                                                                                                incremento en el
+                                                                                                uso de los sistemas
+                                                                                                de riesgo.
+                    Mejorar la coordinación operativa para reducir costos logísticos
+                    Incremento                del
+                    porcentaje                de
+                    declaraciones             de
+                    importación                 y
+                                                         60%             60%         95%        Se estimó un
+                    exportación
+                                                                                                incremento positivo
+                    tramitadas con
+                                                                                                debido a la
+                    certificación
+                                                                                                incorporación del
+                    electrónica
+                                                                                                TIM en las aduanas
+                    Porcentaje de
+                                                                                                y la gestión
+                    tránsitos
+                                                                                                electrónica.
+                    internacionales
+                                                         50%             50%        100%
+                    tramitados por
+                    sistema TIM en
+                    Puerto Cortés
+                    Reducción de los                                                            Se estimó una
+                                                          48h             48h        28h
+                    tiempos de despacho                                                         reducción positiva
+                                                         Página 20 de 51
+"
+"Proyecto de Modernización de Puerto Cortés – Honduras                              Informe de Terminación de Proyecto (PCR)
+                                                                       Meta 60     Meta al
+                                                       Meta en la
+                                                                       días tras  final del          Comentario
+                                                      Aprobación
+                                                                     elegibilidad proyecto
+                    de tránsitos                                                                en la medición de
+                    internacionales de                                                          los tiempos de
+                    mercancías en                                                               despacho por la
+                    Puerto Cortés                                                               incorporación del
+                    mediante el sistema                                                         TIM.
+                    del TIM
+                                                                                                Se estimó una
+                                                                                                reducción positiva
+                                                                                                en la medición de
+                    Tiempo promedio de                                                          los tiempos de
+                    despacho de la                                                              despacho debido a
+                                                          10h             10h         6h
+                    declaración de                                                              la utilización de los
+                    importación.                                                                sistemas de
+                                                                                                riesgos, mejoras en
+                                                                                                la infraestructura y
+                                                                                                procesos.
+                    Mejorar la infraestructura y el equipamiento para garantizar una atención al usuario
+                    permanente y de calidad
+                    Adjudicación de
+                    obras del edificio de
+                                                           1               1           1
+                    la Aduana de Puerto
+                    Cortés
+                    Porcentaje de                                                               No se gestaron
+                    usuarios externos e                                                         cambios.
+                    internos satisfechos
+                                                         70%             70%        70%
+                    con los servicios de
+                    la Aduana de Puerto
+                    Cortés
+                                                                                                Se estimó un
+                                                                                                incremento positivo
+                    Incremento en la
+                                                                                                debido a la
+                    disponibilidad de
+                                                         98%             98%       99.5%        intervención en
+                    servicios informáticos
+                                                                                                hardware e
+                    y telecomunicaciones
+                                                                                                infraestructura
+                                                                                                informática.
+Fuente: elaboración propia
+En términos generales el diseño respondió a la estrategia del Banco y las necesidades del país,
+sin embargo, es evidente que, al analizar la estructura de lógica vertical, la desagregación de
+indicadores, su relación entre resultados, impactos y la capacidad de atribuirlos apropiadamente,
+pudo orientarse de forma más específica, en todo caso, ello no resta al Proyecto su calificación
+como relevante, por el impacto de Puerto Cortés en el país e inclusive en la región
+Centroamericana, teniendo en cuenta que, cada uno de los ámbitos de intervención están
+justificados de forma coherente.
+                                                         Página 21 de 51
+"
+"Proyecto de Modernización de Puerto Cortés – Honduras                               Informe de Terminación de Proyecto (PCR)
+ Calificación de la Relevancia
+    [x] Excelente               [ ] Satisfactoria (S)                [ ] Parcialmente          [ ] Insatisfactorio (I)
+            (E)                                                    insatisfactoria (PI)
+2.2       Efectividad
+       a. Descripción de los objetivos de desarrollo del proyecto
+El objetivo general del Proyecto fue fortalecer la Aduana de Puerto Cortés para que brinde
+servicios de calidad y bajo costo para el operador, garantice el control y la seguridad, alineándola
+con el esfuerzo del Gobierno para lograr que Puerto Cortés sea un nodo logístico regional
+competitivo.
+Son objetivos específicos del Proyecto: (i) fortalecer la capacidad de control y seguridad de la
+aduana para que Puerto Cortés pueda mantener su estatus de reconocimiento internacional
+como Puerto seguro; (ii) mejorar la coordinación operativa para reducir costos logísticos, y (iii)
+mejorar la infraestructura y el equipamiento para garantizar una atención al usuario permanente
+y de calidad.
+       b. Resultados Logrados
+El análisis de los resultados de acuerdo con el diseño del Proyecto tiene tres niveles de
+evaluación, el primero asociado con el cumplimiento de los productos que se cumplieron en un
+100%. En un segundo nivel, relacionado con los resultados intermedios y finales para cada
+componente, que se detallan en esta sección. Finalmente, están los resultados de impacto del
+Proyecto, lo cual requiere de una evaluación ex post.
+Tabla 5. Objetivos Específicos
+ Fortalecer la capacidad de control y seguridad de la aduana para que Puerto Cortés pueda mantener su estatus
+ de reconocimiento internacional como puerto seguro
+                                                   Valor    Año
+                                        Unida
+                                                     de      de        Metas y       %
+                                         d de
+   ID      Descripción                             Línea   línea       alcance    Alcanza      Medios de verificación
+                                        Medid
+                                                     de      de         actual       do
+                                           a
+                                                   base    base
+           Indicadores de Resultados
+           Declaraciones         de                                P         85
+           importación,                                            P(a)      85
+           exportación y tránsito                                                              Datos a partir del
+ 1.1       revisadas con base Porce                                                            Sistema de Gestión de
+                                                      41   2010                    134%
+ R         en análisis de riesgo,        ntaje                                                 Riesgos, reportados por
+                                                                   A        100
+           bajo              reglas                                                            DARA para el PCR.
+           probabilísticas         y
+           aleatorias
+           eficacia      en       la                               P         30                Desde PMR.
+   1.2                                  Porce
+           selección medida por                     8.60   2010    P(a)      60      0%        De conformidad a la
+    R                                    ntaje
+           el   porcentaje       de                                A          5                información remitida por
+                                                         Página 22 de 51
+"
+"Proyecto de Modernización de Puerto Cortés – Honduras                            Informe de Terminación de Proyecto (PCR)
+  Fortalecer la capacidad de control y seguridad de la aduana para que Puerto Cortés pueda mantener su estatus
+  de reconocimiento internacional como puerto seguro
+                                                   Valor    Año
+                                        Unida
+                                                     de      de       Metas y     %
+                                         d de
+   ID      Descripción                             Línea   línea      alcance  Alcanza      Medios de verificación
+                                        Medid
+                                                     de      de        actual     do
+                                           a
+                                                   base    base
+           liquidaciones                                                                    DARA para elaboración
+           complementarias                                                                  del PCR
+           efectuadas en el
+           despacho (canal rojo
+           y naranja).
+                                                                   P        90              De conformidad a
+           Recaudación
+   1.3                                  Porce                      P(a)     90              información remitida por
+           proveniente de pago                        12   2010                 112%
+    R                                    ntaje                                              la DARA para
+           electrónico.                                            A      100
+                                                                                            elaboración del PCR.
+           Declaraciones         de                                P        90
+           importación         que                                 P(a)     95              De conformidad a
+           aplican uso de reglas
+   1.4                                  Porce                                               información remitida por
+           varias                  y                  4    2010                 110%
+    R                                    ntaje                                              la DARA para
+           probabilísticas en la
+                                                                   A        99              elaboración del PCR.
+           selección mediante el
+           análisis de riesgo
+           Declaraciones de                                        P        75              De conformidad a
+   1.5     importación asignado         Porce                      P(a)     55              información remitida por
+                                                   89.44   2010                 100%
+    R      a los canales rojo y          ntaje                                              la DARA para
+                                                                   A        74
+           naranja                                                                          elaboración del PCR.
+  Mejorar la coordinación operativa para reducir costos logísticos
+                                                   Valor    Año
+                                        Unida
+                                                      de     de       Metas y     %
+                                         d de
+   ID      Descripción                             Línea línea        alcance  Alcanza      Medios de verificación
+                                        Medid
+                                                      de     de        actual     do
+                                           a
+                                                    base   base
+           Indicadores de Resultados Intermedios
+           Incremento del                                          P        60
+           porcentaje de                                           P(a)     95              Desde PMR.
+           declaraciones de
+   2.1     importación y                Porce                                               De conformidad a
+                                                      0    2011                 100%
+    R      exportación                   ntaje                                              información remitida por
+                                                                   A       100
+           tramitadas con                                                                   la DARA para
+           certificación                                                                    elaboración del PCR
+           electrónica
+           Porcentaje de                                           P       100
+                                                                                            Desde PMR
+           tránsitos                                               P(a)    100
+   2.2     internacionales              Porce
+                                                      0    2011                 100%        Verificado por medio de
+    R      tramitados por                ntaje
+                                                                   A       100              la SIECA para
+           sistema TIM en
+                                                                                            elaboración del PCR 14.
+           Puerto Cortés
+14
+https://estadisticas.sieca.int/documentos/BajarDocumento?archivo=Metodolog%c3%ada+de+velocidades_SIECA.pdf
+                                                         Página 23 de 51
+"
+"Proyecto de Modernización de Puerto Cortés – Honduras                                  Informe de Terminación de Proyecto (PCR)
+ Mejorar la coordinación operativa para reducir costos logísticos
+                                                   Valor      Año
+                                        Unida
+                                                      de       de       Metas y         %
+                                         d de
+   ID      Descripción                             Línea línea          alcance      Alcanza      Medios de verificación
+                                        Medid
+                                                      de       de        actual         do
+                                           a
+                                                    base     base
+           Reducción de los                                          P         48
+           tiempos de despacho                                       P(a)      28
+                                                                                                  Verificado con la
+           de tránsitos
+                                                                                                  Secretaria de
+   2.3     internacionales de
+                                        Horas         96     2011                     200%        Integración
+    R      mercancías en
+                                                                     A        0.16                Centroamericana para
+           Puerto Cortés
+                                                                                                  elaboración del PCR.
+           mediante el sistema
+           del TIM
+           Tiempo promedio de                                        P         10
+                                                                                                  Reporte de la DARA
+   2.4     despacho       de      la                                 P(a)       6
+                                        horas       18.8     2010                      25%        para elaboración del
+    R      declaración           de
+                                                                     A        16.6                PCR.
+           importación.
+ Mejorar la infraestructura y el equipamiento para garantizar una atención al usuario permanente y de calidad
+                                                       Valor     Año
+                                                         de       de      Metas y
+                                     Unidad de                                          %                 Medios de
+  ID     Descripción                                   Línea    línea     alcance
+                                      Medida                                        Alcanzado            verificación
+                                                         de       de       actual
+                                                       base     base
+         Adjudicación        de                                         P        1
+  3.1 obras del edificio de                                             P(a)     1
+                                    Adjudicación          0     2010                  100%         Desde PMR.
+   R     la     Aduana       de
+                                                                        A        1
+         Puerto Cortés
+                                                                        P       70                 Consultas realizadas a
+         Porcentaje          de
+                                                                        P(a)    70                 las principales
+         usuarios externos e
+                                                                                                   cámaras
+  3.2 internos satisfechos
+                                     Porcentaje           0     2011                  142%         empresariales que
+   R     con los servicios de
+                                                                        A      100                 hacen uso de Puerto
+         la     Aduana       de
+                                                                                                   Cortés durante la
+         Puerto Cortés.
+                                                                                                   elaboración del PCR.
+         Incremento en la                                               P      99.5                Desde PMR
+         disponibilidad      de                                         P(a)   99.5                Visita in situ durante la
+  3.3
+         servicios                   Porcentaje       94.16% 2010                     100%         elaboración del
+   R
+         informáticos          y                                        A      99.5                informe y reporte de
+         telecomunicaciones                                                                        DAR.
+Fuente: Elaboración propia
+A manera de resumen, hubo un cumplimiento de indicadores muy elevado. En lo que respecta al
+primer objetivo solamente 1 no se cumplió, 1 en el segundo y todos se cumplieron en el tercer
+objetivo, es decir, más del 80% de los indicadores asociados a los objetivos se han cumplido o
+sobre cumplido.
+                                                           Página 24 de 51
+"
+"Proyecto de Modernización de Puerto Cortés – Honduras                              Informe de Terminación de Proyecto (PCR)
+De forma general, los principales resultados son:
+     •    Puerto Cortés mantiene su estatus de certificación internacional de acuerdo con los
+          parámetros establecidos. Las intervenciones del Proyecto, en la mejora de los procesos,
+          mejora y desarrollo de la infraestructura, incorporación de tecnología y fortalecimiento de
+          capacidades han sido fundamentales para esto.
+     •    Se han mejorado el tiempo de despacho. Si bien, no se llegó a una reducción de acuerdo
+          con la meta establecida, los reportes de la DARA confirman una reducción importante en
+          los tiempos de gestión, pasando de 24.3 horas a 16.6.
+     •    El sistema de gestión de riesgos fue modernizado y está debidamente implementado,
+          aplicando reglas probabilísticas y aleatorias.
+     •    El proceso de declaraciones con certificación electrónica está debidamente
+          implementado.
+     •    El sistema TIM se implementó no sólo en Puerto Cortes, sino en el resto de las aduanas
+          del país y operaba de manera conforme 15.
+     •    De acuerdo con la percepción de la Federación Nacional de Agentes Aduanales de
+          Honduras (FENADUANAH), que agrupa a 260 empresas aduaneras, que hacen uso de
+          los servicios del puerto, las adecuaciones y mejoras realizadas son positivas.
+     •    El puerto cuenta con un centro de datos nivel Tier III 16, así como un centro de control y
+          monitoreo que opera en tiempo real.
+     •    Se dispone de un laboratorio de análisis fisicoquímico en el puerto, lo que agiliza el
+          proceso de despacho de mercancía sujeta a revisión al reducir los tiempos de respuesta
+          para los ensayos realizados (previamente estos análisis se realizaban en Tegucigalpa).
+ANÁLISIS DE LOS INDICADORES DE RESULTADOS (INTERMEDIOS Y FINALES) POR
+OBJETIVO ESPECÍFICO
+Objetivo: (i) fortalecer la capacidad de control y seguridad de la aduana para que Puerto
+Cortés pueda mantener su estatus de reconocimiento internacional como puerto seguro
+     1) Porcentaje de declaraciones de importación, exportación y tránsito revisadas con base
+          en análisis de riesgo, bajo reglas probabilísticas y aleatorias.
+Con el Proyecto se hizo intervención en el sistema de gestión existente (SARAH 17), el cual fue
+debidamente actualizado, incorporando reglas acordes con los estándares internacionales en
+dicho ámbito. Desde la finalización del Proyecto, el sistema opera de forma efectiva con un plan
+de actualización que incorporará Business Intelligence para la generación de reportes en tiempo
+real.
+15 En el año 2018 fue sustituido con la implementación de la Declaración Única Centroamericana bajo la modalidad de
+DUCA-T.
+16 El concepto TIER define el nivel de fiabilidad de un centro de datos siendo I el nivel más básico y IV el nivel más
+avanzado y con mayor respaldo de la información.
+17 Sistema Automatizado de Rentas Aduaneras.
+                                                      Página 25 de 51
+"
+"Proyecto de Modernización de Puerto Cortés – Honduras                            Informe de Terminación de Proyecto (PCR)
+De acuerdo con los datos reportados por la DARA, el 100% de las DUAs de exportaciones e
+importaciones son procesadas gracias a la intervención del proyecto, bajo reglas probabilísticas
+bajo dos esquemas, automatizadas cuando existen antecedentes o con criterio experto cuando
+no existen antecedentes. Durante el diseño del Proyecto se estableció como línea de base que
+un 41% de las declaraciones que se seleccionaban para revisión utilizando este esquema que
+podía abarcar el universo de las declaraciones presentadas.
+El aporte principal del Proyecto fue mejorar y ampliar el método de análisis, ya que previamente
+solo se aplicaba regla de experto, sin que necesariamente se tomaran en cuenta los análisis
+estadísticos para ponderar y clasificar el riesgo. Con las mejoras al sistema, se pueden
+parametrizar las reglas fijas de criterios de experto, se utiliza también factor de probabilidad,
+incluyendo reglas aleatorias y se ha incorporado análisis de inteligencia artificial basado en redes
+neuronales.
+En tabla se puede verificar que la estructura desde 2014, fecha en que se actualizó el sistema,
+utiliza tres métodos de análisis, incluyendo el probabilístico, sin embargo, se destacan las
+mejoras del sistema para las reglas derivas del criterio experto y el uso de redes neuronales.
+Tabla 6: Análisis de riesgo desde Sistema Automatizado de Rentas Aduaneras de Honduras
+(SARAH)
+               Tipo de Medida
+                                                 2014        2015         2016   2017          2018
+               aplicado a las DUAs
+               Criterio Experto                   64%         64%         65%    70%           74%
+               Probabilistica                     18%         19%         21%    16%           14%
+               Red Neuronal                       18%         17%         14%    14%           12%
+                 Total de aplicación                100%        100%        100%    100%          100%
+                                                    Fuente: Datos de la DARA
+     2) Incremento sobre el porcentaje de liquidaciones complementarias efectuadas en el
+          despacho (canales rojo y naranja).
+El indicador no fue adecuadamente concebido en el momento del diseño, precisamente porque
+el dar por finalizado un proceso legal que implica una que se deba realizar una liquidación
+complementaria (pago de la diferencia por corrección de lo declarado, que también es apelable
+por el usuario) trasciende el plazo del proyecto y por tanto no era posible medirlo durante la vida
+de este. Por lo anterior, lo que se reportó en el PMR, no es consistente con el criterio establecido
+en el diseño del Proyecto.
+De acuerdo con la DARA, gracias a este hallazgo durante el Proyecto, se ha incorporado en el
+SARAH la implementación del Módulo de Cuenta corriente. Esta mejora en el Sistema de
+Aduanas incluye un componente sobre el control de las resoluciones emitidas en concepto de
+reclamos, notas de crédito y recursos de reposición y apelación para, comprobados los hechos,
+recibir de forma electrónica el pago de la diferencia
+                                                        Página 26 de 51
+"
+"Proyecto de Modernización de Puerto Cortés – Honduras                              Informe de Terminación de Proyecto (PCR)
+Con la implantación de este módulo se logra obtener estadísticas del plazo que pasó entre el
+ajuste y los recursos interpuestos por los Obligados Tributarios por las liquidaciones
+complementarias y la obligación o eximición del pago por concepto de ajustes elaborados en el
+despacho aduanero de las mercancías. La implementación y efectividad del Módulo se tendría
+que considerar en una evaluación ex post y como un evento subsecuente a la ejecución del
+Proyecto.
+     3) Recaudación proveniente de pago electrónico
+Previo a la ejecución del Proyecto, solamente un 12% de los pagos se transmitía o se vinculaba
+de forma electrónica. El usuario hacía pagos en efectivo directamente en el Puerto y la
+administración no disponía de mecanismos para vincular una pasarela de pagos en sus sistemas
+ante el usuario. Mediante el proyecto se financiaron ajustes informáticos para vincular una
+pasarela de pagos en línea con la Banca Privada y gestionar los pagos por medio del Sistema
+de la Aduana, por lo que, al finalizar el Proyecto, el esquema de gestión de pagos ha cambiado
+hacia la gestión electrónica.
+Como se puede verificar en la tabla, del total de las liquidaciones pagadas por conceptos de
+tributos, el 64% corresponde a pago realizados a través de ventanilla bancaria en donde el
+usuario no transmite por plataforma directamente, sino que el cajero bancario cuando recibe el
+pago en efectivo del usuario transmite al sistema y un 36% de forma virtual, en donde el usuario
+transmite directo a la cuenta de la DARA el pago. Esto significa, que el total de la recaudación
+se realiza a través de pago electrónico en un 100% y esto ha sido gracias a la intervención del
+Proyecto y las mejoras realizadas a los sistemas informáticos, principalmente en el SARA.
+Tabla 7: Reporte de liquidaciones pagas y modalidad.
+                                Tipo De Sucursal                  Liquidaciones     %            %
+                                                                     pagadas
+                    F – FISICA (Pago a través de
+                    ventanilla).                                           22,437 24%           64%
+                    V - VIRTUAL                                            70,615 76%           36%
+                    Total, General:                                        93,052 100%         100%
+                                                    Fuente: Datos de la DARA
+     4) Incremento del uso de reglas variables y probabilísticas en la selección mediante análisis
+          de riesgo, del modo de revisión de las declaraciones de importación.
+La calidad en la metodología de análisis de riesgo es fundamental porque mejora la transparencia
+de la gestión aduanera, reduce la discrecionalidad de la función aduanera. Al iniciar el Proyecto,
+solo un 4% de las revisiones se basaban en el uso de reglas variables y probabilísticas, gracias
+a la intervención del Proyecto y las mejoras en el módulo de riesgos del SARA, esta condición
+cambió significativamente. Al finalizar el Proyecto, más del 90% de las revisiones se basan una
+ponderación de métodos que usan reglas varias y probabilísticas, cuya parametrización se hace
+mediante perfilamiento a productos, origen y estadísticas de control.
+                                                        Página 27 de 51
+"
+"Proyecto de Modernización de Puerto Cortés – Honduras                                   Informe de Terminación de Proyecto (PCR)
+La meta fue alcanzada a satisfacción como resultado del Proyecto, lo que se comprueba a partir
+de los reportes suministrados por la DARA que evidencia la tendencia de uso y aplicación del
+sistema.
+Gráfico 4: Declaraciones de importación que aplican uso de reglas varias y probabilísticas en la
+selección mediante el análisis de riesgo
+             100%
+              90%
+              80%
+              70%
+              60%
+              50%
+              40%
+              30%
+              20%
+              10%
+               0%
+                             2014                  2015               2016        2017                2018
+                        % uso de reglas en analisis de riesgo      META INICIAL META FINAL        LINEA DE BASE
+Fuente: elaboración propia a partir de datos de la DARA. La meta inicial se refiere a la estimada durante el diseño de
+Proyecto, sin embargo, se hizo una actualización, en este caso incremental, que es lo que refleja la meta final.
+     5) Reducción del porcentaje de declaraciones de importación asignado a los canales rojo y
+          naranja.
+La asignación de declaraciones para revisión física se distribuye en dos líneas, roja y naranja, lo
+cual implica un mayor tiempo para el despacho de mercancías. La línea de base en el diseño del
+Proyecto marcaba que cerca de un 90% de las inspecciones tenían asignación para revisión en
+Rojo (inspección de la carga) o Amarillo (inspección de documentos) por lo que se estableció
+una meta al 75%.
+La reducción implica el uso de procesos y tecnología, que, gracias a la intervención del Proyecto,
+mediante la mejora los métodos de ponderación de riesgo, equipamiento y procedimientos
+aduaneros se implementaron. Si bien la curva de aprendizaje y aplicación toma tiempo, dado los
+avances que efectuó el Proyecto, se estimó que sería factible una reducción aun mayor a la
+inicialmente establecida de 75% y se determinó que la reducción sería de un 55%.
+Como se puede observar en el gráfico, al finalizar el Proyecto, la reducción se acercó a lo que
+inicialmente se esperaba, llegando a un 74%. El Proyecto, sin embargo, dejó articulada la
+reducción paulatina para alcanzar una meta más ambiciosa que se logró en 2019.
+                                                              Página 28 de 51
+"
+"Proyecto de Modernización de Puerto Cortés – Honduras                                    Informe de Terminación de Proyecto (PCR)
+                   Gráfico 6. Porcentaje de asignación de Canales Rojo y Amarillo
+              100.00%                                                                                    100.00%
+                90.00%                                                                                   90.00%
+                80.00%                                                                                   80.00%
+                70.00%                                                                                   70.00%
+                60.00%                                                                                   60.00%
+                50.00%                                                                                   50.00%
+                40.00%                                                                                   40.00%
+                30.00%                                                                                   30.00%
+                20.00%                                                                                   20.00%
+                10.00%                                                                                   10.00%
+                 0.00%                                                                                   0.00%
+                                2014             2015           2016            2017        2018
+                          % asignación R+A        Linea de Base     Meta inicio Proyecto   Meta Revisada (Final)
+                                    Fuente: elaboración propia a partir de datos de la DARA
+En el gráfico se excluye la importación de vehículos, ya que se están aplicando controles en un
+100%. En todo caso, los niveles de selectividad (rojo) han incrementado, particularmente en el
+régimen de importación definitiva, por la implementación de controles para mercancías de alto
+riesgo, como; vehículos usados, mercancías usadas, mercancía de procedencia China, bebidas
+alcohólicas, entre otras.
+     6) Cuota a ingresar sobre la cuota declarada como resultado de una fiscalización
+Aunque el Proyecto estableció recomendaciones de los criterios y para realizar estas mediciones
+y obtener un dato confiable, por medio de revisiones posteriores a la importación, coordinado con
+el Departamento de Fiscalización. En el PMR de 2017, se indicó que el sistema SARAH no podría
+generar la información ya que para ello se necesitaría desarrollar un módulo informático de
+fiscalización con la participación de otras instancias vinculadas a la gestión fiscal y que esto
+quedaría como parte de las recomendaciones post proyecto.
+     7) Incautaciones por ilícitos y contrabando
+El proyecto estableció una serie de recomendaciones de procesos y acciones de cooperación
+inter institucional a través de consultorías que propusieron mejoras en los procedimientos
+operativos y administrativos, sin embargo, su implementación no fue posible debido a dos
+fenómenos: (1) los ilícitos no siempre derivan de intervenciones que ejecuta solamente la entidad
+aduanera; (2) el sistema aduanero ha tenido una serie de modificaciones e intervenciones en su
+esquema de operaciones en el control inmediato (cuando arriba la carga), particularmente, entre
+                                                           Página 29 de 51
+"
+"Proyecto de Modernización de Puerto Cortés – Honduras                     Informe de Terminación de Proyecto (PCR)
+2012 y 2014 hasta ocho instituciones del Gobierno tuvieron una participación conjunta en las
+operaciones de Puerto Cortes, lo que no permitió consolidar los datos de los resultados finales
+de esas incautaciones ni implementar las mejoras derivadas de los procedimientos propuestos.
+Al finalizar el Proyecto la DARA ha reportado un total de 77 incautaciones ejecutadas por ellos,
+sin embargo, también han informado, en el taller PCR, que el desarrollo de esquemas de
+incautaciones es permanente y que las adecuaciones y mejoras en los sistemas de monitoreo
+también permiten una mejor intervención, no obstante, la dimensión de este indicador requiere
+de un repositorio común de hallazgos o de una entidad coordinadora para su sistematización,
+recomendaciones entregadas por el Proyecto que en el 2019 se están revisando para
+presupuestar su implementación.
+Por lo antes mencionado, es válido mencionar que el indicador es acorde con los procesos que
+normalmente se ejecutan en una aduana como la de Puerto Cortés, sin embargo, las condiciones
+operativas y administrativas, no previstas y que durante el periodo de ejecución del Proyecto se
+efectuaron, no permitieron un monitoreo apropiado ni la implementación de las mejoras
+identificadas.
+Objetivo: (ii) mejorar la coordinación operativa para reducir costos logísticos
+     1) Declaraciones de importación y exportación tramitadas con certificación electrónica
+Previo a la intervención del Proyecto, toda la tramitología se realizaba con documentación en
+papel. Las declaraciones, documentos soporte y demás documentos conexos debían ser
+presentados directamente. Con el Proyecto se hicieron mejoras que permitieron avanzar una
+gestión electrónica del proceso.
+Gracias a la intervención del proyecto, en el año 2016 se llevó a cabo un piloto de Digitalización
+de los documentos que sustentan la Declaración de Mercancía en el Sistema Automatizado de
+Aduanas de Honduras (SARAH), en las diferentes Aduanas del país, y a partir de allí todas las
+Declaraciones aduaneras podían tramitarse con certificación electrónica.
+El Proyecto dejó la recomendación de que la Aduana estableciera por ley la obligatoriedad de
+utilizar la digitalización con certificación electrónica para evitar el riesgo de que alguien quisiera
+continuar presentándola manualmente, en mayo 2019 se estableció la obligatoriedad para el
+declarante realizar la digitalización de los documentos que sustentan la declaración de
+mercancías.
+     2) Tránsitos internacionales tramitados por sistema TIM en Puerto Cortés
+En lo que respecta al Transito Internacional de Mercancías (TIM), el Proyecto tuvo una
+intervención contundente ya que los desarrollos y procesos realizados permitieron su
+implementación no solo en Puerto Cortés, sino también los demás17 puntos aduaneros del país,
+                                                      Página 30 de 51
+"
+"Proyecto de Modernización de Puerto Cortés – Honduras                        Informe de Terminación de Proyecto (PCR)
+como se puede verificar en el indicador de cumplimiento del Producto 2.1 del Componente 2 del
+Proyecto.
+El Programa financió la integración en los sistemas mediante gestión electrónica, permitiendo su
+correcta asociación al despacho de las mercancías. Con el Proyecto se superó la meta de las
+declaraciones de importación y exportación tramitadas electrónicamente, usando el TIM en un
+100% y actualmente el TIM se ha transformado en la DUCA-T, utilizando la misma plataforma
+interna, que opera a nivel regional en conexión con la SIECA, que ha reducido no solo los tiempos
+sino también la velocidad de cruce de los vehículos de carga, según reporte de la SIECA. 18
+     3) Tiempos de despacho de tránsitos internacionales de mercancías en Puerto Cortés
+          mediante el sistema del TIM
+Gracias a la intervención el Proyecto en el indicador anterior, con el cumplimiento al 100%del
+TIM, hoy DUCA-T, la verificación de la declaración actualmente, no toma más de 10 minutos
+cuando no hay incumplimientos o ajustes en la declaración, Sin embargo, de acuerdo con la
+SIECA, el tiempo promedio de una verificación en sistema oscila entre 5 y 10 minutos. La
+verificación de este plazo fue confirmada con el órgano administrador del sistema SIECA.
+     4) Tiempo promedio de despacho de la declaración de importación
+Durante el diseño del Proyecto se estableció como línea de base un tiempo de 18.8 horas. A
+partir de los datos oficiales de las mediciones, no se dispone de información para validar la línea
+de base, que se sustenta en “…tiempo promedio, en días hábiles, de las aduanas con mayor
+número de declaraciones de importación (no menos de tres aduanas) …”.
+De acuerdo con los datos de DARA, la variación de los tiempos se puede fijar en 2014 en 24.2
+horas, sin embargo, en el año 2016 se reportó en Puerto Corté un pico de plazo de despacho
+inesperado por congestión portuaria y el promedio estaba estimado en 76.8 horas,
+considerablemente mayor a la línea de base y a lo previsto a alcanzar con las intervenciones del
+Proyecto (que inicialmente se estableció en 10 horas, pero que posteriormente se estimó una
+reducción a 6 horas), en todo caso, la evaluación de cumplimiento se hace en base a la meta
+inicial
+Al cierre del Proyecto, se pudo verificar condiciones de mejora en la gestión de la Aduana de
+Puerto Cortes. La aplicación de criterios probabilísticos en el sistema de selectividad, la mejora
+de procesos en la gestión administrativa, la instalación del nuevo laboratorio e inversiones
+adicionales que el Gobierno ha realizado basadas en recomendaciones que el Proyecto, se
+reporta una tendencia en la reducción de los tiempos. Se esperaría que la meta prevista en el
+diseño del Proyecto pueda cumplirse en los próximos periodos fiscales.
+Tabla 8. Gestión de los tiempos en la gestión aduanera de Puerto Cortés
+18
+https://estadisticas.sieca.int/documentos/BajarDocumento?archivo=Metodolog%c3%ada+de+velocidades_SIECA.pdf
+                                                      Página 31 de 51
+"
+"Proyecto de Modernización de Puerto Cortés – Honduras                         Informe de Terminación de Proyecto (PCR)
+                         Año            % de DUAS          Tiempo en Días  Tiempo en Horas
+                         2014                80.3                1.01            24.2
+                         2015                75.5                1.19            28.4
+                         2016                76.9                1.43            34.4
+                         2017                92.9                0.83            19.9
+                         2018                96.0                0.69            16.6
+                                                      Fuente: reporte DARA
+Objetivo: (iii) mejorar la infraestructura y el equipamiento para garantizar una atención al
+usuario permanente y de calidad.
+     1) Adjudicación de las obras del edificio de la Aduana de Puerto Cortés
+Uno de los hitos más importantes que marcan la mejora integral de la aduana de Puerto Cortés,
+es el edificio que se construyó con la ejecución del proyecto, el proceso se coordinó durante toda
+su fase de identificación de mejoras, licitación, adjudicación y desarrollo de las mejoras a la
+infraestructura.
+En la actualidad, el edificio de la Aduana de Puerto Cortés cuenta con las condiciones necesarias
+para ofrecer un servicio acorde con las demandas de los usuarios. Está zonificado de acuerdo
+con la naturaleza prevista para los procesos, incluyendo, ámbitos para la estancia de funcionarios
+que deben realizar turnos de operación, así como centros de capacitación y actividades
+relacionadas a las operaciones de la aduana.
+     2) Usuarios externos e internos satisfechos con los servicios de la Aduana de Puerto Cortés
+Se realizó una consulta por medio de una entrevista final a los principales usuarios del puesto y
+también los que tradicionalmente han fustigado en la prensa el servicio de la aduana. Aunque no
+había una línea base ni se desarrolló una encuesta, como parte de las condiciones de ejecución
+de la evaluación de impacto al finalizar el Proyecto, se realizaron entrevistas con preguntas
+estandarizadas a los siguientes líderes gremiales:
+     <U+F0A7>    Federación Nacional de Agentes Aduanales de Honduras (FENADUANAH): que agrupa
+          a 260 empresas que son usuarias de Puerto Cortés.
+     <U+F0A7>    Cámara de Comercio e Industrias de Tegucigalpa (CCIT): que agrupa 4,900 empresas,
+          muchas de las cuales hacen uso de Puerto Cortés
+     <U+F0A7>    Consejo Hondureño de la Empresa Privada (COHEP): conformada por 70 organizaciones
+          que representan a todos los sectores productivos del Honduras.
+                                                        Página 32 de 51
+"
+"Proyecto de Modernización de Puerto Cortés – Honduras                             Informe de Terminación de Proyecto (PCR)
+Sus respuestas fueron:
+FENADUANAH:
+COHEP:
+CCIT:
+Estos gremios expresaron, términos generales que las condiciones de atención han mejorado,
+haciendo referencia directa a las infraestructuras provistas por el Proyecto, la reducción de los
+tiempos y otros aspectos conexos 19.
+19 Las entrevistas están disponibles en el Informe de Impacto del Proyecto, elaborado por el consultor Juan Menjivar.
+Doc_06.
+                                                      Página 33 de 51
+"
+"Proyecto de Modernización de Puerto Cortés – Honduras                              Informe de Terminación de Proyecto (PCR)
+     3) Incremento en la disponibilidad de servicios informáticos y telecomunicaciones
+El proyecto construyó un Data Center con capacidades de gestión 24/7. De acuerdo con las
+características descritas por los funcionarios expertos en la materia de DARA, aunque no se
+dispone de una certificación, el Data Center se acerca a una clasificación Tier nivel III 20.
+Como parte de la construcción y recomendaciones de mantenimiento del Proyecto a la DARA,
+se han llevado a cabo en el 2019 una serie de mejoras contratando un servicio de enlace de
+datos adicional que sirve para redundancia de cada aduana del país, esto garantiza que en caso
+de una “caída” la conectividad de rede la redundancia del segundo proveedor, replique la base
+datos y no se detenga la operación del sistema. Asimismo, se ha implementado en la ciudad de
+Puerto Cortés un segundo anillo de fibra óptica, que garantice que si la primera conexión se
+interrumpe por algún accidente el centro de datos continúe comunicado.
+     4) Mejora en ranking de Eficiencia de Administración de Aduanas elaborado por el Foro
+          Económico Mundial.
+Este indicador se construye a partir de múltiples variables, algunas que no iban a ser intervenidas
+por el Proyecto. Es necesario considerar los siguientes aspectos:
+     1. En la fase de diseño debió de haberse detectado que las intervenciones y mejoras en
+          Puerto Cortés no precisamente iban a derivar en una mejora que refleje las condiciones
+          en todos los puestos de frontera y con ello un grado de calificación mejor en el ranking,
+          por lo que no fue el indicador más apropiado para medir las mejoras que Puerto Cortés
+          tuvo como consecuencia de las intervenciones realizadas a través del Proyecto.
+     2. El análisis de 2010 respecto a 2016 muestra una serie de ajustes metodológicos que no
+          permiten una comparación en igualdad de condiciones, tanto por los criterios de análisis
+          que fueron ajustados, como por el número de comparaciones, ya que en 2010 se
+          evaluaron 125 países y en 2016 fueron evaluados 136. En la tabla se hace una
+          comparación de estos aspectos.
+20 “…La infraestructura del sitio Tier III añade el concepto de Mantenimiento Concurrente más allá de lo que ofrecen
+las soluciones Tier I y Tier II. Mantenimiento Concurrente significa que es posible realizar el mantenimiento de todos
+y cada uno de los componentes de capacidad o distribución necesarios para soportar el entorno de procesamiento de
+TI de forma prevista sin afectar al entorno de TI…” Infraestructura para Centros de datos Tier Standard: Topología.
+Uptime Institute. 2018.
+                                                      Página 34 de 51
+"
+"Proyecto de Modernización de Puerto Cortés – Honduras                                                                    Informe de Terminación de Proyecto (PCR)
+                                                               2016       Respecto a 2010 en 2016 se       2010
+                          Indicador                       Rank/            incrementó el número de Rank/                                     Indicador
+                                                                  Value                                      Value
+                                                           136           países pasando de 125 a 136    125
+                                                                             En 2016 el indicador se
+                                                                                                         93 3.3         2nd pillar: Efficiency of customs administration
+                                                                        consolida con los datos de tres
+         Pillar 3: Efficiency and transparency of                       pilares que lo conformaban en 85 4.3           3rd pillar: Efficiency of import-export procedures
+                                                           109     3.9
+                   borderadministration                                                2010.
+                                                                           El indicador usado para el    85 2.9        4th pillar: Transparency of border administration
+                                                                            Proyecto es 2do pilar con
+ 3.01                    Customs services index 0-1 (best) 89      0.47               Mejora             98    4.2 Customs services index 0-12(best)                    2.02
+ 3.02     Efficiency of the clearance process 1-5 (best) 112       2.20         No hubo mejora.          73    2.4 Efficiency of the clearance process 1-5 (best)       3.01
+ 3.03Time to import: documentary compliance (hours) 89 72.00 Ajustado al indicador de 2010
+                                                                           en días, se pasó de 23 a 7.   77    23 Time to imports (day)                                 3.02
+ 3.04        Time to import: Border compliance (hours) 103 96.00 Una reducción significativa.
+                                                                                                        104    10 Documents to import (number)                          3.03
+ 3.05 Cost to import: documentary compliance (US$)          53    70.00 Comparado con 2010, hubo una
+                                                                                                         57   1190 Cost to import (US$ per container)                   3.04
+ 3.06           Cost to import: Border compliance (US$)     89 482.80 reducción de 637 dólares.
+ 3.07 Time to export: documentary compliance (hours) 86 48.00 Comparado con 2010 se paso de
+                                                                                                         71    20 Time to export (days)                                 3.05
+ 3.08        Time to export: border compliance (hours) 108 88.00                   20 a 5.6 días.
+                                                                                                         73     7  Documents to export (number)                         3.06
+ 3.09 Cost to export: documentary compliance (US$) 61 80.00 Comparad con 2010 hubo una
+                                                                                                         65 1,163 Cost to export (US$ per container)                    3.07
+  3.1          Costo to export: border compliance (US$) 116 601.30 reducción de 481 dólares.
+ 3.11 Irregular payments and bribes: imports/exports 92 3.20                          Mejora             81    3.4 Irregular payments in exports and imports 1-7 (bes 4.01
+ 3.12          Time predictability of import procedures 111 3.30
+ 3.13               Customs tranparency index 0-1 (best) 96 0.60                      Mejora            101    2.5 Corruption perception index 0-10 (best)              4.02
+                                                                      Fuente: elaboración propia
+        c. Resultados Imprevistos
+Desde la perspectiva de comercio e integración, los tipos de intervenciones a realizar son
+versátiles, sobre todo en un periodo en donde el modelo de integración en Centroamérica ha
+tomado una relevancia considerable. Durante el marco de ejecución del Proyecto se resaltan dos
+intervenciones que ponen de manifiesto la participación del BID como aliado del Gobierno y un
+actor clave en la región:
+       1. La implementación por el Proyecto del Sistema para el Tránsito Internacional de
+              Mercancías (TIM) 21 en los 17 puestos fronterizos del país: si bien, el alcance inicial estaba
+              previsto solamente para el Puerto Cortés, la capacidad de conectar de forma efectiva los
+21 El objetivo del TIM es facilitar el cruce fronterizo para operaciones de tránsito internacional de mercancías,
+disminuyendo los costos de transporte e incrementando la competitividad mediante la optimización y la mejora de los
+trámites y procedimientos aduaneros y cuarentenarios. Esto a través de tres ejes de trabajo.
+                                                                             Página 35 de 51
+"
+"Proyecto de Modernización de Puerto Cortés – Honduras                              Informe de Terminación de Proyecto (PCR)
+          demás puestos adicionales contribuiría y aseguraría un proceso de implementación
+          eficiente, en particular por la importancia que tiene el Puerto Cortés para los procesos de
+          exportación e importación.
+     2. Mejoras por el Proyecto en las instalaciones de inspección del paso de frontera de El
+          Amatillo en Honduras: en el año 2012 el Gobierno de Honduras solicitó apoyo al Banco
+          para hacer una revisión y evaluación de las instalaciones en este puesto de frontera,
+          considerando el apoyo recibido por parte de la Cooperación de Japón.
+          Debido a que la Aduana de El Amatillo es una ruta de mucha vinculación al Puerto Cortes
+          por la conexión con El Salvador, el Banco considero apropiado apoyar la solicitud. Si bien,
+          el diseño reveló que el Proyecto no tenía capacidad para atender el alcance de una
+          mejora integral como solicitaba el Gobierno, se acordó apoyar con intervenciones
+          puntuales que permitieran mejorar la gestión en dicho puesto fronterizo. En ese momento,
+          considerando el alcance y naturaleza del Proyecto, se acordó destinar recursos que
+          permitieron mejorar y preparar condiciones para futuras intervenciones por parte del
+          Gobierno de Honduras en dicho puesto.
+RESUMEN DE EFECTIVIDAD
+             OBJETIVOS                                                   CUMPLIMIENTO
+ General
+ Fortalecer la Aduana de                       La intervención del Proyecto ha permitido que la Aduana
+ Puerto Cortés para que brinde                 mantenga un perfil de considerable aporte a la economía del
+ servicios de calidad y bajo                   país y la región, si bien el proceso de mejora de la facilitación
+ costo para el operador,                       y la logística del país requiere de intervenciones sostenidas y
+ garantice el control y la                     de largo plazo, el Proyecto tocó aspectos importantes y
+ seguridad, alineándola con el                 demostró que es posible disrumpir y generar el cambio
+ esfuerzo del gobierno para                    necesario, tanto para usuarios como para funcionarios que
+ lograr que Puerto Cortés sea                  operan la Aduana.
+ un hub logístico regional                     El Gobierno mantiene como criterio estratégico seguir
+ competitivo                                   ejecutando acciones que se suman a lo que el Proyecto
+                                               implementó y recomendó para sostenibilidad y con ello
+                                               avanzar a su visión lograr un estatus de hub regional.
+ Específicos
+ Fortalecer la capacidad de                    Se cumple en la medida que:
+ control y seguridad de la                     <U+F0A7> Se mantiene el estatus de certificación internacional.
+ aduana para que Puerto                        <U+F0A7> El porcentaje de declaraciones de importación,
+ Cortés pueda mantener su
+                                                    exportación y tránsito son revisadas con base en análisis
+ estatus de reconocimiento
+ internacional como puerto                          de riesgo, bajo reglas probabilísticas y aleatorias.
+ seguro                                        <U+F0A7> El 99% de las declaraciones de importación se basan en
+                                                    el uso de reglas mediante análisis de riesgo.
+                                               <U+F0A7> Se alcanzó una reducción al 74 % de declaraciones de
+                                                    importación asignado a los canales rojo y naranja.
+                                                         Página 36 de 51
+"
+"Proyecto de Modernización de Puerto Cortés – Honduras                                    Informe de Terminación de Proyecto (PCR)
+             OBJETIVOS                                                    CUMPLIMIENTO
+  Mejorar        la      coordinación Se cumple en la medida que:
+  operativa para reducir costos <U+F0A7> El 100% de las declaraciones de importación y exportación
+  logísticos.                                       pueden tramitarse con certificación electrónica.
+                                               <U+F0A7> El 100% de los Tránsitos internacionales son tramitados
+                                                    por sistema TIM en Puerto Cortés.
+                                               <U+F0A7> A partir del año 2014 se logra una reducción sostenida en
+                                                    los tiempos de despacho de las mercancías.
+  Mejorar la infraestructura y el Se cumplió:
+  equipamiento para garantizar <U+F0A7> Se Modernizó el edificio de la Aduana en puerto Cortes
+  una atención al usuario <U+F0A7> Se mejoraron las instalaciones de inspección de la aduana
+  permanente y de calidad                           de El Amatillo
+                                               <U+F0A7> Los usuarios externos e internos están satisfechos con los
+                                                    servicios de la Aduana de Puerto Cortés.
+                                               <U+F0A7> Se logró un incremento en la disponibilidad de servicios
+                                                    informáticos y telecomunicaciones.
+  Calificación de la Efectividad
+    [ ] Excelente (E)                [] Satisfactoria (S)            [x] Parcialmente              [ ] Insatisfactorio (I)
+                                                                    insatisfactoria (PI)
+2.3       Eficiencia
+Debido a que no se obtuvieron los datos necesarios para desarrollar un Análisis de Costo-
+Beneficio y que el alance de cada componente del Proyecto estableció intervenciones específicas
+que demandaban análisis independientes, la eficiencia se ha medido conforme al desempeño en
+los índices de ejecución del Proyecto (CPI, SPI, VA). Es importante, tener en cuenta algunos
+aspectos para comprender la eficiencia desde una perspectiva asociada al contexto y las
+intervenciones efectuadas.
+Durante la fase de diseño del Proyecto se realizó un Análisis de Costo – Beneficio (ACB), en
+dicho análisis se explican las razones por las cuales solamente se hizo evaluación del
+Componente 1 del Proyecto y no fue factible realizar una prospección en los otros dos. entre
+ellas y tomando como punto de referencia lo alcanzado al finalizar el Proyecto es pertinente
+señalar:
+     •    Componente 1: el cual está relacionado con el objetivo de fortalecer la capacidad de
+          control y seguridad de la aduana, para que Puerto Cortés pueda mantener su estatus de
+          reconocimiento internacional como puerto seguro.
+La realización del ACB al inicio del Proyecto tomo como punto de referencia la estimación en las
+inversiones a realizar, proyectadas en US$ 3,916,000.00 (de acuerdo al perfil del Proyecto). Se
+disponía de una proyección de ingresos, proyectado a cuatro años (2014 a 2017), que permitía
+                                                          Página 37 de 51
+"
+"Proyecto de Modernización de Puerto Cortés – Honduras                  Informe de Terminación de Proyecto (PCR)
+generar un flujo financiero y determinar la relación de costo-beneficio, con una tasa de evaluación
+de 14%.
+Los resultados de este escenario determinaron que la inversión sería rentable con un Valor Actual
+Neto de 917% (que podría resultar elevado debido a que en el flujo no se consideran los gastos
+operativos y de administración), sin embargo, el análisis no se considera coherente, ya que el
+VAN está sobrevaluado.
+Al finalizar el Proyecto, el Componente 1 tuvo una ejecución de US$ 2,605,866.80, lo que
+representa un 50% menos de la cifra proyectada en análisis de costo-beneficio inicial. No
+obstante, para simular el modelo elaborado para el análisis, no se han podido obtener las cifras
+de ingresos previstas por los servicios del Puerto, ni los costos operativos y administrativos
+relacionados con la inversión efectuada, siendo datos necesarios para construir el flujo y hacer
+la comparación respecto a la base de proyección al inicio del Proyecto.
+El Componente 1, ejecutó el mayor porcentaje de los recursos en tres áreas sumamente
+sensibles y acordes a los objetivos del Proyecto: equipamiento, laboratorio de ensayos y mejoras
+en la fiscalización, siendo la inversión con más peso en este componente, el laboratorio, el cual
+reduce de forma considerable los tiempos de gestión al permitir la ejecución de los ensayos in
+situ en contraposición al escenario inicial en donde las muestras eran remitidas a la capital del
+país.
+Este laboratorio es completamente funcional y está debidamente equipado, con ello se ha
+logrado una reducción significativa en los tiempos de gestión y trámites del Puerto. A la fecha de
+cierre del Proyecto, el laboratorio cuantificó 22 527 análisis en 34 categorías de mercancías, con
+lo cual se ha logrado:
+     <U+F0FC> Aumento de detección de mercancías con incorrecta clasificación arancelaria por
+          composición química y características fisicoquímicas, generando ajustes y aumento de
+          correcto pago de tributos.
+     <U+F0FC> Aumento de detecciones de sustancias nocivas a nivel medioambiental y el adecuado
+          control aduanero de las mismas.
+     <U+F0FC> Disminución de tiempos de respuesta de análisis que genera menos demoras y rápida
+          aplicación de controles aduaneros respectivos.
+     <U+F0FC> Aumento de análisis realizados y muestras extraídas y recibidas de aduanas de zona nor-
+          occidental.
+     •    Componente 2, relacionado a mejorar la coordinación operativa para reducir costos
+          logísticos
+La ejecución de los recursos se concentró en conexión del sistema de Transito Internacional de
+Mercancías, que no solamente dio cobertura a la aduana de Puerto Cortés, sino al resto de las
+22 Datos de DARA, suministrados para la elaboración del PCR.
+                                                      Página 38 de 51
+"
+"Proyecto de Modernización de Puerto Cortés – Honduras                            Informe de Terminación de Proyecto (PCR)
+aduanas en el país, siendo un total de 17. Al finalizar el Proyecto, se pudo verificar que el sistema
+estaba debidamente implementado y es funcional de acuerdo con los requerimientos regionales
+establecidos.
+     •    Componente 3, relacionado a mejorar la infraestructura y el equipamiento para garantizar
+          una atención al usuario permanente y de calidad
+Las inversiones se hicieron en dos ámbitos de impacto directo en la gestión aduanera del Puerto:
+las oficinas administrativas y el centro de datos. En el primer caso, tomando como referencia el
+estado las instalaciones previo al Proyecto, es evidente el aporte y la eficiencia de los recursos.
+Lo mismo que en el caso del centro de datos que como ya se ha mencionado, al cierre del
+Proyecto tiene una capacidad de respuesta que casi alcanza al estándar de Tier III.
+De acuerdo con el seguimiento desde el PMR para el costo y la planificación, si bien la primera
+fase de ejecución no fue simétrica en su comportamiento, a partir del 2014 se pueden verificar
+resultados que permiten establecer un criterio de eficiencia en el uso de los recursos.
+                                                      Fuente: Reporte desde PMR.
+                                              Tabla 9: Costos del Proyecto
+                                                          Página 39 de 51
+"
+"Proyecto de Modernización de Puerto Cortés – Honduras                                      Informe de Terminación de Proyecto (PCR)
+                                                   Fuente: Datos desde reporte PMR.
+ Calificación de la Eficiencia
+    [ ] Excelente (E)                [] Satisfactoria (S)               [x] Parcialmente             [ ] Insatisfactorio (I)
+                                                                      insatisfactoria (PI)
+                                                          Página 40 de 51
+"
+"Proyecto de Modernización de Puerto Cortés – Honduras                           Informe de Terminación de Proyecto (PCR)
+2.4       Sostenibilidad 23
+En general puede considerarse, de acuerdo con la contribución de los resultados del Proyecto,
+que la Aduana de Puerto Cortés ha adquirido sostenibilidad organizativa, financiera y técnica.
+De acuerdo con lo expresado por las autoridades del Gobierno, se deben continuar realizando
+las siguientes acciones para asegurar la sostenibilidad y minimizar los riesgos en los resultados
+del proyecto en la Aduana de Puerto Cortés:
+     <U+F0A7>    En la parte organizativa se debe contratar más personal con pruebas de confianza,
+          continuar con capacitaciones y actualizaciones para que este certificado el personal de la
+          aduana;
+     <U+F0A7>    En la parte técnica proporcionar mantenimiento a la infraestructura actual, actualizar los
+          sistemas informáticos asegurando su conectividad y la adquirir más equipos de
+          inspección de última tecnología como por ejemplo rayos gamma; y
+     <U+F0A7>    En la parte financiera debe asegurarse además del presupuesto para mantenimiento de
+          la logística actual también la de nuevas inversiones para evitar rezagos y falta de
+          competitividad del país. 24
+En conjunto con las autoridades del Gobierno se elaboró una matriz que analiza las principales
+variables asociadas con la sostenibilidad y los riesgos asociados a los resultados alcanzados,
+con el objetivo de visibilizar acciones que deberían ser incorporadas a la gestión de la Aduana
+de Puerto Cortés. Es pertinente mencionar que, dentro del marco de reformas a implementar, en
+2020 se tiene previsto que la nueva entidad “Aduanas de Honduras” entre en funcionamiento y
+en sus planes operativos de puedan verificar acciones que estén en concordancia al análisis
+realizado con las autoridades.
+23 En Anexos se expone una Matriz de Riesgos para la sostenibilidad del Proyecto.
+24 Desde la Evaluación de Impacto realizada al Proyecto.
+                                                      Página 41 de 51
+"
+"Proyecto de Modernización de Puerto Cortés – Honduras                                   Informe de Terminación de Proyecto (PCR)
+             Impacto/Indica        Unidad de            %       Descripción del     Probabil      Impacto     Ponderación
+    ID                                                                                                                                           Medidas a tomar
+                   dor               Medida         Alcanzado         Riesgo          idad 25        26              27
+                                                                                                                               Si bien el Proyecto no dio cumplimiento con la
+                                                                                                                               meta prevista se considera que el Gobierno
+                                                                                                                               realiza una labor permanente que es consecuente
+                                                                                                                               con dicho objetivo. Es pertinente mencionar que
+                                                                                                                               como parte de la gestión integral también se
+                                                                                                                               cuenta con un actor adicional (el concesionario del
+                                                                                                                               Puerto) que provee de información a las
+                                                                                                                               autoridades.
+                                                                                                                               Se considera que es improbable una situación de
+                                                                                                                               en donde está gestión no se continué realizando,
+                                                                                                                               sin embargo, el impacto de ilícitos y contrabando
+                                                                                                                               es considerado de alto impacto (negativo), por
+                                                              Incremento en la
+                                                                                                                               ello, como medidas se han considerado:
+            Incautaciones                                     defraudación e
+     R
+            por ilícitos y      Incautaciones          55%    inseguridad los            1           3               3
+   1.7                                                                                                                               <U+F0A7>    Avanzar con la instalación de cámaras
+            contrabando                                       puntos fronterizos y
+                                                                                                                                          para monitoreo en tiempo real.
+                                                              rutas fiscales.
+                                                                                                                                     <U+F0A7>    Mejorar           la        coordinación
+                                                                                                                                          interinstitucional con las entidades de
+                                                                                                                                          vigilancia y control.
+                                                                                                                                     <U+F0A7>    Implementar las mejoras en los
+                                                                                                                                          procesos, muchas de las cuales derivan
+                                                                                                                                          de estudios preparados durante la
+                                                                                                                                          ejecución del Proyecto (“Mejora del
+                                                                                                                                          Proceso Aduanero para el Control de la
+                                                                                                                                          Carga en Depósitos Aduaneros
+                                                                                                                                          Temporales y Dirección para la
+                                                                                                                                          Actualización del Sistema Informático
+                                                                                                                                          de Aduanas “SARAH” de la DEI...”)
+                                                                                                                               Se considera que este indicador es muy
+                                                                                                                               complejo y que muchas de las mediciones no
+                                                                                                                               son acordes con la gestión y avances que realiza
+            Mejora        en
+                                                                                                                               el Gobierno. Por lo tanto, si bien, no mejorar en
+            ranking       de
+                                                              Reducción del                                                    el ranking supone un riesgo en materia de
+            Eficiencia    de
+                                                              comercio de                                                      comercio, no se tienen acciones específicas que
+     R      Administración
+                                Ranking                0%     Honduras vinculado         2           2               4         aborden la atención a los criterios de evaluación
+   3.4      de      Aduanas
+                                                              a la falta de                                                    en el indicador.
+            elaborado por el
+                                                              competitividad.                                                  Se considera como probable no tener mejoras en
+            Foro Económico
+                                                                                                                               el indicador en el corto plazo, lo que no significa
+            Mundial
+                                                                                                                               que se estén trabajado las variables asociadas al
+                                                                                                                               mismo; por ello, el impacto es considerado como
+                                                                                                                               medio de no mejorar en el indicador se considera
+25 1=improbable; 2=probable; 3=altamente probable
+26 1= bajo; 2=medio; 3=alto
+27 Probabilidad x Impacto. Rangos: Alto (6-9); Medio (3-4); Bajo (1-2)
+                                                                               Página 42 de 51
+"
+"Proyecto de Modernización de Puerto Cortés – Honduras                                     Informe de Terminación de Proyecto (PCR)
+             Impacto/Indica        Unidad de            %       Descripción del       Probabil      Impacto     Ponderación
+    ID                                                                                                                                            Medidas a tomar
+                   dor               Medida         Alcanzado        Riesgo             idad 25        26              27
+                                                                                                                                 como medio, es decir, se podría tener una
+                                                                                                                                 afectación, sin que está sea de impacto en las
+                                                                                                                                 condiciones generales del país, en particular en
+                                                                                                                                 el Puerto, en donde sí hay mejoras en ejecución.
+                                                                                                                                 La mejora en el tiempo promedio de despacho
+                                                                                                                                 sigue siendo un reto considerable.
+                                                                                                                                 Durante el Proyecto no se alcanzó la meta
+                                                                                                                                 prevista,   antes     bien    hubo     incrementos
+                                                                                                                                 considerables durante el periodo del Proyecto, sin
+                                                                                                                                 embargo, se considera que los tiempos sí han
+                                                                                                                                 mejorado y que actualmente se cuantifican de una
+                                                                                                                                 forma bastante clara y ordenada, con un proceso
+                                                                                                                                 basado en las atribuciones de las instituciones
+            Tiempo                                                                                                               competentes, esto se menciona debido a que en
+            promedio       de                                 Reducción de la                                                    periodos     anteriores    participaron     muchas
+     R
+            despacho de la      Horas                  25%    Competitividad del           1           2               2         instancias en el proceso, cuando se dio la
+   2.4
+            declaración de                                    Puerto Cortes.                                                     intervención en Puerto Cortés.
+            importación                                                                                                          Con el esquema actual se considera improbable
+                                                                                                                                 que los tiempos se incrementen y en el caso que
+                                                                                                                                 se dieran, el impacto sería medio.
+                                                                                                                                 No se definieron medidas de mitigación, pero en
+                                                                                                                                 términos generales, se considera que el proceso
+                                                                                                                                 de reducción será sostenible en el corto y
+                                                                                                                                 mediano plazo, sobre todo, en la medida que se
+                                                                                                                                 vayan aclarando las condiciones de gestión
+                                                                                                                                 aduanera, en 2019 se prevé que el Gobierno
+                                                                                                                                 anuncie cambios que aporten a esta mejora.
+                                                                                                                                 El Proyecto hizo aportes en equipos, sin embargo,
+                                                                                                                                 es necesario avanzar con la adquisición de
+                                                                                                                                 equipos que sean acordes con la tecnología,
+                                                                                                                                 especialmente con la compra de escáner con
+            Adquisición y                                     Se generen retrasos                                                mejores capacidades.
+            disponibilidad                                    por no utilizar                                                    Es altamente probable que en el corto plazo esto
+   1.4                             Equipos en
+            de los equipos                            100%    equipos acordes              3           3               9         no se logre y por tanto no se tengan mejoras en la
+     P                          funcionamiento
+            no intrusivos de                                  con los avances en                                                 materia, teniendo un impacto alto (negativo) en la
+            control.                                          la materia                                                         gestión. Como medida de mitigación se están
+                                                                                                                                 ubicando recursos para la adquisición.
+                                                                                                                                 Cabe señalar que los equipos adquiridos por el
+                                                                                                                                 Proyectos disponen de un presupuesto para su
+                                                                                                                                 operación y mantenimiento.
+            Declaraciones                                     Incremento de la                                                   El desarrollo del sistema como parte de las
+            de importación,                                   discrecionalidad en                                                intervenciones del Proyecto es uno de los más
+   1.1      exportación     y                                 el análisis de riesgo.                                             relevantes que es uno de los enfoques de
+                                   Porcentaje         130%                                 1           2               2
+     R      tránsito                                          Uso de otros                                                       modernización en la gestión aduanera. Se
+            revisadas con                                     mecanismos de                                                      considera no disponer de dicho sistema implicaría
+            base en análisis                                  gestión de riesgos                                                 el incremento métodos que propician afectaciones
+                                                                                 Página 43 de 51
+"
+"Proyecto de Modernización de Puerto Cortés – Honduras                                   Informe de Terminación de Proyecto (PCR)
+             Impacto/Indica        Unidad de            %       Descripción del     Probabil      Impacto      Ponderación
+    ID                                                                                                                                         Medidas a tomar
+                   dor               Medida         Alcanzado         Riesgo          idad 25          26            27
+            de riesgo, bajo                                   que no sean                                                      negativas, como la discrecionalidad, lo cual
+            reglas                                            acordes a los                                                    contribuye a la corrupción y prácticas que
+            probabilísticas y                                 previstos en el                                                  afectarían la gestión. Como medidas de
+            aleatorias                                        sistema actual.                                                  contingencia, se indican:
+                                                                                                                                    <U+F0A7>    La mejora en el sistema, que
+                                                                                                                                         actualmente está en una revisión y se
+                                                                                                                                         espera poner en producción, esta
+                                                                                                                                         versión incluye análisis de redes
+                                                                                                                                         neuronales para mejorar el análisis.
+                                                                                                                                    <U+F0A7>    Capacitación y formación en el
+                                                                                                                                         personal.
+       a. Salvaguardas ambientales y sociales
+Al momento del diseño de la operación (2010) se ejecutó una consultoría para el análisis ambiental y social asociado con la
+modernización del Puerto Cortés. El análisis consideró las condiciones del puerto y los esquemas de intervención propuestos en la
+fase de ejecución del Proyecto 28.
+Por la naturaleza de las actividades, durante la ejecución del Proyecto se contrató a una especialista que dio seguimiento, supervisión
+y apoyo a la Unidad Ejecutora del Proyecto, con el objetivo de atender los aspectos asociados a este ámbito. De igual manera, una
+empresa supervisó el proceso de mejora en las instalaciones del edificio de la aduana en Puerto Cortés. En términos generales, las
+intervenciones generadas por el Proyecto no ocasionaron afectaciones de orden ambiental y social que pudieran generar temas de
+atención. En el ámbito social, se pueden destacar que las mejoras y adecuaciones impactaron positivamente sobre el empleo en la
+zona, con la construcción del laboratorio y las mejoras al edificio.
+  Calificación de la Sostenibilidad
+     [ ] Excelente (E)              [x] Satisfactoria (S)           [ ] Parcialmente               [ ] Insatisfactorio (I)
+                                                                  insatisfactoria (PI)
+28 Tomando como base la Matriz que fue presentada por la consultora en el diseño de la operación se hizo un análisis el cual se puede verificar en el Anexo del
+Informe.
+                                                                               Página 44 de 51
+"
+"Proyecto de Modernización de Puerto Cortés – Honduras                                                   Informe de Terminación de Proyecto (PCR)
+EVALUACIÓN GLOBAL DEL PROYECTO
+                                                            Development Effectiveness
+                                                                     Summary
+I. Development Effectiveness - Core Criteria
+                                  Recommended overall rating:                                                    Partly unsuccessful
+                                                                                                                              Weight
+1. Relevance                                                                                3.00                               20%
+2. Effectiveness                                                                            2.00                               40%
+       % of outcomes that were achieved                                                    67.1%
+3. Efficiency                                                                               2.00                               20%
+4. Sustainability                                                                           3.00                               20%
+II. Development Effectiveness - Non core Criteria
+Bank's Performance                                                                                    Moderately Satisfactory
+Borrower's Performance                                                                                Moderately Satisfactory
+                                                  III.      CRITERIOS NO CENTRALES
+3.1.         Desempeño del Banco
+De acuerdo con la percepción obtenida de los participantes del Taller ejecutado para la
+elaboración del PCR, en donde se contó con representación autoridades de las instituciones que
+fueron parte directa e indirecta en la ejecución del Proyecto, se obtuvo una valoración positiva
+en cuanto las dimensiones establecidas como criterios de evaluación.
+Gráfico 6. Perspectivas de desempeño del Banco
+                                                Fuente: obtenido a partir de cuestionario en taller PRC
+                                                                 Página 45 de 51
+"
+"Proyecto de Modernización de Puerto Cortés – Honduras                                             Informe de Terminación de Proyecto (PCR)
+Considerando el nivel de cumplimiento en los productos, los resultados alcanzados y tomando
+nota del desplazamiento temporal del Proyecto, aun cuando se ha podido verificar imponderables
+de considerable impacto durante la ejecución, el Banco mantuvo un desempeño acorde con las
+demandas del contexto.
+Es evidente, que algunos ámbitos no fueron atendidos de forma integral, como se aprecia en los
+aspectos de gestión de riesgos identificados en el Proyecto y las amenazas derivadas del
+contexto que generaron impases en algunos momentos. No obstante, la ponderación global fue
+efectiva en tanto se dispusieron de condiciones de atención y gestión a los temas, lo cual se
+puede confirmar con el cumplimiento de los resultados previstos de forma razonable.
+3.2       Desempeño del prestatario
+Considerando los ajustes de roles, cambios y adecuaciones de gran profundidad en la gestión
+de las instituciones de Gobierno 29, durante el Taller del PCR se aplicó un instrumento de
+evaluación a fin de obtener una percepción de parte de las instancias involucradas en el Proyecto
+y los aspectos más relevantes fueron:
+                              Gráfico 7. Perspectivas de desempeño del prestatario
+                                          Fuente: obtenido a partir de cuestionario en taller PRC
+El ejecutor tuvo retos considerables que enfrentar considerando el contexto que se presentó,
+particularmente en los primeros años de la ejecución del Proyecto. En la evaluación antes
+29 Ver Anexo 1 sobre la estructura inicial, la participación de las instituciones vinculadas al Proyecto y los ajustes que
+se dieron al respecto.
+                                                           Página 46 de 51
+"
+"Proyecto de Modernización de Puerto Cortés – Honduras                    Informe de Terminación de Proyecto (PCR)
+referida se generan rangos positivos en su calificación, quizás sustentados desde una visión de
+los logros y las condiciones que tiene el Puerto Cortés actualmente.
+Como consecuencia del Proyecto, la retrospectiva de la ejecución pone de manifiesto hubo
+limitaciones en la capacidad de articulación y coordinación interinstitucional, quizás como
+consecuencia de los profundos ajustes en las estructuras de Gobierno que implicó cambios en
+los titulares de las instituciones y mandos intermedios.
+Fue notorio también que el liderazgo para conducir la ejecución del Proyecto solamente se logró
+después de un periodo de considerable avance en el plazo de implementación. Es importante
+identificar y evaluar de forma oportuna la capacidad de conducción necesaria para un Proyecto
+que tiene enfoques muy variados (tecnología, procesos, infraestructura, entre otros), algo que en
+el ámbito comercial suele ser muy frecuente por la naturaleza y alcance de las actividades.
+                                     IV.        HALLAZGOS Y RECOMENDACIONES
+Es evidente que los retos del comercio y la competitividad son permanentes y que por tal razón
+las intervenciones que se procuren en ámbitos directamente relacionados con el tema son de
+mucha importancia. En este sentido, el Proyecto se diseñó de forma acorde a necesidades,
+condiciones y coyunturas que dieron pautas para una intervención debidamente coherente con
+las necesidades del país y teniendo como prospección un aporte significativo a la estrategia del
+país.
+La relevancia de las acciones desarrolladas es sustentada en la medida que el Puerto mantiene
+una dinámica de operación y gestión que le permite competir a nivel regional. Se hace necesario
+dar mayor atención a temas como mejoras en los procesos, articulación interinstitucional y
+gestión coordinada entre las instituciones vinculantes para hacer cambios cualitativos que
+aporten de manera más efectiva en la gestión portuaria, sobre todo si se tiene como estrategia
+posicionar al Puerto Cortés como un nodo de comercio regional.
+Los resultados alcanzados, consecuencia del cumplimiento de los productos, son sin duda una
+condición de mucha importancia al momento de considerar reflexión desde un enfoque “con
+proyecto y sin proyecto”. Nuevamente, esto se sustenta en las condiciones previas a la
+intervención del Proyecto y la prospección de lo que se tiene para esta plataforma de comercio
+tan vital en Honduras, sin embargo, en el rigor de evaluar aspectos de competitividad la tarea
+sigue siendo de mucho peso, en particular por la nueva coyuntura que enfrenta el país, inserto
+en medio de una integración profunda en materia comercial dentro del Triángulo Norte, el
+cumplimiento de la estrategia de facilitación de comercio que toman como marco de referencia
+los foros regionales (Centroamérica) e internacionales (Organización Mundial del Comercio).
+                                                      Página 47 de 51
+"
+"Proyecto de Modernización de Puerto Cortés – Honduras                             Informe de Terminación de Proyecto (PCR)
+4.1.      Dimensiones 1 a 5
+Hallazgos y Recomendaciones
+                             Hallazgos                                         Recomendaciones
+ Dimensión 1: técnico-sectorial
+ Diseño del Proyecto: En la fase inicial se                        No. 1: Se recomienda elaborar una
+ seleccionaron indicadores de resultado que                        propuesta consensuada de indicadores,
+ permitieran medir el alcance del proyecto, sin                    que sea validada tanto por el Organismo
+ embargo, estos se orientan más al ámbito de                       Ejecutor como por el Banco promoviendo la
+ impacto, sobre todo, determinar la atribución                     comprensión de estos para asegurar que
+ prevista para el Proyecto posterior a su                          sean vigentes antes, durante y después del
+ finalización. Por ejemplo:                                        Proyecto. Asegurando con ello la
+ Eficiencia de Administración de Aduanas                           pertinencia y la capacidad de atribución y
+ elaborado por el Foro Económico Mundial, en                       medición del indicador con el alcance del
+ este caso, por ser una calificación de país, las                  Proyecto.
+ mejoras en la aduana de Puerto Cortés, si bien
+ pueden tener un efecto positivo en el ranking, la
+ ponderación total depende de otras aduanas en
+ el país en las que el proyecto no tuvo intervención.
+ Otros indicadores como el de “eficacia en la
+ selección medida por el porcentaje de
+                                                                   No. 2: Incluir un anexo a la matriz de
+ liquidaciones complementarias efectuadas en el
+                                                                   resultados con la documentación de cada
+ despacho (canal rojo y naranja) ...” y el de
+                                                                   indicador que asegure la comprensión de la
+ “…Cuota a ingresar sobre la cuota declarada
+                                                                   metodología de medición y evaluación de
+ como resultado de una fiscalización…”; no fueron
+                                                                   los mismos.
+ debidamente comprendidos por el ejecutor en su
+ dimensión, al ser evaluados las autoridades
+ coincidieron que no se disponía de las
+ condiciones para su seguimiento y evaluación,
+ además que en uno de ellos se requería de la
+ participación de otras instancias que no estaban
+ vinculadas apropiadamente con el Proyecto.
+                                                      Página 48 de 51
+"
+"Proyecto de Modernización de Puerto Cortés – Honduras                               Informe de Terminación de Proyecto (PCR)
+                             Hallazgos                                          Recomendaciones
+ El monitoreo y evaluación del proyecto: El
+ proyecto ha contado con una alta rotación tanto el
+                                                                    No. 3: Sistematizar la memoria histórica del
+ personal de la unidad ejecutora como en la
+                                                                    proyecto con toda la información técnica y
+ contraparte técnica del Banco (dedicada al
+                                                                    administrativa, de tal forma que,
+ monitoreo y seguimiento). Esto generó
+                                                                    independientemente              del         personal
+ limitaciones en la calidad y el flujo de la
+                                                                    asignado, se pueda asegurar la continuidad
+ información.
+                                                                    del proyecto.
+ Por este motivo, no se realizó informe de medio
+                                                                    En el diseño de las operaciones, se debería
+ término, ni se reportaron cambios en la matriz de
+                                                                    incluir en la partida en Gestión y
+ resultados. Adicionalmente el informe final
+                                                                    Administración, una línea para financiar
+ contiene         inconsistencias             respecto    a    la
+                                                                    este repositorio documental del Proyecto y
+ información ingresada en el PMR.
+                                                                    el personal necesario para gestionarlo.
+ Desde 2014 hasta la fecha de cierre se mejoró
+ sustancialmente el monitoreo del Proyecto.
+ La existencia de distintos cooperantes trabajando
+ en los mismos sectores genera oportunidades
+ para crear sinergias entre proyectos. En el caso                   No. 4: Plantear por parte de las máximas
+ del Proyecto, es importante asegurar la                            autoridades al G16 (mesa de cooperantes
+ sostenibilidad de los productos generados una                      de Honduras) un plan de necesidades
+ vez terminado el financiamiento. No contemplar                     sectoriales que asegure las sinergias y
+ un plan de sostenibilidad y uso de los productos                   continuidad de todas las actividades
+ elaborados, genera un riesgo de pérdida de la                      sectoriales financiadas.
+ inversión.
+ Dimensión 2: organizacional y de gestión
+                                                                    No. 5: Durante la fase de diseño, aplicar
+ Estructura de gobernanza: Durante la ejecución
+                                                                    mayor rigor la evaluación institucional,
+ del proyecto se produjo una reorganización en las
+                                                                    verificando si los procesos previstos para la
+ entidades de Gobierno responsables de la
+                                                                    ejecución pueden ser ejecutados a
+ ejecución, generándose una descoordinación
+                                                                    cabalidad o se requerirá apoyo adicional.
+ temporal para llevar a cabo el alcance previsto.
+                                                                    Para esto, se recomienda elaborar un
+ La evaluación institucional no contó con la
+                                                                    análisis de carga de trabajo temporalizado
+ rigurosidad necesaria y, aun cuando se
+                                                                    que anticipe este riesgo.
+ identificaron y se documentaron esquemas de
+ coordinación altamente cargados de tiempos
+                                                                    No.6: Es importante aplicar con mucho
+ (duplicados o sin valor), no se tomaron acciones
+                                                                    rigor la aprobación de los cambios en la
+ para mejorar los procesos de ejecución, sino
+                                                                    unidad ejecutora, aunque estos no se
+ hasta que el Proyecto estuvo en un estado
+                                                                    realicen con fondos del proyecto, validando
+ avanzado de ejecución.
+                                                                    la capacidad de ese personal para ejercer
+                                                       Página 49 de 51
+"
+"Proyecto de Modernización de Puerto Cortés – Honduras                               Informe de Terminación de Proyecto (PCR)
+                             Hallazgos                                           Recomendaciones
+                                                                    sus funciones e independientemente de la
+                                                                    rotación de jerarcas en las instituciones.
+ Coordinación interinstitucional: el Proyecto, en su                No. 7: Identificar claramente un actor
+ ejecución, involucró a varias instituciones de                     interinstitucional que asuma el rol como
+ Gobierno: SEFIN (ejecutor) y DEI/SAR/DARA –                        coordinador       entre      los      stakeholders
+ en medio de lo cual surgieron instancias “ad hoc”                  principales y sea designado como
+ como Comisión Presidencial de la Administración                    responsable del proyecto en el contrato de
+ Tributaria y la Comisión Presidencial de Reforma                   la operación.
+ Integral del Sistema Aduanero y Operadores de
+ Comercio. Esta condición multidimensional                          No.8: Asegura que el Reglamento
+ generó desafíos en la coordinación que                             Operativo incluya la estructura de ejecución
+ ocasionaron, en mayor y menor grado,                               que asegure la gobernanza eficiente y
+ desaceleraciones y desviaciones en la                              efectiva      detallando        los       roles       y
+ planificación inicial del Proyecto. Así mismo, se                  responsabilidades del equipo, los perfiles
+ identificaron asimetrías por parte de las                          del equipo y los flujos principales de
+ instituciones, en la comprensión de las                            trabajo.
+ instituciones, en cuanto a los enfoques de
+ intervención del Proyecto.
+ Dimensión 3: Gestión del riesgo
+                                                                    No. 9. La gestión de los riesgos se debe
+ Intervenciones acordes a la complejidad: Durante
+                                                                    realizar desde el inicio de la ejecución con
+ todo el proyecto se realizó una identificación de
+                                                                    un enfoque de participación proactiva del
+ riesgos del proyecto. Sin embargo, a partir del año
+                                                                    Banco con las entidades ejecutoras
+ 2014 los reportes del PMR dieron muestras de
+                                                                    incluyendo      a       los     actores         clave,
+ una gestión más coherente de los temas
+                                                                    identificando        el      cronograma              de
+ asociados con los riesgos del Proyecto, se
+                                                                    seguimiento de las acciones de mitigación
+ identificaron, clasificaron y establecieron medidas
+                                                                    y     responsables         de      las      mismas.
+ de mitigación que resultaron bastante positivas
+                                                                    Adicionalmente, es importante hacer un
+ para evitar que los riesgos se transformaran el
+                                                                    taller anual de evaluación de riesgos,
+ problema y en caso de suceder, tomar acciones
+                                                                    medidas        preventivas          y       medidas
+ correctivas.
+                                                                    correctivas.
+                                             V.       ANEXOS DEL INFORME
+     1. Actores Claves del Proyecto.
+     2. Matriz de Gestión Ambiental y Social
+                                                       Página 50 de 51
+"
+"ANEXO 1
+Actores Claves del Proyecto
+      <U+25AA>     Secretaria de Finanzas (SEFIN)1
+Tiene entre sus funciones la formulación, coordinación, ejecución y evaluación de las políticas
+relacionadas con las finanzas públicas y el Presupuesto General de Ingresos y Egresos de la
+República, asegurando su compatibilidad con las estrategias definidas por la Presidencia la
+República, así mismo, tiene competencias en lo relativo al crédito público y la deuda pública,
+interna y externa, incluyendo su registro y administración, la programación de la inversión pública,
+el control fiscal de las operaciones de importación o de exportación de bienes o de cualquier otra
+actividad relacionada, que se realicen en los Puertos marítimos o terrestres y en los aeropuertos,
+por medio del servicio de aduanas.
+La SEFIN dispone dentro de su estructura a la Unidad Administradora de Proyectos (UAP), la
+cual fue creada por Acuerdo Ejecutivo No. 0271 en 2004, como un esfuerzo de racionalización
+de los recursos humanos y materiales de administración y ejecución de los proyectos adscritos
+a la Secretaría de Finanzas, financiados con recursos externos, sean préstamos de inversión,
+programas sectoriales o donaciones.
+La naturaleza de esta instancia (UAP), es la que le permitió fungir como entidad ejecutora del
+2467/BL-HO en su fase inicial, sin embargo, dicha condición fue afectada a partir de los cambios
+estructurales que se dieron en el Gobierno. Al inicio del Proyecto la UAP disponía de un personal
+dedicado a otros Proyectos, que fue quien asumió (como tarea adicional) el rol de Unidad
+Ejecutora del Proyecto (UEP), esto implicó no disponer de un equipo con dedicación exclusiva a
+la ejecución del Proyecto, siendo un factor adicional en el bajo avance que se dio en el primer
+periodo de ejecución.
+      <U+25AA>     Dirección Ejecutiva de Ingresos (DEI)2 3 4
+La Dirección Ejecutiva de Ingresos fue creada mediante Decreto 159/94, \" Ley de la Dirección
+Ejecutiva de Ingresos\" en diciembre de 1994, constituyéndola como un órgano desconcentrado
+de la Secretaria de Hacienda y Crédito Público, con autonomía administrativa, técnica y
+financiera. Seguidamente, mediante Decreto 219-2004 “Ley de la Restructuración de la
+Administración Tributaria se deroga la norma antes citada y se crea a la Dirección Ejecutiva como
+un órgano administrativo dependiente de la Secretaría de Finanzas, con las funciones de
+recaudar, fiscalizar y cobro de los impuestos tributarios y aduaneros, se apoyó de dos
+Direcciones Adjuntas denominadas Rentas Internas y Rentas Aduanera.
+1 http://www.sefin.gob.hn/?page_id=32
+2 https://portalunico.iaip.gob.hn/portal/index.php?portal=331
+3 https://portalunico.iaip.gob.hn/portal/index.php?portal=451
+4 https://portalunico.iaip.gob.hn/portal/index.php?portal=445
+"
+"En la fase de diseño e inicio de las operaciones de Proyecto, quedó establecido que la DEI fungía
+como el contraparte y beneficiario del Proyecto, considerando que las operaciones del Puerto
+Cortés estaban bajo la jerarquía de la DEI, con lo cual el ámbito del Proyecto, desde la
+perspectiva técnica estaban circunscritos a esta Dirección.
+Mediante decreto ejecutivo PCM 083-2015 de noviembre de 2015, el Presidente de la República,
+en consejo de Ministros, decretó suprimir y liquidar la Dirección Ejecutiva de Ingresos (DEI),
+creada mediante decreto legislativo 17-2010 de fecha 28 de marzo de 2010; en el mismo decreto
+PCM 083-2015 en su artículo 7, decreta que todas las atribuciones y solicitudes inherentes a las
+obligaciones tributarias estarán a cargo de un Comisionado Presidencial, razón por la cual, surge
+la Comisionada Presidencial de la Administración Tributaria, siendo la entidad operativa el
+Servicio de Administración de Rentas (SAR).
+    <U+25AA>    Servicio de Administración de Rentas (SAR)
+Es una entidad desconcentrada adscrita a la Presidencia de la República, con autonomía
+funcional, técnica, administrativa y de seguridad nacional, con personalidad jurídica propia,
+responsable del control, verificación, fiscalización y recaudación de los tributos, con autoridad y
+competencia a nivel nacional, creada mediante decreto legislativo 170-2016. Esta instancia
+deriva de la desaparición de la DEI, quedando a cargo de la administración tributaria y separa de
+la participación que el personal de esta instancia tenía en el Proyecto.
+La SAR se convierte en la entidad técnica rectora del Proyecto, siempre coordinando con SEFIN,
+y con el objetivo de dar enfoque más proactivo en la gestión de este, considerando que el periodo
+anterior (DEI) no se tuvieron avances considerables, vale mencionar que a partir del año 2015
+se logra un incremento en las condiciones de ejecución, el cual se mantiene hasta la finalización
+del Proyecto.
+    <U+25AA>    Dirección de Adjunta de Rentas Aduaneras (DARA)
+En cuanto a los aspectos aduaneros, en marzo de 2016 mediante Decreto PCM -82-2015, el
+Presidente de la República en Consejo de Secretarios de Estado, escindió la Dirección Adjunta
+de Rentas Aduaneras (DARA) de la Dirección Ejecutiva de Ingresos (DEI) y adscribirla a la
+Secretaria de Estado de Finanzas.
+Para el mes de noviembre del 2016, DARA es objeto de una nueva directriz creándose la
+Comisión para Reforma Integral del Sistema Aduanero y Operadores de Comercio (COPRISAO),
+quien tiene como objetivo la modernización del sistema aduanero de Honduras, en el mes de
+marzo de 2017 mediante el decreto PCM-007-2017, DARA se separa de SEFIN y alcanza el
+rango de institución desconcentrada de la Secretaría de la Presidencia.
+"
+"ANEXO 2
+Impactos identificados con su naturaleza, tipo y rango de impacto
+                                                                                             Condición a la finalización del
+   #                Impacto                  Naturaleza          Tipo  Rango de impacto
+                                                                                                          proyecto
+       Agilización de procesos
+ 1                                       Positivo           Directo   Local y regional  Evaluado en la sección de resultados.
+       aduaneros
+                                                                                        No disponible como criterio de atribuible
+ 2     Atracción de inversiones al país  Positivo           Directo   Local y nacional
+                                                                                        al Proyecto.
+       Incremento en ingresos
+ 3     aduaneros a nivel municipal y a   Positivo           Indirecto Local, nacional
+       nivel nacional.
+       Posible aumento en la
+ 4     disponibilidad de trabajos en la  Positivo           Indirecto Local             No evaluado.
+       zona
+                                                                                        Alcanzado como consecuencia de la
+       Reducción de los riesgos
+                                                                                        mejora en las instalaciones provistas en
+       laborales a los que los
+ 5                                       Positivo           Directo   Local             el marco de ejecución del Proyecto.
+       empleados de aduana se
+                                                                                        Ver comparación de instalaciones antes
+       exponen diariamente
+                                                                                        y después.
+       Mejoramiento de los procesos de
+       análisis de cargamentos
+ 6                                       Positivo           Directo   Local y regional
+       peligroso o de riesgos f ito-zoo-
+       sanitarios
+       Reducción de los riesgos
+                                                                      Nacional e
+ 7     biológicos y químicos al entorno  Positivo           Indirecto                   No evaluado.
+                                                                      internacional
+       nacional
+                                                                                        Alcanzado como resultado de la mejora
+                                                                                        en las instalaciones de gestión operativa
+       Mejoramiento del sistema de
+                                                                                        en el edif icio de la Aduana y la
+ 8     manejo de inf ormación y archivo  Positivo           Directo   Local y nacional
+                                                                                        construcción del centro de datos, que
+       de procesos aduaneros
+                                                                                        permite soporte en la inf ormación
+                                                                                        electrónica.
+"
+"                                                                                           Condición a la finalización del
+   #                  Impacto                  Naturaleza      Tipo Rango de impacto
+                                                                                                      proyecto
+       Mejoramiento sustancial del nivel
+       de ef iciencia y calidad del entorno
+ 9                                          Positivo      Directo   Local             Alcanzado.
+       de trabajo de los empleados de
+       aduana.
+       Reducción del riesgo de incendio
+ 10                                         Positivo      Directo   Local             Alcanzado.
+       en el edif icio de aduana
+ 11    Eliminación de un f oco de                                                     Alcanzado como consecuencia de las
+       contaminación en una de las          Positivo      Directo   Local             mejoras en las zonas de atención y
+       zonas más dinámicas del Puerto                                                 gestión operativa.
+ 12    Posibles atrasos en los procesos
+                                                                                      No se reportaron durante la f ase de
+       aduaneros durante las                Negativo      Directo   Local y regional
+                                                                                      construcción.
+       actividades del proyecto.
+ 13    Riesgo de contaminación y a la
+       salud del personal que labore en                                               Mitigado, con la zonif icación de los
+                                            Negativo      Directo   Local
+       los procesos dentro del edif icio                                              espacios en el edif icio de Aduanas.
+       actual de aduanas
+ 14    Riesgos de salud en procesos de
+                                                                                      No reportado durante el proceso de
+       transporte de desperdicios del       Negativo      Directo   Local y municipal
+                                                                                      construcción del edif icio.
+       edif icio actual de aduanas.
+ 15    Atrasos y cierres del tránsito de
+       peatones y vehículos por las
+                                            Negativo      Directo   Local             No reportado, se logró coordinación.
+       zonas donde se ejecutará el
+       proyecto.
+ 16    Atrasos por los requerimientos de
+       capacitaciones al personal
+                                            Negativo      Indirecto Local y regional  No reportado.
+       involucrado en los procesos de
+       aduana.
+ 17    Riesgo de pérdida de inf ormación
+       durante los procesos dentro del      Negativo      Directo   Local y regional  No reportado.
+       edif icio de aduanas
+Fuente: matriz derivada de la evaluación socio ambiental del Proyecto, con comentarios derivados del análisis en la
+elaboración del PCR.
+"

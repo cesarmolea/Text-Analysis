@@ -1,0 +1,1396 @@
+"outlist[[i]]"
+"          I.   INTRODUCCIÓN
+1.1       El Programa se diseñó y aprobó en el contexto de las profundas transformaciones jurídico
+          normativas acontecidas en el País en la segunda mitad de la primera década del nuevo
+          milenio. En efecto, en el año 2008 se había ratificado mediante referéndum una nueva
+          Constitución; también en el 2008 se había establecido el Sistema Nacional de
+          Planificación (SPN) regido por la Secretaria Nacional de Planificación (SENPLADES; en
+          el 2009 se habían aprobado nuevas leyes orgánicas de Empresas Públicas y de Régimen
+          Provincial y se había lanzado el Plan Nacional de Desarrollo Para el Buen Vivir (PNBV)
+          2009 – 2014; en el 2010 se habían aprobado el Código de Planificación y Finanzas
+          Públicas y la Ley Orgánica del Servicio Público (LOSEP) y también se había lanzado un
+          proceso de Reforma Democrática del Estado que incluía el Rediseño de la Función
+          Ejecutiva de las Carteras de Estado y su Modelo de Gestión y de la Organización
+          Territorial.
+1.2       El 15 de diciembre de 2011 mediante acuerdo Ministerial 996, se había emitido y
+          publicado la Norma Técnica de Reestructuración de la Gestión Pública Institucional que,
+          en forma congruente con los cambios legislativos señalados, estableció el Modelo de
+          Reestructuración aplicable a las instituciones de la Administración Pública Central,
+          Institucional y Dependiente de la Función Ejecutiva. El Modelo R 2 se conformó con los
+          siguientes componentes: (i) Planificación de la organización institucional; (ii) Gobierno por
+          resultados; (iii) Gestión de planes, programas y proyectos; (iv) Gestión de procesos; (v)
+          Gestión y optimización del talento humano por reestructuración; y (vi) Herramientas
+          complementarias al Modelo de Reestructuración. (Artículo 10 de la Norma).
+1.3       En el mencionado marco jurídico resumido, el financiamiento BID del proyecto se focalizó
+          a apoyar el rediseño de la función ejecutiva y su modelo de gestión y de organización
+          territorial, mediante dos componentes articulados entre sí: (i) Fortalecimiento del Marco
+          Institucional para la Reforma (US$17,8 millones), y (ii) Elaboración e Implementación de
+          Planes de Inversión de Reforma Institucional (PIRIs) (US$232.2 millones).
+1.4       Dada la transversalidad institucional de las intervenciones del programa, el Ministerio de
+          Economía y Finanzas (MF), en su condición de Organismo Ejecutor, llevaría a cabo las
+          actividades a través de un Equipo de Gestión (EDG) el que trabajaría coordinadamente
+          con el Secretario Técnico del Comité de Gestión Pública Interinstitucional 3 conformado
+          por los Órganos Rectores Secretaría Nacional de la Administración Pública (SNAP), la
+          Secretaría Nacional de Planificación (SENPLADES), el Ministerio de Relaciones
+          Laborales (MRL) 4 y el propio MEF.
+2 Denominado “Modelo R” ya que implica reforma, reingeniería, reestructura y reorganización adaptado a cada
+  institución.
+3 El Comité de Gestión Pública Interinstitucional fue creado en artículo 1 del Decreto Ejecutivo No. 729 de 11 de abril
+  de 2011 “con la finalidad de coordinar la implementación del modelo de reestructuración de la gestión pública
+  institucional de la Función Ejecutiva y mantener el direccionamiento estratégico institucional”.
+4 En la actualidad Ministerio del Trabajo. El artículo 112 del Reglamento General a la LOSEP atribuyó a dicho
+  ministerio ser el “organismo rector en lo relativo a la administración del talento humano y remuneraciones e ingresos
+  complementarios de las y los servidores del sector público”.
+                                                             1
+"
+" 1.5      La magnitud de los recursos asignados al Componente II guardaba relación con el hecho
+          que, como parte de la implementación de los PIRIs, se preveía el financiamiento de los
+          pagos de indemnizaciones correspondientes al personal que se desvincularía para
+          mejorar la gestión de las entidades seleccionadas.
+ 1.6      Bajo el esquema jurídico anteriormente resumido se inició la ejecución y desempeño del
+          Proyecto EC-L1094.
+          II. CRITERIOS CENTRALES. DESEMPEÑO DEL PROYECTO
+2.1       Relevancia
+ 2.2.     En el Resumen de la evaluación del Programa de País, Ecuador 2007 – 2011, OVE
+          señalaba: “El período se caracterizó por un importante cambio político e institucional en
+          el Ecuador, consagrado en la nueva Constitución de septiembre de 2008. Dada la
+          articulación dentro del Plan Nacional para el Buen Vivir, el programa del BID se encontró
+          bien compaginado con la agenda del país”. Precisamente el Programa de Reforma
+          Institucional de la Gestión Pública se diseñó y fue efectivo durante ese período y se
+          correspondió con diagnósticos y estrategias específicas del PNBV
+ 2.3.     La relación con la agenda del País se mantuvo constante hasta la finalización del
+          proyecto. Igualmente, el Programa estuvo estrechamente vinculado a la Estrategia País
+          del BID 2012 – 2017 a través principalmente de los Planes de Inversión para la Reforma
+          Institucional de los Ministerios de Salud y Educación, los dos sectores pilares del
+          Desarrollo Social que la estrategia del Banco incluía como prioritarios y a los que se
+          aplicaron la mayor parte de los recursos del Componente 2 del Programa
+                   a. Alineación con las necesidades de desarrollo del país
+ 2.4.     El PND/PNBV 2009 – 2014 tenía como doceavo objetivo el de “Construir un Estado
+          Democrático para el Buen Vivir” 5, ya que se requería “un profundo proceso de
+          transformación del Estado”, de forma que se consolide un “servicio civil eficiente,
+          meritocrático y orientado por resultados”. Para el efecto el Gobierno, antes del
+          lanzamiento del Plan, ya había reorganizado la macroestructura de la función ejecutiva,
+          como un paso inicial de una transformación que tenía que continuarse con la adecuación
+          de cada una de las instituciones y la renovación y desarrollo del servicio civil.
+ 2.5.     A modo de diagnóstico el propio PNBV señalaba que “El ineficiente manejo del recurso
+          humano del sector público, por parte del Estado, se configura, ineludiblemente, como el
+          principal obstáculo para adoptar un nuevo régimen de desarrollo o un nuevo modelo de
+          Estado”, al mismo tiempo que reconocía la poca efectividad que hasta ese momento
+          había tenido la gestión por resultados y el atraso tecnológico en materia de gobierno
+          electrónico en la gestión de la administración pública.
+ 2.6.     Al momento del diseño de la operación, múltiples estudios y diagnósticos mostraban el
+          rezago relativo de la organización, los procesos y el funcionamiento del sector público
+          ecuatoriano, todos los que fueron tomados en cuenta en la propuesta al Directorio y
+          muchos sirvieron para establecer las líneas de base de referencia para los resultados
+          buscados por el programa. 6
+ 5
+   Capítulo 7 objetivo 12 del documento del PNBV.
+ 6
+   Análisis de SENPLADES sobre organización y funciones de las instituciones de la rama ejecutiva; encuestas del
+   2011 sobre calidad de los servicios públicos; diagnóstico de la calidad del servicio civil 2011, por ejemplo.
+                                                           2
+"
+"2.7.     Al contribuir con el fortalecimiento del marco institucional para la reforma y con la
+         renovación del servicio civil, el proyecto buscó satisfacer, en la medida de sus recursos,
+         las necesidades de la estrategia nacional de resolver los obstáculos al desarrollo
+         arraigados en el seno del aparato estatal. Al ser obviamente problemáticas que solo se
+         resuelven en el mediano y largo plazo, la vigencia de los objetivos específicos del
+         programa se mantuvo hasta el final del mismo.
+                   b. Alineación Estratégica
+2.8.     Los resultados del proyecto significan un impacto positivo en la cobertura y calidad en la
+         prestación de los servicios públicos, en especial los vinculados a los sectores sociales de
+         salud y educación. Ello implica un vínculo estrecho con dos de las tres prioridades
+         estratégicas de la acción del Banco en Ecuador para el período 2012 – 2017: (i) capital
+         humano para asegurar mejores oportunidades para la generación de ingresos y estimular
+         la productividad total de los factores; y (ii) gestión pública, para adaptar los nuevos
+         mandatos legales a las necesidades del sector productivo y a las demandas sociales.
+2.9.     Cabe señalar que las prioridades de la estrategia del Banco en Ecuador se establecieron
+         mediante un proceso de diálogo con el gobierno y se basaron en el análisis de los
+         obstáculos y las brechas principales. Asimismo, es importante destacar que en el período
+         analizado el Banco mantuvo estable su carácter de principal fuente de financiamiento
+         internacional multilateral con una participación del 44%, convirtiéndose junto con la CAF
+         en las fuentes multilaterales de financiamiento más importante para el país.
+2.10.    Por último, la mejora en la cobertura y calidad de la prestación de los servicios públicos
+         a la ciudadanía, con énfasis en los servicios de educación y salud, se alinean totalmente
+         con dos retos del desarrollo identificados en la actualización de la estrategia institucional
+         del Banco de 2015 para el período 2016 – 2019: (i) la exclusión social y la desigualdad; y
+         (ii) la baja productividad e innovación.
+                   c. Relevancia del Diseño
+2.11.    La lógica vertical del diseño seguía la siguiente cadena de resultados: (i) el desarrollo de
+         capacidades metodológicas, instrumentales y de los recursos humanos de los
+         organismos rectores de los procesos transversales de gestión pública (básicamente los
+         integrantes del Comité) debía permitir una implantación oportuna y estandarizada del
+         nuevo modelo de Estado y, por ende, una mejor gestión pública lo que contribuiría al
+         cumplimiento de los objetivos establecidos en el PND y una más positiva percepción de
+         la satisfacción de los usuarios de los servicios públicos; (ii) en paralelo, la implementación
+         de planes de inversión de reforma institucional de las entidades individuales, acompañada
+         de la renovación de sus servidores públicos facilitada por el espacio presupuestal ganado
+         a partir del programa de desvinculaciones, debía redundar en mejoras de eficacia y
+         eficiencia en la gestión de los sectores claves, de forma que aunada a la modernización
+         de los procesos transversales impactaría en el cumplimiento de las metas del PND y en
+         el incremento de la satisfacción del usuario de los servicios públicos.
+2.12.    El programa acompañó y estuvo integrado a una política de Estado, motivo por el cual
+         sus resultados e impactos se combinaron con otras acciones de la función ejecutiva. Por
+         ejemplo, desde su diseño el programa no intervino en la supresión o fusión de entidades
+         y solamente pretendió apoyar la mejora del nivel normativo en tales aspectos. 7
+7 Ver, http://idbdocs.iadb.org/WSDocs/getDocument.aspx?DOCNUM=36422097, Enlace Electrónico – Lógica Vertical
+  EC-L1094.
+                                                      3
+"
+"2.13.   Para contribuir a obtener los resultados de alineación entre la acción y la estrategia
+        gubernamental y alcanzar un perfil del servicio civil alineado a las prioridades estratégicas
+        del Gobierno, los principales productos previstos del programa fueron: (i) Mecanismos de
+        monitoreo de metas del PND fortalecidos; (ii) Personal del secretariado del comité y de la
+        función ejecutiva capacitados; (iii) Sistemas de Planificación, Inversión Pública y
+        Presupuestos interrelacionados; (iv) Subsistema de remuneración variable
+        implementado; (v) Estudios y proyectos de apoyo técnico a la Reforma Institucional; (vi)
+        Herramientas complementarias de la Norma Técnica del Modelo R difundidas; (vii) Norma
+        Técnica del Art. 130 de la LOSEP elaborada (certificación de calidad del servicio); (viii)
+        PIRIs aprobados por el Comité; (ix) PIRIs priorizados implementados con apoyo del
+        Programa.
+2.14.   Desde el punto de vista de lógica conceptual, en el año 2015 el Modelo R inspirador del
+        programa pasó a ser concebido como un primer nivel de madurez institucional
+        comprometido que debía ser seguido por el Programa Nacional de Excelencia en la
+        calidad de los servicios, PROEXCE 8, que propone prácticas de excelencia en los
+        componentes de liderazgo, planificación y estrategia, talento humano, procesos, gestión
+        de alianzas y recursos, las cuales una vez adoptadas por las entidades son certificadas
+        por la SNAP. Desde el punto de vista de la reforma institucional, la lógica vertical
+        contenida en el diseño del programa tenía como elemento central la rectoría conjunta del
+        proceso bajo el Comité de Gestión Pública Interinstitucional y el liderazgo técnico de la
+        SNAP y la coordinación del EGP en los temas administrativos - financieros, y por ende,
+        los vínculos de dicha rectoría y secretaría técnica y coordinación del EDG con las
+        instituciones individuales del sector público que debían reformarse bajo la orientación del
+        Modelo R de reestructuración de la función Ejecutiva. Dicha lógica institucional se sostuvo
+        hasta octubre de 2016, cuando mediante Decreto No. 1212 la Presidencia de la República
+        suprimió el Comité siguiendo su propia sugerencia y responsabilizó a cada una de las
+        entidades integrantes las materias de reforma propias a sus respectivas competencias
+        funcionales.
+2.15.   En la Tabla 1 se muestra que a nivel de Resultados y sus indicadores, estos no han sido
+        modificados desde la aprobación del Proyecto por parte del Directorio.
+2.16.   El Anexo 2 Cambios en la matriz de resultados a nivel de productos (Outputs), contiene
+        el detalle de las modificaciones procesadas en la Matriz de Resultados inicial. La mayor
+        parte de las modificaciones consistieron en formalidades para ajustar la métrica contenida
+        en la matriz a la evolución que indicaba la ejecución real. Sin embargo, hubo productos
+        descontinuados según circunstancias que se explican en el siguiente párrafo.
+2.17.   Los productos inactivados fueron siete: 1. Automatización del proceso integral de
+        reestructura implementada (Sistema Integrado de Modelo de Reestructuración de la
+        Gestión Pública Institucional), 2. Sistema de información de la Gestión del Talento
+        Humano (TH) implementado, 3. Personal del Comité de Reforma Institucional capacitado
+        en planificación estratégica, 4. Normas legales referentes a reforma del estado y
+        mecanismos institucionales para su implementación simplificadas, 5. Estudio para el
+        Fortalecimiento del Instituto de la Meritocracia elaborado, 6. Plan de inversión de reforma
+        institucional (PIRI) del Ministerio de Recursos Naturales No Renovables implementado, y
+        7. Plan de inversión de reforma institucional (PIRI) de la Agencia de Regulación y Control
+        de Hidrocarburos implementado
+8 Acuerdo Ministerial 1181 SNAP 20 de julio 2015. La implementación del PROEXCE fue apoyada por el programa.
+                                                       4
+"
+"2.2      Efectividad
+                  a. Declaración de objetivos de desarrollo del Proyecto.
+ 2.18.   El objetivo general del Programa es contribuir al cumplimiento del Plan Nacional de
+         Desarrollo (PND). Los objetivos específicos son mejorar la alineación de la acción
+         gubernamental de la función ejecutiva y el perfil del servicio civil con las prioridades
+         estratégicas del gobierno. Los indicadores de impacto se establecieron como: (i) Metas
+         del PND cumplidas según informe de seguimiento del SENPLADES, con una línea de
+         base 2010 de 36.37% y una meta a 2016 de 66%; e (ii) Índice de satisfacción de los
+         usuarios de los servicios públicos, según informes de calidad de los servicios públicos
+         SENPLADES (ENEMDU-INEC), línea de base 2008 con un índice de 5.07 en una escala
+         de 0 a 10 y una meta 2016 de 7.0
+ 2.19.   El primer resultado esperado para obtener el objetivo se estableció como “Alineación
+         entre la acción gubernamental y la estrategia del gobierno mejorada”, teniendo como
+         único indicador el Índice de correspondencia entre programas presupuestarios y los
+         programas nacionales o sectoriales, con una línea de base de un índice de 0.4 en el año
+         2008 y una meta de 0.6 para el año 2016, siguiendo en la evaluación la metodología
+         PRODEV BID.
+ 2.20.   El segundo y último resultado esperado se fijó en un “Perfil del Servicio Civil alineado con
+         las prioridades estratégicas del Gobierno”, estableciéndose los siguientes indicadores: (i)
+         Índice de coherencia del servicio civil, con línea de base en 2011 de 0.13 y una meta en
+         2016 de 0.3; (ii) Indicador de capacidad funcional del servicio civil, con línea de base de
+         0.28 para 2011 y una meta para 2016 de 0.45; (iii) Indicador de Mérito del servicio civil
+         con base en 0.33 para 2011 y un meta de 0.55 para 2016. Todos estos indicadores
+         medidos según consultoría especializada en aplicar el Marco Analítico para el diagnóstico
+         institucional de Servicio Civil (Longo), ha venido aplicando el Banco.
+                  b. Resultados Alcanzados
+ 2.21.   La Tabla 1 recoge la información sobre resultados contenida en el PMR del Banco. De
+         acuerdo con los datos que muestra, el programa tuvo un alto grado de cumplimiento de
+         los indicadores de productos, resultados e impactos. 9 En efecto, 15 de los 22 productos
+         previstos fueron alcanzados en un 100% durante la ejecución del programa, 4 fueron
+         desactivados, 2 muestran logros del orden del 50 y un solo producto no se realizó.
+ 2.22.   La Tabla 1 no contiene un detalle suficiente de información como para apreciar a
+         cabalidad los logros del proyecto en función de los objetivos y metas de resultados
+         aprobados por el Directorio del Banco. Ello es así porque algunos productos engloban
+         subproductos o hitos relevantes y relativamente independientes entre sí, como son los
+         casos del Producto 6 “Proyectos de apoyo técnico a la Reforma Institucional
+         implementados” o cada uno de los 11 productos contemplados en el componente 2 como
+         “PIRIs implementados”. En efecto, el producto 6 contempla 19 proyectos y cada uno de
+         los PIRIs se desglosa en su interior en componentes de organización y procesos y en el
+         componente de optimización o desvinculación de personal como consecuencia de la
+         reforma.
+ 2.23.   El Producto 6 de proyectos de apoyo técnico representó el 76% de las asignaciones al
+         componente 1, convirtiéndose así en el mecanismo principal del programa para fines del
+         fortalecimiento del marco institucional para la reforma, es decir los organismos rectores
+ 9 Se adjunta el documento de la Evaluación Final del programa prevista en las cláusulas contractuales.
+                                                         5
+"
+"           que conformaban el CGPI. Los principales resultados alcanzados por medio de los
+           productos del programa fueron:
+           a)   Trámites de 24 servicios institucionales simplificados. 10
+           b)   Estudios de evaluación del clima laboral y cultura organizacional implementados.
+           c)   Diagnóstico del eSIGEF completado.
+           d)   Diseño del marco de referencia conceptual del Sistema de Gestión de la Seguridad
+                de la Información (SGFI) en el marco del sistema de gestión del Sistema Nacional de
+                Finanzas Públicas.
+           e) Modelo de Procesos del Nivel Cero del Sistema Nacional de Finanzas Públicas
+                elaborado.
+           f) Plataforma de Investigación de Mejoramiento de Servicios (PIMS) diseñada.
+           g) Bus de Servicios Gubernamentales fortalecido (Subsecretaría de Gobierno
+                Electrónico).
+           h) Proceso de Gestión Integral de Archivo de la Función Ejecutiva implementado.
+           i) Estrategia de PROEXCE diseñada.
+           j) Fortalecimiento tecnológico SNAP (Modelo Control Ex post y Automatización y
+                Autenticación de sistemas gubernamentales).
+2.24.      También dentro del componente 1, en el último semestre del 2016 se incorporó un
+           proceso Nro. PMCSP-I-7-SBC-CF-7 “Consultoría de Implementación e implantación del
+           Sistema Integrado de Gestión de las Finanzas Públicas” como parte del financiamiento
+           del Programa, motivo por el cual surgió la necesidad de ampliar el plazo de último
+           desembolso del Programa hasta el 3 de febrero de 2017. Este nuevo producto,
+           naturalmente alineado con los demás del programa, impactará positivamente en la
+           modernización de la gestión pública que persiguió el programa.
+2.25.      En relación con el segundo componente, la siguiente tabla evidencia la magnitud e
+           importancia que el subproducto de las desvinculaciones tuvo al interior de los PIRIs
+           institucionales.
+                  TABLA A. RESUMEN DE DESVINCULACIONES FINANCIADAS POR EL PROYECTO BID 2653/OC-EC
+                                              Total, personas                        Total, Costo US$
+               PIRIs financiados
+                por el proyecto       Aporte
+                                                     BID      Total    Aporte Local          BID           Total
+                                       Local
+          PIRI Educación                 681         4,621     5,302      25,608,715     197,943,731    223,552,446
+             Desvinculados (personas)
+                                         660         4,197     4,857      24,819,019     179,924,157    204,743,176
+          Docentes
+             Desvinculados (personas)
+          Código     de    Trabajo -      0           229       229           0            9,784,564      9,784,564
+          Supresión de Partidas
+             Desvinculados (personas)
+                                         21           195       216        789,696         8,235,009      9,024,705
+          Administrativos
+             PIRI Salud                 1,074         514      1,588      76,467,277      37,380,369    113,847,646
+             Desvinculados (personas)
+                                         270          110       380      19,223,617            0         19,223,617
+          Administrativos
+             Desvinculados (personas)
+          Código     de    Trabajo -
+          Supresión de Partida -
+                                         804          404      1,208      57,243,660      37,380,369     94,624,029
+          Servicios    auxiliares en
+          Hospitales que después
+          fueron externalizados
+10 El Plan Nacional de Simplificación de Trámites a cargo de la SNAP elaboró un informe de soporte al presente PCR
+   que consta en enlace electrónico y donde reporta 422 trámites simplificados en 2015 y 329 en 2016 para 52 y 41
+   instituciones públicas, respectivamente. Ver también análisis del Plan Nacional de Simplificación de Trámites
+   elaborado por el Banco.
+                                                            6
+"
+"                    TABLA A. RESUMEN DE DESVINCULACIONES FINANCIADAS POR EL PROYECTO BID 2653/OC-EC
+                                                   Total, personas                      Total, Costo US$
+               PIRIs financiados
+                  por el proyecto         Aporte
+                                                          BID      Total   Aporte Local         BID           Total
+                                          Local
+             PIRI Justicia                 1,079           0       1,079    28,770,943           0         28,770,943
+             Desvinculados (personas)
+                                            252            0        252     8,316,185            0          8,316,185
+          Administrativos
+             Desvinculados (personas)
+                                            827            0        827     20,454,758           0         20,454,758
+          Guías Penitenciarios
+                                            876            0        876     25,664,594           0         25,664,594
+             PIRI Interior
+             Desvinculados (personas)       876            0        876     25,664,594           0         25,664,594
+          Administrativos
+             Totales generales             3,710         5,135     8,845   156,511,529     235,324,100     391,835,628
+             Fuente: Equipo de Gestión Ministerio de Finanzas.
+2.26.      El total de desvinculaciones con cargo al programa que muestra la tabla significan, en
+           relación con lo financiado por el Banco, un porcentaje del 94%, motivo por el cual la
+           evaluación del resultado e impacto de dichas desvinculaciones prácticamente evalúa al
+           programa en sí mismo. Al respecto se cuenta con cuatro estudios de referencia que se
+           incluyen como enlaces electrónicos al presente PCR, los dos primeros del año 2015,
+           cuando ya se habían producido los mayores costos en la materia: (i) Evaluación de
+           Impacto de Implementación de la Reforma Institucional de la Función Ejecutiva –
+           “Valoración del Impacto de las desvinculaciones de los servidores públicos”, IAGroup para
+           la SNAP; (ii) Evaluación Intermedia del contrato de préstamo 2653/OC-EC, período enero
+           2012- junio 2015, Multigestión Asesores, MG 11; (iii) Estudio de los Programas de
+           Modernización Institucional y Desvinculaciones de Servidores Públicos Financiados
+           por Proyectos del BID en Ecuador, Ben Roseth y Mauricio García, 2017; y (iv) Análisis de
+           los Resultados del Programa de Jubilaciones del MINEDUC, Juan Ponce y Marcelo
+           Drouet, 2018.
+2.27.      Los Ministerios de Educación y de Salud, en ese orden de importancia cuantitativa, fueron
+           las instituciones priorizadas para la optimización del talento humano. Las cifras del cuadro
+           muestran que el financiamiento del BID fue de mayor importancia relativa en el sector
+           educativo, donde las desvinculaciones financiadas se concentraron en el personal
+           docente, mientras que en Salud el personal desvinculados estaba bajo el Código de
+           Trabajo y los servicios que venían prestando fueron posteriormente externalizados.
+2.28.      En el caso del personal docente desvinculado, la lógica consistió en su reemplazo por
+           docentes con perfiles adecuados a las nuevas necesidades del servicio, seleccionados
+           mediante concursos de méritos y sujetos a evaluación integral y sostenida por el Instituto
+           Nacional de Evaluación Educativa (INEVAL), que había sido creado en 2012 con respaldo
+           constitucional (Artículo 346), todo ello en el marco de la reforma educativa puesta en
+           marcha, también del año 2012, con la Ley Orgánica de Educación Intercultural (LOEI) y
+           su consecuente Nuevo Modelo de Gestión Educativa (NMGE).
+11 La evaluación intermedia incluye como producto un “Informe Ejecutivo del Estado de avance del Proceso de
+   Reforma del Ministerio de Educación”. El estudio Evaluación de Impacto de Implementación de la Reforma.
+   Institucional de la Función Ejecutiva – “Valoración del Impacto de las desvinculaciones de los servidores públicos”,
+   elaborado para IAGroup para la SNAP no se utiliza como referencia para desvinculaciones debido a que
+   equivocadamente evalúa la efectividad del programa de desvinculaciones a partir de su efecto en la reducción de la
+   planilla estatal, lo cual nunca fue el objetivo del programa.
+                                                                7
+"
+"2.29.   La evaluación intermedia es coincidente y, en relación con el programa, las conclusiones
+        se pueden ejemplificar con la siguiente cita: “ha sido de vital importancia para continuar
+        con la incorporación de nuevos servidores, que dinamicen la actuación de la institución,
+        en relación a las dos líneas de implementación; la primera es la relacionada con la
+        recuperación de las facultades de rectoría, regulación y control del sistema nacional
+        educativo a cargo del nivel central y por otro lado la implementación de niveles de gestión
+        desconcentrados que no sólo implican la ubicación de unidades desconcentradas del
+        MINEDUC a nivel zonal, distrital y circuital sino también la generación de espacios de
+        micro planificación que permitan mejorar los servicios educativos a través de la
+        racionalización de la oferta educativa y la localización estratégica de IE en base a la
+        demanda efectiva” (tercer párrafo, página 76, Producto “Informe Definitivo del Estado de
+        avance del Proceso de Reforma del Ministerio de Educación, conforme a lo indicado en el
+        literal (b) de la sección III de los Términos de Referencia” evaluación intermedia de MG).
+        Con respecto a cómo estos cambios han incidido en la calidad de los servicios al
+        ciudadano, el análisis de resultados del programa (Ponce y Drouet) concluye que “el
+        reemplazo de nuevos docentes por docentes jubilados sí contribuye a mejorar la calidad
+        de los aprendizajes de los alumnos. Se encuentra una asociación positiva entre el ingreso
+        de nuevos docentes por concurso y las notas de los estudiantes en la prueba Ser
+        Bachiller. El resultado es robusto en especial para matemáticas.”
+2.30.   Los cambios que han permitido las desvinculaciones apoyadas por el programa en el
+        sector salud y justicia también han sido críticos. En Salud, se ha apoyado la transición
+        hacia un Sistema Nacional de Salud, con el Ministerio de Salud Pública (MSP) como único
+        ente rector y varios proveedores organizados y coordinados entre sí, que deben
+        implementar un modelo de atención con énfasis en la prevención y la atención primaria,
+        la continuidad e integración de los servicios y su adaptación a las características de sus
+        usuarios. 12 Por su parte, en el Sector Justicia se permitió la renovación completa del
+        cuerpo de Gendarmes, contando ahora con personal profesional que es contratado por
+        concursos de mérito.
+2.31.   Finalmente, el modelo de intervención del proyecto en materia de productos para
+        desvinculación y renovación del talento humano ha sido continuado en
+        operaciones posteriores del Banco con el País, por ejemplo: (i) “Mejoramiento de la
+        calidad de los servicios públicos” EC-L1118 por US$270 millones de financiamiento BID,
+        año 2013; y (ii) Mejora en la calidad en la prestación de los servicios sociales en
+        preparación, EC-L1227 US$237.6 millones financiamiento BID.
+2.32.   En materia de productos, el diseño de la operación previó que en el componente 2 para
+        obtener los PIRIs implementados se incluyese, además del financiamiento de las
+        desvinculaciones para la optimización del talento humano, presupuesto asignado a la
+        elaboración de los PIRIs de las entidades priorizadas y a la implementación de tales
+        planes, los que debían seguir la orientación metodológica del Modelo R cuyo desarrollo
+        estaba regido por la SNAP.
+2.33.   En el año 2015, en el marco de la consultoría para la SNAP de evaluación del impacto de
+        la reforma institucional de la función ejecutiva, se elaboró un Informe de Avance
+        Implementación del Modelo R en las instituciones priorizadas. Para el efecto el Informe
+        abarcó 24 instituciones priorizadas, dentro de las cuales se encuentran las cuatro en las
+        que la intervención del proyecto permitió financiar desvinculaciones (Ministerios de
+12
+   Ver página 4 Propuesta de Préstamo EC-L1227.
+                                                   8
+"
+"          Educación, Salud, Justicia e Interior). Según el Informe y la metodología aplicada por
+          componente y por elemento transversal, las cuatro entidades se ubican en el promedio
+          general de avance en la implementación del Modelo del orden del 70%.
+2.34.     De las cuatro entidades mencionadas en las que se priorizaron inversiones en
+          desvinculaciones, el Ministerio del Interior también muestra productos de desarrollo
+          organizacional financiados por el programa: (i) el plan de carrera Técnico Profesional de
+          Puestos Clave de la Policía Nacional, que posibilitará la implementación de un innovador
+          sistema de carreras especializadas en la Policía; y (ii) la adquisición de equipos
+          tecnológicos (lectores biométricos y de pasaportes) para fortalecer el Sistema de
+          Migración del Ecuador. Además de las entidades mencionadas, otras tres entidades
+          presentan resultados organizacionales atribuibles al programa: Ministerio de Finanzas,
+          Ministerio de Trabajo y la Agencia de Regulación y Control Minero 13.
+2.35.     En materia de los resultados buscados por el programa, Alineación entre la acción
+          gubernamental y la estrategia del Gobierno mejorada y Perfil del Servicio Civil alineado a
+          las prioridades estratégicas del Gobierno, los datos de la Tabla 2 son positivos: 100% de
+          cumplimiento de la meta para el primer resultado y 79% en promedio de cumplimiento de
+          los tres indicadores del segundo resultado, en relación con las respectivas líneas de base.
+          Según los documentos de la operación, la medición de los indicadores debía provenir de
+          fuentes externas. Corresponde señalar que en el presente PCR tales indicadores no han
+          sido medidos a la finalización del proyecto sino en fechas intermedias: (i) El índice de
+          correspondencia entre programas presupuestales y los programas nacionales o
+          sectoriales está tomado de una evaluación SEP PRODEV BID del año 2013, cuyo
+          apartado para Ecuador se incluye como enlace electrónico; (ii) Los tres indicadores
+          referidos al Perfil del Servicio Civil corresponden al Diagnóstico Institucional del Servicio
+          Civil realizado en 2015 por el consultor Luciano Strazza del BID, documento que también
+          se incluye en enlace electrónico.
+2.36.     El Diagnóstico mencionado en el párrafo anterior, que utilizó igual metodología de análisis
+          que la aplicada para la línea de base de 2011, afirma: “Cuatro años más tarde se advierte
+          una evolución promedio importante en todas las medidas. Todos los índices de calidad
+          aumentaron entre 7 y 26 puntos, y los subsistemas entre 8 y 26 puntos (con la única
+          excepción de la Gestión del Rendimiento que mantuvo el mismo nivel de 2011). De este
+          modo, el ISC escaló de 21 a 41/100 puntos, ubicándose en un nivel medio-alto de
+          desarrollo y por encima del promedio regional (40 puntos). 14”
+2.37.     Los indicadores de impacto, Nivel de cumplimiento del Plan Nacional de Gobierno y
+          Satisfacción del usuario de servicios públicos, debían ser medidos de fuentes oficiales,
+          en el primer caso de informes de SENPLADES sobre el seguimiento del PND y en el
+13 El MF no presentó PIRI para aprobación del CGPI, sin embargo, se computan como inversiones del aporte fiscal
+   del programa una serie de proyectos enmarcados en el proceso de reforma institucional del Ministerio. El PIRI del
+   MDT, financió: (i) Firma/ Optimización de procesos sustantivos alineados al modelo de gestión; (ii) Bienes/
+   Licencias para el Centro de Contacto Telefónico del MDT; (iii) 41 Kioscos Completos para el Sistema de Turnos;
+   (iv) Firma/ Implementación del nuevo Modelo de Gestión Institucional. El PIRI de la Agencia de Regulación y Control
+   Minero, previa aprobación de la SNAP, canalizó la totalidad de los recursos hacia la implementación del Proyecto:
+   Interoperabilidad entre los Municipios y la Agencia de Regulación y Control Minero - ARCOM para el manejo del
+   Catastro Minero Nacional.
+14 El desarrollo actual del servicio civil ecuatoriano se encuentra por encima de la República Dominicana (39 puntos),
+   Nicaragua (35), El Salvador (34), Panamá (29), Paraguay (26), Guatemala (24), Bolivia (21) y Honduras (12). En
+   cambio, Chile (67), Brasil (65), Costa Rica (54), Uruguay (52) y Colombia (52) lo superan. Por su parte, México y
+   Perú presentan el mismo puntaje que Ecuador (41).
+                                                             9
+"
+"      segundo mediante informes de calidad de los servicios públicos de las encuestas
+      regulares SENPLADES-ENEMDU-INEC. Los datos de los mencionados indicadores que
+      se consignan en la Tabla 2 provienen de la evaluación intermedia del 2015 en el primer
+      caso y, en el segundo, de mediciones públicas del SIN oficial al año 2016. Aunque no se
+      ha realizado una evaluación de impacto específica del proyecto, ambos indicadores
+      muestran grados de avance del cumplimiento de metas del orden del 108,77% y del
+      84,46%, respectivamente.
+2.38. En el año 2016 la SNAP, por intermedio de la Dirección Nacional de Evaluación de la
+      Gestión de su Subsecretaria de Control y Evaluación de la Gestión, desarrolló y aplicó
+      una evaluación de la percepción ciudadana de los servicios públicos complementaria de
+      los resultados que venía mostrando el módulo calidad de los servicios públicos de
+      ENEMDU – INEC. Este trabajo, que se puede consultar en enlace electrónico al presente
+      PCR, estaría indicando un índice promedio de percepción del usuario (IPU) de 7.34 en
+      una escala de 0 a 10. Al constituir una medición que no tiene aún periodicidad, el indicador
+      consignado en el PCR se basa en el indicador pactado en los documentos de la
+      operación.
+2.39. Por último, dado que el programa estuvo estrechamente vinculado a las políticas públicas
+      de transformación institucional de la función ejecutiva del Estado, se incluye como enlace
+      electrónico el folleto SENPLADES “La Década Ganada” de enero 2017, donde en los
+      indicadores del capítulo referido al Estado se puede constatar el vínculo entre los
+      resultados del gobierno y los productos, resultados e impactos del programa cuya
+      terminación se reporta.
+                                               10
+"
+"                                                    Tabla 1. Matriz de Resultados Alcanzados 15
+                                                        Valor   de Año       de
+                                                                                  Metas y
+  Impacto/Indicador                                     Línea de línea de                        % Alcanzado Medios de verificación
+                                                                                  alcance real
+                                                        base         base
+  Impacto #1 Contribuir al cumplimiento de las metas del Plan Nacional de Desarrollo (PND)
+                                                                                  P      66                  Informe de seguimiento del PNBV
+  Indicador      #1.1     Nivel     de
+                                         %              36.37        2010         P(a) 66        108.77      2009 – 2013 SENPLADES, ver enlace
+  cumplimiento del PND
+                                                                                  A      68.6                Electrónico Evaluación Intermedia.
+  Impacto #2 Incrementar la satisfacción del usuario de los servicios públicos
+  Indicador #2.1 Satisfacción del                                                 P      7                   Informe de Calidad de los Servicios
+  usuario de los servicios públicos %                   5.07         2008         P(a) 7         84.46       Públicos SENPLADES ENEMDU
+  (Indicador en escala de 1 a 10)                                                 A      6.7                 INEC, junio 2016, ver enlace electrónico
+                                                        Valor de     Año de
+                                                                                  Metas        y %
+  Resultado/Indicador                                   Línea de     línea de                                Medios de verificación
+                                                                                  alcance real   Alcanzado
+                                                        base         base
+  Resultado #1 Alineación entre la acción gubernamental y la estrategia del gobierno mejorada
+                                                                                                             Evaluación SEP PRODEV BID año 2013
+                                                                                                             último dato disponible, “Construyendo
+  Indicador     #1.1     Índice      de
+                                                                                                             gobiernos       efectivos,      Resúmenes
+  correspondencia entre programas                                                 P      0.6
+                                         Índice         0.4          2008                        100.00      ejecutivos de los informes nacionales”,
+  presupuestarios y los programas
+                                                                                                             Ecuador, BID, ver enlace electrónico
+  nacionales o sectoriales
+                                                                                  P(a) 0.6
+                                                                                  A      0.6
+  Resultado #2 Perfil del Servicio Civil alineado a las prioridades estratégicas del Gobierno
+                                                                                  P      0.3
+  Indicador #2.1 Índice de coherencia
+                                         Índice         0.13         2011         P(a) 0.3       118.00      Consultoría especializada que aplicará el
+  del Servicio Civil
+                                                                                  A      0.33                Marco Analítico para el diagnóstico
+                                                                                  P      0.45                Institucional de sistemas S.C. (Longo).
+  Indicador    #2.2    Indicador     de
+                                         Índice         0.28         2011         P(a) 0.45      29.00       Último dato disponible Diagnóstico
+  capacidad funcional del servicio civil
+                                                                                  A      0.33                Institucional del Servicio Civil, 2015, BID,
+                                                                                  P      0.55                Luciano Strazza, ver enlace electrónico
+  Indicador #2.3 Indicador de Mérito
+                                         Índice         0.33         2011         P(a) 0.55      91.00
+  del Servicio Civil
+                                                                                  A      0.53
+15 Oficio Nro. SENPLADES-SSE-2017-0451-OF 26 de octubre de 2017 sobre Indicadores de Impacto.
+                                                                              11
+"
+"                                                     Valor de Año de
+                                                                               Metas y alcance        %
+  Producto 16                                        Línea de línea de                                                Medios de verificación
+                                                                               real                   Alcanzado
+                                                     base         base
+  Componente 1: Fortalecimiento del Marco Institucional para la Reforma
+  Producto #1 Mecanismo de                                                     P            1                         Cumplido mediante CAN/CEC-1201/
+  monitoreo de metas del PND         Mecanismo                                 P(a)         1         100.00          2014 del 14 de julio de 2014
+  fortalecido                                                                  A            1
+  Producto     #2    Sistemas     de                                           P            2                         Cumplido/ Interoperabilidad entre el
+  Planificación, Inversión Pública y Sistema                                   P(a)         2         100.00          e-SIGEF y SIPeIP comenzó en febrero
+  Presupuestos interoperados                                                   A            2                         2014 y está en optimización
+  Producto #3 Automatización del                                               P                                      Producto inactivo CAN/CEC-180/2016
+  Proceso Integral de Reestructura   Sistema                                   P(a)                                   Del 4 de febrero 2016
+  Implementada                                                                 A
+  Producto      #4     Herramientas                                            P            2
+  complementarias a la Norma         Herramientas                              P(a)         2         100.00
+  Técnica del Modelo R difundidas                                              A            2
+                                                                                                                      Cumplido 2014: 1170 participantes en
+  Producto #5 Personal del                                                     P            76
+                                                                                                                      el Congreso CLAD 2014
+  Secretariado del Comité y de la    Funcionarios                                                     100.00
+                                                                               P(a)         1230
+  Función Ejecutiva capacitado
+                                                                               A            1485
+                                                                               P            13                        Comunicaciones oficiales donde se
+  Producto #6 Proyectos de apoyo
+                                                                                                                      Reportan los hitos o proyectos
+  técnico a la Reforma Institucional Proyectos                                 P(a)         19        100.00
+                                                                                                                      cumplidos
+  implementados
+                                                                               A            19
+                                                                                                                      Producto cuya inactividad se solicitó en
+  Producto #7 Sistema de Gestión                                               P
+                                                                                                                      Informe semestral 2015 - 2
+  Estratégica del Talento Humano     Sistema
+                                                                               P(a)
+  (TH) implementado
+                                                                               A
+  Producto #8 Sub-sistema de                                                   P            1
+  Remuneración Variable de la        Sub-sistema                               P(a)         1         100.00
+  Función Ejecutiva implementado                                               A            1
+  Producto #9 Plan de mitigación                                               P            1                         Cumplido mediante
+  social implementado 17             Plan                                      P(a)         1         100.00          CAN/CEC/2352/2013
+                                                                               A            1
+                                                                               P            1
+  Producto #10 Norma Técnica del
+                                     Norma                                     P(a)         1         100.00          Norma emitida
+  Art. 130 de la LOSEP elaborada
+                                                                               A            1
+16 Donde: P = Programación inicial; P (a) = Meta Anual Revisada; A = Actual.
+17 Personas beneficiadas del plan (Total de personas afectadas dentro de este programa: 4571, grado de aceptación del programa 80%) de mitigación social.
+                                                                              12
+"
+"                                             Valor de     Año de
+                                                                     Metas y alcance        %
+Producto 16                                  Línea de     línea de                                    Medios de verificación
+                                                                     real                   Alcanzado
+                                             base         base
+Producto #11 Estudios para el                                        P            2
+fortalecimiento del Monitoreo de  Estudios                           P(a)         2         50.00
+la Reforma elaborados                                                A            1
+Personal del Comité de Reforma                                       P                                Producto inactivado
+                                                                                  0
+Institucional    capacitado    en Personal                           P(a)
+                                                                                  0
+planificación estratégica                                            A
+Normas legales referntes a                                                                            Producto inactivado
+                                                                     P
+reforma del estado y mecanismos                                                   0
+                                  Normas                             P(a)
+institucionales      para      su                                                 0
+                                                                     A
+implementación simplificadas
+Estudio para el Fortalecimiento                                      P                                Producto inactivado
+                                                                                  0
+del Instituto de la Meritocracia  estudio                            P(a)
+                                                                                  0
+elaborado                                                            A
+Componente 2: Elaboración e implementación de Planes de Inversión de Reforma Institucional (PIRIs)
+                                                                     P            11
+Producto #12 PIRIs aprobados
+                                  PIRIs                              P(a)         5         45.45
+por el Comité
+                                                                     A            5
+                                                                     P            1                   Cumplido 2016-2. Las inversiones
+                                                                     P(a)         1                   priorizadas por el PIRI del MINEDU
+Producto #13 PIRI del Ministerio
+                                  PIRIs                                                     100.00    (financiamiento de Procesos de
+de Educación implementado
+                                                                     A            1                   Optimización del Talento Humano)
+                                                                                                      fueron concluidas en el 2016.
+                                                                                                      Las inversiones priorizadas en el PIRI
+Producto #14 Planes de inversión                                                                      del MSP (financiamiento de Procesos
+                                                                     P            1
+de reforma institucional (PIRIs)                                                                      de Optimización del Talento Humano),
+                                  PIRIs                                                     100.00    fueron concluidas en el 2016.
+del     Ministerio    de    Salud
+implementado.                                                        P(a)         1
+                                                                     A            1
+                                                                    13
+"
+"                                           Valor de Año de
+                                                              Metas y alcance %
+Producto 16                                Línea de línea de                            Medios de verificación
+                                                              real            Alcanzado
+                                           base     base
+                                                                                        Cumplido 2016-2. Esta entidad no
+                                                                                        presentó PIRI para aprobación del
+                                                                                        CGPI. No obstante, los costos del
+                                                                                        personal desvinculado en los años
+                                                                                        2011 y 2012 financiado con recursos
+Producto #15 Planes de inversión                              P        1
+                                                                                        fiscales, se han incorporado como
+de reforma institucional (PIRIs)                              P(a)     1
+                                     PIRIs                                    100.00    costo del Proyecto en el PMR, por
+del    Ministerio    de    Justicia                           A        1
+                                                                                        tanto, debe considerarse como
+implementado
+                                                                                        cumplido como parte de los productos
+                                                                                        financiados 100% con recursos
+                                                                                        fiscales.
+                                                                                        Cumplido 2016-2. Esta entidad no
+                                                                                        presentó PIRI para aprobación del
+                                                                                        CGPI. No obstante, forma parte de las
+                                                                                        inversiones del aporte fiscal del
+Producto #16 Planes de inversión                              P        1
+                                                                                        programa una serie de proyectos
+de reforma institucional (PIRIs)                              P(a)     1
+                                     PIRIs                                    100.00    enmarcados en el proceso de reforma
+del     Min.      de      Finanzas                            A        1
+                                                                                        institucional del Ministerio; por tanto
+implementado.
+                                                                                        debe considerarse como cumplido
+                                                                                        como parte de los productos
+                                                                                        financiados 100% con recursos
+                                                                                        fiscales.
+Producto #17 Planes de inversión                              P        1
+de reforma institucional (PIRIs)                              P(a)     1
+                                     PIRIs                                    100.00
+del    Ministerio    del    Interior
+                                                              A        1
+implementado
+Producto # 18 Plan de inversión                                                         Producto inactivado
+                                                              P
+de reforma institucional (PIRI) del                                    1
+                                     PIRIs                    P(a)
+Ministerio de Recursos Naturales                                       0
+                                                              A
+No Renovables implementado
+                                                             14
+"
+"                                          Valor de Año de
+                                                             Metas y alcance %
+Producto 16                               Línea de línea de                            Medios de verificación
+                                                             real            Alcanzado
+                                          base     base
+                                                                                       Cumplido 2016-2. Previa aprobación de
+                                                                                       la SNAP se canalizó la totalidad de los
+                                                                                       recursos      del    PIRI    hacia    la
+                                                                                       implementación         del     Proyecto
+                                                                                       Interoperabilidad entre los Municipios y
+                                                                                       la Agencia de Regulación y Control
+Producto #19 Plan de inversión                               P
+                                                                      1                Minero - ARCOM para el manejo del
+de reforma institucional (PIRI) de                           P(a)
+                                    PIRIs                             1      100.00    Catastro Minero Nacional.
+la Agencia de Regulación y                                   A
+                                                                                       A diciembre se tenía un avance del
+Control Minero implementado
+                                                                                       71% (5/7 productos). Considerando el
+                                                                                       nivel de avance y previa coordinación
+                                                                                       con el BID el producto se considera
+                                                                                       como cumplido. La ARCOM ha
+                                                                                       notificado que en marzo de 2017 se
+                                                                                       cierra el contrato.
+Producto # 20 Plan de inversión                                                        Producto inactivado
+de reforma institucional (PIRI) de                           P
+                                                                      1
+la Agencia de Regulación y          PIRIs                    P(a)
+                                                                      0
+Control     de      Hidrocarburos                            A
+implementado
+Producto #21 Plan de inversión
+de reforma institucional (PIRI) del
+                                                             P        1
+Ministerio       de        Trabajo  PIRIs                                    100.00
+                                                             P(a)     1
+implementado
+                                                             A
+                                                                                       PIRI aprobado por el CGPI en
+                                                                                       Enero/2015. A pesar de las gestiones
+                                                             P                         realizadas por el Equipo de Gestión del
+                                                             P(a)     1                Ministerio de Finanza y la SNAP, no fue
+Producto #22 Plan de inversión
+                                                             A        0                posible concretar la implementación del
+de reforma institucional (PIRI) de                                           0
+                                    PIRIs                                              PIRI de la ARCSA. Una parte de los
+la Agencia de Regulación y
+                                                                                       recursos de este PIRI fueron
+Control Sanitario implementado
+                                                                                       transferidos al financiamiento de
+                                                                                       nuevos procesos de Optimización de
+                                                                                       Talento Humano y la otra parte fueron
+                                                                                       cancelados.
+                                                            15
+"
+"                  c. Análisis de Efectividad
+2.40.    Los resultados perseguidos por el proyecto (Mejora de la alineación entre la acción
+         gubernamental y la estrategia del Gobierno y Perfil del Servicio Civil alineado a las
+         prioridades estratégicas del Gobierno) responden a políticas de reforma del Estado (ver
+         resumen de las mismas) contenidas en el PND y que pueden sintetizarse como “Gestión
+         de Servicios” y “Optimización de Talento Humano”. En tal sentido, los productos del
+         proyecto confluyen con otras iniciativas complementarias para alcanzar los resultados.
+         De otra parte, al momento del PCR no se había llevado a cabo una evaluación de impacto
+         que se aproximase a la situación contrafactual no observable, es decir qué hubiera
+         sucedido sin la ejecución del programa.
+2.41.    Por último, dado que el programa estuvo estrechamente vinculado a las políticas públicas
+         de transformación institucional de la función ejecutiva del Estado, se incluye como enlace
+         electrónico el folleto SENPLADES “La Década Ganada” de enero 2017, donde en los
+         indicadores del capítulo referido al Estado se puede constatar el vínculo entre los
+         resultados del gobierno y los productos, resultados e impactos del programa cuya
+         terminación se reporta.
+2.42.    Para analizar la atribución de los resultados en función de las actividades y productos
+         específicos financiados por el programa, entre otros elementos, se ha tomado en
+         consideración la información detallada del PEP ejecutado por el proyecto que se adjunta
+         en enlace electrónico.
+2.43.    En materia de mejoramiento de la gestión de procesos de los servicios públicos (tercera
+         fase del Modelos R), la contribución del proyecto se dio a través del fortalecimiento del
+         marco institucional, principalmente por medio de la SNAP principal responsable de la
+         rectoría del cambio. En tal sentido dentro del componente 1 del proyecto se destacan los
+         productos listados en el párrafo 2.23 anterior que impactaron sensiblemente en la
+         racionalización de los procesos de gestión.
+2.44.    En cuanto a la optimización del talento humano contemplado en los PIRIs implantados
+         mediante el componente 2, se destaca:
+         a) Los datos de la Tabla A sobre desvinculaciones financiadas por el proyecto 18, muestra
+              que las mismas constituyen el 94% del financiamiento total del Banco, como ya se ha
+              dicho, al mismo tiempo que del total de 8,845 personas desvinculadas el 78% (6,890)
+              correspondieron a los sectores sociales de educación y salud (5,302 y 1,588,
+              respectivamente). Una tendencia que es similar a la que siguió la política de Estado
+              financiada por fuera del proyecto, según la mencionada evaluación de impacto sobre
+              desvinculaciones realizada para SNAP en 2015.
+         b) Los servicios de salud y educación son utilizados por más del 75% de la población,
+              siendo superados solamente por los servicios de Transporte Público (88%),
+              Documentación Ciudadana (83%) y Carreteras (77%). En tal sentido, los modelos
+              específicos para mejorar la calidad de ambos servicios incluyen la optimización del
+              talento humano, sustituyendo personal no ingresado por concurso, en edad de
+              jubilarse o sin satisfacer las condiciones mínimas requeridas, por personal nuevo
+              seleccionado mediante concursos de oposición y mérito y sujetos a carreras
+18 Las modalidades de desvinculación en cumplimiento de las leyes incluyeron: jubilación, compra de renuncias,
+   despido intempestivo, supresión de puestos, jubilación por invalidez, desahucio y renuncia voluntaria.
+                                                         16
+"
+"              meritocráticas y a evaluación periódica. Es decir, talento humano no igual ni inferior
+              al representado por el personal desvinculado, según lo explicita la política
+              gubernamental en la materia.
+          c) Según la evaluación de impacto de las desvinculaciones que se viene comentando, a
+              fines de 2014, las personas desvinculadas de ambos sectores, contra todas las
+              fuentes de financiamiento, sumaban 25,110 (21,851 educación y 3,259 salud), lo que
+              implica que la importancia relativa de las desvinculaciones computadas al programa
+              estaría representando, a esa fecha, más de la cuarta parte de las desvinculaciones
+              de ambos sectores, lo que da una idea del impacto del proyecto en la política de
+              optimización del talento humano, sin computar el financiamiento otorgado por otras
+              operaciones del Banco para la misma finalidad.
+          d) La política de optimización del talento humano y mejora del servicio apoyada por el
+              proyecto, muestra como efectos indirectos atribuibles: (i) el índice de calificación a la
+              educación pública según el SNI de SENPLADES evolucionó de 6.49 en 2012 a 6.83
+              en 2017; (ii) el mismo índice para salud pública subió de 5.84 en 2012 a 6.12 en 2017;
+              (iii) en 2006 los estudiantes ecuatorianos se encontraban sustancialmente por debajo
+              del promedio regional en su desempeño en lenguaje y matemáticas en 3º y 6º grado
+              (SERCE), en 2013 habían alcanzado un desempeño similar al promedio
+              latinoamericano en la prueba TERCE (BID, 2017); (iv) en 2012 se introdujo con apoyo
+              del Banco el Modelo de Atención Integral en Salud (MAIS) expandiéndose en forma
+              sustancial la cobertura de los servicios a la población y aumentando la utilización de
+              los mismos 19; (v) la cobertura de la prestación de servicios públicos en ambos
+              sectores se amplió notoriamente en el decenio posterior al 2006, período durante el
+              cual se ejecutó el programa. Por ejemplo, el número de médicos por cada 10,000
+              habitantes pasaron de 9 en el año 2006 a 18 en 2015; por su parte la matrícula
+              estudiantil pública creció 54% entre los años lectivos 2007-2008 y 2015-2016 mientras
+              que la matrícula privada se incrementó solo un 11%. 20.
+19 Incremento de controles prenatales, de parto institucional y de consultas ambulatorias en el primer nivel de
+   atención pública, etc.
+20 Publicación de SENPLADES 10 años de revolución ciudadana.
+                                                          17
+"
+"2.45. Por último, la atribución de resultados debe compartirse con otras operaciones del Banco
+      que han seguido similar enfoque, como es el caso del Programa de Mejoramiento de la
+      Calidad de los Servicios Públicos, Préstamo 3073/OC-EC, aprobado en diciembre 2013
+      siguiendo un esquema similar al de la operación cuya terminación se reporta,
+      principalmente en cuanto a la optimización del talento en el sector público. La tabla B
+      muestra que, desde el punto de vista del financiamiento, ambos préstamos 2653/OC-EC
+      y 3073/OC-EC vinculados del Banco representaron el 43% del costo total del programa
+      gubernamental, lo que permite afirmar, al menos en el objetivo de optimizar el talento
+      humano, que los resultados son atribuibles en gran medida al impacto de ambas
+      operaciones.
+          Tabla B. Programa gubernamental de Reforma Institucional de la Gestión Pública – Financiamiento total por fuentes
+                                        PRÉSTAMOS             PRÉSTAMO         TOTAL
+                  RECURSOS                                                                        PRESTAMOS
+           AÑOS                         EXTERNOS BID           EXTERNOS BID 2 PRÉSTAMOS                          TOTAL
+                  FISCALES (PGE)                                                                  INTERNOS
+                                        2653/OC-EC            3073/OC-EC         EXTERNOS BID
+          2011        110.548.715                        -                 -                -    -                    110.548.715
+          2012     194.676.822                  156.969.927              -          156.969.927   -                 351.646.749
+          2013         147.098.503               41.506.547       27.000.000        68.506.547    -                 215.605.049
+          2014             88.463.106            16.700.719      145.460.200       162.160.919      18.430.575        269.054.600
+          2015    75.330.639                     19.037.296       80.820.400         99.857.696     36.861.150       212.049.485
+          2016         3.645.571                 15.717.155        10.472.400        26.189.555     18.430.575         48.265.701
+          2017              1.620.243               68.356          6.247.000        6.315.356            -            7.935.599
+          2018            280.000                        -              -                 -               -              280.000
+          TOTAL          621.663.597            250.000.000       270.000.000     520.000.000       73.722.300     1.215.385.897
+           Fuente: Ministerio de Relaciones Laborales según resumen del programa de SENPLADES
+2.46. En conclusión, si bien los resultados alcanzados no son atribuibles en un 100% al
+      programa, éste fue un instrumento significativo al menos al viabilizar la optimización del
+      talento humano que parece estar sustentando los logros en dos de los sectores
+      prioritarios de las políticas públicas en Ecuador: Salud y Educación.
+               d. Resultados inesperados
+2.47. No se identificaron resultados imprevistos como consecuencia de la ejecución de la
+      operación que no hayan sido incluidos en los documentos de diseño y que hayan tenido
+      una magnitud importante en términos de relevancia y de atribución al proyecto.
+ 2.3  Efficiencia
+2.48. Durante el diseño de la operación se había realizado un Análisis Beneficio – Costo (ABC)
+      o análisis costo/beneficio en la terminología del Banco, el cual se encuentra disponible
+      para consulta en los enlaces electrónicos del documento de propuesta al Directorio. El
+      análisis se practicó con base en los parámetros metodológicos generales establecido en
+      aquella época para el Sistema de Inversión Pública de Ecuador.
+2.49. El mencionado estudio había concluido en que, a precios sociales (sin incluir impuestos),
+      con una tasa social de descuento del 11% y un horizonte de evaluación de 10 años, el
+      Valor Actual Neto (VAN) del programa era de US$60.4 millones para una Tasa Interna de
+      Retorno (TIR) del 24%, todo lo que avalaba la viabilidad y conveniencia de ejecutar el
+      programa.
+2.50. El ABC que se comenta había identificado como beneficios económicos esperados del
+      proyecto: (i) Mejora de los servicios públicos que se manifestaba en una disminución de
+                                                             18
+"
+"           tiempos de demora en la prestación de servicios y realización de trámites administrativos
+           ante la totalidad de las entidades de la función ejecutiva, estimándose la disminución
+           promedio en 30 minutos, es decir la mitad del tiempo promedio previo, con un beneficio
+           unitario dado por la mitad del valor hora del salario básico fijado en US$2.28 la hora para
+           aquella época (es decir US$1.14 de beneficio social por trámite); (ii) Liberación de
+           recursos por eliminación de sobre posición de funciones 21 y por la desvinculación de
+           personal no necesario, lo que generaría en las instituciones la capacidad de aplicar los
+           recursos liberados a mejorar otros servicios prioritarios (educación y salud, entre otros);
+           y (iii) Eliminación de pagos indebidos como consecuencia de la implementación de un
+           sistema de información para gestionar el talento humano, lo que daría transparencia al
+           tema de registro de personal y liquidación de nóminas, cálculo que asumía que el 1% de
+           los trabajadores en nómina luego de las desvinculaciones seguirían constituyendo pagos
+           indebidos.
+2.51.      A fines de 2013, el anexo de Análisis Económico para la aprobación por el Banco del
+           Programa de Mejoramiento de la Calidad de los Servicios Públicos, Préstamo 3073/OC-
+           EC, en referencia al proyecto cuya terminación se reporta, señaló: “El Programa tiene 2
+           años de ejecución y de la realización de la Evaluación Intermedia sigue siendo rentable
+           socialmente con un VAN de US$ 18.9 millones y una TIR de 14%, y se concluye que debe
+           seguir siendo ejecutado, sin embargo no puede seguir habiendo cambios ni retrasos. Lo
+           más resaltante de los avances de acuerdo a la evaluación intermedia es que i) en materia
+           de la desvinculación de personal no necesario y los gastos operativos asociados a ello,
+           se han generado un VAB de US$ 181 millones; ii) es necesario reforzar los avances en
+           la mejora de los servicios.”
+2.52.      A la finalización del programa a principios de marzo 2017, el tercer beneficio previsto por
+           eliminación de pagos indebidos no tuvo concreción ya que el instrumento causal, el
+           Sistema de información de la Gestión del Talento Humano (TH), fue descontinuado en
+           febrero 2016 por resolución del Comité de Gestión Pública Interinstitucional. En
+           consecuencia, los beneficios económicos quedaron restringidos a la Mejora de los
+           Servicios Públicos y a la Liberación de Recursos.
+2.53.      El análisis económico de costo beneficio por concepto de mejora de los servicios públicos
+           había asumido que se reduciría en 30 minutos la demora en la prestación de un servicio
+           al público, tomando como base de cálculo del VAN 400 servicios administrativos diarios
+           por cada una de las 147 instituciones consideradas para un total de 240 días laborables
+           al año. Con el fin de poner en marcha el plan de simplificación, en el año 2013 se creó el
+           Comité de Trámites Interinstitucionales el que, ya en 2014, puso en marcha el portal
+           “Tramiton” (www.tramiton.to) con la finalidad de concretar el levantamiento de todos los
+           procesos y trámites que resultaban engorrosos para la ciudadanía y que en función de la
+           demanda dieran lugar a un plan nacional de simplificación (PNST).
+2.54.      La simplificación significativa de los trámites por vía del PNST se concretó en los años
+           2015 y 2016 y, según informe de la Dirección Nacional de Servicios y Procesos de
+           la SNAP del 16 de mayo de 2017, se obtuvieron los resultados que se resumen en la
+           Tabla C.
+21 En estricto sentido el programa no tuvo incidencia en la eliminación de las super posición de funciones cuando la
+   misma se originaba en supresión de entidades, solo incidió en el diseño e implementación de los PIRIs
+   institucionales.
+                                                         19
+"
+"                                             Tabla C Resultados PNST 2015 y 2016
+                                                                           Línea Base    Resultado
+             Concepto                                                                                      Beneficio
+                                                                           2014          Fines 2016
+             Instituciones comprendidas                                    93            93                n/a
+             Trámites individuales simplificados                           751           751               n/a
+             Número requisitos o soportes promedio del trámite             6             3                 3
+             Tiempo de respuesta horas laborables promedio                 190           96                94
+             Interacciones promedio ciudadano institución por trámite 2.8                1.5               1.3
+2.55.     Dado que los beneficios por eliminación de pagos indebidos no se produjo como
+          consecuencia de la ejecución del programa y que la información de los resultados del
+          plan nacional de simplificación de trámites de SNAP no tiene la robustez necesaria para
+          expandir beneficios, la evaluación económica ex post que soporta al PCR en materia de
+          eficiencia se centrará en los beneficios y costos de los resultados alcanzados, proceso
+          de desvinculación, con la optimización del talento humano en los sectores de educación
+          y salud, productos hacia los cuales se aplicaron la mayor parte de los recursos del
+          programa.
+2.56.     El modelo de evaluación de efectos del programa en el sector educación se basa en tres
+          indicadores principales: (i) Efecto cantidad, que representa el aumento de cobertura
+          derivado de incrementar la productividad, es decir, con un mismo valor de masa salarial
+          se aumenta el número de estudiantes que acceden a la educación; (ii) Efecto calidad,
+          estimado a largo plazo según la hipótesis que una persona educada en la mayoría de las
+          circunstancias logra un mejor ingreso respecto de quien no completa la educación
+          secundaria; y (iii) Efecto costo, generado por la reducción en el gasto salarial que se
+          logra por la reducción del número neto de docentes y porque el salario de los docentes
+          que se incorporan es inferior al de los docentes desvinculados 22.
+2.57.     Por su parte, el modelo de análisis que el estudio contiene para el sector salud, al igual
+          que en la evaluación del sector educativo, se basa en Efecto cantidad de profesionales
+          médicos; Efecto calidad, en la prestación de servicios y, por último, el Efecto costos
+          involucrados en la prestación de tales servicios.
+2.58.     El detalle de los supuestos usados en los análisis y las evaluaciones resultantes en cada
+          uno de los efectos, constan en el documento “Evaluación Económica Ex Post – Programa
+          de Reforma Institucional de la Gestión Pública – Contrato No. 2653/OC-EC”, de
+          noviembre de 2017.
+2.59.     Para el sector educativo, el resultado de la evaluación económica ex post del gasto en
+          desvinculaciones, combinando los tres efectos del caso, muestra una TIR en todos los
+          escenarios, aun cuando el porcentaje de nuevos docentes supere a los desvinculados
+          (Escenario 6 con 103% de reemplazo) superior al 11% que fue la tasa de descuento que
+          justificó la operación al momento de su preparación y, en el mejor de los escenarios con
+          una tasa de reemplazo del 50%, una TIR de 20% para un valor actual neto de US$189.7
+          millones.
+22 Si bien este efecto de reducción del gasto salarial no fue el objetivo del programa, igual se analizó para cuantificar
+   los efectos en caso de que el reemplazo de los docentes no se hubiese dado según lo previsto.
+                                                           20
+"
+"2.60. El análisis ex post en el sector salud implicó desarrollar un modelo específico, ya que los
+      gastos salariales, pese a las desvinculaciones, se incrementaron tanto por efecto de
+      cantidad de médicos como por incremento salarial sensible. El modelo adoptó un análisis
+      beneficio costo asumiendo como beneficio el aumento de cobertura en servicios de salud
+      relacionado con incremento de consultas médicas como consecuencia del incremento en
+      el número y la duplicación de la jornada diaria que pasó de 4 a 8 horas. La mayor oferta
+      de servicios no fue acompañada por el incremento de las consultas las que, en promedio,
+      solo aumentaron un 40%, por lo que el beneficio económico se consideró como el costo
+      evitado de atenderse privadamente. Esos beneficios se restan del total de gastos
+      salariales incrementados para concluir en el beneficio neto. El resultado indica que los
+      resultados no alcanzarían la tasa de descuento del costo social de oportunidad, 11%, sólo
+      cuando el costo de una consulta privada médica sea inferior a US$33, circunstancia de
+      baja probabilidad dado el contexto económico dolarizado del País y su grado de apertura.
+      En conjunto la evaluación económica ex post de ambos sectores concluye en la eficiencia
+      del programa, considerando la tasa de descuento de la evaluación inicial, 11%, tal como
+      se comprueba en la documentación de soporte al presente PCR.
+                                               21
+"
+"Table 2 Costs of the Project 23
+ PROGRESO FINANCIERO DE LOS PRODUCTOS (US$)
+                                                                  Costo revisado del componente
+ Componente No.1: Fortalecimiento del Marco Institucional para la
+ Reforma
+                                                                  11,573,563.94
+ Producto                                                         2011            2012          2013   2014         2015          2016           EOP 2017
+ 1.1        1 - Mecanismo de monitoreo    Mecanismo     P                                                                                        0
+            de metas del Plan Nacional
+            de       Desarrollo    (PND)                P(a)                                                                      0              0
+            fortalecido.
+                                                        A         0               0             0      0            0             0              0
+ Producto                                 Unidad     de           2011            2012          2013   2014         2015          2016           EOP 2017
+                                          Medida
+ 1.2        5      -     Personal     del Funcionarios  P                                       20,000 30,000       51,000                       101,000
+            Secretariado del Comité y de
+            la      Función     Ejecutiva               P(a)                      8,000         20,000 589,945      245,028.25    99,500         516,317.7
+            capacitado
+                                                        A         0               0             40,705 205,759.45   170,353.25    99,497.75      516,315.45
+ Producto                                 Unidad     de           2011            2012          2013   2014         2015          2016           EOP 2017
+                                          Medida
+ 1.3        2      -     Sistemas      de Sistema       P                                                                                        0
+            Planificación,      Inversión
+            Pública y Presupuestos Inter                P(a)                                                                      0              0
+            operados
+                                                        A         0               0             0      0            0             0              0
+23 For multiphase projects, a separate cost table should be prepared for each phase. For PBLs, the decomposition of costs per component is not required.
+                                                                                        22
+"
+"Producto                               Unidad    de      2011 2012      2013      2014       2015         2016         EOP 2017
+                                       Medida
+1.4      7- Sistema de información     Sistema      P                   1,842,000 1,981,196                            3,823,196
+         de la Gestión del Talento
+         Humano (TH) implementado                   P(a)                1,842,000 360,900    133,396.9    44,400       97,520.93
+                                                    A    0    0         0         8,299.1    44,821.83    38,400       91,520.93
+Producto                               Unidad    de      2011 2012      2013      2014       2015         2016         EOP 2017
+                                       Medida
+1.4      9 - Plan de mitigación social Plan         P                   693,196   1,806,804                            2,500,000
+         implementado
+                                                    P(a)                693,196                           0            0
+                                                    A    0    0         0         0          0            0            0
+Producto                               Unidad    de      2011 2012      2013      2014       2015         2016         EOP 2017
+                                       Medida
+1.5      11 - Estudios para el         Estudios     P                             150,000                 150,000      300,000
+         Fortalecimiento           del
+         Monitoreo de la Reforma                    P(a)      200,000             150,000    89,000       228,800      301,940
+         elaborados
+                                                    A    0    0         0         1,940      71,200       17,800       90,940
+Producto                               Unidad    de      2011 2012      2013      2014       2015         2016         EOP 2017
+                                       Medida
+1.6      8     -    Subsistema      de Subsistema   P         732,423   394,381                                        1,126,804
+         Remuneración Variable de
+         la      Función     Ejecutiva              P(a)                394,381                           0            1,126,804
+         implementado
+                                                    A    0    732,423   394,381   0          0            0            1,126,804
+Producto                               Unidad    de      2011 2012      2013      2014       2015         2016         EOP 2017
+                                       Medida
+1.7      6 -Proyectos de apoyo         Proyectos    P         65,472    2,830,634 4,062,834  1,691,060                 8,650,000
+         técnico a la Reforma
+         Institucional                              P(a)                2,830,634 1,749,882  2,056,581.8  5.740.110.26 9.429.981.31
+                                                    A    0    65,472    489,682   935,608.32 2,199,108.73 5.535.513.77 9.225.384.82
+                                                                     23
+"
+"Producto                                  Unidad    de                2011            2012          2013       2014        2015          2016         EOP 2017
+                                          Medida
+1.8         4               -Herramientas Herramientas  P                                           110,000    245,000                                355,000
+            Complementarias de la
+            Norma Técnica del Modelo                    P(a)                          0             110,000    62,264      125,000       0            101,000
+            R difundidas.
+                                                        A             0               0             0          0           101,000       0            101,000
+Producto                                  Unidad    de                2011            2012          2013       2014        2015          2016         EOP 2017
+                                          Medida
+1.9         10 Norma Técnica del          Norma         P                                                                                             0
+            Art.130 de la LOSEP
+            elaborada                                   P(a)                                                                                          0
+                                                        A                                                                                             0
+                                                                      Costo revisado del Componente
+Componente No..2: Elaboración e implementación de Planes de Inversión
+de Reforma Institucional (PIRIs)
+                                                                      394,988,650.95
+Producto                                  Unidad    de                2011            2012          2013       2014        2015          2016         EOP 2017
+                                          Medida
+2.1         12- PIRIs aprobados por el    PIRIs         P                             45,149        545,349    2,319,422   3,000,000                  5,909,920
+            Comité de Gestión Pública
+            Interinstitucional.                         P(a)                                        545,349    470,888     14,787        4,066,391.25 4,349,247.77
+                                                        A             0               45,149        146,618    83,301.93   7,787.59      7,000        289,856.52
+Producto                                  Unidad    de                2011            2012          2013       2014        2015          2016         EOP 2017
+                                          Medida
+2.2         13 -Planes de inversión de    PIRIs         P                             150,185,189   40,760,159 2,620,770   4,105,873     1,409,997    199,081,988
+            reforma institucional (PIRIs)
+            del Ministerio de Educación                 P(a)                          203,106,336   40,760,159             22,609,830.1  7,844,702.71 221,809,799.07
+            implementado.
+                                                        A             0               150,185,189   40,160,899 2,628,205.9 20,990,802.46 9,575,767.39 223,540,863.75
+                                                                                             24
+"
+"Producto                                Unidad   de      2011 2012        2013    2014      2015      2016         EOP 2017
+                                       Medida
+2.3      14 - Planes de inversión de   PIRIs        P         108,020,241 500,000 3,931,155 2,620,770 1,683,975    116,756,141
+         reforma institucional (PIRIs)
+         del Ministerio de Salud                    P(a)                  500,000                     0            108,020,241
+         implementado.
+                                                    A    0    108,020,241 0       0         0         5,827,405.53 113,847,646.53
+Producto                                Unidad   de      2011 2012        2013    2014      2015      2016         EOP 2017
+                                       Medida
+2.4      15- Planes de inversión de    PIRIs        P         28,770,943  300,000 2,620,770 1,447,179              33,138,892
+         reforma institucional (PIRIs)
+         del Ministerio de Justicia                 P(a)                  300,000                     0            28,770,943
+         implementado.
+                                                    A    0    28,770,943  0       0         0         0            28,770,943
+Producto                                Unidad   de      2011 2012        2013    2014      2015      2016         EOP 2017
+                                       Medida
+2.5      16- Planes de inversión de    PIRIs        P                     533,000 1,417,237 411,824                2,362,061
+         reforma institucional (PIRIs)
+         del Ministerio de Finanzas                 P(a)                  533,000                     0            907,526
+         implementado.
+                                                    A    0    0           907,526 0         0         0            907,526
+Producto                                Unidad   de      2011 2012        2013    2014      2015      2016         EOP 2017
+                                       Medida
+2.6      17 -Planes de inversión de    PIRIs        P         25,664,594  0       2,620,770 1,747,180 1,455,983    31,488,527
+         reforma institucional (PIRIs)
+         del Ministerio del Interior                P(a)                  0                 375,200   890,620      26,555,214
+         implementado.
+                                                    A    0    25,664,594  0       0         0         776,752.87   26,441,346.87
+Producto                                Unidad   de      2011 2012        2013    2014      2015      2016         EOP 2017
+                                       Medida
+2.7      19 - Plan de inversión de     PIRI         P                                                              0
+         reforma institucional (PIRI)  implementado
+         de la Agencia de Regulación                P(a)                                    174,448   174,000      174,000
+         y       Control       Minero
+         implementado                               A    0    0           0       0         0         174.000      174.000
+                                                                     25
+"
+"Producto                                  Unidad   de      2011 2012      2013    2014      2015       2016        EOP 2017
+                                         Medida
+2.8         21- Plan de inversión de     PIRI         P                                                            0
+            reforma institucional (PIRI) implementado
+            del Ministerio de Trabajo                 P(a)                                  242,500    1,665,873.7 1,665,873.7
+            implementado
+                                                      A    0    0         0       0         0          450,373.69  450,373.69
+Producto                                  Unidad   de      2011 2012      2013    2014      2015       2016        EOP 2017
+                                         Medida
+2.9         22- Plan de inversión de     PIRI         P                                                            0
+            reforma institucional (PIRI) implementado
+            de la Agencia de Regulación               P(a)                                  385,000    2,339,715   2,339,715
+            y      Control     Sanitario
+            implementado                              A    0    0         0       0         0          0           0
+Otros Costos
+                                                           2011 2012      2013    2014      2015       2016        Costo
+             Equipo    de                             P         141,902   240,000 305,755   247,872    168,006     1,103,535
+            Gestión
+                                                      P(a)      224,101   240,000 265,714   215,941    330,750.98  1,097,516
+                                                      A         141,902   201,616 233,975.5 189,271.52 240.240     1.007.005,02
+             Auditorías                               P         42,000    103,000 67,800    64,200     55,000      332,000
+            concurrentes
+                                                      P(a)      110,000   103,000 90,000    14,990     22,740      198,275
+                                                      A         42,000    89,050  34,195    10,290     47.380      222.915
+             Evaluación                               P                                                150,000     150,000
+            ex post
+                                                      P(a)                                             15,000      15,000
+                                                      A                                     0          0           0
+Costo Total
+                                                                       26
+"
+"                                                              2011            2012        2013       2014        2015          2016          Costo
+                                                 P                            313,667,913 48,871,719 25,097,513  15,386,958    5,072,961     408,097,064
+                                                 P(a)                         203,720,437 48,871,719 3,814,593   27,030,555.05 23,858,695.31 407,873,005.89
+                                                 A                            313,667,913 42,430,477 4,131,285.2 23,784,635.38 22.790.131    406.804.441,58
+ Costos en PMR 2653 con período de cierre EFAS Finales oct 2017 remitidos a SPD.
+Note: The costs include both IDB and Local Counterpart amounts and must be consistent with the information presented in the last PMR report. If
+there is any inconsistency in the data, the PCR document must be rejected for correction.
+                                                                                    27
+"
+" 2.4  Sustainability
+               a. General Sustainability Aspects
+2.61. El Decreto Ejecutivo No. 1212 de 14 de octubre de 2016 suprimió el Comité de Gestión
+      Pública Interinstitucional que había jugado un rol determinante en la ejecución del
+      programa desde la efectividad del préstamo en diciembre 2011. Asimismo, el Decreto
+      derogó el Acuerdo Interministerial No. 996 de 15 de diciembre 2011 que había emitido la
+      Norma Técnica de Reestructuración de la Gestión Pública Institucional, remitiendo sus
+      componentes a la normativa e instrumentos técnicos y metodológicos que emitiría la
+      SNAP de ahí en más.
+2.62. En mayo de 2017, habiendo asumido ya las nuevas autoridades gubernamentales, uno
+      de los primeros actos de gobierno fue emitir el Decreto Ejecutivo No. 5 del 24 de mayo
+      que en su Artículo 1.- suprimió la Secretaría Nacional de Administración Pública, SNAP,
+      para luego transferir y distribuir sus atribuciones entre la Secretaría General de la
+      Presidencia de la República, la Secretaría Nacional de Planificación y Desarrollo
+      (SENPLADES), el Ministerio de Telecomunicaciones y de la Sociedad de la Información
+      y el Ministerio de Trabajo.
+2.63. Las decisiones jurídicas anteriores transforman sustancialmente el marco institucional de
+      la reforma cuyo fortalecimiento había sido la razón de ser del componente 1 del Proyecto.
+      En efecto, la nueva distribución de responsabilidades sobre las áreas de acción en las
+      que el programa tuvo incidencia, a manera de ejemplo, hacia el futuro inmediato implican:
+      (i) la Secretaría General de la Presidencia de la República asume, entre otras, las
+      funciones de asesorar al Presidente en materia de administración y gestión pública, emitir
+      políticas generales para la efectiva gestión de la Administración Pública e Imagen
+      Gubernamental, ejercer la rectoría del gobierno electrónico de la Función Ejecutiva y
+      presidir el Comité de Simplificación de Trámites Interinstitucionales, cuya integración
+      también se modifica, bajo la rectoría de la Presidencia de la República; (ii) SENPLADES
+      asume la responsabilidad de emitir políticas generales para la innovación y
+      reorganización institucional de Administración Pública Central, Institucional y otras
+      entidades que dependan de la Función Ejecutiva (APCID) y, en el marco de sus
+      competencias, realizar el control técnico y evaluación de la gestión de los planes,
+      programas y proyectos de la APCID; (iii) el Ministerio de Telecomunicaciones y de la
+      Sociedad de la Información gestiona la política y directrices para la implementación del
+      gobierno electrónico y desarrolla y coordina los planes, programas y proyectos en la
+      materia; (iv) el Ministerio de Trabajo es responsable de la metodología para la gestión
+      institucional y herramientas de gestión por procesos y prestación de servicios públicos de
+      la APCID, promueve los proyectos de excelencia y mejora de la gestión institucional, de
+      innovación para la gestión pública y estandarización en procesos de calidad y excelencia
+      así como la evaluación de las entidades en tales materias.
+2.64. Los procesos de transformación del Estado son de naturaleza compleja, de mediano y
+      largo plazo y requieren de apoyo político al más alto nivel. Por tal razón, las recientes
+      transformaciones del marco institucional de rectoría, que incluyen políticas transversales
+      como el gobierno electrónico, fortalecen el apoyo político de alto nivel, lo que fortalece la
+      sostenibilidad de los resultados alcanzados.
+2.65. El carácter reciente de las transformaciones institucionales ha impedido una evaluación
+      y valoración de los riesgos implícitos, pero sin duda es altamente probable que en el corto
+      plazo se genere incertidumbre para las entidades públicas en cuanto a las líneas rectoras
+      del proceso de reforma, habida cuenta de los múltiples actores con injerencias
+                                                28
+"
+"      transversales y la ausencia de instancias coordinadoras.
+2.66. La mitigación del riesgo identificado, una vez se haya profundizado su evaluación, podría
+      incluir la revisión detallada de las atribuciones establecidas, la posibilidad de incluir
+      instancias de diálogo interdisciplinario y de coordinación e, inclusive, una flexibilización
+      de los controles previos que se prevén para los organismos rectores de los procesos de
+      gestión del cambio. Asimismo, cabría promover una definición del estilo de gestión del
+      cambio, ya que las modificaciones comentadas hacen a los aspectos formales y no
+      necesariamente a la sustancia de las materias.
+2.67. En cuanto a los resultados a nivel institucional alcanzados mediante la ejecución de los
+      PIRIs y de las estrategias de desvinculación y renovación del talento humano que
+      impulsara el programa, los mismos parecen sostenibles principalmente en los sectores
+      sociales, salud y educación, ya que se enmarcan en procesos de cambio sustantivos que
+      aparecen consolidados, tanto en las normas como en la realidad de la cobertura y calidad
+      de los servicios prestados. De otra parte, en ambos sectores, el Banco tiene operaciones
+      específicas de apoyo cuyos componentes por definición deberían estar mitigando los
+      riesgos de sostenibilidad de lo ya alcanzado.
+2.68. Finalmente, los eventuales riesgos para la sostenibilidad de los resultados de servicios
+      públicos mejorados en los sectores sociales tienen medidas de mitigación implícitas en el
+      Programa de Mejoramiento de la Calidad de los Servicios Públicos, proyecto EC-L1118
+      aún en ejecución, y en el Programa de fases múltiples Mejora de la Calidad en la
+      Prestación de los Servicios sociales, proyecto EC-L1227 en proceso de ejecución.
+               b. Environmental and Social Safeguards
+2.69. La operación había sido clasificada como Categoría “C” en materia de riesgos
+      ambientales y sociales y a la terminación que se informa se evalúa que dicha clasificación
+      fue adecuada.
+2.70. En materia de Salvaguardia social el programa contempló desde su diseño y ejecutó un
+      plan de mitigación (capacitación y adiestramiento) y búsqueda de oportunidades de
+      empleo, orientación para formación de empresas y monitoreo de la situación ocupacional
+      de los ex funcionarios públicos. (4,687 beneficiarios del plan de mitigación).
+      III. NON-CORE CRITERIA
+ 3.1  Bank Performance
+3.2   Supervisión del Programa: Se dio a través de la revisión conjunta y periódica con el EDG
+      y el manejo de las herramientas de gestión del proyecto (esto es del Plan de ejecución,
+      plan operativo anual, matriz de resultados, plan de adquisiciones, matriz de riesgos), de
+      los reportes de progreso semestral, visitas de supervisión técnicas y financieras, misiones
+      de administración y reuniones de Cartera con el Ministerio de Economía y Finanzas y el
+      ejecutor; así como la revisión de informes de auditoría externa (de los Estados financieros
+      como de los informes de aseguramiento sobre rubros de indemnizaciones). Resultado
+      de las revisiones se han podido identificar problemas y riesgos en la implementación del
+      Programa, los cuales fueron superados con acciones consensuadas, dando como efecto
+      el cumplimiento de la matriz de resultados.
+                                               29
+"
+"3.3   Con fondos de supervisión se financió algunas actividades para apoyar al cumplimiento
+      de los resultados y productos del proyecto, tales como la realización de: i) Diagnóstico
+      Institucional del Servicio Civil, ii) asistencia técnica especializada para revisión de todos
+      los TDRs de las inversiones en tecnología, iii) acompañamiento al EDG para el diseño de
+      la evaluación final del proyecto, iv) talleres de adquisiciones para funcionarios del EDG
+      y para miembros de los Comités de adquisiciones, v) creación de biblioteca virtual con la
+      documentación generada por el programa, vi) talleres de identificación y valoración de
+      riesgos con los diversos actores; vii) Evaluación Económica ExPost del Programa.
+ 3.2  Borrower Performance
+3.4.  EL Programa durante su implementación mantuvo una evaluación de desempeño en
+      Satisfactorio en todos los períodos, lo cual evidencia la adecuada gestión por parte del
+      organismo ejecutor y la implementación de acciones oportunas frente a problemas y
+      riesgos. Sin embargo, los múltiples cambios de autoridades en SNAP y en las diferentes
+      instituciones beneficiarias forzaron al equipo de gestión a una reprogramación frecuente
+      de productos, lo cual atrasó la implementación de la operación.
+3.5.  Para la implementación del Proyecto en el MEF se conformó un Equipo de Gestión (EDG)
+      conformado por un Coordinador General del Programa, un especialista de adquisiciones,
+      un especialista de monitoreo y seguimiento y un especialista financiero; todos con perfil
+      adecuado que contribuyó a la implementación del proyecto; es importante destacar que
+      el equipo fue el mismo durante todo el proyecto. A nivel de las instituciones y entidades
+      públicas participantes del Programa, se constituyeron “equipos internos” con la
+      responsabilidad de coordinar la implementación y ejecución del Modelo R, así como
+      reportar al Comité de Gestión Pública Interinstitucional y a su equipo técnico,
+      mensualmente los avances y resultados, previa aprobación de la máxima autoridad de la
+      Institución, funciones que no siempre se cumplieron oportunamente.
+3.6.  Al cierre del Programa se cumplió con todas las cláusulas y artículos considerados en el
+      Contrato de Préstamo; entre las cuales se incluye el cumplimiento de la asignación de
+      recursos de contrapartida para garantizar la programación.
+3.7.  Las herramientas y el plan de monitoreo y evaluación se implementaron y mantuvieron
+      eficazmente a nivel central en el EDG del MEF. Los principales usuarios centrales del
+      sistema de monitoreo y evaluación son el Prestatario y su Organismo Ejecutor (MEF), el
+      Comité de Gestión Pública Interinstitucional y su Comité Técnico, y el propio Banco.
+3.8. Para la gestión de adquisiciones del Programa se siguieron las políticas del Banco tanto
+     en lo que hace a bienes y obras (GN-2349-9) como a contratación y selección de
+     consultores (GN-2350-9). Para la publicidad de los procesos se usó el sistema nacional
+     de información correspondiente. De otra parte, la eficacia del EDG del programa permitió
+     elevar los montos límite de revisión ex ante, en virtud del desempeño alcanzado en la
+     gestión de las contrataciones.
+                                                  30
+"
+" 3.9.   La gestión financiera se llevó a cabo principalmente a través de la UDAF del MEF usando
+        los sistemas nacionales (e-SIGEF) en todos sus módulos de presupuesto, tesorería y
+        contabilidad, incluyendo el pago a contratistas vía el Organismo Ejecutor (MEF) a través
+        de la Cuenta Única. Sin embargo, dado que la información contable del sistema nacional
+        no produce los datos en la forma requerida por el Banco, dicho sistema se complementó
+        con herramientas de conversión (sistema de registro transaccional) implantadas por el
+        EDG con el fin de proporcionar los reportes en la forma solicitada por el Banco.
+ 3.10.  Dadas las restricciones de recursos de la Contraloría General del Estado para practicar
+        la auditoría de los préstamos internacionales, la auditoría de los estados financieros del
+        programa fue ejecutada por auditores independientes seleccionados de conformidad con
+        el Banco. El programa contó no solo con auditoría de estados financieros de propósito
+        especial del programa, sino también con informes de auditoría de aseguramiento
+        razonable sobre el rubro de indemnizaciones a lo largo de la ejecución del programa.
+3.11.  En cuanto a los sistemas nacionales no fiduciarios, el programa hizo uso intensivo del
+       sistema estadístico nacional para la medición de sus indicadores de desempeño en
+       materia de impactos y resultados, en los casos pertinentes. Asimismo, todo el programa
+       se concibió y ejecutó en el marco del sistema nacional de planificación estratégica para el
+       objetivo de la reforma del Estado y de la APCID.
+                         4.     FINDINGS AND RECOMMENDATIONS
+       4.1.     Dimensions 1 to 5
+4.2.   El presente capítulo organiza los hallazgos y recomendaciones del PCR en cinco
+       dimensiones: (i) Técnico-sectorial referida a la aplicación de conocimientos, metodología
+       o actividades específicas del sector; (ii) Organizacional que evalúa las disposiciones del
+       organismo ejecutor y las estructuras de gobernanza y coordinación del proyecto;
+       (iii) fiduciaria en cuanto a aplicación de normas y procedimientos establecidos por el
+       contrato de préstamo y las leyes del país; (iv) actores y procesos públicos, evaluando
+       comportamientos que hayan afectado el proyecto; y (v) riesgos gerenciales.
+                                                 31
+"
+"Table 4
+Hallazgos y Recomendaciones
+  Hallazgos                                                                                                Recomendaciones
+  Dimensión 1: Técnico Sectorial
+  Hallazgo # 1 La conceptualización del programa de reforma institucional hizo énfasis en la gestión
+  por resultados y en un enfoque de procesos. Estos dos conceptos constituyen ideas rectoras o
+  ideas fuerza modernas y adecuadas para promover la mejora en la calidad de los servicios públicos,
+  al margen de los formalismos que son tradicionales en las organizaciones burocráticas.
+  Hallazgo # 2 La búsqueda de una gestión pública por o para resultados se enmarcó en los objetivos
+  y metas del PND, lo que aseguró probablemente la compatibilidad y el respaldo de los responsables
+  de las políticas gubernamentales para con los cambios específicos promovidos a nivel de cada
+  institución singular.
+                                                                                                           Recomendación # 1 La lección aprendida o la recomendación que surge
+  Hallazgo #3 Por su parte, el enfoque en procesos, principalmente a partir de 2014, se orientó a la
+                                                                                                           de los hallazgos comentados, estaría indicando la conveniencia de
+  simplificación de trámites consultando la preocupación de los ciudadanos, vía el portal Tramiton.to, lo
+                                                                                                           simplificar y focalizar en lo básico (foco en el ciudadano) los elementos
+  que constituye una opción técnicamente válida y participativa que se supone economizaría esfuerzos
+                                                                                                           rectores de un modelo de cambio institucional en el sector público. De
+  de levantamiento de flujos de procesos y diagnósticos previos a las adecuaciones del caso.
+                                                                                                           esta menara, las diferentes instituciones conservarían ciertos grados de
+  Hallazgo #4 En cuanto al alineamiento del talento humano, la realidad fue más allá del diseño original,  libertad apropiados para el diseño específico de los cambios sectoriales.
+  ya que inicialmente el programa sólo contemplaba la desvinculación de personal administrativo
+  redundante. Como surge de la información del PCR, las desvinculaciones abarcaron a personal en
+  funciones sustantivas como los docentes en educación, lo que permitió una renovación del talento
+  humano con impacto en los servicios esenciales prestados a la ciudadanía y ahora sujetos a selección
+  con base en mérito y a instancias de evaluación como INEVAL.
+  Hallazgo # 5 Los cuatro hallazgos anteriores se consideran de efectos positivos para los resultados
+  del programa. Sin embargo, la pretensión de uniformizar el modelo de cambio, primero con el Modelo
+  R y posteriormente con el Programa Nacional de Excelencia PROEXCE, parecería que condujo a un
+  excesivo marco formal metodológico que puede haber conspirado a su compresión y a resistencia en
+  la adopción por parte de las entidades públicas sectoriales (llevando incluso a la desaparición del ente
+  rector SNAP), o a una falta de celeridad en su aplicación, lo que podría explicar el no cumplimiento de
+  la totalidad de las metas de PIRIs aprobados en el marco del programa.
+  Dimensión 2: Organizacional
+  Hallazgo # 6 El CGPI no operó eficientemente como instancia directiva de coordinación incidiendo         Recomendación # 2 Los procesos de reforma del Estado tan
+  negativamente en el ritmo de ejecución del Programa.                                                     comprensivos como el ecuatoriano, requieren de fuertes entidades
+                                                                                                           rectoras con capacidad técnica, de liderazgo y coordinación, pero
+  Hallazgo # 7 El EDG ubicado en el MEF, fue una instancia de coordinación positiva de la ejecución        también con mucha agilidad.
+  administrativo-financiera, a modo de Unidad Ejecutora “burbuja”, manejando múltiples operaciones
+  del propio Banco pero sin las facultades legales para gerenciar técnicamente el programa.
+                                                                                                           Recomendación # 3 En la ejecución de programas y proyectos, las
+  Hallazgo # 8 Los equipos internos de las entidades participantes no tuvieron un funcionamiento
+  formalizado y regular apropiándose de la ejecución de los respectivos PIRIs, aunque actuaron bajo        herramientas de planificación y monitoreo deben estar integradas para
+                                                                                           32
+"
+"Hallazgos                                                                                                Recomendaciones
+coordinación y soporte oportuno de la SNAP para el diseño de los mismos, pero no en su ejecución.        bajar costos transaccionales y apoyar eficientemente la gestión por
+El EDG mantuvo un vínculo permanente con tales instituciones y con el mismo Banco.                       resultados (caso PEP y PMR, por ejemplo).
+Hallazgo # 9 El monitoreo y evaluación del programa, herramientas imprescindibles para una gestión
+por resultados del propio proyecto, prácticamente tuvieron una utilidad circunscrita solamente al Banco
+y sus sistemas corporativos como el PMR.
+Dimensión 3 Actores y Procesos Públicos
+                                                                                                         Recomendación # 4 Suprimida la SNAP en mayo 2017, las competencias
+Hallazgo # 10 La SNAP estuvo encargada de la rectoría de múltiples iniciativas, desde el gobierno        rectoras en materia de gestión pública y del talento humano aparecen
+electrónico hasta el programa nacional de calidad, pasando por el modelo R y por el programa de          concentradas en el Ministerio de Trabajo bajo el liderazgo de la
+excelencia. Esa concentración de roles dificultó la gestión del organismo y generó resistencias en las   Secretaría de la Presidencia. Ello implicaría la necesidad de evaluar la
+entidades, lo que parece haber impactado en su capacidad de liderazgo interinstitucional.                capacidad institucional de dichas entidades para cumplir los roles que se
+                                                                                                         le agregan.
+Hallazgo # 11 Los procesos de desvinculación se adelantaron aparentemente con un mínimo de
+                                                                                                         Recomendación # 5 Dada la extensión que ha alcanzado el programa de
+conflictividad entre el Estado y los servidores públicos, lo que indicaría que las ofertas económicas
+                                                                                                         desvinculación de servidores públicos y la continuidad que muestra,
+fueron suficientemente atractivas y el proceso bien gestionado.
+                                                                                                         parecería oportuno adelantar una nueva evaluación del impacto de la
+                                                                                                         iniciativa, como para ratificar o ajustar el diseño de la misma y su plan
+Hallazgo # 12 La evaluación de impacto sobre el programa de desvinculaciones contratado por SNAP,        futuro.
+no brindó una evidencia firme sobre la mejora en la calidad del servicio debido a problemas en el
+desarrollo de la evaluación misma por la falta de colaboración de las entidades a ser evaluadas y por    Recomendación # 6 Es necesario incorporar en el ROP mecanismos de
+un mal entendimiento de la firma del objetivo del programa.                                              colaboración de las entidades evaluadas.
+Dimensión 4 Gestión de riesgos
+Hallazgo # 13: La gestión de los riesgos durante la implementación del Programa, como se señaló
+anteriormente, permitió anticipar varios problemas y retos, a los cuales conviene añadir los siguientes:
+i) La diversidad de intereses y prioridades sobre los cuales discurre la implementación del Programa,
+dificulta evidenciar con profundidad los hallazgos realizados en la evaluación del proceso de reforma;
+ii) En la mayoría de instituciones participantes no se contó con interlocutores oficiales para coordinar Recomendación # 7: Las lecciones que han dejado este periodo de
+y efectivizar la implementación del Programa, lo cual se agravó con la alta rotación de personal que
+                                                                                                         implementación son: (i) la necesidad de consolidar responsables
+también limitó su ejecución; iii) Se evidenció una falta de socialización del Modelo R por parte de los
+organismos rectores lo que limitó la prioridad e interés para implementar el Programa dentro de las      específicos para trabajar los procesos del Programa en las instituciones;
+instituciones participantes; iv) Algunos equipos internos de las entidades participantes evidenciaron    (ii) fortalecer los conocimientos en las instituciones participantes sobre
+fuertes dificultades para construir técnicamente los términos de referencia y criterios de selección de  los procesos para hacer uso de los recursos BID; (iii) completar
+los diferentes productos a ser financiados; y, v) Varias instituciones participantes desconocían la      oportunamente la firma de los convenios interinstitucionales con las
+normativa de implementación del Modelo R, en especial el Acuerdo 996 que se refiere a la Norma           entidades priorizadas para la intervención del programa; y (iv) buscar
+Técnica de Reestructuración de la Gestión Pública Institucional, que era el instrumento rector del       promotores políticos a través de los cuales se logre una implementación
+proceso de reforma y el cual regía la implementación del Programa.
+                                                                                                         más ágil y coordinada del Programa.
+Hallazgo # 14: El carácter descentralizado bajo el cual se implementó la operación, si bien apuntó a
+generar altos niveles de corresponsabilidad, en la práctica se constituyó en un reto importante, sobre
+todo ante la diversidad de actores, capacidades y prioridades institucionales diversas, que no siempre
+ésta alineadas. La ejecución del Programa discurrió entre cinco (5) instituciones rectoras y doce (12)
+instituciones priorizadas.
+   Nota: Dimensión fiduciaria: No se encontraron hallazgos significativos en la materia. De otra parte, el sistema de gestión financiera pública, eSIGEF, se
+   encuentra en fase de rediseño a partir de los apoyos prestados por el programa cuya terminación se reporta
+                                                                                          33
+"

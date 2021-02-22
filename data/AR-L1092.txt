@@ -1,0 +1,961 @@
+"outlist[[i]]"
+"    Ciclo de proyecto de etapa        # de semanas de personal          USD (incluidos los gastos de
+                                                                             viaje y asesoría)
+  Preparación                                   33,09                          176.599,75.-
+  Supervisión                                   96,75                          596.164,58.-
+  Total                                        129,84                          772.764,33.-
+DECLARACIÓN DE LOS OBJETIVOS DE DESARROLLO DEL PROYECTO / PROGRAMA:
+Contribuir al aprovechamiento de las oportunidades comerciales de las PYME de Argentina a través del
+fortalecimiento de la capacidad de promoción de las exportaciones y el fomento empresarial exportador.
+                                                   v
+"
+"I.         INTRODUCCIÓN
+El Programa de Promoción de Exportaciones (AR-L1092 – “Programa”) cumplió parcialmente
+con los objetivos y resultados esperados alcanzando, en consecuencia, un impacto menor al
+originalmente previsto. Esto se debió, principalmente, a los reiterados cambios institucionales
+que se produjeron durante el período de ejecución del Programa y que generaron retrasos en la
+ejecución y ajustes en las prioridades del Programa.
+El Programa se diseñó en 2009, en un contexto de cambios en las condiciones del comercio
+exterior como resultado de la crisis económica global. Específicamente, Argentina experimentó
+un cambio en la tendencia del comercio exterior observada hasta ese entonces. Luego de la
+profunda crisis económica de 2001/2002 que enfrentó el país las exportaciones argentinas
+aumentaron significativamente en el período 2003-2007, alcanzando una tasa de crecimiento
+anual del 16,8% (en el mismo período, el PIB creció a una tasa promedio anual del 8,8%),
+impulsado principalmente por un contexto internacional favorable y altos precios de los
+principales productos primarios y agroindustriales de exportación (los que representaban la
+principal fuente de ingresos por exportación). Sin embargo, desde octubre de 2008 las
+exportaciones se desaceleraron producto de varios factores, entre los que se encontraron la
+caída generalizada de la demanda mundial a causa de la crisis económica y de la reducción de
+las cotizaciones de los principales commodities agrícolas producidos por la Argentina.
+A pesar del progreso logrado a través de la introducción de las tecnologías de la comunicación,
+el programa detectó que persistían barreras de información que afectaban significativamente a
+las empresas que procuraban operar y comerciar en mercados externos, en particular, a las
+pequeñas y medianas empresas (PyMEs)1. Como parte del diseño del Programa, se detectó
+consistentemente que dichas empresas -las cuales representaban el 93.8% del total de las
+empresas exportadoras y el 73% del empleo, pero solo el 7,8% del valor de las exportaciones
+totales-, enfrentaban grandes retos en su proceso de inserción internacional precisamente
+vinculados a la falta de información.
+Los principales desafíos identificados se vinculaban a las siguientes brechas de información: (i) la
+falta de acceso a la información sobre las oportunidades de negocios, en general, y aquellas
+generadas por los acuerdos comerciales y de inversión suscritos por el país, en particular; (ii) la
+carencia de conocimiento sobre Servicios de Desarrollo Empresarial (“SDE”) especializados y
+disponibles para la inserción en los mercados internacionales; y (iii) la dispersión de información
+relevante para el esfuerzo exportador en diversos canales.2
+Asimismo, se identificó durante el diseño la existencia de una gran disparidad regional en cuanto
+a los niveles de valor agregado de los productos de exportación y base tecnológica.3 Es sabido
+que una menor diversificación sectorial limita el crecimiento de la productividad, tiende a estar
+asociada a menores niveles de exportación y por ende de crecimiento.
+Complementariamente, se evaluó que existían más de veinte agencias y dependencias estatales
+nacionales que proveían de alguna manera u otra, información relevante para la exportación de
+1
+  Esto significa que los costos de búsqueda de información sobre procesos y métodos de transporte, costos en los mercados de
+exportación, posibles socios comerciales constituyen una barrera a la entrada a los mercados de exportación en particular en
+países en desarrollo. Las externalidades de información constituyen una falla de mercado.
+2
+  Castro, L., Centro de Implementación de Políticas Públicas para la Equidad y el Crecimiento “Notas para una estrategia de desarrollo
+vinculada a la promoción de exportaciones”, Buenos Aires, 2007.
+3
+  Desde una óptica geográfica las PYMEs exportadoras al momento del diseño del Programa estaban concentradas en la Capital
+Federal (29% del total de PYME exportadoras) y en las provincias de Buenos Aires (37,6%), Córdoba (7,7%), Mendoza (5,1%) y
+Santa Fé (7,8%).
+                                                                   1
+"
+"las PYMEs en un contexto de baja y heterogénea institucionalidad, fallas de coordinación4 y
+carencia de servicios de desarrollo empresarial que respondieran a las necesidades de las
+PYMEs exportadoras.
+En ese contexto, el Gobierno y el Banco acordaron el diseño del Programa de Promoción de
+Exportaciones (AR-L1092) que permitiera desarrollar una gestión adecuada y coordinada de las
+políticas de comercio exterior argentinas, la promoción y el aprovechamiento de las
+oportunidades comerciales internacionales y un apoyo cercano al tejido productivo del país. El
+Programa se propuso en particular consolidar en el mediano y largo plazo el proceso de inserción
+internacional de las PYMEs argentinas, que había sido impulsado por factores coyunturales luego
+de la crisis financiera del 2001/2002 y que se veía amenazado por la crisis global de 2008/2009.
+El presente documento resume las acciones y resultados obtenidos a través de la ejecución del
+Programa, las principales razones por las cuales su ejecución fue parcial e incompleta e identifica
+lecciones aprendidas para la ejecución de proyectos similares en el futuro.
+II.       CRITERIOS CENTRALES. RENDIMIENTO DEL PROYECTO.
+2.1       Relevancia.
+a.        Alineación con las necesidades de desarrollo del país.
+Los objetivos y el diseño del Programa están -en gran parte- alineados con las necesidades y
+prioridades del país desde la aprobación hasta el cierre. Asimismo, los objetivos y el diseño del
+Programa están alineados con las prioridades del BID -Estrategia de País del BID- en el momento
+de la aprobación y cierre del Programa.
+La lógica vertical de la intervención demuestra con claridad la relevancia de la operación. Muestra
+un vínculo claro entre la cadena causal de la intervención, los objetivos de desarrollo de la
+operación y las necesidades y realidades del país.
+Sin embargo, los cambios institucionales sufridos durante el período de ejecución del Programa
+condujeron a una lenta ejecución de las actividades y a que se realizaran ajustes y cambios en
+las prioridades del proyecto. Específicamente -en un período de 7 años de ejecución física y
+financiera- el Programa experimentó 3 cambios de autoridades de distintos Ministerios y de
+personal a cargo de la Unidad Ejecutora del Programa (“UEP”). En este sentido, cada cambio de
+autoridades generó interrupciones en la ejecución de las actividades, debido a revisiones en la
+priorización de actividades e instrumentos.
+Con el cambio de Gobierno de diciembre de 2015, el Equipo de Proyecto del Banco
+Interamericano de Desarrollo (“BID” o “Banco”) decidió, en consenso con el Gobierno Nacional,
+utilizar parcialmente los fondos del Componente I del Programa, para facilitar la puesta en
+marcha de 2 nuevas iniciativas -alineadas con los objetivos del Programa- prioritarias para el
+Gobierno en el marco de su estrategia de normalización de las operaciones de comercio exterior
+y de mejora de la inserción comercial internacional de las PYMEs argentinas. Estas iniciativas
+fueron: a) el fortalecimiento de la Agencia Argentina de Inversiones y Comercio Internacional; y
+b) el establecimiento de una Ventanilla Única de Comercio Exterior (“VUCE”). Finalmente, en
+abril de 2017, una vez ejecutadas estas actividades, y en respuesta a lo acordado con las nuevas
+autoridades, se cancelaron los fondos remanentes del Préstamo, habiéndose ejecutado sólo el
+40% del financiamiento del Banco al Programa.
+4
+  Según una encuesta realizada por CIPPEC más del 50% de los organismos de promoción de exportaciones provinciales califican
+su relación con los organismos nacionales como nula u ocasional. Ver “Castro Lucio, “Cazadores de Mercados: comercio y promoción
+de exportaciones en las provincias argentinas”, Buenos Aires, Fundación CIPPEC, 2009.
+                                                                2
+"
+"b.       Alineación estratégica.
+La presente operación se enmarcó dentro y fue consistente con la Estrategia del Banco en el
+País (GN-2328) para el periodo en que la operación fue aprobada, cuyo objetivo estratégico era
+“apoyar al país a alcanzar un crecimiento sostenible y más equitativo”. En dicha estrategia, se
+propuso como área de intervención el “fortalecimiento del entorno para el crecimiento de las
+inversiones y de la productividad, incrementando la competitividad del país” mediante el
+aprovechamiento de las “condiciones de expansión para desarrollar estructuras económicas
+provinciales competitivas” y el incremento del “valor de las exportaciones agropecuarias,
+mediante el aumento de la calidad y cantidad de los productos”. El Programa estaba claramente
+alineado con esta estrategia y con los objetivos descritos fomentando la coordinación nacional-
+provincial en la gestión del comercio exterior, el fortalecimiento de las capacidades de las PYME
+exportadoras como agentes dinamizadores del crecimiento económico local y la promoción de
+las exportaciones argentinas en los mercados internacionales.
+Asimismo, la operación mantuvo la consistencia con las actualizaciones posteriores de la
+Estrategia de País (GN-2570), específicamente con el objetivo de crecimiento y mejora de la
+competitividad en un contexto más favorable para la inversión y la productividad. La operación
+contribuyó con el indicador de fortalecimiento de la integración e inserción del sector privado a
+las cadenas de valor- desarrollo empresarial y de clústers en áreas exportadoras y de alto valor
+agregado.
+Posteriormente el Programa se alineó con la Estrategia de País 2012-2015 (GN-2687), vigente
+al momento de la llegada del nuevo Gobierno Nacional, facilitando la puesta en marcha de dos
+iniciativas clave del nuevo Gobierno como parte de su estrategia de normalización de las tareas
+de comercio exterior y de mejora de la inserción comercial internacional de las PYMEs
+argentinas. Estas iniciativas fueron: a) el fortalecimiento de la Agencia Argentina de Inversiones
+y Comercio Internacional; y b) el establecimiento de una Ventanilla Única de Comercio Exterior
+(“VUCE”).
+c. Relevancia del diseño.
+Teniendo en consideración el contexto descrito en las secciones precedentes, los objetivos del
+Programa se orientaban a generar las condiciones para el pleno aprovechamiento, por parte de
+las empresas del sector privado, de las oportunidades que ofrecía el comercio exterior. Para ello,
+se diseñó un Programa que contemplara, principalmente: (i) desarrollar incentivos para la
+diversificación de la oferta exportable, reduciendo así su dependencia de los productos primarios
+y agroindustriales; (ii) impulsar el diseño de políticas públicas en materia de promoción del
+comercio exterior articuladas y coordinadas desde el punto de vista territorial y sectorial;
+(iii) continuar diversificando los destinos de exportación a través de una efectiva política de
+promoción de exportaciones; y (iv) realizar un salto cualitativo en materia de innovación
+tecnológica y certificación de calidad, en especial en el rubro de pequeños y medianos
+exportadores.
+Estas líneas de acción del programa buscaban resolver las principales fallas de información,
+coordinación y de mercado que enfrentaba el país en materia de comercio exterior de forma
+realista y adecuada, buscando mejorar la gestión de las políticas de comercio exterior, la
+promoción y aprovechamiento de las oportunidades comerciales internacionales y mayor apoyo
+al tejido productivo. Por tanto, a juicio del equipo de supervisión, el Programa fue relevante y
+pertinente tanto en la etapa de diseño como durante la ejecución, y su lógica vertical de
+intervención fue adecuada en el entendido que los objetivos y resultados esperados fueron
+consistentes con los problemas y necesidades de desarrollo del país, de acuerdo con lo
+establecido en las Guías de PCR. El equipo de PCR considera que el hecho de que los resultados
+                                                   3
+"
+"no fueron obtenidos en su totalidad no se debió principalmente a fallas integrales en la lógica
+vertical del proyecto. Como fue diseñado, los productos estaban correctamente orientados a
+resolver los problemas identificados en el diseño. Los resultados no se obtuvieron en su totalidad
+principalmente por las interrupciones sufridas en la ejecución del Programa a partir de los
+cambios institucionales. El alto grado de interés y de participación de Pymes e instituciones
+provinciales a lo largo del programa (en los periodos que no sufría interrupciones) es una muestra
+de la relevancia de las soluciones e instrumentos que planteaba el Programa.
+Los cambios institucionales, de autoridades -y por ende de prioridades de las líneas de acción
+propuestas por estos- motivaron modificaciones en el Programa, influyendo negativamente en la
+evolución tanto física como financiera de la ejecución del Programa. Si bien el diseño del
+Programa respondía adecuadamente a las necesidades de desarrollo del país en ese momento,
+la inestabilidad institucional y la consecuente vacilación de las prioridades de las políticas
+públicas del comercio exterior llevaron a que el Programa tuviera largos períodos de casi nula
+ejecución o de cambios en la priorización de las actividades a financiar. Estas marchas y
+contramarchas en la ejecución del Programa causaron además un desgaste en la relación y
+confianza del sector privado exportador, destinatario final de varios de los instrumentos ofrecidos
+por el Programa.
+Pese a que la relevancia del diseño del Programa perdió relativa vigencia, el ingreso de una
+nueva administración nacional en diciembre de 2015 favoreció la utilización de recursos del
+Componente I -de fortalecimiento institucional- para avanzar con iniciativas que -si bien no
+estuvieron originalmente previstas- estaban alineadas al objetivo general del Programa y a las
+nuevas prioridades del gobierno entrante. Específicamente, se financiaron las siguientes
+iniciativas: a) Apoyo en el fortalecimiento institucional de la Agencia Argentina de Inversiones y
+Comercio Internacional; y b) Apoyo en el proceso de revisión de procesos de comercio exterior
+necesarios para la preparación de la Ventanilla Única de Comercio Exterior (VUCE). No obstante,
+esto no implicó cambios en la matriz de resultados del Programa que ya incorporaba agencias
+apoyadas.
+Cabe descartar que esta última actividad permitió sentar las bases de la preparación de una
+nueva operación de préstamo de inversión con el Ministerio de Producción en 2016: Programa
+de Implementación del Régimen Nacional de Ventanilla Única de Comercio Exterior Argentino
+(AR-L1251), por un total de US$80 millones.
+                                                   4
+"
+"             Tabla nº 1. Matriz de resultados.
+    Objetivo del        Contribuir al aprovechamiento de las oportunidades comerciales de Argentina a través del fortalecimiento de la capacidad de promoción de las exportaciones argentinas y
+     Proyecto           el fomento empresarial exportador.
+     Impacto            Mejora sostenible en la inserción internacional de las Pequeñas y Medianas Empresas Argentinas.
+                                       En aprobación5                                   En elegibilidad + 60 días                   Al terminar el proyecto (PCR)6              Comentarios
+  Indicadores de
+ efectos directos       Unidad de          Línea de                       Unidad de                                            Unidad de          Línea de
+                                                            Meta (P)                           Línea de Base        Meta (P)                                     (A)
+                        Medida               Base                         Medida                                               Medida               Base
+Componente 1. Fortalecimiento de capacidades organizacionales y técnicas en materia de promoción de exportaciones.
+Objetivo: Modernizar y tecnificar la promoción del comercio exterior, tanto a nivel nacional como provincial, generando adecuados mecanismos de coordinación.
+                                                                                                                                                                     Se refiere al # de agencias
+                                                                                                                                                                     provinciales que obtiene un
+Agencias                                                                                                                                                             puntaje superior a 50 puntos en la
+Provinciales de         Número de                                          Número de                                           Número de                             matriz de evaluación institucional
+                                         3               6                                     3                 6                               3            11
+Desarrollo              Agencias                                          Agencias                                             Agencias                              de capacidades de promoción
+Económico                                                                                                                                                            comercial. Se le aumentó a la
+Fortalecidas                                                                                                                                                         meta en la ejecución, meta
+                                                                                                                                                                     original de 6, meta final de 11.
+Componente 2. Instrumentos de apoyo para la internacionalización de las PYMEs.
+Objetivo: Apoyar la internacionalización de las PYMEs argentinas a través de la prestación de servicios de desarrollo empresarial para la exportación.
+                                                                                                                                                                     Se supone un aumento de 4.5% .
+                                                                                                                                                                     Durante la ejecución del
+                                                                                                                                                                     Programa se sustituyó este
+                                                                                                                                                                     indicador por los dos que siguen
+                         Millones de                                      millones de
+Exportaciones de                         3,634           3,797                                 3,634              3,797        N/A               N/A          N/A    en la tabla con el objetivo de
+                        dólares                                           dólares
+PYME aumentan                                                                                                                                                        modificar la base de análisis y
+                                                                                                                                                                     distinguir entre “PYMES
+                                                                                                                                                                     exportadoras” y “PYMES
+                                                                                                                                                                     potencialmente exportadoras”.
+                                                                                                                                                                     Medio de verificación: Tasa de
+Mejora el ritmo                                                                                                                                                      crecimiento de las exportaciones
+crecimiento de las                                                                                                                                                   de las empresas atendidas sobre
+                                                                                                                               Porcentaje de
+PYMES                                                                                                                                                                la tasa de crecimiento de las
+                        N/A              N/A             N/A              N/A                  N/A               N/A           crecimiento       0            0
+exportadoras                                                                                                                                                         exportaciones de las empresas
+                                                                                                                               relativo
+atendidas por el                                                                                                                                                     del mismo sector (partida
+programa                                                                                                                                                             arancelaria) que no han sido
+                                                                                                                                                                     atendidas por el Programa.
+Crecimiento de                                                                                                                                                       Medio de verificación: cantidad de
+PYMES en                                                                                                                                                             ANRs otorgados.
+condiciones de                                                                                                                 Cantidad de                           En febrero de 2016 se modificó la
+                        N/A              N/A             N/A              N/A                  N/A               N/A                             0            22
+exportar                                                                                                                       PYMES                                 meta dadas las demoras en la
+por efecto del                                                                                                                                                       ejecución      por    cambio     de
+programa                                                                                                                                                             autoridades y nuevas prioridades
+             5
+               La Matriz de Resultados original puede verse en el Anexo II del POD, disponible en: https://www.iadb.org/Document.cfm?id=35017951.
+             6
+               La Matriz de Resultados al cierre del proyecto puede consultarse en: https://convergence.iadb.org/Operation/AR-L1092
+                                                                                                        5
+"
+"                                                                                                                                                                       estratégicas, la reorganización de
+                                                                                                                                                                       la UEP.
+                                                                                                                                                                       Este indicador se agregó durante
+                                                                                                                                                                       la ejecución y la meta al momento
+                                                                                                                                                                       de agregarlo fue de 88 y al cierre
+                                                                                                                                                                       de 43. En el checklist se compara
+                                                                                                                                                                       contra la meta original de 88.
+Componente 3. Desarrollo de una Plataforma Virtual para la PYME exportadora.
+Objetivo: Contribuir a centralizar y hacer disponible de manera virtual la información, servicios y estadísticas de comercio exterior para la PYME exportadora.
+                                                                                                                                                                       El indicador es el mismo que en el
+                                                                                                                                                                       POD pero por favor notar que se
+                                                                                                                                                                       le cambio el nombre.
+                                                                                                                                                                       En el POD, en la columna meta se
+Alta utilización de                                                                                                                                                    llamaba      “Información     sobre
+la plataforma                                                                                                                                                          tramites y requisitos para exportar
+                       Accesos al                                                                                                  Accesos al
+virtual para                               0               N/A 7             Accesos al portal   0                 N/A                              0           17,163 y oportunidades         comerciales
+                       portal                                                                                                      portal
+PYMES                                                                                                                                                                  organizada en una sola plataforma
+exportadoras                                                                                                                                                           electrónica” y durante la ejecución
+                                                                                                                                                                       se cambió el nombre por “Alta
+                                                                                                                                                                       utilización de la plataforma virtual
+                                                                                                                                                                       para PYMES exportadoras” que
+                                                                                                                                                                       es como esta en PMR pero se
+                                                                                                                                                                       refiere a lo mismo.
+              7
+                La MdR original no estableció meta ni línea de base, tal y como se puede verificar en POD.
+                                                                                                          6
+"
+"                                          En aprobación8                                        En elegibilidad + 60 días                    Al terminar el proyecto (PCR)9             Comentarios
+Indicadores a
+nivel de
+                        Unidad de           Línea de                             Unidad de                                              Unidad de         Línea de
+Productos.                                                    Meta (P)                                 Línea de Base      Meta (P)                                      (A)
+                        Medida              Base                                 Medida                                                 Medida            Base
+Componente 1. Fortalecimiento de capacidades organizacionales y técnicas en materia de promoción de exportaciones.
+Plan Estratégico
+                                                                                                                                                                            Durante la ejecución del proyecto
+Institucional para
+                        Planes                                                   Planes                                                                                     se sustituyó este indicador por el
+la Promoción del                            0                 6                                        0                  6             N/A               N/A          N/A
+                        estratégicos                                             estratégicos                                                                               que figura inmediatamente a
+Comercio Exterior
+                                                                                                                                                                            continuación en esta tabla.
+diseñado
+Actividades de
+fortalecimiento de
+promoción de                                                                                                                                                                Se incorporó este indicador
+                        N/A                 N/A               N/A                N/A                   N/A                N/A           Actividades       0            11
+exportaciones y de                                                                                                                                                          durante la ejecución del proyecto.
+facilitación
+comercial
+                                                                                                                                                                            Durante la ejecución del proyecto,
+Funcionarios
+                                                                                                                                                                            se ajustan dos aspectos: (i) la
+gubernamentales
+                                                                                                                                                                            redacción del indicador (se
+a cargo de la
+                                                                                                                                                                            reemplaza por “Capacitación en
+Promoción
+                                                                                                                                                                            aspectos técnicos para
+Comercial a nivel
+                        Talleres de                                              Talleres de                                            Profesionales                       funcionarios gubernamentales a
+nacional y                                  0                 30                                       0                  30                              0            681
+                        capacitación                                             capacitación                                           capacitados                         cargo de la Promoción Comercial
+provincial
+                                                                                                                                                                            a nivel nacional y provincial); y,
+capacitados en
+                                                                                                                                                                            (ii) la unidad de medida (se
+aspectos técnicos
+                                                                                                                                                                            sustituye “talleres de
+de comercio
+                                                                                                                                                                            capacitación” por “profesionales
+exterior
+                                                                                                                                                                            capacitados”).
+Misiones
+comerciales
+directas y/o            Misiones            0                 20                 Misiones              0                  20            Misiones          0            29
+inversas
+realizadas
+Sistema de
+gestión, monitoreo
+                                                                                                                                                                            Durante la ejecución del proyecto,
+y atención al
+                        Sistema                                                  Sistema                                                Sistema                             se ajusta la descripción del
+cliente en
+                        diseñado e          0                 1                  diseñado e            0                  1             diseñado e        0            1    indicador, denominándose
+Promoción
+                        implementado                                             implementado                                           implementado                        “Sistema de Business Intelligence
+Comercial
+                                                                                                                                                                            (BI) implementado”.
+diseñado e
+implementado
+Componente 2. Instrumentos de apoyo para la internacionalización de las PYMEs.
+Capacidades de          Acciones                                                 Acciones                                               Acciones                            Durante la ejecución del proyecto,
+                                            0                 2                                        0                  2                               0            2
+las PYMES               tomadas                                                  tomadas                                                tomadas                             se ajusta la descripción del
+             8
+               La Matriz de Resultados original puede verse en el Anexo II del POD, disponible en: https://www.iadb.org/Document.cfm?id=35017951.
+             9
+               La Matriz de Resultados al cierre del proyecto puede consultarse en: https://convergence.iadb.org/Operation/AR-L1092
+                                                                                                                 7
+"
+"exportadoras para                                                                                                                indicador, denominándose
+aprovechar las                                                                                                                   “Instrumentos de servicio de
+oportunidades del                                                                                                                desarrollo empresarial para
+comercio exterior                                                                                                                promover las capacidades de las
+                                                                                                                                 PYMES relacionadas al comercio
+                                                                                                                                 exterior”.
+Proyectos para la
+                                                                                                                                 Durante la ejecución del proyecto
+provisión de
+                                                                                                                                 se incorpora este indicador.
+Servicios de
+Desarrollo          N/A            N/A           N/A             N/A               N/A        N/A          Empresas     313 343
+                                                                                                                                 Se ajusta la unidad de medida,
+Empresarial
+                                                                                                                                 reemplazándose “proyectos” por
+exportador
+                                                                                                                                 “empresas”.
+implementados
+Instrumentos de
+                                                                                                                                 Durante la ejecución del proyecto
+Apoyo (ANR)         N/A            N/A           N/A             N/A               N/A        N/A          ANR          43  13
+                                                                                                                                 se incorpora este indicador.
+aprobados
+Componente 3. Desarrollo de una Plataforma Virtual para la PYME exportadora.
+Plataforma
+Electrónica de
+Apoyo a las         Portal                                       Portal                                    Portal
+                                   0             1                                 0          1                         1   2
+PYMES               implementado                                 implementado                              implementado
+exportadoras
+implementada
+Sistema
+implementado                                                                                               Sistema               Durante la ejecución del proyecto
+                    N/A            N/A           N/A             N/A               N/A        N/A                       1   1
+para registrar y                                                                                           implementado          se incorpora este indicador.
+gerenciar clientes
+            Tal como se observa en la Tabla 1, durante la ejecución del Programa el indicador original de resultado para el componente 2
+            (“Exportaciones de PYME aumentan”) fue sustituido por los dos subsiguientes (“Mejora en el ritmo de crecimiento de las PYMES” y
+            “Crecimiento de PYMES em condiciones de exportar por efecto del Programa”) a fin de ajustar el análisis y la correspondiente medición
+            al universo de “PYMES exportadoras” y “PYMES potencialmente exportadoras”. Esta distinción refleja mejor el alcance del Programa
+            y permite medir resultados de acuerdo al instrumento de apoyo específico para las PYMES.
+                                                                     Tabla nº 2. Evaluación de la relevancia.
+                                                                        Clasificación               Valor
+                                                                        Satisfactorio                3.00
+                                                                                        8
+"
+"2.2       Eficacia.
+a. Declaración de objetivos de desarrollo del Programa.
+El objetivo de desarrollo del Programa fue contribuir al aprovechamiento de las oportunidades
+comerciales de las PYME de Argentina a través del fortalecimiento de la capacidad de promoción
+de las exportaciones y el fomento empresarial exportador.
+Los objetivos específicos fueron: (i) modernizar y tecnificar la promoción del comercio exterior
+tanto a nivel nacional como a nivel provincial, generando adecuados mecanismos de
+coordinación; (ii) apoyar la internacionalización de las PYME argentinas a través de la prestación
+de servicios de desarrollo empresarial para la exportación; y (iii) contribuir a centralizar y hacer
+disponible de manera virtual la información, servicios y estadísticas de comercio exterior para la
+PYME exportadora.
+El Programa se estructuró en torno a tres componentes:
+     (i) Componente 1 - Fortalecimiento de Capacidades Organizacionales y Técnicas en materia
+     de Promoción de Exportaciones.
+     (ii) Componente 2 - Instrumentos de Apoyo para la Internacionalización de las PYMES.
+     (iii) Componente 3 - Desarrollo de una Plataforma Virtual para la PYME Exportadora.
+b. Resultados logrados.
+Los principales logros del Programa en término de eficacia están asociados a que se alcanzaron
+sustancialmente los productos esperados según la matriz de resultados.
+En este sentido, en lo referido al Componente 1, se cumplió con las actividades de fortalecimiento
+de promoción de exportaciones y de facilitación comercial, con la realización de capacitaciones
+técnicas a funcionarios a cargo de la promoción del comercio exterior tanto a nivel nacional como
+provincial, con la realización de misiones comerciales -es decir visitas organizadas a mercados
+objetivos con la intención de vender bienes y servicios argentinos- y con la implementación del
+Sistema de Business Intelligence (“BI”).
+Con respecto a los productos del Componente 2, se cumplieron la totalidad de las metas de
+instrumentación de servicios de desarrollo empresarial para capacitación y asistencia técnica
+especializada a fin de promover las capacidades de las PYMES relacionadas con el comercio
+exterior y la de proyectos para la provisión de Servicios de Desarrollo Empresarial exportador
+evaluados.
+Asimismo, los productos del Componente 3 también fueron alcanzados. Se logró la
+implementación de la Plataforma Electrónica de Apoyo a las PYMES exportadoras que permite
+obtener información sobre procesos de comercio exterior y del Sistema para registrar y gerenciar
+clientes.
+Otro de los principales logros de la operación está asociados a que el Programa facilitó el
+desarrollo de dos iniciativas de Gobierno clave en materia de promoción de exportaciones y
+desarrollo del comercio exterior de las PYMEs argentinas como son las iniciativas de
+fortalecimiento de la Agencia Argentina de Inversiones y Comercio Internacional y el
+establecimiento de una Ventanilla Única de Comercio Exterior (VUCE).
+Adicionalmente, la implementación del Programa favoreció la articulación público-público y
+público-privada, toda vez que el programa desarrolló relaciones con instituciones y programas
+públicos o privados que ya se encontraban trabajando con políticas activas. La integración con
+las diversas entidades y programas ocurrió a nivel de operaciones -sin requerir acuerdos
+formales, aunque de hecho existió un reconocimiento institucional a la cooperación- y se basó
+                                                  7
+"
+"fundamentalmente en: i) Asistencia Técnica y Capacitación para mejorar la capacidad
+exportadora; ii) Programa de alianzas empresariales (Proyectos asociativos y Desarrollo de
+proveedores); iii) Programa de transferencia tecnológica (misiones tecnológicas: visitas a
+empresas, centros, ferias, seminarios y talleres tecnológicos); y iv) Programas de desarrollo de
+mercados
+Con respecto a los objetivos de desarrollo y los indicadores de resultados el Programa cumplió
+parcialmente con los objetivos y resultados esperados originalmente, obteniendo un impacto
+menor al esperado. Esto se debió principalmente a los reiterados cambios institucionales y los
+consecuentes retrasos en la ejecución y periodos de ejecución nula y ajustes a las prioridades
+que se realizaron al Programa a lo largo del período de ejecución.
+Sin embargo, más allá del cambio de contexto, los objetivos específicos de desarrollo del
+Programa vinculados primer objetivo específico bajo el primer componente - modernizar y
+tecnificar la promoción del comercio exterior- fueron alcanzados en su totalidad. Los resultados
+asociados al segundo y tercer objetivo específico de desarrollo alcanzaron solo un logro parcial.
+Siguiendo requerimientos del Banco, a partir de 2010 comenzó a utilizarse el Informe de
+Seguimiento de Proyecto (PMR, por sus siglas en Ingles). A partir de ese momento, el Informe
+Semestral de Ejecución presentado por la UEP, hizo un seguimiento de los indicadores y metas
+del Programa. Cabe mencionar que el programa no tuvo una Evaluación Intermedia, dado que
+para abril de 2012 los fondos desembolsados alcanzaban el 1 % y durante los años 2010 y 2011
+los avances físicos eran no significativos, por lo tanto, no fue posible establecer afirmaciones
+respecto al impacto del Programa en los primeros años del Programa.
+A continuación, se presenta la matriz de resultados logrados del Programa. Dado los logros
+parciales, la efectividad se evalúa en parcialmente insatisfactorio (ver checklist).
+                                                 8
+"
+"                                                      Tabla nº 3. Matriz de Resultados logrados.
+                                                        Valor de      Año de
+                                         Unidad de                                Metas y alcance            %
+         Resultado/Indicador                           Línea de      línea de                                                    Medios de verificación
+                                           Medida                                        real          Alcanzado
+                                                          base          base
+  1. Estructura de Comercio y Capacidades de Promoción Comercial de las Provincias y sus Agencias mejoran y se ven fortalecidas.
+                                                                                 P             6                       Matriz institucional.
+  Agencias        Provinciales      de
+                                           Agencias        3.0          2009     P(a)         11            100
+  Desarrollo Económico fortalecidas
+                                                                                 A           1110
+                    2. Mejora en el ritmo de crecimiento de PYMES exportadoras y potencialmente exportadoras atendidas por el programa.
+                                          Porcentaje                             P            NA                       Tasa de crecimiento de las exportaciones de las
+  Mejora el ritmo crecimiento de las                                             P(a)         16                       empresas atendidas sobre la tasa de crecimiento
+                                               de
+  PYMES exportadoras atendidas                             0.0          2010                                 0         de las exportaciones de las empresas del mismo
+                                         crecimiento                                                                   sector (partida arancelaria) que no han sido
+  por el Programa                                                                A             0
+                                            relativo                                                                   atendidas por el Programa.
+  Crecimiento     de     PYMES      en                                           P            N/A                      Cantidad de ANRs otorgados.
+                                         Cantidad de
+  condiciones de exportar por efecto                       0.0          2010     P(a)         88             25
+                                           PYMES
+  del Programa                                                                   A            22
+                   3. Acceso mejorado de las PYMES exportadoras a la información sobre Comercio Exterior y oportunidades comerciales.
+                                                                                 P         30.000                      Estadísticas sobre número de accesos al
+  Alta utilización de la plataforma       Accesos al                                                                   dominio web de la página. Accesos al portal.
+                                                           0.0          2010     P(a)      12.489            57
+  virtual para PYMES exportadoras            portal
+                                                                                 A         17.163
+                                                         Valor de        Año de
+                                          Unidad de                                    Metas y             %
+                Producto                                 Línea de       línea de                                                Medios de verificación
+                                            Medida                                   alcance real     Alcanzado
+                                                           base           base
+  Componente 1. Fortalecimiento de la Capacidad Institucional de las Agencias Intermediarias para Promocionar el Programa (obtención
+  de un porcentaje superior a 50 pts. en la matriz de evaluación institucional).
+  Actividades de fortalecimiento de                                                 P          8
+  promoción de exportaciones y de         Actividades        0.0                                          100
+  facilitación comercial                                                            P(a)      11
+                                                                                    A         11
+  Capacitación en aspectos técnicos                                                 P        412
+                                         Profesionales
+  para                    Funcionarios                       0.0                    P(a)     681          100
+                                                (#)
+  Gubernamentales a cargo de la                                                     A       68111
+10  Subsecretaría de Relaciones Económicas Internacionales del Ministerio de la Producción, Ciencia y Tecnología Provincia de Buenos Aires, Secretaría de
+Industria, Comercio y Planificación del Desarrollo del Ministerio de Producción -Provincia de Entre Ríos, Secretaría de Industria y Desarrollo Económico
+Municipalidad de Las Parejas, Provincia de Santa Fe, Secretaría de Desarrollo Económico Municipalidad San Carlos de Bariloche, Provincia de Río Negro,
+Secretaría de Desarrollo, Innovación y Relaciones Internacionales.
+11
+    Los talleres de capacitación se implementaron en el último trimestre del 2014. Si bien la capacitación estaba destinada a funcionarios de las Agencias
+Intermediarias se extendió a empresas interesadas. Por otra parte, se incrementó el porcentaje de mujeres participantes en el programa de 17 a 21%.
+                                                                               9
+"
+"   Promoción Comercial a nivel
+   nacional y provincial realizados
+                                                                                                  P        28
+    Misiones Comerciales directas y/o
+                                                Misiones              0                           P(a)     29          100
+   inversas realizadas
+                                                                                                  A        29
+                                                 Sistema                                          P        1
+    Sistema de Bussines Intelligent
+                                               diseñado e             0                           P(a)     1           100
+   (BI) implementado
+                                             implementado                                         A        1
+   Componente 2 - Instrumentos de Apoyo para la Internacionalización de las PYMES (aumento del 4,5% en el valor de las exportaciones
+   totales de las PYMES).
+   Instrumentos de servicio de                                                                    P        2
+   desarrollo empresarial para                                                                    P(a)     2
+                                                Acciones
+   promover las capacidades de las                                    0                                                100
+                                                tomadas
+   PYMES relacionadas con                                                                         A        212
+   Comercio Exterior
+   Proyectos para la provisión de                                                                 P        313
+   Servicios de Desarrollo                     Empresas               0                           P(a)     343         100
+   Empresarial exportador evaluados                                                               A        343
+                                                                                                  P        0
+   Instrumentos de Apoyo (ANR)                    ANR
+                                                                      0                           P(a)     43          30
+   aprobados
+                                                                                                  A        13
+   Componente 3 - Plataforma Electrónica de Apoyo a las PYMES exportadoras.
+   Plataforma Electrónica de Apoyo a                                                              P        1
+                                                  Portal
+   las PYMES exportadoras                                             0                           P(a)     2           100
+                                             implementado
+   implementada                                                                                   A        2
+                                                                                                  P        0
+   Sistema implementado para                     Sistema
+                                                                      0                           P(a)     1           100
+   registrar y gerenciar clientes            Implementado
+                                                                                                  A        1
+Donde: P = Planificado; P (a) = Objetivo anual revisado; A = real.
+12
+    Se fortaleció la promoción del Programa abarcando distintas regiones del país y se intensificó la presencia del Programa con la realización de los talleres.
+                                                                                           10
+"
+"c.         Análisis contrafactual.
+El Programa podría haber alcanzado un logro sustancial si no se hubieran generado significativos
+cambios institucionales durante el período de ejecución que causaron demoras sustanciales en
+la ejecución tal como se presentó detalladamente en la sección de introducción y en la sección
+2.1. En la misma línea, la crisis financiera internacional de 2008-2009 modificó el contexto en
+materia de comercio exterior, alterando las prioridades del Gobierno Nacional. En este marco, el
+análisis contrafactual es complejo toda vez que la magnitud de los acontecimientos excedió los
+matices de este ejercicio en entornos análogos. La estrategia del Gobierno Nacional priorizó la
+protección del mercado interno en dado momento frente a la crisis y por ende se diluyó la
+prioridad del Programa dándose periodos de ejecución nula en el mismo.
+Con la entrada de un nuevo Gobierno Nacional en diciembre de 2015, se decidió conjuntamente
+con las autoridades entrantes utilizar parcialmente los fondos del Componente I del Programa,
+para facilitar la puesta en marcha de 2 nuevas iniciativas del Gobierno centrales en su estrategia
+de normalización del comercio exterior y de mejora de la inserción comercial internacional de las
+PYMEs argentinas. Estas iniciativas fueron: a) el fortalecimiento de la Agencia Argentina de
+Inversiones y Comercio Internacional; y b) el establecimiento de una Ventanilla Única de
+Comercio Exterior (VUCE). En esta nueva etapa del Programa se pudo reaccionar ante una
+realidad adversa y dar respuesta a los desafíos del momento generando la mayor potencialidad
+del mismo. Estos factores exógenos contribuyeron al logro parcial de los resultados previstos por
+el Programa.
+A juicio del equipo de supervisión estos resultados son al menos parcialmente atribuibles al
+Programa. Al momento de diseño de la operación no se definió un contrafactual ni se estipuló la
+realización de una evaluación de impacto, por lo cual no puede verificarse su atribución de forma
+rigurosa, tal y como establecen las Guías de PCR. Tampoco pudo realizarse una evaluación final
+del Programa por la imposibilidad de acceder a datos en el periodo de intervención, al cambio de
+autoridades y ausencia de contrapartes, y carencia de un sistema de monitoreo y evaluación.
+Ante la ausencia de datos, es difícil identificar el efecto de las actividades de promoción comercial
+que desarrollo el programa y determinar cómo las firmas que participaron se habrían
+desempeñado en caso de no haber participado del mismo. Esta realidad no es ajena a lo que
+sucede en otros países de la región, donde en términos generales, las evaluaciones de impacto
+de las organizaciones de promoción de exportaciones presentan deficiencias metodológicas y
+por ende generan medidas imprecisas de contribución de sus programas.13
+Sin embargo, el logro de los productos entendemos se vinculan a los resultados parciales
+alcanzados. En este sentido, puede verificarse cómo las capacitaciones a las agencias de
+promoción de exportaciones fortalecieron las mismas dada la evaluación institucional realizada
+oportunamente para cada una de ellas. Por otra parte, la oferta de SDE para PYMES
+exportadoras robusteció la batería de instrumentos para la promoción de la internacionalización
+de las empresas argentinas y conllevó a un mayor crecimiento de los mismas (aunque no puede
+determinarse la atribución debido a la falta de da8tos).
+Esto puede explicarse por lo siguiente, las agencias de promoción de exportaciones beneficiaras
+del Programa suministraron información sobre el proceso de exportación, los mercados
+internacionales, que ayudan a atenuar los problemas de información imperfecta que enfrentaban
+las PYMES argentina y como resultado a incrementar sus ventas externas o la probabilidad de
+que esto ocurra ampliando no solo los mercados sino los productos y servicios de exportación.
+13
+   Volpe, Christian 2010. Odisea en los mercados internacionales: Una evaluación de la efectividad de la promoción de
+exportaciones en América Latina y el Caribe.
+                                                               11
+"
+"Como antecedentes, puede tenerse en cuenta que en la evaluación de la efectividad                    de
+promoción de exportaciones de la agencia argentina Exportar -realizada por el Sector                 de
+Integración de comercio- para el periodo 2000-2007 puede verificarse que sus programas               de
+promoción comercial tuvieron efectos positivos sobre las exportaciones totales y en número           de
+países destino de las pequeñas y medianas empresas.
+En general, los servicios prestados por las agencias de promoción de exportaciones justamente
+apuntan a resolver problemas de información y fortalecer exportadoras. El informe de INT
+“Odisea en los mercados internacionales” (https://publications.iadb.org/handle/11319/259)
+resume los resultados de las evaluaciones de impacto de los programas de dichas agencias
+similares a este, en seis países de la región. Tales resultados indican consistentemente que la
+asistencia brindada por las agencias ha redundado en un mejoramiento del desempeño
+exportador de las empresas, especialmente de aquellas que son pequeñas y medianas y carecen
+de             experiencia               exportadora               previa         (ver         asimismo
+https://publications.iadb.org/handle/11319/3189?locale-attribute=en sobre el caso argentino y
+https://publications.iadb.org/handle/11319/3169?locale-attribute=en sobre el caso chileno). Por
+ende, como se logro la entrega de los productos y sabemos que la evidencia apunta a la
+efectividad de este tipo de intervención, se cree que los resultados parciales observados son al
+menos parcialmente atribuibles al programa.
+También es menester destacar que la efectividad de las acciones de promoción comercial
+depende de condiciones contextuales multifactoriales como son la política macroeconómica y
+sectorial relevantes, los rasgos institucionales de las entidades (redes de oficinas externa,
+esquemas de reporte) y la estructura de incentivos asociadas14. Estos factores exógenos siempre
+van también a incidir en los resultados a nivel nacional que persigue este tipo de intervención.
+En conclusión, el programa tuvo grandes atrasos en su ejecución dados los cambios
+institucionales descriptos, e incluso periodos de nula ejecución como se puede ver en la tabla de
+desembolsos de la sección de información básica del proyecto. Además, la ejecución del
+programa fue parcial con una cancelación de recursos. Por ende, a pesar de un diseño integro
+en su lógica vertical, los logros fueron parciales.
+                                   Tabla nº 4. Evaluación de criterios centrales
+                       Criterio central                            Clasificación         Valor
+                          Relevancia                               Satisfactorio         3.00
+                          Efectividad                     Parcialmente insatisfactorio   2.00
+                           Eficiencia                             Insatisfactorio        1.00
+                        Sostenibilidad                             Satisfactorio         3.00
+                 Parcialmente No Exitoso               Clasificación general recomendada
+2.3       Eficiencia.
+El costo planeado del programa fue de US$10,0 millones, de los cuales US$6,0 correspondían
+al financiamiento BID y US$4,0 al aporte local. No obstante, el costo final del proyecto fue de
+14 Volpe, C. ¨Odisea en los mercados internacionales¨.
+                                                             12
+"
+" US$5.032.778,59.-, correspondiendo al Banco la suma de US$ 2.359.021,38.- y a la
+ contrapartida local un valor de US$2.673.757,21. Es decir que el financiamiento del BID alcanzó
+ el 39% de los fondos originalmente comprometidos mientras el aporte local el 67%.
+ El Banco canceló la suma de USD 3.640.595 que no llegaron a ser desembolsados (Ver
+ CSC/CAR 1159/2017) y al cierre del Programa, el organismo ejecutor devolvió el valor de USD
+ 382,85 (ver rendición de fondos #22). Estas cifras pueden consultarse en la Tabla 5 sobre Costos
+ del Programa.
+ La distribución de fondos entre los distintos componentes del proyecto no coincidió con la
+ planificación original establecida en la matriz de financiamiento. Como puede verse en el Gráfico
+ 1, la mayor diferencia se registra en el componente 2 y se corresponde con la decisión de las
+ autoridades de concentrar más los recursos en la realización del fortalecimiento de las
+ capacidades organizacionales y disminuir el otorgamiento de ANRs.
+ Como se señaló en las secciones precedentes, el cambio de gobierno en diciembre de 2015 tuvo
+ un gran impacto en la ejecución del Programa en la medida que fue trasladado a otro Ministerio,
+ y dentro de éste tuvo muchas dificultades con la transición administrativa y presupuestaria. Ello
+ llevó a una serie de retrasos que se sumaron a los anteriores sufridos por el Programa y motivó
+ la decisión del Banco -en consenso con el gobierno- de no prorrogar el Programa luego de la
+ fecha del 12 de abril de 2017, terminar la ejecución de los proyectos más avanzados a esa fecha,
+ y cancelar el resto de los recursos.
+ A continuación, se presentan los costos del Programa, por componente y fuente de
+ financiamiento, y el cronograma de desembolsos.
+                                        Tabla nº 5. Costos del Programa.
+        Costo Total del Programa –Planeado           Costo Total del Programa - Actual
+                                                                                           % Diferencia
+                   (US$10.000.000)                           (US$5.032.778,59)
+                                         Aporte
+           Nombre               BID       Local         BID             Aporte Local   BID    Aporte Local
+     Fortalecimiento de
+         capacidades
+organizacionales y técnicas
+ en materia de promoción
+      de exportaciones       1.200.000 1.100.000    1.304.158,18        1.362.878,23     8          24
+   Instrumentos de Apoyo
+para la Internacionalización
+        de las PYMES         4.100.000 2.100.000     568.030,16          856.151,23    -86         -59
+      Desarrollo de una
+ Plataforma Virtual para la
+     PYME exportadora         430.000   470.000      227.597,00              0         -47        -100
+Gerencia, Administración y
+  Monitoreo del Programa      270.000   330.000      259.236,04          454.727,75     -4          38
+         Costo total
+   Programa Promoción
+     de Exportaciones        6.000.000 4.000.000    2.359.021,38        2.673.757,21   -61         -33
+                                                          13
+"
+"      Tabla nº 6. Evolución de los desembolsos del Banco.
+        Gráfico nº 1. Costo por componente del programa
+                        Costo por componente
+                                  (en US$)
+8,000,000.00
+6,000,000.00
+4,000,000.00
+2,000,000.00
+           -
+               Componente 1    Componente 2     Componente 3    Gerencia,
+                                                             administración y
+                                                               monitoreo
+                            Planeado        Ejecutado
+                                     14
+"
+"         Tabla nº 7. Costos del proyecto – Evolución anual por componente y producto.
+Como se observa en la Tabla 7, la evolución anual de los desembolsos del programa -para ambas
+fuentes de financiamiento- registró niveles significativamente inferiores a los planificados
+originalmente, reflejando las dificultades que enfrentó la operación a lo largo de su ejecución.
+Este desempeño se evidencia en las calificaciones del PMR del proyecto, que a lo largo de su
+ejecución fue clasificado como “problema” basado en su CTOA, principalmente por los
+desembolsos parciales presentados y la cancelación del 60% de los fondos del financiamiento
+del Banco. Tomando en cuenta todos estos elementos, la evaluación del criterio de eficiencia se
+considera como insatisfactoria.
+                                               15
+"
+"2.4      Sostenibilidad.
+a.       Aspectos generales de sostenibilidad.
+El logro del Programa en términos de sostenibilidad es satisfactorio. Si bien se identifican riesgos
+menores para la continuación de los resultados, se prevé que el impacto de los riesgos
+identificados sea bajo. Se espera que los resultados asociados a los objetivos de desarrollo
+logrados en su totalidad o parcialmente se sostengan en el tiempo.
+En este sentido, la ejecución del Programa favoreció la identificación de una demanda de apoyo
+gubernamental de parte del sector productivo para mejorar y ampliar su capacidad exportadora
+e incorporase a mercados internacionales, especialmente entre las PYMEs. Específicamente, a
+través del trabajo del Componente II, se constató la presencia de una demanda de las empresas
+por servicios de desarrollo empresarial orientados a la exportación, así como las necesidades de
+capacitación y fortalecimiento institucional que tienen las provincias. En este sentido, la UEP ha
+adoptado medidas pertinentes para garantizar que los objetivos e impactos positivos de las
+actividades de desarrollo ejecutadas, asociadas a la promoción de exportaciones, perduren más
+allá de la fecha de conclusión del Programa. Para este propósito, la UEP logró trabajar
+coordinadamente con agencias intermedias de promoción comercial y PYMES participantes del
+Programa, favoreciendo, asimismo, su sostenibilidad institucional.
+Respecto de los resultados alcanzados en materia de fortalecimiento de la capacidad institucional
+de las agencias dedicadas a la promoción de exportaciones y facilitación comercial, se espera
+que las funciones y conocimiento adquiridos por los agentes y funcionarios gubernamentales a
+cargo de la promoción comercial a nivel nacional y provincial sigan desarrollándose con
+normalidad luego del cierre del Programa, asegurando la sostenibilidad de los resultados y la
+efectiva coordinación entre agencias. Asimismo, la implementación del Sistema Business
+Intelligent continuará su contribución al manejo eficiente de datos, al análisis de información
+pertinente para el comercio exterior, y a la optimización del proceso de toma de decisiones en
+torno a negocios comerciales favorables al sector productivo nacional. De esta forma, se
+asegurará la sostenibilidad del objetivo de mejorar y democratizar el acceso de las PYMEs a
+información de comercio exterior y oportunidades comerciales.
+Con respecto al objetivo de mejorar el ritmo de crecimiento de PYMES exportadoras y
+potencialmente exportadoras atendidas por el Programa, si bien el logro fue parcial, las
+inversiones financiadas por el Programa lograron introducir condiciones que aumentan la
+participación de PYMES en mercados internacionales y reducen su vulnerabilidad frente a otros
+actores nacionales e internacionales, por ejemplo, a través de la provisión de Servicios de
+Desarrollo Empresarial. En este sentido el Programa favorece la promoción continua de
+capacidades y el desarrollo empresarial de PYMEs orientadas al comercio exterior. Las
+facilidades obtenidas, asociadas al desarrollo productivo, contribuyen a mejorar la calidad de vida
+de este sector empresarial.
+Como evidencia de la sustentabilidad de los logros alcanzados por el Programa, ya se han
+identificaron oportunidades para desarrollar nuevos programas públicos y privados que realzan
+y brindan continuidad a lo logrado. Entre otros, caben destacar proyectos de promoción comercial
+e internacionalización para PYMES con foco en: i) continuar ampliando la participación de
+PYMES en el comercio internacional y en el volumen de exportaciones del país; ii) promover la
+incorporación de valor agregado a los productos de exportación y base tecnológica; iii) contribuir
+a la diversificación de la oferta exportable nacional; iv) profundizar el acceso a información
+relevante asociada a posibles ventajas comparativas, nuevos mercados para PYMES y servicios
+de desarrollo empresarial disponibles; y v) contribuir con el alcance de estándares
+internacionales de calidad por parte de las PYMES exportadoras.
+                                                 16
+"
+"En este sentido, se destaca que el actual gobierno prevé acciones de este tipo a partir de políticas
+públicas y programas de desarrollo, algunos de estos financiados por el BID. Los mismos pueden
+visualizarse principalmente en la órbita en el Ministerio de Producción, como el Programa de
+Apoyo a la Competitividad para MIPYMEs, el establecimiento de la Ventanilla Única de Comercio
+Exterior (VUCE), el Programa Impulsa Comex y el Programa Línea PYMEs del Banco de
+Inversión y Comercio Exterior (“BICE”).
+En cuanto a los riesgos potenciales de sostenibilidad del Programa, se identificaron factores que
+pueden afectar las actividades asociadas con la participación de PYMEs en la oferta exportable
+del país. El principal riesgo potencial, en este sentido, está asociado a la continuidad del apoyo
+a actividades asociadas a la organización de la promoción de exportaciones y al incremento de
+PYMES exportadoras o con potencial exportador. Este riesgo, no obstante, puede ser mitigado
+desde la naturaleza multisectorial de la promoción del comercio exterior. En este sentido, la
+implementación efectiva de programas dirigidos a la promoción comercial de PYMES, como los
+identificados en este PCR, favorecen, directa o indirectamente, la continuidad del apoyo
+desarrollado por este Programa.
+A su vez, las agencias intermedias y las PYMEs que participaron del Programa pueden minimizar
+este riesgo toda vez que participaron del proceso de aprendizaje del Programa y adquirieron
+satisfactoriamente la capacidad para profundizar la participación en el comercio exterior más allá
+del Programa.
+En cuanto a la capacidad institucional, el Programa resultó una herramienta práctica para
+articular esfuerzos interinstitucionales entre organismos públicos y con agentes privados
+asociados a la promoción comercial. La UEP y las agencias participantes acumularon experiencia
+en el desarrollo de actividades de promoción de exportación en el sector PYMES. A su vez, la
+UEP adoptó una mayor capacidad para la ejecución de procesos de planificación, contratación y
+pago de proyectos con financiamiento multilateral. La creación de un Comité de Asignación de
+Recursos (“CAR”) se observó favorable para el análisis y aprobación de proyectos de desarrollo
+empresarial para PYMES. Cabe resaltar que el proceso de mejora no fue lineal, producto de los
+cambios institucionales, retrasos administrativos y dificultades de implementación de algunas
+actividades previstas.
+b.       Salvaguardas ambientales y sociales.
+El Comité de Revisión de Medio Ambiente e Impacto Social clasificó el Programa como categoría
+C, no previéndose riesgos socioambientales. El Programa financió actividades de fortalecimiento
+y promoción del comercio exterior que no presentan impactos directos negativos de índole social
+y medioambiental.
+III.     CRITERIOS NO CENTRALES.
+3.1      Desempeño del Banco.
+El Banco aportó su asistencia técnica a lo largo de toda la implementación, fue activo en apoyar
+acciones y recomendar mejoras que contribuyeron al impulso de la ejecución. El apoyo y el
+seguimiento fueron continuos, mediante visitas de supervisión, reuniones de seguimiento para el
+análisis, tratamiento y corrección de desvíos y de la mejora de la gestión. En particular, ante el
+retraso de la ejecución, se contrató a consultores para apoyar a la UEP en sus tareas y sugerir
+mejoras en su organización para acelerar la ejecución. Por ejemplo, se revisó el Reglamento
+Operativo del Programa (ROP) para flexibilizar ciertos procesos e intentar mejorar los tiempos
+de la ejecución de actividades.
+                                                 17
+"
+"3.2      Desempeño del Prestatario.
+La UEP tuvo un cambio en el organismo ejecutor a finales del año 2012, y luego otro cambio
+importante en la Coordinación Ejecutiva en el año 2015. En este sentido, la gestión se puede
+dividir en tres etapas: la primera desde el año 2010 al 2012, la segunda a partir del año 2013
+hasta 2014, y la tercera desde principios de 2015 hasta la finalización del Programa.
+En la primera etapa se ejecutó solo el 1% del presupuesto, principalmente en actividades de
+fortalecimiento de promoción y capacitación de profesionales en aspectos técnicos. Durante la
+primera etapa, el Programa fue percibido como excesivamente lento, y con baja capacidad de
+entregar resultados concretos.
+Durante la segunda etapa, si bien se pueden evidenciar esfuerzos para lograr la identificación de
+proyectos para la provisión de Servicios de Desarrollo empresarial exportador, la ejecución tanto
+física como financiera continuó siendo baja. En esta etapa, el foco que inicialmente estuvo
+puesto en el financiamiento de fortalecimiento institucional se trasladó a identificar proyectos con
+impacto exportador, a efectos de impulsar los objetivos establecidos en el contrato de préstamo.
+Finalmente, la última etapa se caracterizó por un aumento en la ejecución, particularmente del
+Componente 2 con el otorgamiento de 13 ANRs, y la ejecución de actividades relacionadas a
+dos nuevas prioridades del Gobierno entrante: a) puesta en marcha de la Ventanilla Única de
+Comercio Exterior (VUCE) y; b) apoyo a la nueva Agencia Argentina de Promoción de
+Exportaciones e Inversiones.
+A medida que el Programa entró en su etapa final, en el marco de la nueva administración, las
+actividades del Programa se focalizaron en destrabar dificultades administrativas para poder
+cerrar los últimos proyectos e iniciativas en curso.
+IV.      Hallazgos y recomendaciones.
+A continuación, se presentan las principales conclusiones y lecciones aprendidas del diseño e
+implementación del Programa. Estos conocimientos sirven como referencia para la preparación
+e implementación de operaciones en contextos similares.
+ En este sentido las principales recomendaciones en materia de diseño del Programa son:
+•        Diagnosticar el contexto político-económico del programa. Es clave analizar si el
+contexto político-económico es favorable a la implementación de acciones de promoción
+comercial y fortalecimiento institucional. Deben identificarse también riesgos potenciales de dicho
+contexto y posibles cambios durante la ejecución del programa.
+•        Diseñar esquemas simples de ejecución. Los componentes deben diseñarse con el
+mayor rigor técnico, atendiendo el contexto vigente. De acuerdo con las modificaciones,
+desestimaciones y fondos disponibles al cierre del programa, se observa conveniente agrupar
+acciones en pocos componentes que otorguen flexibilidad para posibles desafíos de ejecución.
+En esa línea, se debe procurar diseñar un mecanismo de ejecución dentro del Reglamento
+Operativo del Programa (ROP) que sea lo más ágil posible. Adicionalmente, las firmas
+autorizadas deberán obtenerse de funcionarios de distintos niveles para no depender de la
+disponibilidad de Secretarios o Subsecretarios.
+•        Incorporar al sector privado en el diseño del programa. Es clave favorecer la
+participación del sector privado en las etapas de diseño y ejecución de este tipo de proyectos.
+Conocer las necesidades y desafíos que enfrentan los empresarios PYMES durante el diseño
+del Programa permite generar productos y servicios adaptables y superar las barreras que
+enfrentan para generar una cartera exportadora, exportar o acceder a información comercial
+                                                 18
+"
+"pertinente. A su vez, se requiere una coordinación interinstitucional permanente entre actores
+públicos y con actores privados a fin de garantizar la ejecución efectiva de las acciones
+planificadas.
+•        Optimizar la capacidad técnica del OE. Tener en cuenta el diagnóstico real de las
+capacidades técnicas del OE en la etapa de diseño es clave para elaborar programas que se
+ajusten a sus capacidades y prevean su fortalecimiento.
+•        Fortalecer la coordinación interinstitucional del OE. Considerando que el comercio
+exterior incluye una multiplicidad de actores intervinientes, el diseño del programa debe dotar al
+OE de capacidad suficiente para articular de forma eficiente la relación con actores intervinientes,
+y coordinar la implementación de acciones por parte de otros actores.
+•        Facilitar mecanismos de resolución de conflictos. Las dificultades de ejecución del
+programa estuvieron asociadas a cambios institucionales, desarticulación de actores
+intervinientes, modificaciones de productos y subejecución de desembolsos. En este marco, el
+OE debe contar con mecanismos de resolución de conflictos, identificados en el diseño del
+programa, que mejoren el posicionamiento del OE frente a posibles desvíos de ejecución y
+faciliten escenarios transparentes de solución de controversias en el marco del programa.
+Con respecto a la etapa de ejecución, las recomendaciones están asociadas a:
+•        Orientar la ejecución a los objetivos de desarrollo. Se aprendió que es necesaria una
+mayor flexibilidad durante la ejecución de los programas de promoción comercial y desarrollo
+PYMES a fin de prever actividades dinámicas que favorezcan el alcance satisfactorio de los
+resultados y objetivos esperados por el programa. En este sentido, cabe destacar el aprendizaje
+del programa sobre la importancia de complementar acciones de promoción comercial y acceso
+a mercados internacionales con actividades de incorporación de conocimiento y capacitación
+tanto para empresarios como para funcionarios públicos.
+•        Planificar estratégicamente. En casos donde los procedimientos de aprobación son
+lentos como producto de la burocracia administrativa y cambios periódicos del contexto político-
+económico, se recomienda definir ejes estratégicos de la intervención sobre los cuales trabajar
+concreta y cuantitativamente dentro de las posibilidades. Los mismos deben priorizar aspectos
+que puedan tener impacto directo y medible para maximizar los efectos del programa.
+•        Implementar proyectos que se ajusten a las capacidades del OE. Debido a las
+dificultades observadas, se realizó un ajuste en los criterios de selección de proyectos de
+servicios desarrollo empresarial. En este sentido, cabe considerar la importancia de formular
+esquemas de ejecución que articulen esfuerzos nacionales y subnacionales con un control de
+monitoreo periódico desde la UEP a nivel nacional.
+•        Considerar la experiencia en operaciones de préstamo. El programa evidencia que
+contar con un equipo con experiencia en proyectos con financiamiento multilateral diluye los
+problemas presentados durante la ejecución. Se aprendió que los actores públicos y privados
+que intervienen en el desarrollo de programas de promoción de exportaciones deben
+familiarizarse con los términos y procedimientos previstos en proyectos con financiamiento
+multilateral. Se recomienda específicamente que la capacitación dirigida a la UEP contemple
+procedimientos de fuente 11 (nacional), como de fuente 22 (multilaterales), así como en el uso
+de UEPEX. Complementariamente, organizar talleres de intercambio de experiencias con otros
+proyectos similares puede ser de gran ayuda para la UEP en etapa de ejecución.
+•        Sostenibilidad del Programa: Se evidenció la importancia de trabajar en la creación de
+apropiabilidad en los nuevos equipos ante los cambios de gestión. Esto deberá incluir
+                                                 19
+"
+" presentaciones a las nuevas autoridades para resaltar la importancia del proyecto e involucrar
+ en el diseño y ejecución al sector privado para asegurar sostenibilidad en el largo plazo.
+ En lo referido al seguimiento de resultados una de las principales lecciones aprendidas es:
+ •        Fortalecer el esquema de seguimiento y monitoreo. Es clave medir los efectos y
+ resultados de las diferentes acciones (por ejemplo, participación en rondas de negocios,
+ misiones, eventos) a fin de identificar impactos que contribuyan al desarrollo de nuevas
+ estrategias efectivas asociadas al comercio exterior.
+ 4.1      Dimensiones.
+ El cuadro a continuación sintetiza las principales recomendaciones presentadas en la sección
+ anterior, considerando la lógica vertical del Programa, el proceso de ejecución y el monitoreo de
+ resultados.
+                                                       Tabla nº 8.
+                                       Hallazgos y recomendaciones
+         Hallazgos                                               Recomendaciones
+Lógica Vertical
+                           Diagnosticar el contexto político-económico y contemplar riesgos potenciales frente a un
+                           cambio de condiciones o contexto.
+                           Diseñar esquemas simples de ejecución que tengan suficiente flexibilidad para poder
+                           absorber cambios durante la ejecución sin grandes cambios al Programa y MR.
+Retrasos         en     la Involucrar activamente al sector público y al privado desde la etapa inicial de diseño del
+implementación debido a    Programa.
+problemas de diseño.
+                           Optimizar la capacidad técnica del OE.
+                           Fortalecer la coordinación interinstitucional del OE.
+                           Facilitar mecanismos para la resolución de conflictos por parte del OE.
+Ejecución
+                           Orientar la ejecución a los objetivos de desarrollo.
+                           Diseñar un sistema de monitoreo y evaluación que permita dar seguimiento a los datos
+Dificultades      en    la necesarios para poder medir los efectos e impactos del Programa, incluyendo datos de los
+ejecución      frente    a beneficiarios del Programa a nivel de empresa.
+cambios de contexto        Planificar estratégicamente para maximizar los efectos del Programa.
+político-económico
+                           Contar con un equipo con experiencia en proyectos con financiamiento multilateral.
+                           Involucrar a la totalidad de actores y fortalecer la apropiabilidad del Proyecto para asegurar
+                           la sostenibilidad de las acciones del Programa.
+Seguimiento de resultados
+Dificultades asociadas a
+                           Fortalecer los mecanismos de seguimiento y monitoreo para identificar impactos
+la medición de resultados
+                           adicionales asociados al Programa.
+del Programa
+                                                          20
+"

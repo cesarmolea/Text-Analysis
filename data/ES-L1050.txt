@@ -1,0 +1,1921 @@
+"outlist[[i]]"
+"                               Información Básica del Proyecto
+NÚMERO DE PROYECTO (S): ES-L1050
+TÍTULO: PROGRAMA DE TRANSPORTE DEL ÁREA METROPOLITANA DE SAN SALVADOR
+INSTRUMENTO DE PRÉSTAMO: PRÉSTAMO
+PAÍS: EL SALVADOR
+PRESTATARIO: REPÚBLICA DE EL SALVADOR
+PRÉSTAMO (S): 2572/OC-ES
+SECTOR/SUBSECTOR: TRANSPORTE
+FECHA DE APROBACIÓN EN DIRECTORIO: 14-SEPTIEMBRE-2011
+FECHA DE EFECTIVIDAD CONTRATO DE PRÉSTAMO: 19-OCTUBRE-2012
+FECHA DE ELEGIBILIDAD DEL PRIMER DESEMBOLSO: 19-ABRIL-2013
+MONTO DEL PRÉSTAMO (S)
+MONTO ORIGINAL: US$45.000.000,00
+MONTO ACTUAL: US$44.520.429,30
+PARI PASU: US$0,00
+COSTO TOTAL DEL PROYECTO: US$44.520.429,30
+MESES DE EJECUCIÓN
+DESDE APROBACIÓN: 74 MESES
+DESDE EFECTIVIDAD DEL CONTRATO: 63 MESES
+PERIODOS DE DESEMBOLSO
+FECHA ORIGINAL DE DESEMBOLSO FINAL: 27-ENERO-2016
+FECHA ACTUAL DE DESEMBOLSO FINAL: 27-ENERO-2018
+EXTENSIÓN ACUMULATIVA (MESES): 24 MESES
+"
+"EXTENSIÓN ESPECIAL (MESES):NO APLICA
+DESEMBOLSOS
+MONTO TOTAL DE DESEMBOLSOS A LA FECHA: US$44,520,429.30
+GRÁFICO DE DESEMBOLSO
+REDIRECCIONAMIENTO ESTE PROYECTO,
+¿RECIBIÓ FONDOS DE OTRO PROYECTO? [NO] ¿CUÁL? [NA]
+¿ENVIÓ FONDOS A OTRO PROYECTO? [NO] ¿CUÁL? [NA]
+CLASIFICACIÓN DEL DESEMPEÑO DEL PROYECTO EN LOS PMR:
+                                                                      DESEMBOLSO
+                                                                         ACTUAL
+     Nº           FECHA PMR          ETAPA PMR        CLASIFICACIÓN    ACUMULADO
+                                                                    (US$ MILLONES)
+               ENERO-DICIEMBRE
+     1                                I Y II 2012       PROBLEMA      8.120.516,91
+                     2012
+               ENERO-DICIEMBRE
+     2                                I Y II 2013        ALERTA      17.000.000,00
+                     2013
+               ENERO-DICIEMBRE
+     3                                I Y II 2014    SATISFACTORIO   14.000.000,00
+                     2014
+"
+"               ENERO-DICIEMBRE
+      4                                 I Y II 2015      SATISFACTORIO       4.879.483,09
+                     2015
+               ENERO-DICIEMBRE
+      5                                 I Y II 2016      SATISFACTORIO           0,00
+                     2016
+               ENERO-DICIEMBRE
+      6                                 I Y II 2017      SATISFACTORIO        520.429,30
+                     2017
+METODOLOGÍA DE ANÁLISIS ECONÓMICO EX POST:
+METODOLOGÍA DE EVALUACIÓN EX POST: ANÁLISIS COSTO – EFECTIVIDAD A PARTIR DE LA REVISIÓN DE LA
+REVISIÓN DE LOS DOCUMENTOS DE COSTOS DEL PROYECTO Y MANTENIMIENTO, Y SU COMPARACIÓN CON
+EXPERIENCIAS SIMILARES EN PAÍSES DE LATINOAMÉRICA.
+CLASIFICACIÓN DE EFECTIVIDAD EN EL DESARROLLO: SATISFACTORIO
+PERSONAL DEL BANCO
+ POSICIÓN                         DURANTE PCR                     DURANTE APROBACIÓN
+ VICEPRESIDENTE VPS               SANTIAGO LEVY                   SANTIAGO LEVY
+ VICEPRESIDENTE VPC               ALEXANDRE MEIRA DE ROSA         CRISTIANO CARUÑO
+ GERENTE PAÍS                     VERÓNICA ZAVALA                 GINA MONTIEL
+ GERENTE SECTOR                   AGUSTÍN AGUERRE                 ROBERTO VELLUTINI
+ JEFE DE DIVISIÓN                 NÉSTOR ROA                      AGUSTÍN AGUERRE
+ REPRESENTANTE DE PAÍS            CARMIÑA MORENO                  RODRIGO PAROT
+ LÍDER DE EQUIPO DE PROYECTO      ISABEL GRANADA                  MIROSLAVA NEVO
+ LÍDER DE EQUIPO PCR              RODRIGO RENDÓN                  ISABEL GRANADA
+TIEMPO DE PERSONAL Y COSTOS
+                                                                     US$ (INCLUYENDO VIAJES Y
+  ETAPA DE CICLO DE PROYECTO         # DE SEMANAS DE PERSONAL
+                                                                     COSTOS DE CONSULTORES)
+"
+"          PREPARACIÓN                               23,5                                 58.900
+           SUPERVISIÓN                              76,5                                 67.340
+              TOTAL                                 100                                 126.240
+Descripción de los Objetivos de Desarrollo del Proyecto/Programa:
+Mejorar las condiciones del transporte público de pasajeros y el tránsito en general entre Soyapango y
+el Centro de San Salvador, con el fin de estructurar una ciudad competitiva, eficiente equitativa, que
+ofrezca oportunidades a la población de menores recursos y facilitar el transporte hacia las
+oportunidades de trabajo y desarrollo económico y social.
+Para lograr este objetivo, el Proyecto ha sido estructurado en los siguientes componentes: (i) ingeniería
+y administración; (ii) corredor de transporte público masivo; y (iii) fortalecimiento institucional.
+"
+"                                             I.     INTRODUCCIÓN
+1.1    De acuerdo con las proyecciones de la Dirección General de Estadística y Censos
+       (DIGESTYC), la nación de El Salvador cuenta para el año 2018 con 6.177.346 habitantes
+       y por su densidad demográfica aproximada de 304,72 hab/km² es uno de los países más
+       densamente poblados de América. El Área Metropolitana de San Salvador (AMSS) alberga
+       a cerca de 2.290.790 habitantes, lo que representa casi el 37% de la población total del
+       país.
+1.2    En este contexto, el AMSS ha afrontado retos importantes en materia de movilidad,
+       atribuibles en parte a las altas tasas de urbanización. Tradicionalmente el transporte público
+       de pasajeros en el AMSS se ha caracterizado por sus bajas velocidades, elevados tiempos
+       de viaje entre principales orígenes y destinos, elevada contribución del sistema de
+       transporte a las emisiones del AMSS, baja percepción de la seguridad ciudadana dentro
+       del sistema de transporte, especialmente por parte de las mujeres y en general, la
+       insatisfacción con la calidad1 de los servicios de transporte público.
+1.3    Desde el año 1995 se proponían actuaciones que orientaban sobre el reordenamiento del
+       sistema de transporte público y la atención a las externalidades expuestas. De estos
+       insumos finalmente se derivó la recomendación a implantar un sistema de transporte
+       masivo operado por buses en carriles exclusivos de circulación, bajo el concepto de sistema
+       BRT (Bus Rapid Transit).
+1.4    Los estudios concluyeron la conveniencia de estructurar una red vial que da prioridad al
+       transporte público catalogada como Red Maestra2, compuesta de siete grandes corredores
+       que estructuran el Sistema Integrado de Transporte del Área Metropolitana de San Salvador
+       (SITRAMSS). Dentro de esta red, se consideró que el corredor con prioridad de
+       implantación por demanda e impacto sobre la operación del transporte público del AMSS
+       correspondía al eje Oriente-Poniente, entre las localidades de San Martín y Santa Tecla.
+       Dentro de este eje, la prioridad de intervención en términos de demanda sería el tramo
+       comprendido entre Soyapango y la Plaza Salvador del Mundo, siendo por lo tanto éste el
+       recorrido objeto del Proyecto del Sistema Integrado de Transporte para el Área
+       Metropolitana de San Salvador (SITRAMSS). El corredor en su primera etapa se consideró
+       en dos tramos, uno desde la Terminal de Soyapango hasta la 33 Avenida Norte San
+       Salvador y otro segundo tramo desde la 33 Avenida Norte hasta la Plaza del Salvador del
+       Mundo, habiéndose utilizado para ello el Bulevar Constitución.
+1.5    De la mano con la promoción de este nuevo desarrollo, se impulsó la creación de un nuevo
+       marco normativo para el sector del transporte público y para acompañar a los transportistas
+       en el proceso de reforma del sector, generando un cambio estructural en la prestación de
+       servicios al transporte público en el AMSS.
+1.6    En fecha 10 de enero de 2012 se suscribió el Contrato de Préstamo 2572/OC-ES, entre la
+       República de El Salvador y el BID, para la ejecución del Programa de Transporte del Área
+1   El concepto de calidad se asocia a parámetros de: menores tiempos de espera, costo del viaje, disponibilidad de
+    información al usuario y tiempos de viaje.
+2   Red Maestra del Sistema de Transporte.
+"
+"     Metropolitana de San Salvador, programado a ejecutarse durante el período 2012-2015,
+     por un monto de US$45.000.000.
+1.7  La ejecución financiera del Programa durante su período de vigencia se desarrolló
+     mayormente de forma satisfactoria, y sus desembolsos se encontraron siempre arriba de
+     la proyección prevista, logrando finalizar el corredor de transporte público según lo
+     planificado. En lo que respecta a la ejecución física del Programa, como en casi la totalidad
+     de los proyectos de infraestructura se generaron algunos imprevistos, ya sea por algunos
+     retrasos en la adquisición de predios o dificultades con las empresas contratistas; sin
+     embargo, el balance general se considera satisfactorio.
+1.8  Los 6,4 km del corredor troncal priorizado entraron en operación en enero de 2015.
+     Pasados diez meses de operación de este primer segmento, una encuesta a los usuarios
+     del sistema resaltó que un 37% de los viajes presentaron reducciones de tiempo cercanas
+     a los 30 minutos. Geográficamente sobre el corredor del SITRAMSS y a pocos meses de
+     su entrada en operación, se evidenciaron aumentos en las velocidades de circulación
+     promedio entre 2 km/h y 6 km/h (ver figura comparativa de velocidades).
+1.9  En agosto de 2015, la Sala de lo Constitucional de la Corte Suprema de Justicia (CSJ)
+     admitió una demanda inconstitucionalidad contra el uso del carril exclusivo funcionamiento
+     del SITRAMSS presentada por un grupo de transportistas sobre el carril segregado del
+     SITRAMSS. Se argumentó que VMT no tenía competencia para dar exclusividad de la obra
+     a la operación del corredor, sino que debería ser la Asamblea Legislativa, al tratarse de un
+     proyecto de carácter nacional, tal como lo establece el artículo 120 de la Constitución de El
+     Salvador: “toda concesión que otorgue el Estado debe ser sometida al conocimiento de la
+     Asamblea Legislativa para su aprobación.”
+1.10 Los transportistas demandantes cuestionaban que el traslado de las placas y las rutas de
+     otros sectores para incluirlas dentro del SITRAMSS, incurría en anomalías administrativas,
+     por cuanto no se realizaron concesiones como se establece para la prestación de servicios
+     públicos. En mayo de 2017 la CSJ admitió los causales de la demanda e interpuso una
+     medida cautelar estableciendo que el uso del carril exclusivo del SITRAMSS debería ser
+     concesionado, y señalando que “no deben existir restricciones en el desplazamiento
+     vehicular en dicha área, por lo que las autoridades deben procurar la fluidez que permita,
+     al mayor número de personas, la utilización de tales bienes de uso público”. De tal manera,
+     el tránsito mixto (privado y transporte público en general), podrían circular libremente por el
+     carril que ocupa el SITRAMSS.
+1.11 La medida cautelar de la Sala Constitucional de la CSJ, al permitir el tránsito mixto sobre
+     el carril confinado, tuvo un impacto negativo inmediato en las velocidades del SITRAMSS
+     y por ende en la reducción de la demanda efectiva movilizada en los años 2016, 2017, 2018
+     y 2019. Esta merma de pasajeros tuvo un impacto importante en la estimación de beneficios
+     por reducción de tiempos de viaje de los usuarios tal y como se refleja en la evaluación ex
+     post.
+1.12 En junio de 2019, la Sala Constitucional de la CSJ declaró inconstitucional la resolución del
+     director general de transito del VMT mediante la cual se estableció su uso privativo para los
+     vehículos del SITRAMSS. El fallo judicial dio un año a la Asamblea Legislativa para cumplir
+     con este requisito de rehacer la licitación de la operación del corredor SITRAMSS y,
+     además, mantener los carriles libres para la circulación de vehículos, tal como lo ordenó la
+"
+"      Sala. El no hacerlo resultará en el incumplimiento de la sentencia y la orden para llevar a
+      cabo los trabajos necesarios para rehabilitar el tráfico entre el carril segregado actual y los
+      carriles contiguos y para eliminar la señalización relacionada con su exclusividad para el
+      uso de SITRAMSS.
+1.13 Pese a los cambios introducidos en la ejecución del proyecto vis a vis su concepción original
+      (algunos de ellos se consideran fueron en mejora del sistema) y los efectos que la medida
+      cautelar y la posterior sentencia de la Sala Constitucional ha tenido sobre la operación del
+      SITRAMSS, la implantación del Proyecto ha tenido de forma agregada un impacto positivo
+      en la población. Con amplia aceptación por parte de los usuarios y los rendimientos
+      socioeconómicos estimados en la evaluación ex post demuestran que el proyecto tiene
+      beneficios reales positivos que avalan la decisión acertada de haber invertido en el sistema.
+1.14 No obstante, a pesar del impacto positivo, se ha visualizado que el proyecto es vulnerable
+      a las políticas públicas que se vayan generando durante la operación del sistema.
+                     II.    CRITERIOS CENTRALES: DESEMPEÑO DEL PROYECTO
+2.1     Relevancia
+2.1   Desde el punto de vista de objetivos y diseño, el proyecto fue consistente con la Estrategia
+      del Banco para el País (EBP) para el período 2010-2014, los requerimientos de la propia
+      nación, así como a las necesidades detectadas en el sector. Los altos niveles de
+      congestionamiento y contaminación ambiental, así como el crecimiento del parque
+      automotor privado, determinaban la necesidad de invertir en un sistema de transporte
+      público eficiente, siguiendo las pautas que a nivel internacional se han recomendado en
+      este tipo de proyectos.
+2.2   El proyecto, priorizó el principal corredor de demanda en sentido este – oeste de la ciudad
+      con buses de alta capacidad a través de carriles exclusivos, los cuales incluso en el diseño
+      de ingeniería básica fueron mejorados al permitir adelantamiento en las estaciones y
+      acceder a rutas pretroncales, disminuyendo la cantidad de transbordos que se preveían.
+    a. Alineación con las necesidades de desarrollo del país
+2.3   La estrategia definida resultó coherente con los requerimientos presentes para aquel
+      momento en el país, y era cónsono con las políticas de desarrollos emanadas por el BID
+      para la región y el sector transporte.
+2.4   De acuerdo con la Estrategia del Banco para el País (EBP) para el período 2010-2014, los
+      objetivos estaban dirigidos a fortalecer las capacidades de planificación, la creación de un
+      plan de transporte masivo, mejorar carreteras rurales, y mejorar puertos y aeropuertos.
+2.5   Dicha EBP se orientó a seis sectores: finanzas públicas, transporte, agua y saneamiento,
+      energía, hábitat urbano y protección social. Estos sectores fueron consensuados con el
+      gobierno central, al tiempo que respondían al Plan Quinquenal de Desarrollo del gobierno
+      2009-2014, del Poder ejecutivo. Entre los proyectos prioritarios destacados en dicho plan
+      se decidió modernizar el sistema de transporte urbano para reducir la congestión y
+      aumentar la movilidad en el AMSS y mejorar los caminos rurales.
+"
+"2.6     En el siguiente Plan Quinquenal de Desarrollo 2014-2019, correspondiente a la gobernatura
+        de Salvador Sánchez Cerén, entre los resultados del gobierno precedente, se resalta el
+        papel “determinante” del MOPTVDU y FOVIAL en la recuperación económica del país luego
+        de la recesión internacional, en las que se estima se inyectó más de US$600.000.000 en
+        inversión. Al respecto, se destaca entre los logros la finalización de la construcción del
+        primer tramo del SITRAMSS. En este Plan Quinquenal, entre los cinco programas
+        estratégicos formulados, el quinto programa corresponde al “Transporte del futuro para el
+        Área Metropolitana de San Salvador: SITRAMSS”, previendo la puesta en marcha el primer
+        tramo entre Soyapango y San Salvador, así como la construcción de un segundo tramo
+        para conectar San Salvador con Santa Tecla. De tal forma, el gobierno sucesor mantuvo y
+        reforzó el proyecto de transporte masivo diseñado, previendo incluso la continuidad de las
+        fases del Programa originalmente diseñado.
+      b. Alineación estratégica
+2.7     El presente PCR analiza la alineación estratégica del proyecto con los desafíos del
+        desarrollo o temas transversales definidos en la Actualización a la Estrategia Institucional
+        (UIS, por sus siglas en inglés). Los desafíos en cuestión consideran y mantienen aún su
+        vigencia en la operación del Proyecto:
+   i.          Inclusión social e igualdad
+2.8     El SITRAMSS ofrece elementos de atención a usuarios con capacidades diferentes tanto
+        en sus vehículos, estaciones y terminal de integración de Soyapango, con lo cual es un
+        transporte inclusivo y de acceso universal.
+2.9     El sistema integra distintos componentes de apoyo a las personas con distintas
+        capacidades, entre ellos: la vocería en las estaciones, con un sistema de altavoces
+        inteligentes que permite reproducir sonidos mediante conexiones inalámbricas, en los
+        andenes, plataformas y unidades, cuando abren y cierran las puertas. Así mismo, anuncios
+        en las unidades, con mensajes de audios, informando las paradas, en un aproximado de
+        diez metros con anticipación y la estación actual en un tiempo determinado de cinco metros.
+        Dentro de las unidades, se dispone de rampas en las puertas y espacio reservado para
+        personas que viajan en sillas de ruedas, la apertura y cierre de las mismas envían señales
+        visuales y auditivas; así como asientos con respaldo amarillo, destinado preferencialmente
+        para personas con alguna discapacidad, mujeres embarazadas o adultos mayores.
+        Además, la información a usuarios en estaciones y la terminal de integración de Soyapango
+        también cuenta con sistema braille.
+2.10 A través del programa del Ministerio de Educación (MINED), se capacitó en Lengua de
+        Señas Salvadoreñas (LESSA), a colaboradores de la red de carga electrónica de Sistema
+        Único de Boletos Electrónicos (SUBES) y al equipo de atención a los usuarios de
+        SITRAMSS, con miras a garantizar que el personal se comunique efectivamente con
+        personas con discapacidad auditiva.
+2.11 El SITRAMSS ha sido reconocido por el Consejo Nacional de Atención Integral a las
+        Personas con Discapacidad (CONAIPD), ante las adecuaciones hechas a las personas con
+        capacidades distintas.
+  ii.          Productividad e innovación
+2.12 En el contexto institucional del BID, el proyecto del SITRAMSS se “alinea estratégicamente
+        con el desafío de desarrollo de productividad e innovación, bajo el criterio de provisión de
+"
+"         infraestructura y servicios públicos, adecuados y fiables, que contribuyen a la mejora de la
+         productividad a través de sus efectos indirectos sobre la acumulación de capital humano”3.
+  iii.          Integración económica
+2.13 El proyecto del SITRAMSS es “consistente con los lineamientos del Marco Sectorial de
+         Transporte, que propone como meta general que ALC cuente con sistemas de transporte
+         accesibles, inclusivos, sostenibles y seguros, que reduzcan la pobreza y promuevan la
+         calidad de vida y el desarrollo económico; y con la Estrategia de Infraestructura, en el
+         lineamiento estratégico de planificar, construir y mantener infraestructura para proveer
+         servicios de calidad que promuevan el crecimiento sostenible e inclusivo, al apoyar la
+         priorización de operación del transporte a través de corredores exclusivos para transporte
+         público”4.
+         En cuanto a los temas transversales se consideran:
+Igualdad y diversidad de género
+2.14 El SITRAMSS se alinea de manera estratégica con “la temática de igualdad de género y
+         diversidad, bajo los criterios de aumento en la participación de las mujeres (viajes) por
+         reducción de la violencia en contra de ellas, e incremento en el acceso a infraestructura y
+         servicios de transporte de calidad”5.
+2.15 Según un estudio realizado6, 97% de las personas usuarias considera que el SITRAMSS
+         reúne las condiciones para respetar la dignidad de la mujer y permitir que viajen sin
+         inconvenientes en el transporte público. Ello en contraste con los datos recabados en el
+         estudio sobre violencia contra la mujer, de fecha noviembre 2016, elaborado por la Unidad
+         de Género del MOPTVDU en colaboración con el PNUD. Según el estudio del MOPTVDU,
+         tres de cuatro personas fueron testigos de un hecho de violencia contra las mujeres que
+         utilizan el transporte público convencional durante el 2016. De la muestra encuestada en el
+         estudio del MOPTVDU, 56% era mujeres, de las cuales seis de cada diez afirmaron haber
+         sido víctima de un hecho de violencia en el transporte público en los últimos 12 meses. De
+         ese estudio también resalta que los actores mayormente generadores de estos hechos de
+         violencia son los hombres pasajeros (55%), sucedidos por el cobrador (22%) y el motorista
+         (19%).
+2.16 Se realizó una campaña de comunicación en el noviembre de 2015 denominada: “Yo viajo
+         tranquila en el SITRAMSS” en los buses y paradas del SITRAMSS. La campaña tenía el fin
+         de sensibilizar los pasajeros a los temas de violencia y acoso contra mujeres, niñas y
+         adolescentes y presentar el SITRAMSS como espacio libre de acoso sexual contra ellas.
+3      Banco Interamericano de Desarrollo - SITRAMSS, Mejorando el transporte público del Área Metropolitana de San
+       Salvador. Capítulo: Un proyecto alineado con la estrategia del país y del BID. Pág. 38. Sep/2016.
+4      Ídem
+5      Ídem
+6      Unidad de Marketing de la Unión de Empresas SITRAMSS
+"
+"Cambio climático y sostenibilidad del medio ambiente
+2.17 La introducción del SITRAMSS ha tenido un impacto positivo con el medio ambiente al
+     introducir un sistema de buses de alta capacidad y eficientes; así como por haber iniciado
+     un proceso de reorganización de las rutas de transporte en el AMSS.
+2.18 Los vehículos que operan en el sistema disponen de motores EURO III, que representa una
+     tecnología más avanzada de combustión que las unidades convencionales que operan en
+     el AMSS, con menor cantidad de emisiones de gases contaminantes a la atmósfera, en
+     particular las emisiones de CO2. Los motores Euro III además utilizan combustibles bajos
+     en concentración de azufre (inferiores a 50 partículas por millón), en comparación con la
+     flota tradicional de buses que utiliza combustibles con concentraciones de hasta de cinco
+     mil partículas por millón de azufre.
+2.19 Vale señalar que entre los beneficios también destaca la sustitución o reducción del número
+     de buses del transporte público antiguos (76% de la flota actual de más de diez años de
+     antigüedad). A este respecto ya se realizó el traspaso de 37 concesiones correspondientes
+     a las rutas 29 y 152, que ahora se transforman en las nuevas rutas propiedad de las
+     Empresas Unidas del SITRAMSS S.A de C.V.7
+2.20 Anualmente, el Ministerio de Medio Ambiente y Recursos Naturales (MARN), elabora un
+     informe del Monitoreo de la Calidad del Aire en el Área Metropolitana. Posterior a la entrada
+     en operación del sistema, a través del monitoreo que realiza el MARN en la zona de
+     influencia del SITRAMSS se determinó que la calidad del aire pasó, de “Muy dañina” para
+     la salud a “Satisfactoria”. De igual manera, las mediciones de calidad del aire y ruido que
+     realizó una de las empresas constructoras del corredor troncal, como parte de los
+     compromisos medioambientales establecidos, en mayo de 2015, los niveles están por
+     debajo del mínimo adecuado para la salud, lo que coincide con los datos que refleja el
+     informe del MARN.
+2.21 Otro aspecto favorable de la implantación del SITRAMSS es que sus vehículos tienen
+     menores emisiones de ruidos, contrario a los autobuses del sistema de transporte
+     tradicional que es de 118 decibeles comparado con los menos de 80 decibeles que emiten
+     las nuevas unidades.
+Capacidad institucional y estado de derecho
+2.22 El VMT tuvo un alto posicionamiento al introducir el SITRAMSS como elemento
+     estructurador del sistema de transporte público del AMSS, que le permitió abonar en la
+     modernización del sector y la racionalización de la red de transporte público de la ciudad,
+     en correspondencia con los lineamientos estratégicos previstos en la formulación del
+     Préstamo.
+2.23 Asimismo, detonó la aparición de otros proyectos como la reubicación de la Terminal de
+     Oriente y la renovación del parque vehicular del transporte interurbano.
+7  Viceministerio de Transporte. “Estudio de evaluación intermedia del Programa de Transporte del Área
+   Metropolitana de San Salvador, Primera Fase.” Informe Final. Agosto 2015.
+"
+"2.24 La etapa de planificación del proyecto, con base en el marco normativo que regula el
+     transporte en El Salvador, consideró la necesidad de la extinción o modificación de los
+     contratos vigentes. Posteriormente, se realizaron modificaciones y reformas de leyes para
+     posibilitar los traspasos de concesiones, promulgándose un par de decretos legislativos
+     que permitieron el traspaso de concesiones entre empresarios. En virtud de los ajustes a
+     la legislación la empresa operadora SIPAGO SITRAMSS, S.A. de C.V., adquirió 31
+     concesiones de la empresa ACOPATT, S.A. de C.V (Ruta 29) y seis concesiones de la
+     empresa ACOSTES EL SALVADOR S.A DE C.V (Ruta 152), sumando un total de 37
+     concesiones en propiedad. Con estas acciones, bajo los principios y normas legales
+     vigentes, el proceso de concesiones se sustentó la puesta en operación negociada con los
+     actuales operadores. Todavía, la oportuna reorganización del transporte colectivo de
+     pasajeros en El Salvador generó un conflicto entre los operadores de SITRAMSS y los
+     operadores independientes que se quedaran inconformados con la decisión lo que en parte
+     derivó en la posterior medida cautelar interpuesta por la Sala Constitucional de la Corte
+     Suprema de Justicia.
+   c. Relevancia del diseño
+2.25 El proyecto mantuvo a lo largo de su ejecución los objetivos e indicadores previstos en la
+     matriz de resultados. Al respecto, se presenta un esquema de la lógica vertical en la que
+     se estructuró el proyecto.
+Lógica Vertical
+                                                                                                 OBJETIVOS
+                  PRODUCTOS                                  RESULTADOS
+                                                                                                ESPECÍFICOS
+      COMPONENTE 1
+                       1.1 Contratación de Firma
+          Ingeniería y
+                           Gerenciadora del Proyecto
+      Administración
+                       1.2 Estructuración de la Unidad    1.1 Índice de Satisfacción del
+                           Coordinadora de Proyecto           público usuario
+                       1.3 Monitoreo y Evaluación,                                       Rehabilitación y mejoramiento de
+                           realizadas                     1.2 Tiempo de viaje de un      la infraestructura urbana del
+                                                              usuario de transporte      transporte
+      COMPONENTE 2                                            público de pasajeros en el
+                       2.1 Construcción de la Terminal de
+            Corredor                                          corredor entre Soyapango
+                           Integración                                                                      Contribuir a la mejora de
+          Transporte                                          y Metrocentro
+                                                                                                            calidad de la población en
+     Público Masivo    2.2 Construcción de Corredor                                                         el área de intervención
+                           segregado y sistemas
+                                                          1.3 Costos de operación de los
+                           peatonales
+                                                              vehículos de transporte
+                       2.3 Adquisición de Predios             público en el corredor
+                       2.4 Construcción y equipamiento
+                                                          1.4 Número de pasajeros
+                           de Centro de Control
+                                                              transportados a través del
+                       2.5 Campañas comunicacionales,         sistema
+                           implementadas
+      COMPONENTE 3     3.1 Estudios específicos para la
+     Fortalecimiento       construcción del SITRAMSS
+        Institucional
+2.26 La estructura del proyecto estableció un objetivo orientado al financiamiento de los distintos
+     componentes del mismo, que establecieron los Productos a ser medidos en la ejecución
+     del Préstamo, que luego de su implementación, permitirían obtener los Resultados
+     medibles a través de indicadores.
+"
+"2.27 El objetivo planteado de “Rehabilitación y mejoramiento de la infraestructura urbana del
+      transporte” contempló cuatro indicadores: satisfacción del usuario, tiempo de viaje del
+      usuario en el tramo a ser implantado, los costos de operación vehicular en el corredor y el
+      número de pasajeros transportados a través del sistema tal como se presenta en la Tabla
+      1.
+                                   Tabla 1. Matriz de resultados
+                                       Meta en la         Meta 60 días tras    Logro efectivo al
+            Indicador
+                                      Aprobación             elegibilidad      final del proyecto
+ 1.1 Índice de Satisfacción del
+                                       Índice: 20              Índice: 20            Índice: 89
+ público usuario
+ 1.2 Tiempo de viaje de un
+ usuario de transporte público
+ de pasajeros en el corredor           40 minutos             40 minutos            20 minutos
+ entre        Soyapango        y
+ Metrocentro
+ 1.3 Costos de operación de
+ los vehículos de transporte      USD$ 00.00 Millones    USD$ 00.00 Millones  USD$ 53,25 Millones
+ público en el corredor
+ 1.4 Número de pasajeros
+                                        200.000                 200.000
+ transportados a través del                                                   34.842 pasajeros/día
+                                     pasajeros/día           pasajeros/día
+ sistema
+2.28 La estructuración del programa, resultados y productos esperados respondió a la práctica
+      común aplicada a este tipo de proyectos de transporte masivo ya desarrollados en la región,
+      como es el caso de TRANS50 en Tegucigalpa (Honduras); TRANSMETRO, en Ciudad
+      Guatemala, el Masivo Integrado de Occidente (MIO), en Cali (Colombia), Montevideo
+      (Uruguay), entre otros. Se definieron tres componentes fundamentales: (i) asociado al
+      diseño y estructuración del proyecto; (ii) la ejecución de las obras para la implantación del
+      BRT, y (iii) el Fortalecimiento Institucional y apoyo técnico complementario.
+2.29 Las condiciones contractuales desde el inicio del programa de la creación e
+      institucionalización de la Unidad Ejecutora (UE) fueron debidamente abordadas, el diseño
+      y estructuración del Programa, así como el apoyo técnico brindado fueron fundamentales
+      para iniciar los procesos de licitación y posterior construcción de los componentes físicos
+      del programa.
+2.30 Los objetivos fueron asociados a la reducción de los tiempos de viajes de los usuarios y el
+      aumento de velocidades del sistema de transporte colectivo, en favor de la reducción de
+      costos operacionales de los vehículos, la disminución de la emisión de contaminantes y el
+      consiguiente aumento de la calidad de vida en general de los habitantes.
+2.31 De tal forma, se ratifica que la estructura de lógica vertical fue acertada para el momento
+      de formulación del programa, sin embargo, la estructura institucional evolucionó
+      parcialmente de acuerdo con lo establecido en el Contrato de Préstamo de una unidad
+      “estrictamente de construcción y puesta en marcha a otra encargada de la operación” del
+      SITRAMSS, y la Unidad Ejecutora (UE) no logró convertirse en el ente regulador de la
+      operación del sistema.
+2.32 De la totalidad de indicadores establecidos, no se pude cumplir dos indicadores, el que
+      corresponde al número de pasajeros que se había previsto transportar a través del sistema
+"
+"      y el que corresponde a la reducción de los costos de operación. En relación al número de
+      pasajeros se alcanzó de transportar aproximadamente el 17% de la meta establecida. Dicha
+      situación, se puede atribuir principalmente a la Sentencia de la Corte Suprema de Justicia,
+      la cual habilitó que el tráfico mixto pudiera circular en el corredor del SITRAMSS, tal como
+      se ha detallado en la parte introductoria. En relación con los costos de operación se logró
+      a reducirlas, pero no se llegó al nivel establecido en la matriz de resultados.
+2.2     Efectividad
+    a. Descripción de los objetivos de desarrollo del proyecto
+2.33 La finalidad general del programa es el mejoramiento de infraestructura de transporte, a
+      través de un aumento de la calidad de vida de la población del área de intervención. Su
+      objetivo es mejorar las condiciones del transporte público de pasajeros y el tránsito en
+      general con el fin de estructurar una ciudad competitiva, eficiente y equitativa, que ofrezca
+      oportunidades de movilidad sostenible a la población de menores recursos y facilite el
+      transporte hacia las oportunidades de trabajo y desarrollo económico y social.
+    b. Resultados Logrados
+2.34 En cuanto a los resultados obtenidos, los asociados a los beneficios percibidos por los
+      usuarios, que son: i) índice del grado de satisfacción del público y ii) tiempo de viaje de los
+      usuarios, excedieron las expectativas iniciales del proyecto. En relación con los indicadores
+      asociados al costos de operación de los vehículos y al número de pasajeros movilizados,
+      no lograron alcanzar los valores previstos.
+2.35 En efecto, el grado de satisfacción de los usuarios medidos al inicio de operación del
+      proyecto fue de amplio espectro en la comunidad con 87% de aprobación entre los
+      entrevistados. Asimismo, la implantación del sistema logró una disminución significativa de
+      los tiempos de viaje de los usuarios, antes de la medida cautelar aplicada por la CSJ y su
+      posterior posición de inconstitucionalidad. Vale señalar al respecto, que la implantación de
+      carriles de adelantamiento en las estaciones permitió mitigar parcialmente el impacto del
+      tránsito mixto sobre los carriles exclusivos, luego de aplicada la medida cautelar de la CSJ.
+2.36 En cuanto a los costos operacionales, no se lograron los indicadores previstos, toda vez
+      que no se logró la desincorporación total de la sobreoferta de servicios de transporte
+      convencional que aún sigue compitiendo con el servicio troncal.
+2.37 De igual manera tampoco se logró el indicador de pasajeros movilizados, toda vez que no
+      fue adquirida la totalidad de la flota estimada para la movilización de la demanda que lo
+      requiere. De tal modo, de los 200.000 pasajeros diarios previstos a movilizar por el
+      SITRAMSS, el sistema sólo tuvo capacidad de mover en su máxima demanda casi 35.000
+      pasajeros diarios (17% de la demanda prevista inicialmente), y se asume que la diferencia
+      de pasajeros y trasladan en otros modos de transporte (buses convencionales etc.).
+2.38 Los componentes y subcomponentes asociados al arranque del proyecto, en cuanto al
+      fortalecimiento institucional de la UE del Proyecto y la propia formulación y estructuración
+      del proyecto, tuvieron un satisfactorio grado de efectividad y se cumplieron en su totalidad.
+2.39 En los componentes y subcomponentes asociados a la construcción de la infraestructura
+      del sistema de transporte masivo, asociados al corredor y estaciones tuvieron un
+"
+"     satisfactorio grado de efectividad en su ejecución, pese a los retrasos y lograron
+     desarrollarse de acuerdo con la programación prevista, en su casi totalidad. Sólo la
+     Terminal de Integración de Soyapango, patios, talleres y la propia puesta en marcha de la
+     operación que incluía los componentes tecnológicos de recaudo y centro de control,
+     tuvieron importantes retrasos. Aunque en términos de participación en el total del
+     componente de infraestructura estos rubros representaban alrededor de un 20% del monto
+     previsto resultaban claves para la puesta en operación del sistema, en conjunto con la
+     incorporación de la flota por parte de los privados. En el caso de las instalaciones de patios
+     y talleres, los retrasos fueron debidos fundamentalmente a problemas con la propiedad de
+     los terrenos en los que se preveía implantarlos y procesos de negociación para su
+     adquisición.
+2.40 Las obras civiles del proyecto se desarrollaron satisfactoriamente con pocas demoras con
+     respecto a lo programado, justificadas por permisos de organismos gubernamentales y
+     solicitudes del VMT de postergar y/o adecuar algunas intervenciones a efectos de mitigar
+     los impactos sobre la operación del tránsito de la ciudad. Las obras físicas del corredor
+     presentaron un avance significativo y el desfase se concentró en la construcción de las
+     paradas.
+2.41 Si bien no está involucrado con la ejecución del Préstamo con el BID, una obra que incidió
+     en la programación es el inicio de la construcción del paso superior sobre la 50 Avenida
+     Norte, en el Bulevar del Ejército a mediados del mes de septiembre de 2013. Dicha obra se
+     ejecutó con recursos de FOVIAL. Esta actuación tuvo un impacto importante en la gestión
+     de tráfico de las obras asociadas al corredor y logística de operación de la contratista del
+     tramo 1. La obra fue inaugurada el 25 de mayo de 2014 y no tuvo retrasos significativos en
+     su ejecución.
+2.42 En términos generales, el componente de infraestructura avanzó según lo pautado a
+     excepción de la Terminal de Integración de Soyapango, cuyas obras no se culminaron dado
+     que el contrato se rescindió por la causal de caducidad en noviembre de 2014.
+2.43 En términos de la lógica vertical los productos asociados tuvieron mayor grado de
+     cumplimiento por estar asociados en su gran mayoría a la ejecución del Préstamo en
+     términos de cumplimiento con las condiciones contractuales, la construcción de la
+     infraestructura y dotación de equipamiento y la realización de estudios complementarios
+     para la implantación. No obstante, los resultados no se lograron en su totalidad por
+     decisiones institucionales en la adjudicación de la operación del sistema y las
+     consecuencias que derivaron de ésta ante las inconformidades de los empresarios del
+     sector y la medida cautelar asumida por la CSJ en respuesta a las demandas introducidas.
+2.44 Los resultados logrados por cada componente se reseñan a continuación, presentando el
+     grado de cumplimiento de los indicadores de resultado establecidos en la matriz de
+     resultados y analizando su eventual impacto. Las Tablas 1 y 2 presentan respectivamente
+     los cambios introducidos a la matriz de resultados durante la ejecución y los detalles de las
+     metas previstas y alcanzadas. El objetivo propuesto, los resultados e indicadores
+     propuestos para el programa fueron adecuados y de fácil evaluación. Sólo en el caso de la
+     demanda total movilizada se consideró una meta que corresponde al proyecto funcionando
+     en etapa madura y con la incorporación de todas las propuestas de rutas alimentadoras. A
+     efectos de la medición del presente PCR es importante mencionar que, si bien el sistema
+     no inició con el número de vehículos por diseño, 200 unidades versus 37 en operación (21
+"
+"     padrones y 16 articulados), la evolución de la demanda de pasajeros previo a la demanda
+     cautelar dejaba prever un adecuado desempeño operativo. Al cierre de este PCR, la
+     inversión privada planificada para la flota de buses no se incrementó y se mantuvo en las
+     37 unidades, esto debido a que el carril del SITRAMSS ha dejado de ser exclusivo luego
+     de la sentencia definitiva de la Corte Suprema de Justicia y la demanda de pasajeros no
+     siguió su tendencia incremental. Se está a la espera de la solución operativa que el
+     Gobierno le dé a la sentencia definitiva de la Corte.
+2.45 Los riesgos considerados en la matriz de resultados fueron en su casi totalidad mitigados,
+     y los que aún quedan pendientes son propios a la operación del sistema y no a su ejecución.
+"
+"                                            Tabla 2. Matriz de resultados alcanzados
+                                              Valor de     Año de      Metas y
+                                  Unidad de                                            %
+    Resultados / Indicador                    línea de    línea de     alcance                  Medios de verificación
+                                   medida                                         Alcanzado
+                                                base        base        actual
+CONDICIONES DEL TRANSPORTE PÚBLICO DE PASAJEROS Y EL TRÁNSITO MEJORADAS
+                                                                    P       20%
+1.1 Índice de satisfacción del                                                                           Encuestas
+                                    Índice      10,00       2011    P(a)    20%      790%
+    público usuario
+                                                                    A       89%
+1.2 Tiempo de viaje de un                                           P        40
+    usuario    de      transporte
+    público de pasajeros en el                                      P(a)     40             Mediciones directas de tiempo de
+    corredor entre Soyapango y     Minutos      50,00       2011                     300%                   viaje
+    Metrocentro                                                     A        20
+                                                                           (aMC)
+1.3 Costos de operación de los                                      P         0
+    vehículos de transporte                                                                    Al finalizar el Programa se
+    público en el corredor           US$                                                         actualizarían los costos
+                                                54,00       2011    P(a)      0     1.39%
+                                   millones
+                                                                    A       53,25
+1.4 Número      de      pasajeros                                   P     200.000
+    transportados a través del
+    sistema                                                                                 Datos para obtenerse en el centro
+                                  Pasajeros   160.000       2011    P(a)  200.000   -313%
+                                                                                                  de control del sistema
+                                                                    A      34.842
+"
+"Tabla 3. Matriz de productos alcanzados
+                                          Valor de  Año de     Metas y
+                                Unidad de                                     %
+       Producto / Indicador               línea de línea de    alcance                  Indicadores de Producto
+                                 medida                                   Alcanzado
+                                            base     base       actual
+ 1. INGENIERÍA Y SUPERVISIÓN
+                                                            P         1
+ 1.1 Firma gerenciadora
+                               Unidad         0      2012   P (a)     1  100%       Firma gerenciadora contratada
+      contratada
+                                                            A         1
+                                                            P         1
+ 1.2 Unidad coordinadora de    Unidad                                               Unidad coordinadora de proyecto,
+                                              0      2012   P (a)     1  100%
+      proyecto, constituida    conformada                                           constituida
+                                                            A         1
+                                                            P         3
+ 1.3. Monitoreo y evaluación,                        2014
+                               Informes       0             P (a)     2  33,3%      Monitoreo y evaluación, realizadas
+      realizadas                                     2015
+                                                            A         1
+ 2. CORREDOR DE TRANSPORTE PUBLICO MASIVO
+                               Unidad                       P       1,00
+ 2.1 Terminal de integración
+                                              0      2013   P (a)   1,00 100%       Terminal de integración construida
+      construida
+                                                            A       1,00
+ 2.2 Corredor segregado y                                   P       6,00
+                                                                                    Corredor segregado y sistemas
+      sistemas peatonales,                    0      2014                100%
+                               Kilómetros                                           peatonales, construidos
+      construidos                                           P (a)   6,00
+"
+"                                                   A     6,00
+                                                   P     6,00          Predios adquiridos
+                                  Unidad
+ 2.3 Predios adquiridos                     0 2013 P (a) 6,00 100%     Firma gerenciadora contratada
+                                                   A     6,00
+                                                         1,00          Centro de control, construido y
+                                                   P
+                                                                       equipado
+                                  Unidad
+ 2.4 Centro de control,
+                                            0 2014            100%
+     construido y equipado                         P (a) 1,00          Firma gerenciadora contratada
+                                                   A     1,00
+                                                   P     3,00
+                                              2013
+ 2.5 Campañas
+                                                                       Campañas comunicacionales,
+     comunicacionales,                      0 2014 P (a) 4,00 133,3%
+                                                                       implementadas
+     implementadas
+                                              2015
+                                                   A     4,00
+ 3. FORTALECIMIENTO INSTITUCIONAL
+                                            0      P     5,00 Estudios
+ 3.1 Estudios específicos para la             2013
+                                   Estudios
+     construcción del                       0      P (a) 5,00 80%
+     SITRAMSS, realizados                     2014
+                                            0      A     4,00
+Notas: P      = Programación Inicial
+       P (a) = Meta Anual Revisada
+       A      = Actual
+"
+"   c. Análisis de atribución
+2.46 Como se indicó previamente, de los cuatro resultados previstos, el asociado a la percepción
+     del usuario y al tiempo de viaje tuvieron éxito y los otros dos asociados a los costos de
+     operación de los vehículos y demanda movilizada, no fueron alcanzados.
+2.47 El proyecto ha tenido una amplia aceptación por parte de los usuarios como lo corroboró el
+     análisis de la evaluación intermedia8. De acuerdo con las consultas hechas al arranque del
+     sistema 100% de los entrevistados consideró bueno el servicio de transporte brindado,
+     sustentados en la rapidez, seguridad, comodidad y funcionalidad del servicio. En la
+     calificación del grado de satisfacción del servicio ningún usuario hizo una valoración
+     negativa del servicio y 60% consideró que es un servicio excelente.
+2.48 La satisfacción de los usuarios del SITRAMSS además también es reflejo de otras metas
+     previstas en la formulación del programa, particularmente la reducción del tiempo para la
+     llegada a su destino, en la cual 63% de los usuarios en el 2015 indicó como principal
+     beneficio del sistema. Para la medición del 2015, la totalidad de los usuarios ratificó haber
+     reducido su tiempo de viaje, cuya mayor proporción de reducción de tiempo de traslado se
+     ubicó entre una y media hora de tiempo. La construcción del carril confinado y el
+     adelantamiento en cada una de las estaciones fue el elemento clave en el aumento de
+     velocidades del sistema y por ende la reducción de los tiempos de viaje de los usuarios.
+2.49 Otras valoraciones importantes expresadas en la satisfacción de los servicios por parte de
+     los usuarios, correspondió a la limpieza de las estaciones, la iluminación de esta, el respeto
+     a las normas y el respeto al subir y bajar de las unidades. Ello ratifica el resultado positivo
+     en la población del efecto de modernización que introdujo el SITRAMSS.
+2.50 Desde el punto de vista de reducción de costo operacional de los vehículos, con la
+     desincorporación de unidades en la conformación de la alianza de SIPAGO y la
+     incorporación de unidades de mayor capacidad y más eficientes en el consumo de
+     combustible, permitieron una efectiva disminución de los costos operacionales. Al respecto,
+     en la medida que se racionalice la red y se amplíe el sistema troncal, esta reducción de
+     costos operacionales será mayor.
+2.51 Por otra parte, la medida cautelar de la Sala Constitucional de la Corte Suprema ha tenido
+     un impacto previsible en la evolución del sistema, toda vez que, con la circulación del
+     tránsito mixto sobre el corredor segregado, se han disminuido las velocidades de operación
+     y ha generado una merma en la demanda movilizada inicialmente por el sistema. Esta
+     merma en la demanda también ha generado incertidumbre en los operadores que han
+     detenido el proceso de incorporación de la flota total prevista.
+   d. Resultados Imprevistos
+Cambios en la ingeniería básica
+2.52 En la concepción original del Proyecto se previó un corredor con un único canal segregado
+     con servicios de buses articulados entre la Terminal de Integración de Soyapango y una
+8  Viceminsiterio de Transporte. “Estudio de evaluación intermedia del programa de transporte del Área
+   Matropolitana de San Salvador, Primera fase”. Informe final. Agosto, 2015.
+"
+"     estación cercana Centro Comercial Metrocentro, sobre la Alameda Juan Pablo II. Luego,
+     en el desarrollo de la ingeniería básica, por parte del Consorcio Acciona Ingeniería – TTC
+     – Escallón Morales, se introdujeron cambios significativos a esa concepción, al incorporar
+     canales de adelantamiento en las paradas y la prestación de servicios pretroncales
+     combinados con los servicios troncales, para contar con mayor diversidad de servicios.
+     Estos cambios resultaron positivos en términos del aumento de capacidad del sistema y la
+     mitigación de los transbordos al usuario al contar con servicios como las pretroncales que
+     evitaban el ingreso a las áreas terminales, así como la posibilidad de extender los servicios
+     hacia el oriente y poniente del corredor.
+2.53 Posteriormente, el operador designado potenció estos servicios pudiendo extender el
+     servicio hacia Salvador del Mundo, así como a la nueva terminal de oriente para empalmar
+     con los servicios interurbanos, sin contar con la infraestructura asociada a la ejecución del
+     Préstamo del Banco.
+Retraso en la construcción de la Terminal de Soyapango
+2.54 Las dificultades presentes en el desarrollo del Proyecto de la Terminal de Soyapango por
+     las condiciones del terreno en donde se emplaza (anteriormente una parte del terreno fue
+     un relleno sanitario) y los problemas propios que atravesó la empresa contratista que no
+     logró ejecutar la obra, fueron determinantes en la imagen del proyecto, la postergación de
+     la implantación del centro de control y la posibilidad de racionalización de la red de
+     transporte proveniente de Soyapango que ingresaba al corredor del Bulevar del Ejército
+     Nacional. A fin de mitigar el no contar con la Terminal de Integración de Soyapango, el VMT
+     tomó la decisión de disponer de una parada provisional en Soyapango que no contaba con
+     las condiciones necesarias para la absorción de la demanda de ese sector y también
+     generó molestias a los usuarios, lo cual incidió también en la percepción negativa de la
+     comunidad sobre los beneficios del proyecto.
+Retraso en la adquisición de los terrenos para patios y talleres
+2.55 La falta de la titularidad de los terrenos, así como las rivalidades presentes entre las
+     distintas dependencias interesadas en su propiedad, conllevó a un prolongado lapso de
+     incertidumbre en la posible utilización del inmueble originalmente previsto para patios y
+     talleres del sistema.
+2.56 El interés de reactivación del sistema ferroviario por parte de FENADESAL y la declaratoria
+     de patrimonio nacional del inmueble por SECULTURA, limitó la actuación del terreno para
+     el uso previsto. Ello incluso derivó en la búsqueda de otros terrenos para la reubicación del
+     área, sin que se lograra un terreno con condiciones equivalentes.
+2.57 Pese a la exigencia de la UE y las autoridades del VMT ante diversas dependencias del
+     Gobierno Salvadoreño (FENADESAL, SECULTURA, MOPTVDU, MARN, Secretaría
+     Técnica de la Presidencia, entre otras) por optar por los terrenos de FENADESAL, el
+     acuerdo para la efectiva transferencia de los terrenos no se logró hasta el último trimestre
+     del año 2014.
+2.58 Por otra parte, si bien se tenía la certeza que los terrenos eran públicos, se determinó que
+     la propiedad requería procesos más complejos de traspaso entre las dependencias con
+     respecto a lo previsto originalmente. Además del celo de propiedad de los inmuebles de las
+     dependencias públicas, un aspecto a resaltar es la necesaria aprobación de los entes que
+"
+"     centralizan el registro inmobiliario público, en los cuales en algunos casos se requiere
+     investigar sobre las condiciones de entrega de los predios, las posibilidades de los entes
+     de enajenarlos o incluso en algunos casos la necesidad de contemplar consultas al poder
+     legislativo para su transferencia.
+2.59 Finalmente, se determinó entregar en comodato el terreno a la alianza de SIPAGO y
+     SUBES para la operación de patios y talleres de los terrenos establecidos.
+Medida cautelar de la Sala Constitucional de la Corte Suprema y posterior sentencia definitiva
+2.60 La medida cautelar de la Sala Constitucional de la Corte Suprema de Justicia y su posterior
+     sentencia definitiva, al permitir el tránsito mixto sobre el carril confinado, tuvo un impacto
+     significativo en las velocidades del SITRAMSS y por ende en la reducción de la demanda
+     efectiva movilizada.
+2.61 El SITRAMSS inició en 2015 y en sus primeros ocho meses de funcionamiento superó los
+     cinco millones de pasajeros con un promedio estimado para el período de casi 35 mil
+     pasajeros diarios. En el año 2016, la demanda total del servicio se incrementó a 10,67
+     millones de usuarios (más de 40 mil pasajeros diarios) y a partir del 2017, luego de la
+     medida cautelar aplicada por la Sala Constitucional de la Corte Suprema, se evidencia un
+     decaimiento en el número de pasajeros movilizados, reduciéndose a casi 8 millones de
+     pasajeros (reducción de casi 26% con respecto al año anterior y menos de 30 mil pasajeros
+     diarios). Para los años 2018 y 2019 la demanda sigue mermando y se espera que cierre en
+     cerca de 4,5 millones de usuarios (un 46% con respecto al 2017, con apenas 17,3 mil viajes
+     diarios).
+2.62 Se considera que puede ser factible que la población usuaria prefiera los servicios
+     convencionales por su menor precio relativo con respecto al servicio del SITRAMSS, al no
+     tener mayores aumentos de velocidad a raíz de la medida cautelar. Los servicios
+     convencionales cobran entre US$0,20 en autobuses y US$0,25 en microbuses con
+     respecto a los US$0,35 en servicios con vehículos nuevos los US$0,33 del SITRAMSS. De
+     acuerdo con información consultada la flota nueva que cobra US$0,35 es limitada con
+     respecto al total de la oferta operando en la ciudad y representa menos del 10% del total
+     de la que opera en la ciudad.
+Ampliación del sistema
+2.63 La ampliación del sistema hacia el oriente y poniente de la ciudad con los servicios
+     pretroncales, si bien ha generado beneficios a los usuarios, con la merma en las
+     velocidades sobre el corredor y con una flota menor a la estimada, implica una menor oferta
+     para atender la demanda del servicio, con lo cual el usuario ha recurrido a los servicios
+     convencionales, que de paso resultan más económicos y sin restricciones del uso de la
+     tarjeta inteligente sin contacto.
+Reubicación de la Terminal de Oriente
+2.64 Cabe señalar que la reciente (2018) reubicación de la Terminal de Oriente, para uso de
+     buses intermunicipales, hacia Ilopango y su interconexión con el SITRAMSS a través de
+     una plataforma exclusiva, tuvo un impacto positivo en la reducción de vehículos
+     interurbanos que accedían al centro de la ciudad, aunque no se tiene información detallada
+     de su impacto sobre el tránsito del Bulevar de El Ejército. Se conoce por medios
+"
+"      informativos locales que la terminal absorbe un total de 365 buses diarios que en teoría
+      serían desincorporados del tramo donde opera el SITRAMSS.
+2.3      Eficiencia
+2.65 El desempeño eficaz a nivel de gestión administrativa de la UE al inicio del proyecto fue
+      determinante en la ejecución a su inicio, quien veló por el sostenimiento de los objetivos,
+      los fines previstos y el cumplimiento de los compromisos establecidos contractualmente.
+2.66 La autonomía dada a la UE al arranque de la operación fue clave para articular a todos los
+      actores que participaron en la ejecución del programa atendiéndose de manera adecuada
+      los riesgos previstos y con una adecuada coordinación entre las distintas dependencias del
+      gobierno central.
+2.67 El proyecto en cuestión fue objeto de un análisis socioeconómico ex ante, que sirvió a los
+      fines de la gestión de los recursos del préstamo del BID para el Programa en el año 2010,
+      contenida en el documento “Asistencia Técnica para el Sistema Integrado de Transporte
+      del Área Metropolitana de San Salvador, Producto 1. Evaluación económica”, elaborada en
+      2011.
+2.68 La metodología de evaluación económica se basó en el análisis costo – beneficio, mediante
+      la comparación de los costos de inversión de la propuesta con proyecto comparada con
+      mantener la situación actual. Los beneficios y costos sociales provinieron de la comparación
+      de la situación actual o “sin proyecto”, con las situaciones propuestas o “con proyecto”. Los
+      beneficios fueron estimados mediante el cálculo de las reducciones en costos asociados al
+      desplazamiento de los vehículos y usuarios, en cuanto a dos aspectos: reducción de costos
+      de operación de los vehículos y horros de tiempos de viaje de los usuarios
+2.69 Los costos de inversión considerados para el programa fueron:
+                                    Tabla 4. Costos de inversión
+                                                                         APORTE
+ CATEGORÍAS                                                   BID                        TOTAL
+                                                                          LOCAL
+ Ingeniería y Administración                               5.100.000,00  500.000,00    5.600.000,00
+                                    Firma Gerenciadora     1.500.000,00                1.500.000,00
+                                       Unidad Ejecutora                  500.000,00      500.000,00
+                              Equipamiento y mobiliario      150.000,00                  150.000,00
+                              Gastos de Pre- Operación       200.000,00                  200.000,00
+                                              Auditorias     200.000,00                  200.000,00
+                                                Estudios   1.000.000,00                1.000.000,00
+                                Evaluación y monitoreo        50.000,00                   50.000,00
+                                            Supervisión    2.000.000,00                2.000.000,00
+ Primer Corredor de Transporte Público Masivo             39.900.000,00            - 39.900.000,00
+                                Corredores Segregados     15.900.000,00               15.900.000,00
+                Pavimentación y mejora espacio publico     5.050.000,00                5.050.000,00
+                                 Intersección a desnivel   5.000.000,00                5.000.000,00
+                                Terminal de integración    4.000.000,00                4.000.000,00
+                                     Adquisición predios   2.600.000,00                2.600.000,00
+ Estaciones de acceso al sistema troncal y Paradas (18)    3.600.000,00                3.600.000,00
+                                   Sistemas Peatonales       500.000,00                  500.000,00
+                         Centro de Control y Operación     2.750.000,00                2.750.000,00
+"
+"                                                                                   APORTE
+ CATEGORÍAS                                                          BID                         TOTAL
+                                                                                    LOCAL
+                           Viabilización Social y Ambiental         500.000,00
+ TOTAL                                                           45.000.000,00     500.000,00 45.500.000,00
+Fuente: Adaptado del documento anexo al informe de Misión realizado en junio 2011 “DESCRIPCIÓN DEL “SISTEMA
+DE TRANSPORTE PARA EL ÁREA METROPOLITANA DE SAN SALVADOR (SITRAMSS) – PRIMER TRAMO”. Tabla
+1. Presupuesto de la inversión pública para el Primer Tramo del SITRAMSS. Página 3.
+Análisis de costo efectividad expost
+2.70 La evaluación posterior del proyecto se realizó un análisis costo- efectividad, a partir de la
+       revisión de los documentos de costos del proyecto y de mantenimiento. Como los sistemas
+       BRT se han expandido rápidamente en la región latinoamericana con relativo éxito,
+       proporcionan un importante grupo de comparación disponible para esta evaluación. Como
+       programa de comparación, esta evaluación utiliza el BRT de Lima, conocido como
+       “Metropolitano”. Dicho proyecto fue también financiado por el banco a través de la
+       operación PE-0187 (1501/OC-PE). La disponibilidad de información y relativa proximidad
+       temporal de implementación lo hacen un caso ideal para comparar con SITRAMSS.
+2.71 El proyecto PE-0187 tenía como objetivo:
+2.72 “[…]mejorar las condiciones de movilidad de la población del área metropolitana de Lima,
+       en particular, aquella de menores ingresos, reduciendo los costos privados y sociales en la
+       provisión y uso de los servicios de transporte público a través de la implantación de un
+       sistema que utiliza ómnibus de alta capacidad que circulan en vías segregadas.”
+2.73 En términos generales, ambos proyectos buscaban mejorar las conexiones de transporte
+       público entre los usuarios de cada ciudad capital.
+2.74 En cuanto a los componentes que constituían el proyecto PE-0187, éstos eran:
+       (i)   Financiamiento de la infraestructura principal del corredor segregado para buses,
+             incluyendo las estaciones, terminales, patios, así como la pavimentación y
+             mejoramiento de las vías alimentadoras.
+       (ii) Fortalecimiento institucional y capacitación. El componente contempla el
+             financiamiento de un conjunto de acciones para la mejora del marco normativo y
+             regulatorio, diseño de las concesiones, mejoras administrativas y capacitación al
+             personal de Protransporte y otras agencias de la Municipalidad Metropolitana de Lima
+             (MML).
+       (iii) Financiamiento de las acciones destinadas a sensibilizar y brindar comunicación a los
+             futuros usuarios del sistema, así como las medidas de mitigación a los operadores
+             afectados por la implantación del sistema.
+       (iv) Estudios y supervisión. Considera el financiamiento de todos los estudios requeridos
+             para la puesta en marcha del Programa, sistema de monitoreo y evaluación de los
+             impactos socioeconómicos de corto plazo del Programa, supervisión ambiental,
+             auditoría ambiental del Programa y desarrollo de estudios técnicos y ambientales para
+             la implantación de una posible segunda etapa del sistema.
+2.75 En la metodología se explican algunos ajustes hechos para asegurar el grado de
+       “comparabilidad” entre ambas intervenciones.
+"
+"  2.76 La tabla 2 muestra el ciclo de ejecución de los costos de inversión del proyecto, que
+             totalizaron US$ 292.676 millones a precios corrientes.
+                        Tabla 5. Costos de inversión anuales y totales del proyecto PE-0187.
+  Componente 1. Mejora de la movilidad y el ambiente urbano                                              2009          2010          Total
+  Infraestructura troncal y alimentadora del sistema de transporte construida.            P(a)     185831000      49472000      239378000
+                                                                                          A        185831000      53547000      239378000
+  Sistemas Integrado de Gestión y Operación de transporte implementado                    P(a)       5045000       8164000       15071000
+                                                                                          A          5045000      10026000       15071000
+  puntos de monitoreo de calidad del aire que estarán operados por dos años implementados P(a)                                    1145000
+                                                                                          A                        1145000        1145000
+  Component 2. Viabilización Sociopolítica                                                               2009          2010          Total
+  Programas de Mitigación social a operadores implementados                               P(a)          71000      1945000        3327000
+                                                                                          A             71000      3256000        3327000
+  Programa de Educación y sensibilización ciudadana implementado                          P(a)       1132000       2583000        4277000
+                                                                                          A          1132000       3145000        4277000
+  Componente 3. Fortalecimiento Institucional                                                            2009          2010          Total
+  Personal de PT listo para gestionar y operar el sistema                                 P(a)        814000        467000        1711000
+                                                                                          A           814000        897000        1711000
+  Estudios realizados                                                                     P(a)       2443000       1416000        4855000
+                                                                                          A          2443000       2412000        4855000
+  Equipamiento listo para operar                                                          P(a)        814000          92000        935000
+                                                                                          A           814000        121000         935000
+  Other Cost                                                                                             2009          2010          Total
+  Administración del proyecto realizada                                                   P(a)      17853000       3333000       21977000
+                                                                                          A         17853000       4124000       21977000
+  TOTAL                                                                                                  2009          2010          Total
+                                                                                          P(a) 214,003,000.00 67,472,000.00 292,676,000.00
+                                                                                          A    214,003,000.00 78,673,000.00 292,676,000.00
+  2.77 El proyecto además incurrió en costos de mantenimiento de infraestructura y flota por US$
+             32,840 millones hasta 2015.
+  2.78 Como consecuencia del proyecto, se construyeron 27,5 km de vías sobre las cuales se
+             distribuyeron 34 estaciones.
+ I. Fuentes de datos
+  2.79 Información sobre costos efectivos de inversión de la operación PE-0187 provienen del
+             último informe PMR publicado en Convergencia. La información de costos de
+             mantenimiento del “Metropolitano” proviene del PCR de la operación, aprobado el 28 de
+             junio de 2011.
+  2.80 Los datos de costos para el proyecto ES-L1050 provienen del último ciclo de PMR.
+II. Metodología de evaluación
+  2.81 La metodología evalúa si los costos incurridos en el proyecto ES-L1050 fueron no mayores
+             que los de la alternativa, PE-0187. La intuición detrás es que, dados los resultados
+             obtenidos del proyecto, la implementación no fue más costosa que una intervención
+             parecida.
+  2.82 La elección de un proyecto alternativo está sujeta a determinar el grado de comparabilidad
+             entre ambas intervenciones y sus contextos.
+         (i)           Los costos comparados corresponden a aquellos asociados a la inversión en
+                       infraestructura vial. La tabla 5 indica los montos a considerar.
+"
+"   (ii)      La comparación se hace sobre un mismo periodo de maduración del proyecto.
+             Partiendo del hecho que el proyecto ES-1050 inició en 2012 y culminó en 2018, se
+             utiliza un periodo similar de siete años de la alternativa PE-0187: 2009-2015.
+   (iii)     Es necesario ajustar los valores monetarios por paridad de compra, inflación y
+             después descontarlos a un mismo periodo. Para lo primero, se ajustaron los precios
+             a paridad de compra utilizando el deflactor implícito PPP9 construido sobre la base
+             de PIB a precios corrientes y PBI PPP a precios corrientes, publicados por el Banco
+             Mundial10. Seguido, para ajustar por inflación se deflactaron todos los montos
+             anuales en US$ corrientes a precios de 2012, el año de inicio de operaciones del
+             proyecto ES-L1050. Para el ajuste de precios se utilizó el Índice de Precios de
+             Consumidor de Estados Unidos11. Finalmente, se utilizó una tasa de descuento de
+             12% para llevar todos los montos a valores de 2018, año de cierre del proyecto ES-
+             L1050. La tabla 6 muestra el resultado de este ajuste.
+   Tabla 6. Costos anuales por proyecto. (US$ constantes de 2012 descontados a 2018)
+                                    PE-0187                                         ES-L1050
+         Año        Año                       Infraestrutura +       Año                       Infraestrutura +
+    proyecto calendario Infraestructura Mantenimiento             calendario Infraestructura Mantenimiento
+          1           2,009 1,365,065,840 1,365,065,840              2012           1,252,930         1,252,930
+          2           2,010     396,237,886       396,237,886        2013          64,874,099        64,874,099
+          3           2,011               -       136,247,000        2014          45,520,660        45,520,660
+          4           2,012               -       115,318,956        2015          12,288,888        34,809,934
+          5           2,013               -       104,630,316        2016          13,876,794        33,685,921
+          6           2,014               -        96,815,171        2017           1,270,403        18,767,826
+          7           2,015               -        94,855,223        2018                 -          15,376,980
+    Total                     1,761,303,726 2,309,170,393                         139,083,774       214,288,349
+   (iv)      En general, los costos de infraestructura asociados al proyecto ES-L1050 representan
+             7.9% de los costos de infraestructura incurridos en el proyecto PE-0187. Si se
+             consideran los costos de 7 años de mantenimiento adicionales, los costos del
+             proyecto ES-L1050 representan 9.3% de los costos asociados al proyecto PE-0187.
+   (v)       La divergencia entre los costos de ambos proyectos se debe a que las características
+             entre proyectos difieren. Metodológicamente en consecuencia, se necesita
+             uniformizar la medida de comparación.
+   (vi)      La tabla 7 muestra 5 parámetros utilizados para calcular medidas que sean
+             comparables. Sobre ellos, es útil mencionar que el proyecto PE-0187 fue de mayor
+9  Purchasing Power Parity. Este ajuste es necesario para reflejar diferencias en el poder adquisitivo de cada
+   moneda en su respectivo mercado nacional.
+10 Disponibles en la base de datos de los World Development Indicators publicados por el Banco Mundial.
+   https://databank.worldbank.org/reports.aspx?source=world-development-indicators
+11 La oficina de Estadísticas Laborales publica las series históricas del índice de precios. Disponible en
+   https://www.bls.gov/cpi/data.htm
+"
+"                envergadura que el proyecto ES-1050: mientras que el proyecto de San Salvador
+                construyó 14.77 km de vías y contaba con 14 estaciones de paradas de bus, el
+                proyecto de Lima construyó 27.48 km de vías sobre las cuales distribuyó 34 paradas
+                de bus.
+              Tabla 7. Parámetros utilizados para comparar ambos sistemas de transporte
+                                                                              PE-0187 ES-L1050
+               Km construidos                                                   27.48     14.77
+               Número de estaciones                                             34.00     14.00
+               Población último año (millones)                                   9.99      1.11
+               Porcentaje de satisfacción de usuarios medido en último año      43.55     89.00
+               Número de validaciones anuales medido en último año (millones)  135.65      4.74
+      (vii)     La diferencia en las magnitudes entre ambos proyectos se explica en parte por la
+                diferencia de tamaño entre ambas ciudades. Mientras que el SITRAMSS de San
+                salvador estaba diseñado para servir una población de 1,11 millones de personas, el
+                Metropolitano de Lima debía atender 9,99 millones de personas. Si bien el proyecto
+                peruano resultó casi el doble que el salvadoreño, la demanda potencial de usuarios
+                limeña es nueve veces la de la capital salvadoreña. Esto último también se ve
+                reflejado en el número de validaciones anuales de cada sistema. Datos de
+                Protransporte en Lima12 indican que para el año 2015 el total de validaciones del
+                sistema Metropolitano fue de 135,65 millones, mientras que los datos de SITRAMSS
+                para el 2018 fue de 4,74 millones de validaciones. Quizá como resultado de la mayor
+                presión de demanda en Lima, el porcentaje de usuarios satisfechos medido en 2015
+                fue de 43,55%13, mientras que, en San Salvador, 89%14 de los usuarios reportaban
+                estar satisfechos con el sistema de transporte.
+      (viii)    Combinando los datos de costos de la tabla 6, y los cinco parámetros de la tabla 7, a
+                continuación, se calculan los costos unitarios de ambos proyectos.
+  III.      Resultados
+2.83 La tabla 8 muestra los resultados de la evaluación. Las columnas uno y dos muestran los
+         costos de infraestructura e infraestructura y mantenimiento asociados a la intervención
+         limeña, las columnas tres y cuatro los costos equivalentes para la capital salvadoreña. Las
+         dos últimas columnas, cinco y seis, comparan la intervención ES-L1050 con la alternativa
+         PE-0187. La tabla está dividida en dos paneles. En el primero se muestran los costos
+         unitarios como costos por km totales y costos por km por indicador de resultado. El segundo
+         panel introduce un ajuste por calidad de vías y para ello pondera los costos por km por el
+         número de estaciones de bus construidas a lo largo de las vías. Todos los valores de las
+12    http://www.protransporte.gob.pe/formularios/ptEstadisticas/home.php
+13    https://www.limacomovamos.org/
+14    Reportado en la matriz de resultados
+"
+"     columnas de la uno a la cuatro están expresados como millones de dólares PPP de 2012,
+     descontados a 2018.
+2.84 En general, los costos unitarios de la intervención en San Salvador fueron menores a los
+     costos unitarios de la operación limeña. No existe, además, mucha diferencia entre costos
+     unitarios sólo de infraestructura (columna cinco) y costos que también incluyen gastos de
+     mantenimiento (columna seis).
+2.85 En concreto, los costos generales de infraestructura por km generados por el proyecto ES-
+     L1050 fueron 15% (columna cinco) de los costos generados por el proyecto PE-0187. La
+     adición de los costos de mantenimiento en la columna seis representa un incremento de
+     esta ratio a 17%. Ambos resultados confirman que los costos en San Salvador estuvieron
+     muy por debajo de los de la alternativa.
+2.86 Los costos unitarios por indicador de resultado arrojan resultados similares. En cuanto a
+     infraestructura (columna cinco), los costos por km por cada punto del porcentaje de
+     satisfacción expresado por los usuarios de SITRAMSS representa 7% de los costos por km
+     por cada punto del porcentaje de satisfacción expresado los usuarios del Metropolitano de
+     Lima. Cabe mencionar que este resultado resulta favorable a la implementación ES-L1050
+     pues los usuarios de SITRAMSS tienen un mayor grado de satisfacción que los usuarios
+     del Metropolitano.
+2.87 En el extremo opuesto, medido por el número de validaciones anuales, claramente el
+     proyecto limeño fue mucho más exitoso que el salvadoreño. Como se mostró en la tabla 4,
+     para el último año del análisis el sistema Metropolitano reportaba 135,65 millones de
+     validaciones anuales para una ciudad de 9,99 millones de habitantes, mientras que el
+     SITRAMSS reportaba 4,75 millones de validaciones para una ciudad de 1,11 millones de
+     habitantes15. En términos de validaciones por habitantes, el Metropolitano reportaba 13,57
+     mientras que SITRAMSS reportaba al final del análisis, 4,28. No obstante, los costos por
+     km de SITRAMSS fueron lo suficientemente bajos para que aún después de ajustar por el
+     número de validaciones por habitante, representen 47% de los costos del Metropolitano
+     (columna cinco). La adición de los costos de mantenimiento produce que los costos por km
+     por validaciones por habitante del SITRAMSS sean 55% de los mismos costos para el
+     Metropolitano.
+2.88 Hasta este punto, es claro que la implementación del SITRAMSS, a pesar de no haber
+     conseguido la totalidad de los objetivos que se planteó, fue mucho más costo-eficiente que
+     la alternativa propuesta.
+15 El análisis de efectividad del PCR muestra que el programa SITRAMSS incumplió la meta establecida para el
+   número de pasajeros. Ello debido a que el número de validaciones del sistema cayó drásticamente después de
+   2015.
+"
+"     Tabla 8. Costos unitarios de ambas intervenciones y costos relativos. Montos expresados en dólares PPP de 2012
+                                                             descontados a 2018.
+                                                            PE-0187                      ES-L1050                        Costo relativo
+                                                               Infraestructura +             Infraestructura +                 Infraestructura +
+                                               Infraestructura Mantenimiento Infraestructura Mantenimiento     Infraestructura Mantenimiento
+                                                      (1)             (2)          (3)              (4)              (5)               (6)
+                                                       A               B            C                D               C/A              D/B
+Costos simples
+Costos Km                                           64.09            84.03        9.42             14.51            0.15              0.17
+Costo Km/Porcentaje de satisfacción                  1.47            1.93         0.11             0.16             0.07              0.08
+Costo Km/Validaciones/Población                      4.72            6.19         2.20             3.39             0.47              0.55
+Costos ajustados por número de estaciones
+Costo Km/Estaciones                                  1.89            2.47         0.67             1.04             0.36              0.42
+Costo Km/Estaciones/Porcentaje de satisfacción       0.04            0.06         0.01             0.01             0.17              0.21
+Costo Km/Estaciones/Validaciones/Población           0.14            0.18         0.16             0.24             1.13              1.33
+"
+"2.89 En el segundo panel de la tabla 8 se reportan los resultados después de realizar el ejercicio
+     anterior, pero ajustando por el número de estaciones construidas en cada sistema. Este
+     ajuste es un intento de controlar por la calidad de cada intervención. Si bien el
+     Metropolitano tiene un recorrido más largo, en promedio hay una estación cada 800 metros
+     (27,48 km / 34 estaciones). En el caso del SITRAMSS, hay una estación por cada 1055
+     metros (14,77 km / 14 estaciones). Utilizando esta medida, los costos unitarios del
+     SITRAMSS son aún menores que el Metropolitano: 36% para infraestructura, y 42% si se
+     incluyen costos de mantenimiento.
+2.90 El costo unitario por unidad de porcentaje de satisfacción también reporta que los costos
+     del SITRAMSS fueron 17% de los costos del Metropolitano considerado solo
+     infraestructura, y 21% considerando infraestructura y mantenimiento.
+2.91 La última fila de la tabla 8 reporta los costos unitarios ponderados por el número de
+     validaciones por habitante, y éste es el único caso en donde los costos del SITRAMSS
+     son mayores que los costos del Metropolitano. Considerando solo infraestructura, el
+     SITRAMSS fue 13% más caro que el Metropolitano, mientras que la adición de los costos
+     de mantenimiento produce que los costos del SITRAMSS hayan sido 33% mayores que
+     los del Metropolitano.
+2.92 Como conclusión sobre los resultados obtenidos en comparación con los resultados del
+     Metropolitano, se puede decir que el SITRAMSS ha tenido un buen desempeño en
+     términos de relación costo-efectividad, a pesar de los desafíos del proyecto. Las dos
+     últimas columnas (cinco y seis) muestran el mismo patrón para cada medición, SITRAMSS
+     muestra los mejores resultados al tener en cuenta la satisfacción del usuario y lo peor en
+     relación con las validaciones. El impacto de la menor captación en los números de
+     pasajeros se hace evidente cuando se tiene en cuenta el número de validaciones. En
+     ambos paneles, los costos simples y los costos ajustados por estación, los resultados del
+     SITRAMSS tuvieron peor desempeño en la última sección, que incluye validaciones. Sin
+     embargo, en términos generales, y en particular para la satisfacción del usuario,
+     SITRAMSS tiene un costo por km más bajo en comparación con el Metropolitano.
+ IV.  Conclusión
+2.93 Este documento es un ejercicio de análisis de costo efectividad del proyecto ES-L1050.
+     Como alternativa se utilizó el proyecto PE-0187.
+2.94 Los resultados indican que el proyecto ES-L1050 fue costo-eficiente para una serie de
+     medidas. A pesar de no haber sido completamente efectivo en la consecución de los
+     objetivos específicos que se plantearon, el proyecto incurrió en costos muy por debajo de
+     los costos asociados a una alternativa comparable.
+2.95 El proyecto fue costo eficiente, aun ajustando por el pobre desempeño del resultado sobre
+     número de validaciones por pasajeros que se planteó.
+2.96 Ajustes adicionales por calidad de la infraestructura construida arrojan resultados costo-
+     eficientes similares, excepto cuando se pondera por el indicador de resultado sobre
+     número de validaciones por pasajeros.
+"
+"2.97 En cuanto a la calificación de eficiencia requerida para el PCR, los resultados permiten
+        inferir que el proyecto calificó como excelente, con una calificación de cuatro.
+                                                Tabla 9. Costos del proyecto
+    1 1. INGENIERIA Y ADMINISTRACION                                                                                         $1,674,841.52
+    Outputs                             2012           2013           2014           2015          2016         2017            Cost
+    1.1 Firma Gerenciadora,      P     $240,000.00    $480,000.00    $480,000.00                                           $1,200,000.00
+    contratada
+                                P(a)   $355,556.00    $480,000.00    $480,000.00     $40,000.00                            $1,200,000.00
+                                 A     $240,000.00    $400,000.00    $520,000.00          $0.00                            $1,160,000.00
+    1.2 Unidad Coordinadora      P      $21,300.00    $150,800.00    $158,400.00    $169,500.00                             $500,000.00
+    de Proyecto, constituida
+                                P(a)   $133,259.00    $150,800.00    $183,156.32    $125,180.66    $49,100.00               $444,841.52
+                                 A      $21,300.00    $150,103.36    $170,375.98     $53,962.18    $14,082.99   $2,194.89   $412,019.40
+    1.3 Monitoreo y Evaluación,  P                                    $30,000.00     $20,000.00                             $50,000.00
+    realizadas
+                                P(a)                                  $15,000.00     $20,000.00    $20,000.00               $30,000.00
+                                 A                                         $0.00     $10,000.00                             $10,000.00
+    2 2. CORREDOR DE TRANSPORTE PUBLICO MASIVO                                                                             $37,471,092.77
+    Outputs                             2012           2013           2014           2015          2016         2017            Cost
+    2.1 Terminal de              P           $0.00  $4,000,000.00  $1,314,146.95                                           $5,314,146.95
+    Integración, construída
+                                P(a) $1,510,000.00  $4,000,000.00  $3,237,600.05  $5,731,212.16                            $8,034,516.72
+                                 A           $0.00  $2,076,546.90    $226,757.66  $2,812,671.32 $2,837,948.46   $2,702.45  $7,956,626.79
+    2.2 Corredor segregado y     P                 $11,000,000.00 $17,735,853.05                                          $28,735,853.05
+    sistemas peatonales,
+                                P(a)               $11,000,000.00 $11,524,235.63    $927,770.56                           $26,965,878.93
+    construídos
+                                 A                 $13,211,617.42 $12,826,490.95    $905,231.01   $225,966.26             $27,169,305.64
+    2.3 Predios, adquiridos      P           $0.00  $2,200,000.00    $400,000.00                                           $2,600,000.00
+                                P(a) $2,000,000.00  $2,200,000.00    $191,746.53      $6,000.00                            $1,725,285.71
+                                 A           $0.00  $1,592,539.18    $126,746.53          $0.00                            $1,719,285.71
+    2.4 Centro de control,       P                    $200,000.00  $2,550,000.00                                           $2,750,000.00
+    construído y equipado
+                                P(a)                  $200,000.00  $1,910,000.00  $2,304,588.59   $395,851.33               $445,411.41
+                                 A                          $0.00     $49,560.08          $0.00 $2,309,102.21 $566,186.54  $2,924,848.83
+    2.5 Campañas                 P           $0.00     $75,000.00    $100,000.00     $75,000.00                             $250,000.00
+    comunicacionales,
+                                P(a)    $92,500.00     $75,000.00    $150,000.00    $189,358.07                             $300,000.00
+    implementadas
+                                 A           $0.00    $110,641.93          $0.00    $138,391.25                             $249,033.18
+    2.6 Operadores de las        P                                   $250,000.00                                            $250,000.00
+    rutas del sistema,
+                                P(a)                                                                    $0.00                   $0.00
+    capacitados
+                                 A                                                                                              $0.00
+    3 3. FORTALECIMIENTO INSTITUCIONAL                                                                                          $90,000.00
+    Outputs                             2012           2013           2014           2015          2016         2017            Cost
+    3.1 Estudios específicos     P                    $200,000.00    $600,000.00                                            $800,000.00
+    para la construcción del
+                                P(a)                  $200,000.00    $200,000.00    $434,318.64    $90,000.00               $90,000.00
+    SITRAMSS, realizados
+                                 A                          $0.00          $0.00          $0.00   $167,874.20               $167,874.20
+    Other Cost                          2012           2013           2014           2015          2016         2017            Cost
+    Equipamiento y Mobiliario    P      $59,991.64     $53,801.00     $36,207.36                                               $150,000.00
+                                P(a)   $150,000.00     $53,801.00     $36,207.36     $36,207.36                                $150,000.00
+                                 A      $59,991.64     $53,801.00          $0.00     $26,086.68                                $139,879.32
+    Gasto de Pre Operación       P                                   $150,000.00     $50,000.00                                $200,000.00
+                                P(a)                                 $150,000.00    $200,000.00                                $200,000.00
+                                 A                                         $0.00    $128,940.00    $73,359.99                  $202,299.99
+    Auditorías, realizadas       P                                    $60,000.00     $80,000.00    $60,000.00                  $200,000.00
+                                P(a)                                  $29,500.00     $53,562.00   $103,258.00                  $158,628.00
+                                 A                      $8,136.00     $18,984.00     $28,250.00     $9,150.00   $9,150.00       $73,670.00
+    Supervisión                  P           $0.00    $750,000.00  $1,250,000.00                                             $2,000,000.00
+                                P(a)    $90,000.00    $750,000.00    $909,939.76    $568,889.23     $6,000.00                $2,207,496.48
+                                 A           $0.00  $1,090,060.24    $735,050.53    $376,385.71   $113,866.36  $15,858.41    $2,331,221.25
+    Total Cost                          2012           2013           2014           2015          2016         2017        Total Cost
+                                 P     $321,291.64 $19,109,601.00 $25,114,607.36    $394,500.00    $60,000.00              $45,000,000.00
+                                P(a) $4,331,315.00 $19,109,601.00 $19,017,385.65 $10,637,087.27   $664,209.33              $41,952,058.77
+                                 A     $321,291.64 $18,693,446.03 $14,673,965.73  $4,479,918.15 $5,751,350.47 $596,092.29  $44,516,064.31
+Fuente: BID. Matriz de resultados Primer período enero-junio 2018.
+"
+"2.4    Sostenibilidad
+    a. Aspectos generales sobre Sostenibilidad
+2.98 La Sostenibilidad del Sistema de Transporte del AMSS se sustenta fundamentalmente en
+      los componentes que está directamente relacionado al desarrollo del Programa en sí
+      mismo, en lo que tiene que ver con la estructura institucional y modelo de Asociación
+      Público-Privada adoptados, así como a la decisión final aplicada por la Sala Constitucional
+      de la Corte Suprema de Justicia y la resolución que se brinde de parte del VMT.
+2.99 Para el caso de la sostenibilidad del Programa, existen dos actores principales: el FOVIAL
+      como encargado de las actividades de mantenimiento del corredor de transporte público
+      masivo construido con recursos del programa, y el Viceministerio de Transporte,
+      responsable del mantenimiento de las estaciones del Sistema y de su administración. Es
+      importante mencionar que el MOP ya ha hecho el traspaso oficial al FOVIAL para que el
+      corredor forme parte de la red vial bajo su responsabilidad, y de igual forma, el VMT ha
+      presentado un Plan de Mantenimiento de la infraestructura de las estaciones.
+2.100 La responsabilidad del FOVIAL se sustenta en su ley de creación, la cual tiene como
+      objetivo establecer el marco legal para el financiamiento y gestión de la conservación de
+      la RVN Prioritaria Mantenible y de la Red Vial Urbana Prioritaria Mantenible, para lo cual
+      se asignan recursos anuales con cargo al galón de combustible (US$0,20/galón) y otros
+      cargos. Durante el 2016 el FOVIAL ejecutó US$115,4 millones y en el 2017 ejecuto
+      US$107,5 millones en actividades de mantenimiento de la red vial divididas en cuatro
+      componentes: (i) mantenimiento rutinario; (ii) mantenimiento periódico; (iii) puentes y obras
+      de paso; y (iv) señalización y seguridad vial.
+2.101 La estructura institucional adoptada se derivó de la evolución propia del sistema de
+      transporte público del AMSS, a partir de los acuerdos suscritos entre los actuales
+      operadores del sistema y el VMT. Estos antecedentes condicionaron indefectiblemente la
+      configuración del esquema de APP adoptado para el sistema.
+2.102 El VMT implantó un centro de control en el que se supervisará la actuación del operador a
+      partir de la integración de distintos sistemas, el cual permitirá además de verificar el
+      cumplimiento de los servicios, llevar las estadísticas de la operación del sistema y brindar
+      información al usuario.
+2.103 Bajo el esquema institucional adoptado el SITRAMSS depende de la operación de
+      privados vinculados al sector, que gestionan la operación y recaudo del sistema. De tal
+      modo, el sistema es totalmente vulnerable a la viabilidad financiera de los privados
+      inversores involucrados.
+2.104 Por otra parte, las medidas aplicadas desde la Sala Constitucional de la Corte Suprema
+      de Justicia han incidido negativamente en el aforo de pasajeros movilizados y por ende en
+      los ingresos del sistema, en menoscabo de la gestión del sistema.
+2.105 Desde el punto de vista económico, la merma en la demanda tiene un impacto
+      indefectiblemente sobre el recaudo del sistema y podría incidir a futuro en la rentabilidad
+      económica de los privados involucrados.
+2.106 A continuación, se presenta un esquema que resume el análisis de sostenibilidad del
+      proyecto a partir del análisis de riesgos.
+"
+"Sostenibilidad
+                                                      FACTOR DE          PROBABILIDAD     MEDIDAS DE
+      RESULTADOS                  RIESGOS
+                                                    PROBABILIDAD          DE IMPACTO       MITIGACIÓN
+                                                                                      No hay, se está a las
+ Índice de Satisfacción del Modificación a diseño Demanda del sistema
+                                                                              ALTO    espera de la
+ público usuario            original del proyecto de transporte
+                                                                                      Resolución de la
+                                                                                      Demanda Judicial
+ Tiempo de viaje
+                            Falta de                                                  Previsión en el Fondo
+                                                  Falta de recursos del               de Conservación Vial
+                            mantenimiento a la
+ Costos de operación de                           MOPTVDU y/o                MEDIA    (el corredor forma
+                            infraestructura
+ los vehículos de                                 interferencia política              parte de la red
+                            (FOVIAL)
+ transporte público en el                                                             estratégica nacional)
+ corredor
+ Número de pasajeros
+ transportados
+     b. Salvaguardas ambientales y sociales
+2.107 Durante la preparación de la operación un especialista Internacional fue contratado por el
+         Banco para redactar los siguientes instrumentos: (i) el Marco de Gestión Ambiental y
+         Sociocultural (MGAS), que explica la referida Política; y (ii) el Informe de Gestión
+         Ambiental y Social (IGAS), que analiza un conjunto de posibles proyectos financiar con
+         este Préstamo.
+2.108 La firma gerenciadora a lo largo de la prestación de sus servicios (2012 – 2014) contó con
+         un especialista local que se encargó del monitoreo y seguimiento al cumplimiento de las
+         medidas ambientales comprometidas en el Programa de Manejo Ambiental (PMA)
+         elaborado para el proyecto del corredor en general y los programas de manejos ambiental
+         de la Terminal de Integración y Paso Superior José Arturo Castellanos, patios y talleres y
+         la Terminal de Integración de Soyapango. Para ello, se presentó mensualmente la tabla
+         de porcentaje de cumplimiento de las medidas ambientales de los proyectos de
+         infraestructura, así como un informe ambiental de seguimiento de los proyectos.
+2.109 En los documentos de licitación para la contratación de los programas se incluyó el PMA
+         actualizado con las acciones y actividades adicionales que fueron necesarias para mejorar
+         el desempeño ambiental, de acuerdo con el permiso ambiental otorgado por el MARN para
+         cada uno de los componentes infraestructura ejecutados.
+2.110 En cuanto a las actividades ambientales el MARN otorgó el 27 de mayo del 2016 al
+         MOPTVDU, el permiso ambiental de funcionamiento del proyecto SITRAMSS debiendo
+         cumplir el PMA establecido.
+2.111 La responsabilidad de la gestión ambiental del MOPTVDU, en todas las fases del
+         programa, estuvo a cargo de la Gerencia de Gestión Ambiental (GGA) de la Dirección de
+         Planificación de la Obra Pública (DPOP), la cual veló de forma regular por la aplicación del
+         marco legal contenido en la Ley del Medio Ambiente en coordinación con el MARN.
+2.112 La Subdirección de la Gestión Ambiental del MOPTVDU verificó el cumplimiento de los
+         PMA en compromiso de la fianza ambiental gestionada. El seguimiento se desarrolló
+"
+"      desde julio del 2013 con revisiones mensuales, a los fines que las empresas constructoras
+      aplicaran correctamente las medidas ambientales y sociales.
+2.113 De acuerdo con las evaluaciones e inspecciones ambientales y sociales las obras no
+      generaron un impacto ambiental negativo, debido principalmente, a que en los trabajos
+      físicos siempre se cumplió con los PMA, aprobados por el MARN para cada uno de los
+      componentes en que se separó la construcción de infraestructura.
+2.114 Las obras se ejecutaron sin causar afectaciones a importantes a predios, reasentamiento
+      de residentes o intervenciones ambientales o socialmente sensibles.
+2.115 Cabe señalar que el proyecto incluyó, la construcción del edificio y acceso principal en el
+      parque infantil, que constó de la obra civil de un edificio administrativo, museo, acceso
+      principal al parque y servicios sanitarios, que formaron forman parte de la compensación
+      social y ambiental por la construcción de la estación del SITRAMSS Parque Infantil. Esta
+      obra se aplicó con recursos del MOPTVDU en convenio con SECULTURA.
+2.116 Luego de haber superado la etapa de observaciones al PMA Ajustado, el MARN solicitó
+      en noviembre de 2015, la entrega de la fianza ambiental para la etapa de operación con
+      una vigencia de dos años. En mayo de 2016, se otorgó el permiso ambiental de
+      funcionamiento, donde se establecen las medidas a implementar durante esta etapa para
+      la liberación de la fianza de funcionamiento. Las medidas en cuestión correspondieron a:
+      (i)      Información y comunicación a la comunidad.
+      (ii)     Señalización y colocación de rótulos a lo largo de corredor vial tres.
+      (iii)    Control y seguimiento de la calidad del aire y el nivel acústico durante la fase de
+               operación.
+      (iv)     Conservar la cobertura vegetal plantada y mantenimiento.
+      (v)      Uso de combustible limpio en flota de autobuses del sistema durante su operación.
+2.117 Adicionalmente se afianzaron las siguientes medidas ambientales en operación
+      ejecutadas por los contratistas, con seguimiento conjunto de la UE y la Unidad
+      Subdirección de la Gestión Ambiental del MOPTVDU, a partir del año 2016.
+2.118 Siembras compensatorias: para garantizar que la plantación establecida por
+      compensación se desarrollara y se estableciera en los sitios designados. Los controles se
+      realizarían trimestralmente durante dos años.
+2.119 Calidad de aire y ruido: a fin de conocer los niveles de calidad del aire y ruido durante la
+      operación del SITRAMSS. La medida se aplicaría mediante mediciones de control de
+      contaminación del aire.
+"
+"                                   III.    CRITERIOS NO CENTRALES
+3.1.   Desempeño del Banco
+3.1  La formulación del programa en cuanto a su pertinencia determina que estuvieron
+     totalmente alineadas con las políticas del Banco y las necesidades del país, tal como se
+     constató a nivel de estrategias y de los Planes Quinquenales de Gobierno para los períodos
+     2010 - 2014 y 2015 - 2019, respectivamente.
+3.2  El Banco monitoreo la operación, contando además con personal en sede local que
+     interactuó en todo momento con la UE a nivel de formación y apoyo técnico, así como con
+     el personal de la asistencia técnica brindada por la firma gerenciadora mientras se ejecutó
+     su contrato. Periódicamente, según lo establecido y en función de los requerimientos
+     personal del Banco realizó misiones a San Salvador en los que se hizo la debida revisión
+     de los avances, resolviendo y recomendando actuaciones con miras a mitigar los efectos
+     de posibles riesgos del proyecto.
+3.3  En cuanto al análisis de riesgos sólo en el caso de la Terminal de Integración de
+     Soyapango, determinó el retraso en obras y el Banco propuso recomendaciones sobre la
+     forma de solventarlas, apoyando la decisión de retiro de la empresa contratista y la nueva
+     contratación para su culminación.
+3.4  Los montos negociados no sufrieron variaciones significativas y cubrieron la totalidad del
+     proyecto según lo planificado.
+3.5  De tal manera, el desempeño del Banco en términos generales se considera como
+     satisfactorio, al identificar y resolver de forma proactiva las amenazas al logro de resultados
+     de desarrollo relevantes. Se resalta que la adecuada estructuración y el financiamiento de
+     operaciones, contribuyeron de manera positiva a su éxito financiero.
+3.6  Los retrasos en la implantación del proyecto y las dificultades asociadas a la gestión del
+     sistema, luego de la implantación, han dificultado la obtención de información para la
+     medición de los resultados.
+3.7  El modelo de gestión adoptado por el VMT no pudo ser controlado por parte del Banco, y
+     pese a las recomendaciones de licitar la operación, la decisión fue establecida desde el
+     gobierno central, a partir del proceso de negociación con los actuales operadores que se
+     definió desde el VMT.
+3.8  El Banco no previó que la demanda de los empresarios del sector no conformes con el
+     modelo de operación establecido desencadenara en las medidas adoptadas por la CSJ.
+3.2    Desempeño del prestatario
+3.9  El desempeño de la UE fue satisfactorio. El préstamo se ejecutó en los tiempos previstos
+     pese a los retrasos y se logró la mayoría de los productos y efectos planeados.
+3.10 La UE cumplió con las cláusulas contractuales y las políticas de salvaguarda ambientales
+     establecidas en las Políticas del Banco, así como las requeridas por las autoridades
+     competentes en la materia en El Salvador. También llevó un seguimiento permanente de
+     las obras tanto en avance físico financiero, así como el monitoreo al cumplimiento de las
+     medidas ambientales.
+"
+"3.11 Los procesos de licitaciones y adquisiciones se realizaron acorde lo establecidos en las
+     Políticas para la Adquisición de Bienes y Obras Financiados por el BID (GN-2349-9) y
+     Políticas para la Selección y Contratación de Consultores Financiados por el BID (GN-2350-
+     9), acorde a lo regido en el contrato de préstamo.
+3.12 Se contó con la provisión de recursos en la casi totalidad de ejecución del programa, a
+     excepción del final del préstamo para la ejecución del componente de fortalecimiento
+     institucional.
+3.13 En cuanto al cumplimiento del plan de monitoreo, para dar cumplimiento que los informes
+     de progreso semestrales, de acuerdo con lo referido en el Artículo 7.03 de las Normas
+     Generales del Contrato de Préstamo, se presentaron y aprobaron la totalidad de los
+     informes semestrales desde el año 2012. Asimismo, se cumplió con la entrega de la
+     evaluación intermedia y sólo faltó cumplir con la evaluación final.
+3.14 Desde el punto de vista de adquisiciones y manejo financiero, no se verificaron problemas
+     significativos durante la ejecución.
+3.15 El modelo de gestión adoptado por el VMT al asignar la operación a los operadores actuales
+     mediante una transferencia de concesiones a un grupo de operadores agrupados derivó en
+     la inconformidad de otros operadores que circulan sobre el corredor y la posterior demanda
+     ante la CSJ, a partir de la cual se establecieron las medidas de la CSJ. Esta decisión ha
+     sido determinante en la incertidumbre de sostenibilidad del proyecto.
+                             IV.    HALLAZGOS Y RECOMENDACIONES
+Dimensión técnico sectorial
+Necesidad de la creación de la unidad gestora desde el inicio del proyecto con personal
+especializado y con experiencia en la ejecución de obras
+4.1  La experiencia de este programa mostró que la UE estaba concebida para ejecutar
+     proyectos de infraestructura, sin contar con el personal adecuado para su monitoreo y
+     supervisión. El personal dispuesto en la UE no tenía experiencia en la construcción y
+     supervisión de obras públicas, con lo cual se delegó la responsabilidad totalmente a la
+     supervisión de las obras y ante eventuales desacuerdos entre contratistas de obra y
+     supervisión se requirió de la participación de la firma gerenciadora, que no disponía de
+     posibilidad de injerencia en la toma de decisiones, o en su defecto requerir la intervención
+     de otras dependencias del ministerio que no estaban debidamente coordinadas con el
+     proyecto, tal como era el caso del Viceministerio de Obras Públicas o FOVIAL.
+4.2  Por otra parte, tampoco el personal de la UE tenía experiencia en el sector de gestión
+     pública del transporte, con lo cual tampoco se creó la capacidad de gestión de proyectos y
+     de la operación del sistema a posteriori.
+4.3  A futuro se recomienda que desde el principio de la ejecución se constituya una UE, con
+     fuerte acompañamiento técnico en la gestión del proyecto de manera integral y con
+     personal especializado y formado para ello. Asimismo, se recomienda también colocar en
+     la UE personal especializado en la construcción y supervisión de obras, así como también
+     en la gestión de operación de sistemas de transporte público masivo que pueda apoyar en
+     la puesta en marcha del sistema.
+"
+"Falta de titularidad de los terrenos destinados para patios y talleres generó retrasos.
+4.4   Este es un problema recurrente en la ejecución de los proyectos de BRT en la región y una
+      de las principales limitantes en la implantación de este tipo de inversiones. La falta de la
+      titularidad de los terrenos, así como las rivalidades presentes entre las distintas
+      dependencias gubernamentales interesadas en su propiedad, conllevó a un prolongado
+      lapso de incertidumbre en la identificación de las áreas para patios y talleres del sistema.
+4.5   Por otra parte, si bien se tenía la certeza que los terrenos eran públicos, se determinó que
+      la propiedad requería procesos más complejos de traspaso entre las dependencias con
+      respecto a lo previsto originalmente.
+4.6   De tal manera es requerido previo a la gestión de este proyecto conocer a detalle la
+      legislación nacional referida a compras de terrenos como parte de los estudios previos y
+      determinar las posibilidades reales de adquisición de los terrenos, e instar a las autoridades
+      sobre la importancia de disponer de los terrenos de manera oportuna. Es importante
+      considerar en los temas de afectación el doble requerimiento de terrenos: por una parte, el
+      corredor, incluyendo las estaciones, y por otro los predios para las áreas terminales, patios
+      y talleres.
+4.7   Vale referir que como parte de los estudios de preinversión se elaboran diseños de las
+      áreas terminales, de patios y talleres, sin lograr tener la propiedad y certeza de los terrenos,
+      lo cual implica aplicar recursos en diseños que eventualmente no se ejecutarán.
+Anteproyectos con problemas en la ejecución por deficiencias en la ubicación de los servicios y
+análisis de suelos
+4.8   Dada la experiencia adquirida en los proyectos de implantación de los sistemas de BRT, se
+      optó como práctica común en los últimos años desarrollar anteproyectos avanzados que
+      derivaran en licitaciones de proyecto definitivo y construcción, de forma de optimizar los
+      tiempos de ejecución de los proyectos. Si bien ello, ha redundado ciertamente en lograr la
+      expedita ejecución de los proyectos de BRT, particularmente en algunos componentes,
+      ante la falta de información de las redes servicios y análisis detallados de suelos, ha
+      repercutido en demoras y complicaciones en la ejecución de las obras.
+4.9   En particular, este proyecto, tanto corredores como estaciones, no tuvieron demoras
+      significativas en el desarrollo de las obras, no obstante, en el caso específico de la Terminal
+      de Integración de Soyapango, derivó en problemas importantes en su ejecución que
+      implicaron un importante retraso en la ejecución de la obra.
+4.10 Al respecto, es importante evaluar con anterioridad las posibles deficiencias que contengan
+      los anteproyectos y advertir los estudios en los que se debe ahondar para evitar impactos
+      posteriores en la fase de proyecto construcción.
+4.11 La participación de las empresas de supervisión es estratégica y deben tener un rol de
+      mayor autonomía ante las autoridades, quienes por temas políticos o intereses pueden
+      llegar a generar presiones sobre éstas para alterar los avances de construcción de las
+      obras.
+4.12 En algunos casos la falta de experiencia técnica de las autoridades en este tipo de
+      ejecuciones puede incidir de manera negativa en las discusiones entre contratistas de obra
+"
+"      y supervisión, al no tomarse acciones o decisiones para resolver los problemas que
+      comúnmente suceden en la ejecución de estos proyectos. Ante ello, es conveniente que la
+      UE cuente con apoyo técnico especializado de asistencia técnica, que oriente sobre las
+      decisiones a tomar, independientemente que existan otras dependencias de gobierno
+      vinculadas a la ejecución de obras que también participen en la gestión y supervisión de
+      las obras.
+4.13 En el caso particular de las áreas conexas al sistema como patios y talleres, los
+      anteproyectos se realizaron sobre áreas que no se disponía con certeza la titularidad de los
+      terrenos, con lo cual parte de la preinversión no pudo ser desarrollada.
+4.14 Organización de la matriz de resultados
+4.15 Una lección aprendida del proceso de preparación de este PCR es la necesidad de alinear
+      la variable y la meta de los indicadores en dimensiones alcanzables para tener un reflejo
+      adecuado del desempeño alcanzado. En el caso de este proyecto se puso la meta cero
+      para la variable “Costos de operación de los vehículos de transporte público en el corredor”,
+      lo cual no es alcanzable y resulta en una evaluación negativa, aunque se pude observar
+      una disminución de los costos de operación.
+Dimensión organizacional y de gestión
+Debilitamiento de la UE incidió en las actividades de monitoreo y seguimiento
+4.16 El programa tuvo amplia efectividad en los primeros años de ejecución, sin embargo, a raíz
+      del cambio del gerente del programa y las presiones de la Corte de Cuentas de la República
+      ante presuntas irregularidades en la supervisión y monitoreo de los contratos de obras, se
+      desincorporaron funcionarios ya capacitados y formados, así como se generó una pérdida
+      de valoración por parte de las autoridades de la autonomía y participación de esta unidad
+      en la ejecución del programa. Ello incidió además en una pérdida y deterioro de las
+      funciones de monitoreo y seguimiento del programa.
+4.17 Con respecto a la ejecución del programa, el rol jugado por parte de la UE al inicio del
+      programa fue fundamental y con los cambios referidos a partir del 2015 tuvieron un impacto
+      significativo en la puesta en operación del proyecto. Al respecto, se recomienda incorporar
+      personal especializado en el sector desde el inicio del programa y mantener la participación
+      de los equipos originarios con la menor rotación relativa posible de su personal, al tiempo
+      de exhortar a las autoridades a mantener el posicionamiento de responsables de la
+      ejecución del proyecto a lo largo de la ejecución del programa.
+4.18 Asimismo, es recomendable establecer mecanismos de valoración en la matriz de
+      resultados que alerten sobre la desincorporación de personal y desmantelamiento de las
+      UE de los proyectos, con miras a poder aplicar los correctivos pertinentes.
+Debilitamiento institucional de la Unidad Ejecutora sin valoración en la matriz de resultados
+4.19 En correspondencia con proyectos similares, se contempló como parte del préstamo un
+      componente de fortalecimiento institucional, asentado fundamentalmente en servicios de
+      consultoría especializada y apoyo técnico al personal de la UE. La asistencia técnica, a
+      través de la firma gerenciadora brindó además de apoyo técnico, capacitación al personal
+      en distintas materias aplicables a la planificación, implantación y operación del sistema.
+"
+"4.20 En este tipo de proyecto, es recomendable que la UE evolucione, de ser el ejecutor de
+     préstamo del BID, a una unidad de gestión, operación y planificación del sistema. Esta
+     unidad es la dependencia conformada desde un inicio para ser capacitada en el tema, al
+     tiempo de ser la receptora de los recursos gestionados a través del BID. Por otra parte,
+     además de la gestión y operación de la primera etapa en ejecución, deberá ser objeto de
+     la planeación y posterior obtención de recursos para la ejecución de las próximas etapas.
+4.21 Sin embargo, la realidad es que estas dependencias, si bien al inicio del programa por
+     exigencia del préstamo son constituidas y fortalecidas en muy corto plazo, y pasan a ser
+     unidades de élite en la ejecución de sus actividades, al no tener la suficiente autonomía y
+     no lograr consolidarse como verdaderos entes de gestión del sistema estructurador, sufren
+     los embates de los cambios políticos y en muchos de los casos pasan a desmantelarse y
+     perderse el recurso formado.
+4.22 De tal modo la inversión en el entrenamiento del personal calificado se pierde, e incluso la
+     adquisición de herramientas especializadas, tal como es el caso de las licencias y sus
+     posteriores actualizaciones del software de simulación para la planificación de transporte
+     TransCAD® adquirido, los cuales no tendrán posibilidad de uso por cuanto los recursos
+     formados ya no forman parte del equipo.
+4.23 A efectos de mitigar la politización de estas unidades, se sugiere emprender una campaña
+     de institucionalización previa con las autoridades gubernamentales que fortalezca la
+     participación de los integrantes de la unidad y que se garantice su permanencia hasta la
+     puesta en marcha del sistema.
+4.24 En el caso de cambios de gobierno, también es conveniente plantear a las autoridades la
+     importancia de conservar al personal formado y preservar el conocimiento adquirido.
+Las campañas de socialización al inicio del proyecto en favor de la matriz de opinión pública del
+proyecto
+4.25 La inclusión de recursos en el programa para la campaña comunicaciones y de
+     socialización tienen un impacto ampliamente efectivo al inicio del proyecto y se considera
+     un aspecto positivo a ser considerado en próximos financiamientos. Este rubro no es
+     contemplado en otros proyectos financiados por el BID y comúnmente las dependencias
+     públicas no cuentan con recursos para la debida promoción de las inversiones.
+4.26 La UE desplegó durante los años 2012 y 2013 una amplia campaña de socialización para
+     informar a la comunidad en general y los actores eventualmente afectados sobre las
+     ventajas y avance de las obras. La campaña abarcó información sobre las obras en
+     construcción y el plan de desvíos, no obstante, no se determinaron recursos para el
+     posicionamiento del proyecto en medios de comunicación y se requirió realizarlo a través
+     de la Unidad de Comunicaciones y Protocolo del VMT que contaba con recursos limitados
+     para estas actividades.
+4.27 En este contexto, se recomienda incorporar en los financiamientos de este tipo proyectos
+     recursos para las campañas de comunicación y socialización, al tiempo de exigir a las UE
+     contar con personal para llevar a cabo estas tareas, dándole el seguimiento continuo.
+4.28 Conveniencia de incorporar en la asistencia técnica especialistas ambientales que
+     garanticen el cumplimento de los PMA. En el desarrollo de la asistencia técnica a través de
+"
+"     la firma gerenciadora se evidenció la necesidad de apoyar a la UE en las actividades de
+     monitoreo a los PMA e interacción con las autoridades del MARN y la Unidad de Gestión
+     Ambiental del MOPTVDU.
+4.29 En particular, el haber contado con un especialista ambiental local, permitió la preparación
+     de los formularios ambientales requeridos por cada componente de infraestructura del
+     proyecto a ser presentados ante el MARN, así como recopilar, revisar y ordenar la
+     información anexa necesaria a estos formularios tales como las factibilidades del proyecto,
+     descripción del proyecto, planos (topografía, drenaje pluvial, plano de vegetación a eliminar
+     y remanente, señalización, entre otros), escritura de los inmuebles afectados (en caso de
+     requerirse), así como el propio PMA.
+4.30 Al respecto, se recomienda considerar en próximas operaciones contar con un especialista
+     bien sea a través de la figura de asistencia técnica, o en su defecto como requerimiento a
+     incorporar en la UE.
+4.31 Se recomienda que en futuras operaciones se procure contar con una unidad con personal
+     capacitado y especializado en el sector, con competencia técnica y administrativa
+     adecuada para llevar a cabo el seguimiento, la coordinación, el monitoreo y la ejecución de
+     los compromisos del programa, así como contar con el apoyo de otras unidades de
+     gobierno vinculadas con este tipo de proyectos, tales como el VMT, FOVIAL y el MARN
+     para apoyar el trabajo técnico necesario en el diseño y la implantación inicial de este tipo
+     de sistemas.
+Dimensión relacionada con los procesos públicos y los actores
+Necesidad de un inventario a detalle de los empresarios del sector para definir una estrategia de
+negociación
+4.32 Al igual que otros proyectos de la región la información censal de los sistemas de transporte
+     que abarque: datos de empresas u organizaciones, número de unidades, instalaciones
+     asociadas, conductores, rutas operadas y demanda de pasajeros movilizada, es poco
+     estructurada y en algunos casos imprecisa o inexistente, lo cual dificulta construir un
+     análisis detallado del sector que permita cuantificar la afectación por la inclusión de un
+     nuevo sistema, así como definir estrategias adecuadas de negociación con los empresarios
+     del sector.
+4.33 Por otro lado, es necesario evaluar la capacidad financiera y técnica de los empresarios
+     vinculados al sector, de modo de analizar su posible participación en la posterior operación
+     del sistema, y lograr formular posibles esquemas que les garanticen involucrarse sin
+     comprometer la rentabilidad y operatividad del sistema.
+4.34 Las autoridades, a fin de mantener la “paz social” del sector hace grandes esfuerzos de
+     negociación con los operadores actuales para involucrarlos en el desarrollo del proyecto.
+     No obstante, es posible que todos no puedan participar y deben explorarse fórmulas
+     consensuadas de desincorporación del sistema o de reubicación de los empresarios en
+     otras áreas o actividades.
+4.35 Si bien al inicio de los proyectos se determina la conveniencia de licitar la operación del
+     sistema con empresas que tengan la capacidad para ello, privilegiando la participación de
+     los actuales operadores, las autoridades consideran en los procesos de negociación con
+"
+"     los operadores del sistema, la posibilidad de otorgar vía traspaso de concesiones o
+     permisos de operación a los grupos empresariales que ya atienden los corredores o
+     cuencas afectadas por el sistema.
+4.36 No obstante, la práctica de este tipo de acuerdos determina que normalmente no se
+     incorpore la totalidad de los empresarios u operadores afectados que circulan sobre el
+     corredor, con lo cual se asumen posiciones de privilegio y opacidad en los procesos de
+     asignación de la concesión, que derivan en conflictos entre ellos y pueden conllevar a
+     litigios y amparos de los no favorecidos, impactando de manera negativa en la imagen del
+     proyecto y postergando su puesta en marcha.
+4.37 Es conveniente insistir a la autoridad la importancia de establecer procesos licitatorios para
+     la operación de este tipo de sistemas que, si bien busquen fórmulas de participación de los
+     actuales operadores, sí establezca condiciones de igualdad y transparencia entre los
+     posibles postores.
+Importancia de construir y mantener el mapa estratégico de los stakeholders
+4.38 Es necesario construir un mapa estratégico de los actores, con miras a evaluar cómo se
+     articulan, relacionan o antagonizan, lo cual podrá apoyar también en la estrategia de
+     negociación a desarrollar. El análisis desde la perspectiva de los distintos actores se
+     considera una herramienta fundamental tanto para el diagnóstico como la propia gestión
+     del proyecto.
+4.39 El mapeo estratégico, no sólo debe identificar a los stakeholders, sino además debe
+     analizar los intereses que poseen con respecto al proyecto y en general sobre el sector en
+     que se desenvuelven, al tiempo de evaluar cómo cada uno de ellos puede afectar o
+     beneficiar la implantación del proyecto, valorando la viabilidad y/o riesgo de sus posibles
+     actuaciones. El mapeo también permite conocer posibles alianzas, conflictos, interlocutores
+     y portavoces, lo cual facilitará el establecimiento de estrategias de concertación y
+     negociación adecuadas en cada momento de la gestión del proyecto.
+4.40 Se insiste que el mapa estratégico resulta una radiografía de un momento dado, pero que,
+     a partir de la introducción de nuevos actores o modificación de relaciones entre ellos,
+     cambios en el marco legal o institucional, o cambios en la coyuntura en la que se
+     desenvuelve el proyecto, pueden derivarse cambios significativos en las relaciones e
+     intereses de los actores. Por ello, es una herramienta dinámica y resulta relevante dar
+     seguimiento continuo a los agentes y analizar los cambios y sus impactos en la gestión del
+     proyecto.
+4.41 Al respecto, el cambio del personal de la UE, así como los procesos eleccionarios han
+     tenido una repercusión significativa en el mapa de actores del proyecto, con consecuencias
+     importantes en la recomposición de los actores y sus intereses.
+4.42 Reiterados anuncios de arranque del sistema por motivos políticos que derivaron en una
+     imagen negativa del proyecto y falsas expectativas en la población
+4.43 La presión política de los procesos eleccionarios conllevó a reiterados anuncios de
+     arranque del sistema que formó una imagen negativa del proyecto y la generación de falsas
+     expectativas a la comunidad. Ello degeneró en una campaña comunicacional adversa al
+     proyecto por parte de medios de comunicación.
+"
+"4.44 Al respecto, se insiste en la necesidad de institucionalizar el proyecto y al organismo
+      encargado de su ejecución, a través de una adecuada campaña comunicacional que
+      refuerce la imagen no sólo del propio proyecto, sino incluso de la dependencia encargada
+      de su desarrollo.
+Gestión del riesgo
+Incertidumbre luego de la sentencia definitiva de la Sala Constitucional de la Corte Suprema de
+Justicia afecta la operación, demanda e ingresos del sistema.
+4.45 Hasta el momento, mientras el MOPT atiende la sentencia de la Corte Suprema de Justicia,
+      las bondades del corredor segregado no pueden ser aprovechadas. La circulación del
+      tránsito mixto ha degenerado en menores velocidades y altos riesgos para la conducción
+      de vehículos no diseñados para circular en esas condiciones, con altos riesgos de
+      accidentalidad.
+4.46 Se insiste en la importancia de considerar previo a la implantación de estos proyectos,
+      marcos regulatorios sólidos y consensuados que establezcan las condiciones propicias
+      para la aparición de sistemas integrados, en los que se definan la jerarquía de los servicios,
+      los requerimientos mínimos para la prestación de estos y la forma de participación de los
+      empresarios. Este tipo de instrumentos valdría ser considerados como condiciones de
+      desembolso de préstamo en la implantación de los proyectos.
+4.47 Experiencias como las leyes de movilidad que se vienen desarrollando en varios países
+      Latinoamérica pueden ser consideradas como instrumentos jurídicos útiles a estos fines.
+Falta de integración de los servicios alimentadores previo a la puesta en operación del sistema
+4.48 Se ha dado una racionalización de la red hacia el norte del Municipio Soyapango, sirviendo
+      de alimentación al sistema troncal entre la Terminal de Integración de ese sector y el área
+      central del AMSS; sin embargo, no se ha logrado hasta el momento retirar la totalidad de
+      los servicios que tienen competencia con el SITRAMSS en el ámbito del corredor
+      segregado.
+4.49 Si bien los estudios previos y asistencia técnica proporcionaron esquemas de alimentación
+      y racionalización de la red, no se contó con un plan de implantación consensuado con los
+      actuales operadores.
+4.50 Por otra parte, si bien el BID financió los estudios y campañas a tales fines, no se contempló
+      entre los indicadores de la matriz de resultados la importancia de la racionalización de la
+      red.
+4.51 Al respecto, resulta conveniente evaluar qué mecanismos podrían implantarse como
+      monitoreo y evaluación de resultados por parte del Banco a ser exigidos a la Autoridad en
+      este aspecto. En tal sentido, el Banco deberá considerar que los proyectos dispongan de
+      condiciones para el financiamiento de obras y otras condiciones para la puesta efectiva en
+      operación de los sistemas que contemplen este tipo de intervención sobre las redes de
+      transporte, particularmente en la implantación del sistema alimentador.
+"
+"Posibilidad de retiro del operador SIPAGO – SUBES: SITRAMSS
+4.52 Luego de la aplicación de la medida cautelar de la Corte Suprema, ha habido una merma
+     importante de los pasajeros movilizados por el sistema, con la consecuente disminución de
+     los ingresos del SITRAMSS que a su vez repercuten en el pago de inversiones efectuadas
+     por el grupo privado que adquirió flota. Este grupo inversor, además de pagar a los socios
+     empresarios del sector que se han involucrado con el proyecto, requieren de costear los
+     servicios de la empresa especializada en la operación de este tipo de sistemas, la empresa
+     SI99.
+4.53 Él déficit que representan la reducción de ingresos compromete la situación financiera del
+     grupo inversor en la adquisición de la flota requerida para la operación del sistema, con lo
+     cual de no retirarse la competencia del corredor se estima que los empresarios podrían
+     tomar la decisión de retirarse del servicio.
+Importancia de los componentes tecnológicos: recaudo y gestión de flota
+4.54 Los aspectos tecnológicos en los proyectos de BRT se han condicionado generalmente a
+     procesos licitatorios para el sistema de recaudo y para el sistema de ayuda a la explotación
+     o gestión de flota. Dependiendo del modelo de negocio y figura institucional que se adopte
+     puede considerarse en licitaciones por separado o conjuntas en un único proceso.
+4.55 El avance tecnológico de este tipo de sistemas ha favorecido una adecuada participación
+     de empresas y opciones tecnológicas en el mercado. No obstante, las dificultades han
+     surgido en la operación e integración del sistema, ya que la decisión tecnológica es
+     relevante en la operación del sistema, haciéndola a veces inviable o insuficiente para las
+     necesidades que se pretenden satisfacer.
+4.56 Las limitantes en capacidad técnica y económica de las dependencias gubernamentales y
+     el vertiginoso avance de las soluciones de los sistemas han evidenciado que el
+     equipamiento adquirido puede volverse obsoleto en corto plazo, y los modelos de
+     financieros para su adquisición pueden no cubrir todos los requerimientos para la adecuada
+     operación de los sistemas.
+4.57 En los sistemas de recaudo electrónico, fue común licitar de manera integral los tres
+     componentes básicos de este sistema: la provisión de las TISC, el equipamiento de venta,
+     recarga y validación de las TISC (inclusive la generación de tarjetas personalizadas en caso
+     de usuarios preferenciales) y el backoffice del sistema en el que se registran, contabilizan
+     y comprueban las ventas, recarga y validaciones de los títulos de transporte.
+4.58 No obstante, la experiencia adquirida ha demostrado que la atomización del sistema de
+     recaudo entre distintos proveedores ha degenerado en la dificultad de integración posterior
+     de los sistemas entre distintas líneas y modos de transporte.
+4.59 Los procesos licitatorios de estos sistemas usualmente incluyeron especificaciones en las
+     que se delegaba al proveedor la implantación de las reglas técnicas y operativas de los
+     sistemas y éstos proponían soluciones sin tomar en consideración posibles ampliaciones
+     del sistema, futuros corredores y otros modos de transporte. De igual manera los equipos
+     asociados para la lectura y escritura sobre la TISC fueron encargadas a los proveedores
+     con lo cual se limitaba a que los sistemas sólo pudiesen funcionar con sus especificaciones.
+"
+"4.60 Por otra parte, la incorporación de tecnología implica costos al sistema que por lo general
+     deben ser remunerados por la tarifa. La experiencia internacional refiere que los sistemas
+     de recaudo pueden representar entre 5% al 12% del recaudo total del sistema para sufragar
+     los costos de inversión y operación. Ello implica una negociación con los empresarios
+     operadores, por cuanto el recaudo ya no será devengado en su totalidad por ellos y además
+     será controlado y fiscalizado por la autoridad.
+4.61 En el tema particular de El Salvador, al igual que otros países centroamericanos, el manejo
+     del dinero en efectivo por el sector ha incidido en problemas de inseguridad como robos y
+     extorsión a conductores y empresarios, con lo cual el recaudo electrónico se ha visto como
+     una medida clave en la mitigación de esta problemática.
+4.62 En contraparte, los empresarios del sector, evaluando las bondades de este tipo de
+     sistemas para su propio control, evitar fugas en el recaudo (se estima que en promedio en
+     Latinoamérica la fuga por recaudo en efectivo puede estar entre 15% y 30% del total
+     recaudado) y aminorar los robos a los conductores, han considerado la posibilidad de
+     incorporar los sistemas de recaudo electrónico, así como otros elementos de control
+     (contadores de pasajeros, cámaras, entre otros) por iniciativa propia. Ello además
+     tácitamente está también asociado a lograr que el control del recaudo no sea vigilado por
+     parte de la autoridad y poder evadir posibles controles fiscales a aplicar por parte del
+     Estado.
+4.63 La lucha por el control del recaudo entre autoridad y empresarios del sector siempre ha
+     sido un punto importante de conflicto en estos sistemas, sin embargo, en los nuevos
+     proyectos está condicionado al conocimiento adquirido por ambos actores y la evolución
+     tecnológica de las soluciones, lo cual ha tomado una dimensión superior a la figura anterior
+     de licitar el recaudo y pagar por kilómetro al operador de transporte por cada sistema a
+     implantar.
+4.64 A lo anterior se suma que terceros vinculados a la venta y operación de la tecnología han
+     visto oportunidades de negocio y se han acercado al Estado y empresarios del sector para
+     apoyarles en la implantación de las soluciones, condicionando la operación de los sistemas
+     hasta tanto no se resuelva los aspectos tecnológicos del recaudo. Los intereses de privados
+     pueden llegar a desvirtuar el proyecto mientras se decide cómo homologar la tecnología y
+     establecer quién será el responsable de controlarla.
+4.65 En este contexto, es conveniente que se evalúe los nuevos esquemas de interoperabilidad
+     entre modos de transporte y defina con el beneficiario del préstamo la figura institucional y
+     el modelo de negocio más conveniente a implantar para los sistemas integrados de
+     transporte, previo a la gestión del proyecto de BRT y se identifiquen claramente los
+     responsables y competencias para los sistemas de recaudo y gestión de flota,
+     contemplando los aspectos ya reseñados sobre propiedad y seguridad de los medios de
+     pagos a ser implantados y de cómo se soportará la red de comercialización de las TISC.
+4.66 Este esquema institucional conviene sea predeterminado desde el momento de la
+     concepción técnica del proyecto y se dé seguimiento formal a los procesos de participación
+     del sector privado en la asignación de competencias.
+"
+"No se cuenta con mecanismos que aseguren la sostenibilidad institucional de los proyectos
+4.67 El Banco tiene múltiples mecanismos para velar por la transparencia de los procesos
+     asociados a los proyectos y ejecución de las obras de infraestructura que financia, inclusive
+     de garantizar el cumplimiento de los aspectos ambientales asociados, sin embargo, no se
+     ha logrado establecer instrumentos e indicadores que mitiguen los riesgos asociados a la
+     estructura institucional y el modelo de negocio que adopten los entes públicos en la gestión
+     y operación de los sistemas integrados.
+4.68 Los proyectos de transporte masivo que se han implantado en estructuras públicas con
+     deficiencias institucionales y ante empresarios del sector poco regulados, se perfilan en
+     sistemas vulnerables que dependen de la evolución conjunta entre autoridad y operadores
+     del sistema, y del consenso entre la mayoría de los operadores.
+4.69 Por otra parte, el marco regulatorio e institucional debe prever la incorporación de los
+     sistemas masivos, estableciendo la debida jerarquía de los servicios y mitigando la posible
+     competencia entre ellos. En el caso del SITRAMSS no se contempló la adecuación del
+     marco regulatorio previo a su implantación, al tiempo que, por el esquema de permuta de
+     concesiones para la operación del servicio troncal, no permitió que los servicios que ya
+     operaban en competencia con el corredor pudiesen ser desincorporados.
+4.70 A modo de recomendación, resulta pertinente realizar estudios detallados del marco legal
+     que establezcan las adaptaciones necesarias para la inclusión de este tipo de sistemas, al
+     tiempo de incorporar indicadores de medición de impacto en la matriz de resultados que
+     comprometan a la Autoridad en garantizar esquemas institucionales adecuados para el
+     éxito de su implantación.
+"
+"                          Tabla 10. Hallazgos y recomendaciones
+              Hallazgos                                       Recomendaciones
+Dimensión 1: Dimensión técnico sectorial
+                                         Recomendación # 1
+                                         Constituir desde el inicio de la operación del préstamo una
+                                         UE, con fuerte acompañamiento técnico en la gestión del
+                                         proyecto de manera integral y con personal especializado
+                                         y formado para ello. Al respecto se recomienda contar con
+                                         una asistencia técnica (tal como se hizo con la Firma
+                                         Gerenciadora) desde el arranque del Proyecto.
+Hallazgo # 1
+                                         Recomendación # 2
+Necesidad de la creación de la unidad
+gestora desde el inicio del proyecto     Disponer personal especializado en la construcción y
+con personal especializado y con         supervisión de obras, así como gestión de operación de
+experiencia en la ejecución de obras     sistemas de transporte público masivo que pueda apoyar
+                                         en la puesta en marcha del sistema.
+                                         Recomendación # 3
+                                         Considerar o incluir iniciativas para fortalecer las
+                                         instancias institucionales propias del Organismo Ejecutor
+                                         que tienen mandato legal o reglamentario para ejercer o
+                                         asumir responsabilidades de ente rector
+                                         Recomendación # 4
+                                         Conocer a detalle la legislación nacional sobre compra de
+                                         terrenos como parte de los estudios previos y determinar
+Hallazgo # 2                             las posibilidades reales de adquisición de los terrenos, e
+                                         instar a las autoridades sobre la importancia de disponer
+Falta de titularidad de los terrenos     de los terrenos de forma oportuna.
+destinados para patios y talleres
+generó retrasos                          Recomendación # 5
+                                         Elaborar los diseños definitivos de áreas terminales, de
+                                         patios y talleres, cuando se tenga certeza de la propiedad
+                                         de los terrenos.
+                                         Recomendación # 6
+                                         Revisar a detalle los anteproyectos, previo a las
+Hallazgo # 3                             licitaciones con especialistas en la materia y mediciones
+                                         en campo que permitan disminuir costos de inversión.
+Anteproyectos con problemas en la
+ejecución por deficiencias en la         Recomendación # 7
+ubicación de los servicios y análisis de
+suelos                                   Evaluar estudios a mayor detalle de componentes que
+                                         puedan representar riesgos e incertidumbres en la
+                                         estimación de costos de los proyectos a nivel de
+                                         anteproyecto.
+Hallazgo # 4                             Recomendación # 1
+"
+"               Hallazgos                                       Recomendaciones
+Definición de metas en los indicadores    Alinear unidad de meta para ser congruente con variable
+de la matriz de resultados                y en una medida alcanzable.
+Dimensión 2: Dimensión organizacional y de gestión
+                                          Recomendación # 8
+                                          Incorporar personal especializado en el sector desde el
+                                          inicio del programa y mantener la participación de los
+Hallazgo # 4                              equipos originarios con la menor rotación relativa posible
+Debilitamiento de la UE incidió en las    de su personal.
+actividades      de      monitoreo      y
+seguimiento                               Recomendación # 9
+                                          Exhortar a las autoridades a mantener el posicionamiento
+                                          de responsables de la ejecución del proyecto a lo largo de
+                                          la ejecución del programa.
+                                          Recomendación # 10
+Hallazgo # 5
+                                          Establecer mecanismos de valoración en la matriz de
+Debilitamiento institucional de la UE
+                                          resultados que alerten sobre la desincorporación de
+sin valoración en la matriz de
+                                          personal y desmantelamiento de las unidades de gestión
+resultados
+                                          de los proyectos.
+                                          Recomendación # 11
+                                          Incorporar en los financiamientos de este tipo proyectos
+                                          recursos para las campañas de comunicación y
+                                          socialización, al tiempo de exigir a las unidades de gestión
+                                          de proyectos contar con personal para llevar a cabo estas
+Hallazgo # 6                              tareas, dándole el seguimiento continuo.
+Las campañas de socialización al
+inicio del proyecto en favor de la matriz Recomendación # 12
+de opinión pública del proyecto           Contar desde el BID con personal especializado que dé
+                                          seguimiento y análisis a la información publicada en
+                                          medios de comunicación, que permita alertar con
+                                          anticipación sobre la generación de matrices de opinión
+                                          negativa, así como identificar a los interlocutores y
+                                          promotores de las mismas.
+Hallazgo # 7
+                                          Recomendación # 13
+Conveniencia de incorporar en la
+                                          Contar con un especialista ambiental local a través de la
+asistencia     técnica     especialistas
+                                          figura de asistencia técnica, o como requerimiento a
+ambientales      que     garanticen    el
+                                          incorporar como personal en la UE.
+cumplimento de los PMA
+Dimensión 3: Dimensión relacionada con los procesos públicos y los actores
+                                          Recomendación # 14
+Hallazgo # 8
+                                          Construir un análisis detallado del sector que permita
+                                          cuantificar la afectación por la inclusión de un nuevo
+"
+"               Hallazgos                                    Recomendaciones
+Necesidad de un inventario a detalle   sistema, así como definir estrategias adecuadas de
+de los empresarios del sector para     negociación con los empresarios del sector.
+definir una estrategia de negociación
+                                       Recomendación # 15
+                                       Evaluar la capacidad financiera y técnica de los
+                                       empresarios vinculados al sector, de modo de analizar su
+                                       posible participación en la posterior operación del
+                                       sistema, y lograr formular posibles esquemas que les
+                                       garanticen involucrarse sin comprometer la rentabilidad y
+                                       operatividad del sistema.
+                                       Recomendación # 16
+                                       Construir un mapa estratégico de los actores, con miras a
+                                       evaluar cómo se articulan, relacionan o antagonizan, lo
+Hallazgo # 9                           cual podrá apoyar también en la estrategia de
+                                       negociación a desarrollar.
+Importancia de construir y mantener el
+mapa estratégico de los stakeholders   Recomendación # 17
+                                       Dar seguimiento continuo a los agentes y analizar los
+                                       cambios y sus impactos en la gestión del proyecto a lo
+                                       largo de toda la vida de este.
+Hallazgo # 10
+                                       Recomendación # 18
+Reiterados anuncios de arranque del
+sistema por motivos políticos que      Institucionalizar el proyecto y al organismo encargado de
+derivaron en una imagen negativa del   su gestión y ejecución, a través de una adecuada
+proyecto y falsas expectativas en la   campaña comunicacional que refuerce la imagen no sólo
+población                              del propio proyecto, sino incluso de la dependencia
+                                       encargada de su desarrollo.
+Dimensión 5: Riesgos
+                                       Recomendación # 19
+                                       Disponer de marcos regulatorios sólidos y consensuados
+                                       que establezcan las condiciones propicias para la
+                                       aparición de sistemas integrados, en los que se definan la
+                                       jerarquía de los servicios, los requerimientos mínimos
+Hallazgo # 11
+                                       para la prestación de estos y la forma de participación de
+Incertidumbre ante la medida cautelar  los empresarios. Este tipo de instrumentos valdría ser
+y posterior sentencia definitiva de la considerados como condiciones de desembolso de
+Sala Constitucional de la Corte        préstamo en la implantación de los proyectos.
+Suprema de Justicia afectó la
+operación, demanda e ingresos del      Recomendación # 20
+sistema
+                                       Durante las actividades de preparación de programas de
+                                       transporte que involucre actividades posteriores de
+                                       operación del Sistema donde el Banco no esté
+                                       directamente involucrado, se sugiere investigar en
+                                       profundidad las normas legales que determinan
+                                       competencias y procedimientos en áreas estratégicas de
+"
+"              Hallazgos                                   Recomendaciones
+                                       éxito del proyecto e implementar mecanismos
+                                       independientes de verificación en cuanto a su
+                                       cumplimiento.
+                                       Recomendación # 21
+                                       Contemplar entre los indicadores de la matriz de
+Hallazgo # 12                          resultados la importancia de la racionalización de la red
+Falta de integración de los servicios  Recomendación # 22
+alimentadores previo a la puesta en
+operación del sistema                  Establecer condiciones para el financiamiento de las
+                                       obras y otras condiciones para la puesta efectiva en
+                                       operación de los sistemas que contemplen el plan de
+                                       implantación del sistema alimentador.
+                                       Recomendación # 23
+                                       Establecer compromisos por parte de la autoridad, a
+Hallazgo # 13                          través de las condiciones suscritas en los préstamos, que
+                                       los sistemas implantados con recursos del Banco, se
+Posibilidad de retiro del operador
+                                       garantice su operación por al menos el tiempo de vida útil
+SIPAGO – SUBES: SITRAMSS
+                                       del proyecto, debiendo asumir el control, así como los
+                                       costos de operación de los sistemas para su normal
+                                       funcionamiento durante ese período.
+                                       Recomendación # 24
+                                       Evaluar los nuevos esquemas de interoperabilidad entre
+                                       modos de transporte y definir con el beneficiario del
+                                       préstamo la figura institucional y el modelo de negocio
+Hallazgo # 14                          más conveniente a implantar para los sistemas integrados
+                                       de transporte, previo a la gestión del proyecto de BRT.
+Importancia de los componentes
+tecnológicos: recaudo y gestión de     Recomendación # 25
+flota
+                                       Identificar los responsables y competencias para los
+                                       sistemas de recaudo y gestión de flota, contemplando los
+                                       aspectos sobre propiedad y seguridad de los medios de
+                                       pagos a ser implantados y de cómo se soportará la red de
+                                       comercialización de los medios de pago.
+                                       Recomendación # 26
+                                       Realizar estudios detallados del marco legal que
+Hallazgo # 15                          establezcan las adaptaciones necesarias para la inclusión
+                                       de sistemas masivos que prioricen su operación.
+No se cuenta con mecanismos de
+monitoreo     que      aseguren     la Recomendación # 27
+sostenibilidad institucional de los
+proyectos                              Incorporar indicadores de medición de impacto en la
+                                       matriz de resultados que comprometan a la autoridad en
+                                       garantizar esquemas institucionales adecuados para el
+                                       éxito de su implantación.
+"
+""

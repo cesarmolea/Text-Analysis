@@ -1,0 +1,1660 @@
+"outlist[[i]]"
+"  Clasificación de Efectividad de Desarrollo: Satisfactorio
+                                              Personal del Banco
+                            Posiciones          en PCR                 En la aprobación
+                     Vicepresidente VPS          Santiago Levy          Santiago Levy
+                     Vicepresidente VPC          Alexandre Rosa         ROBERTO VELLUTINI
+                     Gerente de país             Rafael de la Cruz      ¿?
+                     Gerente Sectorial           Agustin Aguerre        Alexandre Rosa
+                     Jefe de División            Ariel Yépez            Leandro Alves
+                     Representante de país       Alejandro              Baudoin Duquesne
+                                                Melandri
+                     Jede de equipo del          Sergio Ballón         Emilio Sawada
+                     proyecto
+                     Jefe de equipo del          Sergio Ballón          Arturo Alarcón
+                     PCR
+  Declaración de los Objetivos de Desarrollo del Programa:
+  Contribuir a mejorar la calidad de vida de la población de bajos ingresos que no tiene acceso o tiene
+  acceso limitado a electricidad mediante la ampliación y mejora de la cobertura del servicio eléctrico. Los
+  objetivos específicos fueron: (i) incrementar la cobertura de electrificación rural mediante el
+  financiamiento de proyectos de extensión de redes; (ii) incrementar la capacidad de distribución eléctrica
+  de sistemas rurales mediante el financiamiento de proyectos de reconversión de sistemas de media
+  tensión monofásicos a sistemas trifásicos; (iii) mejorar la conexión de sistemas interconectados e
+  integrar Sistemas Aislados (SA) al SIN, mediante el financiamiento de proyectos de transmisión en
+  media y alta tensión; y (iv) apoyar al Gobierno de Bolivia (GdB) para implementar y garantizar la
+  sostenibilidad del PEVD mediante asistencia técnica y apoyo para el VMEEA financiando actividades
+  para identificar, actualizar, analizar, evaluar, estructurar y ejecutar proyectos de Electrificación Rural
+  (ER).
+                                                     II.    INTRODUCCIÓN
+El 19 de enero de 2011, el Gobierno del Estado Plurinacional de Bolivia suscribió con el Banco
+Interamericano de Desarrollo (BID) el contrato de préstamo Nº2460/BL-BO por un monto de US$
+60 millones, para financiar el Programa de Electrificación Rural (en adelante “el Programa”). El
+objetivo general del Programa fue contribuir a mejorar la calidad de vida de la población de bajos
+ingresos que no tenía acceso o tenía acceso limitado a electricidad mediante la ampliación y
+mejora de la cobertura del servicio eléctrico. El programa financió tres componentes: (i) Extensión
+de Redes de Distribución; (ii) Extensión de Redes de Transmisión.; y (iii) Pre-inversión y Apoyo
+al Programa Electricidad para Vivir con Dignidad (PEVD). Los Componente I y III fueron
+ejecutados por el VMEEA, y el Componente II por ENDE.
+El Programa formó parte del Plan Nacional de Desarrollo de Bolivia (PND) 2006-2011, el cual
+planteaba incrementar y garantizar el suministro eléctrico, acceso universal y equidad social para
+lograr la universalización del servicio de electricidad. Entre las bases de PND se incluían: (i)
+desarrollar la infraestructura de generación y transmisión para cubrir la demanda de electricidad;
+y (ii) desarrollar fuentes de energías renovables que garanticen la independencia energética.
+En el 2008, el gobierno decidió fortalecer la presencia del Estado en el sector eléctrico,
+especialmente a través de la Empresa Nacional de Electricidad (ENDE), que fue declarada
+empresa pública estratégica y corporativa (DS No. 29644/2008). Asimismo, el GdB impulsaba el
+                                                        -2-
+"
+"Programa de Electrificación para Vivir con Dignidad (PEVD), creado en el año 2008, con el
+objetivo de proveer de energía eléctrica a toda la población para el 2025, con una inversión total
+estimada, en ese momento, en US$ 1.388 millones.
+En 2010, se estimaba que el país tenía una población de 10,4 millones de habitantes, de los
+cuales 34% habitaban en áreas rurales. En las zonas rurales los niveles de pobreza alcanzaban
+aproximadamente un 63% y la pobreza extrema el 43%, y el acceso y provisión de servicios
+básicos escaso, que, en el caso del servicio de energía eléctrica, se estimaba en 49%.
+Mediante el Programa, la construcción de 4.200 km de redes de distribución y 238 km de alta
+tensión permitió el acceso a electricidad a más de 13.919 familias en Bolivia (al cierre de 2017),
+y mitigó el uso de otras fuentes de energéticos. Asimismo, la instalación de la planta solar
+fotovoltaica del Espino (en la comunidad del mismo nombre), a través de 240 paneles solares
+que aportan 60 kWp de potencia, un banco de baterías de 10.600 Ah, y de un generador diésel
+de 64 kW de potencia, brindará acceso a electricidad a partir de fuentes renovables a las 128
+viviendas de la comunidad.
+Es dado a estos resultados que a través de este Programa se ha incrementado la cobertura del
+servicio eléctrico en el área rural en 1.96%. De la misma manera, a través del componente de
+fortalecimiento institucional, el programa apoyó al GdB a la elaboración de manuales y
+herramientas que permitirán el desarrollo de nuevos proyectos de electrificación, apoyando a su
+planificación e implementación.
+                          III. CRITERIOS CENTRALES. RENDIMIENTO DEL PROGRAMA
+A.       Relevancia
+         1.   Alineación con las necesidades de desarrollo del país
+Relevancia de la operación durante el diseño. En 2010, de acuerdo a las proyecciones del
+Instituto Nacional de Estadística (INE), Bolivia tenía una población de 10,4 millones de
+habitantes, con 3,5 millones en el área rural (34%). La población rural contaba con elevados
+niveles de pobreza, escaso acceso y provisión de servicios básicos. La cobertura del servicio
+eléctrico en el área rural se estimaba en 49%, lo que significaba que aproximadamente 500.000
+hogares no contaban con acceso a la electricidad. En 2010, los niveles de pobreza alcanzaban
+aproximadamente un 63% en las zonas rurales y la pobreza extrema el 43%. El Censo Nacional
+del año 2012 (CNPV 2012) muestra una fuerte correlación entre los niveles de pobreza y el
+acceso a la electricidad (Figura 1).
+                                               -3-
+"
+"                                      Figura 1. Relación Acceso a Electricidad y Pobreza a Nivel Municipio
+                            100.0
+                                      90.0
+                                      80.0
+               % de población pobre
+                                      70.0
+                                      60.0
+                                      50.0
+                                      40.0
+                                      30.0
+                                      20.0
+                                      10.0
+                                             10.0   20.0   30.0    40.0   50.0     60.0    70.0   80.0   90.0   100.0
+                                                                  % de hogares con electricidad
+                                                                     (Fuente: CNPV 2012)
+Los determinantes principales para la baja cobertura de ER en Bolivia. En 2010, se
+identificaron como las principales barreras para lograr el acceso universal a la electricidad las
+siguientes: (i) la baja densidad y alta dispersión de las poblaciones rurales, y su distancia a la red
+eléctrica (que encarecen el costo de inversión por beneficiario y los costos de operación y
+mantenimiento, a medida que incrementa el nivel de cobertura1); y (ii) el bajo consumo de
+electricidad en áreas rurales (principalmente de iluminación y comunicación) que limita los
+ingresos por tarifa2. Otros factores que limitan la expansión de ER son: (i) la limitada extensión
+del sistema de trasmisión y subtransmisión, que restringe la construcción de nuevas redes de
+distribución3; (ii) la baja capacidad técnica de elaboración de proyectos, particularmente los
+municipios más pequeños4; y (iii) la inexistencia de programas de fomento de usos productivos
+de la energía.
+Relevancia con respecto a la problemática actual. A pesar de los importantes avances en el
+incremento de la cobertura eléctrica tanto en las zonas urbanas como en las rurales, actualmente
+el programa continúa siendo relevante dado que el país aún afronta importantes retos para: (i)
+lograr el acceso universal a la electricidad. La cobertura de electricidad a nivel nacional se estima
+en 90% y en las áreas rurales en 77%. Aún existen más de 226.000 hogares sin electricidad,
+71% de los cuales están en áreas rurales, mayormente en comunidades indígenas y de bajos
+recursos. Las inversiones para lograr el 100% de cobertura se estiman en un total de US$ 2.000
+millones. El 90% de los hogares rurales sin electricidad podrían conectarse a la red, y 10% se
+cubrirían mediante fuentes alternativas de energía.
+1   La media de costo por beneficiario se estimó en: US$5 80 (2003), US$ 641 (2007) y US$ 672 (2010). En los proyectos
+    construidos al 2015 la media fue de US$ 1.646 por beneficiario. El costo promedio de densificación en áreas urbanas
+    es de US$ 730 por beneficiario.
+2   El consumo medio en zonas rurales electrificadas es 25 kWh/mes por familia, destinado a iluminación, radio y algunas
+    horas de televisión. El consumo medio de electricidad en zonas urbanas es 120 kWh/mes por familia. (ENERGETICA,
+    2010).
+3   Por ejemplo, en el caso de la Línea de media tensión Sucre - Padilla, estaba totalmente saturada y se requería
+    incrementar su capacidad para que sea posible la ampliación del servicio a poblaciones que aún no contaban con
+    servicio eléctrico en la zona de Chuquisaca. Los indicadores de confiabilidad de la LT mostraban una máxima caída de
+    tensión de 10,72%, una frecuencia anual de interrupciones de 22 con una duración de 40 horas/año
+4   Por ejemplo, de la muestra inicial de 23 proyectos recibida para la preparación del préstamo BO-L1117, solo 10
+    cumplieron los criterios establecidos.
+                                                                            -4-
+"
+"Con el logro de las metas establecidas en el Programa, medidas a través de los indicadores de
+resultado establecidos, el PCR confirma la relevancia del Programa como instrumento para
+contribuir con los objetivos estratégicos del país en el sector eléctrico y su aporte al crecimiento
+económico, particularmente con el acceso a electricidad a más de 13.919 familias. Asimismo, el
+programa apoyó a la extensión del sistema de transmisión, aspecto que permitirá el incremento
+futuro de la cobertura rural. Finalmente, se desarrollaron herramientas para fortalecer las
+capacidades de diseño de proyectos de electrificación rural.
+         2.    Alineación estratégica
+Durante su diseño y aprobación, el PER se encontraba alineado con la estrategia la Estrategia
+del BID para Bolivia 2008-2010 (documento GN-2485-2) la cual priorizaba los temas de pobreza,
+exclusión social y acceso a los servicios básicos de la población, identificando áreas de acción
+tales como el acceso adecuado a los servicios básicos y de infraestructura, entre estos, el acceso
+a la electricidad. Con el Programa se contribuyó a las prioridades definidas en el Plan Nacional
+de Desarrollo (PND) (2006-2011) que identificó al sector de electricidad como un sector
+estratégico, y que destacaba como prioridad, la promoción del desarrollo de infraestructura
+eléctrica de generación y transmisión para atender las necesidades internas de Bolivia.
+Durante su ejecución, el Programa mantuvo su alineamiento con la Estrategia del Banco con el
+País para 2011-2015 (GN2631-1) y sus objetivos estratégicos de incrementar la extensión del
+Sistema Interconectado Nacional de Electricidad e incrementar la cobertura eléctrica rural; y con
+la Estrategia del Banco con el País para 2016-2020 (GN-2843) en cuanto al objetivo estratégico
+de mejorar la provisión de bienes y servicios públicos de calidad, al incrementar la cobertura de
+electrificación rural, interconectar SA al SIN permitiendo reducir el consumo de diésel para la
+generación eléctrica y las emisiones de CO2 asociadas, e incrementar la capacidad de
+transmisión mejorando la confiabilidad y calidad del sistema y que facilitará la interconexión de
+nuevos usuarios sin acceso a la electricidad. Lo anterior contribuyendo a las políticas promovidas
+por el Plan de Desarrollo Económico y Social - PDES (2016-2020) del GdB en el área prioritaria
+de: mejorar la provisión de bienes y servicios públicos de calidad, a través aumentar de la
+cobertura eléctrica en zonas rurales, especialmente para fines productivos.
+El Programa es consistente con los objetivos prioritarios del Noveno Aumento General de Capital
+(GCI-9) de apoyar a países pequeños y vulnerables y de contribuir a la mitigación y adaptación
+al cambio climático, ya que con la interconexión de SA se logra reducir el consumo de diésel para
+la generación eléctrica y, de kerosén y velas en iluminación y leña para cocción de alimentos y
+calefacción. Bajo estas mismas consideraciones, el programa es consistente con la Actualización
+de la Estrategia Institucional 2010-2020 (AB-3008) y se alinea con los desafíos de desarrollo de:
+(i) productividad e innovación, al proveer con servicio de energía eléctrica a diferentes
+comunidades facilitando de esta manera el desarrollo de nuevas actividades productivas; y (ii)
+inclusión social e igualdad por medio de la mejora de la calidad de vida de las comunidades
+rurales al brindarles un servicio básico como el de energía eléctrica. El programa se alinea y con
+el área transversal de cambio climático y sostenibilidad ambiental, al reducir las emisiones de
+CO2 en la generación eléctrica de los SA.
+Con base a lo descrito anteriormente, el Programa se alineó con los objetivos de desarrollo, con
+las necesidades del país y la estrategia del BID, ya que este incrementó el número de familias
+con accesos a la electricidad, fortaleciendo el suministro de energía eléctrica en Sucre y Beni,
+permitiendo el incremento al acceso a la electricidad. Esto permitió focalizar la atención en
+transmisión y distribución, beneficiando así a los usuarios de las 13.919 conexiones en los
+departamentos de La Paz, Cochabamba, Oruro, Sucre, Santa Cruz. El programa en la actualidad
+                                                 -5-
+"
+"continúa siendo relevante dado que las conexiones siguen incrementando en los departamentos
+donde se intervino, tanto por el crecimiento vegetativo de la población, como por el desarrollo de
+una estrategia para incrementar las conexiones, en coordinación con las empresas distribuidoras.
+        3.    Relevancia del diseño
+El diseño del Programa contemplo la ejecución de los siguientes componentes: (i) Extensión de
+redes de distribución; (ii) Extensión de redes de transmisión; y (ii) Preinversión y Apoyo al PEVD,
+los cuales se enfocaron en ampliar y mejorar la cobertura eléctrica en el área rural, expandir el
+SIN a través de la integración de SA (SA), y mejorar las capacidades de planificación, ejecución
+y gestión de proyectos de electrificación. Con lo anterior se pretendía atender los principales
+determinantes para la baja cobertura de ER en Bolivia. La gráfica 1. presenta la lógica vertical
+durante el diseño la cual muestra claramente el vínculo entre las barreras identificadas con los
+objetivos, resultados y productos establecidos para el Programa.
+                                 Gráfica 1. Lógica vertical del Programa
+                                                   -6-
+"
+"El diseño del componente I se realizó a través de una muestra representativa de proyectos5
+elaborados por las gobernaciones y priorizados por el GdB. El componente comprendía el
+financiamiento para proyectos de extensión de redes rurales de media y baja tensión. La unidad
+ejecutora del PEVD licitaba los proyectos, los contratistas ejecutaban las obras y posteriormente
+la obra pasaba a ser mantenida y operada por las empresas distribuidoras en las áreas de
+concesión correspondientes. El Programa no contemplaba el financiamiento de las conexiones
+finales de los usuarios, por una imposibilidad del marco legal vigente al momento de la
+aprobación del Programa. Por ello, el diseño tomaba en cuenta que los usuarios (familias), se
+conecten a la red eléctrica, pagando los costos de conexión, una vez que la red eléctrica llegue
+a su comunidad, mediante un contrato con las empresas distribuidoras. El Programa contempló
+una contrapartida de US$200,000, provenientes de la Agencia Alemana de Cooperación Técnica
+(GIZ), para fomentar estas conexiones, brindando un apoyo de US$20 a usuarios de bajos
+recursos para su conexión.
+Uno de los aspectos a mencionar es la debilidad de ejecución de las empresas locales
+contratistas y empresas (jurídicas o naturales) de supervisión que se evidenció en la etapa de
+ejecución de las obras y asimismo el ausentismo de las empresas internacionales en los
+procesos de licitación. Esto conllevó, primero, a varias licitaciones desiertas, y posteriormente a
+retrasos en la implementación de las obras contratadas. Por lo que se sugiere para próximas
+operaciones de electrificación rural, una intervención directa de las empresas distribuidoras como
+fiscalizadores de la construcción. Cabe resaltar que el apoyo del Banco fue constante con la
+contratación de expertos que apoyaron a la UE en pro de avanzar en la implementación de los
+proyectos.
+El diseño del componente II buscaba interconectar SA y mitigar el consumo de diésel para la
+generación eléctrica, a través de la construcción de dos Líneas de Transmisión (LT). El Programa
+inicialmente contemplaba que una línea estaría a cargo de la UE que se encontraba en el
+VMEEA, mientras que la segunda línea sería ejecutada, por ENDE. Sin embargo, dado que en
+el país la responsabilidad y capacidad técnica para la construcción de LT estaba con ENDE, se
+decidió concentrar la ejecución de ambas LT en la UE de ENDE. Para este fin, se firmó un
+contrato modificatorio en el segundo semestre del 2012. Esta medida en ejecución fue un
+valorado acierto dado que estos proyectos se desarrollaron en plazo y presupuesto,
+aprovechando la capacidad técnica de ENDE para la construcción de LT.
+Se esperaba que este Programa una vez ejecutado fuera el primero de una serie de préstamos
+para el sector y que las fases posteriores incluyan el apoyo a alternativas tecnológicas tales como
+paneles fotovoltaicos y/o micro centrales hidroeléctricas, así como también Programas de Usos
+Productivos de la energía eléctrica. Este apoyo actualmente se continua con el Programa de
+Electrificación Rural (PER II) (BO-L1117), aprobado en 2016.
+En lo que significa al diseño de la Matriz de Resultados (MR), no fue posible realizar la validación
+de las metas de la MR dentro de los plazos determinados, debido a los cambios frecuentes en
+las autoridades y el personal de la contraparte. La elegibilidad se dio el 9 de noviembre de 2011.
+El 2012 Bolivia tuvo 5 viceministros de electricidad, que ocasionaron cambios tanto en la
+designación de la responsabilidad de coordinación del Programa, como en la conformación de la
+UE responsable, imposibilitando el acuerdo de la MR. Los atrasos están registrados en los
+informes semestrales del 2011 y 2012.
+5  Muestra representativa de ambos componentes.
+                                                 -7-
+"
+"La MR tuvo ajustes en los indicadores de resultados y productos en el transcurso de su primer
+año de ejecución, mismos que fueron solicitados por la UE6, y que están registrados en el informe
+semestral de 2013. Estos cambios se realizaron a fin de adecuar la lógica vertical del Programa.
+Posteriormente, se realizó una evaluación de la UE junto con el Banco a la meta del indicador de
+total de los usuarios, reduciendo esta meta de 35.000 a 21.500. Este ajuste se debió a que al
+momento de la preparación del préstamo no se contaba con una línea de base cuantificada y
+verificada. El ajuste a 21.500 se realizó mediante un análisis estadístico de los proyectos ya
+presentados y aprobados para ejecución, este análisis esta registrado en el informe semestral
+II/2013.
+Posteriormente en 2015, se diseñó y realizó una campaña de verificación y actualización de los
+datos de usuarios registrados y proyectados in-situ para contar con un valor semi-final del
+proyecto, se identificó de los planos as-built y de hojas de estacado que la cantidad de usuarios
+sería menor a la proyectada y que se debería actualizar mencionado valor, esto debido a que los
+proyectos enviados por las gobernaciones estaban sobredimensionados. En adición, este trabajo
+se respaldó con entrevistas y datos brindados por las Empresas Distribuidoras regionales, esto
+último como lección aprendida para futuros proyectos de Electrificación Rural.
+En este sentido, el valor de las 21.500 conexiones pasó a 13.919, valor con el que cerró el
+Programa. Ver tabla 1
+6   Nota MHE-01905 PER-00009.
+                                                 -8-
+"
+"               Tabla 1. Matriz de resultados (aprobación , 60 días después de alcanzar la elegibilidad y al terminar el Programa)
+                                                                      En elegibilidad + 60               Al terminar el
+                                         En aprobación
+                                                                               días                    Programa (PCR)
+            Indicadores                                                                                                                    Comentarios7
+                                    Unidad Línea                    Unidad       Línea       Met Unidad        Línea
+                                                          Meta
+                                        de         de                 de           de          a      de         de      (A)
+                                                           (P)
+                                    Medida       Base               Medida        Base        (P)  Medida      Base
+    Objetivo específico de Desarrollo 1: Incrementar la cobertura de electrificación rural mediante el financiamiento de proyectos de extensión
+    de redes
+    Resultado 1. Aumento en número de nuevas familias que reciben electricidad con el proyecto en calidad adecuada a la normativa vigente
+    (original) / Cobertura de servicio eléctrico en las áreas rurales incrementada (final)
+    Indicador 1. Número de
+                                                                                                                             Se realizó la modificación del valor
+    familias (original) /
+                                                                                                                             debido a la cuantificación de
+    Número de hogares                                    35.00 Hogar                         35.0                       13.9
+                                   Hogares          0                               0              Unidad         0          beneficiarios de los proyectos en
+    conectados a la red                                  0         es                         00                         19
+                                                                                                                             versión final presentados para
+    eléctrica en áreas rurales
+                                                                                                                             ejecución.
+    (final)
+                                                                                                                              Se adiciona este indicador debido a la
+    Indicador 2. Incremento
+                                                                   Porce                            Porce                    solicitud de la Unidad Ejecutora (UEP)
+    de la cobertura del                                                             0         3,5              0,00     1,96
+                                                                   ntaje                           ntaje                     de enlazar el resultado al objetivo
+    servicio en el área rural
+                                                                                                                             específico (i) del programa.
+    Indicador 3. Consumo de                                                                                                  Se adiciona este indicador debido a la
+    energía eléctrica en los                                       Kwh/                            Kwh/m                21,3 solicitud de la UEP de demostrar un
+                                                                                    0         30               0,00
+    hogares beneficiados                                           mes                             es                     6  mayor consumo de electricidad por
+    (kWh/mes)                                                                                                                parte de los beneficiarios.
+    Resultado 2. Reducción del uso de combustibles tradicionales usados para iluminación en los hogares rurales y el gasto asociado
+    Indicador 1. Litros de                                                                                                   Se elimina este resultado a solicitud de
+    kerosén/diésel usado           Litros/m                                                                                  la UEP dado que no se cuenta con un
+                                                 3.4     0.2
+    para iluminación por           es                                                                                        vínculo con los objetivos específicos del
+    familia rural                                                                                                            programa.
+    Indicador 2. Litros de
+    kerosén/diesel usado                                                                                                     Se elimina este resultado a solicitud de
+    para iluminación por                                                                                                     la UEP dado que no se cuenta con un
+                                   Bs./mes 10.1          0.60
+    familia                                                                                                                  vínculo con los objetivos específicos del
+    rural (Litros/mes). Gasto                                                                                                programa.
+    por familia mensual
+    Indicador 3. Gasto por                                                                                                   Se elimina este resultado a solicitud de
+    familia mensual Gasto                                                                                                    la UEP dado que no se cuenta con un
+                                   Bs/año        170     0
+    por familia en velas para                                                                                                vínculo con los objetivos específicos del
+    iluminación por año                                                                                                      programa.
+7 En el Anexo I se presentan más detalles sobre los cambios realizados en la matriz de resultados.
+                                                                                         -9-
+"
+"                                                                                                                                     Se elimina este resultado a solicitud de
+     Indicador 4. Gasto por
+                                                                                                                                     la UEP dado que no se cuenta con un
+     familia en Pilas para           Bs/año       310      0
+                                                                                                                                     vínculo con los objetivos específicos del
+     iluminación por año
+                                                                                                                                     programa.
+     Objetivo de desarrollo 2: Incrementar la capacidad de distribución eléctrica de sistemas rurales mediante el financiamiento de proyectos de
+     reconversión de sistemas de media tensión monofásicos a sistemas trifásicos
+     Resultado 1. Mejora en los servicios a los usuarios existentes
+                                                                                                                                     Se elimina este resultado a solicitud de
+     Indicador 1. Máxima                                                                                                             la UEP dado que no se cuenta con un
+                                                  *8       **9
+     caída de nivel de voltaje                                                                                                       vínculo con los objetivos específicos del
+                                                                                                                                     programa.
+                                                                                                                                     Se elimina este resultado a solicitud de
+     Indicador 2. Frecuencia y
+                                                                                                                                     la UEP dado que no se cuenta con un
+     duración de las                              *        **
+                                                                                                                                     vínculo con los objetivos específicos del
+     interrupciones
+                                                                                                                                     programa.
+     Resultado 2. Incremento en la capacidad de distribución de los sistemas rurales
+     Indicador 1. Capacidad            KVA                                                                                           Se elimina este resultado a solicitud de
+                                                    70       400
+     de transmisión de los           adiciona                                                                                        la UEP dado que no se cuenta con un
+     sistemas rurales                   les                                                                                          vínculo con los objetivos específicos del
+                                                  (200) (600)
+     convertidos10                                                                                                                   programa.
+     Resultado 3. Inversión con rentabilidad económica
+                                                                                                                                     Se elimina este resultado a solicitud de
+     Indicador 1. Tasa Interna                       >
+                                                               >                                                                     la UEP dado que no se cuenta con un
+     de Retorno (TIRS)                   %         12%
+                                                     11      12%                                                                     vínculo con los objetivos específicos del
+     Socioeconómica
+                                                                                                                                     programa.
+     Objetivo de desarrollo 3: Mejorar la conexión de sistemas interconectados e integrar SA al SIN, mediante el financiamiento de proyectos de
+     transmisión en media y alta tensión.
+     Resultado 1. Incremento del servicio eléctrico en los SA (Línea Yucumo-San Buenaventura) (original) / Servicio eléctrico en los SA
+     incrementados (final).
+     Indicador 1. Horas de
+                                       Horas                                                                                         Se elimina este resultado a solicitud de
+     Servicio en Reyes,
+                                        de                                                                                           la UEP dado que no se cuenta con un
+     Rurrenabaque, San                             5-20       24
+                                     servicio/                                                                                       vínculo con los objetivos específicos del
+     Buenaventura, El Palmar
+                                        día                                                                                          programa.
+     e Ixiamas
+     Indicador 2. Horas de                                            Horas                             Horas                        Resultado modificado debido a la
+                                                                                       5,00      24                 5,00      24
+     servicio por día en los SA                                       de                                de                           adecuación del valor
+8  Parámetros fuera de la normativa vigente. La reconversión de líneas incluye varios tramos de línea, Se realizará un muestreo para determinar la línea base
+9  Parámetros adecuados a la normativa vigente (voltaje, frecuencia y duraciónón de las interrupciones). El Reglamento de Electrificación rural (Decreto Supremo 28567) establece
+   en el Anexo 3, Capítulo V, Articulo 12 “Calidad de Servicio” que “La calidad de distribución en los sistemas eléctricos rurales se establecerán en los respectivos Contratos de
+   Abastecimiento de Electricidad. Los niveles de calidad estarán conformes con las condiciones específicas de cada sistema.”
+10 Se convertirá sistemas monofásicos a sistemas trifásicos, por lo que se triplicará la capacidad de distribución.
+11 Análisis Socioeconómico de la muestra de proyectos.
+                                                                                            -10-
+"
+"     que serán conectados al                                         servicio/                servicio
+     SIN a través de líneas de                                       día                      /día
+     transmisión.
+     Resultado 2. Reducción del consumo de diésel en SA (Línea Yucumo-San Buenaventura) / (original) / Servicio eléctrico en los SA
+     incrementados (final).
+     Indicador 1. Consumo de
+                                                                                                                  Se elimina este resultado a solicitud de
+     diésel en SA (Reyes,                Miles
+                                                                                                                  la UE dado que no se cuenta con un
+     Rurrenabaque, San                litros/Añ 2.630           0
+                                                                                                                  vínculo con los objetivos específicos del
+     Buenaventura, El Palmar               o
+                                                                                                                  programa.
+     e Ixiamas)
+                                                                                                                  Se adiciona este indicador debido a la
+                                                                     Miles                    Miles
+     Indicador 2. Consumo                                                                                         solicitud de la UEP de enlazar el
+                                                                     litros/Añ   2.630      0 litros/A 2.630   0
+     anual de diésel en SA                                                                                        resultado al objetivo específico (i) del
+                                                                     o                        ño
+                                                                                                                  programa.
+     Resultado 3. Reducción de la caída de tensión en la línea de distribución (Línea Sucre-Padilla) y Reducción de las interrupciones no
+     planeadas (Línea Sucre-Padilla) (original) / Caídas de tensión en la LT Sucre-Padilla disminuidas (final).
+     Indicador 1. Máxima                                                                                          Se elimina este resultado a solicitud de
+     caída de tensión en la           Porcent 10,72             13                                                la UE dado que no se cuenta con un
+                                                     12        5
+     línea existente entre                aje                                                                     vínculo con los objetivos específicos del
+     Sucre y Padilla                                                                                              programa.
+                                                                                                                  Se modifica el resultado dada la
+                                                                                                                  adecuación de la meta de acuerdo al
+     Indicador 2. Máxima              Porcent 10,72                  Porcent                  Porcen              reglamento de calidad de distribución
+                                                     14        515              10,72       3          10,72  1,6
+     caída de tensión                     aje                        aje                      taje                eléctrica del Comité Nacional de
+                                                                                                                  Despacho de Carga Eléctrica (CNDC),
+                                                                                                                  para el régimen operativo.
+                                                             Adec
+                                                             uarse
+                                                              Regl                                                Se modifica el resultado dada la
+     Indicador 3. Frecuencia                                 amen                             Interru             adecuación de la meta de acuerdo al
+                                      Interrup                       Interrup
+     de las interrupciones de                     22,00        to                             pcione              reglamento de calidad de distribución
+                                      ciones/a       16              ciones/a 11,00         3          22,00 6,52
+     la Línea Sucre-Padilla                                   Ley                             s/                  eléctrica del Comité Nacional de
+                                          ño                         ño
+     (numero/año)                                              de                             año                 Despacho de Carga Eléctrica (CNDC),
+                                                             Elect                                                para el régimen operativo.
+                                                             ricida
+                                                                d
+     Indicador 4. Duración de         Horas/a                Adec Horas/a                     Horas/         23,2 Se modifica el resultado dada la
+                                                    40                          20,00       6            40
+     las interrupciones de la             ño                 uarse ño                         año              9  adecuación de la meta de acuerdo al
+12 Fuente: Diagnostico, Proyecto Sucre-Padilla.
+13 Máxima caída de tensión utilizada en el diseño de la línea Sucre Padilla.
+14 Fuente: Diagnostico, Proyecto Sucre-Padilla.
+15 Máxima caída de tensión utilizada en el diseño de la línea Sucre Padilla.
+16 Sección de Control Producto y Servicio de la Compañía Eléctrica de Sucre S.A (CESSA).
+                                                                                       -11-
+"
+"     Línea Sucre-Padilla                                       Regl                                                        reglamento de calidad de distribución
+     existente                                                amen                                                         eléctrica del Comité Nacional de
+                                                                to                                                         Despacho de Carga Eléctrica (CNDC),
+                                                               Ley                                                         para el régimen operativo.
+                                                                de
+                                                              Elect
+                                                              ricida
+                                                                 d
+     Resultado 3. Inversión con rentabilidad económica (LT)
+     Indicador 1. Tasa Interna                                                                                             Se elimina este resultado a solicitud de
+     de Retorno                                       21,6      =o                                                         la UE dado que no se cuenta con un
+                                           %            17
+     Socioeconómica                                           >2218                                                        vínculo con los objetivos específicos del
+     (TIRS)                                                                                                                programa.
+     Objetivo de desarrollo 4: Apoyar al GdB para implementar y garantizar la sostenibilidad del PEVD mediante asistencia técnica y apoyo para
+     el VMEEA
+     Resultados (no se consideraron resultados durante la preparación de la operación)
+     Indicador (N/A)
+17 Análisis Socioeconómico del Proyecto Línea Sucre-Padilla. En el caso del proyecto Yucumo-San Buenaventura se establecerá la TIRS una vez culminado el estudio.
+18 Se realizará una verificación ex-post del análisis socioeconómico.
+                                                                                     -12-
+"
+"B.      Eficacia
+        1.     Declaración de objetivos de desarrollo del programa
+El objetivo general del Programa fue contribuir a mejorar la calidad de vida de la población de
+bajos ingresos que no tiene acceso o tiene acceso limitado a electricidad mediante la ampliación
+y mejora de la cobertura del servicio eléctrico. Los objetivos específicos fueron: (i) incrementar la
+cobertura de electrificación rural mediante el financiamiento de proyectos de extensión de redes;
+(ii) incrementar la capacidad de distribución eléctrica de sistemas rurales mediante el
+financiamiento de proyectos de reconversión de sistemas de media tensión monofásicos a
+sistemas trifásicos; (iii) mejorar la conexión de sistemas interconectados e integrar SA al SIN,
+mediante el financiamiento de proyectos de transmisión en media y alta tensión; y (iv) apoyar al
+GdB para implementar y garantizar la sostenibilidad del PEVD mediante asistencia técnica y
+apoyo para el VMEEA, financiando actividades para identificar, actualizar, analizar, evaluar,
+estructurar y ejecutar proyectos de Electrificación Rural.
+        2.     Resultados logrados
+El programa contempló la ejecución de los proyectos de redes eléctricas y de interconexión de
+SA. El diseño del programa no contempló una evaluación de impactos e incidencias en la calidad
+de vida de las poblaciones que accedan al suministro de electricidad, en el área de incidencia
+del Programa. Sin embargo, a la finalización del Programa para el componente I se realizaron 96
+encuestas a usuarios que se beneficiaron bajo este programa del servicio de electricidad en 5
+zonas donde se realizaron proyectos, que fueron: La Paz en el proyecto Caquiaviri administrado
+por la empresa eléctrica distribuidora De La Paz, en Cochabamba en el proyecto Valles Cono
+Sur administrado por la empresa eléctrica distribuidora por ELFEC, en Oruro en el proyecto
+Saucarí administrado por la empresa eléctrica distribuidora por ENDE Oruro y en Chuquisaca en
+el proyecto Tomina-Sopachuy administrado por la empresa eléctrica distribuidora Compañía
+Eléctrica de Sucre S.A (CESSA). Los resultados se pueden mencionar de la siguiente manera:
+     •  El 100% de los beneficiarios de los proyectos utilizan electricidad para iluminar sus
+        viviendas.
+     •  Mas del 86% de los beneficiarios están utilizando algún tipo de aparato con energía
+        eléctrica. Esto es importante porque como veremos más adelante, el uso de aparatos
+        eléctricos mejora cualitativamente la vida de las personas.
+     •  En el 99% de los casos se observa que el aparato más utilizado es el celular, que como
+        sabemos consume muy poca electricidad para el recargado de batería, sin embargo,
+        también se ha comprobado que los nuevos usuarios de electricidad han comenzado a
+        utilizar una serie de otros artefactos, como ser radio, televisión, plancha, licuadora,
+        refrigerador, e inclusive computadora en el caso de los profesores que trabajan en las
+        escuelas rurales, por lo cual se han agrupado como se ve en el cuadro a los que tienen
+        además de celular algún otro tipo de aparato. Así se observa que, tomando en cuenta los
+        mayores porcentajes, el 18,8% tiene únicamente celular, el 16,7% tiene celular y TV, el
+        13,5% tiene celular y radio, y el 12,5% utiliza celular, radio y TV, el 7,3% usa celular, TV
+        y licuadora. Se observa también que la TV es uno de los aparatos más utilizados,
+        sumando todos los porcentajes donde se muestra el uso de este aparato se llega al
+        50,9%, es decir más de la mitad de los beneficiarios. Esto también se puede observar en
+        el siguiente gráfico 2.
+                                                 -13-
+"
+"                       Gráfica 2. Uso de la energía en las comunidades beneficiarias.
+    •   El 95,8% perciben que ha mejorado su vida con el uso del servicio eléctrico. En los casos
+        minoritarios que opinan lo contrario (4,2%) se trata de personas de muy avanzada edad
+        que básicamente solo usan iluminación muy pocas horas en la noche.
+Adicionalmente, los beneficiarios han explicado porqué consideran que ha mejorado su vida con
+el uso de la electricidad señalando los siguientes conceptos.
+              Tabla 3. Mejora en la calidad de vida desde la perspectiva de los beneficiarios.
+                Concepto                                           Frecuencia Porcentaje
+                Mejora de la reunión familiar                          11          11,5
+                Mejora de la educación de los niños                    36          37,5
+                Mejora de la comunicación e información                51          53,1
+                Mejora de la Salud                                      8           8,3
+                Mejora para cocinar en la noche                         6           6,3
+                Mejor iluminación dentro y fuera de las viviendas      39          40,6
+                Mejora para tejer, coser e hilar en la noche            6           6,3
+                Mayor seguridad en la vivienda con la iluminación       2           2,1
+                Es posible leer libros en la noche                      1             1
+                Se puede utilizar computadora                           1             1
+                Se puede tener alimentos refrigerados                   4           4,2
+                Se puede planchar de noche                              1             1
+                Se pueden usar equipos eléctricos                       3           3,1
+Mencionando los casos más importantes se puede ver que el 53,1% de ellos considera que la
+llegada de electricidad ha mejorado aspectos relacionados con la comunicación e información
+debido al uso de celulares, así como de radio y TV. El 40,6% se refiere como mejora principal a
+la mayor iluminación tanto dentro como fuera de la vivienda. El 37,5% señala que ha sido
+                                                      -14-
+"
+"fundamental la mejora en la educación, porque los niños pueden realizar sus tareas con mejor
+iluminación y los profesores pueden acceder a computadoras y otros equipos para mejorar sus
+clases y todo lo relativo a su trabajo. El 11,5% considera que, gracias a la electricidad, ha
+mejorado tanto cuantitativa como cualitativamente la reunión de la familia en las noches. También
+se menciona mejoras en la salud al evitar la contaminación del ambiente por el uso de kerosene
+para mecheros y otros. Otras mejoras para actividades nocturnas como para cocinar, tejer, coser,
+etc. son también indicadas. El siguiente grafico da una visión más amplia de lo mencionado:
+              Gráfico 3. Mejora en la calidad de vida desde la perspectiva de los beneficiarios.
+           Mejora de la reunión familiar                    Mejora en la educación de los niños
+           Mejora en la comunicación e información          Mejora en la Salud
+           Mejora para cocinar en la noche                  Mejor iluminación dentro y fuera de las viviendas
+           Mejora para tejer, coser e hilar en la noche     Mayor seguridad en la vivienda con la iluminación
+           Es posible leer libros en la noche               Se puede utilizar computadora
+           Se puede tener alimentos refrigerados            Se puede planchar de noche
+           Se pueden usar equipos eléctricos                Costo de servicio eléctrico resulta caro
+           No considera que ha mejorado su vida
+Si bien ya se explicó en relevancia del diseño acerca de los cambios en la MR a nivel resultados
+debido a los factores mencionados, es importante aclarar que el programa en su componente I
+fue diseñado como obras múltiples, mediante una muestra de proyectos. La actualización de los
+resultados y productos fue dinámica a lo largo de la ejecución, por lo que la meta final de 13.919
+usuarios conectados fue alcanzada y el incremento de la cobertura se la alcanzó en la medida
+del resultado del número de usuarios nuevos, vale decir 1.96% adicional. Para el caso del
+resultado de consumo de energía eléctrica en los hogares beneficiados, este solamente alcanzó
+a los 21.36 kW/h-mes, mismo que es similar al de otros usuarios del área rural. Sin embargo,
+debe destacarse que las redes construidas permitirán la conexión de nuevos usuarios, tanto por
+                                                        -15-
+"
+"crecimiento vegetativo, como por nuevas conexiones. Asimismo, se espera que el consumo de
+energía vaya incrementando, a medida que las condiciones económicas de los usuarios mejoran.
+Un aspecto que no se contempló en el Programa fue la promoción de usos productivos de la
+electricidad, mismos que podrían incrementar el consumo de energía, y a la vez apoyar a mejorar
+la calidad de vida de los beneficiarios (ver diagnóstico de la operación BO-L1117).
+El componente III logró concretar la mayor parte de los productos planteados. Los mismos
+incluyeron el desarrollo de una manual para elaboración de proyectos de electrificación rural, la
+elaboración de una base de datos de precios de proyectos de electrificación rural, así como la
+capacitación de técnicos para la elaboración de estos proyectos. Si bien el impacto de estos
+productos es de largo plazo, se espera que los mismos contribuyan a mejorar la calidad de los
+proyectos de electrificación rural en Bolivia. De la misma manera, el Programa financió el
+desarrollo e implementación de proyectos pilotos con energía alternativas, incluyendo el primer
+proyecto hibrido solar-fotovoltaico en Bolivia. Estos proyectos pilotos ya han tenido un impacto
+positivo, en vista de que el Gobierno decidió implementar más proyectos de este tipo, algunos
+de los cuales fueron financiados por el BID19.
+19  Como en el proyecto hibrido (diésel- Solar PV) El Remanso que consiste en una capacidad de generación de 166,5
+    kW. El proyecto fue inaugurado en noviembre de 2018 beneficiando a 151 familias y desplazando 65.000 litros de
+    diésel anualmente.
+                                                        -16-
+"
+"                                              Tabla 4. Matriz de Resultados logrados
+                                                      Valor de   Año de
+                                        Unidad de                           Metas y        %
+          Resultado/Indicador                         Línea de  línea de                              Medios de verificación
+                                           Medida                        alcance real Alcanzado
+                                                        base      base
+Cobertura de servicio eléctrico en las
+áreas rurales incrementadas
+                                                                         P     3,50
+Incremento de la cobertura del servicio
+                                        Porcentaje       0,00     2012   P(a)  2,08   56        VMEEA - PEVD
+en el área rural
+                                                                         A     1,96
+                                                                         P     35.000
+Número de hogares conectados a la red                                                           Distribuidoras Eléctricas en cada
+                                            Unidad         0      2010   P(a)  12.500 39
+                                                                                                Departamento
+eléctrica en áreas rurales                                               A     13.919
+                                                                                                Distribuidoras Eléctricas en cada
+                                                                         P     20
+Consumo de energía eléctrica en los                                                             Departamento
+                                         Kwh/mes         0,00     2012
+                                                                         P(a)  20
+                                                                                      106,80
+hogares beneficiados (kWh/mes)
+                                                                         A     21,36
+Servicio eléctrico en los sistemas
+aislados incrementado
+Horas de servicio por día en los SA que                                  P     24
+                                         Horas de
+serán conectados al SIN a través de                      5,00     2010   P(a)  24     100       ENDE
+                                        servicio/dia                     A     24
+líneas de transmisión.
+                                                                         P     0
+                                             Miles
+Consumo anual de diésel en SA.                          2.630     2010   P(a)  0      100       ENDE
+                                         litros/Año                      A     0
+Caídas de tensión en la línea de
+transmisión Sucre-Padilla disminuidas
+                                                                         P     3
+Máxima caída de tensión                 Porcentaje      10,72     2010   P(a)  3      118       ENDE
+                                                                         A     1,6
+                                                                         P     6
+Frecuencia de las interrupciones de la  Interrupc./
+                                                        22,00     2010   P(a)  6      96        ENDE
+Línea Sucre-Padilla (numero/año)             año                         A     6,52
+                                                                         P     12
+Duración de las interrupciones de la
+                                         Horas/año        40      2010   P(a)  12     59.6      ENDE
+Línea Sucre-Padilla existente                                            A     23.29
+                                                                 -17-
+"
+"                                                            Año de
+                                          Unidad   Valor de                              %
+                                                             línea        Metas y
+                 Producto                     de   Línea de                          Alcanzad        Medios de verificación
+                                                               de       alcance real
+                                          Medida     base                                o
+                                                             base
+Componente I: Extensión de Redes de Distribución
+                                                                               2750
+                                                                      P                       Informe Final de Construcción de cada
+Kilómetros de línea de distribución       Km. de                               3000
+                                                     0,00    2012     P(a)            140,21  Proyecto consensuado entre todos los
+instalada                                   línea                             4206,3
+                                                                      A                             participantes del proyecto
+                                                                                 4
+Componente II: Extensión de Redes de Transmisión
+                                                                      P         240           Informe Final de Construcción de cada
+Líneas de transmisión construidas en el   Km. de
+                                                     0,00    2010     P(a)    238,60    100   Proyecto consensuado entre todos los
+Sistema Interconectado Nacional             línea
+                                                                      A       238,60                participantes del proyecto
+Componente III: Preinversión y Apoyo al Programa
+Electricidad para vivir con Dignidad
+Manuales para la elaboración y
+                                                                      P          1
+evaluación de proyectos de                Docume
+                                                      0      2010     P(a)       1      100
+electrificación rural diseñados y             nto                                                        VMEEA - PEVD
+                                                                      A          1
+publicados
+                                                                      P         120
+Personal técnico capacitado en el uso     Persona
+                                                             2010     P(a)      120     100
+de nuevos manuales y procedimientos.           s      0                                                  VMEEA - PEVD
+                                                                      A         120
+Estructura institucional, operativa y    Estructur                    P          1
+financiera del Programa Electricidad     a                   2010     P(a)       1      100
+                                                                                                              PEVD
+para Vivir con Dignidad instalada.       instalada    0               A          1
+                                                                                 1
+En Base a los datos del Censo 2012.      Conveni                      P
+                                                                                 1
+Diagnóstico de Electrificación Rural con o                   2012     P(a)              100
+                                                                                 1                       VMEEA - PEVD
+Tecnología Fotovoltaica                   firmado     0               A
+                                         Número
+                                                                      P          3
+Proyectos piloto con energías            de
+                                                      0      2010     P(a)       4      100
+alternativas financiados.                proyecto                                                        VMEEA - PEVD
+                                                                      A          4
+                                               s
+Eventos de concientización social sobre
+el uso eficiente de la electricidad y la
+                                         Número                       P          6
+mitigación de los impactos sociales que
+                                         de                  2010     P(a)       5      120              VMEEA - PEVD
+pudiese generar el acceso a                           0
+                                         eventos                      A          6
+electricidad en las comunidades
+beneficiarias.
+Base de datos detallada sobre costos                                  P          1
+unitarios para la elaboración de          Base de            2010     P(a)       1      100
+                                                      0
+proyectos de electrificación rural         Datos                      A          1                       VMEEA - PEVD
+                                                                   -18-
+"
+" Norma Boliviana para construcción de                                      P    1
+ redes rurales de baja y media tensión          Norma          0   2010    P(a) 1 100
+                                                                                      VMEEA - PEVD
+ elaborada                                                                 A    1
+                                                                           P    4
+                                                 Num.
+ Talleres de apoyo al Programa                                 0   2012    P(a) 5 100
+                                                 Talls.                               VMEEA - PEVD
+                                                                           A    5
+ Temática Energía - Evaluación del                                         P    0
+                                               Program
+ Impacto en la Implementación de los                               2012    P(a) 0 100
+                                                   a                                     PEVD
+ Programas del PEVD                                            0           A    0
+ Elaboración del marco de planificación                                    P    0
+                                               Docume
+ de pueblos indígenas y reasentamiento                             2012    P(a) 1 100
+                                                  nto
+ voluntario y uso de servidumbres.                             0           A    1     VMEEA – PEVD
+                                                                           P    0
+ Salvaguardas de Medio Ambiente -              Docume
+                                                               0   2012    P(a) 1 100
+ IDTR fase II                                     nto                                     IDTR
+                                                                           A    1
+ Consultoría de Apoyo Para la
+ Preparación de las Condiciones                                            P    0
+                                               Program
+ Iniciales y el Inicio de la Ejecución del                         2012    P(a) 0 100
+                                                   a
+ Programa de Electrificación Rural Con                                     A    1
+                                                               0                      VMEEA - PEVD
+ Energías Renovables (BO-X1013)
+ Consultoría: \"Diseño Final de Una                                         P    0
+                                               Docume
+ Planta Solar Fotovoltaica de 20 MW en                             2012    P(a) 1 100
+                                                  nto
+ el Departamento de Oruro\"                                     0           A    1     VMEEA - PEVD
+ Consultoría: “Diagnóstico para la
+                                                                           P    0
+ electrificación rural en el área dispersa     Docume
+                                                               0   2012    P(a) 0 100
+ con tecnología fotovoltaica en base a            nto
+                                                                           A    1     VMEEA - PEVD
+ datos del censo 2012”
+Donde: P = Planificado; P (a) = Objetivo anual revisado; A = real.
+                                                                        -19-
+"
+"        3.    Análisis contrafactual
+Antes de proceder con el análisis del contrafactual, es importante recordar que la sección de
+Relevancia-Diseño describió el vínculo estrecho entre las barreras principales enfrentadas por el
+sector eléctrico y la población en las zonas focalizadas, y el diseño de la intervención, la cual
+mitigo estas barreras. Por otro lado, la sección de Relevancia-Lógica vertical, describió la sólida
+relación entre los productos financiados por los 3 componentes, y los resultados de la operación.
+Así mismo, es importante recordar que la Tabla 2 indica que se lograron el 100% de los productos
+de esta operación, mientras que se lograron, en promedio, el 86% de los resultados planeados.
+Todo esto significa que el diseño de la operación y los supuestos hechos en la cadena causal de
+productos <U+2192> resultados <U+2192> objetivos, fue apropiada.
+Contrafactual. Como ya resaltado en la sección de Relevancia, las zonas con cobertura más
+baja se encuentran en las zonas rurales del país, las cuales se caracterizan por altos niveles de
+pobreza. Por ejemplo, en el 2010, había aproximadamente 500,000 hogares sin electricidad,
+mientras que actualmente existen cerca de 350,000 hogares sin electricidad, y cerca del 86% de
+estos están en zonas rurales. También se resaltaron los determinantes principales para la baja
+cobertura de ER en el país. Primero, baja densidad y alta dispersión de las poblaciones rurales,
+y una larga distancia a la red eléctrica, lo cual encarece el costo de inversión por hogar. Segundo,
+falta de inversión requerida para llegar a una cobertura universal; se estima que se precisan
+US$2.000 millones para lograr cobertura universal. Tercero, baja capacidad técnica de
+elaboración de proyectos, particularmente en los municipios más pequeños. Cuarto, la limitada
+extensión del sistema de transmisión y sub-transmisión que restringe la construcción de nuevas
+redes de distribución.
+Dados estos desafíos, se puede concluir que el sector privado no tiene el incentivo, o la
+capacidad, para llenar este vacío en las zonas rurales. Dicho esto, y dadas las necesidades y
+objetivos de desarrollo del país planteadas en las sub-secciones anteriores, esto presenta un
+argumento claro para que el sector publico intervenga para incrementar la cobertura rural en
+estas zonas de difícil acceso.
+Bajo este contexto, es claro concluir que en ausencia de una intervención como la de este
+programa, los hogares beneficiados no hubiesen podido acceder a los servicios de electricidad
+financiados por esta operación. Si bien, la documentación en el diseño identificó proyectos
+enfocados en incrementar la cobertura rural financiados por multilaterales, bilaterales, y agencias
+de desarrollo, dados los desafíos planteados, es claro concluir que tomaría décadas para llegar
+a una cobertura universal sin una intervención importante por parte del Gobierno. Por ejemplo,
+el monto total de esta operación (US$60,000,000) representa solamente 3.1% del monto
+requerido para lograr cobertura universal. Por otro lado, los 13,919 hogares conectados a la red
+eléctrica rural gracias a esta operación representan solo el 2.7% de los hogares que no tenían
+cobertura en el 2010, y solo el 3.9% de los hogares que actualmente no están conectados.
+En ausencia a esta intervención, se puede concluir que, los hogares beneficiados por este
+programa, al día de hoy, no tendrían acceso a la electricidad y seguirán usando baterías, velas,
+pilas, diésel, querosén, GLP y otros, tal y como resaltado en el estudio de ¨Evaluación de
+Proyectos de la muestra representativa del Programa de Electrificación Rural B0-L1050¨,
+realizado durante la preparación del PER.
+El mismo argumento aplica para el componente II: teniendo en cuenta que las redes de
+transmisión son del Gobierno, en ausencia a esta intervención, no hubiese sido posible financiar
+                                                   -20-
+"
+"la LT Sucre-Padilla o la extensión de las redes de transmisión para conectar al SIN los SA, que
+anteriormente funcionaban con base en generación diésel. Claramente, en ausencia a esta
+intervención, la calidad y capacidad de suministro de energía en esta zona se hubiese venido
+deteriorando paulatinamente.
+En conclusión, los logros alcanzados presentados en la Tabla 4—sobre cobertura (Incremento
+de la cobertura del servicio en el área rural; # de hogares conectados a la red eléctrica en áreas
+rurales; y consumo de energía eléctrica en los hogares beneficiados) y calidad (Horas de servicio
+por día en los SA que serán conectados al SIN a través de líneas de transmisión; Máxima caída
+de tensión; Frecuencia de interrupciones; Duración de interrupciones), no se hubiesen alcanzado
+en ausencia de esta operación.
+Evidencia Empírica. Ya que los objetivos de esta operación, y sus respectivos indicadores de
+resultado, apuntan a mejorar la cobertura de electrificación rural y la calidad del servicio eléctrico
+provisto, esta subsección presenta evidencia empírica que mide la efectividad de operaciones
+similares en la mejora de la calidad del servicio eléctrico y de la cobertura de electrificación rural,
+y también sobre la relación de estos dos con una mejora en la calidad de vida de las poblaciones
+beneficiarias.
+Calidad: Dentro de esta literatura, la cual en su gran mayoría se basa en estudios de caso, existe
+evidencia sobre intervenciones enfocadas en reemplazo o modernización de infraestructura
+obsoleta o sobredimensionada con el objetivo de mejorar la calidad del servicio. Dichos estudios
+incluyen, Jimenez et al. (2014)20, y Shahidehpour y Marwli (2000)21, entre otros. En general, estos
+estudios encuentran que este tipo de intervenciones tiende a mejorar la calidad del servicio
+eléctrico.
+Por otro lado, se destaca la escasez de estudios que aborden estrategias de identificación de
+mayor de rigurosidad. La literatura existente considera a la calidad del servicio como un resultado
+intermedio en la cadena causal analizada, ya que es un insumo para mejorar actividades
+productivas o para mejorar la calidad de vida de hogares beneficiados (véase por ejemplo Allcott
+et al., 201622, y Chakravorty et al., 201423). No obstante, en algunos casos, la naturaleza de la
+estrategia implementada permite proveer cierta evidencia sobre la efectividad de intervenciones
+similares a las propuestas en esta operación. Por ejemplo, Allcott et al. (2016) estiman el efecto
+de las interrupciones eléctricas en el sector manufacturero en India utilizando datos panel de
+1992 al 2010 de la producción del sector manufacturero, interrupciones eléctricas en el sector, y
+precipitación (lluvia). Su estrategia de identificación se basa en variables instrumentales
+(variabilidad en el suministro de electricidad en función a la disponibilidad de energía
+hidroeléctrica, condicional al nivel de lluvia a nivel estatal) para medir el efecto de estas
+interrupciones eléctricas. Los autores encuentran que las interrupciones eléctricas en India
+reducen los ingresos de las firmas entre 5 y 10 por ciento. De igual manera, Chakravorty et al
+(2014) usan un enfoque de variables instrumentales (diferencia en la densidad de los cables de
+transmisión por localidad) para capturar diferencias en calidad, las cuales son verificadas en su
+estudio. El instrumento usado por Chakravorty et al. alude directamente a problemas de
+congestión de las líneas de transmisión. Los autores investigan el efecto de nuevas conexiones
+20 Raúl Jiménez, Tomás Serebrisky and Jorge Mercado, 2014: Sizing Electricity Losses in Transmission and Distribution
+   Systems in Latin America and the Caribbean. Published by Inter-American Development Bank.
+21 M. Shahidehpour and M. Marwali, 2000. Maintenance Scheduling in Restructured Power Systems, Springer, May 2000.
+22 Allcott, Hunt, Allan Collard-Wexler, and Stephen D. O'Connell. 2016. \"How Do Electricity Shortages Affect Industry?
+   Evidence from India.\" American Economic Review 106 (3): 587–624.
+23 Chakravorty, Ujjayant, Martino Pelli, and Beyza Ural Marchand. 2014. “Does the Quality of Electricity Matter? Evidence
+   from Rural India.” Journal of Economic Behavior & Organization.
+                                                         -21-
+"
+"y de la calidad del servicio, definida como horas de suministro diario. El estudio se basa en dos
+rondas (1994-2005) de un panel representativo de más de 10,000 hogares. Los autores
+encuentran que una conexión a la red aumenta los ingresos no agrícolas de los hogares rurales
+en aproximadamente un 9% durante el período de estudio. Sin embargo, una conexión a la red
+y una mejor calidad de la electricidad (en términos de menos interrupciones y más horas por día)
+aumenta los ingresos no agrícolas en aproximadamente un 28.6% en el mismo período.
+Cobertura y Calidad de Vida. El vínculo entre pobreza y bienestar y el acceso a la electricidad es
+reconocido ampliamente. Una evaluación de impacto realizada en Etiopía24, concluye que el
+acceso de la electricidad tiene un efecto significativo sobre la probabilidad de los hogares de
+convertirse en no pobres. Khandker et al (2013)25 concluye que la electrificación puede elevar los
+ingresos y gastos de los hogares hasta en un 28% y 23%, respectivamente. Barron y Torero
+(2014)26 encuentran que los adultos hombres reducen tiempo dedicado al ocio y el trabajo
+agrícola, al tiempo que aumenta su dedicación a otras actividades laborales, lo que se refleja en
+mayores ingresos. Dynkelman (2010)27, concluye que la electrificación incrementó la tasa de
+empleo de las mujeres en 9,5%, en un periodo de 5 años en Sudáfrica. Un estudio llevado a cabo
+en Bangladesh por Abul Barkat et al (2002)28 muestra impactos positivos en el empleo, en
+especial para las mujeres, durante los años 1997-2002, el crecimiento global del empleo en las
+industrias electrificadas fue del 52,8%, con un 41% para los hombres y 121% para las mujeres,
+mientras que el crecimiento total del empleo en las industrias no electrificadas fue de 28,6%, con
+un 16,2% para los hombres y 56,3% para las mujeres.
+Usando métodos experimentales, Barron y Torero (2017)29 miden la concentración de
+micropartículas (PM_2.5) entre hogares en El Salvador que recibieron un “estimulo aleatorio” a
+conectarse a la red eléctrica y aquellos que no lo recibieron. Los autores encuentran que, en
+promedio, los hogares que recibieron el “estimulo aleatorio” y se conectaron a la red, vieron una
+reducción en las micro-partículas (PM_2.5) en un 66%, lo cual se traduce en una reducción de
+8-14 puntos (en comparación al grupo de control) en la prevalencia de infecciones respiratorias
+agudas de niños menores de 6 años.
+En un estudio de una intervención financiada por el Banco (FERUM II) focalizada en zonas
+rurales y urbano-marginales en Ecuador, la cual tenía como objetivo contribuir a la
+implementación de proyectos sostenibles en zonas de difícil acceso geográfico en el país, usando
+la metodología de Doble-Diferencia, Jimenez (2018)30 encuentra que la intervención disminuyo
+las interrupciones del servicio y fallas de voltaje, incremento el uso de equipos eléctricos, mejoro
+la percepción de seguridad de las jefas de hogar, incremento los ingresos corrientes del hogar,
+y aumento el consumo de alimentos perecibles del hogar.
+24 Tegene G., Berhe, G., Teklemariam, D., (2015), Impact of Rural Electrification on Poverty Reduction Evidence from
+   Rural Districts of Tigrai, Northern Ethiopia, Journal of Business Management & Social Sciences Research, Volume
+   4, No.1.
+25 Khandker S., Barnes D.F., Samad H., (2013), Welfare Impacts of Rural Electrification: A Panel Data Analysis from
+   Vietnam, Economic Development and Cultural Change, Vol. 61, No. 3, pp. 659-692.
+26 Barron M., Torero M., (2014), Short Term Effects of Household Electrification: Experimental Evidence from Northern El
+   Salvador.
+27 Dinkelman T., (2010), The Effects of Rural Electrification on Employment: New Evidence from South Africa, Princeton
+   University.
+28 Barkat et al.,(2002), Economic and Social Impact Evaluation Study of the Rural Electrification Program in Bangladesh,
+   NRECA Report.
+29 Manuel Barron and Maximo Torero. 2017. “Household electrification and indoor air pollution.” Journal of Environmental
+   Economics and Management 86 (2017) 81–92.
+30 Raúl Jiménez. 2018. Informe Preliminar de Evaluación de Impacto del Programa de Electrificación Rural y Urbano
+   Marginal – Ecuador. Mimeo. División de Energeia. BID.
+                                                           -22-
+"
+"        4.     Resultados imprevistos
+El programa en su componente I, redes eléctricas, en su etapa de ejecución, mostraba una baja
+tasa de incremento en la conexión de las familias. En este sentido, a finales del 2015 la UE con
+el apoyo del Banco realizó un diagnóstico y estrategia de conexión de hogares rurales a la red
+eléctrica, en la que se identificaron distintas barreras de los usuarios finales, que principalmente
+fueron:
+    •   Falta de incorporación de las operadoras eléctricas desde un inicio en los proyectos
+    •   Esperar la conclusión del 100% de la construcción para iniciar la instalación de
+        acometidas.
+    •   Falta de coordinación de operadoras eléctricas con los usuarios
+    •   Falta de comunicación a los usuarios en torno a los proyectos de electrificación rural.
+Para tratar de dar solución a estos puntos con el apoyo del Banco se realizó un taller de
+socialización del diagnóstico de barreras de conexión el 19 de enero de 2016. Durante este taller
+participaron diferentes actores relacionados con el proyecto como empresas distribuidoras,
+contratistas, la Autoridad de Fiscalización de Control Social de Electricidad, VMEEA, entre otros.
+Posteriormente, el 27 de febrero del mismo mes, se presentó en un taller a los mismos
+involucrados, las estrategias de conexión y un manual para las buenas prácticas de conexión.
+En este taller la principal estrategia estaba orientada a realizar campañas de comunicación vía
+radio en las comunidades para que los usuarios tengan conocimiento de que las redes eléctricas
+ya habían llegado a su comunidad. El resultado de estas campañas conllevó al programa a
+alcanzar la meta de las 13.919 conexiones en los departamentos en los que se llevaron los
+proyectos.
+C.      Eficiencia
+El costo original del Programa aprobado por el Banco fue de US$60,2 millones, US$42 millones
+de Capital Ordinario (CO) y US$18 millones del Fondo para Operaciones Especiales (FOE), y
+una contrapartida local de US$200.000.
+Para el Componente I, es importante remarcar que los costos de inversión reconocidos por
+usuario son determinados de acuerdo a criterios establecidos y aprobados por el Viceministerio
+de electricidad y energías alternativas, dependiente (hasta 2017) del Ministerio de Hidrocarburos
+y Energía, hoy en día el Ministerio de Energías.
+Inicialmente, para este programa se estableció que el precio medio por conexión sería de
+US$700 por beneficiario (préstamo aprobado, 35.000 mil conexiones). Posteriormente, se
+actualizó este costo, mediante un análisis estadístico de los proyectos, lo que resulto en un costo
+por usuario de US$1,300 (21.500 conexiones, primera actualización de la meta). Este costo era
+consistente con el costo por usuario definido y aprobado por el VMEEA, que era de US$
+1.333.01/usuario, hasta el cierre del 2017. Las inversiones para el componente I a la conclusión
+del Programa fueron:
+                                      Tabla 5. Inversión por conexión
+                                                              Número de US$ por
+                      Inversión final Componente I US$
+                                                             conexiones Conexión
+                                 25,938,831.63                 13.919,00 1.863,55
+                                                    -23-
+"
+"Si bien se observa que el costo por conexión real es mayor al costo definido por el VMEEA por
+40%, este representa el valor real del mercado. El incremento del costo por beneficiario en
+relación a lo que inicialmente fue proyectado se debe a dos factores: (i) incremento de los costos
+de materiales (en Bs) y (ii) a un número menor de usuarios conectados por Programa. Debe
+considerarse que dado que los proyectos de electrificación rural del componente I, tienen como
+objetivo el brindar electricidad a los usuarios en las áreas rurales más alejadas, la inversión se
+encarece a medida que se incrementa la cobertura, dado que los usuarios sin electricidad se
+encuentran cada vez más alejados y más dispersos.
+A fin de verificar los costos por usuario, y como parte del componente III, el VMEEA actualizó los
+datos de costos por usuario31, elaborando una base de datos que incluye costos diferenciados
+por los distintos tipos de plataformas ecológicas en las que se interviene a nivel nacional para
+electrificación rural. No es lo mismo un proyecto de electrificación rural en el altiplano que en
+Valles o en Amazonía. La actualización tomó como parámetro los índices de precios al
+consumidor que afectaros al valor antiguo y variables de costos de transporte en las distintas
+plataformas ecológicas. El estudio de actualización de los costos por beneficiario resultó en un
+valor actualizado promedio de US$2.256 por usuario. Lo cual permite demostrar que el valor final
+real por conexión del Programa es aún menor que el valor actual, mostrando el cumplimiento de
+eficiencia con el uso de los recursos para este componente.
+Para el componente II, los precios para infraestructura de LT en alta tensión se los tiene definido
+por ENDE y la comparación para este componente se la muestra en la siguiente tabla:
+                                          Tabla 6. Inversión Componente II
+                                                    Inversión Planificada Costo de la LT final
+                         Proyecto LT
+                                                               US$                       US$
+                        Sucre – Padilla                                               14.148.205,82
+                Yucumo – San Buenaventura                  27.000.000                 11.986.000,00
+                                          TOTAL                                       26.104.205,82
+Como se puede notar, la diferencia es menor, por lo que en este componente también se cumplió
+con la eficiencia de los recursos. Un aspecto clave para alcanzar este resultado fue la estrategia
+de ejecución adoptada por ENDE, en la que contrato todos los materiales por separado,
+obteniendo precios de mercado muy provechosos, y luego contrato la ejecución de las obras.
+Dada la experiencia de ejecución que tiene ENDE, y su capacidad de seguimiento de las obras,
+esto permitió un uso eficiente de los recursos.
+Dado que el componente III, contó con varios productos de consultoría, y obras y bienes, no se
+hace un análisis del costo planificado versus el costo real, dada la heterogeneidad de los
+productos.
+          1.    Análisis Económico
+Para evaluar la eficiencia en la consecución de los productos, se realizaron comparaciones de
+los principales productos del Programa (km de línea de distribución instalados y km de líneas de
+transmisión construidos) con respecto a proyectos similares en el país y a nivel internacional,
+procurando identificar aquéllos que tuvieron condiciones similares a la operación que se estaba
+31  Informe Técnico de Análisis de Costo en el Desarrollo de Proyectos en Áreas Rurales.
+                                                          -24-
+"
+"analizando. Según los datos que se presentan en la a continuación, se considera que los costos
+de los principales productos del Programa estaban en el orden de magnitud del mercado y eran
+adecuados dada la realidad territorial en la que se desarrolló el mismo, así como que el ejecutor
+logró superar las metas previstas para las líneas de distribución y casi la totalidad de la meta de
+km de líneas de transmisión.
+                                      Tabla 6. Análisis de comparación de costos
+                                                                                  Costos en
+                                            Costo
+                Producto                                     Costo efectivo       proyectos        Conclusiones
+                                      presupuestado
+                                                                                   similares
+                                                                                                  El costo unitario
+                                                                                                 medio pagado por
+                                                             US$ 5.850.4/km
+                                                                                  El Salvador  estos productos es
+  Kilómetros de línea de distribución                       (37% de reducción
+                                                                                 US$24.300 –    inferior al orden de
+  instalada                           US$ 9.236.4/km   sobre el costo esperado)
+                                                                                US$17.700 / km   magnitud de otros
+                                                                                                proyectos en otros
+                                                                                                       países.
+                                                                                                  El costo unitario
+                                                                                                 medio pagado por
+                                                                                LT Cochabamba  estos productos se
+                                                                                    – La Paz      encuentra en el
+                                                                                US$ 156.000/km orden de magnitud
+                                                                                                    del mercado
+  Líneas de transmisión construidas                        US$ 133.269.7/km       LT SIEPAC           nacional.
+                                      US$ 125.500/km
+  en el Sistema Interconectado                           (17.8% de incremento   US$ 274.500/km
+  Nacional                                             sobre el costo esperado)                 A nivel nacional, el
+                                                                                LT Guasquitas-   costo pagado por
+                                                                                  Changuino    km de LT es inferior
+                                                                                   (Panamá)         a los valores
+                                                                                US$ 309.600/km    presentados en
+                                                                                                  otros proyectos
+                                                                                                  internacionales.
+  Manuales para la elaboración y                        US$ 12.020.23/manual
+  evaluación de proyectos de                 US$           (76% de reducción
+                                                                                        -                  -
+  electrificación rural diseñados y    50.000/manual   sobre el costo esperado)
+  publicados
+  Personal técnico capacitado en el                          US$120/persona
+                                         US$ 416.7 /
+  uso de nuevos manuales y                                 (71% de reducción            -                  -
+                                           persona
+  procedimientos.                                      sobre el costo esperado)
+  Estructura institucional, operativa                         US$ 1.428,57
+                                             US$
+  y financiera del Programa                                     /estructura
+                                      50.000/estructur                                  -                  -
+  Electricidad para Vivir con                              (97% de reducción
+                                              a
+  Dignidad instalada.                                  sobre el costo esperado)
+                                                          US$ 23.942/base de
+  Base a los datos del Censo 2012.           US$
+                                                                   datos
+  Diagnóstico de Electrificación       50.000/base de                                   -                  -
+                                                           (52% de reducción
+  Rural con Tecnología Fotovoltaica.        datos
+                                                       sobre el costo esperado)
+                                             US$         US$ 268.376/proyecto
+  Proyectos piloto con energías
+                                      845.083/proyect      (42% de reducción            -                  -
+  alternativas financiados.
+                                              o        sobre el costo esperado)
+  Eventos de concientización social
+  sobre el uso eficiente de la
+                                                               US$ 1.779.7
+  electricidad y la mitigación de los        US$
+                                                           (89% de reducción            -                  -
+  impactos sociales que pudiese       16.666,7/evento
+                                                       sobre el costo esperado)
+  generar el acceso a electricidad
+  en las comunidades beneficiarias.
+  Norma Boliviana para                       US$         US$10.495,64/norma
+  construcción de redes rurales de      50.000/norma       (79% de reducción            -                  -
+  baja y media tensión elaborada                       sobre el costo esperado)
+                                                             US$ 6.000/taller
+                                             US$
+  Talleres de apoyo al Programa                           (69.8% de reducción           -                  -
+                                         25.000/taller
+                                                       sobre el costo esperado)
+  Elaboración del marco de
+  planificación de pueblos indígenas         US$          US$ 8.163,27/marco
+                                                                                        -                  -
+  y reasentamiento voluntario y uso   8.163,27/marco       (0% de desviación)
+  de servidumbres.
+                                                            -25-
+"
+"                                                 US$                    US$
+  Salvaguardas de Medio Ambiente
+                                          8.163,27/salvagu     8.163,27/salvaguardas            -                     -
+  - IDTR fase II
+                                                ardas            (0% de desviación)
+  Consultoría de Apoyo Para la
+  Preparación de las Condiciones
+  Iniciales y el Inicio de la Ejecución   US$8.746,27/co      US$8.746,27/consultoría
+                                                                                                -                     -
+  del Programa de Electrificación             nsultoría          (0% de desviación)
+  Rural Con Energías Renovables
+  (BO-X1013)
+  Consultoría: \"Diseño Final de Una              US$                    US$
+  Planta Solar Fotovoltaica de 20         267.421,28/cons      267.421,28/consultoría           -                     -
+  MW en el Departamento de Oruro\"              ultoría           (0% de desviación)
+  Consultoría: “Diagnóstico para la
+  electrificación rural en el área        US$ 0 (producto
+  dispersa con tecnología                 no contemplado           US$ 25.145,13                -                     -
+  fotovoltaica en base a datos del          en el diseño)
+  censo 2012”
+Para complementar el análisis de eficiencia, se realizó el análisis de sobrecostos y sobretiempos,
+basándose en la información proporcionada por el PMR. Según se puede apreciar en la tabla 7,
+en el 2012 se registró un valor casi de cero para para el indicador SPI(a) lo cual se debió a
+retrasos significativos en la ejecución física de los productos como consecuencia de los cambios
+en las autoridades y las demoras en la conformación de la UE. A partir del 2013, tanto los valores
+para CPI(a) y SPI(a) se mantuvieron por encima de 1, mostrando una buena ejecución tanto
+física como financiera.
+                                        Tabla 7. Análisis de sobrecostos y sobretiempo
+                            2011          2012            2013          2014          2015         2016           2017
+ CPI(a)                          1.00          4.15           1.28          1.14          1.22          1.28            1.25
+ SPI(a)                          1.00          0.01           1.54          1.21          1.03          1.13            1.17
+                                         Gráfico 4. Representación de CPI(a) y CPI(a)
+ 4.5
+   4.
+ 3.5
+   3.
+ 2.5                                                                                           CPI(a) - Cost Performance Index
+                                                                                               (annual)
+   2.                                                                                          SPI(a) - Schedule Performance
+                                                                                               Index (annual)
+ 1.5
+   1.
+ 0.5
+   0.
+            2011         2012       2013      2014         2015      2016       2017
+A continuación, se presentan los costos del Programa los cuales indican que el costo del
+Programa tuvo una desviación de 5% con relación a lo planificado, excepto en la construcción de
+LT debido a imprevistos en la ejecución de las obras civiles.
+                                                                  -26-
+"
+"Tabla 8. Costos del Programa
+             -27-
+"
+"Por último, se realizó una estimación de los beneficios del programa analizando que para el
+componente I, comparó los consumos en BsB. que tienen las familias beneficiadas, y por tanto
+el gasto en energéticos para iluminación y otros que significa el pago la factura de luz a la
+empresa distribuidora vs. el gasto que tenían cuando consumían energéticos alternativos como
+velas, kerosene, diésel, pilas, etc32. Para el al componente II, se analizó la cantidad de diésel
+eliminada del consumo para generar electricidad en SA y su impacto en la economía del Estado,
+ambos han tenido un impacto económico importante debido a la eliminación del consumo de
+diésel y al ahorro que se genera al Estado por la eliminación de diésel subvencionado que era
+utilizado en generación por los SA que con el PER fueron incorporados al SIN. Los principales
+resultados del análisis se presentan a continuación:
+Resultado 1: Cobertura de servicio eléctrico incrementado en las áreas rurales. De los 29
+proyectos que se ejecutaron con el PER, en 7 de ellos se iniciaron las conexiones a los
+beneficiarios en el año 2016, solo en uno se terminaron. Durante el 2017 se efectivizaron la gran
+mayoría de conexiones y para el 2018, quedaron 6 proyectos en los cuales aún se están
+realizando las mismas. Por lo indicado los datos estadísticos de los nuevos usuarios, sus
+consumos en Kwh y sus gastos por el nuevo servicio, corresponden a pocos meses de consumo
+de la nueva electricidad.
+Las distribuidoras eléctricas que están a cargo de la operación y mantenimiento de los proyectos
+del PER, no llevan una estadística por proyectos, sino a nivel global de sus clientes, distribuidos
+en zona urbana y rural y a veces en esta última agrupados por grandes áreas geográficas. Por
+lo tanto, se han seleccionado los datos correspondientes a los beneficiarios del PER, para de
+esta manera conocer sus beneficios económicos resultantes de la ejecución del Programa.
+En la etapa de preparación del PER se realizó una ¨Evaluación de Proyectos de la muestra
+representativa del Programa de Electrificación Rural B0-L1050¨ que permitió establecier los
+gastos que hacían los actuales beneficiarios en energéticos alternativos como velas, baterías,
+pilas, diésel, kerosene, GLP y otros, en los cuatro Departamentos donde se ejecutó el PER. Para
+el presente análisis se comparan los gastos en Bs. que tienen las familias beneficiadas cuando
+pagan la factura de luz a las distribuidoras de electricidad vs. el gasto que tenían cuando
+consumían dichos energéticos alternativos. El valor del gasto en consumo de energéticos
+alternativos fue obtenido de la evaluación económica llevada a cabo durante la preparación del
+proyecto, y actualizaros a Bs de 2017 según los informes estadísticos del INE.
+                                   Tabla 9. Gasto en Energéticos de los Beneficiarios
+                                                    Gasto de Beneficiarios               Diferencia
+                          Departamento           Energéticos         Factura de Luz         (Bs.)
+                                                                  33
+                                            Alternativos (Bs.)             (Bs,)
+                          La Paz                     45,50                 18,79            26,71
+                          Cochabamba                 90,50                 22,40            68,10
+                          Oruro                      55,38                 23,21            32,18
+                          Chuquisaca                 66,25                 21,17            45,08
+                          Promedio Total             64,41                 21,39            43,02
+32  A partir de los datos del estudio que se hizo antes de la ejecución del proyecto, para establecer el beneficio económico
+    después de ejecutado el proyecto.
+33  Los valores, actualizados a Bs 2017, provienen de la evaluación económica ex ante.
+                                                             -28-
+"
+"El cuadro nos muestra que debido a la ejecución del PER en su Componente I, cada beneficiario
+ha recibido un Beneficio Económico de Bs. 43,02 que significa un ahorro de casi 60% por uso de
+energéticos en su vivienda, donde en vez de utilizar los anteriores energéticos alternativos, ahora
+paga una factura por electricidad que le resulta más económica. Si vemos esta situación por
+Departamento observamos que el beneficio es mayor en Cochabamba, y en ese orden
+Chuquisaca, Oruro y La Paz. Es decir que todos los habitantes de las comunidades beneficiadas
+con estos proyectos por la llegada de la energía eléctrica gozan de una nueva situación que les
+permite mejorar sus vidas en todos los aspectos mencionados anteriormente: salud, educación,
+seguridad, producción, etc. Mas aun, esta comparación no contempla que la electricidad brinda
+usos adicionales, más allá de la iluminación, como ser comunicación, información,
+entretenimiento, etc.
+Con el trabajo de campo realizado posteriormente a que las viviendas de los beneficiarios fueran
+electrificadas, a través de 96 encuestas que se realizaron en los cuatro Departamentos donde
+se ejecutaron los proyectos se pudo ver que:
+    a) Se ha logrado financiar proyectos que signifiquen mejorar la vida de los beneficiarios de
+         los proyectos, en este caso a través de los ejecutados con el Programa de Electrificación
+         Rural (PER).
+    b) Se ha comprobado que los nuevos usuarios comienzan a usar el servicio de energía
+         eléctrica muy pronto para iluminación, pero también para aparatos eléctricos como un
+         complemento destinado a mejorar su calidad de vida. Un aspecto importante es el uso de
+         celulares, lo que permite estar informados a los usuarios.
+    c) Los proyectos del PER han impulsado el desarrollo tanto colectivo de las comunidades
+         electrificadas, como de los beneficiarios en un número aproximado de 14.000 conexiones,
+         que tomando en cuenta los datos de 2015 del INE que indica que el tamaño medio de
+         hogar es de 4 personas en Bolivia, significa que se ha llegado a beneficiar con energía
+         eléctrica a 56.000 personas de ambos géneros y todas las edades en el área rural de los
+         cuatro Departamentos mencionados.
+Resultado 2: Servicio Eléctrico incrementado en los SA. Con la LT Yucumo-San Buenaventura
+ejecutada bajo el componente II, se logró incorporar al SIN a los SA de cinco localidades: Reyes,
+Rurrenabaque, San Buenaventura, El Palmar e Ixiamas, que antes de la llegada del PER
+contaban con generación de energía eléctrica en base a motores con diésel, el servicio eléctrico
+era de unas horas al día, variable entre 5 y 20, pero con energía inestable, insegura y que
+producía una contaminación dañina para la salud de toda la población en cada localidad. Con el
+proyecto ejecutado se logró dotar a estas cinco localidades de energía eléctrica las 24 horas del
+día en forma eficiente, confiable, segura, permanente y limpia, puesto que se pudo dejar de lado
+los motores a diésel que emiten materia particulada, óxidos de nitrógeno, gases invernadero y
+tóxicos, emisiones que contribuyen a niveles de contaminación atmosférica insalubres,
+produciendo entre otras cosas asmas en muchos casos. Un total de 56.740 habitantes en las
+cinco localidades recibieron este beneficio económico con los proyectos del PER.
+Adicionalmente el GdB se benefició con un ahorro equivalente a US$ 1.165.597/año al no tener
+que subvencionar 1.043 miles de litros de diésel anuales en los cinco SA que los utilizaban para
+generar electricidad. Los datos que nos muestran el beneficio económico mencionado se pueden
+ver en el siguiente cuadro:
+                                                 -29-
+"
+"                             Tabla 9. Beneficio económico del Componente II
+                                                    Bs./Litro35     Bs./Litro36   Perdida x    Perdida x    Cantidad
+  SA
+                               Consumo Diesel        Precio        Subvencion    Subvencion   Subvencion   Habitantes
+ incorporados al SIN
+                       Año             Lt34           8,88             1,10          Bs.         US$         201737
+ Reyes                 2012           274.300,00   2.435.784,00      301.730,00  2.134.054,00                  14.216
+ Rurrenabaque          2012           395.700,00   3.513.816,00      435.270,00  3.078.546,00                  22.818
+                                                38
+ San Buenaventura                    174.796,44    1.552.192,41      192.276,09  1.359.916,32                   9.241
+                                                39
+ El Palmar                            13.448,79      119.425,26       14.793,67    104.631,59                     711
+ Ixiamas               2013           184.500,00   1.638.360,00      202.950,00  1.435.410,00                   9.754
+ TOTAL                              1.042.745,23   9.259.577,67    1.147.019,76  8.112.557,91 1.165.597,40     56.740
+Resultado 3: Caídas de tensión disminuidas en la LT Sucre-Padilla. Con el proyecto LT Sucre-
+Padilla se ha logrado mejorar el servicio eléctrico en esa área, con la notoria disminución de la
+máxima caída de tensión se ha mejorado el rendimiento de los equipos que controlan esta línea
+en CESSA. El beneficio ha sido notable en todas las localidades que cuentan con el servicio de
+esta línea donde se ha visto un crecimiento de la demanda y el incremento de usos productivos
+como talleres y comercios que ya cuentan con una energía confiable y segura. Por lo tanto, el
+malestar de la población por deficiencias en el servicio eléctrico también ha disminuido, gracias
+a este proyecto ejecutado bajo el PER.
+D.       Sostenibilidad
+         1.      Aspectos generales de sostenibilidad
+A fin de garantizar la sostenibilidad de la infraestructura construida, las redes fueron entregadas
+a las empresas distribuidoras mediante acuerdos para su operación y mantenimiento, los cuales
+fueron suscritos entre cada uno de los gobiernos departamentales (dueños de las redes) y las
+empresas operadoras. Estas empresas son las responsables por la operación, mantenimiento,
+administración, cobro de las facturas, que está regulado por la Autoridad de Electricidad,
+Fiscalización y Control Social de Electricidad (AE – Ente Regulador Boliviano), en el área de
+concesión. Al estar estas empresas reguladas, y sujetas a la fiscalización de un ente regulador,
+tienen la experiencia adecuada para garantizar la sostenibilidad técnica de las redes. La tarifa
+será la establecida en el área de concesión de cada empresa y aprobada por la AE. Por lo tanto,
+se garantiza la sostenibilidad técnica y financiera de este componente.
+Los proyectos de transmisión serán operados por ENDE Transmisión que recibirá un peaje,
+regulado por la AE, para cubrir los costos de inversión, operación y mantenimiento. ENDE
+Transmisión opera 95% de todas las redes de transmisión del país, por lo que tiene una amplia
+experiencia y capacidad técnica para garantizar la sostenibilidad técnica, ambiental y financiera
+de la infraestructura.
+34  Anuarios estadísticos de la AE (www.ae.gob.bo).
+35  Precio Internacional del diésel (www.anh.gob.bo).
+36  DS 28551 de 22 de dic de 2005 hace referencia a la Resolución de la Superintendencia de Hidrocarburos 583 de 16
+    de nov de 2001 donde se fija Bs. 1,10 por Lt, como precio subvencionado.
+37  Población por Municipio. Instituto Nacional del Estadistica (INE). email a Omar Vargas A.
+38  Datos estimados en base a la cantidad de habitantes y al menor consumo.
+39  Datos estimados en base a la cantidad de habitantes y al menor consumo.
+                                                             -30-
+"
+"Las condiciones para la sostenibilidad en aspectos ambientales y sociales del PER están dadas
+desde el momento en que los impactos ambientales negativos que se pudieron prever con el
+Programa fueron temporales, localizados y de baja magnitud, ya que las redes de media tensión
+se construyeron en zonas rurales ya intervenidas, donde no existen vestigios arqueológicos,
+parques naturales, etc. En el caso del PER se observó la legislación ambiental vigente (Ley No
+1333, Decreto Supremo 21173) para todos los proyectos. El nuevo programa (BO-L1117 – PER
+II) aprobado el 1 de septiembre de 2016, también estará enmarcado en este marco legal, y se
+espera no existan problemas de sostenibilidad ambiental o social en los proyectos de
+electrificación.
+Los impactos sociales del PER fueron positivos, ya que proveyeron acceso a la electricidad a
+usuarios rurales de bajos recursos, permitiendo la mejora en su calidad de vida, y la disminución
+en los niveles de desigualdad. Una forma de dar sostenibilidad a estos proyectos y a los que se
+realicen con el PER II es la implementación de Programas de Usos Productivos de la energía
+eléctrica, que permite mejorar los ingresos para los beneficiarios y crea las condiciones para un
+desarrollo integral de la zona de ejecución de los proyectos.
+Las comunidades beneficiadas con el programa, se encuentran en áreas cercanas a caminos,
+relativamente cerca a la red eléctrica, y a otras comunidades ya electrificadas, asimismo, tienen
+contacto constante con los centros urbanos, por lo que no se previó un impacto en sus usos y
+costumbres. Por otro lado, todos los proyectos han sido elaborados a solicitud de las
+comunidades con un alto gran grado de participación de los beneficiarios. Se realizaron cuatro
+consultas públicas en la zona de influencia del proyecto de acuerdo a las políticas del BID, en las
+cuales se presentaron los posibles impactos ambientales y sociales, tanto positivos como
+negativos, las medidas preventivas, mitigación y las compensaciones previstas para los
+propietarios de terrenos en caso de ser afectados. Estas consultas ratificaron el amplio apoyo de
+las comunidades al proyecto. En el momento de preparación del Programa se adjuntó el Informe
+de Gestión Ambiental y Social (IGAS), que incluyó un análisis de los impactos y medidas de
+mitigación de las obras incluidas en los Componentes I y II. En el caso del Proyecto Yucumo –
+San Buenaventura, también del Componente II, los estudios de impactos, y los planes de manejo
+ambiental y social, se desarrollaron de acuerdo a la normativa boliviana y las políticas del BID.
+Todos los proyectos a ser financiados por el Programa cumplieron con la normativa ambiental
+del país y las políticas del BID, además del Plan de Gestión Ambiental y Social (PGAS), que fue
+un Anexo del ROP. Los criterios para la preparación y aprobación de los PPM-PASA fueron parte
+del PGAS.
+La UE tuvo un especialista ambiental y social, tanto en el componente de redes de distribución
+(componente I), como en el componente de redes de transmisión (componente II), quienes fueron
+los responsables del cumplimiento de la legislación ambiental y social nacional y de las políticas
+del BID y del Programa. Como condición especial de ejecución, el Organismo Ejecutor (OE) hizo
+que la ejecución de las actividades comprendidas en el Programa fueron llevadas a cabo de
+acuerdo con lo establecido en el IGAS, mediante los planes respectivos aprobados por el BID
+como parte del PGAS/ROP. Teniendo en cuenta las políticas ambientales y de salvaguardias del
+BID, el Programa fue calificado como de Categoría “B”.
+                                                -31-
+"
+"E.      Calificación General
+                                    Tabla 10. Efectividad en el Desarrollo
+                                   Efectividad en el Desarrollo - resumen
+             I. Efectividad en el Desarrollo - Criterios Centrales
+                                                                            Parcialmente
+                           Calificación general recomendada:
+                                                                            Exitoso
+                                                                                   Peso
+             1. Relevancia                                          4.00            20%
+             2. Efectividad                                         2.00            40%
+                     % de resultados alcanzados                    78.9%
+             3. Eficiencia                                          2.00            20%
+             4. Sostenabilidad                                      4.00            20%
+             II. Efectividad en el Desarrollo - Criterios No
+             Centrales
+             Desempeño Del Banco                                           Satisfactorio
+             Desempeño Del OE                                              Satisfactorio
+La calificación general recomendaba por la lista de verificación del PCR es “Parcialmente
+Exitoso”; sin embargo, el equipo del proyecto considera que la calificación general final de la
+operación debe ser “Exitosa”. Lo anterior dado que los cambios realizados en la MR del
+Programa buscaban generar indicadores y metas de resultados cuya medición fuera más directa,
+y que al mismo tiempo se encontraran alienados con los indicadores del CRF del Banco. Con el
+programa se logró un incremento significativo de casi el 2% en la cobertura eléctrica en la áreas
+rurales del país. De los usuarios beneficiados por el programa, se comprobó que más del 86%
+están utilizando equipos electrónicos y un 90% equipos de telefonía celular. El programa a su
+vez permito la generación de manuales y herramientas que facilitarán la planificación e
+implementación de nuevos proyectos de electrificación.
+                                            IV. CRITERIOS NO CENTRALES
+A.      Desempeño del Banco
+El Banco desde un inicio concentró sus esfuerzos acompañar la ejecución del Contrato de
+Préstamo en los plazos y tareas establecidas de acuerdo al cronograma; sin embargo, esto no
+pudo ser posible debido a los cambios presentados en las autoridades del sector. Durante la
+planificación inicial del Programa no se no estimó adecuadamente los tiempos requeridos para
+los trámites para la firma de convenios interinstitucionales, su aprobación interna, ni el tiempo
+requerido para la inscripción presupuestaria por parte de todos los actores involucrados. Estos
+tiempos resultaron mucho mayores a los previstos en la programación inicial, impidiendo la
+inscripción presupuestaria de los proyectos, y la contratación de la UE. Por otro lado, durante la
+gestión 2012 existieron varios cambios de autoridades, que repercutieron en la UE (cambios de
+coordinadores, renuncia del personal, etc). Durante la gestión 2012 en que la participación del
+Organismo Ejecutor fue limitada debido a cambios en las autoridades, el Banco se esforzó para
+que la ejecución del Programa no tenga excesivo retraso, para lo cual contrató consultores de
+apoyo a diferentes tareas, hasta que a finales de dicho año se pudo restablecer el equipo principal
+de la UE, con lo cual el Programa pudo despegar el año 2013 con buenos resultados.
+                                                     -32-
+"
+"En los últimos 4 años hasta el 2017 inclusive, el Banco se preocupó por fortalecer las áreas de
+debilidad que se observaba por parte de la UE, como ser el monitoreo y seguimiento de las
+conexiones a los beneficiarios, el objetivo fundamental correspondiente al Componente I del
+Programa. Primero se contrató un especialista en seguimiento y monitoreo, quien apoyó a la UE
+en el seguimiento del avance de los proyectos. Posteriormente, en el 2015, a través de una
+consultoría contratada por el Banco se pudo realizar un diagnóstico de la situación respecto a las
+conexiones y con esta base implementar una estrategia que dio como resultado impulsar este
+trabajo hasta la meta lograda finalmente, que superó la que se tenía con el último ajuste.
+Por otra parte, y para lograr cumplir con el Componente II del Programa, se realizó un cambio de
+responsable para la ejecución de una de las líneas de transmisión, del VMEEA a ENDE, con lo
+cual se pudo cumplir con las metas establecidas. En este cambió, el Banco apoyó a lograr este
+traspaso, a través de una modificación contractual.
+Finalmente, a través del Componente III de preinversión y apoyo al PEVD, el aporte del Banco
+fue decisivo para lograr los resultados alcanzados. Asimismo, se desarrollaron herramientas que
+tendrán un impacto en otros programas de electrificación.
+B.       Desempeño del OE
+El Organismo Ejecutor (OE) en la primera etapa de aprobación del Programa estuvo trabajando
+de acuerdo a lo planificado, posteriormente su desempeño fue afectado por el retraso debido a
+problemas de inscripción presupuestaria, y también por cierta inestabilidad institucional que en
+algún momento ocasionó la renuncia de la mayoría del personal de la UE, sin embargo, una vez
+que se pudo consolidar un nuevo personal para trabajar en dicha UE, se pudo avanzar en el
+cronograma general de trabajo y en el camino ir solucionando los problemas iniciales referentes
+a licitaciones, inscripciones presupuestarias, etc.
+Por otra parte, no se trabajó desde un inicio en forma coordinada con los demás actores
+involucrados en los proyectos, especialmente con las operadoras eléctricas de distribución que
+se iban a hacer cargo de la operación y mantenimiento de los proyectos una vez concluida su
+construcción. Debe resaltarse que las operadoras de distribución en las áreas de actuación del
+Programa eran privadas, al inicio de la ejecución, y posteriormente fueron nacionalizadas. Si bien
+este cambio de estructura accionaria causó algún problema de coordinación (debido a la
+reestructuración interna de las empresas), posteriormente facilitó la coordinación entre las
+empresas distribuidoras y el VMEEA.
+Por otra parte, el OE no pudo realizar el monitoreo de las conexiones en los cuatro
+Departamentos, por lo cual el Banco contrató un consultor para cumplir esta tarea.
+En la última etapa de ejecución del Programa, se produjo un nuevo cambio de autoridad en el
+VMEEA así como también del Coordinador de la UE, que sin embargo no afectó
+significativamente la continuidad del Programa. A pesar de todo lo mencionado, el Banco pudo
+coordinar con el OE y llegar a buen término en la ejecución del Programa.
+                                V.   CONCLUSIONES Y LECCIONES APRENDIDAS
+A nivel general se puede afirmar que el Programa se ejecutó adecuadamente y tuvo los
+resultados esperados, con una ejecución presupuestaria general inferior a la programada. Sin
+                                                -33-
+"
+"embargo, es necesario observar que si bien, el número de conexiones final fue superior al de la
+última meta ajustada, si comparamos la meta inicial con la final y tomamos en cuenta el
+presupuesto correspondiente también en los dos momentos, veremos que se planificó llegar a
+35.000 conexiones con US$ 25.400.000, es decir a una inversión de US$ 745,71 por conexión,
+pero se terminó con US$ 25.938.831,63 para 13.919, es decir US$ 1,883,72 por conexión. El
+hecho de que se haya llegado solo al 39% de las conexiones esperadas se debe a que la cantidad
+de potenciales beneficiarios estimada inicialmente estaba muy por encima de la realidad, como
+se pudo establecer cuando se hizo el diagnóstico a fines de 2015. Una lección aprendida es la
+verificación en campo de los proyectos, antes de su licitación. No obstante, esto tiene un grado
+de dificultad, dados los costos de traslado hasta las comunidades alejadas, que en muchos casos
+están hasta 8 horas en carro desde los centros urbanos, aspecto que la UEP no siempre puede
+cubrir.
+El largo tiempo transcurrido entre la aprobación del Programa y el inicio de su ejecución por los
+retrasos presentados en la inscripción presupuestaria y en la dificultad de las primeras
+licitaciones declaradas desiertas, significó una lección importante a no repetir en el futuro y así
+lograr cumplir adecuadamente los cronogramas planificados. Las lecciones aprendidas en este
+caso son: (i) considerar en la planificación inicial, todos los tiempos de los trámites requeridos;
+(ii) hacer un estudio de mercado de los contratistas que puedan participar en las obras a ser
+licitadas.
+El diseño general del Programa fue adecuado al fin de contribuir con las necesidades del
+gobierno de reducir la pobreza e incrementar la cobertura eléctrica nacional40. El esquema de
+ejecución propuesto demostró ser efectivo en cuanto a alcanzar los resultados.
+Otra lección importante de asimilar para futuros proyectos es la necesidad de contar con una
+adecuada revisión de los proyectos por parte de la UE, antes de su licitación, y de tener una sola
+y clara metodología de elaboración de proyectos, para estar seguros de la correcta elegibilidad
+de proyectos y para facilitar el seguimiento de estos. Este aspecto se facilita, dado que el mismo
+Programa ha financiado el diseño de un Manual para Elaboración de Proyectos de Electrificación
+Rural, que fue socializado. Una vez que se logre su implementación por las distintas instancias
+(municipios, Gobernaciones, etc), puede esperarse que la calidad de los proyectos de
+electrificación rural mejor.
+Pese a que el Programa no contó con un plan de usos productivos, algunos beneficiarios de
+hecho utilizaron sus conexiones para ese fin, lo cual demuestra que existe la necesidad de un
+programa de esa naturaleza en el futuro, tal como se estará implementando con el PER II.
+Los beneficios mencionados de la ejecución de los dos proyectos de líneas de transmisión nos
+muestran también que se debe continuar con este tipo de proyectos, con impacto significativo en
+la mejora del medio ambiente, especialmente cuando se trata de disminuir la utilización de diésel
+para la generación eléctrica.
+40   El desarrollo de actividades económicas inclusivas es el medio más eficaz de reducir la pobreza; sin embargo, este
+     desarrollo no es posible sin acceso a la energía eléctrica confiable y a precios competitivos. Banco Mundial, 2015.
+                                                             -34-
+"
+"                                    VI. HALLAZGOS Y RECOMENDACIONES
+A.      Dimensiones 1 a 5
+Durante los talleres de cierre para cada uno d ellos componentes se presentaron los resultados
+alcanzados, las acciones para propiciar sostenibilidad, las lecciones aprendidas y los
+mecanismos de seguimiento a los resultados del Programa. Los participantes a los talleres
+acordaron que, con base a la información presentada en el taller, se prepararía el Informe de
+Terminación de Proyecto (PCR por sus siglas en inglés) correspondiente. Bajo esta línea, se
+acordó que se incluirían las lecciones aprendidas mencionadas en el taller. Esta sección de
+Hallazgos y Recomendaciones también incluye las lecciones aprendidas recogidas por parte de
+los participantes del Taller de Cierre del Programa.
+                                                -35-
+"
+"                                                                          Tabla 11
+                                                           Hallazgos y recomendaciones
+               Hallazgos                                                                    Recomendaciones
+Dimensión 1: Técnico-sectorial
+Hallazgo # 1                          Recomendación # 1
+Matriz de Resultados con errores      Diferenciar claramente desde un inicio los indicadores de Productos y de Resultados
+conceptuales
+Hallazgo # 2                          Recomendación # 2
+Retraso en ejecución de tareas para   Elaborar un cronograma de trabajo con asignación de tareas tomando en cuenta los tiempos reales que toma cada
+iniciar proyecto                      tarea, tanto la correspondiente al OE como al Banco
+                                      Recomendación # 3
+                                      Para el desarrollo de futuros proyectos de electrificación rural, será necesario requerir a los postulantes a
+                                      financiamiento, utilizar el Manual de Elaboración de Proyectos de ER financiado preparado en el marco del PER con
+                                      el fin de facilitar su revisión técnica y financiera, así como su aprobación tanto por el VMEEA, como por el BID.
+                                      Recomendación # 4
+                                      Incluir en los Estudios de presentación de proyectos la georreferenciación de las viviendas potenciales a ser
+Hallazgo # 3                          beneficiadas, así como hojas de estacado con usuarios identificados y sus listas respectivas.
+Deficiente elaboración de proyectos   Incluir también el número de celular del Beneficiario.
+presentados
+                                      Recomendación # 5
+                                      Cursos periódicos de capacitación del VMEEA a consultores, sobre el Manual de Elaboración y Evaluación de
+                                      Proyectos, y luego elaborar un listado de consultores habilitados para preparar proyectos de electrificación rural,
+                                      previa evaluación de los mismos, como una forma de asegurar que los proyectos sean elaborados con base a dicho
+                                      Manual y que tengan un nivel de elaboración que garantice su buena ejecución.
+                                      Recomendación # 7
+Hallazgo # 4                          Coordinar con las operadoras eléctricas que se harán cargo de la operación y mantenimiento de los proyectos, 1) la
+Falta de incorporación de las         participación de la operadora eléctrica en todas las etapas del proyecto: diseño, ejecución y operación de las redes
+operadoras eléctricas desde un inicio eléctricas incluidas las conexiones y 2) las normas de construcción que serán utilizadas en los proyectos a ejecutarse,
+de los proyectos                      tomando como base lo establecido en el Manual de Elaboración y Evaluación de Proyectos financiado por el
+                                      Programa.
+                                      Recomendación # 8
+Hallazgo # 5                          Entregar una copia del Estudio de Factibilidad de cada proyecto al Gobierno Departamental para que lo incluya en
+Falta de Coordinación entre todos los su plan de desarrollo departamental, al VMEEA para que este pueda incorporar el proyecto en el plan nacional de
+actores involucrados en los proyectos electrificación rural y haga pública la información del mismo (así todos los interesados en hacer proyectos de
+                                      electrificación rural podrán tener conocimiento de lo que se está haciendo), otra copia a la AE para que tome en
+                                                                              -36-
+"
+"                                    cuenta este proyecto en el crecimiento de la demanda y demás aspectos relacionados con el desarrollo del sector
+                                    energético y su normatividad, y una copia también a la(s) empresa(s) que se harán cargo de la operación y
+                                    mantenimiento del proyecto.
+                                    Recomendación # 9
+                                    Efectuar reuniones entre todas las entidades involucradas, con la finalidad de tener una planificación coordinada del
+                                    crecimiento de la demanda calculado por la operadora eléctrica y las necesidades de electrificación rural planteadas
+                                    por las Gobernaciones Departamentales o las Alcaldías. Verificar con la operadora eléctrica la factibilidad del proyecto
+                                    tomando en cuenta la capacidad de la red eléctrica. En estas mismas reuniones se debería elaborar una carpeta de
+                                    proyectos a nivel departamental.
+                                    Recomendación # 10
+                                    Efectuar reuniones en los Departamentos donde se ejecutarán proyectos, convocadas por el VMEEA con la presencia
+                                    de: Gobernación Departamental, Empresa Constructora, Empresa Supervisora y Empresa operadora con la finalidad
+                                    de definir:
+                                    a) Fechas de recepción provisional para cada uno de los proyectos.
+                                    b) Fechas de conclusión final de obras y por tanto de recepción definitiva de cada proyecto por parte de la operadora
+                                    eléctrica.
+                                    c) Fecha de energización para cada proyecto.
+                                    d) Fechas para revisión y para firma de Contratos de Operación y Mantenimiento con las operadoras eléctricas.
+                                    Recomendación # 11
+                                    Incluir como parte de la inversión en el proyecto, los costos de materiales para acometidas, así como la mano de obra
+                                    para la instalación de las mismas, en la medida en que la operadora eléctrica se limita a proveer únicamente el cable
+                                    de acometida y el medidor para las conexiones.
+                                    Recomendación # 12
+                                    Acordar con todas los actores participantes de los proyectos, que a medida que se vayan terminando tramos de
+                                    construcción, la operadora eléctrica participe desde la primera revisión para la recepción provisional de la red
+Hallazgo # 6                        eléctrica, haciendo también sus observaciones, y una vez subsanadas las mismas, proceda a instalar acometidas en
+Retraso en las conexiones una vez   el tramo concluido y así sucesivamente hasta alcanzar el 100% de la construcción.
+concluida la construcción de la red
+                                    Recomendación # 13
+eléctrica
+                                    Designar al menos una persona con dedicación exclusiva para realizar el seguimiento de conexiones en todos los
+                                    proyectos con la finalidad de:
+                                    a) hacer un seguimiento permanente para conocer el incremento de conexiones con las empresas operadoras en
+                                    cada Departamento, conocer si existen dificultades, cuáles son sus causas y por tanto encontrar soluciones para las
+                                    mismas,
+                                    b) elaborar informes mensuales resumidos de su trabajo al VMEEA y BID, con base a Cronogramas y Tablas de
+                                    seguimiento.
+                                                                         -37-
+"
+"                                         a operadora eléctrica en forma conjunta con el VMEEA deberán coordinar con los Comités de Electrificación o de
+                                         Conexiones, donde ya existen, y allí donde no existan pedir a los beneficiarios que los constituyan, mediante
+                                         reuniones convocadas a todos los representantes de los beneficiarios para:
+                                         1) Informarles de todos los aspectos relacionados con las conexiones, principalmente a) requisitos, b)costos, c) fecha
+Hallazgo # 7
+                                         de energización y
+Falta de coordinación        con    los
+                                         2) Definir a) fechas de instalación de acometidas b) plan de recorrido para estas instalaciones y c) firma de contratos
+beneficiarios
+                                         entre empresa y usuario.
+                                         Recomendación # 15
+                                         Realizar campañas de comunicación en los Departamentos, donde se está iniciando la construcción de los proyectos
+                                         a ser realizadas por una o más empresas con vasta experiencia en este tipo de campañas en proyectos de
+Hallazgo # 8                             electrificación rural y adecuada no solo a las particularidades de cada región, sino también a la etapa en la que se
+Falta de comunicación a los              encuentra cada uno de los proyectos en cada Departamento.
+beneficiarios en torno a los proyectos   Recomendación # 16
+del PER desde un inicio del Proyecto     Orientar las campañas de comunicación a informar a los futuros usuarios sobre requisitos y costos de las futuras
+                                         conexiones, así como para motivarlos a conectarse explicándoles los beneficios de la electricidad tanto para su vida
+                                         diaria como para el uso productivo de la misma, y también sobre aspectos de seguridad en el uso de la electricidad,
+                                         tanto para personas mayores como para niños.
+                                         Recomendación # 17
+Hallazgo # 9
+                                         Elaborar Programas de Usos Productivos para cada proyecto de construcción, como una base para el desarrollo de
+Falta de Programa de Usos
+                                         la zona del proyecto y para generar ingresos al beneficiario que de esta manera puede pagar su factura de electricidad
+Productivos de la energía eléctrica
+                                         pero además mejorar sus condiciones de vida familiar.
+                                         Recomendación # 18
+                                         Realizar un Taller Técnico previo a la licitación de construcción de las redes eléctricas de los proyectos, con la
+Hallazgo # 10
+                                         participación de: VMEEA, operadoras eléctricas que se harán cargo de la operación y mantenimiento de los proyectos
+Observaciones         técnicas       de
+                                         y empresas que participarán en la licitación de la construcción y de la supervisión, con la finalidad de informarles con
+construcción con impacto negativo en
+                                         detalle las normas de construcción que se utilizarán en los proyectos, que deberán ser de cumplimiento obligatorio
+finalización de obras e inicio de
+                                         para todos los que quieran ser parte de dicha licitación, ya sea como constructores o como supervisores. Con esto
+conexiones
+                                         se garantiza una construcción de acuerdo a normas y por otra parte, la posibilidad de que mejore la supervisión de
+                                         los proyectos, tanto en tiempo como respecto a la calidad de la construcción.
+Hallazgo # 11 Falta de un documento      Recomendación # 19
+que sirva como guía para lograr las      Entregar a las personas encargadas de este trabajo el ¨Manual para promover conexiones eléctricas a los
+                                         beneficiarios en proyectos de electrificación rural en Bolivia¨, elaborado con anterior consultoría. (Anexo …)
+metas de conexiones
+Dimensión 2: Organizativa y administrativa EQUIPO BID
+Dimensión 3 : Procesos/actores públicos EQUIPO BID
+                                                                              -38-
+"
+"                                   Recomendación # 19
+                                   Conformar un equipo de personal capacitado que se haga cargo de todos los aspectos del Programa desde su inicio
+Hallazgo # 10                      hasta su finalización, el mismo que debería estar exento de cambios por motivos políticos o de otra índole y que las
+Inestabilidad del OE a nivel del   autoridades superiores que con seguridad se irán cambiando durante toda la vida del PER II, no tendrían más que
+Ministerio de Energías y del VMEEA dar continuidad al trabajo de este equipo, solo así se podrían evitar los problemas sucedidos con el PER, que
+                                   retrasaron en un año su cronograma de ejecución.
+                                                                      -39-
+"
+"                                                                                  Anexo 1
+                                                       Cambios a la Matriz de Resultados Aprobada
+Tipo de Indicador      Indicador                          Motivo/Explicación
+Cambios en Productos y Productos y                        Se realizo un cambio en los indicadores de resultados del proyecto. Se redujeron varios indicadores, y se reemplazaron con
+Resultados             Resultados                         indicadores cuya medición es más directa. Este cambio fue acordado con el ejecutor y tomó en cuenta la dificultad de medición
+                                                          de los indicadores propuestos inicialmente, los mismos que requerirían de un presupuesto adicional para determinar la línea
+                                                          base y su medición por muestreo. Los indicadores de resultados planteados ahora reflejan directamente las metas que debe
+                                                          alcanzar la operación, que es la de incrementar la cobertura de electrificación rural. Este indicador esta asimismo alineado
+                                                          con los indicadores del Banco (% de hogares con servicio de electricidad). Por otro lado, el indicador de producto fue alineado
+                                                          con los indicadores del Banco (Km de Línea de distribución instalada), ya que efectivamente la operación financiara líneas
+                                                          de distribución y transmisión, como producto, mientras que las conexiones de usuarios (y el incremento de la cobertura) será
+                                                          una resultado de este producto. Solicitud de la agencia ejecutora: IDBDOCS 36730796.
+Resultado              Cobertura de servicio eléctrico en Se modificó indicadores de resultados a solicitud del ejecutor, a fin de reflejar los resultados de la intervención, alinear los
+                       las áreas rurales incrementada.    indicadores del proyecto con los indicadores del Banco, y facilitar el monitoreo por parte de la agencia ejecutora.
+Cambios en Productos y Productos y                        El resultado del proyecto es lograr incrementar en 3,5% la cobertura eléctrica. Esto representa un costo por conexión de
+Resultados             Resultados                         US$800/conexión. Dependiendo el costo de las líneas eléctricas (que depende de la geografía), esta meta podría variar. Aun
+                                                          no se ha definido la cartera definitiva de proyectos. La meta del producto en el componente I es estimada, hasta que no se
+                                                          defina y conocerte una cartera definitiva de proyectos.
+                                                          Los productos del componente III, aún están en discusión con el ejecutor. Debido al atraso en el inicio en la ejecución del
+                                                          Programa, algunos de estos productos ya no son relevantes, mientras que se está discutiendo la realización de otros
+                                                          productos.
+Producto               Línea de distribución monofásica   Replanificación de los productos.
+                       convertida a línea de distribución Los proyectos a ser ejecutados por la agencia ejecutora son propuestos por las Gobernaciones (Gobiernos locales). En esta
+                       trifásica.                         etapa inicial la Agencia Ejecutora ha recibido solamente proyectos de extensión de redes de distribución únicamente y solicita
+                                                          la replanificación de los proyectos de reconversión de redes para años posteriores. Se debe hacer notar que la demanda de
+                                                          las gobernaciones a la conversión de líneas de distribución monofásica a trifásica no ha presentado movimiento alguno. Se
+                                                          presume que las mismas están en la elaboración de proyectos o en la identificación de los mismos.
+Producto               Kilómetros      de     línea    de Modificación de indicador de producto.
+                       distribución    convertidas     de Se unificó los productos \"kilómetros de línea de distribución convertida de monofásico a trifásico\" y \"Kilómetros de línea de
+                       monofásico a trifásico.            distribución instalada\", ya que, una vez identificada la cartera de proyectos, se determinó que solo existirán instalación de
+                                                          líneas de distribución.
+Producto               Kilómetros      de     línea    de Inclusión del indicador de producto
+                       distribución instalada             Se adicionó el indicador de producto, para poder medir la intervención en infraestructura eléctrica (producto), misma que
+                                                          facilitará el incremento en el número de usuarios, y en la cobertura de la demanda (resultado). Este indicador está alineado
+                                                          con los indicadores del Banco (Km de línea de distribución instalado).
+Resultado              Cobertura de servicio eléctrico en Dado el atraso en el inicio de la ejecución del Programa, se ajustó la proyección de los resultados (incremento en la cobertura,
+                       las áreas rurales incrementada.    y conexiones), ya que no se espera que se puedan lograr conexiones durante la gestión 2013.
+Producto               Apoyo a preguntas de energía en    Postergación del censo nacional.
+                       el Censo                           Se ha replanificado en tiempo el apoyo para la elaboración de las preguntas que deberán ser incorporadas en el censo. Esto
+                                                          debido a la postergación, por parte del Gobierno Nacional, del Censo Poblacional aun no definido.
+Producto               Análisis de los resultados del     Modificación de alcance de producto.
+                       Censo Nacional en la temática de   Se modifico el producto de \"apoyo a preguntas de energía en el censo\" a \"análisis de los resultados del censo nacional en la
+                       Energía                            temática de energía\"
+                                                                                      -40-
+"
+"Producto  Base de datos detallada sobre         Atraso en la entrega del producto.
+          costos      unitarios      para    la La consultoría se inició en el 2012 sin embargo no pudo concluirse, por lo que se ha reprogramado la entrega del producto
+          elaboración de proyectos de           para el 2013.
+          electrificación rural.
+Producto  Kilómetros       de      línea    de  Declaratoria desierta.
+          distribución instalada                La licitación para la construcción de las obras del \"Proyecto de Electrificación Fase V - Zona Trópico\" se declarar desierta, al
+                                                no haber existido oferentes. Las obras tenían un presupuesto referencial de US$6MM, lo que afecto el cumplimiento de las
+                                                metas del Programa. Se definió analizar las razones para esta declaratoria, y relanzar el proceso, en el primer semestre del
+                                                2013.
+Resultado Reducción        del       uso    de  Se eliminó como indicador por la dificultad de medición de los indicadores propuestos inicialmente, los mismos que requerirían
+          combustibles           tradicionales  de un presupuesto adicional para determinar la línea base y su medición por muestreo.
+          usados para la iluminación en
+          hogares rurales y el gasto
+          asociado
+Resultado Inversión      con      rentabilidad  Se eliminó como indicador por la dificultad de medición de los indicadores propuestos inicialmente, los mismos que requerirían
+          económica- TIRS                       de un presupuesto adicional para determinar la línea base y su medición por muestreo.
+Producto  Relevamiento de los operadores        Se eliminó como indicador debido a la nacionalización de las empresas operadoras. El Gobierno definió que estas empresas
+          eléctricos rurales y elaboración      (que tenían zonas de concesión urbanas) se hagan cargo también de la operación rural. Por ello, ya no existían operadores
+          de un programa de formalización       eléctricos rurales.
+          de los operadores eléctricos que
+          no cumplan con la normativa
+          vigente en coordinación con la
+          AE
+                                                                            -41-
+"
+"                                                          Informe de Terminación de Proyecto
+                                                      Programa de Electrificación Rural (BO-L1050)
+                                                              Efectividad en el Desarrollo
+                                                                        Resumen
+I. Efectividad en el Desarrollo - Criterios Centrales
+                            Calificación general recomendada:                                             Parcialmente Exitoso
+                                                                                                                    Peso
+1. Relevancia                                                                               4.00                    20%
+2. Efectividad                                                                              2.00                    40%
+       % de resultados alcanzados                                                          78.9%
+3. Eficiencia                                                                               2.00                    20%
+4. Sostenabilidad                                                                           4.00                    20%
+II. Efectividad en el Desarrollo - Criterios No Centrales
+Desempeño Del Banco                                                                                Satisfactorio
+Desempeño Del Prestatario                                                                          Satisfactorio
+"

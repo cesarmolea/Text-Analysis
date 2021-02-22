@@ -1,0 +1,1094 @@
+"outlist[[i]]"
+"Tiempo y costo del personal
+ Ciclo de proyecto de etapa      # de semanas de personal         US$ (incluidos los gastos de viaje
+                                                                  y asesoría)
+ Preparación                                   34                           US$ 279.270.-
+ Supervisión                                   97                           US$ 676.280.-
+ Total                                         131                          US$ 955.550.-
+DECLARACIÓN DE LOS OBJETIVOS DE DESARROLLO DEL PROYECTO / PROGRAMA:
+FORTALECER LAS INSTITUCIONES PÚBLICAS PARA LA TOMA DE DECISIONES EN BASE A INFORMACIÓN SOBRE
+DESEMPEÑO Y RESULTADOS EN LA GESTIÓN PÚBLICA NACIONAL Y SUB-NACIONAL.
+                                                v
+"
+"          I.   INTRODUCCIÓN.
+1.1.      El presente documento resume los productos, resultados e impactos alcanzados en el
+          Programa de Fortalecimiento Institucional Provincial y de Gestión Financiera – PROFIP
+          II, el segundo préstamo acordado entre el Banco Interamericano de Desarrollo (BID) y la
+          República Argentina con el objetivo de contribuir al fortalecimiento de las capacidades del
+          sector público a nivel nacional y provincial. El monto total original del Programa fue de
+          US$ 45 millones: US$ 36 millones financiados por el BID, y US$ 9 millones, con aporte
+          local.
+1.2.      El PROFIP II se aprobó el 29 de agosto de 2012, mediante el Decreto de Aprobación
+          (Decreto PEN N°1529) y el Contrato de Préstamo se firmó el 28 de septiembre de 2012
+          por un periodo original de desembolsos de 5 años. Su ejecución se extendió desde fines
+          de 2012 hasta noviembre de 2018 y fue llevada a cabo por la Unidad Coordinadora y
+          Ejecutora Nacional (UCEN) perteneciente a la Secretaría de Hacienda (SH) dependiente
+          del Ministerio de Hacienda de la Nación, ex Ministerio de Economía y Finanzas Públicas.
+          El 27 de Noviembre del 2017 a solicitud del Prestatario se modifica la denominación del
+          Organismo Ejecutor en el contrato de préstamo, de Ministerio de Economía y Finanzas
+          Publicas a Ministerio de Hacienda, esto debido al cambio de nombre de la institución, que
+          sin embargo mantenía sus funciones que le permitan ejecutar este Programa. Por otra
+          parte, se concedió una extensión al plazo del ultimo desembolso a solicitud del Prestatario
+          debido a compromisos realizados que no podrían ser honrados durante el periodo
+          original, la extensión fue de seis meses.
+1.3.      El PROFIP II, a través del préstamo 2754/OC-AR, da continuidad a la labor iniciada en el
+          marco del PROFIP I 1, focalizándose en proyectos de mejora de la gestión pública basada
+          en la calidad, centrada en el servicio al ciudadano y orientada hacia resultados. Asimismo,
+          amplía el universo de organismos susceptibles de ser beneficiados de un aporte no
+          reembolsable (ANR) y extiende el horizonte de temáticas, problemáticas y sectores de
+          objeto de intervención, al orientar su aporte al desarrollo de proyectos de fortalecimiento
+          institucional para organismos públicos sub-nacionales. Si bien el PROFIP II da
+          continuidad a las acciones, dado que interviene en las mismas Provincias que primer
+          programa, no lo hace en las mismas entidades provinciales beneficiarias. El criterio de
+          selección de las entidades no ponderaba la participación en programa inicial.
+1 Contrato de Préstamo 1588/OC-AR. El PROFIP I se estructuró alrededor de dos ejes principales: (i) el desarrollo del
+  entorno institucional de los sectores públicos provinciales vinculados a la producción (45 proyectos distribuidos en
+  19 provincias elegibles en el marco de la Ley de Responsabilidad Fiscal). Del total, un 35% de los proyectos fueron
+  orientados a la regulación y apoyo a los sectores productivos, un 33% hacia sistemas de información, y un 8% a
+  capacitación10. Un 46% de los organismos beneficiarios tenían una relación directa con actividades económicas
+  vinculadas al sector primario y un 17% al turismo; y (ii) el fortalecimiento de las relaciones Nación-Provincia para la
+  gestión fiscal y financiera (siete proyectos). La región donde se ejecutó la mayor cantidad de inversiones fue el
+  Noroeste (34%). Entre las regiones Patagonia, Noroeste, y Noreste se concentra el 85,4% de la cartera. El cierre
+  del PROFIP I estaba previsto para agosto de 2012. Los resultados fueron medidos a través del Índice de Capacidad
+  Institucional (ICI). El análisis agregado de los resultados del ICI muestra que sobre un valor máximo posible de 1,
+  desde un valor promedio de 0,39, el ICI al cierre fue de 0,52. Es decir que de un nivel inicial de capacidades
+  institucionales medio-bajo se alcanzó al cierre un nivel intermedio.
+                                                            6
+"
+"1.4. La segunda operación del PROFIP se justificó por la debilidad en los sistemas de gestión
+     financiera y presupuestaria, que dificulta la toma de decisiones en base a información
+     sobre desempeño y resultados. A nivel nacional, sólo un pequeño número de programas
+     incluían indicadores de resultados alineados con la programación presupuestaria. Entre
+     los factores que explican esta debilidad se encuentran específicamente: (i) la frágil
+     sistematización de la información, estándares técnicos y sistemas informáticos para el
+     monitoreo y seguimiento del cumplimiento de los objetivos y las metas de desempeño; y
+     (ii) el reducido compromiso de las unidades ejecutoras de programas presupuestarios con
+     un modelo de seguimiento de resultados.
+1.5. El objetivo principal del Programa fue fortalecer las instituciones públicas para la toma de
+     decisiones en base a información sobre desempeño y resultados en la gestión pública
+     nacional y sub-nacional. Mientras que los objetivos específicos fueron: (i) modernizar el
+     sistema público de gestión financiera y presupuestaria en las instituciones de la
+     Administración Pública Nacional (APN); y (ii) fortalecer la gestión pública orientada a
+     resultados en las entidades públicas y/o mixtas sub-nacionales. Para ello, las acciones
+     se enmarcaron en dos componentes.
+1.6. El primer componente, “Fortalecimiento de la gestión presupuestaria y financiera
+     gubernamental”, apuntó a fortalecer a la SH y el entorno tecnológico necesario para
+     apoyar la modernización de la gestión financiera y la implementación del presupuesto
+     orientado a resultados en la APN. Con este objetivo, las inversiones estuvieron centradas
+     en la expansión e integración del e-SIDIF (Sistema Integrado de Información Financiera
+     Electrónico) con un alto nivel de interoperabilidad, seguridad, calidad de los datos, y
+     transparencia, brindando una mayor cobertura y mejor rendimiento para apoyar de forma
+     eficaz la ejecución de programas presupuestarios de la APN. También se buscó
+     revalorizar el sistema de presupuesto por programas como herramienta para la Gestión
+     por Resultados (GxR), y desarrollar instrumentos para impulsar la vinculación entre el
+     programa de gobierno, los resultados esperados y el presupuesto.
+1.7. Por su parte, el componente número 2, “Fortalecimiento institucional de la gestión pública
+     sub-nacional”, buscó fortalecer las capacidades institucionales de los organismos sub-
+     nacionales públicos y/o mixtos para mejorar la calidad de los servicios prestados y de los
+     bienes producidos, procurando establecer una mayor orientación a resultados de los
+     procesos. Profundizando las buenas prácticas implementadas en la etapa anterior,
+     focalizándose aún más en la mejora de las capacidades institucionales para consolidar
+     procesos de desarrollo y abarcando nuevos organismos. El componente tenía como
+     principales líneas de acción: (i) diseñar e implementar proyectos de desarrollo de
+     capacidad institucional en organismos públicos y mixtos a nivel sub-nacional, (ii) generar
+     instancias de capacitación, formación e intercambio de experiencias en GxR entre
+     funcionarios y actores relevantes de organismos sub-nacionales, para consolidar este
+     modelo conceptual en la acción de gobierno; y (iii) realizar diagnósticos de situación para
+     evaluar las capacidades institucionales de la GxR en organismos sub-nacionales, de
+     modo que se pueda generar un mapa de situación representativo de la GxR en el ámbito
+     sub-nacional, a nivel del país.
+                                              7
+"
+" 1.8.   Por lo tanto, para alcanzar el segundo objetivo específico, el PROFIP II financió proyectos
+        de fortalecimiento institucional, a través de aportes no reembolsables para los organismos
+        seleccionados. Mientras que, con el aporte del gobierno nacional, se costearon
+        actividades de capacitación, asistencia técnica y compra de equipamiento. La
+        administración de los proyectos fue centralizada y su gestión descentralizada. La
+        identificación y formulación de los proyectos financiados fue una respuesta a demanda,
+        en la que se trabajó sobre las necesidades y realidades particulares que presentaba cada
+        proyecto y organismo beneficiario.
+        II. CRITERIOS CENTRALES. RENDIMIENTO DEL PROYECTO.
+2.1     Relevancia.
+                 a. Alineación con las necesidades de desarrollo del país.
+ 2.1.1. El PROFIP II se alinea a la Estrategia de País del BID 2012-2015 (GN-2687), vigente al
+        momento del inicio del programa, en lo que respecta a las tareas vinculadas a la
+        modernización del Estado en el apartado “áreas de diálogo de la Estrategia 2012-2015”
+        (P.3.46). Entre éstas, se menciona a la gestión pública nacional y provincial en temas de
+        planificación, presupuesto, evaluación, recursos humanos, adquisiciones, y sistemas de
+        control.
+ 2.1.2. Además, se vincula con una de las líneas de acción de la Estrategia de País 2016–2019
+        (GN-2870), dentro del eje estratégico de “Mejora del Ambiente de Negocios” (P.3.13), la
+        cual propone que el BID focalice sus intervenciones en el apoyo a iniciativas de
+        fortalecimiento institucional que permitan mejorar la calidad y eficiencia de la gestión
+        pública en los tres niveles de gobierno.
+ 2.1.3. En este sentido, el PROFIP II supuso la incorporación de indicadores para consolidar el
+        PxR a nivel nacional, la implementación y expansión del e-SIDIF. Ello incluye
+        herramientas informáticas de última generación que permitieran optimizar la operatividad
+        transaccional y facilita la explotación de la información para la toma de decisiones.
+ 2.1.4. A nivel sub-nacional, las debilidades en los sistemas de gestión de los organismos
+        públicos explican los problemas a la hora de tomar decisiones en base a información
+        sobre desempeño y resultados. El Programa buscó fortalecer las capacidades
+        institucionales con el objetivo de avanzar hacia una GxR, a través de realización de
+        diagnósticos, capacitaciones para funcionarios, y brindando asistencia técnica, entre
+        otras actividades.
+ 2.1.5. Por otro lado, dentro de los 8 grandes Objetivos de Gobierno (OGs) y las 100 iniciativas
+        prioritarias presentadas por el gobierno argentino en diciembre de 2016, el Programa se
+        asocia directamente con la prioridad número 89 de “Reforma administrativa” dentro del
+        Objetivo de Gobierno VII de “Modernización del Estado”.
+                 b. Alineación estratégica.
+ 2.1.6. Al fortalecer la capacidad institucional de las instituciones públicas nacionales y sub-
+        nacionales, el programa se alinea con los “Objetivos Estratégicos de Política del BID”
+                                                   8
+"
+"        contenidos en la Actualización de la Estrategia Institucional 2010-2020 (P.3.8.c),
+        entendiendo al fortalecimiento institucional como un aspecto necesario y transversal para
+        el desarrollo de la región.
+2.1.7. El PROFIP II contribuye directamente también a uno de los objetivos estratégicos del
+        Banco. Se alineó a la prioridad de “Financiamiento para respaldar la cooperación e
+        integración regional” que se presenta en el Informe sobre el Noveno Aumento General de
+        Recursos del Banco (AB-2764). Éste abarca el fortalecimiento institucional y la integración
+        financiera tanto del nivel nacional como regional (P.3.24). Así mismo el Programa contaba
+        con un indicador que aportaba justamente a los principios del GCI-9, respecto a la
+        implementación de sistemas de información.
+2.1.8. Por último, el PROFIP II también estuvo alineado con El Nuevo Marco Operativo del BID
+        (GN-2494), específicamente con la necesidad de contar con instituciones y capacidades
+        sólidas para el crecimiento económico en un sentido estricto, pero también para el
+        ejercicio de las responsabilidades medulares del Estado, que revisten suma importancia
+        para el bienestar social (P.2.31).
+                   c. Relevancia del diseño.
+2.1.9. El PROFIP II buscó fortalecer las instituciones públicas para que en la gestión pública
+        nacional y sub-nacional se tomen decisiones con base a información sobre desempeño y
+        resultados. A nivel nacional, sólo un pequeño número de programas incluían indicadores
+        de resultados alineados con la programación presupuestaria. Por lo cual, los objetivos
+        específicos establecidos fueron: (i) modernizar el sistema público de gestión financiera y
+        presupuestaria en las instituciones de la APN; y (ii) fortalecer la gestión pública orientada
+        a resultados en las entidades públicas y/o mixtas sub-nacionales.
+2.1.10. Para lograr el primer objetivo específico, el componente número uno centró sus
+        inversiones en la expansión e integración del e-SIDIF y en el desarrollo de herramientas
+        y soluciones informáticas de PxR. Ambos productos permiten disponer de mayor
+        cobertura y mejor rendimiento para apoyar de forma eficaz la presupuestación y ejecución
+        de los programas gubernamentales de la APN. Ambos son insumos relevantes para tener
+        un mayor número de programas que se gestiona en base a resultados. Por lo tanto,
+        ambos productos se alinean perfectamente en la consecución del objetivo mencionado.
+2.1.11. Las acciones concretas que este componente se encargó de financiar fueron: (i) el Plan
+        de Acción para el PxR de la SH, que contempló la identificación y/o diseño de indicadores
+        para 100 programas presupuestarios de la APN; (ii) la extensión de las tecnologías de
+        gestión y la implantación de las diferentes funcionalidades del nuevo e-SIDIF gerencial;
+        (iii) el diseño del modelo conceptual e implementación de la GxR en los Órganos Rectores
+        (OR) en materia presupuestaria; (iv) la implementación de herramientas de apoyo al PxR
+        en organismos de la APN; (v) el Sistema de Administración Financiera basado en una
+        arquitectura tecnológica moderna con estándares de interoperabilidad; y (vi) la
+        capacitación en gestión financiera pública y de PxR de las oficinas de presupuesto del
+        gobierno nacional, a través del Centro de Capacitación.
+                                                  9
+"
+"2.1.12. Los indicadores de resultados seleccionados para medir el logro del objetivo específico
+        número uno, fueron: (i) el porcentaje del gasto primario de la APN administrado por el e-
+        SIDIF transaccional; y (ii) el número de programas presupuestarios de la APN con
+        presupuesto primario gestionado en base a indicadores de resultado alineados con la
+        programación presupuestaria. Si bien estos indicadores se encuentran bajo el control del
+        programa, el control no es absoluto pues requieren la aceptación y adopción por parte de
+        organismos estatales distintos al Ministerio de Hacienda. Se reconoce que el segundo
+        indicador de resultado podría ser considerado un producto. No obstante, los dos
+        indicadores en conjunto capturan adecuadamente el objetivo específico que se planteó
+        en la Propuesta de Préstamo (POD).
+2.1.13. En general, el diseño de este primer componente establece una lógica vertical clara,
+        sustentada en productos que conducen al objetivo específico planteado y que son
+        medidos de manera adecuada. En la Imagen N° 1 puede observarse un esquema que
+        sintetiza la lógica vertical.
+                                      Imagen N° 1. Lógica vertical
+2.1.14. Para alcanzar el segundo objetivo específico, el componente número dos tuvo como
+        principales líneas de acción: (i) diseñar e implementar proyectos de Desarrollo de
+        Capacidad Institucional en organismos públicos y mixtos a nivel sub-nacional que
+        permitan mejorar la orientación a resultados de los procesos de gestión en: rediseño y
+        simplificación de procesos y procedimientos organizacionales; adecuación de
+        reglamentaciones y marcos regulatorios; desarrollo e integración de sistemas de
+        información; desarrollo de herramientas y metodologías de planificación; diseño e
+        implementación de mecanismos de comunicación y difusión institucional; mejora de la
+        prestación de servicios de apoyo; (ii) talleres nacionales como instancias de capacitación,
+        formación e intercambio de experiencias en GxR entre funcionarios y actores de los
+        organismos sub-nacionales para consolidar este modelo conceptual en la acción de
+        gobierno; y (iii) realizar diagnósticos de situación para evaluar las capacidades
+        institucionales de la GxR en organismos sub-nacionales.
+                                                   10
+"
+"2.1.15. Mientras que, para medir el logro del objetivo específico número dos, los indicadores de
+        resultados seleccionados fueron: (i) el sub-índice de estructura organizacional del ICI; y
+        (ii) el atributo referido a las capacidades de gestión de políticas públicas orientadas a
+        resultado a nivel sub-nacional (IGER). Para verificar si ambos indicadores eran
+        adecuados para medir los avances respecto al objetivo específico dos a continuación se
+        explica en qué consisten cada uno de ellos:
+2.1.16. El ICI 2 fue diseñado por la SH con el objetivo de contar con un instrumento técnico y una
+        ruta metodológica adecuada a las necesidades del PROFIP I para realizar la evaluación
+        y análisis de la capacidad institucional de organismos públicos considerando el
+        cumplimiento de sus competencias, el cumplimiento de sus objetivos institucionales, el
+        marco organizacional-administrativo vigente para la resolución de los asuntos públicos, y
+        la dinámica de relación e interacción con usuarios, instituciones y organismos.
+2.1.17. Está dividido en dos grandes Sub-índices: el Sub-índice de Capacidad Institucional y el
+        Sub-índice de Desarrollo Productivo Regional, ambos medidos por atributos que se
+        encontraron en las organizaciones intervenidas. Mientras que el primero hace referencia
+        a la situación interna, el segundo hace referencia a la relación del organismo estatal con
+        el sector productivo que es exógeno a la gestión interna.
+2.1.18. Los Sub-índices, a su vez están constituidos por una serie de variables desagregadas
+        denominados Atributos y Sub-atributos que, en conjunto, determinan la capacidad
+        institucional. La valoración y la incidencia de los Atributos y Sub-atributos se aplica en
+        función de los elementos e instrumentos necesarios que deberían estar presentes de
+        determinada forma en la gestión de la institución para un normal o aceptable
+        funcionamiento. La Tabla N° 9 de muestra la estructura del ICI, considerando los Sub-
+        índices, Atributos y Sub-atributos que lo componen.
+2.1.19. El sub-índice elegido como indicador de los resultados en este proyecto fue el A
+        (Capacidad Institucional). Es importante mencionar que este incluye Sub-atributos
+        relacionados específicamente a la planeación estratégica y la ejecución de presupuesto,
+        aspectos de modernización claves a la hora de implementar una gestión basada en
+        resultados, por lo que se vinculan claramente con el objetivo específico número dos del
+        PROFIP II.
+2.1.20. Su medición estuvo prevista tanto ex-ante como ex-post a la intervención correspondiente
+        en cada uno de los proyectos a nivel sub-nacional. Sin embargo, por el hecho de que
+        todas las mediciones ex-ante necesariamente se realizarían durante la ejecución del
+        PROFIP II, la línea de base registrada originalmente en la matriz de resultados (Tabla N°
+        1) corresponde a la línea de base del PROFIP I. Mientras que la línea de base al momento
+        del cierre sí se corresponde a la medición de los proyectos financiados por el PROFIP II.
+        Las implicancias de esta decisión en relación a las metas fijadas, se discuten más
+        adelante en la sección de efectividad.
+2.1.21. Con respecto al IGER, su construcción conceptual se realiza siguiendo los componentes
+        básicos del ciclo de gestión y las herramientas claves presentes en él, con el objetivo de
+2 Para mayor información sobre el ICI revisar el documento sobre aspectos metodológicos.
+                                                        11
+"
+"        analizar el grado de desarrollo de la GxR en un organismo público. Esto significa que
+        también se tienen en cuenta los elementos que forman parte del proceso de gestión
+        institucional, y que determinan el nivel de orientación a resultados de los organismos
+        públicos. Dichos elementos son: la planificación, la gestión de políticas públicas, el
+        presupuesto, los sistemas de información, los recursos humanos y la comunicación. Por
+        lo tanto, este indicador es más adecuado para la medición del objetivo específico número
+        dos.
+2.1.22. La medición del IGER se realizó solo en un momento, por lo que lo único que se puede
+        contrastar para ver su evolución son la línea de base que representa el nivel del IGER en
+        proyectos correspondientes al PROFIP I y los valores que arrojaron los 10 proyectos
+        implementados por el PROFIP II para los cuales se midió el IGER.
+2.1.23. En lo que respecta al segundo componente, se considera que los dos indicadores de
+        resultado hacen un esfuerzo por medir el avance en el fortalecimiento institucional de
+        los organismos sub-nacionales para que tengan una gestión de presupuesto orientada a
+        resultados. No obstante, éstos presentan algunos reparos como los mencionados en el
+        párrafo anterior. Asimismo, los productos financiados están relacionados directamente
+        al objetivo específico del programa. Vale aclarar que, al igual que lo sucedido con el
+        componente número uno, se realizaron modificaciones en los productos originales de la
+        Propuesta del Préstamo, agrupando algunos de ellos y haciendo que la cantidad pase
+        de 9 a 4. Cambios a la Matriz de Resultados
+2.1.24. Los indicadores de impacto seleccionados en el POD fueron medidos para el año 2013 y
+        2018, la medición del 2013 fue para actualizar la línea de base. Finalmente, es preciso
+        indicar que el indicador de impacto del POD no se midió al cierre del proyecto. Por otra
+        parte, se encontraron dos dificultades para el uso de estos indicadores: En primer lugar,
+        este indicador sólo estaba relacionado al objetivo específico 1 y no al 2. En segundo lugar,
+        la línea base tomada para esta operación fue una medición realizada entre 2007 y 2009
+        siendo que la operación PROFIP II comenzó a ejecutarse en 2012. De esta manera, las
+        variaciones en los indicadores que se hubieran producido entre esos años, como
+        consecuencia de diferentes políticas del ámbito nacional se atribuirían erróneamente al
+        PROFIP II. Si bien los objetivos específicos contribuyen directamente al logro del objetivo
+        general del programa, en el diseño de este no se eligió un buen indicador de impacto.
+2.1.25. Durante la ejecución del programa se realizaron dos modificaciones a la matriz de
+        resultados. En la primera se incluyó el indicador de resultado “sistema financiero público
+        renovado (presupuesto, tesorería, contabilidad, deuda). El sistema se llama e-SIDIF” para
+        mostrar la alineación del programa con los principios del Noveno Incremento de Capital
+        (GCI-9). Este resultado ya se encuentra considerado como un producto y reflejado en el
+        indicador de productos 2.1. Por lo que no se realiza ningún análisis de este. En la segunda
+        se modificó el nombre de indicador del resultado 1. a “Número de programas
+        presupuestarios de APN con presupuesto primario gestionada en base a indicadores de
+        resultado alineados con la programación presupuestaria” para reflejar mejor los
+        resultados del programa.
+                                                 12
+"
+"2.1.26. Como conclusión de la sección, se considera que el programa está alineado a las
+        estrategias institucionales del banco, así como a los objetivos de desarrollo de país. En
+        lo que respecta a lógica vertical, ésta se considera adecuada. Como se puede ver en la
+        Imagen 1, la intervención propuesta apuntaba adecuadamente a contribuir con los
+        objetivos específicos, que están directamente ligados al objetivo general. Sin embargo,
+        como se explicó antes la elección de los indicadores de resultado presentó algunos
+        reparos expresados en los párrafos 2.1.13., y 2.1.25., lo cual lleva a una calificación de
+        satisfactorio en lo que respecta a relevancia.
+                                                 13
+"
+"                                             Tabla N° 1. Matriz de resultados
+                                                                                       En la            Al terminar el
+                                                               Unidad de           aprobación 3            proyecto
+                      Indicadores
+                                                                 Medida
+                                                                               Línea de        EOP   Línea de     EOP
+                                                                                 Base            (P)   Base        (A)
+  Objetivo específico 1:
+  Modernización del sistema público de gestión financiera y presupuestaria en las instituciones de la APN.
+            Resultados
+  Indicador # 1
+    N° de programas presupuestarios de la APN con
+    presupuesto primario gestionado en base a                   Programas
+                                                                                    16          100     16         111
+    indicadores de resultado alineados con la                 presupuestarios
+    programación presupuestaria
+  Indicador # 2
+    Gasto primario de la APN administrado por el e-               % gasto
+                                                                                     8          100      8         100
+    SIDIF transaccional                                           primario
+  Indicador # 3
+    Sistema financiero público renovado (presupuesto,
+    tesorería, contabilidad, deuda). El sistema se llama      Systems                0            1      1          1
+    e-SIDIF.
+  Objetivo específico 2:
+  Fortalecimiento de la gestión pública orientada a resultados en las entidades públicas y/o mixtas sub-nacionales.
+            Resultados
+  Indicador # 1
+    Sub-índice de capacidad institucional del ICI                 Puntaje         0,24           0,4   0,24       0,38
+  Indicador # 2
+    Atributo referido a las capacidades de gestión de
+    políticas públicas orientadas a resultado a nivel sub-        Puntaje         0,09         0,15    0,09       0,15
+    nacional (IGER)
+Nota: No se incluye indicador 3 en el análisis debido a que es una duplicación del producto 1.1.
+                                                      Fuente: Convergencia - PMR
+3 En lo que respecta a indicadores de resultado, la matriz de elegibilidad +60 días y la de aprobación son la misma.
+                                                                   14
+"
+"                                 Cuadro Nº 1. Evaluación de la relevancia
+                                           Clasificación   Valor
+                                           Satisfactorio     3
+2.2     Efectividad.
+                  a. Declaración de objetivos de desarrollo del proyecto.
+ 2.2.1. El principal objetivo del PROFIP II fue fortalecer las instituciones públicas para la toma de
+        decisiones en base a información sobre desempeño y resultados en la gestión pública
+        nacional y sub-nacional.
+ 2.2.2. Como se mencionó anteriormente, los objetivos específicos fueron: (i) modernizar el
+        sistema público de gestión financiera y presupuestaria en las instituciones de la APN; y
+        (ii) fortalecer la gestión pública orientada a resultados en las entidades públicas y/o mixtas
+        sub-nacionales.
+ 2.2.3. Los resultados previstos para el componente número uno, según las metas establecidas
+        en la matriz de resultados (Tabla N° 1), consistieron en que el e-SIDIF cubriera el 100%
+        gasto primario de la APN y que la cantidad de programas presupuestarios de la APN con
+        presupuesto primario gestionado en base a indicadores de resultado alineados con la
+        programación presupuestaria llegara a 100. Por su parte, para el componente número
+        dos, las metas estipuladas consistieron en que el Sub-índice de Capacidad Institucional
+        del ICI alcance el valor de 0,4 y que el IGER llegue a 0,15.
+                  b. Resultados logrados.
+ 2.2.4. Los resultados fijados para el primer componente se alcanzaron por completo, incluso se
+        logró superar la meta de 100 programas presupuestarios gestionados en base a
+        indicadores de resultados, llegando hasta los 111 programas.
+ 2.2.5. Para lograr estas metas los principales productos financiados fueron el despliegue del e-
+        SIDIF, datamarts para el sistema informático y herramientas y soluciones informáticas de
+        PxR desarrolladas e implementadas por los OR, tal como se mencionó en la sección de
+        relevancia. Solamente el último de los productos mencionados no alcanzó el valor
+        estipulado previamente como meta, pero, de todas formas, su ratio de logro fue del 93%,
+        en parte debido a que los resultados propuestos ya habían sido alcanzados.
+ 2.2.6. Respecto al segundo componente, la meta referida a la mejora del Sub-índice de
+        capacidad institucional del ICI no fue alcanzada por completo. Se lograron aumentar 14
+        de los 16 puntos necesarios para alcanzar la meta, por lo que la proporción del logro sería
+        83%. Mientras que por el lado del IGER la proporción del logro fue de 100%.
+ 2.2.7. En cuanto a los productos financiados para este componente se ejecutaron los 48
+        proyectos de desarrollo de la capacidad institucional previstos, los 13 diagnósticos de
+        GxR en organismos sub-nacionales y se superaron los 10 talleres nacionales de
+        socialización e intercambio de experiencias.
+                                                      15
+"
+"                 c. Análisis contrafactual.
+2.2.8. La evaluación de la atribución de los resultados logrados no fue realizada mediante una
+        evaluación de impacto. Sin embargo, para el objetivo específico número uno, la relación
+        directa que guardan los productos y los indicadores de resultados nos brinda un
+        argumento importante para pensar que es muy poco probable que los factores externos
+        hayan influido en los resultados logrados, dado que estos son consecuencia directa de la
+        ejecución del programa.
+2.2.9. El primero de ellos, número de programas con presupuesto primario gestionado en base
+        a indicadores de resultado, coincide con el indicador de producto de herramientas y
+        soluciones informáticas de PxR implementadas. Es decir, la misma implementación de
+        las herramientas generaba que automáticamente ese programa se gestione en base a
+        indicadores de resultado, por lo tanto, la atribución es directa. Algo muy similar ocurre con
+        el indicador de gasto primario de la APN administrado por el e-SIDIF ya que a medida
+        que el despliegue del sistema avanza, necesariamente quiere decir que más organismos
+        lo utilizan para la ejecución y, por lo tanto, una mayor proporción del gasto se ve
+        involucrada. Los indicadores elegidos: SEP-Pilar de gestión Presupuestaria, SEP-Pilar
+        Presupuesto por Resultados y SEP-Pilar Monitoreo y Evaluación son movidos
+        directamente por los resultados logrados en el Programa, específicamente la
+        implementación de presupuesto por programas con indicadores y la gestión del gasto en
+        un sistema moderno transaccional.
+2.2.10. Respecto del objetivo específico número 2, es un desafío muy grande demostrar
+        atribución, puesto que no existen evaluaciones de impacto que midan los efectos de este
+        tipo de capacitaciones sobre la capacidad institucional de gobiernos sub-nacionales. Sin
+        embargo, para el caso del sub-índice de capacidad institucional del ICI, la temporalidad
+        de sus mediciones hace viable la idea de que las mejoras estén totalmente relacionadas
+        a la implementación de los proyectos financiados por el PROFIP II. Concretamente, cada
+        proyecto se medía antes de comenzar con las acciones de mejora sobre el organismo y
+        luego de terminadas, pero todos los proyectos fueron realizados en distintos períodos y
+        en distintas regiones, lo que invalidaría la hipótesis de que algún factor ajeno
+        contemporáneo ocurrido en el país pudiera ser el responsable de las mejoras
+        institucionales en esos organismos. Sin embargo, esto no es válido para el IGER, debido
+        a que solo se dispone de una medición, por lo que su atribución no puede ser justificada.
+2.2.11. Recapitulando, la evolución de los indicadores de resultado 1.1, 1.2 y 2.1 se consideran
+        atribuibles. No obstante, no contamos con los datos necesarios para probar que los
+        cambios en el indicador de resultado 2.2 sean atribuibles al programa.
+                                                  16
+"
+"                  d. Resultados imprevistos.
+2.2.12. Dentro de los resultados obtenidos que no figuraban en la declaración de objetivos o en
+         los documentos de diseño del proyecto, el más importante consistió en la adaptación y el
+         despliegue del e-SIDIF en la provincia de La Rioja 4.
+2.2.13. En febrero de 2014 el Gobierno de La Rioja manifestó al Gobierno Nacional su interés
+         por la implementación del e-SIDIF como soporte principal de su sistema de
+         administración financiera. El despliegue comenzó en el segundo trimestre de 2015, un
+         año después de haber llevado a cabo un profundo relevamiento para la realización de un
+         informe de diagnóstico y alcance funcional. Por lo que recién en 2016 fue el primer
+         ejercicio completo soportado por el sistema.
+2.2.14. Además del informe de diagnóstico previo, se llevó a cabo un análisis y evaluación de los
+         resultados alcanzados y mejoras obtenidas en la gestión pública de La Rioja como
+         consecuencia del despliegue del e-SIDIF 5. El resultado más concluyente identificado
+         tiene que ver con la reducción de tiempos en la gestión de los pagos por parte de la
+         Tesorería, que en el promedio global cayó en cuatro días y medio, una mejora de 33%
+         respecto a la situación previa al despliegue del e-SIDIF. También se relevaron indicios de
+         mejoras de eficiencia en otros procesos centrales, como la gestión de modificaciones
+         presupuestarias, la preparación de informes de responsabilidad fiscal y los cierres
+         mensuales, o el procesamiento de los pagos previo a la intervención de la Tesorería.
+2.2.15. Otros hallazgos incluyen la reducción en el número de órdenes extrapresupuestarias y la
+         presentación de la cuenta de inversión a la Legislatura en tiempo y forma prevista para el
+         ejercicio 2018, frente a un incumplimiento previo superior al año. También se pudo
+         verificar en publicaciones de terceros una mejora notable en el posicionamiento nacional
+         de La Rioja en los índices provinciales sintéticos que miden transparencia e información
+         fiscal, a partir de la implantación del e-SIDIF.
+2.2.16. Además, el estudio remarca que los resultados antes mencionados representan solo una
+         fracción de las mejoras promovidas por el e-SIDIF en la gestión financiera pública
+         provincial. Otras mejoras potenciales (la mayoría identificadas mediante entrevistas)
+         podrían verificarse en resultados concretos pasado un plazo más amplio, dependiendo
+         del ritmo de incorporación de nuevas funcionalidades y prácticas, y estarían relacionadas
+         con las ventajas propias de los sistemas integrados en general, y del e-SIDIF en
+         particular.
+2.2.17. En conclusión, para el análisis de efectividad se tomaron cuatro indicadores de
+         resultados, dos en cada uno de los objetivos de desarrollo. Los dos primeros dieron una
+         excelente puntuación, sin embargo, los dos del Componente 2 combinados dan como
+         resultado insatisfactorio debido al que el segundo y específicamente el referente al IGER
+         no se puede concluir que es atribuible a las actividades realizadas en el proyecto. En
+         consecuencia, la calificación final es de parcialmente insatisfactorio. (ver 2.2.6)
+4 La implementación del e-SIDIF, al ser parte del componente número uno, estaba prevista únicamente para la APN.
+5 Más información sobre la evaluación disponible en el estudio sobre “Evaluación preliminar de resultados del
+despliegue y puesta en funcionamiento del eSidif en la Provincia de La Rioja”.
+                                                         17
+"
+"                                              Tabla N° 2. Matriz de resultados logrados
+                                                                      Línea de Base
+                                                    Unidad de                                         Ratio de
+                    Resultado                                                              Metas                Medios de verificación
+                                                      medida                                           logro
+                                                                     Valor      Año
+ 1. Sistema público de gestión financiera y presupuestaria en las instituciones de la APN modernizado
+ N° de programas presupuestarios de la APN
+                                                                                       P      100
+ con presupuesto primario gestionado en base         Programas                                                      Informes anuales de
+                                                                       16       2012   P (a)  100       111%
+ a indicadores de resultado alineados con la      presupuestarios                                                    monitoreo de la SH
+                                                                                       A      111
+ programación presupuestaria
+                                                                                       P      100
+ Gasto primario de la APN administrado por el                                                                       Informes anuales de
+                                                 % gasto primario       8       2012   P (a)  100       100%
+ e-SIDIF transaccional                                                                                               monitoreo de la SH
+                                                                                       A      100
+ Sistema financiero público renovado                                                   P      1
+                                                                                                               Informe anual de monitoreo
+ (presupuesto, tesorería, contabilidad, deuda).       Systems           0       2015   P(a)   1         100%
+                                                                                                                          de la SH.
+ El sistema se llama e-SIDIF.                                                          A      1
+2. Gestión pública orientada a resultados en las entidades públicas y/o mixtas sub-nacionales fortalecida
+                                                                                                                    Informes anuales de
+                                                                                       P      0.40
+                                                                                                                seguimiento a la ejecución
+ Sub-índice de capacidad institucional del ICI        Puntaje         0.24      2012   P (a)  0.40       83%
+                                                                                                                y metas del Programa (ICI)
+                                                                                       A      0.38
+                                                                                                                 elaborados por la UCEN.
+ Atributo referido a las capacidades de gestión                                        P      0.15
+                                                                                                                  Informe de medición del
+ de políticas públicas orientadas a resultado a       Puntaje         0.09      2012   P (a)  0.15      100%
+                                                                                                                           IGER.
+ nivel sub-nacional (IGER)                                                             A      0.15
+                                                                      Línea de Base
+                                                    Unidad de                                        Ratio de
+                    Producto                                                              Metas                 Medios de verificación
+                                                      medida                                           logro
+                                                                     Valor      Año
+1. Fortalecimiento de la gestión presupuestaria y financiera gubernamental
+                                                                                       P      1
+                                                                                                               Informe anual de monitoreo
+ 1.1 Sistema e-SIDIF desplegado                       Sistema           0       2012   P (a)  1        100%
+                                                                                                               de la SH.
+                                                                                       A      1
+                                                                                                               Informes anuales de
+                                                                                       P      14
+           1,1,1 Datamarts para el sistema                                                                     monitoreo de la SH.
+                                                     Datamarts          0       2013   P (a)  47       102%
+           informático gerencial implementados                                                                 Documentación de
+                                                                                       A      48
+                                                                                                               pruebas.
+                                                                                       P      84
+ 1.2 Herramientas y soluciones informáticas de       Programas                                                 Informes anuales de
+                                                                       16       2012   P (a)  119       93%
+ PxR desarrolladas por los ORs implementadas      presupuestarios                                              monitoreo de la SH.
+                                                                                       A      111
+ 2. Fortalecimiento Institucional de la gestión pública sub-nacional
+                                                                                       P      40               Actas de inicio y de cierre
+ 2.1 Proyectos de Desarrollo de la Capacidad                                                                   firmadas.
+                                                     Proyectos          0       2012   P (a)  48       100%
+ Institucional implementados
+                                                                                       A      48
+           2.1.1 Talleres Nacionales de                                                P      10               Agenda de los talleres.
+           socialización e intercambio de             Talleres          0       2013   P (a)  10       110%    Listado de organismos
+           experiencias realizados                                                     A      11               beneficiarios participantes.
+                                                                                                               Documentos de diagnóstico
+                                                                                       P      13
+           2.1.2 Diagnósticos de GxR en                                                                        de situación de capacidades
+                                                    Diagnósticos        0       2015   P (a)  13       100%
+           organismos subnacionales                                                                            institucionales de la Gestión
+                                                                                       A      13
+                                                                                                               por Resultados.
+                                                                                       P      0                Informe anual de monitoreo
+                                                    Government                                                 de la SH.
+2.2 Provincias beneficiadas con el programa                             0       2015   P (a)  19       100%
+                                                      Agencies
+                                                                                       A      19
+                                                            Fuente: Convergencia - PMR
+                                                                        18
+"
+"                              Cuadro N° 2. Evaluación de la efectividad
+                        N° de indicadores   Promedio de
+                                                                   Clasificación              Valor
+                          de resultados       logro (%)
+                                                                   Parcialmente
+                                4                 95,8                                            2
+                                                                  insatisfactorio
+ 2.3   Eficiencia.
+2.3.1. El costo planeado del programa fue de US$45 millones, de los cuales US$36 millones
+       correspondían a financiamiento del BID y US$9 millones al aporte local. Sin embargo, el
+       costo final del proyecto fue de US$41.532.321,42, US$33.592.910,52 financiados por el
+       BID y US$7.939.410,90 por el gobierno local. Es decir, el gobierno aportó un 88,2% de lo
+       previsto, mientras que el Banco ejecutó el 93,3%. Todos estos datos pueden encontrarse
+       también en la Tabla N° 5 y en el Gráfico N° 1.
+2.3.2. Por otro lado, la distribución de los fondos entre los dos componentes del PROFIP II
+       coincidió bastante con la planificación original establecida. Tal y como podemos observar
+       en el Gráfico N° 2, los desembolsos se repartieron en partes similares entre ambos
+       componentes.
+2.3.3. En cuanto a la evaluación económica, debido a lo dificultoso de cuantificar en términos
+       monetarios los beneficios de este programa, se optó por la realización de Análisis de
+       Costo Efectividad/Eficiencia (ACE). El objetivo de esta técnica es contrastar con
+       intervenciones alternativas y determinar cuál logra los objetivos buscados al menor costo
+       posible, es decir, se mide cuál fue más eficiente en términos de la(s) otra(s). El análisis
+       ex ante se realizó también con la metodología ACE, debido en opinión de los evaluadores
+       no se podían cuantificar monetariamente los beneficios de la implementación del
+       programa. En ese caso se la realizó comparando los costos económicos incurridos el
+       PROFIP I con los costos a programados en el nuevo programa asignando los costos al
+       logro de los indicadores por componentes.
+2.3.4. En los casos en que las alternativas difieren en el volumen de beneficio que generan, es
+       posible utilizar como criterio de selección de alternativas el costo por beneficiario por
+       unidad de beneficio producida. Para ello, se calcula para cada alternativa el Valor
+       Presente (VP) de los costos y se divide por el volumen de beneficios a producir, medido
+       a través de una variable proxy de éstos, dando como resultado el costo por unidad de
+       beneficio (CE).
+                                             <U+0001D449><U+0001D449><U+0001D449><U+0001D449><U+0001D449><U+0001D449><U+0001D449><U+0001D449><U+0001D449><U+0001D449> <U+0001D45D><U+0001D45D><U+0001D45D><U+0001D45D><U+0001D45D><U+0001D45D><U+0001D45D><U+0001D45D><U+0001D45D><U+0001D45D><U+0001D45D><U+0001D45D><U+0001D45D><U+0001D45D><U+0001D45D><U+0001D45D> <U+0001D451><U+0001D451><U+0001D451><U+0001D451> <U+0001D459><U+0001D459><U+0001D459><U+0001D459><U+0001D459><U+0001D459> <U+0001D450><U+0001D450><U+0001D450><U+0001D450><U+0001D450><U+0001D450><U+0001D450><U+0001D450><U+0001D450><U+0001D450><U+0001D450><U+0001D450>
+                                    <U+0001D436><U+0001D436><U+0001D436><U+0001D436> =
+                                           <U+0001D448><U+0001D448><U+0001D448><U+0001D448><U+0001D448><U+0001D448><U+0001D448><U+0001D448><U+0001D448><U+0001D448><U+0001D448><U+0001D448> <U+0001D451><U+0001D451><U+0001D451><U+0001D451> <U+0001D45A><U+0001D45A><U+0001D45A><U+0001D45A><U+0001D45A><U+0001D45A><U+0001D45A><U+0001D45A><U+0001D45A><U+0001D45A><U+0001D45A><U+0001D45A> <U+0001D451><U+0001D451><U+0001D451><U+0001D451> <U+0001D44F><U+0001D44F><U+0001D44F><U+0001D44F><U+0001D44F><U+0001D44F><U+0001D44F><U+0001D44F><U+0001D44F><U+0001D44F><U+0001D44F><U+0001D44F><U+0001D44F><U+0001D44F><U+0001D44F><U+0001D44F><U+0001D44F><U+0001D44F>
+2.3.5. Para el ACE del primer objetivo específico, la variable proxy de los beneficios utilizada
+       fue el porcentaje del gasto de la APN gestionado en base a indicadores de resultado
+       alineados con la programación presupuestaria, vinculado directamente al indicador de
+       resultado número uno. La alternativa que se compara es la inversión realizada mediante
+       fondos del Tesoro Nacional para desarrollar los programas de PxR existentes con
+       anterioridad a PROFIP II.
+                                                        19
+"
+"                                              Tabla N° 3. ACE Componente 1
+                                                                                            (1)            (2)        (1) /(2)
+                                                                     Programas
+                               Concepto                                                VP Costos        Beneficio      Costo
+                                                                  PxR financiados
+                                                                                           (U$S)        (% APN)      1% APN
+       Tesoro Nacional 6                                                 16          $ 1.744.267            8       $ 218.033
+       PROFIP II                                                         95          $ 6.259.590           37       $ 169.178
+           Herramientas y soluciones informáticas de PxR                             $ 5.804.604
+           Costos administrativos proporcionales                                         $ 454.986
+                         Fuente: Elaboración propia en base a Convergencia - PMR y Secretaría de Hacienda
+   2.3.6. Según se observa en la Tabla N° 3, aumentar la participación de los programas con PxR
+             en un 1% costó un 23% menos en el PROFIP II respecto a la alternativa planteada, es
+             decir, el ratio entre ambos CE es de 77%.
+   2.3.7. En relación al segundo objetivo específico, la variable proxy de los beneficios escogida
+             fue el aumento porcentual promedio por proyecto del Sub-índice de capacidad
+             institucional del ICI. Mientras que la alternativa con la que se compara es la primera fase
+             del préstamo, es decir, el PROFIP I.
+                                              Tabla N° 4. ACE Componente 2
+                                                                 (1)                                (2)             (3)        (2)/(1)/(3)
+                                                              Proyectos    ICI-I   ICI-I        VP Costos       Variación      Costo 1%
+                        Concepto                                                                  (U$S)            ICI-I          ICI-I
+                                                                            LB    Cierre 7
+                                                                                                               (beneficio)
+PROFIP I                                                         45        0,25    0,34      $ 30.621.885         36,0%         $ 18.902
+PROFIP II                                                        48       0,284   0,385      $ 23.203.797         35,6%         $ 13.562
+ Proyectos de desarrollo de la capacidad Institucional                                       $ 21.449.551
+ Costos administrativos proporcionales                                                          $ 1.754.247
+                         Fuente: Elaboración propia en base a Convergencia - PMR y Secretaría de Hacienda
+   2.3.8. En la Tabla N° 4 puede observarse que el PROFIP II resultó más eficiente que el PROFIP
+             I en lograr un aumento del 1% del sub-índice de capacidad institucional del ICI para los
+             proyectos correspondientes. El ratio entre los CE del PROFIP II y PROFIP I asciende a
+             72%.
+   2.3.9. Entre ambos análisis ACE se logra demostrar que al menos el 52% de los desembolsos
+             del PROFIP II (participación de los productos involucrados) resultan más eficientes que
+             las alternativas planteadas, promediando un ratio CE de 74,7%.
+   6
+     El cálculo fue realizado en función de la dedicación de los agentes involucrados según lo conversado con el Director
+     de Evaluación Presupuestaria de la ONP.
+   7
+     El ICI de cierre fue calculado para una muestra de 17 proyectos. En el análisis económico ex ante del PROFIP II se
+     verifica la representatividad de la muestra y la no existencia de sesgo en la selección muestral a través de pruebas
+     de consistencia de la media y la varianza.
+                                                                20
+"
+"                                             Tabla N° 5. Costos del proyecto
+Componente 1: Fortalecimiento de la gestión presupuestaria y financiera gubernamental
+                                                                                        Costo revisado del componente   20.929.555
+                 Output                             2013          2014        2015        2016        2017        2018        EOP
+                                      P
+                                               7.775.869     3.221.607   2.245.324   1.887.085   1.624.560           0  16.754.446
+                                     P(a)
+1.1    Sistema e-SIDIF desplegado              7.775.869     6.198.000   3.940.095   2.211.829   4.028.001   2.885.644  16.621.836
+                                      A
+                                               1.825.167     5.032.753   3.220.287   1.787.873   1.870.112   2.770.902  16.507.094
+                                      P
+                                               1.264.963       996.614   1.191.215     492.316     300.446           0   4.245.554
+         Herramientas y soluciones
+            informáticas de PxR      P(a)
+1.2                                            1.264.963     1.188.000     737.851     779.830   1.006.821     397.277   4.440.490
+        desarrolladas por los 4 ORs
+               implementadas          A
+                                               1.563.423       874.773     607.399     251.238     746.380     379.247   4.422.460
+Componente 2: Fortalecimiento Institucional de la gestión pública sub-nacional
+                                                                                        Costo revisado del componente   17.229.220
+                 Output                             2013          2014        2015        2016        2017        2018        EOP
+                                      P        1.756.800     4.099.200   4.684.800   4.880.000   4.099.200           0  19.520.000
+       Proyectos de Desarrollo de la
+                                     P(a)
+2.1       Capacidad Institucional              1.756.800     4.099.200   6.951.779   4.092.705   3.408.179     339.653  17.228.248
+               implementados
+                                      A
+                                               1.665.000     3.031.800   7.067.476   2.302.416   2.821.903     340.625  17.229.220
+                                      P                0             0           0           0           0           0           0
+      Provincias beneficiadas con el P(a)
+2.2                                                    0             0           0            0           0           0          0
+                  programa
+                                      A
+                                                       0             0            0           0           0           0          0
+Administración, seguimiento y evaluación
+             Otros costos                           2013          2014        2015        2016        2017        2018        EOP
+                                      P
+                                                 601.800       708.000     743.400     743.400     743.400           0   3.540.000
+                                     P(a)
+        Unidad Coordinadora                      601.800       708.000     536.962     635.071     661.721     111.366   3.145.406
+                                      A          585.000       721.272     743.347     501.516     482.905     103.152   3.137.192
+                                      P
+                                                  41.344       203.000     235.000     235.000     225.656           0     940.000
+ Auditoría, Monitoreo y Evaluación e P(a)
+                                                  41.344        29.000     235.000      42.205      44.239     192.086     267.829
+              Imprevistos
+                                      A
+                                                        0             0      8.986      35.912      30.845     160.611     236.354
+Costo total
+                 Output                             2013          2014        2015        2016        2017        2018      Costo
+                                      P
+                                             11.440.777      9.228.421   9.099.739   8.237.801   6.993.262            0 45.000.000
+               Costo total           P(a)    11.440.777    12.222.200   12.401.687   7.761.640   9.148.961   3.926.026  41.703.809
+                                      A
+                                               5.638.590     9.660.598  11.647.495   4.878.955   5.952.145   3.754.538  41.532.321
+                      P = Programación inicial; P (a) = Meta Anual Revisada; A = Actual; * = Outputs dados de baja.
+                                                       Fuente: Convergencia - PMR
+                                                                    21
+"
+"                         Gráfico N° 1. Costos del proyecto (Millones de U$S)
+                                       45.0
+                                                                          Planeado
+                                                         36.0             Ejecutado
+                                       41.5
+                                                         33.6
+                                                                           9.0
+                                                                           7.9
+                                      Total             Banco          Contraparte
+                                               Fuente: Convergencia - PMR
+                  Gráfico N° 2. Distribución de desembolsos según componente
+                                                                                                 50.4%
+                                Componente 1
+                                                                                             46.7%
+                                                                                        41.5%
+                                Componente 2
+                                                                                          43.4%
+             Gastos administrativos, auditorías,           8.1%
+                evaluaciones e imprevistos                   10.0%
+                                                                                  Planeado    Ejecutado
+                                               Fuente: Convergencia - PMR
+2.3.10. Para complementar el análisis con relación al Componente 1 (producto 1.1) relacionado
+        al e-SIDIF que corresponde al 48% del presupuesto, se complementa el ACE con un
+        análisis de los excesos de costos y tiempo a partir de la información histórica disponible
+        en convergencia.
+2.3.11. Este análisis será abordado en dos etapas del ciclo de vida de la operación: 1) desde la
+        aprobación a la elegibilidad: la operación no es elegible para desembolsos pues se
+        encuentra abocada a dar cumplimiento a las condiciones previas establecidas en el
+        contrato de préstamo; 2) desde la elegibilidad hasta el 95% de los desembolsos.
+2.3.12. Durante la etapa 1 se utilizan dos indicadores de desempeño: a) días transcurridos desde
+        la aprobación hasta la efectividad legal; y, b) días transcurridos desde la efectividad legal
+        hasta la elegibilidad.
+                                                          22
+"
+"                         Tabla Nº 5 - Etapa 1: desde la aprobación a la elegibilidad.
+        Indicador         Valor del    Satisfactorio             Alerta            Problema      Clasificación
+                          proyecto                                                                AR-L1127
+  1. Días transcurridos      84      0= I = 171.50 días 171.50 < I = 237.25 días > 237.25 días SATISFACTORIO
+  desde la aprobación
+  hasta la efectividad
+  legal.
+  2. Días transcurridos     153      0= I = 169.00 días 169.00 < I = 219.50 días > 219.50 días SATISFACTORIO
+  desde la efectividad
+  legal     hasta     la
+  elegibilidad.
+2.3.13. Como se observa en la tabla anterior, el proyecto fue clasificado como satisfactorio en
+           ambos indicadores de desempeño durante la etapa 1 al transcurrir desde la aprobación
+           84 días hasta la efectividad legal y 153 días hasta la elegibilidad.
+2.3.14. Para medir el desempeño del proyecto en la etapa 2 (desde la elegibilidad hasta el 95%
+           de desembolsos) se utilizan cinco indicadores, a saber: (i) Desembolsos acumulados
+           comparado a la curva de desembolsos histórica del país; (ii) Índice de desempeño del
+           costo -CPI-; (iii) Índice de desempeño del cronograma -SPI-; (iv) Índice de desempeño
+           del costo anual –CPI (a)-; (v) Índice de desempeño del cronograma anual -SPI (a)-.
+2.3.15. El primer indicador, Desembolsos acumulados, mide el valor acumulado de desembolsos
+           del proyecto sobre el monto total del mismo y lo compara con la curva de desembolsos
+           histórica del Banco en Argentina durante los últimos 10 años según la fecha del reporte.
+           Como puede observarse en la Figura Nº 1, en 5 de los 6 años de ejecución de la
+           operación, el nivel de desembolsos estuvo por encima de la curva de desembolsos
+           histórica del Banco. La excepción se registró en el arranque de la implementación del
+           programa, acercándose el valor del indicador a la curva de alerta.
+                                                        23
+"
+"                                             Figura Nº 1
+2.3.16. Esta performance inicial por debajo de lo esperado respondió a las demoras registradas
+        en el comienzo de la operación, relacionadas con la complejidad técnica y de gestión de
+        adquisiciones para contribuir a alcanzar el principal producto del Componente 1 (sistema
+        e-SIDIF desplegado). Ello se evidencia en las diferencias que se observan en términos
+        de inversión financiera entre lo planificado y lo alcanzado.
+2.3.17. Los indicadores restantes son: (a) por un lado, el Índice de desempeño de costo (CPI) y
+        el Índice de desempeño del cronograma (SPI) que miden las desviaciones respecto del
+        start-up plan (elegibilidad más 60 días); (b) por otro, el Índice de desempeño de costo
+        anual -CPI (a)- y el Índice de desempeño del cronograma anual -SPI (a)- que miden los
+        desvíos anuales respecto de la replanificación realizada al inicio de cada año de
+        ejecución.
+2.3.18. En la siguiente tabla se presentan los valores históricos para estos cuatro indicadores:
+                                              Tabla Nº 6
+                       2013         2014        2015       2016       2017      2018
+             SPI          0.68         1.01         1.1       1.07       1.13     1.13
+             CPI          1.46         1.38        1.21       1.27       1.32      1.2
+             SPI(a)       0.68         0.99        1.02       1.03       1.01     0.99
+             CPI(a)       1.46         1.17        1.05       1.13         1.1    1.03
+2.3.19. Como se desprende de la Tabla Nº 6, salvo en el año 2013 - arranque de la operación-,
+        la mayor parte del período de ejecución del Programa registró valores satisfactorios en
+        los índices de desempeño de costo y de cronograma. Esta clasificación es acorde a los
+        esfuerzos realizados por el Programa para alcanzar las metas físicas establecidas,
+        evidenciándose desvíos mínimos. En términos de tiempo de implementación, la
+        operación sólo requirió de 10 meses adicionales para finalizar su ejecución.
+2.3.20. Se resume a continuación la clasificación del proyecto en los cinco indicadores de
+        desempeño relevados durante la etapa 2, de acuerdo a la información provista por
+        Convergencia:
+                                                 24
+"
+"                                                                  Tabla Nº 7
+                                                                         Período
+  Indicador             2013                2014                 2015                  2016             2017               2018
+                    1º        2º       1º          2º      1º          2º        1º          2º     1º        2º      1º         2º
+                  Sem        Sem      Sem         Sem     Sem         Sem       Sem         Sem    Sem       Sem    Sem         Sem
+  Desembolsos               Satisf. Satisf.      Satisf. Satisf.    Satisf.    Satisf.    Satisf. Satisf.  Satisf. Satisf.    Satisf.
+  acumulados
+  CPI            Probl.     Satisf. Satisf.      Satisf. Satisf.    Satisf.    Satisf.    Satisf. Satisf.  Satisf. Satisf.    Satisf.
+  CPI (a)        Probl.     Satisf. Satisf.      Satisf. Satisf.    Satisf.    Satisf.    Satisf. Alerta   Satisf. Satisf.    Satisf.
+  SPI (a)        Probl.     Alerta  Alerta       Satisf. Satisf.    Satisf.    Satisf.    Satisf. Alerta   Satisf. Satisf.    Satisf.
+  SPI (a)        Probl.     Alerta  Alerta       Satisf. Satisf.    Satisf.    Satisf.    Satisf. Alerta   Satisf. Satisf.    Satisf.
+  2.3.21. En líneas generales, el Programa mantuvo buenas calificaciones en los índices de
+            desempeño a lo largo de los años de su ejecución. Los desvíos se observan en el
+            arranque (recordar que la elegibilidad data del 28 de febrero de 2013) y en el primer
+            semestre de 2017 donde los índices de costo y cronograma evidencian un “alerta” como
+            consecuencia de la replanificación que generó el cambio de la administración de
+            gobierno en el país y el impacto que ello tuvo en la estructura presupuestaria central.
+  2.3.22. Tomando en cuenta ambos análisis tanto de ACE complementado para el Componente
+            1 (producto 1.1) con un análisis de excesos de costo y tiempo se concluye que el
+            programa fue en la dimensión de eficiencia satisfactorio. Los dos ACE son calificados
+            con 4 mientras que el producto 1.2 del Componente 1 es calificado con 2 basado en el
+            análisis de sobrecostos y sobretiempo. Dado que ambos análisis tienen el mismo peso
+            en el programa, 8 el promedio de la calificación es 3.
+                                      Cuadro N° 3. Evaluación de la eficiencia
+                                                Clasificación                            Valor
+                                                Satisfactorio                               3
+  2.4      Sostenibilidad.
+                   a. Aspectos generales de sostenibilidad.
+2.4.1. Esta sección realiza un análisis de sostenibilidad considerando las condiciones que
+           podrían influir en la continuidad de los resultados alcanzados y los riesgos a los que estos
+           se enfrentaron y enfrentarán, tanto internos como externos al proyecto.
+2.4.2. Respecto a la continuidad de los resultados obtenidos gracias al primer componente, el
+           porcentaje alcanzado del gasto primario de la APN administrado por el e-SIDIF no
+           presenta riesgos técnicos, políticos, financieros o económicos. Su imprescindible rol en
+           términos operativos hoy en día hace que, al menos a mediano plazo, el uso del e-SIDIF
+8
+   Como se en indica en P2.3.9, ambos análisis ACE (producto 1.2 del componente 1 y el
+componente 2) tienen un peso de 52% en términos de costos. De otro lado, el producto 1.1 del
+componente 1 tiene un peso de 48%. Los costos administrativos se han repartido
+proporcionalmente en el análisis de eficiencia.
+                                                                  25
+"
+"           sea prácticamente insustituible. Previamente, para reducir los riesgos de aceptación del
+           sistema, se incorporó en el Acta de Compromiso la obligación de los beneficiarios de
+           presentar un plan de acción para garantizar su uso.
+2.4.3. En cuanto a la cantidad de programas presupuestarios basados en indicadores de
+           resultados que se ha alcanzado, es decir, el segundo resultado del primer componente
+           del proyecto, la ONP (Oficina Nacional de Presupuesto) ha incorporado dentro de sus
+           metas físicas este indicador de la matriz de resultados del PROFIP II con fines de
+           monitorear su propio desempeño 9. Esto refleja la importancia y la prioridad que
+           representa para este OR. Además, vale destacar la jerarquización desde “Unidad” a
+           “Dirección” de la “Dirección de Evaluación Presupuestaria” por el incremento que
+           representa en cuanto a aportes propios que recibe de la SH, esto es un elemento clave a
+           la hora de mitigar riesgos financieros.
+2.4.4. Para analizar la sostenibilidad de los resultados alcanzados por el componente número
+           dos es necesario hacer una aclaración importante debido a que estos están directamente
+           relacionados a proyectos y políticas públicas de organismos sub-nacionales. Al tratarse
+           de mejoras estructurales en los proyectos beneficiarios, es muy probable que estos logren
+           mantener o incluso mejorar los puntajes alcanzados. Sin embargo, debido a que los
+           proyectos se encuentran repartidos en múltiples y diversas jurisdicciones, resulta
+           dificultoso predecir los riesgos en cuanto a las voluntades políticas o los recursos
+           presupuestarios necesarios para mantener el correcto funcionamiento de los proyectos.
+           Un punto a favor respecto a esta dificultad es que los proyectos beneficiarios fueron
+           postulados por decisión propia. Esto recalca, en cierto modo, un grado de compromiso y
+           voluntad de sostener los avances obtenidos. Por otro lado, la sostenibilidad puede verse
+           potenciada por el deseo de otras jurisdicciones y proyectos de imitar los resultados
+           logrados por los beneficiarios del programa. Además, el gobierno nacional ha solicitado
+           al Banco una nueva operación PROFIP III que reforzará estas capacidades institucionales
+           a nivel sub-nacional. Dado lo expuesto, se considera que el riesgo de que no se
+           institucionalicen las mejoras en capacidad es bajo.
+                    b. Salvaguardias ambientales y sociales.
+2.4.5. El programa se propuso contribuir al fortalecimiento del entorno institucional y la
+           consolidación tecnológica para el mejoramiento de la gestión financiera. De acuerdo con
+           la Política de Salvaguardia de Medio Ambiente (OP-703), la naturaleza de la presente
+           operación –fortalecimiento de capacidad institucional– no incluye ninguna actividad con
+           implicancias ambientales o sociales negativas. Por lo tanto, no se previeron impactos
+           directos negativos en el medio ambiente. Cabe mencionar que lo que sí estuvo previsto
+           fue la incorporación en los Criterios de Elegibilidad para que las provincias sean
+           beneficiarias de los recursos de asistencia del programa, una sección que consultase
+           acerca de la existencia de potenciales impactos en el medio ambiente producto de la
+           intervención.
+9 Estas metas pueden encontrarse en las planillas anexas del “Presupuesto Plurianual Del Sector Público Nacional
+  2019-2021”:
+  https://www.minhacienda.gob.ar/onp/documentos/presutexto/proy2019/plurianual/plurianual_2019_2021.pdf
+                                                      26
+"
+"2.4.6. Por otro lado, los avances en la utilización de formularios y documentos digitales (web-
+       SIDIF), así como el acceso de usuarios vía web al sistema de gestión financiera, redujo
+       el consumo de papel, con los consiguientes impactos positivos en el medio ambiente.
+2.4.7. El proyecto no presenta riesgos ambientales y sociales. Además, los resultados
+       asociados al objetivo específico uno son altamente sostenibles. En lo que respecta, a los
+       resultados asociados al objetivo específico presentan un riesgo menor de no ser
+       sostenible. Se considera que la probabilidad de que se materialice ese riesgo es pequeña,
+       sobre todo una vez que se firme el programa PROFIP III que profundizará la mejora en
+       las capacidades institucionales a nivel sub-nacional. Se concluye que la sostenibilidad del
+       programa es satisfactoria.
+2.4.8. Una vez revisados los aspectos generales de sostenibilidad que obtendría una calificación
+       de 3 y lo correspondiente a las salvaguardas ambientales y sociales que también
+       obtendría una calificación de satisfactoria se concluye que la sostenibilidad del programa
+       es satisfactoria.
+                            Cuadro N° 4. Evaluación de la sostenibilidad
+                                   Clasificación              Valor
+                                   Satisfactorio                3
+       III. CRITERIOS NO CENTRALES.
+3.1    Desempeño del Banco.
+3.1.1. La preparación del proyecto se basó principalmente en la experiencia realizada en la
+       operación inicial PROFIP I (1588/OC-AR) de la cual se rescataron varias lecciones
+       aprendidas principalmente relacionadas al mecanismo de implementación de las
+       actividades del proyecto en los gobiernos sub-nacionales, se formalizaron procedimientos
+       y usos que demostraron ser efectivos en el PROFIP I. Se valoró mucho la continuidad de
+       la participación del mismo equipo, pero de igual manera se plantearon medidas de
+       mitigación en el caso que se descontinuara la participación del mismo personal. Tal vez
+       la principal falencia que puede remarcarse es la elección del IGER como indicador de
+       resultado. Como se detalló en la sección de efectividad, la atribución de los resultados es
+       muy difícil de justificar.
+3.1.2. El Banco aportó su asistencia a lo largo de toda la implementación del proyecto, el apoyo
+       y seguimiento fue continuo, realizando numerosas visitas de supervisión a los proyectos
+       sub-nacionales y reuniones de seguimiento para el análisis, tratamiento y corrección de
+       desvíos y la mejora de la gestión. En lo que se refería a la compra de componentes
+       tecnológicos principalmente al Hardware, el Banco apoyó en la revisión de los TdRs de
+       los pliegos de especificaciones para que cumplieran con los más altos estándares
+       internacionales con un horizonte de obsolescencia mayor posible. Sin embargo, esto
+       complementaba principalmente el trabajo que el ejecutor realizaba en base a sus
+                                                27
+"
+"       mecanismos institucionales establecidos, lo cual garantizaba que la tecnología comprada
+       cumpla con los requisitos de la institución e internacionales.
+3.1.3. En lo que se refiere al IGER, se buscaron alternativas de medición mucho más adecuadas
+       de los resultados del Componente 2, y se documentaron varias de ellas en las visitas de
+       inspección, de lo cual se realizó una prueba con la modalidad de Costeo Estándar que
+       resultó efectiva y fue realizada en varios sub proyectos por parte de la UCEN.
+3.1.4. La mayoría de los riesgos en cuanto a la implementación, señalados al inicio del
+       programa, fueron atenuados de diferentes formas. Entre los más relevantes cabe
+       mencionar: (i) la deficiente coordinación interinstitucional, que podría haber retrasado la
+       implementación o evitado que se den los acuerdos necesarios para ejecutar algunas de
+       las actividades; y (ii) la permanencia del personal técnico necesario para que las
+       inversiones en materia tecnológica fueran sostenibles. El primer riesgo se mitigó con la
+       firma de instrumentos jurídicos administrativos, Actas Acuerdo. El segundo, mediante la
+       promoción de incentivos no monetarios (capacitaciones) y una escala salarial especial
+       para el personal informático.
+3.2    Desempeño del Prestatario.
+3.2.1. El PROFIP II fue ejecutado por la UCEN, quien estuvo encargada de la coordinación de
+       todas las actividades del Programa, incluyendo la realización de todas las adquisiciones,
+       contrataciones y pagos, y fue fortalecida con un equipo técnico especializado en GxR.
+       También estuvo encargada de llevar a cabo las actividades de monitoreo a través de la
+       elaboración y presentación al BID de doce informes semestrales a lo largo de la ejecución
+       del PROFIP.
+3.2.2. Cabe señalar también la forma en que se realizó el despliegue del e-SIDIF a través del
+       trabajo de más de un centenar de profesionales que fueron ajustando el sistema a medida
+       de las necesidades y requerimientos de cada programa que se incorporaba. Todo este
+       esquema fue producto del aprendizaje adquirido durante la ejecución del PROFIP I.
+3.2.3. La contraparte se encargó de ejecutar en tiempo y forma todos los productos previstos y
+       cumplió con todos los convenios, acuerdos y salvaguardias previstas del proyecto,
+       incluyendo la evaluación intermedia a partir del desembolso del 40% del préstamo.
+       Además, el gobierno participó activamente en cuanto a las adaptaciones de recursos
+       humanos necesarias. Lo único que podría señalarse para mejorar se relaciona con la
+       medición de todos los indicadores comprometidos desde el inicio.
+                                                28
+"
+"                                     Cuadro N° 5. Clasificación general del proyecto
+                               Criterios centrales                                      Criterios no centrales
+                                                                                                                              Total
+                                                                                   Desempeño         Desempeño
+     Relevancia             Eficacia           Eficiencia       Sostenibilidad
+                                                                                     del Banco          Ejecutor
+                                2                   3                  3
+           3                                                                                                              Parcialmente
+                          Parcialmente        Satisfactorio      Satisfactorio      Satisfactorio     Satisfactorio
+     Satisfactorio                                                                                                           exitoso
+                         insatisfactorio
+Los criterios de evaluación contemplan 6 grados de categorización en un rango de puntaje de 0.0 - 4.0, definidos como: (i) Altamente
+Exitoso (>=3,5); (ii) Exitoso (>=3,0); (iii) Parcialmente Exitoso (>=2,5); (iv) Parcialmente No Exitoso (>=2,0); (v) No exitoso (>=1,5);
+y Altamente No exitoso (<=1,5). Por otro lado, las categorías de los criterios centrales cuentan con 4 grados de clasificación,
+denominados y puntuados como: (i) Excelente (4 puntos); (ii) Satisfactorio (3 puntos); (iii) Parcialmente Insatisfactorio (2 puntos); y
+(iv) Insatisfactorio (1 punto). La clasificación total es el promedio ponderado del puntaje de las categorías de los criterios centrales,
+dentro del cual el peso de los distintos criterios es el siguiente: Relevancia: 20%; Efectividad, 40%; Eficiencia, 20%; y Sostenibilidad,
+20%. Los criterios no centrales no entran en el cálculo de la media total.
+            IV. Hallazgos y recomendaciones.
+4.1.1. Técnico Sectorial. La primera enseñanza que podemos extraer a partir de la realización
+            de este PCR es la dificultad que conlleva la utilización de indicadores de resultados del
+            Componente 2 conformados por índices ad-hoc. Principalmente, por el hecho de que es
+            realmente difícil considerar si tanto las metas establecidas como los cambios observados
+            son lo suficientemente relevantes en relación a la situación original. Pero, además,
+            dificulta la comparabilidad en cuanto a la eficacia entre programas ya que el índice existe,
+            o es medido, solamente para aquel programa que fue diseñado. La dificultad reside
+            básicamente en la naturaleza del proyecto, que es de fortalecimiento institucional. Por lo
+            cual se debiera definir y considerar de manera más profunda si estos indicadores más
+            bien debieran ser utilizados para la medición de impacto y no así como resultados.
+            Asimismo, en el caso específico del PROFIP, la variedad de las intervenciones y la
+            diversidad de instituciones a las que estaban dirigidos los proyectos y las capacitaciones
+            complejiza la tarea de identificar un indicador adecuado capaz de medir de manera
+            transversal los resultados de la operación.
+4.1.2. Si bien operación en se evalúa esta forma independiente a la predecesora PROFIP I, es
+            importante destacar que los logros alcanzados por esta se basan en la constante
+            aplicación de las medidas de política en la finanzas públicas aprobadas la Ley
+            Administración Financiera y de los Sistemas de Control del Sector Público Nacional Nº
+            24.156 del 1992 que regula la administración financiera y los sistemas de control interno
+            y externo del sector público nacional argentino, procurando generar criterios de eficiencia
+            en el uso de los recursos, y promoviendo el desarrollo de sistemas que proporcionen
+            información oportuna y confiable. La primera operación tenía un contenido muy parecido
+            a esta, y apoyaba justamente la implementación de este marco legal. El hallazgo
+            destacable es que los proyectos basados en políticas que trascienden las
+            administraciones pueden ser ejecutados de manera más eficiente, y lograr los resultados
+            propuestos.
+4.1.3. El uso de los indicadores ICI e IGER mostró las dificultades de poder medir los resultados
+            logrados además del avance intermedio de cada uno de los componentes, especialmente
+            en el Componente 2. Paralelamente entre los resultados no esperados se constató que
+                                                                      29
+"
+"       el uso de metodologías más generales, aunque más difícil de calcular, como es el costeo
+       estándar, podrían ser más adecuadas para medir el progreso y los resultados finales. Se
+       estableció que para proyectos futuros se analice el costeo estándar como metodología
+       como indicador de resultados, con la ventaja de que es una metodología difundida
+       internacional y que además cumpliría con criterios de ACB.
+4.1.4. Organización Gestión. La eficiencia de la Unidad Ejecutora fue clave en el desempeño
+       del Programa y la consecución de los resultados y los productos planteados; pudo
+       coordinar un número importante de organismos a través de la implementación de una
+       modalidad efectiva de ejecución.
+4.1.5. Gestión Fiduciaria y Riesgos. El riesgo financiero asociado al tipo de cambio es algo
+       con lo que habitualmente se enfrentan los programas desarrollados en Argentina. Sin
+       embargo, el PROFIP II no fue perjudicado por este aspecto e incluso pudo utilizar a su
+       favor las oscilaciones cambiarias al ver reducidos sus costos. Esto se debió
+       principalmente a que la mayor parte de la inversión real (hardware, valuado generalmente
+       en dólares) se realizó con anterioridad a la importante depreciación sufrida por el peso
+       durante el desarrollo del Programa, la cual, a su vez, abarató los desembolsos
+       relacionados a capital humano. No obstante, esta situación particular del PROFIP II, el
+       impacto del riesgo cambiario debe ser tenido en cuenta en todas las operaciones.
+4.1.6. La construcción de sistemas de información es una tarea que requiere una planificación
+       y ejecución minuciosa, en este caso el beneficiario escogió de hacerlo en forma dentro
+       de la institución con la contratación de un número grande de consultores individuales. Si
+       bien usualmente no aconsejamos esta metodología, en este caso ha probado ser
+       adecuada, sin embargo, puede ser utilizada solamente cuando existe una capacidad
+       institucional adecuada para la supervisión y control de calidad de los productos. Para el
+       diseño de programas con similares productos (soluciones a medida) se recomienda
+       formarse un criterio claro sobre la capacidad técnica del equipo de contraparte para
+       asumir la responsabilidad de: ya sea supervisar el trabajo de consultores individuales, ó
+       realizar el control de calidad de los productos que una empresa. No es un reto para las
+       políticas de adquisiciones, dado que la adquisición en ambas modalidades es permitida,
+       sino de nivel operativo técnico.
+                                                30
+"
+"   V. ANEXOS.
+                               Tabla N° 9. Composición del ICI
+Sub-índice A. Capacidad Institucional
+           Atributo                                       Sub-Atributo
+                                   A.1.1 Organigrama
+                                   A.1.2 Áreas vinculadas a la actividad productiva
+                                   A.1.3 Misiones y funciones
+             A.1
+ Estructura Organizacional         A.1.4 Manuales de procedimientos
+                                         Reestructuración de sectores u organismos existentes
+                                   A.1.5
+                                         relacionados con las actividades productivas
+                                   A.1.6 Descentralización administrativa
+             A.2                   A.2.7 Planes Estratégicos
+Desarrollo y/o Planificación       A.2.8 Proyectos y/o Programas de I+D
+                                         Organización y cumplimiento de los roles de regulación y
+                                   A.3.1
+                                         fiscalización
+             A.3                         Apoyos y promoción a los sectores productivos-
+                                   A.3.2
+  Regulación y apoyo a los               exportación, etc.
+    sectores productivos           A.3.3 Marcos regulatorios (legislación, reglamentación, etc.)
+                                   A.3.4 Circuitos y procedimientos administrativos
+             A.4                   A.4.1 Presupuesto vigente
+        Presupuesto                A.4.2 Ejecuciones presupuestarias: últimas dos
+             A.5                   A.5.1 Hardware
+         Informática               A.5.2 Software
+                                   A.5.3 Conectividad
+                                   A.6.1 Sistemas de información de gestión interna
+             A.6
+                                   A.6.2 Sistemas de información productiva
+  Sistemas de información
+                                   A.6.3 Sistemas de información estadística
+                                         Aplicación de normas nacionales, provinciales y
+             A.7                   A.7.1
+                                         municipales
+      Medio Ambiente
+                                   A.7.2 Fiscalización ambiental
+                                         Correspondencia formación / profesionalización RRHH y
+                                   A.8.1
+             A.8                         gestión del Organismo
+        Capacitación               A.8.2 Planes de capacitación
+                                   A.8.3 Nivel de manejo de herramientas
+                                   A.9.1 Planes de comunicación e imagen institucional
+             A.9
+                                   A.9.2 Material de difusión para el circuito interno y externo
+  Difusión y comunicación
+                                   A.9.3 Circuitos de divulgación
+                                                31
+"
+"Sub-índice B. Desarrollo Productivo Regional
+B.1
+Relaciones con sectores productivos
+B.2
+Relaciones productivas con provincias limítrofes
+B.3
+Relaciones con municipios
+    Fuente: “Índice de capacidad institucional. Aspectos metodológicos e implementación N°1”. Ministerio de
+    Economía y Finanzas Públicas de la Nación Secretaría de Hacienda
+                                                    32
+"

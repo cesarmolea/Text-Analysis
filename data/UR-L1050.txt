@@ -1,0 +1,1700 @@
+"outlist[[i]]"
+"Calificaciones del desempeño del proyecto en los PMR:
+                                                                                                 Desembolsos
+No.                  PMR Fecha                   Etapa de PMR                                   reales (millones
+                                                                                                    de USD)
+   1    2do Período Ene – Dic 2010                      N.A.          SATISFACTORIO                               -
+   2    2do Período Ene – Dic 2011                      N.A.          SATISFACTORIO                         11,91
+   3    2do Período Ene – Dic 2012                      N.A.          SATISFACTORIO                  9,20 (21,11)
+   4    2do Período Ene – Dic 2013                      N.A.          SATISFACTORIO                  8,84 (29,95)
+   5    2do Período Ene – Dic 2014                      N.A.          SATISFACTORIO                  7,60 (37,55)
+   6    2do Período Ene – Dic 2015                      N.A.          SATISFACTORIO                  5,97 (43,52)
+   7    2do Período Ene – Dic 2016                      N.A.          SATISFACTORIO                  4,18 (47,70)
+   8    2do Período Ene – Dic 2017                      N.A.          SATISFACTORIO                  0,29 (47,99)
+   9    2do Período Ene – Dic 2018                      N.A.          SATISFACTORIO
+Metodología de análisis económico ex post: Se realizó una evaluación costo beneficio
+Metodología de evaluación ex post: Reflexiva
+Clasificación de Efectividad de Desarrollo: Parcialmente insatisfactorio
+PERSONAL DEL BANCO
+  Posiciones                             en PCR                                En la aprobación
+  Vicepresidente VPS                     Ana María Rodríguez                   Santiago Levy
+  Vicepresidente VPC                     Alexandre Rosa                        Otaviano Canuto
+  Gerente de país                        José Luis Lupo                        Carlos Hurtado
+  Gerente Sectorial                      Marcelo Cabrol                        Kei Kawabata
+  Jefe de División                       Emiliana Vegas                        Marcelo Cabrol
+  Representante de país                  Morgan Doyle                          Tracy Betts
+  Jede de equipo del proyecto            Marcelo Pérez Alfaro                  Jaime Vargas
+  Jefe de equipo del PCR                 Marcelo Pérez Alfaro
+Tiempo y costo del personal
+                                                                               USD (incluidos los gastos de viaje
+  Ciclo de proyecto de etapa             # de semanas de personal
+                                                                               y asesoría)
+  Preparación                            15,5                                  100.590
+  Supervisión                            45                                    199.826
+  Total                                  60,5                                  300.416
+DECLARACIÓN DE LOS OBJETIVOS DE DESARROLLO DEL PROYECTO / PROGRAMA: El objetivo general del Programa es
+contribuir a la política de acceso y retención en la educación media básica general y técnico profesional. Los
+objetivos específicos son: (i) mejorar el desempeño y la formación docente a través del apoyo a la política de
+retención y profesionalización de la formación en educación; (ii) mejorar la retención en la educación media
+básica general y técnico profesional; (iii) aumentar el acceso en la educación media básica general y técnico
+profesional; y (iv) mejorar los procesos de gestión del sistema educativo.
+                                                                                                   Página 5 de 39
+"
+"I.       INTRODUCCIÓN
+     El Programa de Apoyo a la Educación Media y la Formación en Educación - PAEMFE (UR L1050; 2480/OC-UR),
+     fue aprobado en diciembre de 2010 y declarado elegible el 28 de abril del 2011. El objetivo general del programa fué
+     contribuir a la política de acceso y retención en la educación media básica (EMB) general y técnico profesional. Los
+     objetivos específicos fueron: (1) mejorar el desempeño y la formación docente a través del apoyo a la política de
+     retención y profesionalización de la formación en educación; (2) mejorar la retención en la EMB general y técnico
+     profesional; (3) aumentar el acceso en la EMB general y técnico profesional; y (4) mejorar los procesos de gestión
+     del sistema educativo. El programa cerró el 28 de junio de 2018.
+     En Uruguay, la educación es responsabilidad principal de dos instituciones: (i) el Ministerio de Educación y Cultura
+     (MEC), en calidad de coordinador de las políticas educativas; y (ii) la Administración Nacional de Educación Pública
+     (ANEP), ente autónomo con personería jurídica propia, responsable de la planificación, gestión y administración del
+     sistema educativo público en sus niveles de educación inicial, primaria, media, técnica y de la formación en
+     educación, y de la regulación de la educación privada. La ANEP está dirigida por un órgano rector, el Consejo
+     Directivo Central (CODICEN), que orienta la gestión de los niveles educativos organizados en cuatro Consejos
+     desconcentrados, el de Educación: Inicial y Primaria (CEIP); el de Educación Secundaria (CES); el de la Educación
+     Técnico Profesional (CETP) que incluye la educación terciaria técnica (tecnicaturas); y el de Formación en Educación
+     (CFE).
+     Uruguay había estado históricamente a la vanguardia de la región en términos de políticas sociales en general, y de
+     logros educativos en particular, habiendo sido en la segunda mitad del siglo pasado uno de los primeros países en
+     Latinoamérica en alcanzar la universalización del acceso y del egreso de la educación primaria, siendo el país de la
+     región de menor brecha con los países de la OCDE en las primeras pruebas del Program for International Student
+     Assessment (PISA, 2003). No obstante, el buen desempeño relativo en ese momento, Uruguay ya mostraba en PISA
+     2003 importantes brechas socioeconómicas de aprendizaje. En las últimas décadas, y como consecuencia del
+     incremento de las expectativas de escolarización reflejadas en la obligatoriedad de 12 años de educación obligatoria
+     definidas en la Ley General de Educación de 2008, el país se ha venido enfrentando, al igual que varios otros países
+     de la región, a los fuertes desafíos asociados a alcanzar la universalización del acceso, y el incremento del egreso
+     de la educación media.
+     A la par de los desafíos de acceso y egreso, vienen también los de aprendizaje y de continuidad de trayectorias. En
+     este camino, Uruguay ha mantenido, pero sin mejoras, los puntajes del país en las pruebas internacionales de PISA1,
+     y también se han mantenido y/o incrementado las brechas de equidad internas entre quintiles de ingresos. Así, por
+     ejemplo, para 2003, 2006, 2009, 2012, en el caso de matemática los puntajes variaron entre 422, 427, 427 y 409
+     respectivamente, los de lectura entre 434, 413, 427 y 416, y los de ciencias que empezaron en la serie de 2006
+     fluctuaron entre 428, 427 y 416. Los desempeños continuaban asociados al contexto sociocultural de estudiante.
+     Para el caso de lectura (2009), en contextos muy desfavorables, el 90,3% de los estudiantes alcanzó nivel 2 o
+     menos2, mientras que en los muy favorables un 28% de los estudiantes alcanzaron ese nivel. La brecha con relación
+     a otros países de la región ha aumentado tanto en aprobación como en aprendizajes. La población de 18 a 20 años
+     que aprobó 12 años de educación formal es de 30.8% para Uruguay, debajo de Paraguay (48.8%), Argentina
+     (55.7%), y Perú (81%)”3. En relación con los aprendizajes Uruguay mostró deterioro en los resultados comparados
+     de PISA entre 2003 y 20124. Mientras que América Latina incrementó el puntaje promedio en las pruebas de 388 en
+     2003 a 397 en 2012, Uruguay bajó su promedio de 422 a 409.
+     En este proceso se han venido implementando en las últimas décadas políticas y programas orientados al
+     fortalecimiento y adecuación de la oferta educativa, a partir de la mejora de aspectos tales como currículo, equipos
+     docentes e infraestructura, así como también a impulsar la demanda de educación media por parte de los jóvenes
+     con dificultades de acceso y retención en el sistema educativo. El Banco apoyó este proceso desde 1996, con la
+     aprobación de una serie de programas en los que el objetivo de mejorar el acceso, equidad y calidad de la EMB y
+     formación docente han sido una constante (UR0107 de 1996 a 2003, UR0132 MEMFOD de 2001 a 2011, UR-L1050
+     PAEMFE de 2010 en adelante, y el recientemente aprobado el UR-L1116 a partir de 2017). Este apoyo sostenido
+     ha permitido acompañar los desafíos del país asociados a las expectativas legales en términos de culminación de
+     ciclos y de mejora de los niveles de aprendizaje. Los montos de las operaciones han sido bajos con relación a los
+     presupuestos asignados al sistema y se concentraron en las necesidades de ampliación y mejora de infraestructura
+     escolar, mediante la construcción y refacción de centros educativos en todos los niveles de educación media y
+     técnica. A su vez, las operaciones con el Banco promovieron innovaciones y mejoras en áreas de relevancia
+     estratégica como son la inclusión educativa, los sistemas de información tanto escolares como de gestión, los
+     sistemas de monitoreo y evaluación, entre otros, apalancando procesos de largo aliento.
+     Al momento de diseñarse la operación, el país aún enfrentaba importantes desafíos para alcanzar la universalización
+     de la educación media esperada por ley, siendo que la tasa neta de matrícula entre jóvenes de 12 a 14 años era de
+     67,8% y la de jóvenes entre 15 y 17 años de apenas 38,8%5. Los niveles de escolarización mostraban un fuerte
+     sesgo socioeconómico, que sostiene la evidencia preexistente de que la desafiliación educativa afecta más a los
+     estudiantes de los hogares más pobres. Las tasas de egreso del ciclo básico entre los jóvenes pertenecientes al
+     quintil más rico de la población eran 2,3 veces mayores que las observadas en el quintil de menores ingresos (94,9%
+     vs 41,4%). En el segundo ciclo la brecha era aún más acentuada, siendo los egresos en el quintil de mayores
+     ingresos casi diez veces mayores que los registrados en el quintil más pobre (70% vs 8%). Es por ello, que las
+1
+   Ver Uruguay en PISA 2012, ANEP (Dic 2013). Cuadro “Evolución de los puntajes promedio de Uruguay                    en
+   Matemática, Ciencias y Lectura en los ciclos de PISA 2003, 2006, 2009 y 2012”, página 21.
+2
+   Las evaluaciones PISA utilizan una escala del 1 al 6, donde 6 es el más alto.
+3
+   BID CIMA. Tasa de terminación en secundaria, 2017
+4
+   Boletín del Programa PISA Uruguay – 2015 (ANEP, 2015)
+5
+   Observatorio de la Educación de la ANEP utilizando datos de 2008. http://www.anep.edu.uy/observatorio/.
+                                                                                                         Página 6 de 39
+"
+"prioridades educativas del país se siguieron concentrando en las mejoras de cobertura, culminación y calidad de la
+EMB y Educación Media Superior (EMS).
+El programa estuvo expuesto a cambios programáticos que implicaron adaptaciones en la magnitud y temporalidad
+de algunos productos según el siguiente detalle:
+Liceos abiertos: Dejó de implementarse a partir del año 2012.
+7°-9°rural: Dejó de estar bajo la órbita de PAEMFE, y pasó a la Dirección Sectorial de Planificación Educativa de
+CODICEN en 2013.
+Interfase: Dejó de implementarse a partir del año 2014.
+A pesar de esto, la lógica vertical del programa se mantuvo. El programa cumplió exitosamente con el objetivo 3 de
+aumentar el acceso en la EMB general y técnico profesional. Sin embargo, estos cambios limitaron la posibilidad de
+determinar los impactos sobre los objetivos 1 y 2. Finalmente, el programa logró avances importantes en la gestión
+del sistema educativo asociado al objetivo 4, a pesar de que fue optimista en la magnitud de las metas que propuso
+para este objetivo.
+                                                                                                  Página 7 de 39
+"
+"II.          CRITERIOS CENTRALES. RENDIMIENTO DEL PROYECTO
+1.           Relevancia
+   2.1 El Programa se alineó a las necesidades y prioridades de desarrollo del país y a la Estrategia País del Banco al
+         momento del diseño. Posee una lógica vertical sólida que plantea respuestas pertinentes a los problemas
+         identificados.
+   2.2 De acuerdo con la evaluación final externa6, el programa PAEMFE constituye una intervención pertinente a la luz del
+         diagnóstico de partida del sistema educativo y se inserta dentro de los lineamientos estratégicos definidos por ANEP
+         para el período 2010 – 2014, contribuyendo especialmente a los vinculados con el impulso a la calidad, a las políticas
+         de integración académica, y al fomento del protagonismo de los centros educativos.
+                   a. Alineación con las necesidades de desarrollo del país
+   2.3 El Programa se alineó en sus primeros tres objetivos con las prioridades del país, tendientes a impulsar la equidad
+         y la mejora en la calidad educativa, y a elevar los niveles de cobertura, retención y egreso, tal como se expresa en
+         las líneas de política priorizadas en la Ley de Presupuesto quinquenal 2010-2014 (Ley 18.719)7. De acuerdo con
+         este documento, el sistema enfrentaba una serie de desafíos de acceso y retención en la EMB, tal como describe el
+         Anexo 1.
+   2.4    El Programa también fue consistente con la Estrategia de País 2010-2015 (GN-2626), vigente durante su aprobación
+         y elegibilidad en 2011, y se alineaba a los objetivos en el área de la educación de: i) aumento en la cobertura para
+         12 y 14 años y mejora de la calidad alineado directamente a los objetivos 1 y 3; y ii) aumento de cobertura de la
+         educación media y reducción de la deserción, focalizando en jóvenes de 15 a 17 años de poblaciones vulnerables,
+         con énfasis en población afro-descendente alineado en especial a los objetivos 2 y 3. Asimismo, durante su ejecución
+         entre los años 2016 -2017 se alineó a la nueva Estrategia de País 2016-2020 (GN-2836), contribuyendo mediante
+         los objetivos de programa 1 y 2 al objetivo de la estrategia de aumentar la tasa de graduación de educación media
+         y mejorar la calidad de la educación.
+   2.5 En ambos períodos, las prioridades de la Estrategia País surgieron principalmente de constatar que, Uruguay, al
+         igual que otros países de la región, presentaba grandes desafíos para abordar algunas brechas que podrían limitar
+         su crecimiento en el mediano y largo plazo, entre ellas, la insuficiente e inadecuada provisión de capital humano.
+         Esta podría ser una de las limitantes más importantes para el crecimiento económico, especialmente en la medida
+         que las exportaciones se tornan más intensivas en mano de obra especializada.
+   2.6 Uruguay presentaba déficits de calidad, pertinencia y equidad en el acceso a la educación secundaria y técnico-
+         profesional donde más del 60% de los jóvenes de 21 años no había completado la educación media, y se
+         evidenciaban déficits de habilidades y destrezas en la fuerza laboral. De acuerdo con los resultados de PISA de
+         2009, el porcentaje de estudiantes uruguayos que alcanzó nivel 3 o superior solo alcanzó al 27,2% para Matemáticas,
+         28,6% para Ciencias y 43,6% para Lectura8.
+   2.7 En respuesta a estas problemáticas, el Programa potenció acciones que se habían iniciado en el marco del
+         \"Programa de Modernización de la Educación Media y la Formación Docente (MEMFOD; UR-L0132)\", cuya
+         evaluación mostró la importancia de continuar fortaleciendo las capacidades gerenciales de la ANEP y de diseñar
+         evaluaciones rigurosas de las principales acciones como un aporte a las discusiones de política educativa.
+                   b. Alineación estratégica
+   2.8 Los objetivos generales son consistentes con los objetivos estratégicos del Banco. Se alinean con las prioridades
+         del Noveno Aumento General de Recursos del BID (AB-2764) (GCI-9). En particular, los indicadores son consistentes
+         con: (i) una política social favorable a la igualdad y a la productividad ya que, por un lado, de acuerdo con la literatura,
+         las inversiones en infraestructura física educativa que generan mayores cupos en las zonas más vulnerables 9 y por
+         otro lado, las mejoras en desempeño y formación docente, así como de retención educativa y mejora de calidad de
+         la gestión de los sistemas educativos10, contribuyen a la reducción de la brecha de desigualdad entre los estudiantes
+         más vulnerables y más favorecidos. La operación también es consistente con la Actualización de la Estrategia
+         Institucional 2010 2020 (AB 3008) y se alinea estratégicamente con el desafío de desarrollo de reducir la exclusión
+         social y la desigualdad, dado que tiene por objetivo mejorar la calidad de la educación pública, a la cual asisten
+         alumnos provenientes de hogares de menores ingresos, mejorando sus oportunidades educativas. Adicionalmente,
+         el programa contribuyó al Marco de Resultados Corporativos 2016-2019 (GN 2727-4) con relación al número de
+         estudiantes beneficiados por proyectos de educación. Tanto la Estrategia de País vigente cuando se aprobó el
+         Programa como la del período siguiente establecían como Objetivo de Desarrollo para el sector educación fortalecer
+         la retención y la cobertura en la educación media. En dicho sentido, los objetivos de mediano y largo plazo de esta
+         operación estuvieron abocados a mejorar el desempeño docente a través de apoyar la política de promoción y
+         profesionalización de la formación en educación (objetivo 1); mejorar la retención en la EMB general y técnico-
+6
+       Evaluación final del Programa de Apoyo a la Educación Media y Técnica y a la Formación en Educación, CPA Ferrere,
+       octubre 2016.
+7
+       Presupuesto Nacional 2010-2014, y Tomo I: Exposición de motivos y articulado. ANEP.CODICEN 2010-2014
+8
+       Informe Ejecutivo Uruguay en PISA 2009. ANEP (diciembre 2010)
+9
+       Duarte, Jesús, Jaureguiberry, Florencia y Racimo, Mariana, BID y OREAL/UNESCO, 2017. “Suficiencia, equidad y
+       efectividad de la infraestructura escolar en América Latina según el TERCE”
+10
+       Marco Sectorial de Educación y Desarrollo Infantil Temprano (GN-2708-3).
+                                                                                                                 Página 8 de 39
+"
+"           profesional (objetivo 2); aumentar el acceso en la EMB general y técnico-profesional (objetivo 3); y mejorar los
+           procesos de gestión del sistema educativo (objetivo 4).
+      2.9 De los tres grupos de factores identificados en el Marco sectorial del BID11 que inciden en el aprendizaje y la
+           adquisición de habilidades: (i) factores por el lado del estudiante, su hogar y su entorno; (ii) factores por el lado de
+           la escuela; y (iii) factores por el lado del sistema educativo (Vegas y Petrow, 2008), la lógica vertical de este programa
+           se focalizaba en atender los factores del lado de la escuela. Dentro de los factores por el lado de la escuela la
+           evidencia considera como algunos factores: los docentes, directivos, materiales educativos y los recursos físicos
+           (infraestructura escolar y mobiliario).
+                     c. Relevancia del diseño
+      2.10 El objetivo general del Programa de Apoyo a la Educación Media y Formación en Educación (PAEMFE) fue
+           “contribuir a la política de acceso y retención en la EMB general y técnico profesional”. La lógica vertical del
+           Programa establecía además cuatro objetivos específicos relacionados unívocamente con cada uno de los
+           componentes. Se considera oportuno analizar la efectividad de cada componente en particular en relación con su
+           correspondiente objetivo como lo muestra el cuadro 1:
+                                              Cuadro 1 – Lógica Vertical del Programa
+Componente                                          Objetivo al que está asociado:
+Fortalecimiento de la formación en                  Mejorar el desempeño y la formación docente a través del apoyo a la política
+educación                                           de retención y profesionalización de la formación en educación;
+Apoyo a la mejora de la Educación
+                                                    Mejorar la retención en la EMB general y técnico profesional;
+Media
+Mejora de la infraestructura educativa              Aumentar el acceso en la EMB general y técnico profesional;
+Implementación de la política educativa             Mejorar los procesos de gestión del sistema educativo.
+      2.11 La lógica vertical del Programa se diseñó con objetivos paralelos. En el diseño, el objetivo 3 citaba evidencia
+           existente de que es necesaria la inversión en infraestructura para generar ambientes propicios para el aprendizaje y
+           el desarrollo de habilidades, y de que en los países en vías de desarrollo, la inversión en generar condiciones edilicias
+           mínimas para la enseñanza y dotar las escuelas con equipamiento tiene un efecto sobre el desempeño estudiantil
+           (Barros, R. P., Mendonça, Santos y Quintaes, 2001; Baker, Goesling, y LeTendre, 2002; Heynemann y Loxley, 1983).
+           Pero la evidencia también indicaba que no es suficiente contar con infraestructura adecuada, sino que es necesario
+           -tal como el propio Marco Sectorial del Banco lo expresa-, la mejora de la formación inicial y el desarrollo profesional
+           docente (objetivo 1), entre otras cosas. Los otros objetivos 2 y 4 se diseñaron de forma independiente. El Anexo 2
+           detalla la lógica vertical por componente.
+      2.12 El programa adoptó soluciones apropiadas para los problemas identificados. No hubo cambios en el diseño del
+           proyecto. Sin embargo, hubo ajustes en la magnitud y temporalidad en que algunos subcomponentes se
+           implementaron. En ese sentido, la lógica vertical del Programa, en términos de consistencia interna, se considera
+           apropiada en la medida que las acciones definidas para cada componente están relacionadas unívocamente con
+           cada uno de los objetivos específicos, y estos últimos están alineados con el objetivo general.
+      2.13 Los objetivos correctamente se enfocaron en resultados y no en productos. El desempeño docente asociado a
+           objetivo 1 y la retención de los estudiantes asociado al objetivo 2 estaban fuera del control de la agencia ejecutora.
+           A su vez, son dimensiones importantes para asegurar una provisión de educación de calidad. El objetivo 3 sobre
+           acceso se define adecuadamente ya que el acceso depende también de insumos que proporcionan los hogares
+           (como decisiones de vivienda). Sin embargo, los indicadores se enfocaron en cupos y aulas. Estos indicadores
+           reflejan avances en productos. En este sentido, el diseño pudo haber incorporado indicadores de cobertura o tamaño
+           de clase para proveer información más asociada a resultados. El objetivo 4 se enfoca en capacidades de los
+           funcionarios del sistema educativo. Estas capacidades se influyen por múltiples factores fuera de la capacidad de la
+           agencia ejecutora. En ese sentido, los indicadores asociados a tiempos en procesos, trazabilidad y legajos
+           automatizados se enfocan en resultados y no en productos. Los ajustes en la magnitud y temporalidad en la
+           implementación en los subcomponentes no demandaron cambios en los objetivos de las intervenciones
+           implementadas. La tabla 1 lista los indicadores de resultado listados al momento de aprobación, durante la
+           elegibilidad más 60 días y al cierre de la operación. El anexo 3 lista los cambios a la matriz de resultados.
+   11
+         BID 2016. Marco sectorial de educación y desarrollo infantil temprano. Párrafos 2.25 y ss.
+                                                                                                                     Página 9 de 39
+"
+"    Tabla 1. Matriz de resultados (aprobación @, 60 días después de alcanzar la elegibilidad y @ exit)
+                                                          En aprobación                        En elegibilidad + 60 días                 Al terminar el proyecto (PCR)
+Indicadores                                               Unidad                                                                         Unidad                          Comentarios
+                                                                     Línea de                  Unidad de       Línea de                               Línea de
+                                                          de                     Meta (P)                                   Meta (P)     de                        (A)
+                                                                     Base                      Medida          Base                                   Base
+                                                          Medida                                                                         Medida
+Objetivo #1: Mejorar el desempeño y la formación docente a través del apoyo a la política de retención y profesionalización de la formación en educación
+1.1 Docentes en el nivel medio que no cuenta con
+                                                          %          23%         18,4%         %               23%          18,4%        %            23%          20,8%
+título habilitante.
+                                                                                                                                                                         Indicador eliminado en Taller
+1.2 Desempeño de docentes del ciclo básico titulados
+                                                          S/D        S/D         +7%           --              --           ---          --           --           --    de Arranque (6.2011), con
+en comparación con docentes no titulados.
+                                                                                                                                                                         registro en ayuda memoria
+                                                                                                                                                                         Medio de verificación no
+                                                                                                                                                                         disponible. Se analiza la tasa
+1.3 Desempeño de los docentes en escuelas rurales                                                                                                                        de aprobación como proxy
+                                                          S/D        S/D         +10%          S/D             S/D          +10          S/D          S/D          S/D
+de 7º, 8º y 9º grado.                                                                                                                                                    del desempeño docente. La
+                                                                                                                                                                         aprobación es un objetivo
+                                                                                                                                                                         final del programa.
+Objetivo #2: Mejorar la retención en la EMB general y técnico profesional.
+2.1 Tasas de desvinculación y repitencia del 1º año del
+ciclo medio básico en alumnos beneficiados por los        %          S/D         -15%          %               S/D          -15%         %            S/D          S/D   Programa discontinuado en
+Liceos Abiertos                                                                                                                                                          2012
+                                                                                                                                                                         Indicador eliminado de PMR
+2.2 Tasa de repitencia del 1º grado de beneficiados                                                                                                                      en 2014
+                                                                                               %               S/D          -15%         %            S/D          S/D
+por los Liceos Abiertos
+2.3 Tasas de desvinculación y repitencia del 1º año del
+ciclo medio superior en alumnos beneficiados por el       %          S/D         -10%          %               S/D          -10%         %            2.5%         1.3%
+Proyecto Interfase.
+2.4 Tasas de repitencia del 1º año del ciclo medio
+superior en alumnos beneficiados por el Proyecto                                               %               S/D          -10%         %            25%          23%
+Interfase.
+2.5 Porcentaje de alumnos beneficiados por el
+programa Rumbo que se matriculan en la educación          %          0           70%           %               S/D          70%          %            0            11%
+media profesional
+2.6 Porcentaje de alumnos beneficiados por el
+programa Rumbo que se gradúan de la educación             %          0           40%           %               S/D          40%          %            0            S/D
+media profesional.
+Objetivo #3: Aumentar el acceso en la EMB general y técnico profesional.
+3.1 Los centros educativos construidos con recursos
+                                                          %          S/D         80%           -               -            -            -            -            -
+del Programa con el objetivo de ampliar matrícula, que
+                                                                                                                                                                                   Página 10 de 39
+"
+"                                                             En aprobación                     En elegibilidad + 60 días                 Al terminar el proyecto (PCR)
+Indicadores                                                  Unidad                                                                      Unidad                         Comentarios
+                                                                       Línea de                Unidad de       Línea de                               Línea de
+                                                             de                    Meta (P)                                  Meta (P)    de                        (A)
+                                                                       Base                    Medida          Base                                   Base
+                                                             Medida                                                                      Medida
+están en condiciones de matricular alumnos para el
+ciclo lectivo de 2015, han matriculado alumnos en los
+cupos establecidos para ese fin.                                                                                                                                        Se ajustó la redacción antes
+                                                                                                                                                                        del primer PMR (6. 2011).
+3.1 Cupos creados en los centros educativos                                                                                                                             Valor (A) Año 2017
+construidos con recursos del Programa, logran                                                  %               0             80%         %            0            78%
+matricular alumnos y ampliar la matrícula.12
+3.2 Porcentaje de aulas que tienen un número de
+alumnos no superior a 33 por aula y de centros que
+tienen una matrícula total no superior a 800
+estudiantes por centro (incluyendo turno matutino y                                                                                                                     Se ajustó la redacción antes
+                                                             %         S/D         +10%                                                                                 del primer PMR (6.2011). El
+vespertino), en zona geográfica donde son construidos
+y/o refaccionados los centros con recursos del                                                                                                                          indicador 3.2 se subdivide en
+Programa con el objetivo de cumplir la escala                                                                                                                           dos a fines de reporte: uno a
+deseable definida por ENIA.                                                                                                                                             nivel aula y otro a nivel
+                                                                                                                                                                        centro
+3.2 Aulas (centros) que cumplen con la escala
+\"deseable\" (ver punto 1.19 (i) de la Propuesta de                                              %               62%           68%         %            62%          73%
+Préstamo) para buenos aprendizajes.
+Objetivo #4: Mejorar los procesos de gestión del sistema educativo.
+4.1 Tiempo promedio en las liquidaciones de sueldo.          Días      25          20          Días            25            20          Días         25           23
+4.2 Tiempo promedio de preparación de entregas a
+                                                             Días      2           1.2         Días            2             1.2         Días         2            1.75
+Consejos Desconcentrados.
+4.3 Porcentaje de bienes con trazabilidad de entrega.        %         0           90          %               0             90          %            0            67%
+4.4 Porcentaje de legajos de funcionarios de ANEP
+                                                             %         0           65          %               0             65          %            0            0%
+automatizados.
+         12
+            La redacción del indicador 3.1 fue ajustada, para medir de manera más clara la misma variable, previo al primer PMR de junio de 2011.
+                                                                                                                                                                                 Página 11 de 39
+"
+"2.          Efectividad
+                  a. Objetivos y Resultados Esperados
+   2.14 El objetivo general del programa fue contribuir a la política de acceso y retención en la EMB general y técnico
+        profesional. Los objetivos específicos fueron: (1) mejorar el desempeño y la formación docente a través del apoyo a
+        la política de retención y profesionalización de la formación en educación; (2) mejorar la retención en la EMB general
+        y técnico profesional; (3) aumentar el acceso en la EMB general y técnico profesional; y (4) mejorar los procesos de
+        gestión del sistema educativo. Los indicadores correspondientes a cada objetivo, así como las metas previstas se
+        pueden ver en la Tabla 1.
+                  b. Resultados Logrados
+   2.15 En esta sección se presenta un detalle de los resultados esperados para cada componente, el indicador y metas
+        originalmente definidos, y los valores alcanzados al cierre del Programa, incluyéndose una razón de porcentaje
+        logrado para cada caso. La tabla 2 resume las razones de logro alcanzadas.
+   2.16 El objetivo 1 fue mejorar el desempeño y la formación docente a través del apoyo a la política de retención y
+        profesionalización de la formación en educación. La medición del logro de este objetivo se asoció a los siguientes
+        indicadores:
+        porcentaje de docentes de educación media no titulados: la información suministrada por el Programa marca una
+        disminución de dicho %, aunque no en la magnitud prevista (reducción de 2.2 puntos porcentuales vs 4.6 previstos).
+        el desempeño de los docentes de escuelas rurales de 7º a 9º
+   2.17 , El ejecutor no implementó el estudio que permitiría calcular el valor del indicador sobre desempeño de los docentes
+        de escuelas rurales, ya que el programa dejó de estar bajo la órbita del PAEMFE desde 2013. Esto redujo el alcance
+        de las actividades de desarrollo profesional previstas. Las limitaciones en el monitoreo se identificaron como riesgos
+        en el diseño. En ausencia de información sobre desempeño docente en zonas rurales, se considera como proxy
+        para evaluar el logro del objetivo la información administrativa sobre la tasa de aprobación de los estudiantes. El
+        anexo 4 discute el análisis de la información encontrando el programa llevó a una ganancia de 7 puntos porcentuales.
+   2.18 El objetivo 2 fue mejorar la retención en la EMB general y técnico profesional. Este objetivo se asocia a los programas
+        Liceos Abiertos, Interfase y Rumbo. Para los programas Liceos Abiertos y Rumbo se propuso medir el logro de
+        objetivos mediante su impacto en las tasas de repitencia y desvinculación. Mientras fue ejecutado Liceos Abiertos
+        logró el objetivo de reducir la tasa de repitencia en 1er grado, pero no fue posible medir la tasa de desvinculación.
+        Sin embargo, la evidencia muestra que la calidad educativa incide positivamente en la desvinculación (Hanushek,
+        Lavy, and Hitomi, 2008)13. Por tanto, el logro en repitencia es indicativo de una influencia positiva en desvinculación.
+   2.19 Para el caso del programa Interfase, se esperaba reducir en un 10% las tasas de repitencia, abandono y
+        desvinculación, en los beneficiarios del Programa respecto al grupo de control. Al respecto, se alcanzaron resultados
+        significativos con relación a la disminución de la tasa de repitencia, la cual bajó de 25 a 23% entre los beneficiarios
+        del programa y se mantuvo 27% en el grupo de control. Se alcanzaron resultados positivos, pero más moderados
+        con relación a la tasa de abandono que llegó a 14% en los beneficiarios, mientras que el valor fue de 16% en el
+        grupo de control; y no se identificaron resultados con relación a la tasa de desvinculación, la cual si bien bajó de
+        2.5% a 1.3% entre el año 1 y el 4, el comportamiento fue el mismo para los grupos de tratamiento y de control.
+   2.20 Con respecto al programa Rumbo, éste midió el logro de sus objetivos mediante indicadores en matricula y
+        graduación en educación media profesional. El programa Rumbo procura facilitar la culminación de la EMB y la
+        continuidad educativa a mayores de 18 años con primaria completa. De acuerdo con el primer indicador el programa
+        logró el 16% de la contribución que propuso en aumentar la matrícula. El porcentaje de matriculación en EMS de
+        sus egresados que se esperaba fuera del 70%, se registró el 11%. Con relación al segundo indicador, que pretendía
+        alcanzar un porcentaje del 40% de graduación de EMS, el CETP no dispone de esa información. Las expectativas
+        con relación a continuidad educativa (medidas a través de la matriculación y culminación posterior de Educación
+        Media Profesional) resultaron ser difíciles de lograr y de medir dado que la oferta de continuidad educativa es amplia
+        y no se acota a la EMP, ya que, tratándose de estudiantes adultos, mayoritariamente trabajadores, la continuidad
+        podría darse algunos años después y no ser observable en el período de ejecución del Programa. Existen además
+        limitaciones en los sistemas de bedelía de las diferentes propuestas de formación del CETP, que no permiten
+        fácilmente rastrear las trayectorias de los estudiantes fuera de la EMB y EMS. Esta limitación debió haber sido
+        considerada al momento del diseño, escogiendo otros indicadores que hubieran permitido identificar los efectos de
+        esta intervención.
+   2.21 Para el objetivo 3, los resultados esperados fueron alcanzados muy satisfactoriamente, tanto en lo que corresponde
+        a la ocupación de los cupos creados (81% de cumplimiento), como al número de estudiantes por aula (se esperaba
+        alcanzar el 75% y se llegó al 100%), y se superó la meta prevista en lo que refiere al incremento del % de centros
+        con matrícula no superior a los 800 estudiantes (se esperaba alcanzar el 68% y se alcanzó el 73%).
+   2.22 Para el objetivo 4, si bien se registraron mejoras en casi todos los indicadores de resultados previstos, en todos los
+        casos las mejoras fueron menores a las esperadas. Para el caso de la reducción de tiempo en la liquidación de
+        sueldos la disminución fue el 40% de la esperada; la reducción del tiempo de preparación de entregas a los
+        desconcentrados fue del 31% de lo previsto; y fue de un 43% el logro del porcentaje de bienes con trazabilidad en
+        la entrega. Finalmente, los legajos de los funcionarios no lograron ser automatizados. La automatización de legajos
+        se vio limitada por los recortes a los productos.
+13
+      Do Students Care about School Quality? Determinants of Dropout Behavior in Developing Countries. Journal of Human
+      Capital 2008 2:1, 69-105
+                                                                                                              Página 12 de 39
+"
+"                                          Tabla 2 - Matriz de Resultados Alcanzados
+                                                   Unidad    Línea          Metas y
+                                                                     Año                      Ratio (%      Medio de
+Resultado/Indicador                                de        de             Resultados
+                                                                     de LB                    logrado)      Verificación14
+                                                   Medida    Base           Alcanzados
+Objetivo #1: Desempeño y formación docentes mejorados.15
+                                                                            Original   18,4                 Sistema
+1.1 Docentes en el nivel medio que no cuenta                                                                administrativo de
+                                                   %         23      2007   Revisado          48%
+con título habilitante.                                                                                     elección de
+                                                                            Alcanzado  20,8                 horas.
+                                                                            Original   51,7                 Estudio de
+                                                                                                            impacto del
+                                                                            Revisado                        Programa (no
+                                                                                                            realizado).
+                                                                                                            Programa salió
+                                                                                                            de orbita de
+                                                                                              100%          PAEMFE en
+1.2 (ex 1.3) Desempeño de los docentes en                                                     (Estimado 2013. Se analiza
+escuelas rurales de 7°, 8° y 9° grado, en          %         47*     2011                     con           la tasa de
+relación a su línea de base.                                                                  información aprobación como
+                                                                            Alcanzado  s/d    proxy)        proxy del
+                                                                                                            desempeño
+                                                                                                            docente y se
+                                                                                                            encuentra
+                                                                                                            evidencia que se
+                                                                                                            logró la meta
+                                                                                                            (Anexo 4)
+Objetivo #2: Retención en la EMB, tanto general como técnico profesional, mejorada.
+                                                                            Original   -15
+2.1 Tasa de desvinculación del 1º año del ciclo
+medio básico en alumnos beneficiados por los       %         S/D     2011   Revisado          0%            Indicadores
+Liceos Abiertos                                                                                             eliminados de
+                                                                            Alcanzado  0                    PMR en 2014.
+                                                                            Original   -15                  Programa fue
+2.2 Tasa de repitencia del 1º año del ciclo medio                                                           discontinuado en
+básico en alumnos beneficiados por los Liceos %              S/D     2011   Revisado          0%            2012
+Abiertos
+                                                                            Alcanzado  0
+                                                                            Original   2.88
+2.3 Tasa de desvinculación del 1er año del ciclo
+medio superior en alumnos beneficiados por el %              3.2*    2011   Revisado          100%
+Proyecto Interfase.
+                                                                            Alcanzado  2.9                  Estudio de
+                                                                                                            impacto del
+                                                                            Original   22.5                 Programa16.
+2.4 Tasa de repitencia del 1er año del ciclo
+superior en alumnos beneficiados por el            %         25**    2011   Revisado          80%
+Proyecto Interfase.
+                                                                            Alcanzado  23
+                                                                            Original   70
+2.5 Alumnos beneficiarios del programa Rumbo                                                                Sistema de
+que se matriculan en la educación media            %         0       2011   Revisado          16%           Bedelía del
+profesional.                                                                                                CETP.
+                                                                            Alcanzado  11
+                                                                            Original   40                   Información no
+2.6 Alumnos beneficiarios del programa Rumbo                                                                disponible en
+                                                   %         0       2011   Revisado          0%
+que se gradúan de educación media profesional.                                                              sistemas de
+                                                                            Alcanzado  s/d                  CETP
+Objetivo #3: Oferta en EMB y tecnológica y de formación técnica profesional mejoradas
+                                                                            Original   80                   Evaluación del
+3.1 Cupos creados en los centros educativos                                                                 Componente y
+construidos con recursos del Programa, logran      %         0       2011   Revisado          81%           datos
+matricular alumnos y ampliar la matrícula.                                                                  administrativos
+                                                                            Alcanzado  65                   17
+                                                                                                              .
+     14
+          La evaluación se hace sobre el último registro disponible en convergencia.
+     16
+           Informe implementación 2011-2014 Proyecto Interfase. ANEP DIEE (junio 2015). La medición se realiza sobre la
+           disminución esperada de 10% en la tasa. Por las características del Programa, no fue posible la construcción de un
+           grupo de control.
+     17
+           Informe evaluación de medio término infraestructura PAEMFE. ANEP DIEE (mayo 2014)
+                                                                                                            Página 13 de 39
+"
+"                                                      Unidad    Línea           Metas y
+                                                                        Año                          Ratio (%    Medio de
+Resultado/Indicador                                   de        de              Resultados
+                                                                        de LB                        logrado)    Verificación14
+                                                      Medida    Base            Alcanzados
+3.2 Aulas (centros) que cumplen con la escala                                   Original       75
+\"deseable\" (ver punto 1.19 (i) de la Propuesta de                                                    100%
+                                                      %         68*     2010    Revisado
+Préstamo) para buenos aprendizajes: número                                                           (471%)
+de alumnos no superior a 33 por aula.                                           Alcanzado      100
+3.3 Aulas (centros) que cumplen con la escala                                   Original       68                .
+\"deseable\" (ver punto 1.19 (i) de la Propuesta de                                                                Sistema
+                                                                                                     100%
+Préstamo) para buenos aprendizajes: Centros           %         62      2015    Revisado                         administrativo de
+                                                                                                     (177%)
+que tienen una matrícula total no superior a 800                                                                 elección de
+estudiantes.                                                                    Alcanzado      73                horas.
+Objetivo #4: Procesos de gestión del sistema mejorados.
+                                                                                Original       20
+4.1 Tiempo destinado a realizar liquidaciones de
+                                                      Días      25      2010    Revisado             40%
+sueldo
+                                                                                Alcanzado      23
+                                                                                Original       1,2
+4.2 Tiempo promedio de preparación de
+                                                      Días      2       2010    Revisado             31%
+entregas a Consejos Desconcentrados.                                                                             Evaluación del
+                                                                                Alcanzado      1,75              componente y
+                                                                                                                 datos
+                                                                                Original       90                administrativos
+                                                                                                                 ANEP18
+4.3 Bienes con trazabilidad en la entrega.            %         50***   2010    Revisado       95    43%
+                                                                                Alcanzado      67
+                                                                                Original       65
+4.4 Legajos de funcionarios de ANEP
+                                                      %         0       2010    Revisado             0%
+automatizados.
+                                                                                Alcanzado      0
+             Notas: * Valor de línea de base con registro en convergencia después de elegibilidad + 60 días. ** Se asume el valor
+             de línea de base es el primer registro del indicador en 2011. *** Valor estimado al cierre de proyecto de acuerdo con
+             registros administrativos ANEP.
+        2.23 En relación con los productos previstos (ver Anexo 5) la situación se considera muy satisfactoria, siendo que en
+             promedio el nivel de cumplimiento es del 94%, y que se cumplieron al menos en un 80%, 29 de los 37 productos
+             previstos. Al mirar las situaciones de manera detallada, se encuentra que considerando los 8 productos con nivel de
+             logro menor al 80%, el monto total vinculado a los mismos es apenas el 3,71% del monto total ejecutado por el
+             Programa. Más del 95% de la inversión se corresponde con productos de nivel de logro mayor al 80%. Los ajustes
+             al programa se derivaron por cambios programáticos y porque el programa fue optimista en cuanto al alcance de
+             productos dado su presupuesto.
+        2.24 El componente 1 es el más disperso en términos de cantidad de productos originalmente contemplados (17
+             productos, que representaban aproximadamente un 15% de los recursos del Programa). Esta dispersión dificulta la
+             generación de una evaluación general de efectividad para el componente. Sin embargo, dado que existieron avances
+             positivos en al menos 11 de los 17 productos, se considera que tuvo un desempeño medio. La coordinación de la
+             formación de docentes de escuelas rurales con 7° a 9° dejó de estar bajo la órbita de PAEMFE, y pasó a la Dirección
+             Sectorial de Planificación Educativa de CODICEN. En este contexto, el Programa apenas continuó apoyando
+             actividades de inserción de los nuevos docentes de escuelas rurales con 7° a 9°, y actividades periódicas de
+             formación, la responsabilidad sobre la formación permanente y el desempeño de los docentes dejó de estar bajo su
+             órbita de influencia. Así, el número de docentes formados disminuyó.
+        2.25 El componente 2 se divide en dos subcomponentes y se considera que tuvo un desempeño satisfactorio. En
+             particular el subcomponente de educación media y técnico profesional logró cumplir sustancialmente las metas
+             previstas. El programa Rumbo cuyo financiamiento fue absorbido totalmente por el CETP a partir de 2014 (PAEMFE
+             dejó de aportar financiamiento en 2012). A pesar de esto, Rumbo alcanzó el nivel de beneficiarios esperados (1500
+             estudiantes) con una cobertura fue más baja de lo esperado durante los primeros dos años de ejecución. El
+             subcomponente de articulación entre niveles y modalidades presenta una mayor heterogeneidad siendo que incluye
+             intervenciones como “Liceos Abiertos” e “Interfase,” las cuales fueron implementadas exitosamente, pero con niveles
+             de cobertura menores a los previstos. Asimismo, en un esfuerzo de concentración de esfuerzos para la integración
+             educativa por parte de la ANEP, tanto “Liceos Abiertos” como “Interfase” se descontinuaron como tales y pasaron a
+             formar parte de esfuerzos concentrados en el marco del Plan de Tránsito entre Ciclos Educativos, iniciativa articulada
+             entre todos los consejos de la ANEP. Liceos Abiertos dejó de funcionar en 2012 cuando sus equipos técnicos y
+             acciones fueron absorbidas por el Plan de Tránsito entre Ciclos Educativo. El Programa Interfase fue apoyado hasta
+             2014. Para el caso del programa Interfase, que se focalizaba en fomentar la articulación entre la EMB y la EMS y
+             evitar las situaciones de desafiliación durante el cambio de ciclo, la cobertura abarcó a unos 600 estudiantes por año
+     18
+           Estudio sobre la implementación de los sistemas de gestión, liquidación de sueldos y expediente electrónico en la
+           ANEP y cambios operados: La perspectiva de los usuarios. ANEP DIEE (2017).
+                                                                                                                 Página 14 de 39
+"
+"            en 3 centros educativos. Cabe destacar que el componente 2 es el más pequeño del Programa, representa un 6%
+            de los recursos totales y se financia exclusivamente con recursos de aporte local.
+       2.26 El componente 3 presenta un desempeño muy satisfactorio y es a su vez el que concentra más recursos del
+            Programa (63.5%). Ha logrado alcanzar sustantivamente o superar sus metas, y si bien se registraron algunos
+            desfasajes anuales durante la implementación, propios de imprevistos en la gestión de obras de infraestructura, los
+            mismos fueron compensados en los años subsiguientes. Bajo el componente 3 se disminuyó el número de centros
+            construidos y equipados para secundaria y se aumentó la cantidad de centros en técnico profesional a partir de la
+            priorización otorgada por las autoridades hacia la expansión de la oferta de EMB técnico-profesional. El número de
+            aulas informáticas aumentó de una meta original de 30 a 50 en respuesta a la creciente demanda de los centros
+            educativos de este tipo de espacios.
+       2.27 El componente 4, de apoyo a procesos para la instrumentación de la política educativa (9% de los recursos totales),
+            presenta un desempeño satisfactorio. Pese a que no se han alcanzado en su totalidad los productos originalmente
+            previstos, existieron avances significativos en algunos de los productos. como por ejemplo en la actualización del
+            Plan Estratégico de Tecnologías de Información (producto 4.4), en la realización del estudio sobre impacto en los
+            aprendizajes de la infraestructura educativa (producto 4.8) y el de oferta educativa para la población rural (producto
+            4.9). Asimismo, se destacan las mejoras de los procesos de gestión de inventarios en los 4 consejos previstos
+            (CODICEN, CFE, CEIP y CETP), la implantación del sistema de liquidación de sueldos en 3, (CODICEN, CETP y
+            CFE) y del de gestión de expedientes en 2 (CODICEN y CFE). No se logró implementar el sistema dinámico de
+            relevamiento de edificios.
+                      c. Análisis contrafactual/atribución
+       2.28 En virtud de que el Programa no contó con una evaluación de impacto19, y tal como está previsto en las Guías
+            Operativas para PCR 2018 del Banco (párrafo 3.14), la atribución de resultados será analizada de manera empírica
+            a partir de fundamentos basados en evidencia, que apoyen la posible contribución del Proyecto a los resultados
+            esperados. Para ello se utilizará la evidencia internacional existente y plasmada en parte de los documentos vigente
+            del BID (Marco Sectorial de Educación y DIT), así como en hallazgos de evaluaciones de resultados realizadas por
+            el propio Programa.
+       2.29 La Tabla 3, describe las evaluaciones previstas en el diseño del Programa identificando su estatus al cierre20.
+                                                  Tabla 3 Evaluaciones Previstas
+Evaluación o estudio previsto                                       Situación de avance al cierre del Programa
+                                                                    Inicialmente se acordó evaluar desempeño antes-después,
+                                                                    en vez de impacto. Se levantó a LB, pero no se realizó la
+                                                                    medición final en virtud de que la implementación dejó de
+Evaluación de desempeño de docentes de 7°, 8° y 9° rural.           dejó de estar bajo la órbita de PAEMFE, y pasó a la Dirección
+                                                                    Sectorial de Planificación Educativa de CODICEN. Se hace
+                                                                    un análisis de diferencias en diferencias sobre desempeño
+                                                                    de los estudiantes como proxy.
+Evaluación de proceso del Proyecto Jóvenes Mediadores.              Realizado
+                                                                    Se realizó la medición de la matriculación posterior de los
+Evaluación de resultados del Programa Rumbo
+                                                                    beneficiarios en EMS, pero no la de la graduación de la EMS
+                                                                    Se levantó la Línea de Base en 2012.
+Evaluación de resultados de Liceos Abiertos                         Se acordó no realizar la medición final debido a que el
+                                                                    Programa dejó de implementarse a fines de 2012.
+Investigación sobre los Consejos de Participación Liceal            Cumplida
+Evaluación de resultados del Proyecto Interfase                     Realizada hasta la finalización del Proyecto en 2014
+Estudio sobre experiencias de articulación entre CES y CETP
+                                                                    Realizado
+en la oferta educativa de educación media
+Evaluación Final (Análisis de ocupación de los cupos creados
+por obras del Programa, número de alumnos por aula y por            Realizado
+centro, etc.)
+Encuesta cualitativa sobre incidencia de la infraestructura en
+                                                                    Realizado
+el ambiente escolar
+Estudios de tiempo de demora tramites mejorados con
+                                                                    Realizados
+sistemas de gestión
+       2.30 Como se describió en la sección II.1.c de este informe, existía ya en el momento del diseño evidencia sobre la
+            importancia de la infraestructura y el equipamiento escolar para lograr mejoras en retención y desempeño educativo.
+            En la misma línea, otros estudios posteriores como Duarte, Jaureguiberry y Racimo (2017)21 han mostrado la
+            necesidad de atender la carencia de una adecuada infraestructura para atender la demanda creciente por servicios
+            de tiempo integral, y la falta de espacios pedagógicos para el desarrollo de habilidades y la enseñanza de contenidos
+            como ciencias, matemática y para el aprovechamiento de las tecnologías de la información. Bando (2010) muestra
+    19
+          Si bien inicialmente se previeron 2 evaluaciones de impacto específicas (Liceos Abiertos y 7°,8°y9° Rural) , las mismas
+          no fueron implementadas.
+    20
+          Ver EEO 8 “Ayuda Memoria de arreglos de monitoreo y evaluación”. Dic 2015
+    21
+          Duarte, Jesús, Jaureguiberry, Florencia y Racimo, Mariana, BID y OREAL/UNESCO, 2017. “Suficiencia, equidad y
+          efectividad de la infraestructura escolar en América Latina según el TERCE”
+                                                                                                                Página 15 de 39
+"
+"        que inversiones en infraestructura escolar puede llevar a mejoras en desempeño educativo mediante un análisis de
+        diferencias en diferencias en México22.
+   2.31 A nivel específico de cada componente, se considera pertinente comenzar por analizar los resultados del que
+        concentró la mayor cantidad de recursos del Programa, que es el relacionado a la mejora de la oferta educativa
+        (componente 3). Los resultados esperados para este componente son atribuibles al programa porque se relacionan
+        con la creación de nuevos cupos. Se entiende que el 98% de matriculación alcanzado se asocia a las acciones
+        realizadas por el Programa tanto en lo que refiere a la implementación de la obra, como a la identificación previa del
+        lugar, la gestión de articulaciones con las comunidades educativas vinculadas al nuevo centro, etc. También se
+        puede atribuir al programa las mejoras en escalas deseables, procurando que los estudiantes puedan asistir a
+        centros de tamaño adecuado para favorecer los procesos de aprendizaje (máximo 800 estudiantes y en aulas de
+        máximo 33 estudiantes).
+   2.32 En definitiva, los resultados fueron alcanzados de manera muy satisfactoria. El Programa contribuyó a crear y/o
+        mejorar la infraestructura educativa orientada a acompañar de la mejor manera los procesos de enseñanza y
+        aprendizaje en la educación media, y en la formación en educación. La evaluación de medio término realizada en
+        2014 sobre infraestructura mostró la satisfacción de los estudiantes y docentes con las propuestas estéticas y
+        funcionales de los nuevos centros educativos.
+   2.33 Para el resto de los componentes, la dispersión y baja magnitud de las actividades previstas, ya sea en tipo, tamaño
+        o alcance, resultan ser insuficientes para lograr impactos significativos en los indicadores de resultados definidos.
+        Además, estos son los indicadores que presentan menores niveles de logro. Sin embargo, dada la fundamentación
+        original del Programa, como un catalizador de la política educativa que viabilice intervenciones prioritarias, se
+        considera que el Programa ha contribuido a la generación de los resultados obtenidos.
+   2.34 Para el caso del componente 1, si bien no se alcanzaron en su totalidad las metas definidas con relación al porcentaje
+        de titulación docente en la Educación Media, las acciones financiadas por el Programa estuvieron alineadas con el
+        objetivo del componente de mejorar las condiciones para el desempeño docente en EM. El estudio de “factores de
+        no graduación,” en particular, permitió el inicio de un proceso de análisis en profundidad y ajuste al Plan de Estudios
+        y al fortalecimiento de las modalidades de formación semi presencial. Por otra parte, las intervenciones de tutoría y
+        apoyo económico y académico de docentes en formación (acompañamiento presencial, cursos de especialización,
+        apoyo a la culminación de carrera, encuentros virtuales, entre otros) tuvieron una importante receptividad, con
+        indicadores de cobertura mayores a los previstos.23 Adicionalmente una comparación de tasas de aprobación entre
+        zonas relativamente rurales y urbanas antes y después del programa (diferencias en diferencias) muestra una
+        ganancia relativa de los estudiantes de 7mo, 8vo y 9no grado en zonas relativamente rurales en tasas de aprobación
+        en 7 puntos porcentuales. Dado que no existían otros programas de formación docente que condujeran a título, se
+        puede asegurar que los resultados del objetivo 1 se pueden atribuir al programa24.
+   2.35 Para el caso de las acciones del componente 2, los resultados esperados se pueden atribuir al menos parcialmente
+        con el desempeño de los beneficiarios de los programas especiales para retención educativa (Interfase, Rumbo y
+        Liceos abiertos). En todos los casos los programas apoyados preveían mecanismos especiales de apoyo al
+        estudiante y tutoría para mejorar los niveles de culminación y evitar la desvinculación. La evidencia internacional
+        viene mostrando la efectividad de este tipo de intervenciones.25
+   2.36 Con relación a la implementación de sistemas de información para la mejora de procesos de gestión del sistema
+        educativo (Componente 4), se registraron avances en todos los indicadores previstos, aunque no en la magnitud
+        esperada. Los resultados son al menos parcialmente atribuibles al proyecto. La evaluación realizada sobre la
+        implementación del Sistema de Liquidación de Sueldos (SLS) mostró una valoración muy positiva vinculada a que
+        su implementación supone la automatización de procesos que agilizan la liquidación de los sueldos y permiten que
+        los funcionarios perciban sus haberes en tiempo y forma y con mayor transparencia, destacándose que fue un
+        programa desarrollado a la medida de las necesidades de la institución. La evaluación realizada con relación al
+        sistema de gestión electrónica de expedientes (APIA) identificó una alta valoración de la transparencia y garantías
+        que ofrece el uso de dicho sistema. El sistema de recursos humanos solo pudo ser implementado en un consejo, y
+        en el último año de ejecución, por lo que no es posible ver resultados en términos de automatización de legajos de
+        funcionarios. La vinculación entre la implementación de los sistemas y la reducción de tiempos es inherente a la
+        implementación de estos. La evidencia internacional viene mostrando cómo el uso de tecnología ha pasado de
+        apoyar el registro de información de estudiantes y de personal a apoyar de forma más amplia el proceso de
+        recolección de datos para mejorar la administración de los sistemas educativos (Shah, 2014). En la misma línea,
+22
+      La inversión en infraestructura escolar gestionada por los padres de familia en escuelas primarias en México llevaron
+      a mejoras de 0.06 desviaciones estándar en matemáticas y 0.07 desviaciones estándar en español. También se
+      observaron disminuciones en tasa de reprobación en 8 puntos porcentuales y en la tasa de deserción en 4 puntos
+      porcentuales.
+23
+      Ver Informes Anuales de Actividades del Programa
+24
+   La evidencia sobre los efectos de la formación docente sobre la calidad educativa indican que el impacto depende de los
+      cambios que pueda detonar en las prácticas en el salón de clase. Harris, D.N., and T.R. Sass. 2011. “Teacher Training,
+      Teacher Quality and Student Achievement.” Journal of Public Economics 95:798–812.
+Angrist, Joshua D. and Victor Lavy. 2001. “Does Teacher Training Affect Pupil Learning? Evidence from Matched
+      Comparisons in Jerusalem Public Schools.” Journal of Labor Economics, 19 (2) 343-369.
+25
+      Rutt, Simon, Claire Easton, and Oliver Stacey. \"Catch Up® Numeracy.\" Education Endowment Foundation (2014);
+      May, Henry; Gray, Abigail M.; Gillespie, Jessica; Sirinides, Philip M; Sam, Cecile; Goldsworthy, Heather; Armijo,
+      Michael; and Tognatta, Namrata. (2013). \"Evaluation of the i3 Scale-up of Reading Recovery | Year One Report, 2011-
+      12.\" CPRE Research Reports (2013); or Banerjee, Abhijit V., Shawn Cole, Esther Duflo, and Leigh Linden. \"Remedying
+      Education: Evidence from Two Randomized Experiments in India.\" The Quarterly Journal of Economics 122, no. 3
+      (2007): 1235-1264.
+                                                                                                             Página 16 de 39
+"
+"      estudios han mostrado que el uso de tecnología puede generar ahorros en cuanto a tiempo y costos, así como
+      mejoras en la calidad de los procesos y la información que generan (BID, 2017).
+                d. Resultados no esperados
+ 2.37 y iii) UE del Programa dio soporte a la ejecución de cooperaciones técnicas no reembolsables vinculadas a la
+      provisión de saneamiento de pequeñas comunidades rurales (UR-X1007) y al desarrollo de mejoras de gestión
+      asociadas al presupuesto por programa (UR-T1084).
+3.         Eficiencia
+ 2.38 El programa se diseñó con un costo de US$114.500.000. La tabla 4 lista los costos del proyecto sumando un total
+      de US$115.057.825 que es 0.4% mayor que el costo total del proyecto al diseño. Se utilizaron US$ 47.994.333 del
+      préstamo y US$ 67.063.492 de contraparte local. El análisis de eficiencia se realizó contemplando los niveles de
+      ejecución reales con relación a los previstos, en sintonía con la información financiera monitoreada a través del PMR,
+      y los resultados de la evaluación costo beneficio expost realizada para el Programa. Los resultados en materia de
+      eficiencia en la ejecución de fondos son muy satisfactorios en la medida que los porcentajes de ejecución por año
+      se encuentran en general muy cercanos al 100%, siendo que en el período entre 2011 y 2015 se ejecutó el 98% del
+      presupuesto asignado al programa ($U 2.339,9 millones de $U 2.394,4 millones asignados). El anexo 6 muestra
+      mayor detalle.
+ 2.39 Asimismo, mediante un Análisis Costo Beneficio (ACB) ex post, se realizó la valorización de los impactos del proyecto
+      en comparación a sus costos. Para ello, se incorporaron los datos reales de costos totales de ejecución y de
+      resultados alcanzados. En este marco, para el análisis de rentabilidad se estimó el Valor Actual Neto (VPN) y la Tasa
+      Interna de Retorno (TIR) de las intervenciones asociadas al Componente 3 del Programa y medidas mediante el
+      Indicador “Cupos creados en los centros educativos construidos con recursos del Programa, logran matricular
+      alumnos y ampliar la matrícula” (indicador de Resultado 3.1.de la Matriz de Resultados del Programa. En cuanto a
+      los costos, se incluyeron aquellos asociados a la construcción y ampliación en los centros en donde tuvo lugar la
+      inversión sobre la base de la información de los Informes Semestrales de Progreso (se consideraron estadísticas de
+      medición de resultados para 11 obras en Educación Media (EM) y 2 en obras de Educación Técnica Profesional
+      (ETP)). En función de los supuestos, parámetros y metodología utilizada (Ver EEO 1), los principales beneficios que
+      se cuantificaron están vinculados a los diferenciales salariales esperados en el futuro, como resultado del incremento
+      de alumnos matriculados por un aumento de la oferta en el “cluster” en donde la inversión tuvo lugar. Las diferencias
+      salariales fueron calculadas en base a la metodología de Mincer a fin de. Para ello se utilizaron las siguientes
+      variables: Años de Educación, Edad, Nivel de Educación. Esto sirvió para identificar así los diferenciales salariales
+      de concluir o no concluir la EMS y la EMT. Los beneficios estimados fueron el resultado de multiplicar la brecha
+      salarial promedio por los alumnos beneficiarios del programa. La aplicación del Modelo permitió inferir que la
+      diferencia salarial promedio para un individuo entre los 18 y 60 años con el Educación Media Completa versus uno
+      sin Educación Media Completa es de USD 5.123,96 promedio por año, con un diferencial máximo de USD 6.193,02
+      (a los 48 años de edad) y una diferencia mínima de USD 2.708,73 (a los 18 años); mientras que para un individuo
+      con y sin Educación Técnica Profesional, la diferencia salarial promedio es de USD 2.506,90, con un diferencial
+      máximo de USD 3.032,57 y una diferencia mínima de USD 1.319,63 (Escenario Base).
+ 2.40 La evaluación costo beneficio indicó que en el escenario base el VPN sería de USD77,1 millones y la TIR de 25,8%,
+      resultando mayor que la tasa de descuento del proyecto.
+ 2.41 Asimismo, se realizó un análisis de sensibilidad con distintos escenarios y distintas tasas de descuento para para
+      verificar la sensibilidad de los resultados de rentabilidad alcanzados. Se pudo comprobar que el aumento muy
+      significativo en el costo de la intervención implicaría que los rendimientos de la inversión disminuyeran
+      considerablemente. De los cuatro escenarios posibles ensayados, sólo se observa uno de ellos como no rentable a
+      la tasa de descuento del 12 %, y es el que considera un incremento considerable en el monto de la inversión,
+      diferenciales salariales inferiores al 20 % respecto al escenario base, más de un 20 % menos en el aumento de los
+      beneficiarios (incremento de la matrícula).
+                                                                                                          Página 17 de 39
+"
+"                                                                                   Tabla 4 Costos del Proyecto
+1 Formación en educación
+Outputs                                                                          2011         2012         2013     2014     2015    2016     2017 2018        Total
+                                                                        P          $0      $48.912                                                           $48.912
+1.1 Estudio de factores de no graduación a tiempo terminado             P(a)               $48.912                             $0      $0       $0           $63.296
+                                                                        A          $0      $57.434       $5.862       $0       $0               $0   $0      $63.296
+                                                                        P          $0      $50.950      $50.950  $50.950  $50.950                           $203.800
+1.2 Estudiantes de formación en educación que reciben apoyo
+                                                                        P(a)               $50.950      $50.950  $89.000  $50.950      $0       $0           $11.664
+académico (en profesorado semi presencial)
+                                                                        A          $0           $0         $773   $3.264   $7.627               $0   $0      $11.664
+                                                                        P     $47.306      $86.838      $99.099 $162.652 $174.184                           $570.079
+1.3 Estudiantes de formación en educación que reciben apoyo
+                                                                        P(a)               $86.838      $99.099 $208.000 $174.184 $71.875 $145.393          $614.114
+económico
+                                                                        A     $47.306      $57.425      $49.309  $81.845  $80.639          $85.698   $0     $554.419
+                                                                        P     $80.484     $138.126     $138.126 $138.126 $138.125                           $632.987
+1.4 Estudiantes en modalidad semipresencial con apoyo de tutorías y
+                                                                        P(a)              $138.126     $138.126 $173.000 $138.126 $97.500  $90.357          $683.335
+guias de estudio
+                                                                        A     $80.484      $96.429     $102.890 $104.237 $108.561         $161.767   $0     $754.745
+                                                                        P      $1.483      $22.928       $8.592                                              $33.003
+1.5 Plan de estudios flexibilizado                                      P(a)               $22.928       $8.592                $0 $23.438       $0           $65.248
+                                                                        A      $1.483      $20.546      $20.546       $0       $0          $24.608   $0      $89.856
+                                                                        P    $252.656     $367.771     $379.581 $391.313 $403.140                         $1.794.461
+1.6 Docentes ingresantes y en ejercicio de escuelas rurales de 7°, 8° y
+                                                                        P(a)              $367.771     $379.581 $458.000 $403.139 $93.750       $0        $1.071.518
+9° grado capacitados en forma permanente.
+                                                                        A    $252.656     $348.350     $159.939 $173.563  $77.017          $79.129   $0   $1.150.647
+                                                                        P          $0      $24.375      $25.591  $26.871  $28.161                           $104.998
+1.7 Profesores en formación en educación formados para el uso
+                                                                        P(a)               $24.375      $25.591  $51.000  $28.161      $0       $0           $31.847
+educativo de las TICs
+                                                                        A          $0           $0       $8.001  $14.968   $8.878               $0   $0      $31.847
+                                                                        P     $16.778      $27.479      $28.435  $29.857  $31.290                           $133.839
+1.8 Directores y asistentes capacitados en gestión y mediación          P(a)               $27.479      $28.435  $36.500  $31.290 $52.410 $169.129          $399.609
+                                                                        A     $16.778      $23.028      $54.329  $72.525  $63.820               $0   $0     $230.480
+                                                                        P    $114.090     $323.534     $325.534  $99.353  $50.160                           $912.671
+1.9 Encuentros de formación continua de docentes de secundaria y
+                                                                        P(a)              $323.534     $323.534 $268.000  $50.160 $45.903       $0          $834.538
+centros unidocentes y multigrado.
+                                                                        A    $114.090     $159.262     $177.404 $171.108 $121.955          $64.391   $0     $898.929
+                                                                                                                                                    Página 18 de 39
+"
+"                                                                       P       $79.093   $736.000   $736.000    $95.000    $77.000                            $1.723.093
+1.10 Unidades Regionales de Educación Permanente en
+                                                                       P(a)              $736.000   $736.000   $297.500    $77.440 $304.415   $330.357        $2.877.443
+funcionamiento.
+                                                                       A       $79.093   $600.363   $693.268   $549.626   $359.468            $287.597   $0   $2.834.683
+                                                                       P      $103.900   $150.702   $150.702   $150.702   $150.702                              $706.708
+1.11 Directores y asistentes de centros educativos del CES y CETP
+                                                                       P(a)              $150.702   $150.702   $183.000   $150.702  $20.313         $0          $709.885
+capacitados anualmente.
+                                                                       A      $103.900   $133.074   $149.530   $159.775   $137.045             $39.411   $0     $749.296
+                                                                       P    $2.453.063   $992.000   $981.000   $314.000   $662.000                            $5.402.063
+1.12 Centros de formación en educación readecuados.                    P(a)              $992.000   $981.000    $62.500   $662.087 $939.033   $635.729       $11.994.997
+                                                                       A    $2.453.063 $1.782.282 $3.653.439 $1.991.792   $658.547          $1.134.370   $0  $12.493.638
+                                                                       P      $176.685              $168.000              $168.000                              $512.685
+1.13 Proyectos de inversión implementados por los centros de
+                                                                       P(a)                         $168.000              $168.136       $0         $0          $400.357
+formación docente.
+                                                                       A      $176.685                    $0         $0   $120.036                  $0   $0     $400.357
+                                                                       P            $0         $0         $0 $1.458.000 $1.425.000                            $2.883.000
+1.14 Instituto Universitario de Educación construido y en
+                                                                       P(a)                    $0         $0 $1.458.000 $1.424.395 $651.104         $0        $2.270.717
+funcionamiento.
+                                                                       A            $0         $0    $22.272    $10.992 $1.423.529              $3.462   $0   $2.274.179
+                                                                       P        $8.695   $117.421    $61.140                                                    $187.256
+1.15 Sistema de gestión y digitalización de información en
+                                                                       P(a)              $117.421    $61.140                    $0  $32.265         $0          $209.453
+funcionamiento (acumulado).
+                                                                       A        $8.695    $58.859    $52.012    $49.936    $34.483                  $0   $0     $209.453
+                                                                       P        $1.608    $14.400                                                                $16.008
+1.16 Jornadas de Trabajo para la integración de la carrera de Educador
+                                                                       P(a)               $14.400                               $0       $0         $0           $11.444
+Social
+                                                                       A        $1.608     $3.759     $3.868       $938     $1.271                  $0   $0      $11.444
+                                                                       P        $1.822     $7.643     $7.643     $7.643     $7.643                               $32.394
+1.17 Proyectos de extensión universitaria implementados.               P(a)                $7.643     $7.643    $13.000     $7.643       $0         $0            $1.822
+                                                                       A        $1.822         $0         $0         $0         $0                  $0   $0       $1.822
+2 Apoyo a la mejora del desempeño de la educación media
+Outputs                                                                           2011       2012       2013       2014       2015     2016       2017 2018        Total
+                                                                       P        $6.169   $157.000    $54.000    $18.000                                         $235.169
+2.1 Programa Rumbo implementado y en funcionamiento.                   P(a)              $157.000    $54.000    $84.000         $0       $0         $0          $279.825
+                                                                       A        $6.169   $103.703   $169.953         $0         $0                  $0   $0     $279.825
+                                                                                                                                                        Página 19 de 39
+"
+"                                                                      P       $22.322     $86.000    $86.000     $86.000     $86.000                                $366.322
+2.2 Observatorio \"Transición de la escuela al trabajo\" en
+                                                                      P(a)                $86.000    $86.000    $105.500     $86.361    $63.872         $0          $402.386
+funcionamiento.
+                                                                      A       $22.322     $75.182    $95.136    $111.177     $62.713                $8.528   $0     $410.914
+                                                                      P      $561.770    $372.000   $560.000    $687.000    $675.000                              $2.855.770
+2.3 Encuentros deportivos y de integración Proyecto Pintó Deporte     P(a)               $372.000   $374.500    $696.000    $428.765   $218.750         $0        $2.374.345
+                                                                      A      $561.770    $338.316   $359.052    $412.670    $334.093              $295.570   $0   $2.669.915
+                                                                      P      $154.144                                                                               $154.144
+2.4 Alumnos beneficiados por Liceos Abiertos                          P(a)                          $100.000     $41.000    $100.000    $44.901         $0          $405.624
+                                                                      A      $154.144     $73.472    $61.257     $40.635     $33.588                $7.584   $0     $413.208
+                                                                      P       $30.559    $293.000   $396.000    $293.000    $293.000                              $1.305.559
+2.5 Alumnos beneficiados por el proyecto Interfase.                   P(a)               $293.000   $395.374    $363.500    $293.473         $0         $0          $957.974
+                                                                      A       $30.559    $313.695   $296.376    $270.390     $46.954                    $0   $0     $957.974
+                                                                      P            $0     $97.000    $41.000                                                        $138.000
+2.6 Propuesta de articulación entre la educación media general y
+                                                                      P(a)                $97.000    $40.251                      $0         $0         $0           $16.576
+tecnológica.
+                                                                      A            $0          $0    $16.576          $0          $0                    $0   $0      $16.576
+                                                                      P                  $423.000   $423.000    $423.000    $423.000                              $1.692.000
+2.7 Consejos de Participación instalados y en funcionamiento (incluye
+                                                                      P(a)               $423.000   $477.290    $392.500    $537.621   $693.578         $0        $1.647.222
+espacios de diálogo y estudio exploratorio).
+                                                                      A                  $430.147         $0    $473.579    $364.603              $303.237   $0   $1.950.459
+3 Mejoramiento de la oferta educativa
+Outputs                                                                          2011        2012       2013        2014        2015       2016       2017 2018        Total
+                                                                      P    $4.499.046  $7.949.000 $9.424.000  $9.880.000 $11.565.000                             $43.317.046
+3.1 Aulas construidas y totalmente equipadas para la educación media
+                                                                      P(a)             $7.949.000 $9.424.000  $9.464.000 $11.564.373 $5.435.355 $3.365.670       $47.270.122
+secundaria
+                                                                      A    $4.499.046 $12.395.000 $7.298.502 $10.237.253  $6.052.323            $2.124.729   $0  $46.029.181
+                                                                      P    $7.212.527  $7.126.000 $4.051.000  $4.127.000    $213.000                             $22.729.527
+3.2 Aulas construidas y totalmente equipadas para la educación media
+                                                                      P(a)             $7.126.000 $4.051.000  $1.973.000    $212.719 $2.291.435         $0       $32.217.005
+técnico profesional
+                                                                      A    $7.212.527  $6.635.086 $5.301.239  $6.126.555  $4.319.849              $807.860   $0  $33.024.865
+                                                                      P    $2.831.848               $839.000              $1.934.000                              $5.604.848
+3.3 Proyectos de inversión de centros educativos implementados.       P(a)                                $0              $1.934.452         $0         $0        $5.144.330
+                                                                      A    $2.831.848                     $0          $0  $1.833.229                    $0   $0   $5.144.330
+                                                                                                                                                            Página 20 de 39
+"
+"                                                                        P    $171.964  $83.000  $83.000  $84.000  $84.000                            $505.964
+3.4 Aulas informáticas construidas, totalmente equipadas y con
+                                                                        P(a)           $83.000  $83.525  $64.500  $83.525 $124.084 $476.991          $947.268
+conectividad.
+                                                                        A    $171.964  $51.188 $117.117     $968  $68.287                $0   $0     $470.277
+4 Apoyo a la instrumentación de la política educativa
+Outputs                                                                          2011     2012     2013     2014     2015     2016     2017 2018        Total
+                                                                        P    $422.458  $90.000  $90.000  $76.000  $26.000                            $704.458
+4.1 Consejos que aplican el sistema de liquidación de sueldos           P(a)           $90.000  $90.000  $76.000  $25.475 $306.302       $0        $1.763.872
+                                                                        A    $422.458 $230.416 $299.593 $194.404 $183.534          $181.613   $0   $1.945.485
+                                                                        P          $0  $98.000 $117.000 $113.000  $77.000                            $405.000
+4.2 Consejos que aplican el sistema de recursos humanos.                P(a)           $98.000 $117.000  $79.500  $76.425 $277.799       $0          $799.274
+                                                                        A          $0 $129.401 $119.270 $148.546 $152.052           $31.564   $0     $830.838
+                                                                        P          $0 $120.000 $100.000  $69.000       $0                            $289.000
+4.3 Consejos que tienen el sistema de inventarios funcionando.          P(a)          $120.000 $100.000  $85.500       $0       $0       $0          $188.586
+                                                                        A          $0  $60.537  $74.540  $28.749       $0                $0   $0     $188.586
+                                                                        P          $0  $10.000                                                        $10.000
+4.4 Plan Estratégico de Tecnologías de Información actualizado.         P(a)           $10.000                         $0       $0       $0           $34.323
+                                                                        A          $0   $9.087  $25.236       $0       $0                $0   $0      $34.323
+                                                                        P     $35.246 $171.000 $202.000 $171.000                                     $579.246
+4.5 Consejos que aplican el sistema de gestión de expedientes.          P(a)          $171.000 $202.000  $62.000       $0 $133.724       $0          $675.694
+                                                                        A     $35.246 $191.519 $136.816 $113.480 $116.998           $15.216   $0     $690.910
+                                                                        P          $0  $34.000  $49.000  $16.000                                      $99.000
+4.6 Consejos que aplican el sistema de gestión de resoluciones.         P(a)           $34.000  $49.000  $25.000       $0       $0       $0                $0
+                                                                        A          $0       $0       $0       $0       $0                $0   $0           $0
+                                                                        P          $0  $93.000  $76.000                                              $169.000
+4.7 Consejos que aplican el sistema dinámico de relevamiento de
+                                                                        P(a)           $93.000  $75.406                $0       $0       $0           $62.788
+edificios.
+                                                                        A          $0  $23.149  $39.639       $0       $0                $0   $0      $62.788
+                                                                        P          $0                    $25.000  $75.000                            $100.000
+4.8 Estudios sobre infraestructura educativa e impacto en aprendizajes. P(a)                             $25.000  $75.000       $0       $0            $8.098
+                                                                        A          $0            $3.805   $4.293       $0                $0   $0       $8.098
+                                                                                                                                             Página 21 de 39
+"
+"                                                                         P             $0     $50.000    $100.000                                                         $150.000
+4.9 Estudio sobre oferta educativa para la población rural.              P(a)                 $50.000    $100.000                      $0          $0         $0                $0
+                                                                         A             $0          $0          $0          $0          $0                     $0   $0           $0
+Other Cost                                                                           2011        2012        2013        2014        2015        2016       2017 2018        Total
+                                                                         P        $33.356    $127.528     $66.726     $82.367     $42.960                                 $352.937
+1.18 Otras actividades de capacitación a directores, equipos de trabajo,
+                                                                         P(a)                $127.528     $66.726    $131.500     $42.960     $70.313         $0          $258.668
+inspectores y docentes.
+                                                                         A        $33.356     $53.295     $12.537     $16.030     $75.236                $55.216          $313.884
+                                                                         P     $1.244.292  $1.155.120  $1.211.501  $1.580.117  $1.584.339                               $6.775.369
+4.10 Apoyos transversales para la implementación de mejoras y
+                                                                         P(a)              $1.155.120  $1.211.501  $1.487.500  $1.584.339  $1.167.540         $0        $6.686.676
+modernización de procesos de ANEP
+                                                                         A     $1.244.292  $1.077.787  $1.144.865  $1.096.287    $933.863               $870.237        $7.556.913
+                                                                         P        $73.722      $9.663    $365.690    $497.148    $678.306                               $1.624.529
+4.11 Otras evaluaciones y estudios de monitoreo, medición de impacto
+                                                                         P(a)                  $9.663    $365.690    $604.500    $678.306    $209.862         $0          $621.910
+del Programa (incluye evaluación intermedia y final)
+                                                                         A        $73.722     $76.102    $106.133    $115.573    $102.873                $17.173          $639.083
+                                                                         P     $1.407.017  $1.264.000  $1.438.000  $1.780.000  $1.810.000                               $7.699.017
+4.12 Unidad de Administración del Programa                               P(a)              $1.264.000  $1.438.000  $1.475.000  $1.809.790  $1.165.700         $0        $8.561.375
+                                                                         A     $1.407.017  $1.486.916  $1.627.971  $1.460.210  $1.341.421               $261.398        $8.822.773
+                                                                         P                                                                                                      $0
+imprevistos por asignar                                                  P(a)                                                          $0          $0         $0                $0
+                                                                         A                                                 $0          $0                     $0                $0
+Total Cost                                                                           2011        2012        2013        2014        2015        2016       2017 2018        Total
+                                                                         P    $22.044.101 $22.917.390 $22.933.310 $22.932.099 $22.932.960                             $113.759.860
+                                                                         P(a)             $22.917.390 $22.059.656 $20.533.000 $22.899.997 $14.535.221 $1.195.264      $104.140.528
+                                                                         A    $22.044.101 $27.094.809 $22.459.055 $24.235.368 $19.224.492                             $115.057.825
+                                                                                                                                                                  Página 22 de 39
+"
+"4.          Sostenibilidad/riesgos
+                  a. Aspectos generales de sostenibilidad
+   2.42 A continuación, se analizan los temas más relevantes para la sostenibilidad de los resultados alcanzados por el
+        Programa.
+   2.43 Mantenimiento de cupos creados. Los resultados alcanzados por el componente 3 se relacionan con la creación
+        de cupos que permitan aumentar la matrícula de educación media. Para que estos resultados sean sostenibles se
+        requiere de gestión de procesos de mantenimiento edilicio los cuales forman parte de las responsabilidades
+        corrientes de la ANEP. Si bien en los últimos años estos procesos han cobrado mayor relevancia y se han iniciado
+        experiencias de mantenimiento preventivo, históricamente la institución no contaba con estrategias de
+        mantenimiento sistematizadas que evitar el deterioro acumulativo de la infraestructura escolar.
+   2.44 Titulación docente en aumento progresivo. Los resultados alcanzados por el componente 1 se relacionan con la
+        mejora paulatina de los niveles de titulación docente como indicador de un primer paso hacia la mejora del
+        desempeño docente. La sostenibilidad depende de la continuidad del financiamiento de las acciones de promoción
+        de la formación y titulación en los docentes. En este sentido, tanto acciones propias del CFE como otras
+        comprendidas en la nueva operación (3773/OC-UR) continúan apoyando la formación en educación mediante la
+        puesta en marcha de un nuevo plan de estudio para la formación inicial docente y una nueva estructura de cargos
+        en el Consejo de Formación en Educación, en línea con las mejoras necesarias para la profesionalización de la
+        docencia en el país.
+   2.45 Continuidad en las trayectorias educativas. Los objetivos del componente 2 se relacionaban con la mejora de los
+        niveles de asistencia, promoción y culminación en educación media, en particular para población más vulnerable,
+        beneficiarios en el período de ejecución del Programa de programas específicos de inclusión educativa. En pro de
+        profundizar las acciones orientadas a garantizar trayectorias educativas continuas y completas, y a partir de las
+        lecciones aprendidas de varios de los programas de inclusión educativa implementados por diferentes
+        desconcentrados de ANEP, en la última década se prioriza la mejora en la calidad educativa para la educación media
+        a través de la puesta en marcha de un marco curricular común que facilite la navegabilidad entre modalidades
+        educativas y la prioridad en garantizar trayectorias educativas continuas. Así, aun cuando se discontinuó la
+        implementación de 2 de los programas educativos previstos en el componente 2 (Liceos Abiertos, e Interfase), el
+        apoyo a los mismos entre 2011 y 2012 y su evaluación con financiamiento parcial del Programa, fueron parte de los
+        antecedentes que favorecieron cambios en las perspectivas de trabajo hacia dentro del sistema, y apoyaron la
+        creación en 2015 de la Dirección Sectorial de Inclusión Educativa que articula los diferentes esfuerzos del sistema
+        educativo por garantizar trayectorias educativas continuas y completas. En 2016 se crea y pone en marcha de un
+        sistema de protección de trayectorias educativas26. Este nuevo sistema de protección de trayectorias continuas y
+        completas contempla los principales factores asociados al rezago, y la desvinculación educativa en educación media
+        detectados y en función de ellos define cuatro componentes: i) la generación de información relevante y en tiempo
+        sobre el estudiante, ii) la identificación temprana del rezago y la prevención de la desvinculación, iii) la generación
+        de equipos de seguimiento y acompañamiento en todos los centros educativos, y iv) el marco pedagógico
+        institucional. La nueva operación del Banco da apoyo parcial a esta iniciativa.
+   2.46 Mejora continua de la gestión educativa. Con apoyo del Banco en las sucesivas operaciones, la ANEP ha logrado
+        mejorar a diferente nivel, pero en todos los consejos desconcentrados, los sistemas de administración de recursos
+        (financieros, humanos –docentes y no docentes- y físicos). Las mejoras más significativas se vinculan a las
+        cuestiones que hacen a la cobertura e interoperabilidad de los sistemas existentes, permitiendo una gestión más
+        integral y moderna del sistema educativo en su conjunto. Asimismo, con recursos de la Cooperación Técnica (UR-
+        T1108, USD 0,5M) de “Apoyo para el establecimiento de una Gestión por Resultados en la ANEP”, que tuvo por
+        objetivo contribuir a la mejora de su gestión a través del establecimiento de una Gestión para Resultados en el
+        Desarrollo en particular de un Presupuesto por Programas, se mejoró la calidad de la información sobre los salarios,
+        gastos e inversiones por centro educativo, modalidades educativas, departamentos, regiones y Consejos. Por otro
+        lado, los equipos técnicos del área de informática del Programa fueron un sustento crítico para el desarrollo en ANEP
+        de otras iniciativas importantes en relación a la mejora de procesos de gestión, como la incorporación a nivel general
+        del presupuesto por programa como herramienta de apoyo a la mejora de la focalización de las inversiones del
+        sistema y la creación, de bases de datos confederadas27 entre todos los consejos que permiten disponer de
+        información consolidada de las trayectorias educativas de todos los niños. Pese a lo anterior, al cierre de este
+        Programa, subsisten desafíos de mejora de gestión, sobre todo en relación con la gestión de los numerosos
+        expedientes relacionados con alumnos y docentes, y a la expansión de los módulos de gestión de recursos humanos
+        en todos los consejos, que están siendo atendidos con la nueva operación de manera de garantizar se completen
+        los desarrollos iniciados y se garantice la sostenibilidad de los avances registrados al momento.
+                  b. Salvaguardas ambientales y sociales
+   2.47 De acuerdo con la Política de Medio Ambiente y Cumplimiento de Salvaguardias (OP-703) esta operación fue
+        clasificada como Categoría B debido a que la construcción, ampliación y/o refacción de centros educativos podría
+        generar impactos ambientales y sociales propios de instalaciones civiles de obras, como ruido, polvo, generación de
+        residuos sólidos y líquidos, etc.
+26
+      Propuesta para un sistema de protección de trayectorias educativas. ANEP, 2016
+27
+      Un sistema de bases de datos federadas es un conjunto de sistemas de bases de datos cooperativos y autónomos.
+      En un sistema como éste los usuarios tienen acceso a todos los datos a través de un interfaz.
+                                                                                                            Página 23 de 39
+"
+"    III.       CRITERIOS NO CENTRALES
+    1.         Desempeño del Banco
+      3.1 El Banco ha mantenido un intercambio permanente con la Unidad Ejecutora y con las autoridades de ANEP y los
+           distintas desconcentrados, tanto en relación con aspectos técnicos como fiduciarios. Esto ha ocurrido tanto durante
+           el proceso de preparación de la operación, como durante la ejecución e incluso durante el cierre. En particular, cabe
+           mencionar que se contó con un especialista en educación que apoyó el diseño de la operación y sus primeros años
+           de ejecución, y desde 2013 se asignó un especialista con residencia en el país para acompañar la implementación.
+      3.2 Adicionalmente, cabe mencionar que la División de Educación proporcionó asesoramiento técnico especializado de
+           diferente índole durante el período de ejecución, dentro del cual se destacan varias consultorías en temas de mejora
+           de procesos de gestión, presupuesto por programa, y puesta en marcha de las Unidades de Planificación Estratégica
+           (UPEs) en el CODICEN y los Consejos Desconcentrados.
+      3.3 Se considera que el acompañamiento brindado por el Banco permitió asegurar la calidad del diseño de la operación
+           y el acompañamiento permanente durante la ejecución permitió mitigar riesgos y resolver inconvenientes para logro
+           de los resultados previstos.
+    2.         Desempeño del Prestatario
+      3.4 Se considera que el desempeño del prestatario ha sido Muy Satisfactorio en la medida que el PAEMFE ha
+           demostrado capacidad de ejecución para llevar adelante con eficiencia las inversiones acordadas con el Banco. En
+           los momentos en que fue necesario realizar ajustes a las actividades y programas previstos, los mismos fueron
+           analizados juntamente con el Banco.
+      3.5 En particular, en lo que respecta a aspectos organizativos, la UE contó durante todo el proceso con el personal
+           necesario, el cual contaba con la capacidad técnica necesaria para resolver de manera oportuna las problemáticas
+           de la implementación. Finalmente, en términos contractuales la UE ha cumplido a satisfacción del Banco con la
+           entrega oportuna de la documentación relativa a las cláusulas contractuales de Informes de Progreso, Semestral,
+           Planes Operativos Anuales, entre otros.
+    IV.        HALLAZGOS Y RECOMENDACIONES
+      4.1 El proceso de evaluación y cierre de este Programa ha coincidido con el proceso de preparación de una nueva
+           operación de apoyo a las políticas educativas en Uruguay, por lo que aquí se detallarán hallazgos y recomendaciones
+           que mayormente ya han sido considerados para el diseño de la nueva operación (UR-L1116). Ver resumen en la
+           Tabla 5.
+           Tabla 5. Hallazgos y Recomendaciones
+Hallazgos                                       Recomendaciones
+Dimensión técnico-sectorial
+                                                Analizar previo a la aprobación del POD los efectos esperados, y en los
+                                                casos de intervenciones innovadoras definir momentos intermedios de
+                                                revisión de las metas en virtud de los avances observables.
+Expectativas de resultados esperados            Favorecer la concentración de acciones orientadas a un mismo objetivo de
+deben reflejar las incertidumbres en la         manera garantizar relaciones causales fácilmente evidenciables entre
+magnitud del efecto esperable.                  productos y efectos.
+                                                Evitar la atomización de intervenciones de pequeño porte.
+                                                Mejorar la definición de indicadores de producto y resultados
+Dimensiones organizacionales y de gestión
+Experiencia y capacidad de la unidad            Mantener la prioridad en el mantenimiento de los equipos de gestión fiduciaria
+ejecutora son claves para garantizar            y acompañamiento más cercano del banco en la supervisión del cumplimiento
+cumplimiento de cronograma.                     de las metas financieras y de objetivos resultados.
+Dimensiones de procesos públicos y actores
+                                                Cuando se incluyen acciones que requieren coordinar definiciones con varios
+Flexibilidad para adaptarse a prioridades
+                                                actores, es imprescindible generar los acuerdos para cada caso antes de
+no debe afectar efectividad del Programa.
+                                                definir metas al respecto.
+Dimensión de Gestión Fiduciaria
+Experiencia y capacidad de unidad
+                                                Mantener la prioridad en el mantenimiento de los equipos de gestión
+ejecutora son claves para garantizar
+                                                fiduciaria.
+cumplimiento de cronograma.
+Dimensión de Riesgos
+Experiencia y capacidad de unidad               Mantener la prioridad en el mantenimiento de los equipos de gestión,
+ejecutora son claves para gestionar los         fortaleciendo sus capacidades en lo relacionado a los componentes no
+riesgos                                         vinculados a infraestructura y sistemas.
+                                                                                                              Página 24 de 39
+"
+"Hallazgos                                       Recomendaciones
+Cambio de responsabilidad de los
+programas incluidos en el proyecto              Considerar este riesgo al inicio de los proyectos
+durante la ejecución
+   1.         Dimensión técnico-sectorial
+     4.2 Se han identificado variables para las cuales, pese a una satisfactoria implementación de los productos, los efectos
+          producidos han sido de magnitud muy por debajo de la esperada. Si bien en algunos casos es difícil dimensionar la
+          magnitud esperada de los efectos resultantes de cierto tipo de intervenciones, principalmente de intervenciones
+          innovadores como por ejemplo para fomentar la progresión escolar y/o de fortalecimiento institucional, como por
+          ejemplo nuevos sistemas de gestión, se recomienda maximizar los esfuerzos por dimensionar dicha magnitud de la
+          manera más realista posible.
+     4.3 En términos generales, las posibilidades de que las acciones de cualquier programa generen mayores impactos,
+          están estrictamente vinculadas a la concentración de acciones que permitan focalizar la intencionalidad. Si bien el
+          Programa logró en su componente de infraestructura realizar aportes muy significativos a la mejora de la
+          infraestructura educativa diseñada para favorecer procesos de aprendizaje, varias de las actividades de otros
+          componentes resultaron estar atomizadas. Se recomienda para otros programas evitar una alta dispersión de
+          pequeñas acciones y procurar que sea posible intervenir en menos aspectos, y que estos se focalicen en los cambios
+          más profundos. Es ideal identificar mecanismos de medición de logro de objetivos. En este sentido, recogiendo estos
+          aprendizajes, la nueva operación ya aprobada ha logrado mejorar estos aspectos y ha acordado un número menor
+          de intervenciones, y que estas estén vinculadas a procesos clave para los cambios esperados como ser las
+          revisiones curriculares, la definición de perfiles de egreso, el apoyo al desarrollo de nuevos planes de formación
+          docente, y el apoyo a la puesta en funcionamiento de la nueva estructura de cargos para la carrera de formación
+          docente.
+   2.         Dimensiones organizacionales y de gestión
+     4.4 El Programa ha sido exitoso en la articulación de acciones con los diferentes consejos desconcentrados del sistema
+          educativo y ha demostrado la importancia de que las acciones mantengan estrecha sintonía con las prioridades de
+          cada uno de ellos y puedan ajustarse durante la implementación, Pese a ello esta adaptabilidad puede poner en
+          riesgo la efectividad de algunas intervenciones en la medida en que no se sostengan metas asumidas anteriormente.
+          Por ejemplo, en el componente 4, el subcomponente vinculado al apoyo a la gestión de la ANEP previó la
+          implementación de una serie de módulos del sistema de gestión institucional en varios de los consejos
+          desconcentrados que por definiciones posteriores de las autoridades no pudieron ser implementados. Así, se preveía
+          que los 5 consejos aplicaran los sistemas de recursos humanos, depósitos, gestión de expedientes, 3 lo hicieron, y
+          sistema de resoluciones; que 4 consejos aplicaran el sistema dinámico de relevamiento de edificios, ninguno lo hizo
+          y que 5 consejos aplicaran el sistema de liquidación de sueldos, cuando 3 lo alcanzaron. Si bien el nivel de
+          implementación fue heterogéneo como puede verse en el Anexo 5, en la mayoría de los casos las metas de cantidad
+          de consejos adheridos a los módulos previstos fueron ajustadas a la baja durante la ejecución, y aun así algunas
+          metas no fueron alcanzadas. Se recomienda maximizar la documentación de los acuerdos de trabajo con todos los
+          involucrados y dejar en claro los efectos en la efectividad del Proyecto cuando se registran cambios de cierta
+          magnitud respecto a lo acordado.
+   3.         Dimensión de procesos públicos y actores
+     4.5 Como se menciona en el punto anterior, el Programa ha sido exitoso en la articulación de acciones con los diferentes
+          consejos desconcentrados del sistema educativo, logro importante dentro del contexto institucional de la educación
+          pública del Uruguay.
+   4.         Dimensión de Gestión Fiduciaria
+     4.6 Contar con una unidad ejecutora experimentada y equipos técnicos con vasto conocimiento de las políticas de
+          contrataciones y adquisiciones del Banco ha permitido un desempeño eficiente en términos de la capacidad de
+          planificación y de cumplimiento sustantivo de los cronogramas de trabajo previsto. Esto fue particularmente
+          importante en las actividades relacionadas con obras de infraestructura y en las vinculadas con sistemas de gestión.
+          Se recomienda analizar en profundidad y valorar la capacidad operativa de la unidad ejecutora, que ha demostrado
+          ser la herramienta clave para el adecuado cumplimiento de la ejecución prevista y fortalecer sus capacidades de
+          articulación y apoyo a los consejos.
+   5.         Dimensión de Riesgos
+     4.7 Contar con una unidad ejecutora experimentada y equipos técnicos adecuados permitió una excelente gestión de
+          los riesgos, en especial en las actividades de infraestructura. Las obras suelen ser complejas tanto en los posibles
+          imprevistos en los procesos de licitación y adjudicación, como en los de ejecución. Estas dos instancias fueron
+          gestionadas adecuadamente por la unidad ejecutora.
+     4.8 Un riesgo no previsto fue el hecho de que las responsabilidades de acciones del programa hayan sido transferidas
+          a otra institución del gobierno. Debe analizarse en la fase de diseño esta posibilidad y en la fase de ejecución prever
+          acciones de seguimiento con las unidades que se hicieron cargo de los programas.
+                                                                                                               Página 25 de 39
+"
+"ANEXO 1. ALINEACIÓN CON LAS NECESIDADES DE DESARROLLO DEL PAÍS.
+El sistema educativo uruguayo enfrentaba una serie de desafíos de acceso y retención en la EMB, tal
+como describe en el Cuadro A1.1.
+                       Cuadro A1.1 - Factores explicativos y principales desafíos del sistema
+      Fuente: Evaluación Final PAEMFE, en base a contrato de préstamo UR-L1050 y Proyecto Presupuesto 2010-2014
+En este contexto, el Programa se propuso concentrarse en varios ejes: (i) apoyar la universalización
+de la educación media y mejorar la calidad de los aprendizajes; esto debía ser acompañado y
+sustentado por la expansión de la infraestructura edilicia y la adecuación de las condiciones físicas de
+aprendizaje en los centros educativos (infraestructura escolar, materiales didácticos, uso de nuevas
+tecnologías); (ii) mejorar la formación inicial y continua docente, a partir de una reorganización
+institucional y curricular que buscaba dotar a los actuales y futuros docentes de mayores y más
+profundos conocimientos pedagógicos y disciplinares, y por esta vía generar un proceso hacia la
+mejoría de los aprendizajes de los alumnos; (iii) apoyar el diseño y la adecuación de los trayectos
+escolares para ofrecer alternativas más flexibles y pertinentes en respuesta a las necesidades de los
+jóvenes y las demandas de la sociedad, con énfasis en la formación, desde la educación técnica, de
+recursos humanos calificados para el desarrollo productivo del país como una medida para mejora la
+retención en el nivel secundario; y (iv) apoyar evaluaciones de programas y acciones de articulación
+entre los niveles al inicio y al final de ciclo básico. El Programa se propuso también apoyar mejoras en
+la gestión escolar, hacia una mayor desconcentración en los centros educativos, propiciando la
+articulación con la comunidad y promoviendo la participación a través de los consejos de participación
+de educación secundaria y de los consejos consultivos de educación técnica.
+En particular, el Programa puso énfasis en equidad e inclusión social atendiendo al desafío de mejorar
+el desempeño y la integración y retención de los jóvenes en la Educación Media, especialmente la de
+los jóvenes de 15 a 17 años de hogares más vulnerables, con elevado riesgo de desvinculación y con
+precedentes de repetición y rezago.
+La política educativa nacional del país respaldaba presupuestalmente un conjunto de políticas
+educativas, en el marco de las cuales el PAEMFE priorizaba acciones tendientes a mejorar el acceso
+y retención en el ciclo básico y a brindar apoyos a procesos de avance en los ámbitos de la formación
+docente y de la educación técnica.
+                                                                                                    Página 26 de 39
+"
+"ANEXO 2. LÓGICA VERTICAL POR COMPONENTE.
+La figura A2 resume la lógica vertical del proyecto. La figura distingue tres niveles.
+En el nivel más agregado se establecen los objetivos generales (en negro). No se asociaron
+indicadores a nivel impacto.
+En el segundo nivel se especifican los objetivos específicos (OBE, en marrón obscuro) y los indicadores
+asociados para medir su logro (marrón claro).
+En el tercer nivel se listan los productos. En este nivel se listan los componentes (COMP, en azul
+oscuro) y los indicadores de producto asociados para monitorear su implementación (azul claro).
+Los componentes listan el porcentaje de fondos destinados a cada producto en el momento de diseño
+en paréntesis.
+Las flechas indican las relaciones unidireccionales y paralelas en el diseño. Los datos son consistentes
+con la lógica del proyecto.
+Los componentes 1 y 2 fueron parcialmente cancelados durante la vida del proyecto, y el logro de
+objetivos es menor al esperado (como porcentaje de logro).
+El componente 3 tuvo una implementación más apegada al diseño y se observa el logro del objetivo
+3. El componente 4 se implementó en su mayoría y se mantuvo su relación con los indicadores
+seleccionados. Recortes a los productos afectaron la automatización de legajos:
+                                                                                          Página 27 de 39
+"
+"                 Figura A2. – Lógica Vertical Sintetizada de UR-L1050 (Elegibilidad + 60 días)
+ Impactos
+                             OBG - Contribuir a la política de acceso y retención la educación media básica general y técnico profesional
+             OBE1 – mejorar el desempeño
+                                  a.             OBE2– mejorar la retención         OBE3 – aumentar el acceso en         OBE 4– mejorar los procesos de
+             y la formación docente a través     en la educación media básica       la educación media básica            gestión del sistema educativo.
+             del apoyo a la política de          general y técnico profesional      general y técnico profesional
+             retención y profesionalización
+             de la formación en educación
+             RES. 1                              RES. 2                             RES. 3                               RES. 4
+             - Docentes en el nivel medio        -Tasas de desvinculación de 1º     - Cupos creados en los centros       - Tiempo destinado a realizar
+             que no cuenta con título            año de beneficiarios de            educativos construidos con           liquidaciones de sueldo.
+             habilitante.                        “Liceos Abiertos”                  recursos del Programa, logran
+                                                                                    matricula alumnos y ampliar la       -      Tiempo promedio de
+             - Desempeño de docentes del         - Tasa de repitencia de 1º año     matrícula                            preparación de entregas a
+             ciclo básico titulados en           de beneficiarios de “Liceos                                             Consejos Desconcentrados.
+             comparación con docentes no         Abiertos”                          - Aulas (centros) que cumplen
+             titulados.                                                             con la escala “deseable” (ver        -    Porcentaje de bienes con
+                                                 -Tasas de desvinculación del       punto 1.19(i) de la Propuesta de     trazabilidad en la entrega.
+             - Desempeño de los docentes en      1º año de EMS en alumnos           Préstamo)      para      buenos
+             escuelas rurales de 7º, 8º y 9º     beneficiarios del Proyecto                                              - Legajos de funcionarios de
+                                                                                    aprendizajes                         ANEP automatizados.
+             grado, en relación a su línea de    Interfase.
+             base.
+                                                 -Tasas de repitencia del 1º año
+                                                 de     EMS      en    alumnos
+                                                 beneficiarios por el Proyecto
+                                                 Interfase.
+Resultados
+                                                 - % de alumnos beneficiarios
+                                                 del Programa Rumbo que se
+                                                 matriculan en la educación
+                                                 media profesional.
+                 COMP. 1 Formación en             COMP. 2 Apoyo a la mejora           COMP. 3 Mejoramiento de la                COMP. 4 Apoyo a la
+                      educación                     del desempeño de la               oferta educativa (64% de los         instrumentación de la política
+                  (15% de los fondos)                 educación media                           fondos)                    educativa (9% de los fondos)
+                                                    (12% de los fondos)
+             Formación docente                                                                                            Extensión del sistema de
+                                                 Programa. Rumbo                                                          liquidación de sueldos, revisión
+             Desarrollo profesional [Bajó el
+                                                                                                                          estratégica, transferencia en
+Productos
+             No. De docentes]                                                        Construcción y equipamiento de
+                                                 Observatorio de educación y                                              aplicación de sistemas a consejos
+                                                                                     centros
+             Adecuación de 15 centros de         trabajo                                                                  desconcentrados, actualización
+             formación edificio IUDE,                                                Recursos      monetarios     para    censo de infraestructura
+             proyectos concursables, sistema     Extensión liceos abiertos           fortalecer pedagogía en centros
+                                                                                                                          Evaluación      de      impacto,
+             de información de alumnos y         Proyecto Interfase                  30 aulas informáticas                diagnóstico,          evaluación
+             personal
+                                                 Modularidad entre EM y ETP                                               infraestructura
+             Formación cambió de PAEMFE
+             a CODICEN y perdió prioridad
+                                                                                                                         Página 28 de 39
+"
+"Entrando en detalles, el componente 1 se enfocó en proveer formación en educación, y propuso
+acciones orientadas al fortalecimiento de la formación inicial de docentes, al desarrollo profesional
+permanente y al fortalecimiento de la institucionalidad de formación docente, tal como describe el
+cuadro A2.1. Los supuestos detrás del componente 1 eran que la provisión de estas acciones, incidirían
+en mejoras en el desempeño y la formación docente (Objetivo 1).
+                            Cuadro A2.1 - Estructura Componente 1. Formación en Educación
+Fuente: Evaluación Final PAEMFE, en base a Contrato de Préstamo UR-L1050
+El componente 2 propuso apoyar una serie de iniciativas de inclusión educativa que venían teniendo
+lugar y tenían diseños promisorios sobre los niveles de retención y culminación de ciclo en las
+poblaciones más vulnerables. El cuadro A.2.2 lista los subcomponentes y principales acciones y
+productos. El principal supuesto detrás de este componente es que el desarrollo de los programas
+Rumbo, Liceos Abiertos y Proyecto interfase, así como la implementación de un observatorio y una
+propuesta curricular llevarían al objetivo 2 de mejorar la retención en la EMB general y técnico
+profesional.28 29 30
+    28
+         El objetivo general del proyecto Interfase consistió en fortalecer las políticas educativas de inclusión en los centros de
+         educación media, centrando el foco en el tránsito del nivel de secundaria media básica a superior. Entre otros, el
+         programa proveyó tutorías, trabajo con familias y articulación con técnicos y profesionales de otras disciplinas y
+         fomentó la participación en actividades extracurriculares. El EEO 01 describe a mayor detalle el programa Interfase.
+    29
+         El objetivo del programa Rumbo es proveer continuidad educativa a jóvenes de entre 15 a 30 años que no han podido
+         acreditar la enseñanza media superior. El programa provee educación en tres módulos que cubren 38 semanas con
+         participación presencial y semipresencial. Para información más detallada del programa Rumbo consultar la liga
+         http://www.utueducacionbasica.edu.uy/index.php/educacion-basica-utu-equipos-de-acompanamiento/rumbo.html
+         [Acceso el 17 de febrero de 2019].
+    30
+         El objetivo del programa Liceos Abiertos busca facilitar un tránsito exitoso de la educación primaria a la educación
+         media. Para esto el programa buscó institucionalizar un dispositivo de acompañamiento niños que egresan de la
+         educación primaria, a través de la instalación de una figura de referencia educativa y el desarrollo de actividades
+         formativas.
+                                                                                                                Página 29 de 39
+"
+"          Cuadro A2.2 - Estructura Componente 2. Apoyo a la mejora del desempeño de la educación media
+Fuente: Evaluación Final PAEMFE, en base a Contrato de Préstamo UR-L1050
+El componente 3 combinó la inversión en construcción y equipamiento de centros, con el
+fortalecimiento de estrategias pedagógicas de los centros educativos. El cuadro A2.3 lista los
+subcomponentes y principales acciones y productos. El principal supuesto detrás de este componente
+es que la construcción y equipamiento de centros educativo acompañado de fortalecimiento de
+estrategias pedagógicas llevaría a un aumento en el acceso a la educación (objetivo 3). Este
+componente también contempló la provisión de aulas informáticas. El objetivo de la provisión de estas
+aulas informáticas fue de mejorar la calidad de la educación. En este sentido este subcomponente se
+alinea más bien a apoyar la calidad de la oferta educativa.
+                     Cuadro A2.3 - Estructura Componente 3. Mejoramiento de la oferta educativa
+Fuente: Evaluación Final PAEMFE, en base a Contrato de Préstamo UR-L1050
+El Componente 4 propuso acciones tendientes a la mejora de los procesos de gestión educativa y de
+generación de conocimiento, de acuerdo con el cuadro A2.4. El supuesto al momento de diseño era
+que el apoyo a la gestión de la ANEP y la evaluación y el monitoreo llevaría a mejoras en los procesos
+de gestión del sistema educativo (Objetivo 4).
+             Cuadro A2.4 - Estructura Componente 4. Apoyo a la instrumentación de la política educativa
+Fuente: Evaluación Final PAEMFE, en base a Contrato de Préstamo UR-L1050
+Es necesario analizar la lógica vertical del Programa y la definición de los resultados esperados
+teniendo en cuenta que tal como se explicita en el objetivo general del Programa, éste pretende
+“contribuir a la política de acceso y retención…”, y tal como se explicita en la justificación del Programa
+(párrafo 1.18 y ss. de la propuesta de préstamo) la operación procuraba apoyar los procesos de mejora
+que estaban teniendo lugar como parte de las políticas educativas, procurando que las acciones
+financiadas sirvieran de base a las políticas y acciones que se avanzaran en el ámbito de la EMS en
+los siguientes años. En este sentido, el Programa no fue concebido para financiar completamente
+algunas acciones específicas, sino para apoyar y apalancar un conjunto relativamente amplio de
+iniciativas que estaban siendo desarrolladas o en proceso de definición.
+                                                                                                   Página 30 de 39
+"
+"ANEXO 3 – CAMBIOS A LA MATRIZ DE RESULTADOS
+                                                                Tabla A3.1 Cambios a la Matriz de Resultados
+                                                                                        Meta ajustada                                        Fecha de         Fecha acordado con
+Sección        Nombre del cambio                                Tipo de cambio                           Razones para el cambio
+                                                                                        (si aplica)                                          cambio           UE
+               \"Desempeño de docentes del ciclo básico                                                                                                        Junio 2011. AM Taller
+                                                                                                         Imposibilidad técnica de medición   Junio 2011 -
+Resultados     titulados en comparación con docentes no         Eliminación indicador                                                                         Inicio (IDBDocs #
+                                                                                                         de la variable                      Taller de inicio
+               Titulados\".                                                                                                                                    36246074)
+               \"Desempeño de docentes
+               Tasas de desvinculación y repitencia del 1º año                                                                               Junio 2014.
+Resultados                                                      Eliminación indicador                    Programa discontinuado en 2012                       Junio 2014. PMR
+               del ciclo medio básico en alumnos beneficiados                                                                                PMR
+               por los Liceos Abiertos¨
+               Tasa de repitencia del 1º grado de beneficiados                                                                               Junio 2014.
+Resultados                                                      Eliminación indicador                    Programa discontinuado en 2012                       Junio 2014. PMR
+               por los Liceos Abiertos                                                                                                       PMR
+               Porcentaje de aulas que tienen un número de
+               alumnos no superior a 33 por aula y de centros
+               que tienen una matrícula total no superior a 800
+               estudiantes por centro (incluyendo turno                                                  Se ajustó la redacción ya que la                     Junio 2011. AM Taller
+                                                                                                                                             Junio 2011 -
+Resultados     matutino y vespertino), en zona geográfica       Apertura Indicador                       redacción original del indicador se                  Inicio (IDBDocs #
+                                                                                                                                             Taller de inicio
+               donde son construidos y/o refaccionados los                                               subdivide en 2 a fines de reporte                    36246074)
+               centros con recursos del Programa con el
+               objetivo de cumplir la escala deseable definida
+               por ENIA
+               Aulas (centros) que cumplen con la escala                                                 Se ajustó la redacción ya que la                     Junio 2011. AM Taller
+                                                                                                                                             Junio 2011 -
+Resultado      \"deseable\" (ver punto 1.19 (i) de la Propuesta   Apertura Indicador                       redacción original del indicador se                  Inicio (IDBDocs #
+                                                                                                                                             Taller de inicio
+               de Préstamo) para buenos aprendizajes.                                                    subdivide en 2 a fines de reporte                    36246074)
+                                                                                                                                                                   Página 31 de 39
+"
+"ANEXO 4. ESTIMACIÓN DE RESULTADOS ASOCIADOS AL LOGRO DEL OBJETIVO
+Las acciones de mitigación residían en la CODICEN como organismo responsable para garantizar la
+información de datos. Sin embargo, no se pudo prever los cambios de prioridades alrededor y al interior
+de la CODICEN que afectarían tanto la implementación de los programas como el monitoreo del logro
+de sus objetivos. Se comparan los estudiantes en departamentos relativamente urbanos (Montevideo,
+Canelones y San José) con el resto del país (el interior, relativamente más rural). En 2013 los
+estudiantes en las zonas relativamente urbanas tenían una tasa de aprobación de 79 % comparado
+con un 75 % en zonas relativamente rurales, es decir 4 puntos porcentuales arriba. Para 2017 la
+relación se invirtió. Los estudiantes en las zonas relativamente rurales estaban 3 puntos porcentuales
+arriba que las zonas relativamente rurales con una tasa de aprobación de 76 % contra un 73 % en las
+zonas urbanas. Si el sector rural hubiera seguido la tendencia del sector rural entonces hubiera tenido
+en 2017 un desempeño 4 puntos porcentuales abajo. Por lo tanto, gana con relación a su desempeño
+contrafáctico 7 puntos porcentuales (4 puntos de brecha y 3 puntos de superación). La figura A4.1
+muestra la evolución de la tasa de aprobación entre ambos grupos. Aunque esta medida no sustituye
+una medida de calidad directa sobre desempeño docente, esta comparación nos da información sobre
+posibles mejoras de desempeño docente reflejadas en el desempeño de los estudiantes. 31.
+        Figura A4.1. Comparación de la tasa de aprobación promedio entre departamentos relativamente urbanos
+             (Montevideo, Canelones, y San José) con departamentos relativamente rurales (resto del país).
+Fuente: Elaborado por los autores con información de datos administrativos del Sistema de Información GURI
+     31
+           Seguimos para esta estimación a los proponentes de modelos de valor añadido para definir la productividad docente
+           con el desempeño de los estudiantes. Evidencia de los Estados Unidos sugiere ésta es una mejor medida en
+           comparación con la educación, la experiencia docente, u otras características observables en registros administrativos
+           (Chetty, Friedman y Rockoff, 2014; Chetty, Friedman y Rockoff, 2014b).
+                                                                                                              Página 32 de 39
+"
+"ANEXO 5 MATRIZ DE PRODUCTOS ALCANZADOS
+                                        Tabla A5.1 Matriz de Productos Alcanzados
+                                                         Línea  Año
+                                          Unidad de                    Metas y Resultados             Medio de
+Producto/Indicador                                       de     de                        % logrado
+                                          Medida                       Alcanzados                     Verificación
+                                                         Base   LB
+Componente #1: Formación en educación
+                                                                       P         1
+                                                                                                      CFE /
+1.1 Estudio de factores de no
+                                          Estudio        0      2011   P(a)               100%        Informes del
+graduación a tiempo terminado
+                                                                                                      Programa
+                                                                       A         1
+                                                                       P         4.000
+1.2 Estudiantes de formación en                                                                       CFE /
+educación que reciben apoyo               Alumnos        0      2011   P(a)               77%         Informes del
+académico                                                                                             Programa
+                                                                       A         3.083
+                                                                       P         460
+1.3 Estudiantes de formación en                                                                       CFE /
+                                                                                          100%
+educación que reciben apoyo               Alumnos        60     2011   P(a)      610                  Informes del
+                                                                                          (111%)
+económico                                                                                             Programa
+                                                                       A         677
+                                                                       P         11.000
+1.4 Estudiantes en modalidad                                                                          CFE /
+                                                                                          100%
+semipresencial con apoyo de tutorías y    Alumnos        0      2011   P(a)      20.588               Informes del
+                                                                                          (992%)
+guías de estudio                                                                                      Programa
+                                                                       A         20.401
+                                                                       P         1
+                                                                                                      CFE /
+1.5 Plan de estudios flexibilizado        Plan           0      2010   P(a)               0%          Informes del
+                                                                                                      Programa
+                                                                       A         -
+1.6 Docentes ingresantes y en ejercicio                                P         2.250
+                                                                                                      CFE/CES /
+de escuelas rurales de 7°, 8° y 9°                                                        100%
+                                          Docentes       450    2010   P(a)      1.207                Informes del
+grado capacitados en forma                                                                108%
+                                                                                                      Programa
+permanente.                                                            A         1.306
+                                                                       P         1.000
+1.7 Profesores en formación en                                                                        CFE /
+educación formados para el uso            Docentes       0      2010   P(a)      5.804    100%        Informes del
+educativo de las TICs                                                                                 Programa
+                                                                       A         5.804
+                                                                       P         2.250
+                                                                                                      CFE/CES /
+1.8 Directores y asistentes capacitados
+                                          Docentes       500    2010   P(a)      1.140    91%         Informes del
+en gestión y mediación
+                                                                                                      Programa
+                                                                       A         1.040
+                                                                       P         509
+1.9 Encuentros de formación continua                                                                  CFE /
+                                                                                          100%
+de docentes de secundaria y centros       Encuentros     0      2010   P(a)      1.879                Informes del
+                                                                                          (110%)
+unidocentes y multigrado.                                                                             Programa
+                                                                       A         2.061
+                                                                       P         8
+1.10 Unidades Regionales de                                                                           CFE /
+Educación Permanente en                   UREP           0      2010   P(a)      8        88%         Informes del
+funcionamiento.                                                                                       Programa
+                                                                       A         7
+                                                                       P         4.900
+1.11 Directores y asistentes de centros                                                               CFE /
+                                                                                          100%
+educativos del CES y CETP                 Docentes       0      2010   P(a)      6.021                Informes del
+                                                                                          (148%)
+capacitados anualmente.                                                                               Programa
+                                                                       A         8.894
+                                                                       P         15
+1.12 Centros de formación en                                                                          Informes del
+                                          Centros        0      2010   P(a)      17       94%
+educación readecuados.                                                                                Programa
+                                                                       A         16
+                                                                       P         66
+1.13 Proyectos de inversión
+                                                                                          100%        Informes del
+implementados por los centros de          proyectos      33     2011   P(a)      66
+                                                                                          (147%)      Programa
+formación docente.
+                                                                       A         97
+                                                                                                  Página 33 de 39
+"
+"                                                      Línea Año
+                                         Unidad de                Metas y Resultados             Medio de
+Producto/Indicador                                    de    de                       % logrado
+                                         Medida                   Alcanzados                     Verificación
+                                                      Base  LB
+                                                                  P         1
+1.14 Instituto Universitario de
+                                                                                                 Informes del
+Educación construido y en                Centro       0     2010  P(a)      1        100%
+                                                                                                 Programa
+funcionamiento.
+                                                                  A         1
+                                                                  P         1
+1.15 Sistema de gestión y digitalización                                                         Informes del
+                                         Sistema      0     2010  P(a)      1        100%
+de información en funcionamiento.                                                                Programa
+                                                                  A         1
+                                                                  P         10
+1.16 Jornadas de Trabajo para la
+                                                                                                 Informes del
+integración de la carrera de Educador    Jornadas     0     2010  P(a)      11       100%
+                                                                                                 Programa
+Social
+                                                                  A         11
+                                                                  P         8
+1.17 Proyectos de extensión                                                                      Informes del
+                                         Proyectos    0     2010  P(a)      7        14%
+universitaria implementados.                                                                     Programa
+                                                                  A         1
+Componente #2: Apoyo a la mejora del desempeño de la educación media
+                                                                  P         1
+2.1 Programa Rumbo implementado y                                                                Informes del
+                                         Programa     0     2010  P(a)      1        100%
+en funcionamiento.                                                                               Programa
+                                                                  A         1
+                                                                  P         1
+2.2 Observatorio \"Transición de la                                                               Informes del
+                                         Observatorio 0     2010  P(a)      1        100%
+escuela al trabajo\" en funcionamiento.                                                           Programa
+                                                                  A         1
+                                                                  P         5
+2.3 Encuentros deportivos y de                                                       100%        Informes del
+                                         Encuentros   0     2010  P(a)      6
+integración Proyecto Pintó Deporte                                                   (117%)      Programa
+                                                                  A         7
+                                                                  P         400
+2.4 Alumnos beneficiados por Liceos                                                              Informes del
+                                         Estudiantes  200   2010  P(a)      379      100%
+Abiertos                                                                                         Programa
+                                                                  A         379
+                                                                  P         3.000
+2.5 Alumnos beneficiados por el                                                                  Informes del
+                                         estudiantes  0     2010  P(a)      2.400    100%
+proyecto Interfase.                                                                              Programa
+                                                                  A         2.390
+                                                                  P         1
+2.6 Propuesta de articulación entre la                                                           Informes del
+                                         Propuesta    0     2010  P(a)               100%
+educación media general y tecnológica.                                                           Programa
+                                                                  A         1
+2.7 Consejos de Participación                                     P         720
+instalados y en funcionamiento (incluye                                                          Informes del
+                                         Consejos     100   2011  P(a)               80%
+espacios de diálogo y estudio                                                                    Programa
+exploratorio).                                                    A         574
+Componente #3: Mejoramiento de la oferta educativa
+                                                                  P         227
+3.1 Aulas construidas y totalmente
+                                                                                                 Informes del
+equipadas para la educación media        Aulas        0     2010  P(a)      214      92%
+                                                                                                 Programa
+secundaria
+                                                                  A         197
+                                                                  P         145
+3.2 Aulas construidas y totalmente
+                                                                                                 Informes del
+equipadas para la educación media        Aulas        0     2010  P(a)      208      100%
+                                                                                                 Programa
+técnico profesional
+                                                                  A         208
+3.3 Proyectos de inversión de centros                             P         755      100%        Informes del
+                                         Proyectos    475   2010
+educativos implementados.                                         P(a)      571      (237%)      Programa
+                                                                                             Página 34 de 39
+"
+"                                                        Línea   Año
+                                        Unidad de                    Metas y Resultados             Medio de
+Producto/Indicador                                      de      de                      % logrado
+                                        Medida                       Alcanzados                     Verificación
+                                                        Base    LB
+                                                                     A         1.352
+                                                                     P         30
+3.4 Aulas informáticas construidas,
+                                                                                        100%        Informes del
+totalmente equipadas y con              Aulas           0       2010 P(a)      30
+                                                                                        (170%)      Programa
+conectividad.
+                                                                     A         51
+Componente #4: Apoyo a la instrumentación de la política educativa
+                                                                     P         5
+4.1 Consejos que aplican el sistema de                                                              Informes del
+                                        Consejos        1       2010 P(a)               60%
+liquidación de sueldos                                                                              Programa
+                                                                     A         3
+                                                                     P         5
+4.2 número de funcionarios usuarios                                                                 Informes del
+                                        Consejos        0       2010 P(a)               20%
+del sistema de recursos humanos.                                                                    Programa
+                                                                     A         1
+                                                                     P         5
+4.3 Consejos que tienen el sistema de                                                               Informes del
+                                        Consejos        3       2010 P(a)      4        100%
+inventarios funcionando.                                                                            Programa
+                                                                     A         4
+                                                                     P         1
+4.4 Plan Estratégico de Tecnologías de                                                              Informes del
+                                        Plan            0       2010 P(a)               100%
+Información actualizado.                                                                            Programa
+                                                                     A         1
+                                                                     P         5
+4.5 Consejos que aplican el sistema de                                                              Informes del
+                                        Consejos        1       2010 P(a)      3        67%
+gestión de expedientes.                                                                             Programa
+                                                                     A         2
+                                                                     P         5
+4.6 Consejos que aplican el sistema de                                                              Informes del
+                                        Consejos        1       2010 P(a)               40%
+gestión de resoluciones.                                                                            Programa
+                                                                     A         2
+                                                                     P         4
+4.7 Consejos que aplican el                                                                         Informes
+sistema dinámico de relevamiento        Consejos        0       2010 P(a)      -        0%          del
+de edificios.                                                                                       Programa
+                                                                     A         -
+                                                                     P         2
+4.8 Estudios sobre infraestructura                                                                  Informes del
+                                        Estudios        0       2010 P(a)      1        100%
+educativa e impacto en aprendizajes.                                                                Programa
+                                                                     A         1
+                                                                     P         1
+4.9 Estudio sobre oferta educativa para                                                             Informes del
+                                        Estudios        0       2010 P(a)               100%
+la población rural.                                                                                 Programa
+                                                                     A         1
+                                                                                                Página 35 de 39
+"
+"ANEXO 6. ANÁLISIS DE SOBRE COSTOS Y SOBRE TIEMPOS
+Al descomponer por origen de los fondos se observa que la ejecución del aporte local proveniente de
+rentas generales de la nación asciende prácticamente al 100% todos los años; mientras que los fondos
+de endeudamiento BID se ejecutan levemente en menor medida.
+                                  Cuadro A6.1- Asignación vs ejecución presupuestal
+Fuente: Informe de Evaluación Final en base a datos del SIIF
+Al analizar por componente, se identifica un alto nivel de ejecución en general, con la excepción del
+Componente 2 para el cual en todos los años los fondos ejecutados fueron inferiores a los planificados.
+Esta situación se relaciona con la desactivación temprana de varias de las líneas de acción de este
+componente (Liceos Abiertos, Rumbo, Interfase).
+                                         Cuadro A6.2- Planificado vs Ejecutado
+Fuente: Informe de Evaluación Final en base a datos del Sistema de Gestión de PAEMFE y POAs
+Al analizar la ejecución por rubro de gasto, se identifica que los rubros de mayor asignación relativa -
+infraestructura (obras nuevas y ampliaciones), consultorías y capacitaciones - tuvieron una ejecución
+mayor al 90%. La principal sub-ejecución se registra en gastos asociados a Investigación e Informática
+(software y hardware), ambos rubros de baja asignación relativa en el Programa.
+           Cuadro A6.3 - Asignación y ejecución de fondos por rubros de gasto (2011 – 2015; millones de $U)
+                                  ASIGNADO           EJECUTADO a 2015
+  Rubro de gasto                                                             % Ej               Dif ($)
+                                  (millones $U)      (millones $U)
+  Investigación                                  2                       1   31,8%              (1,50)
+  Informática (hardware y
+                                                66                      50   76,0%              (15,70)
+  software)
+  Consultorías                                295                     271    91,8%              (24,10)
+  Capacitación                                286                     275    96,0%              (11,30)
+  Administración del
+                                                26                      26   98,8%              (0,30)
+  Proyecto: gastos
+                                                                                                     Página 36 de 39
+"
+"  Construcción: Obras
+  nuevas, ampliaciones y                        1.441                    1.425    98,9%                  (15,30)
+  adecuaciones
+  Administración del
+                                                  122                      122    99,9%                  (0,10)
+  Proyecto: RRHH
+  Equipamiento, mobiliario y
+                                                  157                      171    108,7%                 13,60
+  maquinaria
+  TOTAL                                         2.394                    2.340    97,7%                  (54,70)
+Fuente: Informe de Evaluación Final en base a datos del SIIF
+BIBLIOGRAFÍA
+     .
+ANEP, 2010. “Informe Ejecutivo Uruguay en PISA 2009”.
+ANEP, 2013. “Informe Uruguay en PISA 2012”.
+ANEP, 2015. “Boletín del Programa PISA Uruguay – 2015”
+ANEP, 2016. “Propuesta para un sistema de protección de trayectorias educativas”.
+ANEP-CFE, 2012. “Estudio de los factores que influyen en la duración de las carreras de formación docente” ISBN: 978-9974-
+688-95-7.
+ANEP DIEE, 2017 “Estudio sobre la implementación de los sistemas de gestión, liquidación de sueldos y expediente electrónico
+en la ANEP y cambios operados: La perspectiva de los usuarios”
+ANEP-CODICEN 2010-2014. “Presupuesto Nacional 2010-2014”, y Tomo I: Exposición de motivos y articulado.
+ANEP-DIEE, 2014. “Informe evaluación de medio término infraestructura PAEMFE”.
+ANEP-DIEE, 2015. “Informe implementación 2011-2014 Proyecto Interfase”.
+Baker, Goesling, y LeTendre, 2002.
+Bando, Rosangela. 2010. “The Effect of School Based Management on Education. Evidence from Primary Education in Mexico.”
+PhD Dissertation. University of California, Berkeley.
+Banerjee, Abhijit V., Shawn Cole, Esther Duflo, and Leigh Linden. \"Remedying Education: Evidence from Two Randomized
+Experiments in India.\" The Quarterly Journal of Economics 122, no. 3 (2007): 1235-1264.
+Barros, R. P., Mendonça, Santos y Quintaes, 2001, Determinantes do Desempenho Educacional no Brasil. Pesquisa e
+Planejamento Econômico, v.31, n.1, p.1-42.
+BID 2016. Marco sectorial de educación y desarrollo infantil temprano. Párrafos 2.25 y ss.
+Chetty, Raj, John N. Friedman, and Jonah E. Rockoff. 2014a. Measuring the Impacts of Teachers I: Evaluating Bias in Teacher
+Value-Added Estimates.” American Economic Review 104(9): 2593-2632.
+Chetty, Raj, John N. Friedman, and Jonah E. Rockoff. 2014b. Measuring the Impacts of Teachers II: Teacher Value-Added and
+Student Outcomes in Adulthood.” American Economic Review 104(9): 2633-2679.
+CPA Ferrere, 2016. “Evaluación final del Programa de Apoyo a la Educación Media y Técnica y a la Formación en Educación”,
+Duarte J., Bos M. y M. Moreno. 2011. “Los docentes, las escuelas y los aprendizajes escolares en América Latina: Un estudio
+regional usando la base de datos del SERCE”. SCL/EDU, Nota Técnica. Washington D.C. Banco Interamericano de Desarrollo.
+Duarte J., C. Gargiulo, y M. Moreno. 2011. “Situación de la Infraestructura Escolar y Calidad de la Educación Básica en América
+Latina: Un análisis a partir del SERCE”.
+Duarte, Jesús, Jaureguiberry, Florencia y Racimo, Mariana, BID y OREAL/UNESCO, 2017. “Suficiencia, equidad y efectividad
+de la infraestructura escolar en América Latina según el TERCE”
+Glewwe y Muralidharan, 2015, Improving School Education Outcomes in Developing Countries: Evidence, Knowledge Gaps, and
+Policy Implications
+Harris, D.N., and T.R. Sass. 2011. “Teacher Training, Teacher Quality and Student Achievement.” Journal of Public Economics
+95:798–812.
+Heynemann y Loxley, 1983, The effect of primary school quality on academic achievement across twenty nine high and low
+income countries
+May, Henry; Gray, Abigail M.; Gillespie, Jessica; Sirinides, Philip M; Sam, Cecile; Goldsworthy, Heather; Armijo, Michael; and
+Tognatta, Namrata. (2013). \"Evaluation of the i3 Scale-up of Reading Recovery | Year One Report, 2011-12.\" CPRE Research
+Reports (2013)
+PAEMFE. Informes Anuales de Actividades del Programa en http://www.paemfe.edu.uy/web/index.php/informesn/informe-de-
+actvidades-contrato-2480
+Rutt, Simon, Claire Easton, and Oliver Stacey. \"Catch Up® Numeracy.\" Education Endowment Foundation (2014)
+                                                                                                              Página 37 de 39
+"
+"Shah, M. (2014). Impact of Management Information Systems (MIS) on School Administration: What the Literature Says. Procedia
+-     Social      and      Behavioral     Sciences.  Volume      116.     Pages       2799-2804.       ISSN      1877-0428.
+https://doi.org/10.1016/j.sbspro.2014.01.659.
+                                                                                                          Página 38 de 39
+"

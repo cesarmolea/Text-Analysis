@@ -1,0 +1,1410 @@
+"outlist[[i]]"
+"                            FICHA RESUMEN DEL PROYECTO CO-L1098
+REDIRECCIONAMIENTO
+ESTE PROYECTO CUENTA CON:
+FONDOS RECIBIDOS DE OTRO PROYECTO: NO
+FONDOS ENVIADOS A OTRO PROYECTO: NO
+CALIFICACIONES DEL DESEMPEÑO DEL PROYECTO EN LOS PMR:
+    NO.         PMR FECHA            ETAPA DE PMR                              DESEMBOLSOS REALES
+                                                                                (MILLONES DE USD)
+   1          Diciembre 2011               1                  NA                   515,646.00
+   2          Diciembre 2012               2                  NA                  1,915,787.00
+   3          Diciembre 2013               2           SATISFACTORIO              1,856,086.12
+   4          Diciembre 2014               2           SATISFACTORIO              2,482,017.52
+   5          Diciembre 2015               2           SATISFACTORIO              1,100,000.00
+   6          Diciembre 2016               2           SATISFACTORIO                   0,00
+   7          Diciembre 2017               2           SATISFACTORIO               185,168.36
+METODOLOGÍA DE ANÁLISIS ECONÓMICO: EFICIENCIA EN LOS TIEMPOS DE EJECUCIÓN DEL PROYECTO, Y
+EFICIENCIA EN LA UTILIZACIÓN DE LOS RECURSOS ECONÓMICOS ASIGNADOS
+METODOLOGÍA DE EVALUACIÓN EX POST: EVALUACIÓN INTERMEDIA Y EVALUACIÓN FINAL
+CLASIFICACIÓN DE EFECTIVIDAD DE DESARROLLO: 3 SATISFACTORIO
+PERSONAL DEL BANCO
+                      POSICIONES                   EN PCR          EN LA APROBACIÓN
+           VICEPRESIDENTE VPS                     ANA MARÍA
+                                              RODRÍGUEZ-ORTIZ
+           VICEPRESIDENTE VPC                 ALEXANDRE MEIRA
+                                                   DA ROSA
+           GERENTE DE PAÍS                    RAFAEL DE LA CRUZ
+           GERENTE SECTORIAL                      MOISÉS J.
+                                                 SCHWARTZ
+           JEFE DE DIVISIÓN                      LEA RAQUEL
+                                               GIMÉNEZ DUARTE
+           REPRESENTANTE DE PAÍS              RAFAEL DE LA CRUZ        JAVIER LEÓN
+           JEDE DE EQUIPO DEL PROYECTO           DIEGO ARISI       ARNALDO POSADAS
+           JEFE DE EQUIPO DEL PCR                DIEGO ARISI
+DECLARACIÓN DE LOS OBJETIVOS DE DESARROLLO DEL PROYECTO / PROGRAMA:
+EL OBJETIVO GENERAL DEL PROGRAMA CONSISTE EN CONTRIBUIR AL MEJORAMIENTO DE LA TRANSPARENCIA EN
+LA GESTIÓN PÚBLICA, A TRAVÉS DEL AUMENTO DE LOS NIVELES DE CUMPLIMIENTO NORMATIVO. LOS OBJETIVOS
+ESPECÍFICOS SON: (I) AUMENTO DE LOS NIVELES DE CUMPLIMIENTO NORMATIVO, E (II) INCREMENTO DE CONTROL
+CIUDADANO DE RENDICIÓN DE CUENTAS
+                                                    v
+"
+"        I.   RESUMEN EJECUTIVO
+1.1.    El 16 de marzo de 2011, el Gobierno de la República de Colombia (GDC) y el Banco
+        Interamericano de Desarrollo (BID) firmaron el contrato de préstamo 2249/OC-CO
+        ejecutar el Programa de Fortalecimiento de la Procuraduría General de la Nación –
+        Segunda Etapa.
+1.2.    Este proyecto tiene como antecedente el Programa de Apoyo al Fortalecimiento de la
+        PGN (1459/OC-CO), primera etapa en la que se fortaleció la capacidad institucional de la
+        Procuraduría General de la Nación (PGN) a partir de un proceso de modernización de
+        algunas de sus actividades de gestión.
+1.3.    Sin embargo, aún después de los resultados positivos en la ejecución de la Fase I, se
+        detecta la problemática de bajo cumplimiento normativo, con resultados negativos en
+        aumento en los índices de corrupción y la ineficiencia de la burocracia en el gobierno,
+        razón por la que se implementa con apoyo del BID la Fase II, con miras a mejorar la
+        capacidad preventiva de la PGN.
+1.4.    Los resultados de la Fase II son mixtos. Por un lado, el programa obtuvo resultados
+        positivos en su objetivo específico de Aumento de los niveles de cumplimiento
+        normativo, donde 6 de las 8 entidades que formaron parte del piloto cumplieron o
+        superaron la meta establecida. Por otro lado, el programa no cumplió con las metas
+        establecidas en los indicadores acordados para medir el impacto del programa, Índice de
+        Transparencia Internacional y el Índice de Percepción de Corrupción. El equipo observa
+        que, durante el diseño del programa, se habían concebido objetivos diferentes a los
+        vinculados con ambos Índices internacionales.
+1.5.    Dentro de los ajustes para medir los resultados reales de la ejecución del programa, se
+        propuso agregar un indicador de resultados adicional, Cierre de brechas de conocimiento
+        de la normatividad, y uno de los indicadores concebido originalmente como Producto,
+        Mecanismos de participación ciudadana para apoyo de la función preventiva fortalecidos,
+        se reposiciono a nivel de resultados.
+1.6.    En términos de Eficiencia, El valor total de la Fase II del Programa fue de USD
+        $8,054,705.00, 19.45% menos de lo previsto originalmente. La diferencia se sustenta por
+        recursos excedentarios en los precios de contratación generados por efecto de la TRM
+        aplicada versus la estimada inicialmente para las adquisiciones, así como en la
+        cancelación de los recursos destinados a imprevistos que no fueron requeridos en el
+        desarrollo del Programa, estos ajustes derivaron en la devolución de USD $1,886,899.00.
+1.7.    Una de las medidas para garantizar la sostenibilidad del proyecto consistió en que los
+        productos asociados al Componente I, Fortalecimiento del Sistema Integral de
+        Prevención 1, fueron incorporados en el sistema de gestión de calidad y adoptados
+        mediante actos administrativos 2. Otras medidas se incluyen en el Cuadro 5.
+1.8.    Transcurridos 6 años de la Fase II, se puede afirmar que a la luz del objetivo de dotar a
+        la PGN de la conceptualización, organización, procesos, procedimientos y herramientas
+1  Productos que integran el Componente I: Guía de Contratación Pública, Protocolo para el control de la gestión
+   preventiva y la Metodología para el seguimiento y la medición integral de la legalidad.
+2  Forman parte de los contenidos de los procesos de inducción y reinducción de servidores públicos.
+                                                         1
+"
+"       de trabajo que permitieran volver la función preventiva una función operativa, inscrita
+       dentro del quehacer misional al mismo nivel que la función disciplinaria, el Programa fue
+       exitoso, pues logró sentar las bases organizacionales y procedimentales para el ejercicio
+       estructurado de esta función y desarrollar instrumentos de trabajo útiles para su gestión.
+       II. INTRODUCCIÓN
+2.2.1. La Procuraduría General de la Nación (PGN) es el máximo órgano de control de la
+       conducta estatal en Colombia y ejerce sus facultades constitucionales y legales mediante
+       tres funciones misionales: preventiva, de intervención y disciplinaria. Como
+       antecedente del presente proyecto, la PGN implementó con apoyo del BID, el Programa
+       de Apoyo al Fortalecimiento de la PGN (1459/OC-CO) durante el periodo 2003 y 2007,
+       el cual contribuyó significativamente a aumentar su capacidad institucional.
+2.2.2. La ejecución de esta primera etapa resultó satisfactoria, superando las metas inicialmente
+       fijadas. Entre los logros se pueden destacar una disminución sustancial en la
+       congestión de investigaciones disciplinarias procesadas por la entidad, significativos
+       ahorros para el Estado como producto de la actividad conciliatoria de la PGN, y un
+       aumento en la confianza que los ciudadanos tienen en la gestión de la entidad y en su rol
+       de vigilancia del correcto funcionamiento de las entidades públicas.
+2.2.3. Superada la primera fase de modernización, la PGN ha enfocado sus esfuerzos en la
+       función preventiva, considerada su principal responsabilidad frente a los amplios
+       mandatos que le otorga el ordenamiento jurídico colombiano. A pesar de los resultados
+       positivos de la Fase I del programa (1459/OC-CO), aún se observan indicios de bajo
+       cumplimiento normativo en el país con graves consecuencias para el erario. Frente a
+       ello, el adecuado ejercicio de la función preventiva pretende incentivar una cultura que
+       evite la vulneración de los derechos del ciudadano y su consecuente costo social, antes
+       que ejercer medidas de carácter represivo. Dicho de otro modo, la PGN se ha propuesto
+       consolidar el ejercicio de formalización y estandarización de su función preventiva
+       y demostrar que dicho fortalecimiento trasciende e impacta la manera en que se
+       desempeña la actividad estatal, cuya vigilancia le corresponde.
+2.2.4. La problemática de bajo cumplimiento normativo se traduce en vicios en la
+       Administración Pública. Según el Índice de Competitividad del Foro Económico Mundial,
+       la corrupción y la ineficiencia de la burocracia del gobierno son, respectivamente, el
+       primer y cuarto factor más problemáticos para hacer negocios en Colombia. Asimismo,
+       según el Índice de Gobernabilidad del Banco Mundial, el control de la corrupción es uno
+       de los factores que ha desmejorado en el país. Los anteriores indicadores internacionales
+       son corroborados en mediciones nacionales. Por ejemplo, el Sistema de Información
+       Misional (SIM) de la PGN, documenta que la corrupción es el mayor motivo de queja por
+       parte de la ciudadanía ante la entidad. Asimismo, según el Programa Presidencial de
+       Lucha contra la Corrupción, la apropiación indebida de recursos públicos se traduce en
+       una pérdida para el Estado de aproximadamente, US$17 mil millones al año, es decir,
+       el 13% de los recursos que el Estado contrata anualmente. Ante esta problemática,
+       los poderes públicos han establecido una serie de normativas legales y administrativas
+                                                2
+"
+"        con el fin de aumentar la transparencia en el sector público colombiano. Sin embargo,
+        este marco normativo no se está cumpliendo de manera deseada y el Índice de
+        Transparencia Internacional no muestra mejoría en los últimos 12 años.
+2.2.5. De acuerdo con la literatura, existen una variedad de factores que contribuyen a la
+        prevalencia de la corrupción, incluyendo factores de naturaleza institucional 3 y
+        factores relacionados con la debilidad de la sociedad civil. Colombia muestra
+        debilidades en ambos aspectos, específicamente en: (i) las subsistentes debilidades del
+        actual sistema de prevención de la PGN; y (ii) las condiciones desfavorables para un
+        control social de la corrupción efectivo.
+2.2.6. En cuanto a la aún insuficiente capacidad del sistema de prevención de la PGN, sobresale
+        la falta de coordinación entre los distintos niveles de la entidad que desarrollan la
+        función preventiva. El actuar insular entre las dependencias del nivel central y el nivel
+        territorial, resulta en pérdida de recursos y en la ineficacia de las políticas de
+        prevención trazadas. En efecto, a pesar del avance normativo alcanzado en la primera
+        etapa del proyecto, representado en la expedición de normativa interna que
+        conceptualiza y sienta las bases para la operatividad de dicha función, aún no se
+        consolida la implementación interna del mismo. Igualmente, la ausencia de incentivos
+        dentro de la PGN para realizar la función preventiva (en términos semejantes a los
+        existentes para el desarrollo de otras funciones de la entidad), afecta el relieve
+        (negativamente) que se les otorga a las actividades de prevención.
+2.2.7. En este contexto, y para consolidar la implementación de los resultados obtenidos en la
+        Fase I y el fortalecimiento de la función preventiva de la PGN, se plantea una Fase II
+        mediante el Programa de Fortalecimiento de la Procuraduría General de la Nación –
+        Segunda Etapa, y para su implementación el Gobierno de Colombia firmó el contrato de
+        préstamo 2249/OC-CO con el BID por un monto total de US$ 10,000,000.00 (monto
+        únicamente financiado por el BID).
+2.2.8. En el documento de propuesta de préstamo, se definió como objetivo del Programa
+        contribuir al mejoramiento de la transparencia en la gestión pública, a través del
+        aumento de los niveles de cumplimiento normativo y no se definieron objetivos
+        específicos. Sin embargo, durante la ejecución del proyecto, y como parte del presente
+        análisis, se reformula la redacción del objetivo general del programa únicamente a
+        contribuir al mejoramiento de la transparencia en la gestión pública, y se identifican
+        dos objetivos específicos para lograr su cumplimiento: (1) Aumento de los niveles de
+        cumplimiento normativo, el cual se desprendió del objetivo del programa original; y el (2)
+        Incremento de control ciudadano de rendición de cuentas; los cuales fueron
+        implementados a partir de dos líneas de acción (componentes): (i) Fortalecimiento
+        del Sistema Integral de Prevención; y (ii) Fomento de un efectivo control social de la
+        corrupción.
+3. Probabilidad de que los actos de corrupción sean detectados por los organismos de control.
+                                                        3
+"
+" 2.2.9. Como parte de los compromisos al término de la ejecución del Programa, este documento
+        presenta el informe de cierre, denominado “Informe de Terminación del Proyecto (PCR)”,
+        de acuerdo con las directrices y principios establecidos por el BID para tal fin. El informe
+        lo integran tres secciones principales. La primera sección presenta la evaluación de los
+        cuatro criterios centrales que integran el PCR, incluyendo: relevancia, efectividad,
+        eficiencia y sostenibilidad; la segunda sección la integra la evaluación de los criterios no
+        centrales, los cuales se refieren al desempeño del BID y del prestatario en la operación
+        del Programa. Finalmente, el informe concluye con una sección donde se enuncian los
+        principales hallazgos y recomendaciones.
+        III. CRITERIOS CENTRALES
+3.1     Relevancia
+ 3.1.1. El análisis de relevancia toma en consideración: i) los ejes estratégicos definidos en el
+        Plan Nacional de Desarrollo (PND), para los periodos 2010-2014 y 2014-2018, ii) las
+        prioridades establecidas en la Actualización de la Estrategia Institucional 2010-2020 del
+        Grupo BID (AEI), y iii) las prioridades establecidas en los documentos de Estrategia
+        Banco País, para los periodos 2012-2014 y 2015-2018.
+                 a. Alineación con las necesidades de desarrollo del país
+ 3.1.2. En el momento de su aprobación y durante su ejecución, el proyecto estuvo alineado con
+        las necesidades de desarrollo de país. Específicamente, esta operación estuvo alineada
+        con la Ley 1450, PND (2010-2014) (PND) Capítulo VII, literal A. Buen Gobierno,
+        participación ciudadana y lucha contra la corrupción; y con la Ley 1753 de 2015, PND
+        (2014-2018), “Todos por un nuevo país”, en su capítulo de Buen Gobierno. El PND (2010-
+        2014) estipulaba el apoyo a “…procesos de fortalecimiento y modernización de los
+        órganos de control, teniendo en cuenta que sus labores preventivas, de control fiscal y
+        disciplinaria son esenciales para que los servidores públicos apropien la transparencia en
+        su actuar y sean responsables en caso de fallar a sus deberes”; mientras que el PND
+        (2014-2018) contemplaba acciones a la lucha contra la corrupción, transparencia y
+        rendición de cuentas.
+ 3.1.3. La inclusión de pilares y temas relacionados con gobernanza en el PND obedeció al
+        reconocimiento de que la administración pública colombiana seguía enfrentando desafíos
+        que reducían su efectividad y su capacidad de cumplir con las expectativas de los
+        ciudadanos sobre el desempeño de las instituciones públicas nacionales y regionales.
+        Algunos de los retos incluían: ineficiencias institucionales estructurales que afectan la
+        ejecución efectiva del presupuesto; alta rotación de personal, especialmente en el
+        sector de justicia; y baja capacidad institucional a nivel subnacional, especialmente
+        para ejecutar proyectos de inversión.
+ 3.1.4. De acuerdo con lo anterior, el objetivo de contribuir al mejoramiento de la
+        transparencia en la gestión pública se alineaba con las necesidades del país,
+        justificando y manteniendo la relevancia del proyecto, desde su diseño y durante su
+        implementación. Las problemáticas detectadas se atenderían a partir de dos líneas de
+                                                 4
+"
+"       acción concretas: (i) Aumento de los niveles de cumplimiento normativo; e (ii)
+       Incremento de control ciudadano de rendición de cuentas.
+                  b. Alineación estratégica
+3.1.5. La Estrategia del BID para el período 2012-2014 se concentró en atender 11 sectores:
+       transporte; ciencia, tecnología e innovación; comercio exterior; acceso a servicios
+       financieros; educación y formación para el trabajo; protección social; salud; agua potable
+       y saneamiento; vivienda y desarrollo urbano, gestión de riesgo y, gobernabilidad y
+       modernización del estado. Dentro del sector gobernabilidad y modernización del
+       estado, la Estrategia se centró en el pilar del PND sobre buena gobernanza, con los
+       siguientes objetivos: (i) lograr una gobernanza más eficiente, sobre todo con acciones
+       para fortalecer sistemas transversales como la defensa del gobierno contra demandas
+       legales, gestión de activos y pasivos, y adquisiciones públicas; (ii) hacer más
+       transparente la gobernanza, principalmente mediante la creación de capacidad
+       institucional en las agencias nacionales que velan por el cumplimiento de reglas y la
+       consolidación de una política nacional de rendición de cuentas y (iii) desarrollar la
+       capacidad de los organismos sub nacionales, particularmente para mejorar la calidad del
+       gasto, aumentar los ingresos y fortalecer la rendición de cuentas para, de esta manera,
+       mejorar los indicadores fiscales. Para este periodo, el programa contribuyó al
+       cumplimiento de los objetivos (i) y (ii) de la Estrategia Banco-País para Colombia.
+3.1.6. Para el periodo 2015-2018, este proyecto contribuyó al cumplimiento de uno de los
+       ejes transversales que integran los tres ejes estratégicos del BID para la región, como
+       es el de Capacidad institucional y Estado de Derecho, el cual propende por la
+       necesidad de avanzar en los procesos de modernización de los Estados
+       latinoamericanos, para que estén en la capacidad de garantizar los derechos
+       fundamentales de los ciudadanos y generar condiciones institucionales que promuevan
+       el desarrollo sostenible.
+3.1.7. Asimismo, las actividades del programa se vinculan con varios de los objetivos de la
+       estrategia del BID con Colombia (GN-2474), entre los cuales se destaca la consolidación
+       de un Estado eficiente, eficaz y transparente, con presencia integral extendida.
+       Según dicha estrategia, las acciones del BID se orientarán a: (i) apoyar el
+       fortalecimiento de la gobernabilidad; (ii) fortalecer la gestión pública; y (iii) apoyar el
+       proceso de descentralización (GN-2474, pág. 21). En este marco, el programa enfocó sus
+       esfuerzos en dos de los tres objetivos enunciados, el (i) y el (ii). Asimismo, la matriz de
+       dicha estrategia incluye entre sus áreas de intervención, consolidar los sistemas de
+       control horizontal y vertical en todos los niveles de gobierno, área hacia la cual apuntan
+       los objetivos del presente programa.
+3.1.8. Finalmente, el Programa se conecta con la Política de Instituciones para el
+       crecimiento y el bienestar social, especialmente en las áreas de desarrollo de “Gestión
+       del sector público” con las que el BID señala la importancia de fortalecer las
+       capacidades institucionales del Estado para la administración y manejo de los
+       recursos públicos, en beneficio de los sectores destinatarios de dichos recursos (3:23).
+                                                 5
+"
+"                   c. Relevancia del diseño. Análisis de la Lógica Vertical
+3.1.9. Cómo se mencionó en la Introducción, durante el período comprendido entre los años
+        2003 y 2007, la PGN ejecutó, con apoyo del BID, un programa de modernización
+        orientado a aumentar su capacidad institucional.
+3.1.10. No obstante, a pesar de los resultados positivos de esta primera fase del Programa de
+        Modernización, los niveles de cumplimiento normativo en el país por parte de los
+        funcionarios públicos eran aún muy bajos. Debido a lo anterior, la PGN propuso
+        consolidar el ejercicio de formalización y estandarización de su función preventiva, así
+        como demostrar que dicho fortalecimiento trasciende e impacta la manera en que
+        se desempeña la actividad estatal, cuya vigilancia le corresponde.
+3.1.11. La propuesta de intervención tuvo como base principal las lecciones aprendidas del
+        proyecto en su Fase I, y orientó sus recursos a atender las problemáticas identificadas
+        al inicio de la operación y asociadas con: (i) la insuficiente capacidad del actual
+        sistema de prevención de la PGN y (ii) a la cultura de incumplimiento normativo
+        detectado en significativos sectores de la administración pública nacional y territorial. En
+        este sentido, en el documento de propuesta de préstamo, se definió como objetivo del
+        Programa contribuir al mejoramiento de la transparencia en la gestión pública, a
+        través del aumento de los niveles de cumplimiento normativo, aunque no se definieron
+        objetivos específicos. No obstante, como se mencionó anteriormente, durante la
+        ejecución del proyecto, y como parte del presente análisis, se reformula la redacción del
+        objetivo general del programa únicamente a contribuir al mejoramiento de la
+        transparencia en la gestión pública, y se identifican dos objetivos específicos para
+        lograr su cumplimiento: (1) Aumento de los niveles de cumplimiento normativo, el
+        cual se desprendió del objetivo del programa original y está directamente vinculado a
+        atender la problemática de bajo cumplimiento normativo; y el (2) Incremento de control
+        ciudadano de rendición de cuentas, enfocado a disminuir la problemática de
+        corrupción. Tanto el objetivo del programa como sus objetivos específicos fueron
+        implementados a partir de dos componentes: (i) Fortalecimiento del Sistema Integral de
+        Prevención de la PGN; y (ii) Vigilancia del Cumplimiento Normativo.
+3.1.12. Adicionales a las lecciones de la Fase I, para el diseño del programa se analizaron dos
+        casos como referentes, debido a que han atendido problemáticas similares: i) México
+        ME-T1166, del cual se desprende que la inversión en mecanismos de monitoreo y control
+        sobre los servidores públicos, puede incidir en potenciar culturas de la legalidad, y ii) un
+        segundo referente de República Dominicana TC9608079, denominado Programa
+        Anticorrupción, intervención que apoyó a la Procuraduría General de la República en la
+        conceptualización y diseño de un plan de prevención de la corrupción administrativa. Las
+        experiencias de México y República Dominicana, ambas vinculadas con la promoción
+        de la transparencia y la cultura de la legalidad, permiten señalar que los componentes
+        y actividades definidos en el proyecto tuvieron una lógica coherente para lograr el
+        objetivo general de la intervención.
+                                                 6
+"
+"3.1.13. El diseño de la lógica vertical del proyecto incorporó la definición del concepto de
+        la función preventiva, en la cual se contemplaba prioritariamente dos elementos: i) la
+        capacidad de la PGN para monitorear y detectar los riesgos potenciales de infracción de
+        la ley por parte de los servidores públicos (una especie de alertas tempranas); y ii) una
+        transformación cultural y cognoscitiva de los funcionarios públicos sobre la
+        responsabilidad ética que pesa sobre sus cargos. Para medir el cumplimiento de sus
+        objetivos y estos dos elementos, se definieron dos indicadores de impacto que
+        contribuirían a medir cómo el programa habría mejorado la transparencia en la gestión
+        pública, a partir de dos Índices internacionales, el Índice de Transparencia Internacional
+        y el Índice de Corrupción Internacional, y un indicador de resultados, Mayor cumplimiento
+        integral de las normas relativas a la gestión pública, del cual se tendría ocho mediciones,
+        seis para entidades territoriales y dos entidades nacionales. En este sentido:
+3.1.14. Si se mejora la transparencia en la gestión pública a partir del aumento de los niveles de
+        cumplimiento normativo, con el fortalecimiento del Sistema Integral de Prevención y la
+        vigilancia de su cumplimiento, entonces disminuirán las problemáticas asociadas con la
+        insuficiente capacidad del sistema de prevención, la ineficiencia de la burocracia del
+        gobierno y la percepción de corrupción entre los funcionarios públicos y los políticos de
+        un país.
+3.1.15. Lo anterior permite señalar que hubo una lógica y una coherencia entre lo enunciado
+        en el diseño del proyecto, en cuanto a la definición del objeto central, la identificación
+        de los dos objetivos específicos y el indicador de resultados propuesto para las seis
+        entidades territoriales y las dos nacionales, en atención a las problemáticas de bajo
+        cumplimiento normativo y prevención de la corrupción.
+3.1.16. Sin embargo, la cadena causal del Programa definida en el diseño tuvo algunos
+        ajustes en su fase de ejecución, principalmente vinculados con los indicadores
+        planteados para medir el impacto del programa, y también con los indicadores para medir
+        sus resultados. Lo anterior se evidencia en que las metas establecidas de ambos
+        indicadores de impacto, el Índice de Transparencia Internacional y el Índice de
+        Corrupción, no se lograron al cierre del proyecto. No obstante, se reconoce que los
+        objetivos del programa se lograron en cierta medida, ya que las metas establecidas en la
+        mayoría de las mediciones del indicador de resultados propuesto durante la fase de
+        diseño, Mayor cumplimiento integral de las normas relativas a la gestión pública, se
+        lograron. y a su vez se reforzaron los resultados obtenidos para el objetivo específico y
+        atención de la problemática de Aumento de los Niveles de Cumplimiento Normativo con
+        la inclusión de un indicador de resultados adicional, Cierre de brechas de conocimiento
+        de la normatividad, el cual se explica con más detalle en el siguiente párrafo.
+3.1.17. En este sentido, se reconoce que, durante el diseño del programa, se habían
+        concebido objetivos diferentes a los vinculados con ambos índices
+        internacionales. Sin embargo, se señala que el alcance de los impactos esperados
+        requiere de tiempo para que los cambios se produzcan y reflejen en las mediciones, por
+        ello se considera necesario realizar mediciones posteriores de los dos índices
+        internacionales en los próximos años, para evaluar el impacto del proyecto. Durante la
+                                                  7
+"
+"        ejecución y misma revisión del programa, se detecta que uno de los indicadores
+        concebido originalmente como producto, Mecanismos de participación ciudadana para
+        apoyo de la función preventiva fortalecidos, en realidad reflejaba uno de los resultados
+        del programa, por lo que se propuso incluirlo en este nivel, y vincularlo con las actividades
+        y estrategias para fomentar la participación ciudadana y las relacionadas la actualización
+        del Índice de Gobierno Abierto (IGA) y el desarrollo del indicador INTEGRA.
+3.1.18. Después de los ajustes anteriores, la “nueva” lógica vertical refleja fluidamente
+        la cadena causal real (de implementación) del programa, tal como se observa en la
+        Figura 1.
+                        Calificación de la Relevancia (ponderación 20%)
+ Satisfactoria (S)     Los objetivos y el diseño del proyecto están en gran parte            3.00
+                       alineados con las necesidades y prioridades de desarrollo del
+                       país (Estrategia de País del BID) desde la aprobación hasta el
+                       cierre. Están alineados con las prioridades del BID (Estrategia
+                       de País del BID) en el momento de la aprobación y del cierre.
+                       Y
+                       La lógica vertical de la intervención es adecuada y demuestra
+                       la relevancia de la operación. Muestra un vínculo claro entre
+                       la cadena causal de la intervención, los objetivos de desarrollo
+                       de la operación y las necesidades de desarrollo y las
+                       realidades del país.
+ Resumen               Cómo se observa en la calificación y lo reportado en la sección, los
+                       objetivos del proyecto estuvieron alineados a las necesidades del país y a
+                       la estrategia del BID desde su aprobación hasta el cierre. Donde se
+                       observa la mayor debilidad en la Relevancia del proyecto fue en la
+                       definición de los indicadores originales para medir el impacto del
+                       programa, lo cual influyó en la lógica vertical. Debido a lo anterior, se
+                       propusieron ajustes de indicadores complementarios de resultados para
+                       reflejar la operación/implementación real del proyecto.
+                                                   8
+"
+"                   Figura 1. Lógica vertical Programa de Fortalecimiento de la Procuraduría General de la Nación - Segunda (CO-L1098)
+ Objetivo
+                               Mejoramiento de la transparencia en la gestión pública a partir del cumplimiento normativo
+ General
+  Objetivos
+                           (I) Aumento de los niveles de cumplimiento                             (II) Incremento de control ciudadano de
+ Específicos
+                                             normativo                                                      rendición de cuentas
+Indicadores
+                                  Mayor cumplimiento integral de las
+                                                                                                  Mecanismos de participación ciudadana
+     de                          normas relativas a la gestión pública
+                                                                                                   para apoyo de la función preventiva
+                                 en seis entidades territoriales y dos
+Resultados                              entidades nacionales
+                                                                                                             fortalecidos**
+ Indicadores de
+                                                            Proyecto de capaci-           Metodología para el         Índice de        Estrategia
+                                         Sistema de           tación preventiva             seguimiento y
+                       Plan de                                                                                        Gobierno              de
+                                        información          ejecutado (guía de             medición de la
+                   fortalecimiento                                                                                   Abierto (IGA)    participación
+                                        de la gestión       contratación, Proto-              legalidad
+                    del Sistema I
+   Productos
+                                         preventiva         colo de gestión pre-                                    implementado       ciudadana
+                      elaborado
+                                          integrado                ventiva)                 Componente II:
+                                                                                             Vigilancia del
+                  Componente I: Fortalecimiento del Sistema Integral de Prevención       Cumplimiento Normativo
+                                                                                     9
+"
+"Notas: *Se consideró integrar este nuevo indicador de resultados (para complementar el análisis del cumplimiento del programa) concebido para reflejar
+la creación de una nueva metodología que permitirá llevar un control para el seguimiento y medición de la legalidad. **Este indicador era de producto en
+el diseño original y se subió a nivel de resultado.
+                                                      Cuadro 1. Matriz de Resultados (CO-L1098)
+                                                                                                    Al terminar el proyecto
+                                                   En aprobación       En elegibilidad + 60 días*                                       Comentarios
+                                                                                                             (PCR)
+ Resultado/ Indicador                          Unidad    Línea          Unidad      Línea           Unidad     Línea
+                                                                Meta                       Meta
+                                                 de        de             de          de               de        de      (A)
+                                                                  (P)                        (P)
+                                               Medida    Base           Medida      Base            Medida     Base
+ Objetivo específico 1: Aumento de los niveles de cumplimiento normativo
+ Resultado (Global): Mayor cumplimiento integral de las normas relativas a la gestión pública en seis entidades territoriales y dos nacionales escogidas
+ como pilotos.
+ Departamento de Santander: Cumplimiento                  67%    77%                 67%    77%                 67% 77.35%
+                                             Porcentual               Porcentual                  Porcentual                                    -
+ normativo                                              (2008) (2015)              (2008) (2015)              (2008) (2017)
+ Municipio de Puerto Wilches: Cumplimiento                45%    55%                 45%    55%                 45% 74.04%
+                                             Porcentual               Porcentual                  Porcentual                                    -
+ Normativo                                              (2008) (2015)              (2008) (2015)              (2008) (2017)
+ Departamento de Bolívar: Cumplimiento                    54%    64%                 54%    64%                 54% 73.12%
+                                             Porcentual               Porcentual                  Porcentual                                    -
+ normativo                                              (2008) (2015)              (2008) (2015)              (2008) (2017)
+ Distrito de Cartagena: Cumplimiento                      53%    63%                 53%    63%                 53% 77.19%
+                                             Porcentual               Porcentual                  Porcentual                                    -
+ normativo                                              (2008) (2015)              (2008) (2015)              (2008) (2017)
+                                                                                                                                 La meta (52%) se cumple y
+                                                                                                                                 se supera en todos los
+ Departamento de Casanare: Cumplimiento                   42%    52%                 42%    52%                 42% 71.83% periodos           de     medición,
+                                             Porcentual               Porcentual                  Porcentual
+ normativo                                              (2008) (2015)              (2008) (2015)              (2008) (2017) sugiriendo que la meta
+                                                                                                                                 definida inicialmente estuvo
+                                                                                                                                 ajustado a la baja.
+                                                                                                                                 La meta (37%) se cumple y
+                                                                                                                                 se supera en todos los
+ Municipio de Yopal: Cumplimiento                         27%    37%                 27%    37%                 27% 74.24% periodos           de     medición,
+                                             Porcentual               Porcentual                  Porcentual
+ normativo                                              (2008) (2015)              (2008) (2015)              (2008) (2017) sugiriendo que la meta
+                                                                                                                                 definida inicialmente estuvo
+                                                                                                                                 ajustado a la baja.
+                                                                              10
+"
+"                                                                                                           Al terminar el proyecto
+                                                     En aprobación           En elegibilidad + 60 días*                                        Comentarios
+                                                                                                                     (PCR)
+ Resultado/ Indicador                            Unidad      Línea             Unidad     Línea           Unidad       Línea
+                                                                     Meta                         Meta
+                                                    de         de                de         de               de         de      (A)
+                                                                       (P)                         (P)
+                                                 Medida      Base             Medida       Base           Medida       Base
+                                                                                                                                       La meta (77.4) sólo se
+                                                                                                                                       alcanza en la revisión 2010-
+ Ministerio de Protección Social:                           67.4% 77.4%                   67.4% 77.4%                 67.4% 75.08% 2011, no se alcanza para
+                                               Porcentual                    Porcentual                  Porcentual
+ Cumplimiento normativo                                     (2007) (2015)                 (2007) (2015)               (2007) (2016) ninguna del resto de las
+                                                                                                                                       revisiones, incluyendo al fin
+                                                                                                                                       del proyecto.
+                                                                                                                                       La meta definida de 80%, no
+ Instituto Nacional de Vías-Invías:                         70.6% 80.6%                   70.6% 80.6%                 70.6% 62.83%
+                                               Porcentual                    Porcentual                  Porcentual                    se alcanza en ninguno de
+ Cumplimiento normativo                                     (2007) (2015)                 (2007) (2015)               (2007) (2016)
+                                                                                                                                       los tres periodos.
+Fuentes de información: Matriz original (Anexo II-DLP), Matriz modificada más 60 días* (Debido a la fecha de exigibilidad del programa, los indicadores deben ser
+los mismos que los aprobados en la Matriz original), Matriz Final (PMR 2 º periodo Ene-Dic 2017 (05/02/18).
+Indicador de Producto que sube al nivel de Resultados:
+                                                                                                            Al terminar el proyecto
+                                                    En aprobación            En elegibilidad + 60 días*                                          Comentarios
+                                                                                                                       (PCR)
+ Resultado/ Indicador                                       Línea                          Línea                          Línea
+                                             Unidad de              Meta     Unidad de             Meta    Unidad de
+                                                              de                             de                            de      (A)
+                                              Medida                  (P)      Medida               (P)     Medida
+                                                            Base                            Base                          Base
+ Objetivo específico 2: Aumento de los niveles de cumplimiento normativo
+ Mecanismos de participación                Mecanismos                      Mecanismos                    Mecanismos
+                                                               0     3.00                     0    3.00                     0     3.00    Indicador que sube a
+ ciudadana para apoyo de la función               de
+                                                           (2010) (2014)
+                                                                                  de
+                                                                                           (2010) (2014)
+                                                                                                                de
+                                                                                                                         (2010)  (2017)   nivel de resultados.
+ preventiva fortalecidos                    participación                   participación                 participación
+                                                                                     11
+"
+"3.2       Efectividad
+                   a. Declaración de objetivos de desarrollo del proyecto.
+ 3.1.19. El objetivo del programa en la fase de diseño fue definido como contribuir al
+          mejoramiento de la transparencia en la gestión pública, a través del aumento de los
+          niveles de cumplimiento normativo. Durante la ejecución del programa y del análisis
+          del PCR, se identificó un objetivo específico el cual se desprende del objetivo original del
+          programa el cual es 2) incrementar el control ciudadano de rendición de cuentas.
+ 3.1.20. Para medir el logro del objetivo del programa, durante la fase de diseño se estableció un
+          sólo indicador de resultados, Mayor cumplimiento integral de las normas relativas a
+          la gestión pública 4, pero con mediciones en tres departamentos (Santander, Bolívar,
+          Casanare) y tres municipios (Puerto Wilches, Yopal, Distrito de Cartagena), que fueron
+          seleccionadas por ser entidades con altos niveles de incumplimiento normativo y con el
+          mayor número de funcionarios implicados en procesos disciplinarios. Igualmente, se
+          incluyeron dos mediciones de este mismo indicador para entidades del orden nacional,
+          caracterizadas por estar entre las que reciben mayores apropiaciones presupuestales, el
+          Ministerio de Protección Social y el Instituto Nacional de Vías-Invías.
+ 3.1.21. Para alcanzar los resultados del programa, se establecieron dos componentes. El
+          Componente 1 de Fortalecimiento del Sistema Integral de Prevención de la PGN, tuvo
+          como objetivo abordar las debilidades del Sistema Integral de Prevención. Las actividades
+          del componente se orientaron al rediseño de la política interna en materia de
+          prevención. El Componente 2 de Fomento de un efectivo control social de la
+          corrupción, tuvo como objetivo asegurar los beneficios de la vigilancia ejercida por la
+          PGN en términos de la contribución al mejoramiento de la gestión pública y la prevención
+          de comportamientos contrarios a la ley por parte de los servidores públicos.
+                   b. Cambios en la matriz de resultados
+ 3.1.22. Como ya se mencionó anteriormente, conforme se avanzaba en la implementación del
+          programa, principalmente en la estandarización de sus procesos, y como parte del
+          análisis realizado para el presente PCR, se identificó que uno de los indicadores
+          establecido durante el diseño como indicador de producto, Mecanismos de
+          participación ciudadana para apoyo de la función preventiva fortalecidos, en
+          realidad reflejaba los resultados del programa relacionados con el avance del Índice de
+          Gobierno Abierto (IGA) y la implementación de las estrategias de participación ciudadana,
+          por lo cual se consideró pertinente pasarlo de indicador de producto a nivel de indicador
+          de resultados.
+ 4. Este indicador fue elaborado por la PGN a partir de 18 variables establecidas por el Gobierno Nacional, listadas a
+    continuación: 1) Ley de Archivos, 2) Estrategia de Gobierno en Línea, 3) Reporte al FUT, 4) Reporte de Informe
+    Contable, 5) Reporte SICEP, 6) Incumplimiento de Requisitos Legales SGP, 7) Reporte SISBEN, 8) Reporte al
+    SUI, 9) Rendición de cuentas, 10) Modelo Estándar de Control Interno, 11) Capacidad de endeudamiento, 12)
+    Balance primario, 13) Limites de Gasto Administración Central, 14) Limites de gasto Organismos de Control, 15)
+    Aportes FONPET, 16) Destinación de Regalías, 17) Ley 550, y 18) Reporte información Educación.
+                                                         12
+"
+"3.1.23. Adicionalmente, se propuso agregar otro indicador de resultados, Cierre de brechas de
+        conocimiento de la normatividad, el cual reflejaría el proceso de sensibilización de los
+        servidores públicos sobre la relevancia de una cultura de prevención, a partir de los
+        cumplimientos normativos y, mejorando la transparencia en la gestión pública. Para
+        medirlo, se cuantificó el porcentaje de servidores públicos que han sido certificados a
+        partir de su participación de diversas capacitaciones relacionadas con conocimientos de
+        la normatividad y sus procesos de implementación.
+                    d. Resultados logrados
+3.1.24. El proyecto logró buenos resultados en la medida, en que seis entidades territoriales
+        cumplieron la meta establecida para el indicador de Mayor cumplimiento integral de las
+        normas relativas a la gestión pública como resultado de la ejecución del proyecto,
+        logrando incluso superar la meta establecida hacia el fin del proyecto. En las seis
+        entidades se superaron las metas porcentuales, y cabe mencionar que en algunos años
+        se tuvieron picos de cumplimiento incluso mayores al resultado final. Las variaciones que
+        se manifestaron en los diferentes periodos intermedios de medida para el caso de
+        entidades territoriales ponen de manifiesto la necesidad de realizar mediciones
+        permanentes que permitan establecer con mayor claridad los elementos críticos que
+        afectan el cumplimiento normativo, así como las verdaderas continuidades y
+        cumplimientos efectivos de las normas de la gestión pública.
+3.1.25. En cuanto a las dos entidades piloto de orden nacional, el Instituto Nacional de Vías no
+        logró el cumplimiento de la meta establecida al finalizar el proyecto. De acuerdo con el
+        reporte de la evaluación intermedia (2014) 5, había alcanzado una mejoría, sin embargo,
+        para la fecha de cierre del proyecto obtuvo un resultado inferior de 7.77 puntos
+        porcentuales al valor de línea base obtenido al inicio del proyecto, representando su
+        puntaje más bajo en este último periodo evaluado (2015-2016). El indicador del Ministerio
+        de Protección Social no alcanzó la meta establecida hacia el fin del proyecto, quedando
+        a tan solo 2.32 puntos porcentuales por debajo de la misma, pero a diferencia del Instituto
+        Nacional de Vías, logró superar el valor de la línea base.
+3.1.26. En resumen, al término del proyecto, 6 de las 8 entidades que formaron parte del piloto
+        cumplieron o superaron la meta establecida y sólo una disminuyó en el único indicador
+        de resultados establecido al inicio del proyecto.
+3.1.27. Con base en los resultados de las evaluaciones intermedia y final, se observa que no se
+        presenta una tendencia sostenida de crecimiento y que los resultados fluctúan
+        posiblemente en razón a los cambios de administración, por lo cual una de las
+5. Realizada por Deloitte Asesores y Consultores LTDA.
+                                                       13
+"
+"        recomendaciones es realizar mediciones permanentes. En este sentido se entiende que
+        el valor real agregado del proyecto fue cumplir el hito de formulación de un
+        indicador de transparencia, tanto a nivel nacional y territorial, como parte del
+        Componente 2 de Vigilancia de Cumplimiento Normativo y que fungirá como herramienta
+        para generar alertas tempranas y orientar de forma estratégica las acciones
+        preventivas.
+3.1.28. En el Cuadro 2 se presentan los avances de las mediciones para las seis entidades
+        territoriales y las dos entidades nacionales del indicador resultados incluido en la Matriz
+        Original de Resultados del Programa (Anexo II).
+                                                 14
+"
+"                                                                Cuadro 2. Matriz de Resultados logrados
+                                                                      Valor      Año
+                                                        Unidad de                           Metas y            %
+                 Resultado/ Indicador                                 Línea     línea                                           Medios de verificación
+                                                          Medida                          alcance real Alcanzado*
+                                                                       base     base
+ Resultado 1: Mayor cumplimiento integral de las normas relativas a la gestión pública en seis entidades territoriales y dos nacionales escogidas como
+ pilotos
+                                                                                         P      77.00
+ Departamento de                                                                         P(a)   77.00
+                                                        Porcentual     67%      2008                       103.5%         Informe de Desempeño Fiscal DNP
+ Santander: Cumplimiento normativo
+                                                                                         A      77.35
+                                                                                         P      55.00
+ Municipio de Puerto Wilches: Cumplimiento                                               P(a)   55.00
+                                                        Porcentual     45%      2008                        135%          Informe de Desempeño Fiscal DNP
+ normativo
+                                                                                         A      74.04
+                                                                                         P      64.00
+ Departamento de Bolivar: Cumplimiento normativo        Porcentual     54%      2008     P(a)   64.00       114%          Informe de Desempeño Fiscal DNP
+                                                                                         A      73.12
+                                                                                         P      63.00
+ Distrito de Cartagena:
+                                                        Porcentual     53%      2008     P(a)   63.00       123%          Informe de Desempeño Fiscal DNP
+ Cumplimiento normativo
+                                                                                         A      77.19
+                                                                                         P      52.00
+ Departamento de Casanare: Cumplimiento
+                                                        Porcentual     42%      2008     P(a)   52.00       138%          Informe de Desempeño Fiscal DNP
+ normativo
+                                                                                         A      71.83
+                                                                                         P      37.00
+ Municipio de Yopal:
+                                                        Porcentual     27%      2008     P(a)   37.00       201%          Informe de Desempeño Fiscal DNP
+ Cumplimiento normativo
+                                                                                         A      74.24
+                                                                                         P       77.40
+ Ministerio de Protección Social: Cumplimiento
+                                                        Porcentual 67.4%        2007     P(a)   77.40        77%           Índice de Transparencia Nacional
+ normativo
+                                                                                         A      75.08
+                                                                                         P      80.60
+ Instituto Nacional de Vías-Invías: Cumplimiento
+                                                       Porcentual     70.6%     2007     P(a)   80.60         0%           Índice de Transparencia Nacional
+ normativo
+                                                                                         A      62.83
+ Indicador de Producto ahora a nivel de Resultado:
+ Resultado 2: Mecanismos de participación ciudadana para apoyo de la función preventiva fortalecidos
+                                                       Mecanismos                        P       3.00
+ Mecanismos de Participación Ciudadana Adaptados
+                                                             de          0      2010     P(a)    3.00       100%                   Evaluación Final
+ para Apoyo de la Función Preventiva Fortalecidos**
+                                                       participación                     A       3.00
+*El porcentaje de logro alcanzado fue calculado con respecto a la meta ajustada (P(a)). Donde: P = Planificado; P (a) = Objetivo anual revisado; A = real. **Este
+indicador era originalmente de Productos y se incorpora a nivel de Resultados.
+                                                                               15
+"
+"                 e. Análisis de Atribución
+3.1.29. El programa no contempló una evaluación de impacto. En lugar de atribución, esta
+        sección argumenta los elementos que permiten confirmar una contribución del programa
+        a los resultados logrados. Cuando se diseñó el proyecto se enunciaron dos
+        mecanismos de evaluación de los resultados del proyecto, uno incluido en la Matriz
+        Original, correspondiente a la Medición de Transparencia en las ocho entidades piloto; y
+        el otro mecanismo de evaluación propuesto fue una encuesta de comprobación de la
+        Estrategia de Cultura de la Legalidad, que si bien no fue incluida dentro de la matriz de
+        resultados aporta elementos para evaluar la efectividad. Adicionalmente, se realizó una
+        evaluación intermedia (2014) y una final (2017), a cargo de Deloitte.
+3.1.30. Como se reportó en la sección anterior, como resultado de la medición de transparencia
+        en las ocho entidades, se tuvo que 6 de 8 entidades cumplieron los resultados esperados.
+        La Evaluación Final (2017) observa que la Entidad fortaleció la metodología del Índice de
+        Gobierno Abierto (IGA) permitiéndole continuar hasta la fecha con la publicación anual
+        del análisis. Por su parte, de acuerdo con la información evaluada, se encuentra que el
+        índice INTEGRA fue implementado por el consultor dando alcance a la metodología
+        esperada y a la implementación tecnológica para su cálculo, aplicando el análisis a la
+        totalidad de las entidades públicas de orden nacional y territorial. La misma evaluación
+        documenta el uso que la Entidad le ha dado a dichos mecanismos de medición:
+    i)  IGA: Al analizar las Actas de Liquidación de los contratos de los operadores logísticos, se
+        encuentra que, hasta el mes de agosto de 2016, se realizaron diversas “Mesas de Trabajo
+        de Presentación Metodología y Resultados Índices IGA e INTEGRA”. Actualmente, el IGA
+        es utilizado por la delegada de transparencia, a partir de la generación de un ranking de
+        cumplimiento regional, el cual se está utilizando para hacer jornadas de sensibilización
+        con los alcaldes con el fin de promover el cumplimiento en los reportes de la ley.
+    ii) Índice INTEGRA: Con base en las entrevistas sostenidas con los responsables del
+        proceso, la Entidad no ha dado uso al módulo desarrollado para el cálculo del INTEGRA
+        desde el año 2014, por encontrar limitantes en las fuentes de información que sirven como
+        insumo para el procesamiento de datos, para lo cual habría requerido la contratación de
+        una nueva consultoría responsable de la actualización del aplicativo, conforme a las
+        modificaciones encontradas en las fuentes de información primaria.
+3.1.31. La encuesta fue contratada con Centro Nacional de Consultoría S.A. en el año 2016 y fue
+        concebida para evaluar el impacto de la implementación de una política pública
+        orientada al cambio cultural, fundamentada en dos pilares: i) la formación de
+        funcionarios (y de multiplicadores) y ii) la sensibilización a través de una estrategia de
+        comunicación. Posterior al cierre del contrato de consultoría y con base en la información
+        suministrada por la procuraduría delegada para la Descentralización y las Entidades
+        Territoriales, se observa que esa dependencia tiene registro del desarrollo de 22 eventos
+        de formación y socialización para 1,280 funcionarios de entidades territoriales, con el
+        acompañamiento del Instituto de Estudios del Ministerio Público. Las consultorías
+                                                 16
+"
+"        contratadas le permitieron a la Entidad contar con la metodología y herramientas
+        necesarias para desarrollar la medición de la percepción de los funcionarios
+        públicos sobre cultura de la legalidad y medir la evolución de las acciones de
+        sensibilización y formación aplicadas. Adicionalmente, dichas consultorías generaron
+        un análisis evaluativo sobre los resultados de la estrategia en sus componentes de
+        sensibilización y formación en las entidades piloto y de control estipuladas.
+3.1.32. Las actividades y/o componentes de capacitación y/o socialización de prácticas
+        preventivas para funcionarios de entidades públicas, son concebidas como clave en el
+        diseño e implementación de programas dirigidos a combatir la corrupción, aunque una de
+        las críticas principales es que la mayoría de las veces su alcance y objetivos específicos
+        no están claramente definidos, diluyendo su contribución/atribución en los resultados y/o
+        impacto esperado del programa. El Programa de Fortalecimiento de la PGN, dentro del
+        producto del Proyecto Nacional de Capacitación, cumplió los objetivos definidos por la
+        Matriz de Productos, respecto a la cantidad de usuarios capacitados. No obstante, la
+        Evaluación Final (2017) observa que: 1) una parte importante de las actividades
+        contratadas bajo el componente de capacitación, correspondió a módulos de
+        socialización de las consultorías contratadas, por lo que las actividades dirigidas a la
+        formación y de funcionarios en el nuevo modelo de prevención, no forzosamente
+        permitieron el desarrollo de nuevas capacidades, conducción del cambio y adiestramiento
+        en nuevas competencias de las personas formadas; 2) los funcionarios formados
+        incluyeron personal de la PGN y de entidades públicas. Aunque ambos segmentos debían
+        ser capacitados, el enfoque y necesidades no eran equivalentes, por lo que hubiera sido
+        deseable contar con un mayor nivel de focalización de estas actividades; 3) no se
+        evidenció el diseño de una estrategia selección del personal que se debía beneficiar de
+        las diferentes capacitaciones, lo que condujo a una diversidad de públicos y la
+        capacitación de gran cantidad de personas con contratos provisionales, lo que significa
+        un riesgo importante en una Entidad con rotación elevada del personal.
+3.1.33. Otro ejemplo de programa anticorrupción que contempló actividades de capacitación es
+        el Programa de Umbrales Anticorrupción (Anti-Corruption Country Threshold Program,
+        ACT) en el país de Uganda, financiado con recursos del USAID e implementado de 2007
+        a 2009. El propósito general de ACT fue impactar positivamente en el Indicador de Control
+        de la Corrupción del Millenium Challenge Corporation (MCC) para permitir que Uganda
+        cumpliera con los criterios de elegibilidad para el financiamiento compacto. El énfasis del
+        programa era prevenir adquisiciones vinculadas con prácticas de corrupción bajo el
+        supuesto que donde se llevaron a cabo auditorías, éstas servirían de base para el
+        seguimiento de investigaciones y procesamientos. Uno de sus tres componentes,
+        Prevenir prácticas de corrupción relacionadas con contrataciones públicas, contempló
+        capacitaciones a los funcionarios de la Oficina del Auditor General (OAG). Cómo
+        resultado de dichas capacitaciones se desarrolló e institucionalizó un manual en el
+        Instituto de Profesionales de Adquisiciones en Uganda (IPPU) y la Autoridad de
+        Contratación Pública y Disposición de Bienes (PDDA, por sus siglas en inglés) logró
+        superar sus objetivos de auditoría para detectar prácticas de corrupción en un año,
+                                                  17
+"
+"         transformando la necesidad de realizar auditorías no sólo en los procesos de
+         adquisiciones, sino en el sistema en general.
+                                    Cuadro 3. Antes y Después. Atribución
+                Indicador                    2008      2016     % Alcanzado            Atribución
+ Resultado 1: Aumento de los niveles de cumplimiento normativo*.
+ Mayor cumplimiento integral de las
+                                                                            Anti-Corruption Country Threshold
+ normas relativas a la gestión pública
+                                            53,25*%  73.21%*         116%   Program, ACT (2007-2009) para
+ en seis entidades territoriales y dos
+                                                                            Uganda.
+ entidades nacionales
+ Resultado 2: Incremento de control ciudadano de rendición de cuentas
+ Indicador                                   2010      2017     % Alcanzado Atribución
+ Mecanismos          de       participación                                 Monitoring Corruption: Evidence
+ ciudadana para apoyo de la función           0,0        3           100%   from a Field. Experiment in
+ preventiva fortalecidos                                                    Indonesia. Benjamin A. Olken.
+Nota: *promedio de cumplimiento porcentual de las entidades territoriales.
+                   f. Resultados imprevistos
+3.1.34. Por el momento no se reportan/documentan resultados imprevistos (“spillovers”),
+         derivados de la implementación del proyecto.
+         Calificación de Efectividad (ponderación 40% para préstamos de inversión)
+  Satisfactoria (S)         Cuando más del 50% de los objetivos del proyecto se                     3.00
+                            lograron en gran parte o totalmente (no hay objetivos
+                            calificados como Insatisfactorios) y los resultados se pueden
+                            atribuir al proyecto. La calificación de los productos es
+                            Satisfactoria (S) o superior.
+  Resumen                   Se lograron 6 objetivos de 8 indicadores, vinculados al indicador de
+                            resultados propuesto originalmente de resultados Mayor cumplimiento
+                            integral de las normas relativas a la gestión pública. Todas las
+                            entidades territoriales rebasaron la meta estipulada, mientras que una
+                            entidad nacional (Ministerio de Protección Social) alcanzó un ratio de logro
+                            de 0.78 pero el del Instituto Nacional de Vías-Invías el valor obtenido fue
+                            menor al de la meta e incluso menor al de su línea base. El programa no
+                            realizó evaluación de impacto, por lo que no se cuenta con las mediciones
+                            de los indicadores de impacto propuestos originalmente, y como se
+                            comentó, estos indicadores no reflejaban la operación real del proyecto.
+                            Se propusieron dos modificaciones para medir los resultados del proyecto
+                            (un nuevo indicador y la reformulación de u indicador de producto a
+                            resultados).
+                            Como no se cuenta con evaluación de impacto, no se pueden atribuir los
+                            resultados al proyecto (impacto) y sólo se puede realizar una
+                            argumentación teórica.
+                                                       18
+"
+"                                 Calificación de los objetivos de desarrollo: resultados
+ Resultado 1: El índice de cumplimiento normativo del
+ Departamento de Santander se aumenta en 10            Excelente (E)                                               4
+ puntos porcentuales
+ Resultado 2: El índice de cumplimiento normativo del
+ Municipio de Puerto Wilches se aumenta en 10          Excelente (E)                                               4
+ puntos porcentuales
+ Resultado 3: El índice de cumplimiento normativo del
+ Departamento de Bolivar se aumenta en 10 puntos       Excelente (E)                                               4
+ porcentuales
+ Resultado 4: El índice de cumplimiento normativo del
+ Distrito de Cartagena se aumenta en 10 puntos         Excelente (E)                                               4
+ porcentuales
+ Resultado 5: El índice de cumplimiento normativo del
+ Departamento de Casanare se aumenta en 10 puntos      Excelente (E)                                               4
+ porcentuales
+ Resultado 6: El índice de cumplimiento normativo del
+ Municipio de Yopal se aumenta en 10 puntos            Excelente (E)                                               4
+ porcentuales
+ Resultado 7: El índice de cumplimiento normativo del
+ Ministerio de Protección Social se aumenta en 10      Parcialmente Insatisfactorio (PI)                           2
+ puntos porcentuales
+ Resultado 8: El índice de cumplimiento normativo del
+ Instituto Nacional de vías se aumenta en 10 puntos    Parcialmente Insatisfactoria (PI)                           2
+ porcentuales
+                                                 Atribución de resultados
+                                                       El resultado/producto se logró´ y la atribución está
+                                                                                                            Otro basado
+ Atribución                                            apoyada por un análisis de enfoque basado en la
+                                                       teoría o basado en otra evidencia.                   en la evidencia
+                                                Clasificación de Productos
+                                                       Los productos se lograron plenamente y
+ Excelente                                                                                                  4.0
+                                                       superaron los objetivos
+ 3.3       Eficiencia
+3.1.35. El programa en su propuesta de préstamo no contempló un análisis ex-post de la
+           eficiencia, tanto en términos de análisis costo-beneficio como de costo-efectividad. La
+           firma contratada para desarrollar el Informe de Evaluación Final (Deloitte, 2017) dividió el
+           análisis de este apartado en dos elementos: 1) por un lado, considerando la eficiencia en
+           los tiempos de ejecución del proyecto, y 2) por otro lado, la eficiencia en el uso de los
+           recursos económicos asignados.
+3.1.36. La principal conclusión del análisis fue que el proyecto no hizo uso del 100% del
+           presupuesto asignado, generando una devolución de USD $1,945,294.52, 19.70%
+           menos de la meta ajustada originalmente cumpliendo con los objetivos iniciales y
+           superando algunos de los indicadores iniciales. La diferencia se sustenta por recursos
+           excedentarios en los precios de contratación generados por efecto de la TRM aplicada
+           versus la estimada inicialmente para las adquisiciones, así como en la cancelación de los
+           recursos destinados a imprevistos que no fueron requeridos en el desarrollo del
+           Programa.
+3.1.37. Estos resultados pueden marcar una valoración positiva en términos de optimización
+           de los recursos económicos (un componente de la eficiencia) y el incremento de la
+                                                              19
+"
+"        inversión en rubros claves para alcanzar el objetivo propuesto. Dichos resultados
+        pueden considerarse consecuencia de dos transformaciones relevantes a la formulación
+        original del contrato: la primera en términos de tiempos, y la segunda frente a temas
+        presupuestales.
+3.1.38. Frente al primer punto debe señalarse que, como resultado de la Evaluación Intermedia,
+        se observó que, en el PEP inicial y sus versiones posteriores, se fijaban fechas de inicio
+        simultáneas para actividades interdependientes, generando un posible
+        incumplimiento en la fecha de finalización del Programa. Por ello, el 10 de marzo de 2015
+        la PGN solicitó prórroga al plazo de ejecución hasta el 23 de mayo de 2017, una extensión
+        de 18 meses, aprobada por el BID mediante comunicación del 3 de junio de 2015. Este
+        nuevo plazo condujo a la reprogramación de algunas de las actividades (especialmente
+        las asociadas a la integración de los sistemas de información), las cuales fueron
+        desarrolladas bajo el nuevo cronograma de trabajo. Este cambio es importante para
+        evaluar la Efectividad de este proyecto, porque evidencia que hubo una reflexión
+        temprana sobre la coherencia entre las actividades y productos inicialmente
+        estipulados y las necesidades institucionales que el país tenía.
+3.1.39. Frente al segundo tema, se estableció que el valor real de la Fase II del Programa fue de
+        USD $8,054,705.00. La diferencia se sustenta por cambios significativos en la TRM, que
+        benefició los procesos de adquisiciones; asimismo, por la cancelación de los recursos
+        destinados a imprevistos que no fueron requeridos en el desarrollo del Programa.
+3.1.40. El informe de Evaluación Final señala que hubo un ejercicio reflexivo importante por
+        parte de la UEP, como respuesta a las recomendaciones de la Evaluación Intermedia,
+        que le permitió identificar los puntos críticos, y reaccionar propositivamente para solventar
+        dichos impases.
+Indicadores CPI y SPI:
+3.1.41. Para la aproximación del valor ganado versus costo, se utilizan los indicadores CPI y SPI
+        reflejados en los PMR. El CPI es el índice de rendimiento del costo en un tiempo
+        determinado, y representa la relación que existe entre el valor ganado (cumplimiento de
+        metas físicas) versus el costo actual (gastos reales), es decir, calcula la variación del
+        cronograma. El SPI expresa la diferencia entre el costo presupuestado del trabajo
+        realizado y el costo presupuestado del trabajo programado.
+3.1.42. Los resultados obtenidos del indicador CPI tuvieron un comportamiento satisfactorio a lo
+        largo de la implementación del proyecto, con valores superiores al 0.75% durante toda la
+        ejecución del proyecto e igual o superior a 1 en 5 de los 7 años de ejecución del proyecto.
+        El indicador SPI mostró resultados menos positivos, con resultados menores a 1 en 5 de
+        los 7 años del proyecto.
+    Indicadores        2011       2012      2013       2014       2015     2016     2017      2018
+ SPI(a)                  1        0.69       0.79       0.95      0.63     0.74       1         1
+ CPI(a)                  1           1       1.04       1.02      0.78     0.75     1.15      1.15
+                                                    20
+"
+"                      Cuadro 4. Costos del Proyecto
+3.1.43. Las inversiones por componentes y costos a la conclusión del programa se muestran a
+        continuación:
+3.1.44. Componente 1: Fortalecimiento del Sistema Integral de Prevención
+3.1.45. Componente 2: Fomento de un efectivo control social de la corrupción
+3.2.1. Auditoria
+                                             21
+"
+"3.2.2. Costo total
+3.1.46. Complementando el análisis anterior de eficiencia en términos de costos y tiempo, se
+        realizó un ejercicio de análisis costo-efectividad con un indicador vinculado a una de las
+        actividades de productos.
+3.1.47. La comparación se realiza con el Programa de Umbrales Anticorrupción (Anti-Corruption
+        Country Threshold Program, ACT) en Uganda, financiado con recursos del USAID e
+        implementado de 2007 a 2009, mencionado en la sección de Análisis de Atribución.
+3.1.48. A pesar de encontrarse en otro continente, Uganda comparte con Colombia un alto
+        índice Percepción de la Corrupción (IPC), y dicha percepción negativa se ha mantenido
+        a lo largo del tiempo. Este índice, publicado anualmente por la Organización de
+        Transparencia Internacional, utiliza una escala del 0 (percepción de altos niveles de
+        corrupción) a 100 (percepción de muy bajos niveles de corrupción) para obtener la
+        clasificación de los países en función de la percepción de corrupción del sector público.
+        En 2007, cuando inició operaciones el programa ACT (Uganda), el país manejaba un
+        puntaje de 28 y una posición de 111 en el ranking, mientras que Colombia obtuvo 38
+        puntos, ubicándose en la posición 68 del ranking. Para 2011, cuando inició la segunda
+        fase del Programa de Fortalecimiento de la PGN (Colombia), ambos países empeoraron
+        su IPC. Uganda obtuvo tan sólo 24 puntos, bajando hasta la posición 143 y Colombia
+        empeoró su percepción a 34 puntos y bajando al lugar 80 del ranking.
+3.1.49. El objetivo estratégico del programa ACT (Uganda) se vinculaba estrechamente con la
+        política de Tolerancia Cero a la Corrupción, implementada en el país y que se enfocaba
+        en reformas a políticas y la Administración Pública. El énfasis del programa era prevenir
+        adquisiciones vinculadas con prácticas de corrupción bajo el supuesto que donde se
+        llevaron a cabo auditorías, éstas servirían de base para el seguimiento de investigaciones
+        y procesamientos. Específicamente, los fondos del ACT tenían que ser destinados a tres
+        componentes: 1) Prevenir prácticas de corrupción relacionadas con contrataciones
+        públicas, 2) Aumentar la tasa de investigaciones exitosas y procesamientos de casos
+        relacionados con corrupción, y, 3) Reforzar el papel de \"perro guardián\" de la sociedad
+        civil en la lucha contra la corrupción.
+3.1.50. Dentro del componente 1 Prevenir prácticas de corrupción relacionadas con
+        contrataciones públicas del programa ACT, las actividades se enfocaron en 1) desarrollar
+        las capacidades de la PDDA y la OAG para realizar mejores auditorías, preparar mejores
+        informes de adquisiciones y comunicar el trabajo de prácticas anticorrupción de manera
+        más efectiva a la sociedad civil y al público, aumentando la calidad de las auditorías e
+        informes y aumentando las posibilidades de que los procedimientos administrativos sean
+        efectivos y procedimientos de acción legal puedan ser tomados contra funcionarios
+        corruptos o aquellos que emprenden acciones de compra indebidas, y 2) hacer más
+        funcional y efectivo el Foro Inter-Agencia (IAF, por sus siglas en inglés), encargado de
+                                                  22
+"
+"         revisar el progreso de Uganda en el combate a la corrupción, los Comités de Cuentas
+         Públicas (PAC), los Oficiales de Contabilidad del Gobierno (GAO) y los Comisionados de
+         Servicio Público (PSC). El desarrollo de capacidades de los funcionarios se realizaría con
+         capacitaciones y socialización.
+3.1.51. En este sentido, uno de los elementos en común del programa de Uganda con el
+         programa de Colombia, es la población objetivo a la que pretenden sensibilizar y capacitar
+         con prácticas y estrategias anticorrupción, es decir los propios funcionarios vinculados en
+         la gestión pública, para mejorar la transparencia en su gestión y reducir la incidencia de
+         prácticas corruptas. Precisamente, el CEA se enfoca en la comparación del número de
+         funcionarios capacitados/socializados en prácticas anticorrupción, siendo que ambos
+         programas comparten lograr este beneficio, aunque se señala que es un resultado a
+         nivel producto. Los productos Proyecto de Capacitación Preventiva y Guía de
+         contratación pública para el operador preventivo de la Procuraduría del Programa de
+         Apoyo al Fortalecimiento de la PGN (Colombia) contemplaban actividades dirigidas a
+         incrementar el número de funcionarios preventivos de la PGN capacitados/socializados
+         en funciones preventivas de corrupción y socialización de la guía para procesos de
+         contratación. Para el caso de Colombia, se suman el número de funcionarios capacitados
+         relacionados con ambos productos. Cabe señalarse que, aunque es un ejercicio útil en sí
+         mismo para poder tener un punto de referencia sobre qué tan costo-efectivo fue el
+         proyecto financiando las actividades de capacitación en relación con el número de
+         funcionarios sensibilizados, comparado con un proyecto alternativo con objetivos
+         similares, su alcance es limitado, Lo anterior se debe, principalmente a las restricciones
+         de información del proyecto de Uganda, por lo cual no se pudo hacer la comparación con
+         alguno de los indicadores de resultados del proyecto de Colombia 6. Tampoco se pudo
+         encontrar información de otras intervenciones, que tuvieran objetivos similares, y que
+         tuviera información desglosada de los costos correspondientes a cada resultado logrado.
+3.1.52. El Cuadro 4A resume los resultados del CEA. Los parámetros utilizados se enlistan a
+         continuación:
+     •   Se convirtieron los costos de 2007 del programa de Uganda a costos de 2017 para
+         compararlos con los costos al cierre del proyecto del programa de Colombia, siendo la
+         tasa acumulativa de inflación de 18.2%.
+     •   La tasa de descuento para calcular los costos de 2017 a valor presente es de 12%.
+     •   El año de inicio de operaciones para Uganda es 2007, mientras que para Colombia se
+         utilizó 2012 7.
+     •   Los costos son totales y se realizan las siguientes precisiones. En el caso de Uganda, se
+         utilizan los costos programados para el Componente 1, ya que no se encuentra con
+         información disponible sobre los costos reales erogados, ni la desagregación por
+6Aunque   compartían objetivos similares en temas de disminuir la percepción de corrupción, el Proyecto de
+Uganda no compartía algún indicador de resultados similar al de Colombia.
+7. Aun cuando el año de inicio del programa fue 2011, los primeros costos no se empezaron a erogar hasta
+   2012.
+                                                   23
+"
+"          actividades, interpretándose como un análisis costo-efectivo prospectivo. En el caso de
+          Colombia, se utilizaron los costos erogados específicos de los dos productos, que a su
+          vez forman parte del Componente 1, interpretándose como un análisis costo-efectivo
+          retrospectivo.
+3.1.53. Con base en estos parámetros, y reconociendo las limitaciones de la comparación
+          entre productos/actividades, y no sobre indicadores de resultados, se observa que
+          el Programa CO-L1098 fue más costo efectivo que el Programa ACT en el número de
+          funcionarios capacitados. El CE ratio 8 del primero es 379.89 (dólares/funcionarios
+          capacitados), mientras el CE ratio del segundo es 957.24 (dólares/funcionarios
+          capacitados). Asimismo, una cantidad similar de funcionarios capacitados (1333 versus
+          1348) se obtuvo a tan solo 22% del costo en relación con el programa de Uganda.
+                       Cuadro 4A. Análisis Costo-Efectividad
+           Intervención/Programa                  Costos         Beneficios         Valor           CE         EC
+                                                  en 2017       (número de      Presente de       Ratio      Ratio
+                                                               funcionarios        costos          (C/B)     (B/C)
+                                                               capacitados)         2017
+  COLOMBIA: Componente 1.                        892,394.00         13331         506368.32       379.87    0.00263
+  Fortalecimiento del Sistema Integral
+  de Prevención: Productos 1) Proyecto
+  Nacional de Capacitación Preventiva, y
+  2) Guía de contratación pública para el
+  operador preventivo de la Procuraduría
+  aplicada
+  UGANDA: Componente 1: Prevenir               4,007,662.702        13483        1290360.13       957.24    0.00104
+  Corrupción
+1Suma del número de funcionarios bajo el componente de socialización de la Guía de contratación pública para el
+operador preventivo (300, pág. 28) y del número de funcionarios bajo el componente del Proyecto Nacional de
+Capacitación (1033, pág. 34), Fuente: Evaluación Final del Programa de Fortalecimiento de la Procuraduría General
+de la Nación – Fase II (2017). 2Costos programados del Componente 1, sólo considerando la aportación de USAID
+($3,390,000.00 Dólares en 2007, pág. 14) considerando la tasa de inflación acumulada de 18.2%, Fuente:
+Development Assistance Grant Agreement No. 617-AO8 Millenium Challenge Account Threshold Program. 3Suma de
+los funcionarios participantes de la Oficina del Auditor General (pág. 32), Fuente: Anti-Corruption Country Threshhold
+Program, Evaluation Report Final, Centre for Justice Studies and Innovations, The Consulting House (2010).
+3.1.54. Si se opta por la comparación con los costos planeados del programa en Colombia,
+          manteniendo ambas comparaciones como un CEA prospectivo, el resultado sigue siendo
+          el mismo. En términos de efectividad, el programa CO-L1098 sigue siendo más costo-
+          efectivo. El costo para obtener el número similar de funcionarios capacitados sería sólo
+          del 28%.
+8. Costo por unidad de efectividad.
+                                                           24
+"
+"                      Cuadro 4B. Análisis Costo-Efectividad
+          Intervención/Programa                Costos en        Beneficios        Valor         CE          EC
+                                                  2017         (número de    Presente de      Ratio       Ratio
+                                                              funcionarios       costos        (C/B)      (B/C)
+                                                              capacitados)        2017
+  COLOMBIA: Componente 1.                     1,141,664.001       13332         647810.81     485.98     0.00206
+  Fortalecimiento del Sistema Integral
+  de Prevención: Productos 1) Proyecto
+  Nacional de Capacitación Preventiva, y
+  2) Guía de contratación pública para el
+  operador preventivo de la Procuraduría
+  aplicada
+  UGANDA: Componente 1: Prevenir              4,007,662.703       13484       1290360.13      957.24     0.00104
+  Corrupción
+1Suma   de los costos planeados (P) para el Proyecto Nacional de Capacitación Preventiva Ejecutado ($974,999.00) y
+de la Guía de Contratación Pública para el Operador Preventivo de la Procuraduría Aplicada ($166,665.00).2Suma del
+número de funcionarios bajo el componente de socialización de la Guía de contratación pública para el operador
+preventivo (300, pág. 28) y del número de funcionarios bajo el componente del Proyecto Nacional de Capacitación
+(1033, pág. 34), Fuente: Evaluación Final del Programa de Fortalecimiento de la Procuraduría General de la Nación –
+Fase II (2017). 3Costos programados del Componente 1, sólo considerando la aportación de USAID ($3,390,000.00
+Dólares en 2007, pág. 14) considerando la tasa de inflación acumulada de 18.2%, Fuente: Development Assistance
+Grant Agreement No. 617-AO8 Millenium Challenge Account Threshold Program. 4Suma de los funcionarios
+participantes de la Oficina del Auditor General (pág. 32), Fuente: Anti-Corruption Country Threshhold Program,
+Evaluation Report Final, Centre for Justice Studies and Innovations, The Consulting House (2010).
+                             Calificación de Eficiencia (ponderación 20%)
+  Parcialmente             Análisis CTOA: el PCR informa que el proyecto es clasificado                    2.00
+  Insatisfactorio (S)      como \"Satisfactorio\" en el PMR (en relación con los índices CPI,
+                           SPI, CPI(a) y SPI(a). Nótese que en las operaciones aprobadas
+                           antes del 1/1/2012 sólo se reportará el SPI(a) y el CPI(a).
+  Resumen                  El proyecto no contempló un análisis CBA o CEA expost por las
+                           características de la intervención. Se realizó un ejercicio de CEA
+                           expost pero únicamente a nivel de producto, no de resultados, por
+                           lo que se toma en cuenta sólo el criterio de haber realizado un
+                           análisis CTOA.
+ 3.4     Sostenibilidad
+                   a. Aspectos generales de sostenibilidad
+3.1.55. Tal como se señala en el plan, en términos generales, la sostenibilidad de este
+         proyecto depende de tres factores puntuales: i) la voluntad política e institucional de
+         los Procuradores Generales de turno, ii) que se garanticen los recursos necesarios para
+         mantener actualizada y acorde con las necesidades funcionales el software y hardware
+         necesarios para el funcionamiento de los sistemas de información y de monitoreo y iii)
+         dar continuidad a los ejercicios de sensibilización, comunicación y pedagogía que se
+         desarrollaron durante este programa. El Cuadro 5 resume los principales riesgos
+         identificados, el probable impacto si se materialicen y las medidas de mitigación/
+         sostenibilidad sugeridas.
+                                                          25
+"
+"                                                    Cuadro 5. Probabilidad e impacto de diversos riesgos
+   Resultado Alcanzado                Riesgo            Factor de Probabilidad             Probable      Medidas que contribuyen a la sostenibilidad
+                                                                                           Impacto
+Vigilancia del Cumplimiento Pérdida de control tanto    Suspender la recolección de      Medio/ Alto • Fortalecer la utilización de los índices desarrollados
+Normativo                   para la Procuraduría        la información relacionada                     (IGA e INTEGRA) como instrumentos de información
+                            como para las Entidades     con rendición de cuentas y                     y toma de decisión para la prevención, así como su
+                            Territoriales; Falta de     las mediciones de los                          seguimiento y evaluación
+                            información para el         indicadores          propuestos.             • Continuidad en la recolección y reporte de los
+                            seguimiento/cálculo de      Baja apropiación/uso de los                    indicadores elaborados. Se sugiere contar con un
+                            los indicadores             indicadores propuestos                         tablero de control de fácil seguimiento para los
+                            propuestos (IGA/ITEP)                                                      directivos y alimentarse de KPIs de gestión y
+                                                                                                       desempeño aplicados a los funcionarios. El análisis
+                                                                                                       de resultados y la implementación de medidas
+                                                                                                       correctivas debe efectuarse con una periodicidad
+                                                                                                       mensual para la gestión y trimestral para el impacto.
+                                                                                                     • Garantizar la correcta apropiación de los procesos y
+                                                                                                       procedimientos para la Función Preventiva de la
+                                                                                                       Entidad. Actualmente el IGA se utiliza para verificar
+                                                                                                       el incumplimiento de los entes territoriales en la
+                                                                                                       gestión de reportes del propio indicador, es utilizado
+                                                                                                       por la delegada de transparencia, y es empleado
+                                                                                                       como instrumento para incidir en la
+                                                                                                       participación/apropiación de su uso y en la
+                                                                                                       generación de reportes en las alcaldías a partir del
+                                                                                                       desarrollo de un ranking de cumplimiento regional.
+Focalización del Programa   Resultados bajos en los     Falta        de         personal Alto        • Actualmente se encuentra en ejecución una tercera
+a nivel territorial         índices de transparencia    capacitado; no contar con                      fase del programa, la cual se enfoca en una
+                            y de IGA, principalmente    los mínimos tecnológicos;                      intervención integral que actualice, de continuidad y
+                            en regiones apartadas       implementación desigual en                     fortalezca los resultados de la segunda fase.
+                                                        el nivel territorial                           Específicamente, esta tercera fase continuará los
+                                                                                                       avances en el desarrollo de las funciones misionales,
+                                                                                                       en gestión organizativa, sistemas de información,
+                                                                                                       plataforma tecnológica, la metodología, entro otros
+                                                                                                       más. Además de lo anterior, la tercera fase fue
+                                                                                                       concebida para fortalecer las capacidades de los
+                                                                                                       funcionarios frente a sus responsabilidades con la
+                                                                                                       administración pública y la ciudadanía, y para actuar
+                                                                                                       de manera efectiva en el contexto económico y social
+                                                                                                       actual del país.
+                                                                                                     • Otra de las acciones realizadas es la adopción de las
+                                                                                                       guías y protocolos en el sistema de gestión de calidad
+                                                                                                       y su incorporación en el plan de inducción y
+                                                                                  26
+"
+"   Resultado Alcanzado               Riesgo           Factor de Probabilidad        Probable       Medidas que contribuyen a la sostenibilidad
+                                                                                    Impacto
+                                                                                                 reinducción a funcionarios llevado a cabo por el
+                                                                                                 Ministerio Público.
+Mayor cumplimiento          Bajos índices de          Afectación de la continuidad Medio       • Mecanismos de supervisión y evaluación periódica de
+integral de las normas      cumplimiento normativo,   del Programa ligada a                      los resultados de las actividades desarrolladas.
+relativas a la gestión      de rendición de cuentas,  cambios de administración                • PGN destine recursos para la actualización de
+pública; Fortalecimiento de aumento en la                                                        equipos de acuerdo con las exigencias técnicos
+la PGN                      percepción de                                                        mínimos que exige el sistema, de no ser así éste
+                            corrupción                                                           puede quedar obsoleto o en desuso.
+                                                                                               • La institución debe garantizar recursos para seguir
+                                                                                                 sensibilizando y capacitando a sus funcionarios en las
+                                                                                                 competencias preventivas que este convenio de
+                                                                                                 préstamo dejó alistadas y en funcionamiento.
+                                                                                               • Seguir actualizando el enfoque de gestión preventiva,
+                                                                                                 mediante la realización de talleres de trabajo con los
+                                                                                                 nuevos Directivos que generen una visión compartida
+                                                                                                 y garanticen la alineación de actividades con las
+                                                                                                 nuevas prioridades de gestión y organización de la
+                                                                                                 Entidad, cada vez que sobrevengan cambios de
+                                                                                                 administración. Se observa que uno de los productos
+                                                                                                 de este proyecto fue el Protocolo para el Control de la
+                                                                                                 Gestión Preventiva para la Administración Pública
+                                                                                                 Aplicado, el cual se cumplido con la ejecución del
+                                                                                                 crédito otorgado por el BID.
+                                                                                               • Dar continuidad a la adopción de las guías y
+                                                                                                 protocolos en el sistema de gestión de calidad y su
+                                                                                                 incorporación en los planes de inducción y reinducción
+                                                                                                 a funcionarios llevado a cabo por el Ministerio Público.
+Mayor cumplimiento          Menores resultados del    Afectación de la continuidad Medio/ Alto • Actualmente se encuentra en ejecución una nueva
+integral de las normas      Programa por débil        del Programa ligada a la                   etapa del Programa, la tercera fase, que continuará
+relativas a la gestión      articulación con entes de reducción de recursos, bajos               beneficiándose del acompañamiento de expertos del
+pública                     control y entidades       impactos o pérdida de                      BID e instaurando mecanismos de gobernanza mixtos
+                            públicas objeto de        pertinencia.                               BID-PGN.
+                            control.                                                           • Se ha desarrollado un enfoque sistémico de aplicación
+                                                                                                 de la Función Preventiva, basado en la toma de
+                                                                                                 información predictiva y el análisis de riesgo en las
+                                                                                                 entidades públicas, en articulación con otros entes de
+                                                                                                 vigilancia y control. Este enfoque sistémico se inició
+                                                                                                 con la utilización del IGA para identificar en qué
+                                                                                                 medida se ha dado el cumplimiento de las normas
+                                                                                                 relativas a la gestión. En este sentido la Procuraduría
+                                                                                                 viene adelantando reuniones de sensibilización con
+                                                                                                 las entidades públicas principalmente en los territorios
+                                                                            27
+"
+"   Resultado Alcanzado             Riesgo            Factor de Probabilidad           Probable       Medidas que contribuyen a la sostenibilidad
+                                                                                      Impacto
+                                                                                                   dándoles a conocer los beneficios del reporte y los
+                                                                                                   resultados en un ranking nacional.
+Fortalecimiento e         Menores resultados del     El modelo de Función            Medio/ Alto • La Función Preventiva ha evolucionado hacia un
+implementación de la      Programa por débil         preventiva desarrollado en                    enfoque sistémico mediante el desarrollo y empleo del
+función preventiva en las articulación y claridad en la Fase II no define                          IGA.
+entidades                 las funciones de las       claramente las interfaces,                  • Se deberán operacionalizar la función preventiva de
+                          entidades                  roles y mecanismos de                         prácticas anticorrupción en todas las entidades del
+                                                     desarrollo de la prevención                   sector vinculadas con funciones públicas, definiendo
+                                                     en las entidades públicas del                 reglas, roles y responsabilidades de dichas entidades
+                                                     nivel central y territorial;                  en el ejercicio de la función preventiva, teniendo en
+                                                     Enfoque en la definición de                   cuenta los diferentes sectores de intervención; así
+                                                     la función preventiva a nivel                 como la estructuración de un sistema de vigilancia y
+                                                     misional de la Institución,                   control que integre las oficinas de control de las
+                                                     pero no consideró las                         entidades públicas, las superintendencias, las
+                                                     entidades del sector que                      veedurías ciudadanas, entre otros. Solo de esta forma
+                                                     constituyen el entorno de                     se logrará una mayor eficiencia en el desarrollo de una
+                                                     trabajo en el cual se inscribe                función que por naturaleza requiere de un trabajo en
+                                                     y    al    cual    sirve     la               equipo con las entidades.
+                                                     Procuraduría.                               • Como se mencionó anteriormente, la Procuraduría ha
+                                                                                                   adelantado actividades de sensibilización con los
+                                                                                                   entes públicos en territorio a fin de promover el
+                                                                                                   cumplimiento normativo en la elaboración y
+                                                                                                   publicación de los reportes incluidos en el IGA
+                                                                            28
+"
+"                b. Salvaguardas ambientales y sociales
+3.1.56. No se plantean riesgos ambientales o sociales asociados con las actividades planteadas,
+        por lo que el proyecto se clasificó como categoría C.
+                       Calificación de sostenibilidad (ponderación 20%)
+                                Riesgos menores no mitigados
+                                para la continuación de los
+ Satisfactorio (S)              resultados, y es probable que el
+                                impacto de riesgos identificados                3.00
+                                sea pequeño y el resultado de
+                                las       salvaguardias       fue
+                                satisfactorio.
+                                Se han implementado diversos mecanismos y acciones de
+                                seguimiento para mantener la sostenibilidad del proyecto. Dada
+ Resumen                        la relevancia de las actividades, y como un componente de
+                                sostenibilidad, actualmente se está ejecutando una tercera fase
+                                dando continuidad al proyecto.
+3.5     Calificación general
+    La calificación general del proyecto, como respuesta a la evaluación de los criterios centrales
+    para esta operación es de:
+  Ambitos de desempeño       Relevancia     Efectividad  Eficiencia   Sostenibilidad       Total
+         Resultado               3.00           3.00        2.00           3.00              ---
+     Peso (Guía PCR)             20%           40%          20%            20%             100%
+   Resultado ponderado           0.60           1.20        0.40           0.60             2.80
+        IV. CRITERIOS NO CENTRALES
+4.1     Desempeño del Banco
+4.1.1. Esta sección aborda la efectividad del Banco en la adopción/aprobación o no de algunas
+        de las medidas que identificaran y facilitaran la preparación del programa que
+        contribuyeran a lograr los resultados de desarrollo planeados.
+      i)      Desempeño del Banco para garantizar la calidad del inicio
+Diseño del seguimiento y la evaluación
+4.1.2. Se destaca que a partir de la ejecución de la Fase 1 del programa, se identificaron
+        necesidades de mejoramiento de PGR. Debido a que estas nuevas necesidades estaban
+        fuera del alcance del diseño y ejecución de la primera intervención, se decide dar
+        continuidad al ejercicio de fortalecimiento en una Segunda Fase. En este sentido, se
+        enlazaron las acciones de la primera intervención con el ánimo de dar tanto continuidad
+                                                  29
+"
+"       como sostenibilidad a la primera intervención.Otro punto, y que ya fue abordado en
+       secciones anteriores, fue la definición del Indicador de Transparencia Internacional y el
+       Índice de Percepción de Corrupción del Banco Mundial como los referentes para la
+       evaluación de impacto del Programa y que dichos indicadores no guardaban una estricta
+       correlación con el resultado estimado de las actividades y objetivos desarrollados en el
+       Contrato de Préstamo. Se esperaba que las actividades desarrolladas en el marco del
+       Contrato de Préstamo permitieran incrementar a 4.0 puntos el Indicador de Transparencia
+       Internacional y ubicar a Colombia en el percentil 10° - 25° del indicador de percepción de
+       corrupción al año meta. No obstante, aunque los resultados parciales de los indicadores
+       de impacto presentan variaciones no significativas respecto a los definidos en la línea
+       base, estos muestran una tendencia en dirección al cumplimiento de la meta, cuyos
+       resultados, como se mencionó anteriormente, no son de total control y competencia por
+       parte de la PGN. Siguiendo las recomendaciones de la Evaluación Intermedia, se observa
+       que la UEP gestionó ante el BID el cambio de los indicadores, sin embargo, dicha solicitud
+       no fue aceptada por el BID.Calidad de la supervisión del Banco
+Disponibilidad del proyecto para la implementación
+4.1.4. El banco dispuso de un equipo técnico para realizar el seguimiento al PEC, indicadores,
+       programación de pagos y desembolsos y en general la ejecución del programa. Este
+       equipo trabajo permanentemente en conjunto con la unidad ejecutora quien ejerció el rol
+       de oficina de gerencia del Proyecto (PMO) a lo largo de su ejecución. Ambos equipos
+       demostraron gran compromiso, para lograr el cumplimiento de productos y aplicación de
+       buenas prácticas de gestión de proyectos tanto en la planeación, como en la ejecución y
+       ajustes propios del desarrollo de cualquier programa de gran envergadura como este. El
+       resultado, fue el de cumplimiento de los indicadores definidos para el Programa.
+Aspectos fiduciarios
+4.1.5. Uno de los aspectos positivos durante la ejecución de la operación fue que el equipo
+       responsable del programa había participado de la ejecución de la fase I, gracias a lo cual
+       contaba ya con experiencia la cual se capitalizó en la ejecución de la fase II, lo cual hizo
+       que en general procesos fluyeran con mayor facilidad. En la Evaluación Intermedia
+       (2014) se observó que, en el PEP inicial y sus versiones posteriores, se fijaron fechas de
+       inicio simultáneas para actividades interdependientes, lo cual afecto el cumplimiento de
+       la fecha de finalización del Programa, razón por la cual el 10 de marzo de 2015 la PGN
+       solicitó prórroga al plazo de ejecución hasta el 23 de mayo de 2017, que fue aprobada
+       por el BID mediante comunicación del 3 de junio de 2015. Este nuevo plazo plazo condujo
+       a la reprogramación de algunas de las actividades (especialmente las asociadas a la
+       integración de los sistemas de información), las cuales fueron desarrolladas
+       razonablemente bajo el nuevo cronograma de trabajo. Los ajustes realizados al Programa
+       fueron tramitados oportunamente y reflejan en general buenas prácticas de gestión de
+       proyecto. En todos los casos se evidencia que las modificaciones adelantadas permitieron
+       garantizar el desarrollo completo de los dos componentes principales de la Fase II,
+       respondiendo así a los objetivos fijados, incluso en un contexto de restricción
+       presupuestal. Se reconoce, además, que cuando se presentó el cambio de administración
+       al interior de la Procuraduría, el BID, trabajando en conjunto con el equipo de la unidad
+                                                 30
+"
+"        ejecutora, prestó apoyo en la capacitación a los nuevos directivos reforzando temas de
+        gestión financiera a través de entrenamiento y capacitaciones.Desempeño del
+        Prestatario
+4.1.7. Se aborda la efectividad con la que el prestatario desempeño sus responsabilidades de
+        acuerdo con los siguientes temas: Provisión de una financiación oportuna de la
+        contraparte
+4.1.8. Si bien este crédito no tenía una cláusula de contrapartida, parte de los compromisos del
+        prestatario era disponer de personal de planta al frente de la ejecución del contrato. En
+        otras palabras, la PGN financió la unidad ejecutora, siendo una medida de sostenibilidad
+        y para evitar ruptura durante la ejecución del proyecto.Medidas para establecer la
+        sostenibilidad del proyecto
+4.1.9. La lectura de las actas de reunión y entrevistas realizadas, permiten evidenciar que, a lo
+        largo de la ejecución del Contrato de Préstamo, el Comité Directivo centró su labor
+        principalmente en la toma de conocimiento del desarrollo del Programa. Una medida para
+        garantizar la sostenibilidad del proyecto, cómo ya se mencionó anteriormente, fue que los
+        productos de la ejecución del contrato se incorporaron en los planes de capacitación de
+        inducción y reinducción a funcionarios públicos. Asimismo, se continuó con un plan de
+        mejoramiento institucional con la ejecución de la Fase 3 del proyecto. En cuanto al Grupo
+        de Apoyo Técnico (GAT), de acuerdo con lo definido por el Manual Operativo, este cuerpo
+        desarrolló para cada una de las contrataciones del Programa, las tareas de diseño,
+        conceptualización y aprobación de pliegos de condiciones y productos entregados.No
+        obstante, debilidades en la formalización de los procedimientos de revisión y expedición
+        de conceptos, conllevan un riesgo para la Entidad, pues no le permiten contar con una
+        gestión del conocimiento adecuada a lo largo del tiempo, capaz de sustentar las
+        decisiones tomadas y afrontar así en mejores condiciones fenómenos como la rotación
+        de personal en el tiempo.Cumplimiento del plan de monitoreo y evaluación
+4.1.12. La UEP desarrolló el seguimiento de riesgos al Programa por medio de reuniones
+        periódicas de su grupo de trabajo, mediante las cuales se identificaban los riesgos
+        generales de la ejecución y los riesgos que afectaban el logro de los objetivos del
+        Programa. Los resultados de las reuniones (Matriz y Plan de Mitigación de Riesgos) eran
+        presentados al BID en los Informes de Ejecución Semestral. Adicionalmente, acatando lo
+        sugerido en la Evaluación Intermedia y dando seguimiento al principal riesgo, la
+        desviación del cronograma frente a la línea base, la UEP vinculó la ruta crítica del
+        Programa en la herramienta PEP y remitió la versión actualizada del mismo al BID en el
+        Informe Semestral de Ejecución 2015-I. Por otro lado, los soportes revisados no reflejan
+        la participación del GAT en la gestión de riesgos del Programa.Las actividades de
+        seguimiento y monitoreo del Programa fueron desarrolladas por la UEP, mediante las
+        herramientas definidas en el Contrato No. 2249/OC-CO y Manual Operativo. Así mismo
+        se observa que la Unidad realiza los reportes requeridos por los organismos de control,
+        como lo es la Contraloría General de la Nación y Departamento Nacional de Planeación.
+                                                 31
+"
+"            V. CONCLUSIONES Y LECCIONES APRENDIDAS
+   5.1.1. La Fase II del Proceso de Modernización de la PGN se desarrolló con un objetivo
+            principal: dotar a la PGN de la conceptualización, organización, procesos, procedimientos
+            y herramientas de trabajo que permitieran volver la función preventiva una función
+            operativa, inscrita dentro del quehacer misional al mismo nivel que la función disciplinaria.
+            Transcurridos 6 años de la Fase II, se puede afirmar que a la luz de este objetivo el
+            Programa fue exitoso, pues logró sentar las bases organizacionales y procedimentales
+            para el ejercicio estructurado de esta función y desarrollar instrumentos de trabajo útiles
+            para su gestión. No obstante, se identifican lecciones aprendidas y recomendaciones
+            para futuras operaciones vinculadas con el programa, las cuales se resumen en el Cuadro
+            6 a continuación:
+                                     Cuadro 6. Hallazgos y Recomendaciones
+  Dimensión             Categoría       Lección                                         Recomendación
+Técnico-          Diseño del programa;  Se propusieron indicadores      Definir indicadores de resultado directamente
+Sectorial         Monitoreo          y  de impacto que                  relacionados con los objetivos perseguidos a
+                  Evaluación       del  sobreestimaron el aporte de     corto y mediano plazo por el Programa
+                  Programa              las acciones adelantadas en    •    Los indicadores de impacto contemplados en
+                                        el proyecto.                        el diseño del programase enfocaron en el
+                                                                            comportamiento      de los       Índices     de
+                                                                            Transparencia Internacional y Percepción de
+                                                                            la corrupción de Colombia (Banco Mundial).
+                                                                       •    Aunque la visión de utilizar estos indicadores
+                                                                            como medida de éxito del programa
+                                                                            enfocado en prevenir la corrupción y reforzar
+                                                                            la transparencia es acertada, el corto periodo
+                                                                            de ejecución e implementación del nuevo
+                                                                            enfoque de gestión preventiva desarrollado
+                                                                            no permitía evaluar el impacto de estas
+                                                                            actividades a la luz de dichos objetivos
+                                                                            mayores, los cuales evolucionan en el tiempo
+                                                                            y responden a factores múltiples, no
+                                                                            completamente       controlados      por    las
+                                                                            actividades de desarrollo del Programa.
+                                                                       •    Es importante que en el diseño de próximas
+                                                                            etapas se definan sistemas de indicadores de
+                                                                            resultado directamente relacionados con los
+                                                                            objetivos perseguidos a corto y mediano
+                                                                            plazo por el Programa.
+Técnico-          Diseño del programa/   Definir de manera              Elaboración de un diagnóstico exhaustivo de
+Sectorial/        Capacidad de gestión   simultánea al cronograma       las       necesidades,        prioridades         y
+Organizacional y  del proyecto           del proyecto, la ruta crítica  requerimientos del programa
+Gestión                                  de actividades que permita    •    Se recomienda que, durante la fase de
+                                         identificar las tareas             planeación y diseño, la Entidad (Alta
+                                         interdependientes que              dirección, áreas misionales, unidad ejecutora
+                                         pueden afectar de forma            y áreas soporte) con acompañamiento del
+                                         negativa el cumplimiento de        BID, realice un diagnóstico exhaustivo de las
+                                         los plazos estimados               necesidades, prioridades y requerimientos
+                                                                            que aseguren razonablemente el desarrollo
+                                                                            de los productos esperados y su apropiación
+                                                                            en los procesos misionales de la entidad.
+                                                                        • El diagnóstico permitirá a la Procuraduría
+                                                                            evitar   posibles    desviaciones      en     el
+                                                                            cronograma, como el generado por un débil
+                                                                            diagnóstico desarrollado en el diseño del
+                                                                            Subcomponente de Sistema de Información
+                                                            32
+"
+"  Dimensión             Categoría     Lección                                          Recomendación
+                                                                         para la Gestión Preventiva, donde no se
+                                                                         consideró la intervención técnica y
+                                                                         actualización del SIM, bajo el entendido que
+                                                                         posterior a la finalización de la Fase I, la
+                                                                         Entidad había continuado con las inversiones
+                                                                         en el mantenimiento del mismo.
+Organizacional y Coordinación         El rol del Comité Directivo y  Lograr una sólida articulación entre las
+Gestión          Intra/Inter-         del Grupo de Apoyo Técnico     instancias de dirección misional y el PMO
+                 Institucional        se concentró en el            •    La concentración del seguimiento de las
+                                      seguimiento contractual y en       actividades del programa en sólo dos
+                                      la personalización de los          Procuradurías desdibujó la función de
+                                      objetivos del Programa             direccionamiento estratégico y técnico, pilar
+                                      en dos de las Procuradurías        fundamental para garantizar la apropiación
+                                      Delegadas de la Entidad            de las actividades desarrolladas y su
+                                      (Función Preventiva y              alineación con las necesidades de las áreas
+                                      Descentralización y                misionales de la Entidad.
+                                      Entidades Territoriales) y no •    Adicionalmente, a lo largo de la ejecución del
+                                      en todas aquellas que              Programa, en la Entidad se presentaron
+                                      ejercen labores de función         cambios de personal que condujeron a un
+                                      preventiva.                        aislamiento de la Unidad Ejecutora y a un
+                                                                         menor impulso general del Programa, el cual
+                                                                         hoy en día, no es conocido de manera
+                                                                         suficiente por muchos de los nuevos
+                                                                         funcionarios, razón por la cual, actualmente
+                                                                         se encuentra en ejecución una tercera fase
+                                                                         del programa.
+                                                                    •    Para lograr que la ejecución de un programa
+                                                                         como este sea “fuerte y flexible en el tiempo”
+                                                                         (resilient), es necesario que exista una sólida
+                                                                         articulación entre las instancias de
+                                                                         dirección misional y el PMO, que permita
+                                                                         obtener retroalimentación a lo largo de la
+                                                                         ejecución respecto a la pertinencia de los
+                                                                         contenidos y la orientación de los productos
+                                                                         en      desarrollo,   para     garantizar    su
+                                                                         actualización y vigencia.
+Organizacional y Capacidad de gestión Garantizar el anclaje          Definir una composición mixta que integre
+Gestión          del programa/        institucional de la Unidad     expertos BID y funcionarios directivos y de
+                 Coordinación         Ejecutora                      carrera de las áreas misionales, mediante
+                 Intra/Inter-                                        esquemas de asignación por la duración de
+                 Institucional                                       ejecución del Programa y como requisito para
+                                                                     la ejecución de las operaciones de crédito
+                                                                    •    La experiencia de la Fase II sigue
+                                                                         demostrando la vigencia e importancia de
+                                                                         contar con unidades ejecutoras internas,
+                                                                         conformadas por especialistas de alto nivel,
+                                                                         como lo fue la UEP de esta segunda fase
+                                                                    •    No obstante, también demuestra que el rol de
+                                                                         dichas unidades es más efectivo si dispone
+                                                                         de una orientación estratégica y real
+                                                                         articulación dada por la entidad beneficiaria,
+                                                                         la cual no puede depender exclusivamente
+                                                                         del liderazgo y compromiso de aportar
+                                                                         recursos de los directivos (Fase I), pues la
+                                                                         ejecución de estos programas es prolongada
+                                                                         y siempre está sujeta a la posibilidad de
+                                                                         cambios en los directivos de las entidades
+                                                                         públicas.
+                                                                     • Los funcionarios que integren la composición
+                                                                         mixta de la Unidad Ejecutora participarían de
+                                                                         primera mano en la ejecución del Programa
+                                                        33
+"
+"   Dimensión               Categoría         Lección                                        Recomendación
+                                                                                y estarían encargados de garantizar su
+                                                                                idónea     articulación     con    las    áreas
+                                                                                beneficiarias, a las que se integrarían
+                                                                                nuevamente al término del Programa.
+Fuente: Evaluación Final del Programa de Fortalecimiento de la Procuraduría General de la Nación – Fase II (Deloitte, 2017).
+                                                              34
+"

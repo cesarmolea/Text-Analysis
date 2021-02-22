@@ -1,0 +1,1533 @@
+"outlist[[i]]"
+" CLASIFICACIÓN DE EFECTIVIDAD EN EL DESARROLLO                ALTAMENTE EXITOSO
+ CALIFICACIONES DEL DESEMPEÑO DEL PROYECTO EN LOS PMR:
+                                            Etapa de                           Desembolsos reales
+    No.              PMR Fecha
+                                              PMR                               (millones de USD)
+    1      Enero-Diciembre 2014            1B            Satisfactorio                       17,000,000
+    2      Enero–Diciembre 2015            2             Satisfactorio                       31,000,000
+    3      Enero–Diciembre 2016            3             Satisfactorio                       48,000,000
+    4      Enero–Diciembre 2017            3             Satisfactorio                       50,000,000
+PERSONAL DEL BANCO
+               Posiciones                       En PCR                        En la Aprobación
+    Vicepresidente VPS               Ana María Rodríguez               Santiago Levy Algazi
+    Vicepresidente VPC               Alexandre Meira da Rosa           Roberto Vellutini,
+    Gerente de país                  Verónica Zavala                   Gina Montiel
+    Gerente Sectorial                Marcelo Cabrol                    Héctor Salazar
+    Jefe de División                 Ferdinando Regalia                Ferdinando Regalia
+    Representante de país            Eduardo Marques Almeida           Ian Walker
+    Jefe de equipo del proyecto      Hugo Godoy                        Hugo Godoy
+    Jefe de equipo del PCR           Hugo Godoy                        Hugo Godoy
+Tiempo y costo del personal
+      Ciclo de proyecto de etapa         # de semanas de             USD (incluidos los gastos de
+                                             personal                      viaje y asesoría)
+    Preparación                                          25,99                            149.328,76
+    Supervisión                                          74,35                            363.910,07
+    Total                                               100,34                            513.238,83
+DECLARACIÓN DE LOS OBJETIVOS DE DESARROLLO DEL PROYECTO / PROGRAMA:
+El objetivo principal del programa fue la de apoyar a la Secretaría de Salud (SESAL) en la expansión de
+la cobertura y calidad de servicios de salud a través de la modalidad de gestión descentralizada de dichos
+servicios, priorizando las poblaciones de los municipios más pobres del país y fortaleciendo la
+implementación del modelo de atención integral en salud familiar-comunitario.
+Los tres objetivos específicos del programa fueron:
+         (i)       Mejorar el acceso y calidad del Conjunto Garantizado de Prestaciones de Servicios de
+                   Salud (CGPSS) prestado a la población beneficiaria del proyecto;
+         (ii)      Fortalecer las redes materno-infantiles de salud en los municipios y departamentos
+                   beneficiados; y
+         (iii)     Mejorar la capacidad institucional de la SESAL para normar, conducir y gestionar los
+                   servicios de salud que son provistos mediante la modalidad de gestión descentralizada.
+                                                       iv
+"
+"         I.  INTRODUCCIÓN
+El sistema de salud de Honduras ha logrado en los últimos años un progreso importante en la
+mejoría del estado general de salud y programas sostenidos de atención, que permitieron que
+Honduras lograra reducir entre 1990 al 2015 de 182 a 61 muertes maternas por 100.000 nacidos
+vivos (NV) 1 .
+Con relación a la salud infantil, la mejora de los indicadores ha sido igualmente notoria, ya que
+se logró reducir, en el periodo de 1986 a 2012, la mortalidad en la niñez en un 47% al disminuir
+de 55 a 29 muertes por cada 1.000 NV y la Mortalidad Infantil (MI) en un 38%, reduciendo de
+39 a 24 muertes por mil NV 2.
+Pese a los avances en el estado de salud de los hondureños, sus indicadores se han mantenido
+por debajo de los promedios regionales y las mejoras de algunos indicadores de salud básica
+tienen una tendencia a disminuir en su velocidad de reducción.
+Los problemas de salud de los hondureños afectan principalmente a las poblaciones de las zonas
+rurales que tienen una limitada cobertura a los servicios de salud; por ejemplo, la desnutrición
+crónica (baja talla para la edad) en niños menores de cinco años de hogares pobres del área
+rural, la cual era del 51% frente al promedio nacional de 23,5% en 2012 3. Además, el 65,4% de
+las muertes maternas ocurrían en las primeras 24 horas que siguen a la atención del parto,
+ocasionado, por las bajas coberturas de atención de parto por personal calificado, ya que 4 de
+cada 10 partos de las mujeres ocurren en la comunidad y no son atendidos por personal
+calificado, siendo atendidos por parteras, familiares e incluso por la propia mujer parturienta, en
+condiciones inadecuadas 4. La ocurrencia de muertes maternas también estaba vinculada con la
+oportunidad que tienen las mujeres para recibir la atención adecuada, oportuna y de calidad de
+las complicaciones obstétricas 5.
+Aunque la mortalidad y la morbilidad materna e infantil afecta a todos los estratos sociales y
+económicos, mueren y enferman en mayor cantidad, las mujeres pobres y analfabetas, que
+residen en zonas rurales, con falta de atención obstétrica básica, lo que evidencia inequidad.
+Este fenómeno de inequidad ha sido ampliamente demostrado a través de las encuestas
+nacionales de salud, que revelan diferencias significativas con relación a la atención prenatal
+(proporcionados en establecimientos de salud del estado) por personal calificado, según el nivel
+educativo de las mujeres y el quintil de riqueza del hogar. Mientras casi la totalidad de las mujeres
+ubicadas en el quintil superior de riqueza (99%) recibe atención prenatal por un profesional de
+salud, sólo el 55% de las mujeres ubicadas en el quintil inferior tiene acceso a este servicio de
+salud, ya que las mujeres ubicadas en el quintil superior tienen la capacidad de pagar un servicio
+privado o estar afiliadas a un seguro médico. De la misma manera, la atención prenatal por
+profesional de salud es del 99% para las mujeres con educación superior y alcanza el 58% entre
+las mujeres sin educación 6.
+1   Trends in maternal mortality: 1990 to 2015 Estimates by WHO, UNICEF, UNFPA, World Bank Group and the
+    United Nations Population Division.
+2   Comparación entre: Encuesta de epidemiologia y Salud Familiar (ENESF 1991) y Encuesta de Demografía y
+    Salud (ENDESA 2011-2012).
+3   ENDESA 2011-2012.
+4   Ídem.
+5   La Investigación de línea de base del Programa Salud Mesoamérica. Instituto de Métrica en Salud (IHME) de la
+    Universidad George Washington. Julio 2013. Encontró que solamente en el 57% de los casos de las
+    complicaciones por hemorragia, sepsis, y trastornos hipertensivos, fueron atendidos de acuerdo con la norma
+    nacional y además, debido a que el abastecimiento de medicamentos, insumos y equipo para dicha atención se
+    encontró en 0%.
+6   ENDESA 2011-2012.
+                                                       5
+"
+"Pero si se restringe la atención a la suministrada por médicos únicamente, la brecha se hace
+mayor. Apenas el 56% de las mujeres sin educación y el 53% de las ubicadas en el quintil inferior
+de riqueza son atendidas por personal médico, en comparación con el 98% de aquellas con
+educación superior y el 97% de las ubicadas en el quintil superior 7.
+Otra importante limitante que se observaba para seguir avanzando en la reducción de la
+mortalidad materna e infantil era la limitada capacidad de la Secretaría de Salud (SESAL) para
+incrementar la eficiencia y cobertura de sus servicios de salud, debido a que, por su modalidad
+centralizada de prestación de los servicios, que privilegia la curación y que no cuenta con la
+disponibilidad suficiente de recursos para satisfacer las exigencias y necesidades de atención de
+la población.
+Para disminuir esa brecha de cobertura y acceso a los servicios de salud y mejorar su eficiencia
+y calidad, el Gobierno de Honduras inició en el año 2004, la implementación del Modelo de
+Gestión Descentralizado (MGD), demostrando ser más eficiente en el uso de los recursos y
+mejorando la respuesta institucional, mediante la ampliación de horarios de atención, cobertura
+de los servicios con más recursos humanos y la atención ininterrumpida de los servicios, mejor
+abastecimiento de insumos y medicamentos con lo que se mejoró sustancialmente el acceso,
+cobertura, y calidad de los servicios 8.
+Entre los años 2010 y 2012, el financiamiento a los gestores de primer y segundo nivel provino
+principalmente de préstamos y donaciones externas, en particular de los proyectos HO-L1002
+(1619/SF-HO) y HO-L1059 (2418/BL-HO) y, a partir del año 2012, financiado principalmente por
+el proyecto HO-L1059 9.
+En vista de los logros obtenidos por las operaciones anteriormente descritas, el Gobierno de
+Honduras firmó contrato con el BID, para financiar este proyecto HO-L1090 (2943/BL-HO), para
+continuar apoyando la consolidación de las intervenciones en salud y la expansión de la
+cobertura a otros municipios pobres, de áreas rurales e indígenas.
+Este programa, tuvo como objetivo principal, fortalecer la capacidad institucional de la SESAL
+para la expansión de la cobertura y calidad de servicios de salud a través de gestores
+descentralizados, priorizando las madres y niños de las poblaciones de los municipios más
+pobres del país (ver Mapa 1), mediante la implementación del modelo de atención integral en
+salud familiar-comunitario.
+7   Ídem.
+8   Estudio comparativo modelo descentralizado vs centralizado: SESAL-Measure Evaluation, marzo de 2009.
+9   Programa de Fortalecimiento de la Gestión y Oferta Descentralizada de los Servicios de Salud.
+                                                        6
+"
+"               Mapa 1 – Municipios con Gestión Descentralizada del Primer Nivel en Honduras
+              Fuente: Departamento de informática. UGD-SESAL
+ El monto para el financiamiento del programa estaba conformado por US$50.000.000 que
+ procedían del contrato de préstamo 2943/BL-HO (HO-L1090).
+         II. CRITERIOS CENTRALES
+2.1      Relevancia
+             a. Alineación con las necesidades de desarrollo del país
+ Tal como fue mencionado en la introducción de este documento, el país ha mostrado importantes
+ avances en la mejoría de sus indicadores de salud, especialmente de los grupos poblacionales
+ más vulnerables como las madres y los niños. No obstante al avance logrado, persisten
+ importantes brechas de cobertura y acceso a los servicios de salud y de necesidades de mejora
+ de eficiencia y la calidad, lo que ha facilitado la persistencia de elevados índices de mortalidad
+ materna-neonatal y desnutrición, lo que contribuye con el rezago del desarrollo nacional.
+ En los últimos 50 años, Honduras ha venido mejorando en forma progresiva y sostenida, sus
+ indicadores de salud, especialmente en los relacionados con la salud materna infantil. Por
+ ejemplo: la esperanza de vida al nacer se ha incrementado de 59,6 años en 1970 a 73,3 años
+ en 2016.
+ La razón de mortalidad materna (RMM) ha disminuido de 182 a 61 muertes por cada 100.000 NV
+ entre 1990 y 2015 (promedio Latino América y el Caribe - LAC: 67 muertes por 100.000 NV), lo
+ que representa una reducción del 66,5%. Con relación a la salud de la niñez, la mejoría en los
+ indicadores ha sido igualmente notoria, ya que de 1986 a 2012 el país logró reducir la mortalidad
+ en la niñez (de 1 – 5 años) en un 47% al pasar de 55 a 29 muertes por 1.000 NV y la MI (niños
+ mayores de 28 días hasta un año) en un 38% al pasar de 39 a 24 muertes por 1.000 NV. Sin
+ embargo, la reducción de la MI en el período 2006 - 2012 solo se redujo un 4%, de 25 a 24 por
+ 1.000 NV, lo que demuestra que el nivel de avance se había detenido.
+ A pesar de que se ha logrado un importante avance en la disminución de la mortalidad materna,
+ se observa una desaceleración en la velocidad de su reducción: entre 1990 y 1997 la RMM se
+ redujo de 182 a 108 a un ritmo anual promedio de 10,6 puntos; entre 1997 y 2010 de 108 a
+ 73 equivalente a 2,7 puntos anuales; y entre 2010 y 2015, descendió 2,4 puntos por año, al pasar
+ de 73 a 61 muertes por 100.000 NV.
+                                                     7
+"
+"En cuanto a la salud infantil, el desafío más importante es la reducción de la Mortalidad Neonatal
+(MN) (recién nacido a 28 días), cuya tasa ha permanecido constante, en 18 muertes por 1.000 NV
+en 20 años. Las MN representan el 62% de las muertes infantiles.
+En el contexto de las necesidades del país, Honduras firmó en septiembre del 2000, la
+Declaración del Milenio de las Naciones Unidas, en la que se comprometió a erradicar la pobreza
+extrema en todas sus formas para 2015 10, estableciéndose objetivos y metas, denominados
+Objetivos de Desarrollo del Milenio (ODM) 11.
+Para hacer posible el cumplimiento de estos compromisos, el país elaboró y aprobó, la Política
+Nacional para la Reducción Acelerada de la Mortalidad Materna y de la Niñez (RAMNI), mediante
+la mejoría en el acceso cobertura y eficiencia de los servicios de salud reproductiva y de la niñez,
+con un periodo de duración del 2008 al 2015.
+La política RAMNI (2008 al 2015), postulaba que para lograr reducir en forma acelerada la
+mortalidad materna e infantil, era necesario consolidar un ejercicio de alineamiento y
+armonización de todos los actores y además expandir los servicios a través de mecanismos
+innovadores de gestión y provisión de los servicios.
+Estos mecanismos innovadores fueron implementados a través del MGD, que facilitaría la
+extensión de los servicios de salud a poblaciones pobres altamente postergadas.
+Este proyecto aborda las necesidades de desarrollo del país relacionadas con la mejoría en el
+acceso y calidad de los servicios de salud obstétrica y de la niñez, para contribuir con la reducción
+de los índices de morbilidad y mortalidad materno-infantil.
+                 b. Alineación estratégica
+La Estrategia del Banco para el País (EBP 2011-2014) definió cinco sectores para brindarle
+asistencia: (i) gestión pública; (ii) sistema financiero; (iii) protección social; (iv) salud; y (v) energía.
+Estos sectores fueron acordados con el Gobierno de Honduras y estaban incluidos en el Plan de
+Gobierno 2010-2014 y de acuerdo con los diagnósticos efectuados por el Banco. De acuerdo con
+la EBP, los sectores seleccionados tenían como propósito principal apoyar a la consecución de
+los objetivos de la “Visión de País 2038”, especialmente con el objetivo: “una Honduras sin
+pobreza extrema, educada y sana, con sistemas consolidados de previsión social”.
+Para contribuir con ello, en la EBP se incluyó como uno de sus objetivos estratégicos: “Mejorar
+la articulación y acceso a servicios básicos de salud y nutrición”. Durante el período 2011-2014,
+se aprobaron tres operaciones 12 dirigidas al sector salud: dos préstamos por $80 millones
+(HO-L1072 y HO-L1090) y una donación por $6 millones (HO-G1001). Estas tres operaciones
+fueron coherentes y alineadas con los objetivos de la EBP y los desafíos de desarrollo del país.
+Asimismo, estas operaciones fueron complementarias entre sí y con ellas se logró mejorar la
+oferta y calidad de salud mediante la descentralización de los servicios de salud especialmente
+del primer y segundo nivel de atención, focalizándose en la población de los 94 municipios más
+pobres del país.
+10  Resolución A/RES/60/1 aprobada por la Asamblea General de las Naciones Unidas el 16 de septiembre de 2005.
+11  Los ODM directamente relacionados con la salud de las poblaciones eran: ODM 4 Reducir la Mortalidad de los
+    niños menores de cinco años y el ODM 6: Mejorar la Salud Materna. En cuanto a los Objetivos de Desarrollo
+    Sostenible, este programa está directamente relacionado con el ODS 3 “Garantizar una vida sana y promover el
+    bienestar para todos en todas las edades”; esto incluye metas relacionadas con la mortalidad materna, neonatal
+    y de menores de cinco años.
+12  HO-L1072 (2743/BL-HO) - Fortalecimiento de la Red Hospitalaria Materno Infantil; HO-L1090 (2943/BL-HO) -
+    Programa de Mejoramiento del Acceso y Calidad de Servicios y Redes de Salud; y HO-G1001
+    (GRT/HE-13210-HO, GRT/HE-13211-HO): Iniciativa Salud Mesoamérica 2015 - Honduras
+                                                         8
+"
+"También es relevante destacar que los dos préstamos de salud tuvieron sinergias con otras
+cuatro operaciones del Banco en el sector de protección social 13. Estas operaciones de
+protección social tenían como objetivo aumentar la cobertura y la focalización de educación y
+salud en las mismas áreas de intervención de este programa. Las sinergias entre las operaciones
+de salud y las de los proyectos de protección social se dieron gracias al otorgamiento de
+transferencias monetarias condicionadas, para estimular la utilización especialmente de los
+servicios obstétricos neonatales, con lo cual se mejoró la cobertura de los servicios.
+Así mismo esta operación estuvo alineada con la EBP 2015-2018, que definió como objetivo
+estratégico mejorar los indicadores de salud de los niños menores de cinco años (GN-2796).
+Adicionalmente, esta operación estuvo alineada con la Actualización de la Estrategia Institucional
+del Banco 2010-2020 (GN-2788-5), en particular con el desafío de desarrollo de inclusión social
+e igualdad y con el área transversal de igualdad de género y diversidad, al incrementar el acceso
+a servicios de salud reproductiva. Finalmente, el programa contribuyó al Marco de Resultados
+Corporativos 2016-2019 (GN-2727-4) al incrementar el número de beneficiarios de servicios de
+salud y beneficiarios de programas destinados a combatir la pobreza en 965.865 personas.
+                  c. Relevancia de Diseño
+La lógica vertical del programa partió del reconocimiento que el goce del grado máximo de salud
+que una sociedad pueda lograr es uno de los derechos fundamentales de todo ser humano 14. El
+derecho a la salud incluye el acceso oportuno, aceptable y asequible a servicios de atención de
+salud de calidad. En 2014, se estimaba que aproximadamente un 40% 15 de los habitantes de los
+municipios más pobres en el país, vivían por debajo del umbral de pobreza y con limitado acceso
+a servicios por lo que debían incurrir en gastos sanitarios para atender sus necesidades,
+constituyendo una de las principales barreras de acceso a los servicios de salud.
+La cobertura sanitaria universal es un medio adecuado para promover el derecho a la salud y
+mejorar los indicadores sanitarios y de desarrollo, a través de la implementación de mecanismos
+que faciliten el incremento en la cobertura, acceso y la calidad de los servicios de salud 16.
+En el momento del diseño del programa, la SESAL atravesaba por dificultades para ampliar la
+cobertura sanitaria, debido al débil ejercicio de su función de rectoría, la escasa capacidad de
+gestión del sistema, y además porque contaba con un presupuesto de ejecución centralizado y
+con limitada y tardía respuesta a las necesidades locales.
+Adicionalmente a los problemas de acceso a los servicios de salud de amplios sectores de la
+sociedad hondureña, el Estado enfrentaba el reto de enfrentar un importante rezago
+epidemiológico, manifestado por la presencia de enfermedades infecciosas comunes,
+desnutrición y problemas de salud reproductiva. Adicionalmente, enfrentaba nuevos problemas
+sociales; el envejecimiento demográfico, el acelerado proceso de urbanización, la degradación
+del ambiente y la adopción de estilos de vida poco saludables, que en su conjunto contribuyen a
+13  HO-L1032 (2096/BL-HO) - Programa Apoyo Integral a la Red de Protección Social; HO-L1042 (2372/BL-HO) -
+    Segunda Operación para Programa apoyo integral en protección social; HO-L1071 (2737/BL-HO) Programa de
+    Apoyo a la Red de Protección Social; y HO-L1087 (2937/BL-HO) - Programa Apoyo Red de Protección Social II.
+    Las primeras dos operaciones aprobadas en 2008 y 2010 respectivamente e implementadas dentro del periodo
+    de la estrategia 2011-2014.
+14  Declaratoria de constitución de la Organización Mundial de la Salud (OMS, Ginebra, Suiza 7 de abril de 1948).
+15  Encuesta permanente de Hogares de propósitos múltiples. Instituto nacional de Estadísticas (INE). Septiembre
+    de 2014.
+16  \"El acceso universal a la salud implica la eliminación de las barreras de acceso geográfico, cultural y financieras.
+    La cobertura universal de salud se construye sobre el acceso universal a la salud permitiendo la utilización de los
+    servicios de salud de calidad cuando se necesitan\". (Estrategia para el Acceso Universal a la Salud y la Cobertura
+    Universal de Salud y las Implicaciones para el Fortalecimiento y/o Transformación de los Sistemas de Salud de
+    los países de la Región. OPS-OMS).
+                                                           9
+"
+"una situación más complicada, donde se multiplican enfermedades transmisibles, crónicas y
+daños por lesiones.
+Para hacer frente a los retos anteriormente citados, el Gobierno de Honduras ha impulsado, con
+el apoyo del Banco, un proceso de reforma, enfocado en el fortalecimiento del rol de rectoría de
+la SESAL y la implementación del MGD con el fin de extender los servicios de salud en los
+municipios más pobres del país.
+Uno de los principales problemas, que el MGD pretende resolver, es la deficiente continuidad en
+la oferta de servicios de salud, debido a las limitaciones en el suministro de insumos críticos 17 y
+la escasa asignación del personal de salud en las zonas rurales y de mayor vulnerabilidad.
+Los retos anteriormente mencionados, para incrementar el acceso a los servicios, fueron
+abordados en este programa para el Mejoramiento del Acceso y Calidad de Servicios y Redes
+de Salud (HO-L1090; 2943/BL-HO). El objetivo principal del programa fue la de apoyar a la
+SESAL en la expansión de la cobertura y calidad de servicios de salud a través de la modalidad
+de gestión descentralizada de dichos servicios, priorizando las poblaciones de los municipios
+más pobres del país y fortaleciendo la implementación del modelo de atención integral en salud
+familiar-comunitario.
+Los tres objetivos específicos del programa fueron:
+          (i)       Mejorar el acceso y calidad del Conjunto Garantizado de Prestaciones de
+                    Servicios de Salud (CGPSS) 18 prestado a la población beneficiaria del proyecto;
+          (ii)      Fortalecer las redes materno-infantiles de salud en los municipios y
+                    departamentos beneficiados; y
+          (iii)     Mejorar la capacidad institucional de la SESAL para normar, conducir y gestionar
+                    los servicios de salud que son provistos mediante la modalidad de gestión
+                    descentralizada.
+Para ello, se apoyó la implementación de estrategias para fortalecer la capacidad Institucional de
+la SESAL para normar, conducir y gestionar la red de servicios de forma descentralizada,
+mediante la contratación de 24 gestores para mejorar la cobertura de los servicios y el cuidado
+de la salud de la población bajo la modalidad de gestión descentralizada en 94 municipios pobres.
+Para alcanzar los objetivos específicos planteados por el programa, se fortaleció la función de
+compra y contratación de servicios de salud, lo que le permitiría a la SESAL : (i) identificar
+las brechas de financiamiento y la definición de un plan para la extensión de cobertura del MGD;
+(ii) definir mecanismos de pago a gestores; (iii) establecer el costo de los servicios, negociar y
+firmar contratos de gestión; (iv) implementar sistemas de monitoreo de indicadores y resultados;
+(v) llevar a cabo los pagos en base a las mediciones y auditorías a los prestadores (vi) desarrollo
+de un marco legal y normativo para la sostenibilidad del proceso de descentralización; y (vii) la
+implementación de un sistema de análisis de costo y el diseño e implementación de un sistema
+para la certificación de gestores, entre otros.
+17   Sigil Consulting. Estudio sobre el Sistema de Salud y la Oferta de Programas de Salud en Honduras. Proyecto
+     financiado por JICA y el BID, 2010.
+18   El conjunto garantizado de servicios consistió en acciones de promoción de la salud y nutrición (a nivel comunitario
+     e individual), acciones preventivas, atención integrada materno-infantil, nutricionales, detección de cáncer de
+     mama y cáncer cérvico-uterino, vigilancia epidemiológica, identificación y control de riesgos sanitarios, mapeo de
+     personas con padecimientos crónicos, embarazadas y niños menores de cinco años, vacunación canina y
+     acciones curativas (consulta, referencia y respuesta de pacientes, atención de emergencias, provisión de
+     medicamentos básicos) y servicios dentales básicos. El conjunto de servicios de salud incluyó entre otros, los
+     Cuidados Obstétricos y Neonatales Esenciales (CONE) y la atención a las enfermedades prevalentes de la
+     infancia (incluyendo diarreas y neumonías).
+                                                           10
+"
+"En lo relacionado con los objetivos de mejorar el acceso y la calidad del CGPSS y de
+fortalecer las redes materno-infantiles de salud 19, se consideró el supuesto que, como
+producto del fortalecimiento institucional de la SESAL y de la función de compra, se mejoraría, la
+expansión y seguimiento del MGD, a nuevos municipios y hospitales, (además de darle
+sostenibilidad a los gestores de primer y segundo nivel que ya operan bajo esta modalidad) para
+ampliar el acceso y la cobertura poblacional con servicios de calidad e impactando positivamente
+en los indicadores de salud de la población objetivo de esta operación.
+La expansión del MGD debería llevar implícita, la entrega a la población de un conjunto
+garantizado de prestaciones de servicio que incluyen: la atención de partos, los Cuidados
+Obstétricos y Neonatales (CONE) ambulatorios y hospitalarios, la estrategia de Atención Integral
+de las Enfermedades Prevalentes de la Infancia (AIEPI) , vigilancia del crecimiento y desarrollo
+infantil a través de la estrategia de Atención Integral a la Niñez en la Comunidad (AIN-C), y
+Servicios de planificación familiar (incluye anticoncepción quirúrgica voluntaria (AQV) femenina
+y masculina), a través del financiamiento a gestores de primer y segundo nivel.
+Este MGD incluyó incentivos para promover otras intervenciones, como ser: la organización y
+capacitación de equipos de Salud Familiar (ESFAM), el empadronamiento y nominalización de
+la población beneficiaria, la identificación y mapeo de riesgos a la salud para cada una de las
+familias, incluido los instrumentos de recolección, el sistema de captura, transmisión y
+administración de la base de datos, que incluya la adscripción de beneficiarios, lo que permitiría
+mejorar la identificación, focalización y la atención de la población.
+Otras atenciones brindadas en los establecimientos de salud y los ESFAM apoyadas por este
+programa fue, el monitoreo y acompañamiento del AIN-C 20; el suministro comunitario de métodos
+de planificación familiar y pruebas rápidas para detección de embarazo; el abordaje de las
+complicaciones materno-neonatales basado en la estrategia de las tres demoras 21; y el
+suministro de micronutrientes a niños de 6 a 24 meses para disminuir el porcentaje de anemias
+y el tratamiento de casos de diarrea con sales de Zinc en la población infantil entre otras.
+Este modelo, además contempla la promoción de la atención del parto institucional mediante el
+pago de un monto específico al gestor, por cada parto atendido en el establecimiento de salud y
+además se dan incentivos a la demanda a través del pago de bonos de transporte a la
+embarazada en trabajo de parto y a la partera para su acompañamiento al sitio de atención de
+parto.
+Para brindar los servicios de salud antes descrito, se fortaleció la atención continua y oportuna a
+través de las redes integradas de servicios de salud (RISS) 22 en la que se potenciarían los CONE
+en las unidades de primer y segundo nivel (hospitales) bajo un enfoque de red, por lo que se
+financio : (i) la compra de equipo médico e industrial para los establecimientos de salud; (ii) la
+dotación de ambulancias y vehículos para supervisión de los procesos de gestión clínica y de
+pacientes; y (iii) asistencia técnica para el diseño e implantación del sistema de referencia y
+19  Las Redes de Servicios de Salud es la integración de un conjunto de establecimientos de salud, organizados para
+    reducir las dificultades en el acceso a los servicios, mejorar la calidad técnica en la prestación de servicios,
+    garantizar el uso racional y eficiente de los recursos disponibles, disminuir los costos innecesarios de producción
+    y mejorar la satisfacción de los usuarios por los servicios recibidos.
+20  Atención Integral del Niño en la Comunidad (AIN-C).
+21  El modelo de las tres demoras analiza e interviene momentos clave en los cuales se pueden identificar factores
+    que generan una demora en el acceso oportuno al tratamiento de una emergencia obstétrica, y de ese modo
+    aumentar las probabilidades de evitar una muerte materna: (i) demora en decidir buscar atención; (ii) demora en
+    llegar al servicio de salud; y (iii) demora en recibir una atención de calidad.
+22  Las Redes Integradas de Servicios de Salud pueden definirse como “una red de establecimientos de salud que
+    presta servicios de salud equitativos e integrales a una población definida, y que rinde cuentas por sus resultados
+    clínicos y económicos y por el estado de salud de la población a la que sirve”.
+                                                             11
+"
+"respuesta de las complicaciones obstétricas y neonatales, y la elaboración y puesta en marcha
+de la articulación funcional de la red de servicios.
+Además, se promovió el uso de los de servicios de salud mediante el diseño, implementación y
+monitoreo de una estrategia de comunicación y mercadeo social 23 de la modalidad de gestión
+descentralizada, que incluyo la promoción del uso de micronutrientes y zinc, la prevención y
+manejo de neumonías y diarreas en niños; y la divulgación de los derechos a la atención gratuita
+en las unidades de salud; diseño y construcción de un sistema de empadronamiento de
+beneficiarios; asistencia técnica para el diseño e implementación de un sistema de información
+que genere datos de las actividades realizadas por los gestores, con el fin de facilitar el monitoreo
+de indicadores y la evaluación de resultados; compra de equipos de computación y comunicación
+telemática, y demás equipos necesarios para la implementación de los sistemas; licencias de
+paquetes informáticos; y gastos de capacitación a los usuarios del sistema de empadronamiento
+de beneficiarios y sistema de información estadístico.
+En respuesta para mejorar la capacidad de respuesta de la red hospitalaria, este programa
+consideró ampliar la descentralización de siete hospitales para fortalecer los procesos de gestión
+administrativo-financieros, clínica y de pacientes, mediante un modelo de gestión por resultados
+y buscar la mejoría en el acceso y la calidad de los servicios brindados, manejo oportuno y
+adecuado de las complicaciones obstétricas y neonatal y el abastecimiento de equipos,
+medicamentos e insumos y la contratación y capacitación del personal médico y de apoyo.
+Las intervenciones anteriormente descritas, permitieron mejorar la capacidad de respuesta de la
+red de servicios, incrementar el acceso a los servicios y con ello, la reducción de las tasas de
+mortalidad y morbilidad materna neonatal.
+En lo relacionado con el objetivo mejorar la capacidad institucional de la SESAL; para la
+ejecución del programa, se consideró necesario, el fortalecimiento de la unidad ejecutora y de la
+Unidad de Gestión Descentralizada (UGD) para que pudiera contar con un sistema de monitoria
+y evaluación de los gestores, un sistema de análisis de costo y determinación de tarifas para la
+contratación de servicios en el primer y segundo nivel de atención 24.
+Por otro lado, se dispuso de financiamiento para la realización de auditorías para garantizar la
+transparencia y la buena utilización de los recursos y además se fortaleció la asistencia técnica
+y la medición de los resultados en términos del desempeño, producción y calidad de los servicios,
+mediante el análisis de la información y mediante visitas de campo de los técnicos.
+El Gráfico 1 muestra, bajo un enfoque sistémico, la lógica de diseño de esta operación.
+Durante la ejecución del programa no se presentaron cambios en el diseño. Se ajustaron las
+líneas de base de algunos indicadores de resultado y realizaron ajustes en otros indicadores de
+resultados con el fin de acotarlos y reflejar de mejor manera los resultados esperados por el
+programa, tal como se presenta en la Tabla 1. Estos ajustes no tienen implicaciones la relevancia
+del diseño del programa, por tanto, esta se mantuvo desde el diseño hasta el cierre es éste.
+23   Como parte de las obligaciones de la firma que se contrate para esta actividad se incluye el diseño de la estrategia
+     (audiencias metas, mensajes), reproducción de material impreso, y audio visual, el plan de medios y contratación
+     de medios.
+24   Primer nivel de atención se refiere a la prestación de servicios ambulatorios de atención y el segundo nivel se
+     refiere a los servicios hospitalarios.
+                                                          12
+"
+"                                                              Gráfico 1
+                                  Lógica vertical en el diseño del proyecto original
+                                       Proceso                              Productos                           Resultados
+      Insumos
+Bienes y servicios                  Firma y seguimiento a            Mejorada la capacidad
+proporcionados por el               los convenios para:              resolutiva de servicios:
+proyecto:                                                                                          Obj: Mejorar acceso y Calidad
+                                    Obj: Mejorar acceso y            Obj: Mejorar acceso y         del CGPSS
+Obj: Mejorar acceso y               Calidad del CGPSS +              Calidad del CGPSS             1. Desnutrición.
+Calidad del CGPSS                   Fortalecimiento                  1. Redes Integradas de        2. Anemia en Mujeres
+1. Compra de equipo,                institucional de la SESAL        Servicios de salud            embarazadas y niños menores de
+medicamentos, insumos.              1. Mejoramiento de la            Implementadas.                5 años.
+                                    capacidad resolutiva de las      2. Establecimientos de salud, 3. Las enfermedades prevalentes
+Obj: Fortalecer Redes               redes de servicios:              con RRHH suficiente y         de la infancia
+Materno-Infantiles de Salud         abastecimiento e de              capacitado, equipados y
+2 Diseño del sistema de             medicamentos e insumos,          abastecidos de                Obj: Fortalecer Redes Materno-
+Referencia y respuesta de las       métodos de PF contratación       medicamentos e insumos        Infantiles de Salud
+emergencias obstétricas y           de RRHH,                         requeridos para la atención.  4. Mortalidad Materna.
+neonatales.                         2. Negociación de paquete        3. Equipos de Atención        5. Mortalidad Infantil.
+                                    de Incentivos a la demanda       Primaria conformados,         6. Muertes por complicaciones
+Obj: Fortalecimiento                y oferta de servicios            4 Población nominalizada y    obstétricas y neonatales.
+institucional de la SESAL           4. Establecimiento de            empadronada           5.
+3. Fortalecimiento institucional    acuerdos SESAL-gestores          Planes para la gestión de     Obj: Fortalecimiento
+gerencial, técnico                  para conformación de redes       riesgo en salud,              institucional de la SESAL
+administrativo del nivel central,   integradas de servicios de       implementados por parte de    7.- Reglamento de la Ley de
+UGD, regiones y gestores.           salud. CGPSS y número de         los EAPS.                     Descentralización de Gestión de
+4. Sistema para certificación       EAPs.                                                          Servicios de Salud elaborado.
+de Gestores                         6. Establecimiento de            Obj: Fortalecer Redes         8.- Establecimientos de salud con
+5. Sistema de costos y              compromisos para la              Materno-Infantiles de Salud   MGD, inspeccionados con los
+mecanismos de pago.                 capacitación de RRHH, en         5. Cobertura de los servicios nuevos estándares
+6. Diseño de Sistemas:              CONE, PF, AIN-C.                 ambulatorios de atención      9.- Modelo de Gestión
+información monitoria y             7. Capacitación y uso de la      materna infantil y de PF      descentralizada con la
+evaluación, referencia y            normativa especialmente en       incrementada                  incorporación de mejoras
+respuesta, nominalización y         CONE básico, ambulatorio y       6 Complicaciones obstétrico-  operativas.
+empadronamiento,                    completo, PF, nutrición          neonatales manejadas según
+mejoramiento de la calidad,         infantil.                        la norma.
+marco legal, acreditación           8. Definición de planes de
+7. Capacitación de RRHH de          habilitación de
+las Regiones departamentales        establecimientos.
+y de la UGD para vigilancia y
+acompañamiento de los
+gestores.
+                                                                 13
+"
+"                                             Tabla 1. Cambios a la Matriz de Resultados (Indicadores de Resultado)
+                                      Aprobado                   Elegibilidad +60 días          Proyecto completo (PCR)
+ Nº         Indicador       Unidad de    Línea               Unidad de     Línea              Unidad de    Línea           Comentarios
+                                                  EOP (P)                          EOP (P)                         EOP (A)
+                             Medida      Base                 Medida       Base                Medida      Base
+          1. Aumento de la Cobertura de los servicios en la Población beneficiada
+1.1 Mujeres en edad         Porcentaje    43%       53%      Porcentaje     43%      53%      Porcentaje    43%     97%
+    reproductiva (15-49)
+    que actualmente
+    utilizan (o cuya pareja
+    utiliza) un método
+    moderno de
+    planificación familiar.
+1.2 Mujeres en edad         Porcentaje   75,4%      84%      Porcentaje    75,4%     84%      Porcentaje  75,4%     86%
+    reproductiva (15-49)
+    que en su embarazo
+    más reciente en el
+    último año años
+    recibió por lo menos
+    cuatro atenciones
+    prenatales realizadas
+    por médico o
+    enfermera de acuerdo
+    al protocolo.
+1.3 Mujeres en edad         Porcentaje    33%       45%      Porcentaje     33%      45%      Porcentaje    33%     78%
+    reproductiva (15-49)
+    cuyo parto más
+    reciente fue realizado
+    por personal calificado
+    en un servicio de salud
+    en último año.
+1.4 Mujeres y neonatos      Porcentaje    46%       55%      Porcentaje     46%      55%      Porcentaje    46%     86%
+    que recibieron cuidado
+    postparto por personal
+    calificado antes de los
+    siete días después de
+    su parto más reciente
+    en el último año.
+1.5 Niños 0-59 meses        Porcentaje    77%       86%      Porcentaje     77%      86%      Porcentaje    77%     98%
+    identificados con
+    vacunación completa
+    para su edad.
+                                                                       14
+"
+"                                        Aprobado                   Elegibilidad +60 días          Proyecto completo (PCR)
+ Nº         Indicador         Unidad de     Línea              Unidad de     Línea             Unidad de     Línea                     Comentarios
+                                                    EOP (P)                          EOP (P)                         EOP (A)
+                               Medida       Base                Medida       Base                Medida      Base
+1.6  Niños 0-59 meses con     Porcentaje      0%      60%      Porcentaje      0%      60%     Porcentaje      0%     99%
+     diarrea tratados con
+     zinc.
+1.7  Niños de 12 a 59         Porcentaje     59%      68%      Porcentaje     59%      68%     Porcentaje     59%     98%
+     meses que recibieron
+     dos dosis de
+     tratamiento
+     antiparasitario en el
+     último año.
+1.8  Porcentaje de             Numero         18       43      Porcentaje      18        43    Porcentaje      18      43    Se reformulo este indicador
+     promotoras mujeres                                                                                                      para una mejor comprensión;
+     realizando actividades                                                                                                  se cambia el nombre a:
+     de AIN-C                                                                                                                Porcentaje de promotoras
+                                                                                                                             mujeres realizando actividades
+                                                                                                                             de AIN-C, la Línea base (18%)
+                                                                                                                             corresponde a porcentaje total
+                                                                                                                             de promotoras mujeres
+                                                                                                                             realizando actividades de AIN-
+                                                                                                                             C. La meta al final del proyecto
+                                                                                                                             se refiere a incrementar en un
+                                                                                                                             25% las promotoras mujeres
+                                                                                                                             contratadas realizando
+                                                                                                                             actividades de AIN-C. Se
+                                                                                                                             adjunta informe del ejecutor
+                                                                                                                             donde confirma este dato.
+1.9  Gestores que cuentan     Porcentaje      0%      80%      Porcentaje      0%      80%     Porcentaje      0%     87%
+     con el 80% de la
+     población
+     nominalizada en los
+     municipios cubiertos
+     por el modelo de
+     gestión
+     descentralizada.
+1.10 % de gestores que        Porcentaje      0%      50%      Porcentaje      0%      50%     Porcentaje      0%     50%
+     cuentan con
+     consolidado mensual
+     de AINC en el que el
+     80% de los niños
+     menores de 24 meses
+     están registrados.
+     2. Mejora de la calidad del conjunto garantizado de servicios prestados a la población beneficiada.
+                                                                         15
+"
+"                                    Aprobado                Elegibilidad +60 días       Proyecto completo (PCR)
+ Nº       Indicador       Unidad de    Línea            Unidad de     Línea           Unidad de    Línea                     Comentarios
+                                              EOP (P)                         EOP (P)                      EOP (A)
+                           Medida      Base              Medida       Base             Medida      Base
+2.1 % de Letalidad          Tasa       50 por Reducir   Porcentaje     16%      12%   Porcentaje    16%     11,4% Nombre original Tasa de
+    materno-hospitalaria              100,000 en 25%                                                               Mortalidad Materno-
+    por Sepsis,                       nacidos  al final                                                            Hospitalaria se cambia nombre
+    hemorragia y                       vivos     del                                                               y línea base y Planificación de
+    eclampsia                                 proyecto                                                             la meta final (P) debido a que
+                                                                                                                   se sustituyeron dos hospitales
+                                                                                                                   básicos por un hospital
+                                                                                                                   nacional y uno general de
+                                                                                                                   referencia, donde la tasa de
+                                                                                                                   mortalidad es mayor, y se
+                                                                                                                   cambió por porcentaje de
+                                                                                                                   letalidad materna por sepsis,
+                                                                                                                   hemorragia y eclampsia, ya
+                                                                                                                   que este indicador es un
+                                                                                                                   estándar de calidad que mide
+                                                                                                                   la aplicación de la norma en
+                                                                                                                   atención de las complicaciones
+                                                                                                                   obstétricas.
+2.2 % de Letalidad        Porcentaje   1,7%   Reducir   Porcentaje     26%     21,1%  Porcentaje    26%     19,4% Nombre Original Porcentaje de
+    neonatal hospitalaria                     en 15%                                                               Letalidad Neonatal
+    por sepsis y asfixia                       al final                                                            Hospitalaria(por sepsis,
+                                                 del                                                               prematurez y asfixia) Su
+                                              proyecto                                                             estructura cambia, debido a
+                                                                                                                   que se excluye la mortalidad
+                                                                                                                   por prematurez, debido a que
+                                                                                                                   esta no es una condición
+                                                                                                                   patológica.
+                                                                                                                   En cuanto a la línea base
+                                                                                                                   cambia, debido a que se
+                                                                                                                   sustituyen dos hospitales
+                                                                                                                   básicos por un hospital
+                                                                                                                   nacional y uno general de
+                                                                                                                   referencia, donde la tasa de
+                                                                                                                   mortalidad es mayor, y se
+                                                                                                                   cambió por porcentaje de
+                                                                                                                   letalidad neonatal por sepsis y
+                                                                                                                   asfixia, ya que este indicador
+                                                                                                                   mide la aplicación de la normas
+                                                                                                                   en la atención de las
+                                                                                                                   complicaciones neonatales,
+                                                                                                                   como un estándar de calidad.
+                                                                  16
+"
+"                                       Aprobado                    Elegibilidad +60 días         Proyecto completo (PCR)
+ Nº        Indicador         Unidad de     Línea               Unidad de     Línea             Unidad de    Línea                      Comentarios
+                                                    EOP (P)                          EOP (P)                         EOP (A)
+                              Medida       Base                 Medida       Base               Medida      Base
+    3. Fortalecer las redes materno-infantiles de salud en los municipios y departamentos beneficiados.
+3.1 Población cubierta con Beneficiario 579.785 1.136.81 Beneficiario 579.785 965.846 Beneficiario 579.785 965.846           Al momento de la carga en el
+    un plan de beneficios   s                           3          s                               s                         sistema en la etapa de
+    de salud, brindado por                                                                                                   elegibilidad +60 se realizó un
+    gestores                                                                                                                 ajuste de la población de
+                                                                                                                             acuerdo al Censo 2013
+                                                                                                                             publicado por el Instituto
+                                                                                                                             Nacional de Estadística (INE)
+    4. Fortalecimiento a la Secretaria de Salud en la función de compra y contratación de servicios descentralizados
+4.1 Propuesta Reglamento      Unidad         0          1       Unidad         0         1       Unidad        0        1
+    de la Ley de
+    Descentralización de
+    Gestión de Servicios
+    de Salud elaborado.
+4.2 Establecimientos de      Porcentaje     0%        60%      Porcentaje     0%       60%     Porcentaje    0%       100%
+    salud gestionados de
+    forma descentralizada
+    que son
+    inspeccionados
+    anualmente de
+    acuerdo con los
+    nuevos estándares por
+    la Dirección de
+    Regulación de la
+    SESAL.
+4.3 Mejoras operativas       Porcentaje     0%        50%      Porcentaje     0%       50%     Porcentaje    0%       100%
+    incorporadas al
+    modelo de gestión
+    descentralizada. (1)
+                                                                         17
+"
+"2.2         Efectividad
+                      a. Declaración de los objetivos de desarrollo del proyecto.
+ Como se mencionó anteriormente, el objetivo principal del programa fue la de apoyar a la SESAL
+ en la expansión de la cobertura y calidad de servicios de salud a través de la modalidad de
+ gestión descentralizada de dichos servicios, priorizando las poblaciones de los municipios más
+ pobres del país y fortaleciendo la implementación del modelo de atención integral en salud
+ familiar-comunitario.
+ Los tres objetivos específicos del programa fueron:
+ (i)        Mejorar el acceso y calidad del CGPSS 25 prestado a la población beneficiaria del
+            proyecto;
+ (ii)       Fortalecer las redes materno-infantiles de salud en los municipios y departamentos
+            beneficiados; y
+ (iii)      Mejorar la capacidad institucional de la SESAL para normar, conducir y gestionar los
+            servicios de salud que son provistos mediante la modalidad de gestión descentralizada.
+                      b. Resultados logrados
+ El logro de los resultados de esta operación se concentra en la implementación de un modelo
+ innovador de gestión descentralizada basado en resultados, a través del cual se ejecutan
+ intervenciones de probada efectividad y la entrega de un paquete de beneficios en salud por
+ medio de redes integradas de servicios y cuyo efecto fue el incremento en la cobertura y calidad
+ de los servicios de salud en los municipios más pobres del país.
+ Al mejorar la cobertura de los servicios con calidad, se incrementó la atención de los grupos más
+ vulnerables como los niños menores de 5 años y las mujeres en edad fértil (MEF)
+ específicamente en su etapa reproductiva desde la preconcepción hasta la atención de su
+ postparto.
+ En el caso de la salud materna se lograron importantes avances, principalmente en la reducción
+ del riesgo de complicación o muerte obstétrica, al mejorar la cobertura y calidad en la atención
+ preconcepcional, la atención prenatal, parto institucional, y la atención post natal por personal
+ calificado.
+ Finalmente, en el caso de la mejora en la capacidad institucional de la SESAL para lo relacionado
+ con el modelo descentralizado, se lograron avances en las mejoras operativas, las instituciones
+ inspeccionadas y en el marco regulatorio.
+ Para efectos de evaluación, el proyecto contó con tres objetivos específicos que contemplaron
+ un total de 16 metas específicas definidas por sus 16 respectivos indicadores de resultados. Se
+ cumplió con el 100% de las metas definidas en aprobación (o elegibilidad + 60 días) para el total
+ de los indicadores de resultado.
+ La Tabla 2 detalla los logros de los indicadores de resultados obtenidos por el proyecto.
+ 25    El conjunto garantizado de servicios consistió en acciones de promoción de la salud y nutrición (a nivel comunitario
+       e individual), acciones preventivas, atención integrada materno-infantil, nutricionales, detección de cáncer de
+       mama y cáncer cérvico-uterino, vigilancia epidemiológica, identificación y control de riesgos sanitarios, mapeo de
+       personas con padecimientos crónicos, embarazadas y niños menores de cinco años, vacunación canina y
+       acciones curativas (consulta, referencia y respuesta de pacientes, atención de emergencias, provisión de
+       medicamentos básicos) y servicios dentales básicos. El conjunto de servicios de salud incluyó entre otros, los
+       CONE y la atención a las enfermedades prevalentes de la infancia (incluyendo diarreas y neumonías).
+                                                             18
+"
+"                                                            Tabla 2. Resultados logrados
+                                                                      Valor de   Año de
+                                                         Unidad de                                                          %      Medio de
+    No.               Indicador de Resultado                          la línea   la línea  Metas y Resultados Alcanzados
+                                                          medida                                                         Logrado  Verificación
+                                                                       base      de base
+1. Aumento de la Cobertura de los servicios en la Población beneficiada
+1.1       % de mujeres en edad reproductiva (15-49)          %          43%        2012   Valor Meta Original        53%  100%   Informes de
+          que actualmente utilizan (o cuya pareja                                         Valor de meta revisado     53%         Monitoreo
+          utiliza) un método moderno de planificación
+          familiar.                                                                       Valor alcanzado            97%
+1.2       % de mujeres en edad reproductiva (15-49)          %         75,4%       2012   Valor Meta Original        84%  100%   Informes de
+          que su embarazo más reciente en el último                                                                              Monitoreo
+          año recibió por lo menos cuatro atenciones                                      Valor de meta revisado     84%
+          prenatales realizadas por médico o                                              Valor alcanzado            86%
+          enfermera de acuerdo al protocolo.
+1.3       Mujeres en edad reproductiva (15-49) cuyo          %          33%        2012   Valor Meta Original        45%  100%   Informes de
+          parto más reciente fue realizado por personal                                                                          evaluación
+          calificado en un servicio de salud en último                                    Valor de meta revisado     45%         realizado por
+          año                                                                             Valor alcanzado            78%         la UGD a los
+                                                                                                                                 gestores
+1.4       Mujeres y neonatos que recibieron cuidado          %          46%        2012   Valor Meta Original        55%  100%   Informes de
+          de post parto por personal calificado antes de                                                                         evaluación
+          los siete días después de su parto más                                          Valor de meta revisado     55%         realizado por
+          reciente en el último año.                                                      Valor alcanzado            86%         la UGD a los
+                                                                                                                                 gestores
+1.5       % Niños 0-59 meses identificados con               %          77%        2012   Valor Meta Original        86%  100%   Informes de
+          vacunación completa para su edad.                                               Valor de meta revisado     86%         Monitoreo
+                                                                                          Valor alcanzado            98%
+1.6       % Niños 0-59 meses con diarrea tratados con        %           0%        2012   Valor Meta Original        60%  100%   Informes de
+          zinc.                                                                           Valor de meta revisado     60%         Monitoreo
+                                                                                          Valor alcanzado            99%
+1.7       % Niños de 12 a 59 meses que recibieron            %          59%        2012   Valor Meta Original        68%  100%   Informes de
+          dos dosis de tratamiento antiparasitario en el                                  Valor de meta revisado     68%         Monitoreo
+          último año.
+                                                                                          Valor alcanzado            98%
+1.8       Porcentaje de promotoras mujeres realizando        %          18%        2012   Valor Meta Original        43%  100%   Informes de
+          actividades de AIN-C.                                                                                                  Monitoreo
+                                                                                          Valor de meta revisado     43%
+                                                                                          Valor alcanzado            43%
+                                                                          19
+"
+"                                                                       Valor de   Año de
+                                                          Unidad de                                                              %      Medio de
+    No.                Indicador de Resultado                          la línea   la línea   Metas y Resultados Alcanzados
+                                                           medida                                                             Logrado  Verificación
+                                                                        base     de base
+1.9         Gestores que cuentan con el 80% de la             %           0%        2012    Valor Meta Original          80%   100%   Informes de
+            población nominalizada en los municipios                                        Valor de meta revisado       80%          Monitoreo
+            cubiertos por el modelo de gestión
+            descentralizada.                                                                Valor alcanzado              87%
+1.10        % de gestores que cuentan con consolidado         %           0%        2012    Valor Meta Original          50%   100%   Informes de
+            mensual de AINC en el que el 80% de los                                         Valor de meta revisado       50%          Monitoreo
+            niños menores de 24 meses están
+            registrados.                                                                    Valor alcanzado              50%
+2. Mejorar de la calidad del conjunto garantizado de servicios prestados a la población beneficiada.
+2.1         % de letalidad materna hospitalaria por           %          16%        2012    Valor Meta Original     Reducir    100%   Informe
+            sepsis, hemorragia y eclampsia.                                                                           en un           estadístico
+                                                                                                                     25% al           de la Unidad
+                                                                                                                    final del         de Gestión
+                                                                                                                    proyecto          de la
+                                                                                            Valor de meta revisado       12%          Información
+                                                                                            Valor alcanzado           11.40%
+2.2         Porcentaje de Letalidad Neonatal                  %          26%        2012    Valor Meta Original     Reducir    100%   Informe
+            Hospitalaria (por sepsis y asfixia).                                                                      en un           estadístico
+                                                                                                                     15% al           de la Unidad
+                                                                                                                    final del         de Gestión
+                                                                                                                    proyecto          de la
+                                                                                            Valor de meta revisado     21,1%          Información
+                                                                                            Valor alcanzado           19.40%
+3. Fortalecer las redes materno-infantiles de salud en los municipios y departamentos beneficiados.
+3.1         Población cubierta con un plan de beneficios Beneficiarios 579,785      2012    Valor Meta Original    1136,813    100%   Convenios
+            de salud, brindado por gestores.                                                Valor de meta revisado   965,846          de gestión
+                                                                                            Valor alcanzado          965,846
+4. Fortalecimiento a la Secretaria de Salud en la función de compra y contratación de servicios descentralizados
+4.1         Propuesta Reglamento de la Ley de              Unidad          0        2012    Valor Meta Original             1  100%   Anteproyecto
+            Descentralización de Gestión de Servicios de                                    Valor de meta revisado          1         de ley
+            Salud elaborado.
+                                                                                            Valor alcanzado                 1
+4.2         Establecimientos de salud gestionados de          %           0%        2012    Valor Meta Original          60%   100%   Registros de
+            forma descentralizada que son                                                   Valor de meta revisado       60%          la Dirección
+            inspeccionados anualmente de acuerdo con                                                                                  de
+            los nuevos estándares por la Dirección de                                       Valor alcanzado             100%          Regulación
+            Regulación de la SESAL.                                                                                                   de la SESAL
+                                                                           20
+"
+"                                                                   Valor de   Año de
+                                                      Unidad de                                                             %        Medio de
+    No.            Indicador de Resultado                          la línea   la línea  Metas y Resultados Alcanzados
+                                                       medida                                                           Logrado    Verificación
+                                                                    base     de base
+4.3     Mejoras operativas incorporadas al modelo         %           0%        2012   Valor Meta Original        50%     100%    informes de
+        de gestión descentralizada.                                                    Valor de meta revisado     50%             avance de la
+                                                                                                                                  SESAL
+                                                                                       Valor alcanzado           100%
+                                                                   Valor de Año de la
+                                                      Unidad de                                                                 Medio de
+    No.                   Productos                                la línea  línea de    Metas y Resultados Alcanzados
+                                                       medida                                                                  Verificación
+                                                                     base       base
+Componente 1: Mejora de la Cobertura de Servicios de Salud con Gestión Descentralizada
+1.1      Población que recibe un paquete de          Beneficiarios     0        2012   Valor Meta Original        196.310 Informes de
+         prestaciones mediante el modelo                                               Valor de meta revisado     162.175 Monitoreo
+         descentralizado en el departamento de
+         Copán                                                                         Valor alcanzado            162.175
+1.2      Población que recibe un paquete de          Beneficiarios     0        2012   Valor Meta Original         37.430 Informes de
+         prestaciones mediante el modelo                                               Valor de meta revisado      37.075 Monitoreo
+         descentralizado en el departamento de La
+         Paz                                                                           Valor alcanzado             37.075
+1.3      Población que recibe un paquete de          Beneficiarios     0        2012   Valor Meta Original        137.871 Informes de
+         prestaciones mediante el modelo                                               Valor de meta revisado     164.463 Monitoreo
+         descentralizado en el departamento de
+         Intibucá                                                                      Valor alcanzado            164.463
+1.4      Población que recibe un paquete de          Beneficiarios     0        2012   Valor Meta Original         56.085 Informes de
+         prestaciones mediante el modelo                                               Valor de meta revisado      59.100 Monitoreo
+         descentralizado en el departamento de
+         Choluteca                                                                     Valor alcanzado             59.100
+1.5      Población que recibe un paquete de          Beneficiarios     0        2012   Valor Meta Original         54.994 Informes de
+         prestaciones mediante el modelo                                               Valor de meta revisado      54.694 Monitoreo
+         descentralizado en el departamento de Santa
+         Bárbara                                                                       Valor alcanzado             54.694
+1.6      Población que recibe un paquete de          Beneficiarios     0        2012   Valor Meta Original         35.674 Informes de
+         prestaciones mediante el modelo                                               Valor de meta revisado      32.948 Monitoreo
+         descentralizado en el departamento de
+         Olancho                                                                       Valor alcanzado             32.948
+1.7      Población que recibe un paquete de          Beneficiarios     0        2012   Valor Meta Original         16.864 Informes de
+         prestaciones mediante el modelo                                               Valor de meta revisado      16.317 Monitoreo
+         descentralizado en el departamento de
+         Gracias a Dios                                                                Valor alcanzado             16.317
+                                                                       21
+"
+"                                                                   Valor de Año de la
+                                                      Unidad de                                                                 Medio de
+    No.                  Productos                                  la línea  línea de   Metas y Resultados Alcanzados
+                                                       medida                                                                  Verificación
+                                                                     base       base
+1.8     Población que recibe un paquete de           Beneficiarios 0         2012      Valor Meta Original         31.546 Informes de
+        prestaciones mediante el modelo                                                Valor de meta revisado      32.812 Monitoreo
+        descentralizado en el departamento de
+        Comayagua                                                                      Valor alcanzado             32.812
+1.9     Población que recibe un paquete de           Beneficiarios 0         2012      Valor Meta Original         15.849 Informes de
+        prestaciones mediante el modelo                                                Valor de meta revisado      17.458 Monitoreo
+        descentralizado en el departamento de El
+        Paraíso                                                                        Valor alcanzado             17.458
+1.10    Población que recibe un paquete de           Beneficiarios 0         2012      Valor Meta Original         22.518 Informes de
+        prestaciones mediante el modelo                                                Valor de meta revisado      22.353 Monitoreo
+        descentralizado en el departamento de Valle
+                                                                                       Valor alcanzado             22.353
+1.11    Población que recibe un paquete de           Beneficiarios 0         2012      Valor Meta Original        304.784 Informes de
+        prestaciones mediante el modelo                                                Valor de meta revisado     350.175 Monitoreo
+        descentralizado en el departamento de
+        Lempira                                                                        Valor alcanzado            350.175
+1.12    Población que recibe un paquete de           Beneficiarios 0         2012      Valor Meta Original         14.401 Informes de
+        prestaciones mediante el modelo                                                Valor de meta revisado      16.276 Monitoreo
+        descentralizado en el departamento de
+        Ocotepeque                                                                     Valor alcanzado             16.276
+1.13    Hospitales de salud que proveen servicios de Hospitales 0            2012      Valor Meta Original              3 Informes de
+        salud con convenios de gestión                                                 Valor de meta revisado           7 Monitoreo
+        descentralizadas
+                                                                                       Valor alcanzado                  7
+1.14    Gestores abastecidos de micronutrientes        Gestores    0         2012      Valor Meta Original             24 Informes de
+                                                                                       Valor de meta revisado          24 Monitoreo
+                                                                                       Valor alcanzado                 24
+1.15    Gestores abastecidos de zinc                   Gestores    0         2012      Valor Meta Original             24 Informes de
+                                                                                       Valor de meta revisado          25 Monitoreo
+                                                                                       Valor alcanzado                 25
+1.16    Asistencia Técnica para capacitación a       Consultoría   0         2012      Valor Meta Original              1 Informes de avances
+        gestores en áreas de atención clínica y
+        gerencia de servicios                                                          Valor de meta revisado           1
+                                                                                       Valor alcanzado                  1
+                                                                        22
+"
+"                                                                  Valor de Año de la
+                                                      Unidad de                                                               Medio de
+    No.                    Productos                               la línea  línea de   Metas y Resultados Alcanzados
+                                                       medida                                                                Verificación
+                                                                    base       base
+1.17     Diseño e implementación del sistema de       Consultoría 0         2012      Valor Meta Original             1 Informes de
+         referencia y respuesta del sistema de micro                                  Valor de meta revisado          2 Monitoreo de Avance
+         redes participantes
+                                                                                      Valor alcanzado                 2
+1.18     Estrategia de comunicación y mercadeo        Consultoría 0         2012      Valor Meta Original             1 Informes de
+         social del modelo de gestión descentralizada                                 Valor de meta revisado          1 Monitoreo de Avance
+                                                                                      Valor alcanzado                 1
+1.19     Sistema para monitoria, evaluación y control Consultoría 0         2012      Valor Meta Original             1 Informes de
+         de resultados fortalecido                                                    Valor de meta revisado          7 Monitoreo de Avance
+                                                                                      Valor alcanzado                 7
+1.20     Sistema de empadronamiento y                 Consultoría 0         2012      Valor Meta Original             1 Informes de
+         nominalización de los beneficiarios diseñado                                 Valor de meta revisado          3 Monitoreo de avance
+                                                                                      Valor alcanzado                 3
+Componente 2: Fortalecimiento Institucional
+2.1      UGD asistida en la función de compra y         UGD       0         2012      Valor Meta Original             1 Informes de
+         contratación de servicios de salud                                           Valor de meta revisado          1 Monitoreo de Avance
+                                                                                      Valor alcanzado                 1
+                                                                       23
+"
+"                   c. Análisis contrafactual
+Esta operación no contempló una evaluación de impacto del programa para cuantificar la
+contribución del proyecto al logro de las metas obtenidas. Ante esta situación, el análisis
+contrafactual de los resultados obtenidos se basa en la teoría del cambio y la revisión de la
+literatura de intervenciones similares en contextos parecidos.
+     i.       Resultados relacionados con el objetivo específico de mejorar el acceso y
+              calidad del CGPSS prestado a la población beneficiaria del proyecto
+Los logros obtenidos en los indicadores de acceso y cobertura de la población materno infantil
+se atribuyen partiendo del supuesto que la implementación del modelo de gestión
+descentralizada posee los siguientes efectos positivos 26:
+                •    Por el lado de la oferta, el modelo garantiza la apertura permanente y ampliación
+                     de horarios de atención de los centros de salud especialmente rurales,
+                     garantizando la disponibilidad de médicos, y el abastecimiento insumos y
+                     medicamentos necesarios. 27
+                •    Fomenta mecanismos que incentivan a la demanda para la utilización de los
+                     servicios priorizados. El incremento del parto institucional, y la atención puerperal
+                     y neonatal, son intervenciones efectivas en reducir la mortalidad materna-
+                     neonatal 28.
+                •    Por el lado de la oferta, se mejora el acceso a los servicios especialmente de las
+                     poblaciones más relegadas mediante la conformación de equipos de atención
+                     primaria que llevan los servicios de salud a estas comunidades dentro de los
+                     municipios.
+                •    El cambio de un modelo de financiamiento enfocado a la oferta, a un modelo de
+                     financiamiento dirigido a la demanda y vinculado al cumplimiento de indicadores
+                     de calidad, desempeño, cobertura y acceso. El cambio de un modelo de
+                     financiamiento sin rendición y petición de cuentas a un modelo de financiamiento
+                     basado en resultados.
+                •    Los contratos de desempeño firmados con los gestores, sumados a la gestión a
+                     nivel local con participación comunitaria, tienden a favorecer una mejor calidad
+                     en los servicios y en el acceso a los mismos (García Prado and Lao Peña, 2010;
+                     Ospina and Etchegaray, 2008).
+                •    El MGD constituye, una alternativa prometedora en la promoción de los objetivos
+                     de eficiencia, eficacia y equidad en las prestaciones de salud.
+                •    A estos beneficios, asociados al enfoque fundamentalmente preventivo en la
+                     salud, es de esperar se agreguen aquellos derivados del ahorro de recursos
+                     públicos, debido a la expansión y ampliación de los modelos descentralizados
+                     de salud.
+Lo anteriormente descrito son factores que permitieron el cumplimiento de indicadores de
+cobertura en la atención materna infantil, destacando el incremento en la atención prenatal, parto
+26   Evaluación económica ex ante de la Iniciativa Salud Mesoamericana 2015.
+27   En el estudio comparativo del modelo descentralizado (SESAL – Measure Evaluation, 2009), se muestra que para
+     el caso de Honduras el modelo descentralizado no solo cuenta con ampliación de horarios de atención, sino que
+     hay un mayor rendimiento de los recursos humanos contratados (médicos, enfermeras y auxiliares de enfermería)
+     y en promedio un menor tiempo de espera para ser atendido (2 horas).
+28   Estrategia Mundial de la salud de las mujeres y los niños (OMS 2010-2015).
+                                                          24
+"
+"y posparto de acuerdo a norma y vacunación infantil entre otros. A continuación, se hace un
+análisis de atribución de cada uno de los indicadores de la matriz de resultados
+Población cubierta con un plan de beneficios de salud, brindado por gestores.: a través de
+la contratación de 25 gestores se logró extender el MGD a cerca de un 40% adicional de
+habitantes. El modelo descentralizado, en 2009, cubría un 34% adicional de habitantes
+(SESAL-Measure Evaluation, 2009). Esto permitió mejorar la cobertura y calidad de los servicios
+en los siguientes indicadores:
+Porcentaje de mujeres en edad reproductiva (15-49) que actualmente utilizan (o cuya
+pareja utiliza) un método moderno de planificación familiar: por medio de los gestores
+descentralizados se logró mejorar la oferta y distribución de métodos de planificación familiar en
+un 97%; ya que a través de los mecanismos agiles de compra aplicado por los gestores,
+facilitaron la disponibilidad permanente de métodos 29.
+Gracias a la implementación de intervenciones costo efectivas a través de los gestores para
+reducir la mortalidad y mejorar la salud materna infantil, y el aumento de la cobertura por la mayor
+contratación de un número de personal calificado (médicos, promotores etc.). Así como el
+abastecimiento continuo de medicamentos e insumos y la ampliación de los horarios de atención
+entre otros, facilitando los siguientes logros:
+      •   Control prenatal de calidad se incrementó de un 75% a un 86% 30.
+      •   Atención de partos por personal calificado se incrementó de 33% a 88%.
+      •   Las mujeres y neonatos que recibieron atención posparto en los primeros siete días, se
+          incrementó de 46% a 86%.
+Como se mencionó en la sección de relevancia, los resultados asociados a la calidad de los
+servicios para niños se dieron gracias al programa. El programa brindó el suministro de
+micronutrientes a niños de 6 a 24 meses para disminuir el porcentaje de anemias y el tratamiento
+de casos de diarrea con sales de Zinc en la población infantil, y promovió el uso de los de
+servicios de salud mediante el diseño, implementación y monitoreo de una estrategia de
+comunicación y mercadeo social de la modalidad de gestión descentralizada, que incluyó la
+promoción del uso de micronutrientes y zinc, la prevención y manejo de neumonías y diarreas en
+niños.
+    ii.       Resultados relacionados con el objetivo específico de fortalecer las redes
+              materno-infantiles de salud en los municipios y departamentos beneficiados
+Reducción de la Letalidad Materno- neonatal en hospitales. Una de las prioridades
+establecidas por el gobierno fue la reducción de la mortalidad materna e infantil.
+Con el aumento de mujeres en edad reproductiva que utilizan un método de planificación familiar
+se logró contribuir a la reducción de la Mortalidad Materna al reducir la posibilidad de exposición
+a un embarazo no deseado 31.
+29  Zarychta (2013), muestra que el modelo descentralizado resultó en un aumento del 24% anual de las consultas
+    de planificación familiar para el caso del departamento de Intibucá en Honduras.
+30  Zarychta (2013), muestra que el modelo descentralizado, para el caso del departamento de Intibucá en Honduras,
+    resultó en un aumento del 60 y 70% anual de las consultas prenatales y posparto, respectivamente.
+31  La reducción de la fecundidad es una manera efectiva de reducir las muertes maternas ya que disminuye la
+    cantidad de veces que una mujer se expone al embarazo y sus posibles complicaciones. La contribución de la
+    planificación familiar a la sobrevida de las mujeres está ampliamente documentada, estimándose que podría
+    reducir hasta 32% de las muertes maternas (Winikoff y Sullivan, 1987; Family Health International, 1995; Singh y
+    Cols, 2009; WHO, 2010).
+                                                         25
+"
+"El Modelo de gestión hospitalario permitió la utilización de recursos para la contratación de
+recursos humanos, abastecimiento de medicamentos e insumos en los hospitales, y la
+implementación de procesos de mejora continua, lo anterior facilito la mejoría de la calidad en la
+atención de la complicación materna neonatal, logrando con ello la reducción de la letalidad
+neonatal hospitalaria por sepsis y asfixia de 26% a 19,4% y la letalidad materna por sepsis,
+hemorragia y eclampsia de 16% a 11,4% 32.
+    iii.      Resultados relacionados con el objetivo específico de mejorar la capacidad
+              institucional de la SESAL para normar, conducir y gestionar los servicios de
+              salud que son provistos mediante la modalidad de gestión descentralizada.
+La capacidad Institucional de la SESAL para facilitar su ejercicio de Rectoría y de vigilancia del
+cumplimiento de lo pactado en los convenios de gestión, fue potenciada a través de la
+introducción de mejoras operativas incorporadas al modelo de gestión descentralizada. Dichas
+mejoras operativas incluyeron; el fortalecimiento de los sistemas de información, revisión y ajuste
+de indicadores del desempeño de gestores, monitoria y evaluación; mejoramiento de los
+convenios de gestión y de la capacidad de los técnicos de la SESAL para la aplicación de
+instrumentos de medición.
+Lo anterior posibilitó que los resultados de la operación fueran medidos por los técnicos de la
+SESAL (Regiones Sanitarias con acompañamiento de la UGD), utilizando herramientas del
+sistema nacional de monitoria y evaluación de los indicadores, marco de desempeño del
+proyecto, evaluación de desempeño de los gestores 33, evaluaciones independientes y
+evaluaciones técnicas concurrente utilizando métodos confiables. Los resultados de las
+mediciones se centraron en la verificación trimestral del cumplimento de la norma de atención y
+de los estándares de gestión, así como de los indicadores definidos en el contrato establecidos
+entre el gestor y la SESAL pactados. Estos indicadores, dan cuenta del mejoramiento de los
+índices de cobertura de médicos especialistas las 24 horas del día, los siete días de la semana,
+el abastecimiento de medicamentos, insumos y equipo prioritarios para la atención de las
+complicaciones obstétricas y neonatales. Lo anterior posibilitó mejorar la cobertura de los
+servicios ambulatorios y la capacidad de respuesta para la atención de dichas complicaciones y
+con ello la reducción de los índices de letalidad neonatal y materna en los hospitales beneficiados
+por el proyecto.
+                  d. Resultados no previstos
+Durante la ejecución del programa no se presentaron situaciones o resultados imprevistos que
+alteraran el desarrollo de las actividades programadas.
+32  Robalino, Picazo, and Voetberg (2001), en un estudio longitudinal para varios países de diferentes niveles de
+    desarrollo entre 1970 y 1995, encontraron que un nivel más alto de descentralización está asociado con niveles
+    de Mortalidad Infantil (MI) más bajos. Siendo estos beneficios mayores para países con niveles de ingresos más
+    bajos. Aquino et al. (2009), en un estudio para el Programa de Salud Familiar en Brasil, encontraron que las
+    reducciones en las tasas de MI se dieron a una mayor tasa en los municipios con el programa consolidado (entre
+    13% y 32%); donde los efectos fueron mayores en las tasas de mortalidad post-neonatal (entre 18% y 31%) que
+    en las tasas de mortalidad de neonatos (entre 10% y 19%). Macinko et al. (2007), en otro estudio para el Programa
+    de Salud Familiar en Brasil, encontraron que, aunque la MI venía disminuyendo en Brasil (13% entre 1999 y 2004),
+    las reducciones la tasa de mortalidad post-neonatal infantil se dieron a un ritmo mayor en los municipios donde
+    había presencia del programa (16%) y la MI asociada a la diarrea (44%).
+33  La evaluación del desempeño de los gestores es realizada por la Unidad de Gestión Descentralizada (UGD) de
+    la SESAL la cual se hace trimestralmente, en base a los indicadores que están definidos en los convenios de
+    gestión que se firman con los gestores y que son los mismos de la matriz de resultado del proyecto.
+                                                         26
+"
+" 2.3     Eficiencia
+Durante el diseño de este programa no se consideró la realización de un análisis económico
+ex post. Los costos operativos del programa fueron de US$1.641.650,24, equivalente a un 3%.
+Este programa ha sido calificado (de acuerdo a los indicadores establecidos en el Informe de
+Seguimiento del Proyecto - PMR) en su desempeño como satisfactorio de acuerdo con la
+metodología utilizada por el Banco para la calificación de proyectos que mide cinco índices que
+se combinan en un indicador sintético 34,35. Los índices miden desviaciones en términos de costo
+y tiempo con respecto al plan acumulado, al plan anual del Proyecto y a la planificación de la
+duración del Proyecto estimada cuando logró su elegibilidad. El programa tuvo atrasos de
+acuerdo con el periodo previsto de duración, pero estos atrasos no comprometieron el alcance
+ni el desempeño del mismo.
+Por otro lado, no hubo variaciones importantes de costos de sus productos, por lo tanto, el
+programa fue ejecutado de acuerdo con los costos esperados y su extensión no incidió
+negativamente en el índice de cronograma o en la calidad de los servicios prestados. A
+continuación, se presenta el detalle de los índices:
+                     Índice de rendimiento e índice de rentabilidad de los costos del programa
+                                                                Año de desempeño
+                                                    2014                   2015                 2016
+                         SPI                        0,82                   1,13                  1,5
+                       SPI(a)                       0,82                   0,98                 0,98
+                        CPI                         1,13                   1,62                 1,64
+                       CPI(a)                       1,13                   1,16                 1,07
+           Indicador de Desembolso              Satisfactorio          Satisfactorio        Satisfactorio
+                    Calificación                Satisfactorio          Satisfactorio        Satisfactorio
+34  Según metodología utilizada por el Banco, para este programa se calculan cinco indicadores de desempeño en
+    un indicador sintético. Los cinco indicadores son: (i) desembolsos históricos acumulados de Honduras; (ii) índice
+    de costo de desempeño (acumulado durante la vida del proyecto) (CPI); (iii) índice de costos de desempeño anual
+    (CPI(a)); (iv) índice de cronograma (acumulado durante la vida del proyecto) (SPI); y (v) índice de cronograma
+    anual (SPI(a)). acumulado, SPI. El Proyecto se considera satisfactorio cuando tiene su indicador sintético es igual
+    o mayor a 2,5.
+35  El CPI y SPI son satisfactorios cuando se encuentran en un rango de entre 0,8 a 2 (inclusive).
+                                                           27
+"
+"                                                                    Tabla 3. Costos del proyecto 36
+                                Costo Total Planeado (US$)                    Costo Total Revisado (US$)                  Costo Total Actual (US$)
+   Componente /
+                                    (Año 2014)                                       (Año 2017)                                 (Año 2017)
+     Productos
+                           BID        Local       Total        %         BID        Local       Total       %        BID       Local      Total       %
+COMPONENTE 1:         44.004.750,00 0,00       44.004.750,00 88,00% 44.883.517,76    0,00 44.883.517,76   90,00% 44.968.151,76   0,00 44.968.151,76 90,00%
+Mejora de la
+Cobertura de
+Servicios de Salud
+bajo la modalidad
+de Gestión
+Descentralizada
+SUB                   43.000.750,00    0,00    43.000.750,00 86,00%  44.478.740,76   0,00   44.478.740,76 89,00% 44.563.374,76   0,00 45.758.895,77 92,00%
+COMPONENTE
+1.1: Mejora del
+Acceso y Calidad
+de Servicios de
+Salud provistos
+bajo la modalidad
+de gestión
+descentralizada.
+  1.1. Población        7.586.470,00   0,00     7.586.470,00 15,00%   8.061.035,00   0,00    8.061.034,78 16,00%  8.057.326,00   0,00  8.057.325,78 16,00%
+  que recibe un
+  paquete de
+  prestaciones
+  mediante el
+  modelo
+  descentralizado
+  en el
+  departamento de
+  Copán
+  1.2. Población        1.855.950,00   0,00     1.855.950,00  4,00%   2.235.662,00   0,00    2.235.661,80  4,00%  2.272.377,00   0,00  2.272.376,80  5,00%
+  que recibe un
+  paquete de
+  prestaciones
+  mediante el
+  modelo
+  descentralizado
+  en el
+  departamento de
+  La Paz
+           36   Fuente: Documento de Crédito y PMR.
+                                                                                  28
+"
+"                         Costo Total Planeado (US$)                Costo Total Revisado (US$)                 Costo Total Actual (US$)
+ Componente /
+                             (Año 2014)                                   (Año 2017)                                (Año 2017)
+   Productos
+                    BID        Local      Total        %       BID       Local       Total       %       BID       Local      Total      %
+1.3. Población  5.998.380,00 0,00       5.998.380,00 12,00% 6.414.754,00  0,00    6.414.753,64 13,00% 6.395.196,00   0,00 6.395.195,64 13,00%
+que recibe un
+paquete de
+prestaciones
+mediante el
+modelo
+descentralizado
+en el
+departamento de
+Intibucá
+1.4. Población  2.172.100,00    0,00    2.172.100,00  4,00% 3.041.849,00  0,00    3.041.849,17  6,00% 3.037.451,00   0,00  3.037.451,17 6,00%
+que recibe un
+paquete de
+prestaciones
+mediante el
+modelo
+descentralizado
+en el
+departamento de
+Choluteca
+1.5. Población  2.252.296 ,00   0,00    2.252.296,00  5,00% 2.131.236,00  0,00    2.131.235,70  4,00% 2.209.175,00   0,00  2.209.174,70 4,00%
+que recibe un
+paquete de
+prestaciones
+mediante el
+modelo
+descentralizado
+en el
+departamento de
+Santa Bárbara
+1.6. Población  1.676.485,00    0,00    1.676.485,00  3,00% 2.401.304,00  0,00    2.401.304,35  5,00% 2.401.700,00   0,00  2.401.700,35 5,00%
+que recibe un
+paquete de
+prestaciones
+mediante el
+modelo
+descentralizado
+en el
+departamento de
+Olancho
+                                                                       29
+"
+"                        Costo Total Planeado (US$)               Costo Total Revisado (US$)                Costo Total Actual (US$)
+Componente /
+                            (Año 2014)                                  (Año 2017)                               (Año 2017)
+  Productos
+                   BID        Local      Total       %       BID       Local       Total      %       BID       Local      Total      %
+1.7. Población  1.634.760,00 0,00      1.634.760,00 3,00%   824.509,00  0,00      824.508,86 2,00%   824.509,00   0,00    824.508,86 2,00%
+que recibe un
+paquete de
+prestaciones
+mediante el
+modelo
+descentralizado
+en el
+departamento de
+Gracias a Dios
+1.8. Población  1.605.415,00   0,00    1.605.415,00 3,00% 1.494.069,00  0,00    1.494.069,00 3,00% 1.494.069,00   0,00  1.494.069,00 3,00%
+que recibe un
+paquete de
+prestaciones
+mediante el
+modelo
+descentralizado
+en el
+departamento de
+Comayagua
+1.9. Población       198.525   0,00      198.525,00 0,40%   204.750,00  0,00      204.750,31 0,40%   204.750,00   0,00    204.750,31 0,00%
+que recibe un
+paquete de
+prestaciones
+mediante el
+modelo
+descentralizado
+en el
+departamento de
+El Paraíso
+1.10. Población   869.415,00   0,00      869.415,00 2,00%   928.451,00  0,00      928.451,15 2,00%   928.451,00   0,00    928.451,15 2,00%
+que recibe un
+paquete de
+prestaciones
+mediante el
+modelo
+descentralizado
+en el
+departamento de
+Valle
+                                                                     30
+"
+"                          Costo Total Planeado (US$)                 Costo Total Revisado (US$)                  Costo Total Actual (US$)
+Componente /
+                              (Año 2014)                                    (Año 2017)                                 (Año 2017)
+   Productos
+                     BID        Local      Total        %        BID       Local       Total       %        BID       Local      Total       %
+1.11. Población   7.535.630,00 0,00      7.535.630,00 15,00% 11.280.405,00  0,00 1.1280.405,00   23,00% 11.405.909,00   0,00 11.405.909,00 23,00%
+que recibe un
+paquete de
+prestaciones
+mediante el
+modelo
+descentralizado
+en el
+departamento de
+Lempira
+1.12. Población     854.165,00   0,00      854.165,00  2,00%    546.637,00  0,00      546.637,00  1,00%    541.575,00   0,00    541.575,00  1,00%
+que recibe un
+paquete de
+prestaciones
+mediante el
+modelo
+descentralizado
+en el
+departamento de
+Ocotepeque
+1.13 Hospitales   7.900.000,00   0,00    7.900.000,00 16,00%  4.608.742,00  0,00    4.608.742,00  9,00%   4605,896.00   0,00  4.605.896,00  9,00%
+de salud que
+proveen servicios
+de salud con
+convenios de
+gestión
+descentralizadas
+1.14. Gestores      270.959,00   0,00      270.959,00  1,00%    231.859,00  0,00      231.859,00  0,50%    231.859,00   0,00    231.859,00  0,50%
+abastecidos de
+micronutrientes
+1.15. Gestores      150.000,00   0,00      150.000,00  0,00%     27.089,00  0,00       27.089,00  0,10%     27.089,00   0,00     27.089,00  0,10%
+abastecidos de
+zinc
+1.16. Asistencia    440.200,00   0,00      440.200,00  1,00%     46.390,00  0,00       46.390,00  0,10%     46.390,00   0,00     46.390,00  0,10%
+Técnica para
+capacitación a
+gestores en áreas
+de atención
+                                                                         31
+"
+"                            Costo Total Planeado (US$)             Costo Total Revisado (US$)              Costo Total Actual (US$)
+    Componente /
+                                (Año 2014)                                (Año 2017)                             (Año 2017)
+      Productos
+                       BID        Local      Total       %     BID       Local       Total      %     BID       Local      Total      %
+   clínica y gerencia
+   de servicios
+SUB                    54.000,00   0,00       54.000,00 0,10%  77.578,00  0,00       77.578,00 0,20%  77.578,00   0,00     77.578,00 0,20%
+COMPONENTE 1.2
+Fortalecimiento de
+las Redes
+Integradas Salud
+Materno Infantil
+   1.17. Diseño e      54.000,00   0,00       54.000,00 0,10%  77.578,00  0,00       77.578,00 0,20%  77.578,00   0,00     77.578,00 0,20%
+   implementación
+   del sistema de
+   referencia y
+   respuesta del
+   sistema de micro
+   redes
+   participantes
+SUB                   950.000,00   0,00      950.000,00 2,00% 327.199,00  0,00      327.199,00 1,00% 327.199,00   0,00    327.199,00 1,00%
+COMPONENTE 1.3.
+Apoyo para la
+Provisión de los
+Servicios de Salud
+bajo la modalidad
+de Gestión
+Descentralizada
+   1.18. Estrategia   149.500,00   0,00      149.500,00 0,30%  40.000,00  0,00       40.000,00 0,10%  40.000,00   0,00     40.000,00 0,10%
+   de comunicación
+   y mercadeo social
+   del modelo de
+   gestión
+   descentralizada
+   1.19. Sistema      300.000,00   0,00      300.000,00 1,00% 193.699,00  0,00      193.699,00 0,40% 193.699,00   0,00    193.699,00 0,40%
+   para monitoria,
+   evaluación y
+   control de
+   resultados
+   fortalecido
+   1.20. Sistema de   500.500,00   0,00      500.500,00 1,00%  93.500,00  0,00       93.500,00 0,20%  93.500,00   0,00     93.500,00 0,20%
+   empadronamiento
+   y nominalización
+                                                                       32
+"
+"                               Costo Total Planeado (US$)                   Costo Total Revisado (US$)                   Costo Total Actual (US$)
+   Componente /
+                                   (Año 2014)                                        (Año 2017)                                (Año 2017)
+     Productos
+                          BID        Local      Total         %         BID        Local       Total       %         BID      Local       Total        %
+  de los
+  beneficiarios
+  diseñad,
+COMPONENTE 2:         1.250.000,00    0,00    1.250.000,00   3,00%     385.967,00    0.00     385.967,00  1,00%    385.967,00   0,00     385.967,00   1,00%
+Fortalecimiento
+Institucional
+  2.1. UGD asistida   1.250.000,00    0,00    1.250.000,00   3,00%     385.967,00    0,00     385.967,00  1,00%    385.967,00   0,00     385.967,00   1,00%
+  en la función de
+  compra y
+  contratación de
+  servicios de salud
+Otros Costos          4.745.250,00    0,00    4.745.250,00   9,00%   4.730.515,24    0,00   4.730.515,24  9,00%  4.645.881,24   0,00   4.645.881,24   9,00%
+  Adquisición         1.201.000,00    0,00    1.201.000,00   2,00%     821.097,00    0,00     821.097,00  2,00%    821.097,00   0,00     821.097,00   2,00%
+  vehículos y
+  ambulancias
+  Funcionamiento      1.348.000 ,00   0,00    1.348.000,00   3,00%   1.808.130,00    0,00   1.808.130,00  4,00%  1.808.130,00   0,00   1.808.130,00   4,00%
+  de la UGD
+  Impresión de            50.000,00   0,00       50.000,00   0,10%      38.258,00    0,00      38.258,00  0,10%     38.258,00   0,00      38.258,00   0,10%
+  documentos,
+  normas ZINC,
+  Micronutrientes,
+  AINC y CONE
+  Auditoría             150.000,00    0,00      150.000,00   0,30%     129.776,00    0,00     129.776,00  0,30%    129.776,00   0,00     129.776,00   0,30%
+  Financiera
+  Evaluación            150.000,00    0,00      150.000,00   0,30%      86.623,00    0,00      86.623,00  0,20%     86.623,00   0,00      86.623,00   0,20%
+  Operativa y de
+  Gestión de Medio
+  Término
+  Unidad Ejecutora    1.846.250,00    0,00    1.846.250,00   4,00%   1.846.631,24    0,00    .846.631,24  4,00%  1.641.650,24   0,00   1.641.650,24   3,00%
+  Funcionando
+        Total        50.000.000,00    0,00  50.000.000,00  100,00% 50.000.000,00    0,00  50.000.000,00 100,00% 50.000.000,00  0,00   50.000.000,00 100,00%
+                                                                                 33
+"
+"       2.4     Sostenibilidad
+                        a. Aspectos generales de sostenibilidad
+     Con relación a la sostenibilidad en la mejoría de los indicadores, de salud materna infantil y la
+     transformación del modelo de gestión, financiamiento y provisión de servicios, se espera que los
+     mismos se incrementen y consoliden.
+     La afirmación anterior está respaldada en el hecho la política para la RAMNI, actualmente se
+     encuentra en fase de revisión y ajuste con apoyo del BID y será elevada a nivel de política
+     sectorial por el presidente de la Republica a través de un decreto ejecutivo y tendrá una duración
+     de 10 años (2018-2027), consistente con los Objetivos de Desarrollo Sostenible.
+     Por otro lado, la aprobación de esta política será una oportunidad para fortalecer el ejercicio de
+     alineamiento y armonización del sector gubernamental, cooperación externa y sociedad civil, en
+     apoyo a las estrategias definidas para el mejoramiento de la cobertura de los servicios para la
+     reducción de la mortalidad materna e infantil, lo que le brindará sostenibilidad financiera.
+     Un aspecto de mucha importancia para la sostenibilidad del Proyecto ha sido la voluntad y
+     decisión política del gobierno, de asignar los recursos con fondos del tesoro nacional, para ir
+     absorbiendo el financiamiento en forma progresiva del modelo de gestión descentralizada. Es
+     importante destacar, que el financiamiento del modelo descentralizado comenzó con fondos
+     externos exclusivamente (Banco Mundial). Posteriormente el gobierno fue absorbiendo
+     progresivamente este financiamiento hasta alcanzar el 56% del financiamiento del MGD con
+     fondos nacionales 37.
+     La sostenibilidad financiera del modelo estará sujeta a que el gobierno continúe absorbiendo el
+     financiamiento del mismo. Además de lo anterior y con el fin de agilizar la extensión del modelo
+     de gestión descentralizada con recursos nacionales se recomendó al gobierno implementar una
+     asignación del presupuesto para servicios de salud en forma per cápita, que permita la aplicación
+     de un modelo de financiamiento en base a resultados, con enfoque en la demanda.
+                 Tabla 4. Financiamiento de la Gestión Descentralizada en Honduras (US$)
+Financiamiento
+                       2011       2012         2013       2014        2015      2016         2017      Total
+    en US$
+2418/BL-HO           2.506.097   5.494.812    6.921.339  1.227.985    926.253                         17.076.486
+1619/SF-HO                       3.241.667                                                             3.241.667
+2743/BL-HO                                    4.473.399    523.581                                     4.996.980
+2943/BL-HO                                              12.429.976 14.147.891 12.207.535   5.592.981  44.378.383
+ISM I 38                           269.982      631.896                                                  901.878
+ISM II                                                                514.389    414.623                 929.012
+3723/BL-HO                                                                                 6.694.241   6.694.241
+ BID                 2.506.097   9.006.461   12.026.634 14.181.542 15.588.533 12.622.158  12.287.222  78.218.647
+Fondos
+                     2.330.534   1.216.468    6.159.211  5.648.301  4.988.015 16.565.606  18.148.513  55.056.648
+Nacionales
+Totales              4.836.631  10.222.929   18.185.845 19.829.843 20.576.548 29.187.764 30.4365.735 133.275.295
+     37   Fuente: Sección de finanzas de la UGD. 2017.
+     38   Iniciativa de Salud Mesoamérica I operación (GRT/HE-13210-HO, GRT/HE-13211-HO) y II operación
+          (GRT/HE-14661-HO, GRT/HE-14662-HO).
+                                                         34
+"
+"                 b. Salvaguardias ambientales y sociales
+Este programa fue clasificado como Categoría “C” de acuerdo a la Política de Salvaguardias y
+Medio Ambiente (OP-703). En la ejecución del Programa no se preveían impactos ambientales,
+por tal razón no se requirió implementar salvaguardas.
+         III. CRITERIOS NO CENTRALES
+  3.1    Desempeño del Banco
+Personal de la representación del Banco, acompañó a las autoridades de la SESAL en el diseño
+de la operación para garantizar congruencia con las mejores prácticas de probada efectividad y
+basadas en la nueva evidencia.
+Este acompañamiento permitió identificar, los medios para incrementar la probabilidad de éxito
+de la operación. Estos medios incluyeron la asistencia técnica con especialistas y técnicos de la
+representación local, consultores y especialistas de la sede del Banco, lo que aseguró la calidad
+técnica en la preparación de la operación, fortalecer los aspectos institucionales del contratante
+y la evaluación de riesgos.
+Por otro lado, el Banco definió para la ejecución del proyecto mecanismos para asegurar la
+calidad de la monitoria, evaluación y supervisión de las actividades programadas, estableciendo
+reuniones periódicas de medición del progreso de la operación para identificar y resolver
+proactivamente los obstáculos y amenazas al logro de los resultados previstos.
+  3.2    Desempeño del prestatario
+La Secretaria de Salud, fue el organismo ejecutor de esta operación, a través de una Unidad
+Administradora de Fondos de Cooperación Externa (UAFCE), quien fue el encargado de
+coordinar con los demás actores, el cumplimiento de los compromisos del gobierno.
+El desempeño de la UAFCE permitió la ejecución adecuada de la operación y el sostenimiento
+de los objetivos y fines delineados y el cumplimiento de casi la totalidad de los compromisos
+identificados en la matriz de resultados, los fondos fueron ejecutados a través del Sistema de
+Administración Financiera Integrada (SIAFI) y los dictámenes de auditoria a los estados
+financieros, de todos los años del periodo de ejecución de la operación fueron con opinión limpia.
+Las autoridades de la SESAL liderada por la Secretaria de Estado y la Viceministra de Redes
+Integradas de Servicios de Salud, mantuvieron una vigilancia y compromiso constante con la
+garantía de cumplimiento de los objetivos del proyecto, trabajando mancomunadamente con el
+Banco.
+Como se enunció anteriormente, el MGD se consolidó en los municipios donde fuera
+implementado, dando resultados positivos en términos de cobertura acceso y calidad en la
+prestación de servicios.
+Así mismo se contribuyó con la consolidación progresiva del Modelo de Gestión Hospitalaria en
+siete Hospitales, de la misma manera con óptimos resultados en términos de cobertura y calidad
+de los servicios.
+No obstante a lo anterior, la experiencia general con la Gestión del Proyecto implicó una serie de
+desafíos desde el punto de vista técnico, ya que se tuvieron que realizar acciones para fomentar
+la coordinación y el acompañamiento de actores claves dentro de la SESAL.
+Dentro de esas acciones las autoridades de la SESAL definieron una instancia técnica de
+coordinación integrada por los departamentos de primer y segundo nivel de atención, UGD,
+UAFCE, los cuales fueron coordinados por la sub*secretaria de redes quien fue la encargada de
+                                                35
+"
+"garantizar el cumplimiento de los compromisos y el abordaje de los problemas de ejecución del
+proyecto.
+En este caso se sugiere que la Sub-secretaria de Redes Integradas de Servicios de salud debe
+ser el ente natural para la articulación y petición de cuentas a los actores clave en el desarrollo
+del MGD.
+           IV. HALLAZGOS Y RECOMENDACIONES
+Durante la implementación de la operación se dio un proceso de aprendizaje continuo
+identificándose hallazgos y lecciones aprendidas que servirán como referencia para la
+preparación e implementación de operaciones futuras. Para la preparación de esta sección se
+ha utilizado la información obtenida de la plataforma de Convergencia, así como la evidencia y
+análisis de las mediciones y evaluaciones independientes. Por lo tanto, en la tabla No. 5 se
+proporciona una descripción detallada de cada hallazgo y lección aprendida considerando: (i) la
+descripción de acciones, que afectaron en forma positiva o negativa la ejecución del proyecto y
+el logro de los resultados esperados del proyecto; (ii) también se describen acciones o decisiones
+que merecen ser replicadas en proyectos futuros; y (iii) además, describen acciones o decisiones
+que deberían evitarse en futuras operaciones. En la siguiente tabla se presenta un resumen de
+las principales recomendaciones y hallazgos
+                                 Tabla 5 – Resumen de Hallazgos y Recomendaciones
+                          Hallazgos                                           Recomendaciones
+  Dimensiones de organización y gestión
+  El modelo de gestión descentralizada de primer nivel     Se recomienda desarrollar y fortalecer
+  ha demostrado ser una buena alternativa en la mejoría    organizacionalmente al nivel central de la SESAL para
+  de la cobertura de la población a servicios de salud,    desarrollar sus competencias en seguimiento,
+  pero el acompañamiento de parte de las regiones de la    monitoreo y evaluación de los gestores
+  SESAL es débil, especialmente en el monitoreo y          descentralizados.
+  evaluación de los gestores. Adicionalmente, durante la   Continuar desarrollando las competencias de las
+  ejecución del proyecto se identificó la necesidad de     Regiones sanitarias para el apoyo a los gestores, a
+  elaborar un plan estratégico para la expansión y el      través de las nuevas operaciones del Banco y de
+  fortalecimiento al MGD.                                  acuerdo al manual de organización y funciones de la
+                                                           SESAL el cual se encuentra en revisión.
+                                                           Implementar el proceso de revisión y aprobación de los
+                                                           lineamientos para la expansión e institucionalización
+                                                           modelo de gestión descentralizada, que sirvan como
+                                                           insumo para la elaboración de la ley del sistema
+                                                           nacional de salud para expandir la descentralización de
+                                                           los servicios mediante los gestores.
+  Los gestores descentralizados han enfrentado             Se recomienda que la SESAL en coordinación con la
+  dificultades en la prestación de servicios debido a la   Secretaría de Finanzas, implemente mecanismos más
+  entrega tardía de las transferencias de presupuesto.     expeditos de transferencias y desembolsos a los
+                                                           gestores. Se recomienda considerar la posibilidad de la
+                                                           implementación de un mecanismo como por ejemplo
+                                                           un fideicomiso.
+  La SESAL continúa presentando debilidades en             Se debe desarrollar el fortalecimiento institucional de la
+  aspectos del ejercicio de su rol de rectoría,            SESAL, especialmente de la UGD para mejorar su
+  planificación, regulación, fiscalización, compra y       capacidad de compra y contratación.
+  contratación de servicios de salud.                      Para el fortalecimiento de la función rectora de la
+                                                           SESAL, se recomienda desarrollar instrumentos y
+                                                           mecanismos y un marco jurídico que facilite a las
+                                                           instituciones del sector, a implementar las políticas,
+                                                           plan nacional de salud, prioridades y estrategias
+                                                           emanadas de la SESAL
+  La integración de otras instancias de la SESAL en el     Se recomienda fortalecer la integración organizativa,
+  fortalecimiento de la unidad de compra es débil y        funcional y operativa a la función de compra, entre la
+  desarticulada.                                           UGD, las unidades y departamentos de nivel central y
+                                                         36
+"
+"                         Hallazgos                                            Recomendaciones
+                                                           las Regiones Departamentales de Salud, a través de la
+                                                           definición de instancias técnicas que elaboren y den
+                                                           seguimiento a planes de implementación.
+La Secretaria de Salud, avanzó con la implementación       Se recomienda desarrollar los instrumentos normativos
+del Modelo de Gestión Descentralizado en cinco             y operativos necesarios y extender este modelo al
+hospitales. Este es un buen modelo a considerar para       resto de los hospitales públicos del país.
+replicar en otros hospitales del país. La experiencia
+muestra que ha mejorado la eficiencia, calidad y
+desempeño de los servicios.
+Dimensiones técnico-sectoriales
+Limitada coordinación y poca participación de otros        Definir por parte de la Subsecretaria de Redes
+actores clave dentro de la SESAL vinculados a la           Integradas de Servicios de Salud el mecanismo de
+implementación y desarrollo del MGD                        articulación y roles para desarrollar la función de
+                                                           compra de los departamentos de primer y segundo
+                                                           nivel, la UGD, la unidad de calidad, la unidad de
+                                                           vigilancia epidemiológica y la Unidad de gestión de
+                                                           Información (UGI), la gerencia administrativa y la
+                                                           Unidad de Planificación Evaluación de la Gestión
+                                                           (UPEG), para fortalecer la planificación, monitoreo y
+                                                           evaluación, el análisis de la situación de las
+                                                           comunidades descentralizadas, la definición e
+                                                           implementación de intervenciones y la toma de
+                                                           decisiones.
+                                                           Definir momentos y mecanismos para la petición y
+                                                           rendición de cuentas.
+Durante la ejecución de este proyecto se identificó que    Se recomienda la implementación de la guía de
+existía variabilidad en las capacidades de los gestores,   verificación de gestores antes de la selección de los
+como por ejemplo en la administración financiera,          mismos.
+adquisiciones, y la implementación de algunas
+intervenciones de salud, el funcionamiento de los          Para la contratación de nuevos gestores se
+servicios podría mejorarse si estos desarrollasen          recomienda que la certificación de los gestores sea uno
+dichas capacidades previo a la firma de los convenios.     de los requisitos para su contratación.
+El proyecto impulsó la elaboración del reglamento para
+la certificación de gestores (aprobado mediante            Se recomienda la contratación de una firma consultora
+acuerdo del poder ejecutivo) así como la elaboración       para fortalecer a los Gestores descentralizados,
+de la guía para la verificación de las capacidades de los  desarrollar sus competencias e implementar el proceso
+gestores para su certificación. Dichas normativas no       de Certificación de Gestores.
+han sido aún implementadas.
+A pesar de que existe un plan estratégico de expansión     Se recomienda implementar el plan estratégico de
+del MDG que incluye la lista de municipios donde el        expansión y consolidación del modelo de gestión
+modelo se debe implementar, las modalidades de dicho       descentralizada incluyendo las medidas para fortalecer
+modelo y las brechas financieras, el proceso de            el sistema de monitoreo y evaluación de la SESAL para
+extensión aun no es impulsado utilizando dicho plan.       este modelo.
+Cabe señalar, que el plan estratégico fue elaborado
+como parte de un préstamo de apoyo a políticas
+4030/BL-HO (HO-L1182).
+Sostenibilidad Financiera
+La manera como la SESAL asigna el presupuesto para         La SESAL deberá de hacer un análisis para proponer y
+la prestación de servicios obedece más a las               gestionar una nueva forma de reasignar internamente
+necesidades de la oferta que a la demanda y se utiliza     el presupuesto que se le otorga y priorizar los fondos
+el presupuesto histórico para su asignación. Además,       para la Gestión Descentralizada.
+está estructurado en objetos de gastos que obedecen a      Cambiar el modelo de asignación presupuestaria actual
+factores de producción y no a la población cubierta.       a un modelo de asignación per cápita y reestructura del
+Todo lo anterior complejiza el financiamiento del          presupuesto a un programa que financie los gestores
+modelo de gestión descentralizada ya que no puede          de primer y segundo nivel.
+transferirse los pagos de un solo objeto de gasto y a la
+vez no es eficiente el mismo.
+                                                         37
+"
+"                         Hallazgos                                           Recomendaciones
+Otras - Dimensiones de organización y gestión
+Para continuar asegurando que el MGD se consolide,         Continuar comunicando las fortalezas y los resultados
+fue necesario que en el cambio de autoridades de           del modelo para reducir el riesgo de vulnerabilidad
+enero 2018 se socializara el modelo, sus resultados y      política que pudiera debilitar la continuidad del modelo.
+su utilidad. La socialización fue exitosa y permitió que   En este proceso se recomienda continuar incluyendo
+no hubiera atrasos en la expansión de nuevos               más actores de la sociedad civil.
+contratos con gestores. Adicionalmente, el contar con
+la Asociación de Organización Privadas de Desarrollo
+(ASOPRIDE) participando en la abogacía por el MGD
+ha sido importante para el fortalecimiento del modelo.
+Aunque se ha capacitado personal de los Gestores en        La SESAL deberá de realizar un análisis sobre la
+las áreas de atención clínica y gerencia de servicios      rotación del personal, para incluir dentro de las
+existe una alta rotación de personal técnico y             capacitaciones requisitos que obliguen al personal
+administrativo dentro de la SESAL y dentro de los          capacitado con fondos de la SESAL que cumplan con
+mismos gestores lo que dificulta que las capacidades       un tiempo específico para que las capacidades sean
+sean aprovechadas.                                         aprovechadas.
+Aún persiste insuficientes Fondos del Tesoro Nacional      Hacer un análisis para reasignar internamente el
+para financiar la expansión del Modelo de Gestión          presupuesto de la SESAL y priorizar la extensión de
+Descentralizada.                                           cobertura del Modelo de Gestión Descentralizada.
+                                                           Asignar mayores recursos financieros a la SESAL, con
+                                                           fuentes del tesoro nacional para el financiamiento
+                                                           progresivo y sostenible del MGD.
+                                                         38
+"

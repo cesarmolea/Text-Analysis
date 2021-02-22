@@ -1,0 +1,1233 @@
+"outlist[[i]]"
+" Tiempo y costo del personal
+   Ciclo de proyecto de etapa        # de semanas de personal         USD (incluidos los gastos de
+                                                                      viaje y asesoría)
+   Preparación                        25                               257.430
+   Supervisión                        145                              926.970
+   Total                              170                             1.184.400
+ DECLARACIÓN DE LOS OBJETIVOS DE DESARROLLO DEL PROYECTO / PROGRAMA EL OBJETIVO GENERAL DEL
+ PROGRAMA ES CONTRIBUIR A LA DISMINUCIÓN DE LOS NIVELES DE DELITOS, VIOLENCIA E INSEGURIDAD EN LA
+ PROVINCIA DE BUENOS AIRES MEDIANTE EL MEJORAMIENTO DE LA CAPACIDAD DEL MINISTERIO DE SEGURIDAD
+ (“MS”), EL FORTALECIMIENTO DE LA PARTICIPACIÓN COMUNITARIA Y LA IMPLANTACIÓN DE PROGRAMAS DE
+ PREVENCIÓN QUE PROMUEVEN FACTORES DE PROTECCIÓN EN COMUNIDADES, FAMILIAS E INDIVIDUOS. LOS
+ OBJETIVOS ESPECÍFICOS DEL PROGRAMA SON LOS SIGUIENTES: (I) DESARROLLAR CAPACIDADES DEL MS PARA
+ EL DISEÑO Y DESARROLLO DE POLÍTICAS DE PREVENCIÓN DEL DELITO Y LA VIOLENCIA, PROMOVIENDO LA
+ PARTICIPACIÓN COMUNITARIA; (II) REDUCCIÓN EN LOS NIVELES DE DELITOS PREVISIBLES, ROBOS Y LESIONES; (III)
+ INCREMENTO EN LA PERCEPCIÓN DE SEGURIDAD EN LAS COMUNIDADES; Y (IV) REDUCCIÓN DE LESIONES
+ RELACIONADAS CON VIOLENCIA DOMÉSTICA, ABUSO SEXUAL Y VIOLENCIA JUVENIL.
+         I.    INTRODUCCIÓN
+1.1.     El presente documento resume los productos, resultados e impactos alcanzados por el
+         Programa de Seguridad Ciudadana e Inclusión (AR-L1074 – 2210/OC-AR), en adelante
+         PSCI. El mismo fue aprobado en octubre del año 2009 y terminó de ejecutarse en 2017.
+1.2.     El objetivo general del PSCI fue contribuir a la disminución de los niveles de delitos,
+         violencia e inseguridad en la Provincia de Buenos Aires (PBA) mediante el mejoramiento
+         de la capacidad del Ministerio de Seguridad (MS), el fortalecimiento de la participación
+         comunitaria y la implantación de programas de prevención que promueven factores de
+         protección en comunidades, familias e individuos. Los objetivos específicos del programa
+         fueron los siguientes: (i) desarrollar capacidades del MS para el diseño y desarrollo de
+         políticas de prevención del delito y la violencia, promoviendo la participación comunitaria;
+         (ii) reducción en los niveles de delitos previsibles, robos y lesiones; (iii) incremento en la
+         percepción de seguridad en las comunidades; y (iv) reducción de lesiones relacionadas
+         con violencia doméstica, abuso sexual y violencia juvenil.
+1.3.     Para lograr dichos objetivos el PSCI constó de los siguientes tres componentes:
+         (i) Desarrollo de la Capacidad Institucional del MS; (ii) Fortalecimiento de Mecanismos
+         de Participación Ciudadana; y (iii) Mejoramiento de los Servicios de Atención a la
+         Violencia de Género y de los Programas de Prevención de la Violencia.
+1.4.     El contexto a partir del cual fue diseñado el PSCI se caracterizaba por un aumento del
+         delito, violencia e inseguridad combinado con una limitada capacidad institucional del MS
+         para abordarlo. Desde principios de la década del 2000, la criminalidad y la violencia han
+         aumentado sustancialmente en la Argentina, tanto a nivel nacional como en algunas de
+         las principales ciudades y provincias. El MS no contaba con una capacidad estructurada
+         para el diseño, planificación, gestión y evaluación de intervenciones en prevención del
+                                                    v
+"
+"     delito y la violencia, ni para el tratamiento de la información que emana de las diversas
+     áreas ministeriales a dichos fines. Su sistema de información era utilizado principalmente
+     para identificar la criminalidad, y eventualmente, a requerimiento específico de algunos
+     usuarios internos, para el control del delito. No presentaba una estandarización de la
+     información recopilada sobre los delitos, ni de los procesos administrativos. Tampoco
+     existía una coordinación entre los sectores y ámbitos involucrados en el sistema, ni una
+     adecuada infraestructura informática que preste soporte para un uso real y compartido de
+     la información disponible. Además, el personal encargado del sistema no contaba con
+     una capacitación sistemática para realizar un análisis espacial y la interpretación de la
+     información.
+1.5. Como resultado de esta problemática, la información resultante solo aparecía en informes
+     anuales, los cuales son publicados mucho tiempo después de transcurridos los hechos
+     violentos. El gobernante (ministro, gobernador, secretario de gobierno o intendente) no
+     recibía, de manera oportuna, información confiable para generar estrategias de control o
+     de prevención, ni tampoco para elaborar políticas públicas, gerenciar y evaluar los
+     programas de prevención de violencia.
+1.6. El PSCI se justificó tanto para enfrentar los problemas mencionados, como para apoyar
+     un nuevo paradigma amplio e integrado y para abordar los problemas del delito y la
+     violencia en la Provincia de Buenos Aires, articulando con la estrategia del gobierno
+     provincial. La ejecución del PSCI se realizó en 8 años contados desde el momento de su
+     aprobación por el Directorio del Banco, y tuvo que ser extendida por 30.5 meses para que
+     pueda lograr en forma parcial los resultados esperados. Aportaron a este retraso la
+     lentitud en la cual se cumplieron las condiciones de elegibilidad para el primer
+     desembolso del préstamo, se tardó 25 meses desde la aprobación hasta el primer
+     desembolso. Por otra parte los retos principales, que retrasaron la ejecución del PSCI,
+     que el equipo de proyecto tuvo que enfrentar se relacionaron principalmente a los lentos
+     procesos fiduciarios que la Provincia de Buenos Aires tiene para la implementación de
+     los Proyectos financiados con recursos de organismos internacionales. La extensión
+     otorgada por el Banco a solicitud del Gobierno Argentino fue realizada basándose en la
+     necesidad de ejecutar recursos comprometidos, en el momento de la extensión se tenía
+     vigente el contrato del del Sistema de Atención de Emergencias.
+1.7. Luego de esta introducción, el documento está organizado en tres secciones. En la
+     sección siguiente se presenta el desempeño del proyecto según cuatro criterios centrales.
+     El primero de ellos es la relevancia, donde se analiza la consistencia de los objetivos y el
+     diseño del proyecto con la estrategia institucional del Banco y con las prioridades de
+     desarrollo del país y se evalúa en qué medida el diseño del proyecto adoptó las soluciones
+     adecuadas a los problemas identificados, es decir, la lógica vertical de la cadena de
+     resultados y la validez de los supuestos subyacentes. El segundo criterio es el de
+     efectividad, en donde se mide hasta qué punto el proyecto logró sus objetivos y resultados
+     específicos declarados. El tercer criterio es el de eficiencia, donde los principales
+     interrogantes son: ¿Cómo evolucionaron los costos del proyecto? y ¿En qué medida los
+     beneficios del proyecto fueron logrados a un costo razonable? El último de los cuatro
+     criterios centrales es el de sostenibilidad, en donde la pregunta a responder es: ¿Los
+                                                6
+"
+"         resultados alcanzados se sostendrán luego de la finalización del programa? A
+         continuación, en la tercera sección, se analizarán otros criterios no centrales, incluyendo
+         el desempeño del Banco y del Prestatario. Por último, en la cuarta sección, se incluyen
+         los principales hallazgos y recomendaciones.
+         II. CRITERIOS CENTRALES. RENDIMIENTO DEL PROYECTO
+2.1      Relevancia
+                   a. Alineación con las necesidades de desarrollo del país
+ 2.1.1. El PSCI fue consistente con la Estrategia de País del Banco vigente al momento de su
+         aprobación, Estrategia de País del Banco con Argentina 2004-2008. La misma contaba
+         con tres áreas principales: (i) fortalecimiento institucional para una mejor gobernabilidad
+         y sostenibilidad fiscal; (ii) fortalecimiento del entorno para el crecimiento de las
+         inversiones y la productividad, incrementando la competitividad del país; y (iii) reducción
+         de la pobreza, reconstitución del capital humano y promoción de un desarrollo social
+         sostenible e incluyente. El incremento de la criminalidad en la Provincia tiene un efecto
+         negativo en la actividad económica, especialmente en las inversiones, lo que a su vez
+         afecta a la productividad y a la competitividad del país 1. Si bien en la Estrategia no se
+         menciona específicamente el sector de seguridad ciudadana, a nivel provincial se prioriza
+         el sector lo cual se refleja en la aprobación e implementación del Plan I en mayo del 2008
+         mediante el cual se reincorporaba a personal policial retirado y se realiza un nuevo plan
+         de patrullaje. Posteriormente en el año 2009 con apoyo financiero de la Nación se
+         entregan más recursos se instalan cámaras de vigilancia y se asignan cuerpos de
+         Gendarmería para que apoyen a la policía provincial. En este contexto el programa estuvo
+         enfocado en fortalecer la capacidad del sector público para enfrentar esta problemática y
+         para mejorar indirectamente el clima de negocios y el desarrollo social como resultado de
+         la reducción y mejor atención de la violencia. Durante el plazo de ejecución del PSCI,
+         además se aprobó la actualización de esta estrategia GN-2670 que cubría el período
+         2009 al 2011. Esta extensión no incluía ni excluía sectores a la Estrategia, permaneciendo
+         la original con la misma racionalidad. En este plazo se aprobaron por parte de Provincia
+         los Planes II, III, IV y V que principalmente asignaban una mayor cantidad de recursos al
+         sector para incrementar su operabilidad.
+ 2.1.2. Por su parte, la Estrategia de País 2016–2019, presenta como uno de sus objetivos
+         apoyar la reorientación de la economía con el establecimiento del sector privado como el
+         principal motor del desarrollo económico conducente a un mayor crecimiento, generación
+         de empleo y reducción de las desigualdades sociales. Como mencionamos, la
+         inseguridad impone a las empresas argentinas efectos directos (robos, costo de seguros
+         y seguridad privada, pérdida de productividad laboral por victimización de empleados) e
+         indirectos (a través de los mercados laborales y acumulación de capital humano),
+ 1 Goulas, E. (2013). Economic growth and crime: does uncertainty matter? Applied Economics Letters. Jiménez
+   Ornelas, R. A. (2003). Experiencia de participación ciudadana en el combate a la inseguridad. Violencias y conflictos
+   urbanos : un reto para las políticas públicas. Medellín: Instituto Popular de Capacitación.
+                                                             7
+"
+"       incidiendo en el ambiente de negocios. Por lo tanto, el PSCI abarca el área estratégica
+       de “Mejora del ambiente de negocios” y el objetivo estratégico de ofrecer mayor seguridad
+       para empresas y personas que establece la Estrategia de País 2016–2019. Para el final
+       del PSCI el Gobierno Provincial promulga la Ley de Emergencia en Seguridad que
+       aseguraba recursos y mecanismos de contratación más ágiles para Ministerio de
+       Seguridad, realzando el deterioro y la prioridad de la seguridad ciudadana en la Provincia.
+2.1.3. Al momento de la aprobación del programa, el Plan Estratégico de Seguridad de la
+       Provincia de Buenos Aires que se venía implantando tenía como ejes principales la
+       reforma policial, la conducción estratégica por medio de civiles y la descentralización. Uno
+       de los ejes de este plan era la promoción de la participación comunitaria en la toma de
+       decisiones a través de los Foros de Seguridad. EL PSCI se alineaba de forma directa con
+       los objetivos de dicho plan estratégico. Para el final del PSCI el Gobierno Provincial
+       promulga la Ley de Emergencia en Seguridad que aseguraba recursos y mecanismos de
+       contratación más ágiles para Ministerio de Seguridad, realzando el deterioro y la prioridad
+       de la seguridad ciudadana en la Provincia, lo que demuestra claramente que el programa
+       se encontraba alineado con las necesidades provinciales actuales. Es por eso que,
+       durante los últimos dos años de ejecución, se realiza el principal producto: el renovado
+       Sistema de Atención de Emergencias.
+               b. Alineación estratégica
+2.1.4. El Banco para reducir la pobreza y la desigualdad y promover el crecimiento sostenible
+       ha definido cinco prioridades sectoriales para accionar: (a) Política social favorable a la
+       igualdad y la productividad. (b) Infraestructura para la competitividad y el bienestar social.
+       (c) Instituciones para el crecimiento y el bienestar social (d) Integración internacional
+       competitiva a nivel regional y mundial. (e) Protección del medio ambiente, respuestas al
+       cambio climático, promover la energía renovable y seguridad alimentaria.
+2.1.5. En este sentido, el PSCI contribuyó a la prioridad del Noveno Aumento General de
+       Recursos del Banco Interamericano de Desarrollo de mejora de instituciones para el
+       crecimiento y el bienestar social. La presencia de instituciones sólidas y eficaces es un
+       factor decisivo para el desarrollo de un país y, en particular, el correcto funcionamiento
+       de las instituciones responsables de la seguridad ciudadana desempeña un papel
+       esencial para la democracia y el bienestar social. Por lo tanto, debido a que todos los
+       productos y mejoras realizadas gracias a este proyecto estuvieron destinados al
+       fortalecimiento continuo del Ministerio de Seguridad de la PBA, el PSCI contribuyó
+       ampliamente a los objetivos planteados.
+2.1.6. Por otra parte, el Banco aprobó el año 2003 la primera estrategia sectorial que
+       explícitamente se refería a Seguridad Ciudadana en el marco de la Estrategia de
+       Modernización del Estado. Esta colocaba el imperio de la ley y la reforma en justicia como
+       una las principales prioridades para la Región al asumir que el desarrollo sostenible y
+       equitativo no era posible sin la predictibilidad legal e igualdad de los ciudadanos ante la
+       ley.
+                                                  8
+"
+"                c. Relevancia del diseño
+2.1.7. Lógica vertical al inicio del proyecto: Es de hacer notar que el PSCI data del año 2009,
+       cuando era común definir la lógica vertical de los proyectos del BID en función de
+       componentes (grupos de productos con alguna conexión a objetivos) en lugar de
+       identificar objetivos de desarrollo específicos cuya consecución se lograría con la
+       implementación de los productos agrupados en componentes (tal cual se persigue lograr
+       en los proyectos hoy). En esta sección reconstruimos la lógica vertical del proyecto
+       expresada en los documentos iniciales del préstamo para configurarla de forma tal que
+       los productos implementados se alineen con el logro de objetivos específicos en la
+       propuesta de préstamo. En la Figura 1 configuramos la lógica vertical al inicio del
+       proyecto. Identificamos cuáles de las actividades, bienes y/o servicios (productos)
+       financiados por el AR-L1074 se adquirieron para cumplir resultados en el documento del
+       préstamo y garantizar el logro de los objetivos específicos.
+                        Figura 1: Lógica vertical simplificada del PSCI
+2.1.8. Para poder desarrollar OB1 capacidades dentro del MS para el diseño y desarrollo de
+       políticas de prevención del delito y la violencia, se requería tener un Sistema de Atención
+                                                  9
+"
+"        de Emergencias SC1.1, que proveyera información tanto operativa como estratégica
+        rápidamente.
+2.1.9. De acuerdo a lo representado en la figura 1, para alcanzar los resultados asociados al
+        objetivo 2 (OB2) se precisó aumentar la cobertura del Sistema Integral de Emergencias
+        (SIE), el cual comprende al Sistema de Atención de Emergencias (SC1.1 SAE, software
+        a través del cual se gestionan las llamadas de emergencia que realiza el ciudadano), a
+        los Centros de Atención Telefónica de Emergencias (SC1.3 CATE) y a los Centros de
+        Despacho (CD).
+2.1.10. Por otro lado, la creación del Sistema de Información Delictual (SC 1.2) 2 permitiría
+        homogeneizar las denuncias realizadas en las comisarías y cargarlas en un servidor
+        central, brindándole al resto de las comisarías acceso a información substancial sobre
+        posibles hechos delictivos además de acelerar procesos judiciales. Estas mejoras en
+        disponibilidad y flujo de la información suministrarían un apoyo fundamental a la tarea
+        policial a la hora de rastrear delincuentes y sospechosos.
+2.1.11. Es de hacer notar que el diseño inicial del proyecto no planteó un mapeo unívoco de
+        productos con objetivos específicos ya que, en muchos casos, los productos
+        implementados contribuirían al logro de más de un objetivo específico. Tal es el caso, por
+        ejemplo, del Sistema de Información Delictual (SC 1.2), el cual, además de contribuir al
+        logro del objetivo OB2, es un bien público que también contribuye al fortalecimiento de la
+        participación ciudadana (OB3; el tercer objetivo específico del programa) debido a que el
+        ciudadano es capaz de comprobar que su denuncia fue registrada y está siendo atendida
+        por las autoridades, incentivando la ejecución de esta.
+2.1.12. Para complementar la cuantificación de la criminalidad, el PSCI financió la elaboración de
+        encuestas de Victimización y Percepción de la Seguridad Pública (SC 1.4), instrumento
+        de medición del fenómeno delictivo con características técnico-metodológicas y de
+        confiabilidad que permiten generalizar los resultados y obtener cifras sobre los delitos
+        cometidos y la percepción de inseguridad. En la lógica vertical del programa, se concibió
+        que la información generada por las encuestas de victimización contribuiría
+        principalmente al logro del OB1, al mejorar el conjunto de información disponible para el
+        Ministerio para el diseño de políticas de prevención y atención a la seguridad.
+2.1.13. Por su parte, los foros sobre violencia juvenil, maltrato y abuso infantil, seguridad
+        ciudadana y violencia familiar (SC 2.1) fueron pensados con el objetivo de promover la
+        prevención de la criminalidad a través del intercambio de información y experiencias (OB3
+        en el gráfico de la lógica vertical). Su principal función era llevar a cabo un diagnóstico de
+        la situación de la jurisdicción, reconociendo los principales conflictos. Este diagnóstico
+        brindaría un panorama de la percepción vecinal con respecto a los principales problemas
+        que tienen en sus barrios; no solo de hechos delictuales, denunciados o no, sino también
+        de su entorno: la zona, los espacios públicos, los horarios, y tipo de conflictos asociados.
+2.1.14. La prevención de la violencia de género (SC 3.2 en el gráfico de la lógica vertical)
+        consistía en las siguientes actividades coordinadas por la Dirección General de Género:
+2 También conocido como Sistema Único de Denuncias.
+                                                    10
+"
+"         (i) capacitación al personal policial (incluyendo capacitación a capacitadores para lograr
+         la sostenibilidad de la actividad) para cualificar su atención a las víctimas (decisiones y
+         pasos a seguir ante un caso de violencia) de manera que se genere una mayor calidad
+         en el servicio que brinda a la población; (ii) campañas de difusión sobre las implicancias
+         de la violencia de género y las herramientas que brinda el Estado para atender esta
+         problemática; y (iii) equipamiento informático y refacciones de infraestructura para
+         optimizar los recursos de las Comisarías de la Mujer y la Familia 3 (CMF) y para agilizar la
+         atención a víctimas. Todas estas actividades fueron pensadas para definir productos que
+         permitirían el logro del objetivo OB4.
+2.1.15. El primer objetivo de los programas de capacitación para el abordaje de la violencia
+         familiar y de género en el ámbito de la policía de la PBA (SC 3.2) fue conceptualizar este
+         tipo de violencia, los perfiles de los victimarios y de las víctimas, el tipo de trato que debe
+         recibir la víctima, sus derechos y las obligaciones de los denunciados. Otro de los
+         objetivos fue desarrollar herramientas técnicas para una correcta entrevista, en función
+         de las características propias del abordaje en esta materia como también propuestas que
+         permitan que los funcionarios policiales aborden de la misma forma y con la misma
+         dedicación, todos los casos que se les presenten. Por último, fortalecer el funcionamiento
+         conjunto con las CMF, el abordaje interinstitucional de la violencia familiar en todos sus
+         aspectos, y el vínculo con organizaciones pertenecientes a la comunidad.
+2.1.16. De esta forma, (i) las personas víctimas de violencia familiar y de género en la PBA
+         dispondrían de una atención primaria con operadores capacitados en diferentes
+         disciplinas con información y asesoramiento especializado y en condiciones de real
+         igualdad, independientemente de cualquier distinción de sexo, religión, raza, etc.; (ii) la
+         policía podría cumplir con la implementación de un modelo apropiado para un registro
+         unificado de casos de violencia familiar y de género, y realizar la derivación de todos los
+         casos; (iii) el MS podría aplicar el modelo de atención en todas las dependencias con
+         criterio equitativo, aunque conservando la idiosincrasia de cada lugar, logrando cumplir
+         con los protocolos de actuación basados en la presente capacitación, que permitan
+         optimizar la calidad de atención de las víctimas de violencia familiar y de género de cada
+         comunidad. Por lo tanto, la mejora en la calidad de atención funcionaría como promotora
+         e incentivaría el acceso a la justicia de las víctimas.
+2.1.17. Finalmente, uno de los ejes centrales de la política de prevención comunitaria de la
+         violencia en la Provincia de Buenos Aires, sería desarrollar programas para consolidar
+         espacios locales y estrategias comunitarias de orientación, asesoramiento y contención
+         de jóvenes en situación de vulnerabilidad social y riesgo, así como la promoción de
+         articulaciones interinstitucionales orientadas a la prevención de la violencia (SC 3.1). Los
+         proyectos destinados a jóvenes en situación de riesgo social y delictivo estarían
+         orientados a cuatro tipos: actividades artísticas; enseñanza deportiva; enseñanza de
+         oficios; y microemprendimientos. En base a esto y mediante actividades tales como:
+         (i) prevención de violencia intrafamiliar y violencia juvenil; (ii) control situacional del delito
+         y la violencia (creación de espacios comunitarios de convivencia, entre otros);
+3 Centros de atención a las mujeres víctimas de la violencia.
+                                                         11
+"
+"                 (iii) prevención de la violencia en escuelas, uso del tiempo en actividades de reinserción
+                 social de jóvenes, culturales y deportivas, el PCSI esperaba contribuir a la reducción de
+                 la tasa de jóvenes involucrados en eventos delictivos o actos violentos.
+       2.1.18. En resumen, la lógica vertical de la cadena de resultados propuesta fue acertada en
+                 cuanto a los impactos previstos. Los productos de los diferentes componentes del PSCI
+                 se concibieron para efectivamente contribuir a la consecución de los objetivos de
+                 desarrollo establecidos afectando los indicadores de resultado expresados.
+                                                Tabla N° 1. Matriz de resultados
+                                                                                          En elegibilidad +              Al terminar el
+                                                                  En aprobación
+                                             Unidad de                                           60 días                     proyecto
+             Indicadores
+                                               Medida
+                                                                 Línea de      Meta        Línea de       Meta       Línea de      Alcanzado
+                                                                   Base          (P)         Base          (P)         Base             (A)
+ Resultados
+ Objetivo específico 1: Desarrollar capacidades del MS para el diseño y desarrollo de políticas de prevención del delito y la
+ violencia, promoviendo la participación comunitaria;
+ 1.1 Tiempo de atención de
+                                               Segundos             125           55          125           55           125             88
+ emergencias*
+ Objetivo específico 2: Reducción en los niveles de delitos previsibles, robos y lesiones
+                                           Delitos / 100.000
+ 2.1 Tasa de delitos totales**                                     1843         1671         1843         1671          1843           2102
+                                               habitantes
+                                            Robos / 100.000
+ 2.1 Tasa de robos**                                                132          119          132          119           132            375
+                                               habitantes
+                                           Lesiones / 10.000
+ 2.2 Tasa de lesiones**                                              25           23           25           23            25             43
+                                               habitantes
+ Objetivo específico 3: Incremento en la percepción de seguridad en las comunidades
+ 3.1 Personas entrevistadas que han
+                                              Porcentaje             39           33           39           33            39           39,8
+ sido víctimas de un delito
+ 3.2 Personas con percepción de
+                                              Porcentaje            88.1          72          88.1          72          88.1             75
+ inseguridad
+ Objetivo 4: reducción de lesiones relacionadas con violencia doméstica, abuso sexual y violencia juvenil
+ 4.1 Tasa de jóvenes involucrados en      Jóvenes / 100.000
+                                                                    179          143          179          143           179           41,7
+ eventos delictivos o actos violentos**       habitantes
+ 4.2 Acceso a la justicia de víctimas de      Denuncias
+                                                                  44.266       88.532       44.266       88.532        44.266        255.187
+ violencia de género                      registradas totales
+* Indicador no mencionado em la MR original, pero incluido para lograr una medición del resultado logrado en el objetivo específico 1.**
+Indicadores no comparables entre períodos
+Está basada en una reinterpretación de la matriz de resultados en el POD que incluye solamente los indicadores que reflejan el logro de
+       2.1.19. Limitaciones de la lógica vertical: tal cual se describe a continuación, durante la última
+                 parte de ejecución del PSCI al realizar el análisis de los indicadores a ser reportados al
+                 final de la ejecución se identificaron las debilidades que se destacan a continuación.
+                                                                      12
+"
+"2.1.20. En primer lugar, no se previó que los indicadores escogidos para medir la mejora de la
+        seguridad (como por ejemplo la tasa de delitos) pudieran variar como resultado de la
+        mejora en el funcionamiento y alcance de los sistemas de atención de emergencia y de
+        reporte. Se puede aseverar que los eventos de crimen registrados, los cuales son
+        generalmente sub-reportados, se incrementarían con las mejoras en los sistemas de
+        información reduciendo el error de medición que a estos se asocia. Consecuentemente,
+        una comparación incondicional basada en la variación temporal de las tasas de delitos
+        antes y después del programa resulta espuria para juzgar si el PSCI cumplía con los
+        objetivos de reducción de la actividad criminal que el programa se propuso.
+2.1.21. En segundo lugar, tampoco se contempló en la elección de los indicadores de resultado
+        que, de ser exitoso, el programa PSCI mejoraría los incentivos de los residentes de la
+        Provincia de Buenos Aires a reportar actividad criminal, lo cual también podría
+        incrementar el conteo del número de crímenes que son insumos para el cálculo de las
+        tasas de actividad criminal. Si tal fuera el caso, la variación en el tiempo de las tasas de
+        delitos no informa de manera adecuada la consecución de los objetivos propuestos al
+        inicio del programa.
+2.1.22. En tercer lugar, es importante destacar que en 2009 se relevó una línea de base para el
+        cómputo de los indicadores de resultado con el objetivo de poder compararlos una vez
+        concluido el proyecto. Sin embargo, las fuentes utilizadas en 2009 carecían de
+        representatividad a nivel provincial ya que los indicadores se construyeron en base a solo
+        dos partidos de la PBA. Por el contrario, al finalizar el programa en 2017, gracias a las
+        mejoras y avances en términos estadísticos dentro del MS (un resultado del proyecto), el
+        Ministerio fue capaz de proveer los indicadores necesarios, pero mucho más precisos,
+        confiables y con representatividad provincial. Si bien este es un aspecto muy positivo que
+        refleja un avance en las capacidades de este organismo, ocasiona que los indicadores
+        no sean comparables con los registrados en la línea de base original. El ejemplo que se
+        puede citar claramente son los indicadores del Objetivo específico 2, los mismos que en
+        vez de reducirse se incrementan. Los únicos indicadores exentos a esta problemática y
+        que, por lo tanto, es posible realizar una comparación entre ambos períodos son los
+        resultados correspondientes al segundo componente y el “Acceso a la justicia de víctimas
+        de violencia de género” del componente número tres.
+2.1.23. En cuarto lugar, la dilación en el comienzo de la ejecución física y financiera del proyecto
+        causada por diversos motivos vinculados a la capacidad institucional provocó que la línea
+        de base quedara muy lejos del momento de la efectiva ejecución, lo que también debilita
+        la lógica vertical. En primer lugar, la firma del contrato y el cumplimiento de las
+        condiciones previas aportaron al tiempo de alejamiento de la línea de base inicial,
+        posteriormente los procesos de adquisiciones tuvieron un desarrollo muy lento, debido
+        principalmente a la falta de conocimiento y los pasos a realizarse internamente para las
+        adquisiciones con recursos del crédito.
+2.1.24. Es de hacer notar que, a pesar de que fueron concebidos cuando el proyecto fue
+        diseñado, los productos resaltados en color rojo en la Figura 1 no se implementaron. La
+        ausencia de estos productos debilita la lógica vertical ya que limita la oportunidad de
+        alcanzar los objetivos definidos al inicio del proyecto. El diseño del proyecto claramente
+                                                  13
+"
+"        definía que los resultados debieran ser alcanzados como suma de los diferentes
+        productos en el entendido que el aporte que podía hacer cada uno. Por ejemplo, para el
+        producto 1, se requería no solamente que el Sistema de Emergencias funcione en forma
+        mejorada, sino que el Ministerio de Seguridad articule nuevas políticas de seguridad
+        basándose en la información generada por el Sistema. Esto iba a ser posible con la
+        mejora de los procesos internos del Ministerio tomando en cuenta la generación de
+        información en tiempo real. Si bien esto se logró parcialmente por la dinámica de
+        ejecución del PSCI que requería de una unidad especializada en la gestión de TCI, no se
+        pudo realizar la conexión de la información con el área de explotación de datos del
+        Ministerio.
+2.1.25. El tiempo transcurrido entre la elaboración técnica de la operación y su entrada en vigor,
+        condujo a que, si bien los objetivos y la estructura de componentes del programa
+        siguieran teniendo validez, hubiera un cierto desfase en cuanto a la oportunidad y
+        pertinencia de algunos de los productos previstos originalmente. Algunos productos
+        habían sido ya financiados y ejecutados directamente por el Gobierno de la Provincia de
+        Buenos Aires mientras que otros nuevos aparecen como útiles para el logro de los
+        resultados y objetivos del PSCI. Para enfrentar esta situación la Unidad Coordinadora del
+        Ministerio de Justicia y Seguridad, el Ministerio de Economía de la Provincia de Buenos
+        Aires y el Banco acordaron ajustar los productos y el presupuesto del Programa,
+        manteniendo tanto los objetivos, resultados y componentes de este. El PMR refleja el
+        resultado de las conversaciones y refleja el conjunto productos que son relevantes tanto
+        para el logro de los resultados del Programa como a las líneas de acción estratégica que
+        tiene la Provincia en materia de seguridad. Cabe señalar que los principales y más
+        importantes productos previstos originalmente en la operación se encontraban incluidos
+        en esta programación. La reformulación de los productos no influenció en el logro de los
+        resultados del PSCI, era principalmente una alineación de prioridades y recursos.
+2.1.26. Si bien la selección de los indicadores del PSCI podrían ser considerados como no
+        SMART, una detección oportuna o durante el diseño no habría cambiado los productos
+        de este, sino solamente la forma de medir el impacto de los productos que el programa
+        debía proveer al final de su ejecución, la búsqueda de evidencia empírica para medir el
+        impacto de la implementación de un Sistema de Atención de Emergencias hubiera sido
+        necesaria, o en su defecto simplemente hacer evidente esta debilidad y medir el proyecto
+        solamente en base a los productos de cada componente.
+                                                14
+"
+"                                Tabla N°2. Evaluación de la relevancia
+          Contribución a las   Contribución a las
+                                                     Lógica vertical    Clasificación   Valor
+          políticas del País  políticas del Banco
+           Completamente        Completamente                           Parcialmente
+                                                         Débil                           2
+              alineado              alineado                           insatisfactoria
+2.2     Efectividad
+                  a. Declaración de objetivos de desarrollo del proyecto
+ 2.2.1. El objetivo general del PSCI era contribuir a la disminución de los niveles de delitos,
+        violencia e inseguridad en la PBA mediante el mejoramiento de la capacidad del Ministerio
+        de Seguridad, el fortalecimiento de la participación comunitaria y la implantación de
+        programas de prevención que promueven factores de protección en comunidades,
+        familias e individuos. Los objetivos específicos fueron: (i) desarrollar capacidades del MS
+        para el diseño y desarrollo de políticas de prevención del delito y la violencia,
+        promoviendo la participación comunitaria; (ii) reducción en los niveles de delitos
+        previsibles, robos y lesiones; (iii) incremento en la percepción de seguridad en las
+        comunidades; y (iv) reducción de lesiones relacionadas con violencia doméstica, abuso
+        sexual y violencia juvenil. Los resultados esperados por componente fueron: (i) Tiempo
+        de atención de emergencias; (ii) Tasa de delitos totales, Tasa de robos, y Tasa de
+        lesiones; (iii) Personas entrevistadas que han sido víctimas de un delito, y Personas con
+        percepción de inseguridad; y (iv) Tasa de jóvenes involucrados en eventos delictivos o
+        actos violentos y Acceso a la justicia de víctimas de violencia de género.
+                  b. Resultados logrados
+ 2.2.2. Al observar la Tabla N° 1, de los tres indicadores en donde realmente es posible marcar
+        una evolución entre 2009 y 2017, solo el referido al “Acceso a la justicia de víctimas de
+        violencia de género” logró alcanzar el valor propuesto como meta. En el caso de la
+        cantidad de “Personas entrevistadas que han sido víctimas de un delito”, vale aclarar que
+        su paso de 39 a 39,8%, al haberse modificado tanto el método de relevamiento de la
+        encuesta como el marco muestral, la diferencia puede deberse a errores muestrales y no
+        ser estadísticamente significativas. Mientras que en términos de “percepción de
+        inseguridad”, a pesar de no alcanzar el valor revisado en 2012, se logró una disminución
+        significativa, por debajo de los niveles que establecía la meta original del proyecto.
+ 2.2.3. Por otro lado, en la Tabla N° 5 se detallan los productos planeados y alcanzados por el
+        PSCI. Dentro de los comprendidos por el componente número uno, se destaca el logro
+        de la puesta en marcha, modernización y refacción de los tres CATE, que a su vez
+        permitieron el aumento en la cobertura del SIE mencionado anteriormente.
+ 2.2.4. Con respecto al Sistema de Información Delictual, pudo implementarse solamente en 10
+        comisarías donde debieron realizarse inversiones en infraestructura necesarias para su
+        correcto funcionamiento. Este requerimiento tanto de conectividad como de hardware fue
+        el principal motivo de su baja implementación en relación con la meta fijada. Para la
+                                                  15
+"
+"       provisión de la conectividad y hardware se requería la realización de un proceso de
+       adquisiciones que finalmente quedó incompleto debido a la expiración del plazo de
+       desembolso del PSCI. Si bien este proceso había sido iniciado mucho antes de la fecha
+       final de ejecución, los retrasos se dieron debido a múltiples instancias de revisión por
+       parte de organismos provinciales que se encuentran fuera del Ministerio de Seguridad.
+                             Tabla N° 3. Cobertura del SIE 911 al 2017
+                    CATE         Población (hab.)          Superficie (km²)    Partidos
+               La Plata       10.742.468        62,5%      12.216        4,0% 30     22,2%
+               Mar del Plata   3.867.689        22,5%      87.686       28,8% 38     28,1%
+               Campana         1.504.205         8,7%      31.825       10,4% 25     18,6%
+               Total CATE     16.114.362        93,7%     131.728       43,2% 93     68,9%
+                                       Fuente: Alcance SIE 911, MS.
+2.2.5. En cuanto a las encuestas de victimización, a pesar de que en los reportes de monitoreo
+       de proyecto (PMR) solo figura la realización de una encuesta, realmente se trataron de
+       dos. Esta discrepancia se debe a que la primera se realizó de forma presencial tal y como
+       había sido planeado, mientras que la segunda se trató de una encuesta de menor
+       dimensión y de modalidad telefónica. Fue efectuada entre los meses de marzo y abril de
+       2017, sobre una muestra de 4.400 personas mayores de 16 años que habitan en el GBA,
+       utilizando como guía general un cuestionario estandarizado para Latinoamérica
+       propuesto por el BID y Naciones Unidas.
+2.2.6. Dentro del componente dos, los foros con las temáticas de “Prevención de la violencia
+       juvenil, seguridad ciudadana de adultos mayores, violencia familiar, maltrato y abuso
+       infantil” ascendieron a 61 en el transcurso de la implementación del PSCI y estuvieron
+       conformados por vecinos, asociaciones civiles, Organizaciones No Gubernamentales,
+       organizaciones sociales y de barrios. Con el objetivo de tener un mayor alcance territorial
+       fueron desarrollados en diferentes partidos de la PBA como Alberti, Bragado, Carmen de
+       Areco, Chivilcoy, Ituzaingó, Florencio Varela, Gral. Rodriguez, Gral. Viamonte, Luján,
+       Lobos, Presidente Perón, Punta Indio, Saladillo, Tres de Febrero, Veinticinco de Mayo,
+       entre otros.
+2.2.7. Para el componente número tres, si bien las capacitaciones efectuadas gracias al
+       proyecto no alcanzaron las metas establecidas, se logró el entrenamiento en términos de
+       atención dirigida hacia víctimas de violencia de género de una gran cantidad de
+       funcionarios, completando en un 93% los objetivos fijados originalmente y en un 86% los
+       redefinidos en 2012.
+                                                    16
+"
+"                                      Tabla N° 4. Tabla de resultados alcanzados**
+                                                             Unidad de     Linea de
+                          Resultados                                                 Planeado Realizado  Ratio
+                                                              medida         base
+Objetivo específico 1: Desarrollar capacidades del MS
+para el diseño y desarrollo de políticas de prevención del
+delito y la violencia, promoviendo la participación
+comunitaria;
+  1.1 Tiempo de atención de emergencias                     Segundos             125       55         88       53%
+Objetivo específico 2: Reducción en los niveles de delitos
+previsibles, robos y lesiones
+                                                            Delitos      /
+  2.1 Tasa de delitos totales*                              100.000            1843      1671      2102     -150%
+                                                            habitantes
+                                                            Robos        /
+  2.1 Tasa de robos*                                        100.000              152      119        375    -675%
+                                                            habitantes
+                                                              Lesiones /
+  2.2 Tasa de lesiones*                                     10.000                25       23         43    -900%
+                                                            habitantes
+Objetivo específico 3: Incremento en la percepción de
+seguridad en las comunidades
+   3.1 Personas entrevistadas que han sido víctimas de un
+   delito                                                                         39       33       39.8  -13.33%
+   3.2 Personas con percepción de inseguridad                                   88.1       72         75   81.36%
+Objetivo 4: reducción de lesiones relacionadas con
+violencia doméstica, abuso sexual y violencia juvenil
+4.1 Tasa de jóvenes involucrados en eventos delictivos o
+actos violentos*                                                           179       143      41.7       381%
+4.2 Acceso a la justicia de víctimas de violencia de género
+                                                                           42.266    88.532   255.187    463%
+     2.2.8. Por último, destacamos de nuevo que existieron tres productos que nunca fueron puestos
+               en marcha: las mejoras de procesos internos del Ministerio de Seguridad, las acciones
+               de generación de conocimiento y los proyectos de prevención de la violencia,
+               correspondientes a los componentes uno, dos y tres, respectivamente (resaltados en rojo
+               en la Figura 1). Este es un factor importante también a la hora de comparar resultados
+               previstos y logrados por la sinergia que alguno de estos podría haber tenido a la hora de
+               potenciar los efectos de algún otro producto.
+     2.2.9. Los retrasos en la ejecución del Programa no influyeron en el logro de los indicadores
+               mostrados en la Tabla Nº 4, si la ejecución hubiera sido en el tiempo en que se diseñó el
+               PSCI, los logros probablemente hubieran sido similares.
+                          c. Análisis contrafactual
+     2.2.10. Tal cual se menciona en el párrafo 2.1.20, para contribuir a documentar atribución entre
+               los productos consolidados por el programa PSCI y los resultados asociados, el equipo
+               del PCR estimó que, si bien no existe una relación causal entre las mejoras del PSCI y la
+               reducción de los indicadores de crimen, efectivamente existe una correlación entre la
+               reducción de la respuesta y la satisfacción de los ciudadanos con el servicio que presta
+                                                                17
+"
+"        la policía. Esto tomando en cuenta que aproximadamente 25% de los crímenes
+        reportados al 911 pueden ser impedidos con una rápida respuesta de la policía (Wrobleski
+        & Hess 2000). Por otra parte, existe evidencia de que el policiamiento en pequeñas áreas
+        definidas principalmente como puntos calientes de crimen reduce los índices de
+        criminalidad. El Center for Evidence-Based Crime Policing incluye esta metodología como
+        una de las prácticas que, implementada adecuadamente que funciona en lucha contra el
+        crimen, entre otros autores Braga y Bond (2008), Kennedy et al. (2015) y Weisburd et al.
+        (2015) aportan a evidenciar esto. En el marco de este PCR se realizó un análisis de
+        evaluación de impacto de los efectos del PSCI sobre los indicadores de crimen a nivel
+        provincial. El análisis realizado muestra que el PSCI tuvo una asociación negativa con
+        indicadores de crimen contribuyendo a su reducción. Dicho análisis es una evaluación
+        descriptiva no-experimental, razón por la cual no representa una estimación causal (Ver
+        Flash Evaluation). En el caso específico del PSCI la cadena causal claramente apunta al
+        efecto que tuvo la implementación del Sistema de Atención de Emergencias en la
+        tendencia de reducción de los indicadores, dada la comparación que se realizó con
+        provincias dónde ningún sistema no fue implementado durante el tiempo de la evaluación.
+        En el caso de las encuestas de victimización, no tienen ningún efecto sobre la posibilidad
+        de reducción de los indicadores de criminalidad, sino indirectamente mediante la
+        información para mejorar la producción de políticas públicas que permitan finalmente
+        reducir el crimen, pero que en el lapso de ejecución del PSCI no se pudo constatar. Por
+        otra parte, el sistema de información delictual, de haberse implementado completamente
+        hubiera aumentado inicialmente los indicadores, al poder captar una enorme cantidad de
+        cifras negras de delitos no denunciados o perdidos en los sistemas obsoletos de control.
+        Por último, la capacitación en asistencia a las víctimas de violencia de género no puede
+        ser atribuida la mejora de los indicadores relacionados a la violencia doméstica, abuso
+        sexual y juvenil, la posibilidad de aislar sus efectos no es practicable.
+2.2.11. Atribución de productos para el logro del objetivo específico OBE1: Por otro lado, las
+        encuestas de victimización (SC 1.4) fueron diseñadas para informar de forma
+        comprensiva a las autoridades sobre la incidencia y prevalencia del delito, información
+        que se utiliza conjuntamente con los registros administrativos (policía, justicia, sistema
+        penitenciario, centros de salud, etc) para optimizar la toma de decisiones en temas de
+        seguridad. Nótese que, a diferencia de las encuestas de victimización, las formas
+        convencionales que cuantifican la incidencia delictiva se caracterizan por el sub-registro
+        ya que se consideran únicamente los delitos denunciados ante las autoridades, quedando
+        fuera una gran proporción de eventos que no son denunciados. Estudios realizados
+        demuestran que una gran mayoría de ciudadanos optan por no denunciar los delitos de
+        los que han sido víctimas, entre otras razones, por temor a represalias; por la pérdida de
+        tiempo que implica la denuncia; por considerar que el daño fue irrelevante o bien porque
+        recibieron un mal trato por parte de las autoridades (Jaitman y Anauati 2015).
+2.2.12. Un segundo aspecto que limita la posibilidad de contar con un conocimiento real del
+        problema criminal que es corregido (de forma parcial) por las encuestas de criminalidad,
+        es la inconsistencia en los registros oficiales. No todos los delitos denunciados se
+        contabilizan en las estadísticas finales, ni en su totalidad, ni de forma homogénea entre
+                                                   18
+"
+"         las agencias encargadas. Hay errores de procedimiento, discrecionales y/o corrupción
+         dentro de los sistemas de procuración y administración de justicia. Junto con la ausencia
+         de denuncia ciudadana mencionada anteriormente, la manipulación de las cifras por parte
+         de las autoridades se genera lo que se conoce como “cifra oculta” de la delincuencia
+         (Jiménez Ornelas, 2003). Las encuestas de victimización (SC 1.4) vendrían a mejorar
+         tales limitantes en los sistemas de información delictiva existentes.
+2.2.13. Atribución de productos para el logro del objetivo específico OBE2: Las mejoras en el
+         SAE (SC 1.2) y la implementación del sistema de información delictual (SC 1.2) ambos
+         implican una mayor facilidad para detectar eventos delictivos. Sin embargo, tal cual fue
+         explicado en la sección de relevancia en el diseño, estos productos, si bien pueden llevar
+         a una reducción objetiva en el crimen, impactan el numerador de la tasa de criminalidad
+         (permiten aumentar el número de casos que los efectivos policiales logran detectar). En
+         el marco del PSCI, la mejora en la atención de emergencias no redundaría en una
+         disminución de las tasas de delincuencia, sino todo lo contrario, ya que gracias al PSCI
+         hoy en día es posible detectar eventos que antes no llegaban a ser registrados por la
+         policía. 4
+2.2.14. Previo a la implementación del programa, la cobertura del SAE (SC1.1) llegaba solo al
+         60% de la población y al 34% del territorio de la PBA. A partir de la creación, refacción y
+         acondicionamiento de los CATE, los niveles actuales alcanzan un 93,7% de la población
+         y un 43,2% del territorio, abarcando 93 partidos, tal y como puede observarse en la Tabla
+         N° 1. Además de ampliar su campo de acción, el SAE fue modernizado, permitiendo,
+         entre otras cosas, una complementación con el sistema de información antes
+         mencionado. Aquí se destaca el financiamiento del equipamiento, mobiliario y software
+         para los CATE, la construcción de un nuevo centro de atención y rehabilitación de centros
+         de despachos, la capacitación en la aplicación del sistema; y la asistencia técnica para
+         apoyar al MS en la revisión, análisis y validación de la expansión del SAE. Sumado a
+         esto, las reformas del sistema permitieron detectar fallas internas no solo en la captación
+         de las emergencias sino en el tratamiento de estas por medio de, por ejemplo, los CD.
+         Además, fue necesario homogeneizar tanto el equipamiento como los conocimientos
+         mediante Procesos de Formación y capacitación continua tanto en los CATE como en los
+         CD que conforman el SIE.
+2.2.15. Es de hacer notar que las modificaciones en los sistemas de información que, por
+         ejemplo, permitirían realizar una mejor planificación de patrullajes o detectar zonas
+         “calientes”, terminaron de implementarse avanzado el año 2017. Por lo tanto, el uso de la
+         georreferenciación de los eventos delictivos y otras nuevas características en cuanto a
+         información disponible proveniente del nuevo sistema seguramente aún no estén siendo
+         aprovechadas al cien por ciento en el análisis estratégico del crimen debido a que se
+         requiere avanzar en el uso de tecnologías adicionales como motores de búsqueda o algún
+4  En este sentido, tal vez hubiera sido más propicio pensar en algún otro indicador intermedio para medir
+  los resultados de las mejoras en el sistema de atención de emergencia, dejando a la tasa de delitos solo
+  como un indicador de impacto. Un ejemplo de indicador intermedio podría ser el número de llamados que
+  no logran atenderse, este lograría reflejar si existió una mejora en el sistema de atención de emergencias
+  no estando tan influido por otros factores como sí lo está la tasa de delitos cometidos.
+                                                        19
+"
+"        tipo de software específico que permita procesar de manera eficiente y rápida los datos
+        que recoge el sistema. Por lo tanto, es muy probable que los productos finalmente
+        contribuyan a la mejora de los indicadores establecidos, pero, para ser atribuibles, es
+        necesario aguardar algún tiempo para que esta nueva información sea utilizada y
+        aprovechada de la mejor forma posible en la planificación del accionar policial.
+2.2.16. Las mejoras instauradas en el SIE y los CATE permitieron sistematizar y organizar de
+        una manera más eficiente los datos que se recolectan a partir de las llamadas de
+        emergencias. Como mencionamos anteriormente, las ventajas de disponer de esta nueva
+        información seguramente no han sido del todo explotadas aún, sin embargo, los alcances
+        de su uso no se limitan a la planificación policial del Ministerio de Seguridad. Por ejemplo,
+        la London School of Economics (Buenos Aires 911 Emergency Calls Assessment, Tom
+        Kirchmaier, 2018) realizó un estudio donde crean un modelo predictivo que pronostica las
+        emergencias per cápita según categorías de los sucesos delictivos, utilizando datos de
+        llamadas recuperadas de la compañía de telefonía que presta servicios para el 911,
+        valiéndose a su vez de datos demográficos y geográficos externos. Este tipo de estudios
+        permite identificar en qué áreas se observará una mayor demanda para la atención de un
+        tipo determinado de emergencia, así como comprender cuales de estos resultan más
+        predecibles o prevenibles que otros. A su vez, realizan una comparación entre los
+        sistemas de emergencia de Manchester y la PBA. Este estudio se encuentra dentro de
+        los archivos anexos a este PCR.
+2.2.17. Asimismo, la generación de datos estratégicos y su correspondiente análisis, posibilitó
+        generar acciones preventivas con otros Organismos gubernamentales. Por ejemplo, un
+        convenio entre el Ministerio de Seguridad y el Ministerio de Educación de la Provincia de
+        Buenos Aires, para la creación del programa Educar 911, dirigido a niños que cursan el
+        primer ciclo en escuelas primarias, con el objetivo de dar a conocer el servicio que brinda
+        el 911 al ciudadano, y la relevancia y el costo que tiene para la sociedad su uso incorrecto,
+        por ejemplo, al realizar bromas o amenazas de bomba.
+2.2.18. Por último, el documento sobre “Alcance del SIE 911” disponible como anexo a este PCR
+        reúne basta información acerca de muchos más avances y desarrollos logrados gracias
+        al PSCI en dicho componente. Dejando de lado el gran incremento en la cobertura ya
+        mencionado y que sin duda era un punto muy fuerte dentro del proyecto, las mejoras en
+        el funcionamiento del servicio, la calidad de la atención, la profesionalización del personal,
+        la formulación de manuales de procedimiento y el desarrollo de la gestión en general de
+        todo el sistema pueden considerarse resultados sumamente positivos no contemplados
+        dentro de la matriz de resultados y que le permite al ciudadano recibir un servicio de
+        excelencia en la atención de emergencias.
+2.2.19. Atribución entre productos y logros del objetivo específico OBE4: El programa ha logrado
+        este objetivo mediante las capacitaciones a funcionarios efectuadas que, en conjunto con
+        las mejoras en el SIE, aportan la posibilidad de estandarizar y brindar información
+        confiable a las diferentes agencias de gobierno con competencia en violencia doméstica,
+        abuso sexual y violencia juvenil. Los foros sobre violencia juvenil, maltrato y abuso infantil,
+        seguridad ciudadana y violencia familiar (SC 2.1) generan información que es procesada
+        y al Foro, el cual jerarquiza los problemas, analiza el grado de riesgo y conflictividad e
+                                                   20
+"
+"        inicia el proceso de identificar estrategias a ser implementadas. De esta forma,
+        incrementando la participación ciudadana para plantear acciones conjuntas que
+        permitirían reducir de laguna manera la sensación de inseguridad, esto dependiendo de
+        la estructura organizacional de la policía y Ministerio de Seguridad arguye Yanilda
+        Gonzalez (2016)
+2.2.20. En cuanto a las políticas de género que fueron implementándose en los últimos años en
+        la PBA, lógicamente, estas son impulsadas principalmente por los pedidos de la sociedad,
+        pero también es verdad que las más de 25 mil capacitaciones financiadas por el proyecto
+        y el involucramiento de las autoridades necesario para realizarlas acompaña fuertemente
+        la creación de políticas relacionadas a estos temas. Algunos ejemplos de políticas
+        referidas a la violencia de género son la Línea 144 (cuenta con 70 operadores y está
+        disponible desde 2016), el Fondo de emergencia para áreas de género de los municipios,
+        la Red de refugios (44 hogares que se espera que sean 50 en el 2019) y la aplicación de
+        celular “Seguridad Provincia” que funciona desde 2017 y en 2018 comenzó a incorporar
+        denuncias de violencia de género.
+                d. Resultados imprevistos
+2.2.21. La generación de una cantidad enorme de datos en el Sistema de Emergencias ocasionó
+        la creación de un división de estadísticas dentro del centro de operaciones del 911
+        dependiente del área tecnológica y se plantea la necesidad de integrar no solamente los
+        datos de emergencias sino los datos de denuncias de hechos delictivos realizadas en las
+        Delegaciones Policiales para lo cual la PBA realizó una Licitación Pública Internacional
+        para la adquisición de una “Solución de Conectividad para 500 Delegaciones Policiales
+        de la Provincia de Buenos Aires”. Esta involucra Routers Core y CPE, Access Points,
+        Racks, Plataformas de Gestión en la nube de Red Inalámbrica y de Gestión WAN,
+        Cámaras HD y el servicio de instalación, configuración y capacitación de técnicos del
+        Ministerio para el mantenimiento del equipamiento y el sistema a adquirir. Esta solución
+        es la base sobre la cual el MS, a través de la Dirección General de Recursos Informáticos
+        y Comunicaciones, pretende instrumentar su Plan de Modernización Tecnológica y de
+        administración de la información
+                                                 21
+"
+"                                     Tabla N° 1. Productos alcanzados y metas
+                                                                                                           Ratio de
+                         Producto                           Indicador     Planeado Revisado Alcanzado
+                                                                                                            logro
+ Componente 1
+  1.1 Cobertura Provincial del SAE ampliada                Localidades           93          496      496     100%
+  1.2 Sistema de Información Delictual implementado        Comisarias           209          510       10        2%
+  1.3 Centros de Atención de Emergencias
+                                                           CATE                   2            3         3    100%
+refaccionados
+  1.4 Encuestas de victimización realizadas                Encuestas              2            1         1    100%
+  1.5 Mejora de procesos en el MS                          Procesos               0            2         0       0%
+ Componente 2
+  2.1 Foros vecinales constituidos                         Foros                 71           71       61       86%
+  2.2 Acciones de generación del conocimiento              Acciones               2            2         0       0%
+ Componente 3
+   3.1 Proyectos de prevención de la violencia
+                                                           Proyectos              5            6         0       0%
+   implementados
+   3.2 Personal de seguridad capacitado en
+                                                           Funcionarios      30.000      32.917    27.917       85%
+   asistencia a las víctimas de violencia de género
+                                      Tabla N° 2. Evaluación de la efectividad
+                                                                     Promedio
+             N° de indicadores    Promedio de   N° de indicadores
+                                                                      de logro      Clasificación  Valor
+               de resultados        logro (%)      de productos
+                                                                         (%)
+                                                                                    Parcialmente
+                     8               88.83%              9              53%                          2
+                                                                                   insatisfactorio
+  2.3     Eficiencia
+ 2.3.1. El costo planeado del programa fue de US$36,6 millones, de los cuales US$25 millones
+          correspondían a financiamiento del BID y US$11,6 millones al aporte local. Sin embargo,
+          el costo final del proyecto fue de US$31.347.807,2 US$24.663.574,38 financiados por el
+          BID y US$6.684.22,821 por el gobierno local. Es decir que la PBA logró aportar solo el
+          57% de lo previsto, mientras que el Banco desembolsó el 98% del monto del
+          financiamiento. Todos estos datos pueden encontrarse en la Tabla N° 6 y en el Gráfico
+          N° 1.
+ 2.3.2. Además, la distribución de fondos entre los distintos componentes del PSCI no coincidió
+          con la planificación original establecida. Tal y como podemos observar en el Gráfico N° 2,
+          casi la totalidad del dinero se destinó al desarrollo de los productos del componente
+          número 1, es decir, al mejoramiento de la capacidad institucional del Ministerio de
+          Seguridad. La propuesta inicial del proyecto establecía la siguiente distribución de los
+          montos: 58% destinado al primer componente, 27% al segundo, 6% para el tercero y el
+          resto para gastos administrativos, auditorías, evaluaciones e imprevistos. Las principales
+          causas que originaron el sesgo hacia este componente fueron la subestimación de costos
+                                                           22
+"
+"       planeados para la renovación del Sistema de Atención de Emergencias y las dificultades
+       fiduciarias para lograr la ejecución del resto de los productos planeados por parte de la
+       Unidad Ejecutora Específicamente los productos: Sistema de reempadronamiento al
+       personal policial, Equipamiento para prevención de la violencia adquirido y Plan de
+       Comunicación del Ministerio de Seguridad diseñado, no pudieron ser adquiridos dando
+       cumplimiento de los procedimientos de adquisiciones provinciales dentro del tiempo
+       extendido de desembolsos. La extensión fue justificada principalmente por los recursos
+       comprometidos en el contrato para el Sistema de Atención, con la expectativa de que este
+       proceso, y otros pequeños que estaban por iniciarse, culminaran dentro del plazo
+       extendido. Esto no pudo concretarse dado que si bien se iniciaron los procesos de
+       adquisiciones para el equipamiento para prevención de violencia y el plan de
+       comunicación, no se pudieron culminar y una nueva extensión de la fecha de último
+       desembolso no estaba lo suficientemente justificada.
+2.3.3. Por otro lado, se realizó un análisis de costo beneficio del PSCI para contrastar los gastos
+       con los beneficios obtenidos gracias a los productos desarrollados por el proyecto. Por el
+       lado de los beneficios se consideraron los ahorros para la PBA en forma de menores
+       gastos incurridos por el Sistema Público de Salud y menores pérdidas de ingresos
+       laborales a causa de ser víctima de algún acto delictivo o por abandonos escolares. Hay,
+       sin embargo, otros beneficios del Programa que no son cuantificados en este ejercicio
+       como consecuencia de falta de información adecuada o métodos para medir ciertos
+       aspectos. Este es el caso de la reducción en las percepciones de inseguridad.
+2.3.4. El valor de los flujos de fondos netos se ubica entre los US$28 y los US$33 millones
+       utilizando una tasa de descuento del 6% o del 12%, respectivamente. Estos cálculos
+       surgen bajo un escenario de optimismo moderado y considerando una atribución media
+       (50%) de la incidencia que el programa pueda haber tenido en los resultados obtenidos.
+       Esto implica un ratio de beneficios sobre costos de 1,84.
+2.3.5. El análisis de sensibilidad combinando escenarios con logros alternativos del Programa,
+       menor tasa de descuento, menor ocurrencia de lesiones graves y menores ingresos
+       promedio perdidos a causa de lesiones, no confirma por completo el carácter costo-
+       beneficioso del PSCI (supuestos más conservadores y una menor atribución de logros).
+       Sin embargo, el promedio de todos los escenarios simulados sí arroja un ratio de
+       beneficios sobre costos positivo.
+2.3.6. Por último, de los indicadores SPI y CPI calculados para el programa, se puede concluir
+       que durante los primeros años de ejecución el ratio entre el Costo Actual (AC) y el Valor
+       Planificado (PV) es mucho menor a la unidad, mejorando considerablemente a partir del
+       tercer año que es cuando el contrato para el sistema de atención de emergencias
+       comenzó a ser implementado. Para el último año de ejecución la relación entre el AC y el
+       PV es superior al 0.8, esto demuestra que el desempeño del proyecto dependió
+       principalmente de la contratación del Sistema de Emergencias
+                                                 23
+"
+"                                       Tabla N° 7. Costos del proyecto
+Componente 1: Desarrollo de la capacidad institucional del Ministerio de Seguridad
+                                                                                Costo revisado del componente    30.531.003
+             Output                    2011    2012     2013      2014      2015        2016          2017      EOP 2017
+                                   P      0     38.000       0          0 4.600.800           0               0   4.638.800
+     Cobertura Provincial del
+1.1  Sistema de Atención de       P(a)    0 1.500.000        0 11.520.620 5.584.467   5.227.458      15.061.594  27.196.488
+     Emergencias ampliada
+                                   A      0     38.000       0  5.807.948 4.843.067   1.445.879      11.700.909  23.835.803
+                                   P      0          0       0  2.880.000         0           0               0   2.880.000
+     Sistema de Información
+1.2                               P(a)    0          0       0          0 2.702.000   1.500.000       2.600.000   2.731.870
+     Delictual implementado
+                                   A      0     46.157  67.699     18.014         0           0               0     131.870
+                                   P      0          0       0 17.700.000         0           0               0  17.700.000
+     Centros de Atención de
+1.3                               P(a)    0          0       0  2.400.000 6.373.074   3.347.970       3.100.000   7.104.511
+     Emergencias refaccionados
+                                   A      0          0       0          0 1.232.948   2.771.563       2.466.376   6.470.887
+                                   P      0          0       0    250.000   250.000           0               0     500.000
+     Encuestas de victimización
+1.4                               P(a)    0          0       0    125.000         0     500.000          90.000      90.000
+     realizadas
+                                   A      0          0       0          0         0           0          92.443      92.443
+                                   P      0          0       0          0         0           0               0           0
+     Mejora de procesos en el
+1.5                               P(a)    0          0       0    149.197         0     149.197               0           0
+     Ministerio de Seguridad
+                                   A      0          0       0          0         0           0               0           0
+                                   P      0          0       0    100.000         0           0               0     100.000
+     Sistema de
+     reempadronamiento al
+1.6                               P(a)    0          0       0          0         0           0               0           0
+     personal policial
+     implementado*
+                                   A      0          0       0          0         0           0               0           0
+    Componente 2: Fortalecimiento de mecanismos de participación ciudadana
+                                                                                Costo revisado del componente       173.751
+             Output                    2011    2012     2013      2014      2015        2016          2017      EOP 2017
+     Foros vecinales constituidos  P      0     58.000 470.000    135.000   135.000           0               0     798.000
+     y reconocidos con mapeos
+2.1  de prevención de delito      P(a)    0 1.330.000  470.000     31.500         0      50.000               0     173.751
+     elaborados en áreas
+     participantes                 A      0   104.313   69.438          0         0           0               0     173.751
+                                   P      0          0       0    125.000   125.000           0               0     250.000
+     Acciones de generación del
+2.2                               P(a)    0          0       0          0   125.000     125.000               0           0
+     conocimiento implementadas
+                                   A      0          0       0          0         0           0               0           0
+                                                            24
+"
+"  Componente 3: Mejoramiento de los servicios de atención a la violencia de género y de los programas de
+                                                       prevención de la violencia
+                                                                                            Costo revisado del componente         191.399
+                Output                       2011      2012     2013        2014        2015        2016          2017       EOP 2017
+                                      P          0           0 125.000      240.000     240.000           0               0       605.000
+       Proyectos de prevención de
+3.1                                  P(a)        0    690.000  125.000      210.000     100.000     540.000         130.000       130.000
+       la violencia implementados
+                                      A          0           0       0             0          0           0               0             0
+                                      P          0           0       0    3.390.000           0           0               0     3.390.000
+      Equipamiento para
+3.2   prevención de la violencia     P(a)        0           0       0             0          0           0               0             0
+      adquirido*
+                                      A          0           0       0             0          0           0               0             0
+                                      P          0           0       0      200.000           0           0               0       200.000
+      Plan de Comunicación del
+3.2   Ministerio de Seguridad        P(a)        0           0       0             0          0           0               0             0
+      diseñado*
+                                      A          0           0       0             0          0           0               0             0
+       Departamentales con            P          0           0       0    1.000.000   1.000.000           0               0     2.000.000
+       personal de seguridad
+3.2    capacitado en asistencia a    P(a)        0           0       0      400.000     400.000      35.000               0       191.399
+       las víctimas de violencia de
+       género                         A          0      69.160  87.375        34.864          0           0               0       191.399
+                                                                 Otros costos
+                Output                       2011      2012     2013        2014        2015        2016          2017         Costo
+                                      P          0      66.000 120.000      160.000   1.074.000           0               0     1.420.000
+Administración                       P(a)        0    277.212  120.000      114.867     181.864     256.442          40.000       456.395
+                                      A          0      78.485 135.383        19.412    111.330      71.785       17.831,39    434.226,39
+                                      P          0           0 109.700      118.050     121.950           0               0       349.700
+Seguimiento y Evaluación             P(a)        0      40.300 109.700      120.000      20.000     160.000          10.000        27.427
+                                      A          0           0  17.427             0          0           0            0.81     17.427,81
+                                      P          0           0 125.000      100.000     275.000           0               0       500.000
+Imprevistos                          P(a)        0    125.000  125.000             0    372.328           0     1.986.150,4   1.986.150,4
+                                      A          0           0       0             0          0           0               0             0
+                                                                  Costo total
+                Output                       2011      2012     2013        2014        2015        2016          2017         Costo
+                                      P          0    162.000  949.700   26.398.050   7.821.750           0               0    35.331.500
+Costo total                          P(a)        0 3.962.512   949.700   15.071.184  15.858.733  11.891.067    23.017.744,4  40.087.991,4
+                                      A          0    336.115  377.322    5.880.238   6.187.345   4.289.227  14.277.560,20  31.347.807,20
+                      P = Programación inicial; P (a) = Meta Anual Revisada; A = Actual; * = Outputs dados de baja.
+                                                               Fuente: PMR
+                                                                    25
+"
+"                            Gráfico N° 1. Costos del proyecto (Millones de U$S)
+                                                                   Planeado
+                                               36.6                Ejecutado
+                                                           25.0
+                                               31.3                 11.6
+                                                           24.6
+                                                                     6.6
+                                              Total       Banco      PBA
+                                                      Fuente: PMR
+                         Gráfico N° 2. Distribución de costos según componente
+                                                                  58%
+                            Componente 1
+                                                                                  97.4%
+                                                        27%
+                            Componente 2
+                                             0.6%
+                                                6%
+                            Componente 3
+                                             0.6%
+         Gastos administrativos, auditorías,     9%
+            evaluaciones e imprevistos       1.4%                      Planeado Ejecutado
+                                                      Fuente: PMR
+                                       Tabla N° 3. Evaluación de la eficiencia
+                                             Clasificación              Valor
+                                             Satisfactorio                3
+ 2.4   Sostenibilidad
+                 a. Aspectos generales de sostenibilidad
+2.4.1. Desde el punto de vista institucional, el riesgo de un cambio de autoridades que afecte el
+       servicio del 911 es mínimo, debido a que la continuidad del personal operativo requerido
+       por el nuevo sistema está garantizada ya a que el personal asignado se encuentra bajo
+       el régimen Policial y la administración del servicio civil Provincial, lo que significa que su
+       remoción está sujeta a otro régimen más exigente y menos permeable al cambio de
+       autoridades provinciales. Por otra parte se ha logrado que en el trabajo operativo en el
+       911 sea considerado como una rama de trabajo en la fuerza policial provincial sujeta a
+       programas de Capacitación y Formación Continua que garantizan que el nuevo personal
+       asignado, dentro del marco de rotación normal, consiga un alto grado de
+       profesionalización en el uso de la nueva tecnología a través de capacitación permanente
+                                                          26
+"
+"       con herramientas coaching, programación neurolingüística, inteligencia emocional y otras
+       herramientas comunicacionales,
+2.4.2. En cuanto a los aspectos tecnológicos, la continuidad de los productos provistos por el
+       PSCI está asegurada a corto y mediano plazo debido a que las tecnologías adquiridas
+       para el funcionamiento del 911 son de última generación y permiten recolectar, procesar
+       y analizar los sucesos delictivos reportados telefónicamente. Además, la contratación de
+       los servicios de la empresa de telefonía incluyó no solo la provisión del sistema sino
+       también el mantenimiento necesario del mismo para los primeros años de
+       funcionamiento. Sin embargo, a partir de 2019 serán necesarios desembolsos anuales
+       de mantenimiento de consideración que deberán incluirse dentro de los gastos operativos
+       corrientes de la Provincia Esto representa un riesgo para el sistema que no se considera
+       muy probable dada la relevancia que adquirió el 911 en el marco de atención a urgencias.
+       Sin embargo, a mediano plazo se debe considerar como riesgo la inversión requerida
+       para mantener el sistema actualizado además de integrado a los otros sistemas de
+       información relevantes del Ministerio de Seguridad.
+2.4.3. Desde un punto de vista político-social los resultados del programa directamente
+       vinculados al 911, es decir la reducción del tiempo de respuesta del SAE, resultan
+       sostenibles ya que sería públicamente notorio un decremento en los estándares de
+       servicio mejorados, su discontinuidad o su desintegración pasándolo a los municipios
+       dado que la sociedad identifica al 911 como un primer número ante cualquier tipo de
+       emergencia. El programa ha tenido mucha visibilidad y aumento en su uso, el nuevo
+       software de atención de emergencias y la ampliación de cobertura ha demostrado tener
+       una relevancia primordial no solo en el control de la gestión policial dentro de la PBA, sino
+       para la sociedad en su conjunto, ya que cada vez que se recibe una llamada la
+       información es transferida directamente al CD correspondiente de cada municipio y desde
+       ahí al equipo de salud municipal en caso de emergencias médicas o a la línea 144 si se
+       trata de llamados de víctimas de violencia de género. Es decir, permite, por ejemplo, en
+       el caso de un accidente vial, una derivación automática al SAME y también el envío desde
+       la policía de un patrullero, con una sola llamada. Esta integración y el papel que ocupa a
+       partir de su renovación permite deducir que las autoridades continuarán apoyando los
+       productos generados gracias a este proyecto. Esto muestra cierta integración operativa
+       entre el 911, el sistema de emergencias médicas y la línea que trata la problemática de
+       violencia de género.
+2.4.4. El SAE no ha sido identificado como un productor importante de datos sobre seguridad y
+       tampoco se ha integrado su base de datos al resto de sistemas del Ministerio de
+       Seguridad como son el seguimiento satelital de móviles y el sistema de denuncias de las
+       comisarías lo cual se encuentra pendiente y tal vez se constituya en un riesgo para la
+       sostenibilidad estratégica del SAE. Para que los resultados alcanzados sean sostenibles
+       se requiere una política de generación de datos estratégicos para la mejora de la gestión,
+       por ejemplo, contar con encuestas periódicas de victimización que permitan medir el
+       estado de situación para rever objetivos. O también, alguna medida que sirva a modo de
+       monitoreo de los resultados directamente relacionados con el funcionamiento del SAE.
+                                                27
+"
+"2.4.5. El resto de los resultados, debido principalmente a la debilidad existente en la relación
+       causal entre la reducción de los delitos y las acciones realizadas en el marco del PSCI
+       son considerados como poco sostenibles. Por otra parte debido a la no realización de
+       actividades que apoyen al logro de los resultados RES3.1 y RES3.2 tampoco pueden ser
+       considerados como sostenibles.
+                b. Salvaguardas ambientales y sociales
+2.4.6. De acuerdo con la Política de Medio Ambiente y Cumplimiento de Salvaguardias, la
+       operación fue clasificada como categoría “C”. Se estima que el PSCI tuvo un impacto
+       social altamente positivo ya que desarrolló las capacidades y mejoró los servicios de las
+       instituciones, así como de la sociedad civil, de atender los efectos directos de la violencia
+       en los grupos vulnerables. El Programa también apoyó la participación de la sociedad
+       civil en la identificación de factores que contribuyen al crimen y la violencia, así como al
+       desarrollo e implantación de soluciones. En término de impactos ambientales, el
+       Programa no presentó impactos negativos sustanciales ya que, en las especificaciones
+       técnicas para las construcciones de los CATE, Centros de Despacho y refacciones de las
+       Comisarías de la Mujer y la Familia, se han incluido como obligación de los constructores,
+       la incorporación de todas las medidas mitigadoras de eventuales impactos negativos
+       contempladas en la legislación nacional. Asimismo, en las bases de las licitaciones, el
+       cumplimiento de estas medidas fue incorporado en forma explícita y formó parte del
+       Reglamento Operativo (RO) del Programa.
+                              Tabla N° 8. Evaluación de la sostenibilidad
+                                      Clasificación         Valor
+                                     Satisfactorio            3
+       III. CRITERIOS NO CENTRALES
+3.1    Desempeño del Banco
+3.1.1. Las actividades de monitoreo fueron llevadas a cabo por la Unidad Ejecutora del MS a
+       través de la elaboración y presentación al BID de trece informes semestrales a lo largo
+       de la ejecución del PSCI.
+3.1.2. Durante la ejecución se produjeron cambios institucionales importantes que requirieron el
+       acompañamiento constante del Banco. Se posibilitaron diversas modificaciones
+       tanto de metas y de sub componentes (Tabla N° 4) como de asignación de los recursos
+       (Tabla N°6) en forma flexible. Estas adaptaciones permitieron liberar fondos y aumentar
+       la ejecución de forma más dinámica y efectiva.
+3.1.3. Estas modificaciones y las causas que las originaron desde luego fueron determinantes
+       en cuanto a las prórrogas y la extensión de los tiempos de ejecución del PSCI. En este
+       sentido, el Banco demostró ser capaz de adaptarse y hallar soluciones a las dificultades
+       institucionales y fiduciarias que presentó la Unidad Ejecutora, logrando desembolsar casi
+       la totalidad de lo estipulado.
+                                                  28
+"
+"3.1.4. Por el lado del diseño del PSCI, la contratación de un solo proveedor para la
+       implementación del nuevo SAE fue un aspecto clave propuesto por el Banco, luego de un
+       análisis del mercado en cuestión Si bien desde un punto teórico esto puede verse como
+       una decisión un tanto arriesgada por la gran dependencia del accionar de la empresa
+       contratada, desde el punto de vista práctico fue una acción necesaria para acelerar el
+       desarrollo del proyecto debido a las grandes demoras que se presentaban a la hora de
+       las contrataciones. Además, la empresa contratada presentaba evidentes ventajas que
+       hacían prácticamente imposible que otra la superara, principalmente gracias a la
+       portación y acceso de sus propios nodos de comunicación en todo el territorio necesario.
+3.1.5. Durante la implementación del proyecto se realizaron al menos tres talleres de análisis
+       de riesgo que permitieron actualizar la matriz de riesgo original y también evidenciar los
+       retos futuros de ejecución y definir los planes de acción para mitigarlos oportunamente.
+       El primero se realizó al inicio del PSCI, el segundo a los 2 años de ejecución y el tercero
+       a los 4. Esto ejercicios permitieron una mayor coordinación entre la Ministerio de
+       Seguridad, el Ministerio de Economía y el equipo del Banco para agilizar los procesos de
+       adquisiciones, supervisión y desembolsos de reposición de gastos. Sin embargo, para el
+       cierre del proyecto se tuvieron que tomar acciones importantes para garantizar que se
+       realice oportunamente siendo clave el accionar proactivo y coordinado del equipo
+       fiduciario del Banco y el Ministerio de Economía.
+3.1.6. Uno de los principales riesgos que se identificó en el segundo taller de riesgo fue la
+       separación de funciones entre los Ministerios de Seguridad y Economía impusieron retos
+       importantes de coordinación para el Banco. Dada la falencia de conocimiento de los
+       procesos fiduciarios del Banco por parte del equipo del Ministerio de Seguridad, la
+       supervisión del proyecto tuvo que ser realizada de manera concurrente para garantizar
+       que los procesos se cumplieran en forma y oportunamente. Finalmente, acciones
+       pudieron ser tomadas para definir un mejor esquema de ejecución lo cual fue plasmado
+       en un nuevo Reglamento de Operaciones.
+3.1.7. Para el tercer taller se identificó como principal riesgo la debilidad existente en el
+       Ministerio de Seguridad para supervisar la correcta ejecución del contrato de instalación
+       del nuevo Sistema de Atención, para lo cual se propuso la contratación de una firma que
+       realice la fiscalización del trabajo, sin embargo esta acción no pudo ser tomada debido a
+       que con el cambio de administración se solventó esta debilidad cuando el Ministerio logró
+       atraer personal capacitado a trabajar en las unidades de contraparte.
+3.1.8. Si bien los riesgos fueron identificados y medidas de mitigación implementadas, los
+       factores externos fuera de control del Banco afectaron negativamente el rendimiento del
+       proyecto, principalmente en los tiempos de implementación.
+3.1.9. El PSCI en su diseño no tenía identificada una evaluación de impacto, posteriormente el
+       equipo de proyecto identificó como el área más pertinente con potencial para una
+       evaluación era el impacto en uso de la información generada en sistema de emergencias.
+       No se procedió con el deseño de la evaluación por la falta de recursos para hacerla.
+       Posteriormente se propuso la realización de la misma con una Cooperación Técnica que
+       permitiría evaluar este aspecto además de plantear acciones futuras.
+                                                  29
+"
+"3.2         Desempeño del Prestatario
+3.2.1. La principal dificultad por parte del prestatario se evidenció a la hora de llevar a cabo la
+            ejecución de los fondos de manera ágil y efectiva. Esta problemática estuvo
+            estrechamente relacionada a los cambios institucionales de la Unidad Ejecutora a cargo.
+            Sin embargo, fueron cumplidos los convenios, acuerdos y salvaguardias previstas del
+            proyecto. Además, el gobierno participó activamente en cuanto a las adaptaciones de
+            recursos humanos necesarias para las renovaciones de los CATE y Centros de
+            Despacho.
+3.2.2. Durante la ejecución del proyecto, la reasignación de recursos de otros componentes
+            para cumplir con la implementación del sistema de llamadas de emergencia requirió
+            modificaciones importantes en las programaciones anuales el Banco dio continuidad a lo
+            programado e hizo hincapié en los acuerdos realizados durante el diseño y
+            modificaciones acordadas posteriormente.
+                                        Tabla N°9. Clasificación general del proyecto
+                               Criterios centrales                                      Criterios no centrales
+                                                                                                                              Total
+                                                                                   Desempeño         Desempeño
+     Relevancia             Eficacia           Eficiencia       Sostenibilidad
+                                                                                     del Banco          Ejecutor
+     Parcialmente         Parcialmente                                                                Parcialmente        Parcialmente
+                                              Satisfactoria      Satisfactorio      Satisfactorio
+    insatisfactoria      insatisfactoria                                                             Insatisfactorio     Insatisfactorio
+Los criterios de evaluación contemplan 6 grados de categorización en un rango de puntaje de 0.0 - 4.0, definidos como: (i) Altamente
+Exitoso (>=3,5); (ii) Exitoso (>=3,0); (iii) Parcialmente Exitoso (>=2,5); (iv) Parcialmente No Exitoso (>=2,0); (v) No exitoso (>=1,5);
+y Altamente No exitoso (<=1,5). Por otro lado, las categorías de los criterios centrales cuentan con 4 grados de clasificación,
+denominados y puntuados como: (i) Excelente (4 puntos); (ii) Satisfactorio (3 puntos); (iii) Parcialmente Insatisfactorio (2 puntos); y
+(iv) Insatisfactorio (1 punto). La clasificación total es el promedio ponderado del puntaje de las categorías de los criterios centrales,
+dentro del cual el peso de los distintos criterios es el siguiente: Relevancia: 20%; Efectividad, 40%; Eficiencia, 20%; y Sostenibilidad,
+20%. Los criterios no centrales no entran en el cálculo de la media total.
+            IV. Hallazgos y recomendaciones
+  4.1       Dimensión Técnico-sectorial
+4.1.1. Las grandes brechas entre el diseño y la ejecución del proyecto en dos aspectos tan
+            importantes como la duración y la distribución de los fondos según los componentes
+            establecidos seguramente sean los dos hallazgos más importantes a tener en cuenta
+            para el diseño de futuros proyectos por parte del Banco. Para evitar esta problemática,
+            se recomienda diseñar proyectos con una menor cantidad de productos y centralizados
+            en un componente teniendo en cuenta las prioridades reales del organismo ejecutor,
+            permitiendo realizar la ejecución de los fondos con mayor flexibilidad y al ritmo que las
+            instituciones ejecutoras a cargo puedan manejar.
+4.1.2. Con respecto a la lógica vertical, es fundamental la elección de indicadores adecuados
+            para la medición de los resultados proyectados. En primer lugar, es indispensable que
+            logren captar los efectos que los productos o acciones del programa generan, que los
+            mismos tengan relación directa. En segundo lugar, los indicadores de resultados que se
+            elijan deben estar disponibles desde el diseño (línea de base) hasta la finalización del
+            proyecto (lo más deseable a los fines de facilitar el monitoreo sería disponer de la
+                                                                      30
+"
+"       información en tiempo real, pero encontrar un indicador con esta característica es algo
+       realmente dificultoso).
+4.1.3. Se recomienda que los indicadores de los proyectos de este tipo sean ajustados en base
+       a la tendencia temporal para poder así aislar de alguna manera el efecto que tendría el
+       respectivo proyecto en la mejora de cada indicador. Justamente en casos como este que
+       no se tiene una base de datos adecuada. Indicadores alternativos de resultado y no
+       impacto debieran hacerse uso en la mejora de sistemas de mejora de reporte criminal.
+ 4.2   Dimensión Organizativa y administrativa
+4.2.1. En diciembre del año 2013 se redefinió la nueva estructura organizacional que soportaría
+       la implementación del proyecto. Por un lado, se dividieron los Ministerios de Justicia y
+       Seguridad, lo que permitió una mejora en la toma de decisiones sectoriales y la inclusión
+       del Ministerio de Economía como apoyo en la parte fiduciaria de la ejecución del proyecto,
+       acelerando los procesos de contrataciones. Esto facilitó que los procesos de
+       adquisiciones se adjudicaran, sin embargo, mucho más tarde a lo inicialmente planificado.
+4.2.2. Durante el cambio de gestión administrativa en diciembre 2015 no se coordinaron
+       adecuadamente, al interior del Ministerio de Seguridad, los procesos de licitación de los
+       CATE con el servicio que Telefónica proveía. La selección de los constructores para los
+       CATE duró más de los esperado. Como consecuencia se tuvieron que definir nuevos
+       plazos y agrupación de productos dentro del contrato de Telefónica que le permitieran
+       seguir con la ejecución de su contrato y que no afectara el cronograma del proyecto en
+       general. Esta nueva agrupación permitió tener un avance físico moderado, pero no fue
+       acompañado con los desembolsos financieros correspondientes.
+4.2.3. Se recomienda que se para un programa de estas características se diseñe un
+       mecanismo de ejecución más flexible permitiría al equipo de proyecto adaptarse a los
+       procesos técnicos y fiduciarios del prestatario, además de los cambios institucionales que
+       se pueden dar durante la ejecución del proyecto, además del mecanismo de coordinación
+       inter-institucional que planea utilizarse.
+4.2.4. Los cambios de autoridades que afectaron la gobernanza del PCSI se dieron a tres
+       niveles, primero los cambios de personal de la unidad ejecutora, lo cual por razones
+       obvias no permitían la fluidez en el trabajo de coordinación para la ejecución de las
+       actividades del Programa, después los cambios de autoridades ministeriales
+       influenciaban directamente a su gobernanza y en consecuencia a la coordinación de las
+       entidades relacionadas en la ejecución, y por último el cambio de Gobierno Provincial que
+       afectaba en ambas dimensiones; tanto operativa como estratégica.
+4.2.5. Se recomienda mantener registros permanentes de las acciones realizadas para prevenir
+       la pérdida de información a causa de rotaciones de personal, además de mantener un
+       contacto fluido y permanente para detectar rápidamente estos problemas y brindar apoyo
+       mediante la coordinación institucional.
+                                                  31
+"
+" 4.3   Dimensión Aspectos fiduciarios
+4.3.1. Debido a un particular diseño de institucional de la Provincia de Buenos Aires, el cual
+       incluye la participación de dos entes autárquicos en la gestión de los recursos para la
+       inversión pública, el Tribunal de Cuentas y la Contaduría; existe una gran incertidumbre
+       en los tiempos de duración de los procesos de adquisiciones, así como los pagos de los
+       servicios correspondientes, esto debiera ser tomado en cuenta en los diseños de los
+       futuros proyectos con la Provincia.
+4.3.2. Se recomienda realizar un análisis de los tiempos de los procesos fiduciarios de ejecutor,
+       que incluya la reglamentación (leyes y decretos pertinentes) local, además definir la
+       participación de otras entidades fuera de su autoridad para tener una programación más
+       realista y programar de capacitación sobre los procesos de adquisiciones y financieros
+       del Banco en los entes autónomos.
+4.3.3. Dado que la licitación principal constituía un hito fundamental en la ejecución del proyecto,
+       en la etapa de diseño debió haberse previsto el desarrollo de las especificaciones
+       técnicas o términos de referencia de la contratación con apoyo del Banco. Asimismo,
+       mediante un análisis técnico, específicamente debido a que la empresa que se adjudicó
+       era la única en poder proporcionar los servicios de comunicación al SAE por su cobertura
+       geográfica, correspondiente debió considerarse la opción de realizar una contratación
+       directa, dado que en la practica la adjudicataria era la única empresa que podía
+       proporcionar el servicio por su cobertura geográfica. Se recomienda que en el futuro los
+       equipos de proyecto, basados en un análisis de terceros, evalúen el riesgo de adjudicar
+       directamente un contrato de esta magnitud en contraposición del riesgo de justamente
+       tener una licitación muy larga con el mismo resultado.
+4.3.4. Por último, los mismos aspectos narrados anteriormente afectaron a la administración de
+       los recursos en cuanto a su organización y eficiencia, debilitando la planificación,
+       monitoreo y ejecución del presupuesto, la gestión de los contratos públicos y la gestión
+       adecuada de los riesgos financieros. En este sentido, una recomendación para lograr
+       evitar estos inconvenientes en futuros proyectos sería aprovechar las instituciones
+       preexistentes con suficiente experiencia para administrar eficientemente los desembolsos
+       necesarios. En el caso de la Provincia de Buenos Aires, la Dirección Provincial de
+       Organismos Multilaterales y Financiamiento Bilateral (DPOMyFB) dependiente de la
+       Subsecretaria de Finanzas del Ministerio de Economía, además de actuar como
+       prestatario, es responsable a través de la Dirección de Contabilidad y Desembolsos de la
+       administración financiera de los programas y cooperaciones técnicas financiados por
+       organismos multilaterales de crédito y financiamiento bilateral. Por lo que dispone de la
+       experiencia necesaria como para gestionar y coordinar proyectos de estas envergaduras.
+                                                 32
+"
+"                                Tabla N°10. Hallazgos y recomendaciones
+            Hallazgos                                          Recomendaciones
+Dimensión 1: Técnico-sectorial
+Hallazgo #1
+                                Recomendación #1
+Desvíos en la duración y en la
+                                Diseñar proyectos con una menor cantidad de productos o centralizarlos en un
+distribución de fondos según
+                                componente para simplificar la ejecución de los mismos
+componentes
+                                Recomendación #2
+                                Verificación previa de una relación directa o indirecta entre los indicadores y las
+                                metas
+Hallazgo #2
+Fallos en la lógica vertical y  Recomendación #3
+cadena de resultados            Asegurar la disponibilidad inter-temporal de los indicadores elegidos
+                                Recomendación #4
+                                Ajustar los indicadores en base a la tendencia temporal.
+Dimensión 2: Organizativa y administrativa
+                                Recomendación #5
+                                Un diseño con mecanismo de ejecución más flexible permitiría al equipo de
+Hallazgo #3                     proyecto adaptarse a los procesos técnicos y fiduciarios del prestatario, además
+Débiles acuerdos para la        de los cambios institucionales que se pueden dar durante la ejecución del
+coordinación institucional      proyecto
+produjeron retrasos en la
+                                Recomendación #6
+ejecución
+                                Evaluar, en la fase de diseño del programa,                  el    mecanismo     de
+                                coordinación inter-institucional que planea utilizarse
+                                Recomendación #7
+                                Mantener registros permanentes de las acciones realizadas para prevenir la
+Hallazgo #4                     pérdida de información a causa de rotaciones de personal
+Cambios en la Administración
+Pública ocasionaron demoras
+sustanciales                    Recomendación #8
+                                Mantener un contacto fluido y permanente para detectar rápidamente estos
+                                problemas y brindar apoyo mediante la coordinación institucional
+Dimensión 3: Aspectos fiduciarios
+                                Recomendación #9
+                                Considerar estas problemáticas a la hora de calcular los tiempos estimados
+                                que llevará la realización del proyecto
+                                Recomendación #10
+Hallazgo #5                     Se recomienda que en el futuro los equipos de proyecto, basados en un
+Dificultades en la ejecución de análisis de terceros, evalúen el riesgo de adjudicar directamente un contrato
+                                de esta magnitud en contraposición del riesgo de justamente tener una
+los procesos fiduciarios        licitación muy larga con el mismo resultado
+                                Recomendación #11
+                                Aprovechar las instituciones preexistentes con suficiente experiencia para
+                                administrar eficientemente los desembolsos necesarios para una ejecución
+                                eficiente del programa
+                                                      33
+"

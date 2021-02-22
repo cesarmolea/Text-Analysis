@@ -1,0 +1,1295 @@
+"outlist[[i]]"
+"   No.    PMR Fecha                                                       Desembolsos reales
+                                                                          (millones de USD)
+   1      Diciembre 2011                     SATISFACTORIO                                1,000,000.00
+   2      Diciembre 2012                     SATISFACTORIO                                3,602,533.00
+   3      Diciembre 2013                     SATISFACTORIO                                2,600,000.00
+   4      Diciembre 2014                     SATISFACTORIO                                2,600,000.00
+   5      Diciembre 2015                     SATISFACTORIO                                5,200,000.00
+   6      Diciembre 2016                     SATISFACTORIO                                3,560,000.00
+   7      Diciembre 2017                     SATISFACTORIO                                1,437,467.02
+METODOLOGÍA DE ANÁLISIS ECONÓMICO EX POST: ANÁLISIS COSTO – BENEFICIO
+METODOLOGÍA DE EVALUACIÓN EX POST: EVALUACIÓN DE IMPACTO CUASI-EXPERIMENTAL
+PROPENSITY SCORE MATCHING Y DIFERENCIAS EN DIFERENCIAS
+CLASIFICACIÓN DE EFECTIVIDAD DE DESARROLLO: EXITOSO
+PERSONAL DEL BANCO
+                    POSICIONES            EN PCR                               EN LA APROBACIÓN
+             VICEPRESIDENTE VPS           ANA MARÍA RODRÍGUEZ-ORTIZ            SANTIAGO LEVY
+             VICEPRESIDENTE VPC           ALEXANDRE MEIRA DA ROSA              ROBERTO VELLUTINI
+             GERENTE DE PAÍS              RAFAEL DE LA CRUZ                    ALICIA RITCHIE
+             GERENTE SECTORIAL            MARCELO CABROL                       KEI KAWABATA
+             JEFE DE DIVISIÓN             CARMEN PAGÉS                         CARMEN PAGÉS
+             REPRESENTANTE DE PAÍS        ALEJANDRO MELANDRI                   BAUDOUIN DUQUENSNE
+             JEDE DE EQUIPO DEL           MANUEL URQUIDI                       CONSUELO RICART
+             PROYECTO
+             JEFE DE EQUIPO DEL PCR       MANUEL URQUIDI
+Tiempo y costo (directo) del personal
+ Ciclo de proyecto de etapa          # de semanas de personal            USD (incluidos los gastos de
+                                                                         viaje y asesoría)
+ Preparación                                                    53.13                         271,194.41
+ Supervisión                                                   152.59                         276,639.63
+ Total                                                         205.72                         547,834.04
+Declaración de los Objetivos de Desarrollo del Proyecto / Programa: Esta operación tiene como objetivo
+apoyar al MTEPS a ampliar la cobertura y efectividad de sus políticas activas de empleo y con ello
+contribuir a mejorar la inserción laboral de los trabajadores. Este objetivo se realizará a través de un
+programa con los siguientes tres componentes: (i) Ampliación del Servicio de Empleo; (ii) Programa de
+Apoyo al Empleo de Adultos; y (iii) Planificación, Análisis de Políticas de Empleo y Evaluación.
+                                                     5
+"
+"       I.         INTRODUCCION
+1.1 En el periodo 2000 a 2010, la economía boliviana mostró un crecimiento robusto y sostenido
+    gracias a un manejo macroeconómico prudente en un contexto externo favorable1. Sin embargo,
+    este crecimiento no tuvo repercusiones en la mejora del acceso a empleo, particularmente en
+    aquellos empleos de mayor calidad. Constituyéndose en uno de los mayores retos de política
+    pública.
+1.2 Para el año 20092, la tasa de desempleo urbano en Bolivia era de 4,3%, mientras que, en la
+    Región, esta tasa era de 8%. Si bien la tasa de desempleo de Bolivia se situaba por debajo del
+    promedio regional, este porcentaje presentaba diferencias por tramos de edad y género. Por
+    ejemplo, en zonas urbanas, la tasa de desempleo para adultos jóvenes de 25 a 30 años era de
+    4,27% entre los hombres y de 4,86% para las mujeres, mientras que esa misma tasa se ubicaba
+    en 2,2% y 2,4% para hombres y mujeres mayores de 30 años, respectivamente.
+1.3 Por otro lado, más del 79% de la población ocupada en zonas urbanas eran trabajadores
+    informales3 y a nivel nacional, la tasa de informalidad era del 84% (SIMS, 2017 con datos de
+    2009), siendo una de las tasas de informalidad más altas en Latinoamérica. Otro aspecto
+    necesario de destacar tiene que ver con el hecho que el 25% de la población ocupada en áreas
+    urbanas tenía un ingreso laboral igual o inferior al salario mínimo y 5% eran trabajadores
+    subempleados4.
+1.4 Adicionalmente se observaba una baja disposición de los empleadores a contratar, en especial
+    de modo formal, debido en parte a los altos costos de despido5 y a la ausencia de información
+    sobre las habilidades reales de los candidatos. Los empleadores tendían a buscar candidatos en
+    base a familiares y amigos 6 , lo que representaba un sistema ineficiente para contratación y
+    generaba una inequidad de acceso a empleos de calidad en el país. Problema principal que se
+    definió afrontar por el programa.
+1.5 Teniendo en cuenta este contexto, se identificaron dos (2) causas detrás de estos problemas del
+    mercado laboral a: i) las barreras de información en el mercado laboral y el poco uso de
+    mecanismos formales de búsqueda de empleo que impiden un emparejamiento eficiente entre
+    1 Explicado por un crecimiento sostenido del nivel de primas, particularmente del precio del petróleo y del gas. Entre
+    2008 y 2009, se mantuvo el crecimiento, aunque a una tasa menor, debido a la crisis financiera internacional.
+    2 Todas las estadísticas aquí presentadas corresponden a datos para población entre 15 y 64 años, a menos que se
+    especifique lo contrario.
+    3 Entendida como la tasa de acceso a seguridad social de largo plazo. El dato corresponde a la gestión 2009.
+    4 Se entiende como subempleados visibles a aquellos trabajadores que trabajan 30 horas o menos y estarían
+    dispuestos trabajar más horas.
+    5
+      Entre otras causas identificadas para explicar la informalidad y el desempleo se encuentran: (i) un déficit de
+    habilidades; (ii) una institucionalidad débil; y (iii) un mercado laboral rígido con altos costos laborales y de despido y
+    una legislación laboral rígida. Cabe notar que, como parte de esa institucionalidad débil, existía solamente una política
+    activa de mercado laboral en el país, ejecutada con apoyo del Banco Mundial.
+    6
+      Aproximadamente el 78% de los buscadores de empleo busca empleo por medios informales (Mazza, 2011 con
+    datos de 2007). Asimismo, muchas empresas reclutan egresados directamente de las instituciones educativas, pero
+    de éstas se seleccionan a los mejores alumnos o aquellos que cuentan con mecanismos informales de información
+    (como contactos a través de familiares o amigos) (Encuesta de Demanda de Profesionales y Técnicos en el área
+    urbana de Bolivia; UDAPE, 2009)
+                                                                   6
+"
+"     buscadores de empleo y vacantes en el mercado laboral; y ii) la ausencia de Políticas Activas de
+     Mercado Laboral (PAML).
+1.6  Las barreras de información en el mercado laboral en Bolivia se explicaban por dos hechos: (i) la
+     ausencia de información sobre vacantes de calidad en el mercado laboral, debido a que gran
+     parte de los buscadores de empleo utilizan medios informales de búsqueda de empleo, que se
+     caracterizan por ser ineficientes y por perpetuar, así, las inequidades en el mercado (Mazza,
+     2011); y (ii) la falta de receptividad de los empleadores a buscar candidatos para las vacantes
+     laborales existentes por vías diferentes a las tradicionales (contactos familiares, conocidos, entre
+     otras).
+1.7  Por otro lado, las instituciones de mercado laboral en Bolivia carecían de una presencia
+     significativa, debido a un déficit institucional por parte del Ministerio de Trabajo, Empleo y
+     Previsión Social (MTEPS); y a la ausencia de PAML de mediano y largo plazo, que sirvieran para
+     promover políticas laborales más dinámicas para la mayoría de la población.
+1.8  El presupuesto del MTEPS para 2010 alcanzaba los US$7,4 millones, representando apenas el
+     0,1% del total asignado al órgano ejecutivo, siendo el Ministerio con menor asignación
+     presupuestaria en Bolivia. Al interior del MTEPS, la Dirección General de Empleo (DGE)7, recibía
+     US$315.700, lo que representa un 4,3% del total asignado al ministerio. A su vez, las oficinas de
+     empleo en funcionamiento tenían un presupuesto de US$104.400.
+1.9  Al momento del diseño del programa, el MTEPS contaba con una incipiente estructura
+     institucional donde se enmarcaban un Servicio de Empleo (SPE) de cobertura reducida y con
+     limitada capacidad técnica y operativa, y un programa piloto de capacitación e inserción laboral
+     destinado exclusivamente a jóvenes vulnerables llamado Mi Primer Empleo Digno (MPED)8 9.
+1.10 A pesar de que el MTEPS operaba una red de oficinas que buscaban promover los servicios de
+     empleo en el país y estar desarrollando sistemas de información de mercado, se enfrentaba a
+     varios desafíos organizacionales y operativos, tales como: (i) la ausencia de recursos, personal
+     e instrumentos para generar servicios de vinculación laboral presenciales; (ii) un limitado sistema
+     de información para orientar la formación laboral de acuerdo con la demanda del mercado; (iii) los
+     desafíos técnicos, operativos (descentralización de funciones administrativas, comunicacionales
+     y controles de procesos) y tecnológicos (desarrollo, mantenimiento y actualización de sistemas
+     7 La DGE tiene como objetivo el implementar políticas activas de empleo destinadas a coadyuvar la generación de
+     mayores y mejores oportunidades laborales para toda la población boliviana.
+     8 El programa MPED operó inicialmente con recursos propios del Estado Boliviano en cuatro ciudades (La Paz, El Alto,
+     Cochabamba y Santa Cruz) y desde el 2009 con apoyo de financiamiento del Banco Mundial (BM)). El objetivo del
+     MPED es promover la capacitación de jóvenes (de 18 a 24 años) de escasos recursos, a través de la entrega de
+     cursos de capacitación técnica en aula, y una posterior pasantía en las empresas que desarrollan la actividad para la
+     cual el joven fue capacitado.
+     9 La fase inicial de la ampliación de la Bolsa y de MPED, se efectivizo con apoyo del BID (en base a la Cooperación
+     Técnica “Análisis de Políticas y Sistemas de Empleo” (BO-T1066, ATN/SF-11930-BO) y otros donantes, mismo que
+     sirvió para sentar las bases para la operación.
+                                                               7
+"
+"      de información) en las oficinas locales y regionales; y (iv) la escasez de herramientas de trabajo
+      y de logística para articular la oferta y la demanda de empleo y capacitación laboral.
+1.11 Tanto el SPE como el programa MPED, se conformaron como un primer paso de fortalecimiento
+      del MTEPS en el marco de la estrategia de empleo del Gobierno de Bolivia (GOB). En línea con
+      esta iniciativa, el MTEPS, con el apoyo del Banco, inició un proceso de consolidación de sus
+      políticas activas de mercado laboral con particular énfasis en sus acciones de intermediación
+      laboral, y el desarrollo de programas que incrementen la empleabilidad de grupos vulnerables10.
+      Por lo que era necesario crear mecanismos institucionales que permitieran conducir una
+      estrategia de impulso al empleo, y desarrollo y consolidación de políticas activas de mercado
+      laboral.
+1.12 En este contexto, se gestionó el apoyo del Banco por medio de la suscripción del Contrato de
+      Préstamo Nº2365/BL-BO. Se optó por impulsar un programa de implementación sencilla dada la
+      incipiente capacidad institucional en Bolivia para dar lugar al desarrollo de políticas del mercado
+      laboral en materia de intermediación y capacitación para el trabajo, áreas en las cuales el MTEPS
+      había adquirido experiencia a través del programa MPED, aunque todavía de forma incipiente.
+      La intención era aprovechar dicha experiencia para consolidar un programa integral de acceso y
+      capacitación que incluyese tres aspectos centrales: (i) la ampliación de la intermediación entre
+      oferentes y demandantes de empleos, mediante una mejora en la promoción de la información
+      sobre la oferta y la demanda de trabajo y un acceso a oportunidades de trabajo de mejor calidad;
+      (ii) el desarrollo y la consolidación de un programa nuevo de apoyo al empleo de adultos; y (iii) el
+      fortalecimiento de aspectos de planificación, análisis de políticas de empleo y evaluación.
+              II.   CRITERIOS CENTRALES: RENDIMIENTO DEL PROYECTO
+     2.1. Relevancia
+2.1   El programa tuvo relevancia para el GOB al momento de su diseño y, actualmente, estos temas
+      siguen siendo igual de relevantes en la agenda del país, ante la necesidad de mejorar el acceso
+      a empleos de calidad para los trabajadores bolivianos. Es importante recalcar, que el programa
+      permitió avances en cuanto al fortalecimiento de la institucionalidad del MTEPS y la cobertura de
+      sus servicios, hechos que permite al GOB hacer frente de mejor manera a los problemas del
+      mercado laboral boliviano recién mencionados.
+2.2   Entre los avances que permitió el programa, se encuentran: Primero, visibilizar la pertinencia y
+      eficacia de las PAML para apoyar a grupos particularmente desaventajados en el mercado
+      laboral11, hecho que se evidencia a través del requerimiento del GOB para una segunda etapa
+      10 Para el diseño del Programa de Apoyo al Empleo (PAE II, BO-L1121, Contrato de préstamo 3822/BL-BO) se
+      consideraron como grupos vulnerables a aquellos colectivos que tuvieran mayores niveles de desempleo, subempleo,
+      informalidad y bajos ingresos laborales.
+      11
+          Por ejemplo, en zonas urbanas, la tasa de desempleo para adultos jóvenes de 25 a 30 años era de 4,27% entre
+      los hombres y de 4,86% para las mujeres, mientras que esa misma tasa se ubicaba en 2,2% y 2,4% para hombres y
+      mujeres mayores de 30 años, respectivamente. Asimismo, con relación a la tasa de informalidad para jóvenes entre
+      25 a 30 años era de 80%, mientras que, para mayores de 30 años, la informalidad alcanzaba a 80% para las mujeres
+      y 73% para los hombres.
+                                                              8
+"
+"    del programa12, que cuenta con tres pilotos para grupos vulnerables13, y en la implementación
+    del Plan Nacional de Empleo, a través de incentivos para impulsar la inserción laboral de las y
+    los bolivianos. Segundo, el programa permitió que el registro de buscadores de empleo y
+    empresas en la Bolsa de Empleo se incremente, especialmente en aquellos perfiles con mayores
+    niveles educativos, que históricamente no habían sido atendido. Tercero, el programa permitió
+    mejorar los sistemas de monitoreo y evaluación del Ministerio de Trabajo, hecho que permitirá
+    un mejor seguimiento de cara a la segunda etapa del programa. Cuarto, las encuestas de
+    seguimiento del programa permitieron observar que los beneficiarios consideraron que el
+    programa les permitió conseguir empleo más fácilmente y crear una red de contactos para
+    facilitar su inserción laboral.
+2.3 En este contexto, la segunda etapa del programa busca encarar de mejor manera los retos que
+    enfrenta el mercado laboral a través de continuar fortaleciendo el SPE y mejorar la inserción
+    laboral de los buscadores de empleo que acuden a este servicio. Esta nueva etapa, está alineada
+    con la visión institucional del MTEPS de proteger y asegurar el acceso a trabajo y empleo digno
+    de la población boliviana con equidad, inclusión y priorizando grupos vulnerables. Asimismo, el
+    programa está alineado con el objetivo principal de la DGE de implementar PAML destinadas a
+    coadyuvar contribuir a la generación de mayores y mejores oportunidades laborales para toda la
+    población boliviana.
+                     a. Alineación con las necesidades de desarrollo del país
+2.4 Al momento de su diseño, el PAE consideró los objetivos definidos por el Gobierno de Bolivia
+    (GOB) en su Plan Nacional de Desarrollo 2006-2011. Estos se estructuraban entorno a la
+    erradicación de las causas estructurales de la pobreza y todas las formas de exclusión y
+    marginalización. Bajo este marco, el GOB buscaba impulsar intervenciones que respondieran a
+    las necesidades de los grupos vulnerables, priorizando acciones que ayudasen a romper el ciclo
+    de la pobreza y aumentarán sus posibilidades de empleo. Por tal motivo, se llevaron a cabo
+    acciones encaminadas a generar mayores oportunidades de empleo cada año. En este sentido,
+    la política laboral del GOB hasta el 2011 tuvo como prioridades de corto plazo el fortalecimiento
+    de organizaciones de trabajadores, la promoción del empleo digno, la capacitación laboral y las
+    iniciativas productivas.
+2.5 El PAE sigue siendo relevante en el marco del Plan de Desarrollo Económico y Social del GOB
+    para el periodo 2016-2020. Este contempla la reducción de la desigualdad de los ingresos, la
+    pobreza extrema y la pobreza moderada a través de la generación de oportunidades de empleo
+    digno y permanente en el marco de la implementación de las iniciativas productivas vinculadas
+    al desarrollo de los complejos productivos. Por lo recién mencionado, se espera que la
+    continuidad de los servicios provistos por un SPE con capacidades más robustas pueda atender
+    de manera adecuada estas metas.
+                     b. Alineación estratégica
+2.6 El PAE estuvo alineado con la Estrategia País 2008-2010 del Banco para cumplir con el objetivo
+    de reducir la pobreza en forma sostenible. Particularmente, el PAE contribuyó a la consecución
+    12 Programa de Apoyo al Empleo II (PAE II; Contrato de préstamo 3822/BL-BO; BO-L1121).
+    13 Jóvenes, mujeres y personas con discapacidad.
+                                                            9
+"
+"     de este propósito mediante su objetivo de apoyar al MTEPS en ampliar la cobertura y efectividad
+     de sus PAML y con ello contribuir a mejorar la inserción laboral de los trabajadores. En este
+     sentido, la mejora de la intermediación laboral y de la inducción al mundo del trabajo y
+     capacitación técnica, forman parte de los pilares de competitividad, protección social, inclusión y
+     cohesión social.
+2.7  Asimismo, las intervenciones de promoción de PAML mantienen una alta pertinencia con la
+     Estrategia País del Banco (EBP) 2016- 2020 (GN-2843), particularmente en lo que se refiere a
+     las áreas estratégicas de aumento de la productividad y diversificación de la economía y al cierre
+     de brechas sociales. Las mejoras en el acceso a empleo de calidad de los buscadores de empleo
+     beneficiarios del PAE implican una mejor intermediación, lo que permite incrementar la
+     productividad laboral, la productividad de la empresa y del país ulteriormente. Asimismo, al
+     permitir la inserción de buscadores de empleo, históricamente relegados por los empleadores,
+     permite mejorar la movilidad social y cerrar las brechas sociales, particularmente para los
+     buscadores de empleo más vulnerables.
+                     c. Relevancia del diseño
+2.8  El diseño del programa estuvo enmarcado en la experiencia previa del Banco en la Región,
+     particularmente en lo que concierne el apoyo al fortalecimiento de los SPE en varios países y a
+     la implementación de PAML.
+2.9  La presencia de los SPE en ALC se remonta, en algunos casos, a los años 80, cumpliendo con
+     la función de intermediación laboral entre empresas y buscadores de empleo de manera rápida,
+     efectiva y pertinente. En este sentido, los Servicios de Intermediación Laboral (SIL) de los SPE
+     han jugado, y siguen jugando, un rol central en afrontar los problemas de falta de información y
+     de obstáculos específicos para grupos vulnerables en el acceso al empleo. La evidencia ha
+     mostrado que la intermediación laboral es una intervención costo-efectiva para vincular
+     trabajadores a empleos (Card et al., 2015, 2010) y que las ganancias para los beneficiarios –
+     relativo a buscar por medios informales – podrían ser mayores para los trabajadores con peores
+     perspectivas en el mercado de trabajo (Van den Berg y Van der Klaauw, 2006; Dolton y O'Neill,
+     1996) Además, estos servicios pueden también ayudar a los desempleados a encontrar empleos
+     con mayores ingresos (Flores-Lima, 2010) e incrementar la probabilidad de encontrar trabajo
+     formal (Pignatti, 2016).
+2.10 En cuanto a la implementación de PAML, estas han ganado importancia en la región como
+     instrumento para generar mayores oportunidades de empleo formal y productivo (Pignatti, 2016;
+     Kluve, 2016). En ALC, la implementación de estos programas ha sido heterogénea y se remonta
+     a la década de los 80 (Gonzales et al., 2012). A nivel general, es posible resumir la
+     implementación de las PAML en la Región en dos grandes modelos: Primero, diseñados para
+     buscadores de empleo vulnerables, principalmente jóvenes, que incluyen capacitación en el aula
+     y en el trabajo, bajo la premisa de que la dotación de habilidades técnicas mejoraría las
+     perspectivas de empleo de estos. El segundo modelo de intervención implementado en la región
+     se enfoca en la capacitación en planta. La premisa detrás de estas intervenciones es que la falta
+     de información relevante sobre el nivel de habilidades que tienen los buscadores de empleo es
+                                                     10
+"
+"     una razón importante por la cual las personas no tienen acceso a empleos de calidad; la
+     experiencia y la capacitación adicional requerida específicamente para el puesto de trabajo
+     harían que sea atractivo para la empresa contratar al buscador de empleo al final de su
+     capacitación en planta.
+2.11 En este marco, el objetivo del programa era apoyar al MTEPS a ampliar la cobertura y efectividad
+     de sus políticas activas de empleo y con ello contribuir a mejorar la inserción laboral de los
+     trabajadores. En este sentido, la lógica vertical del proyecto se sustenta en las dos causas
+     identificadas desde la óptica de mercados laborales detrás de la falta de acceso a empleos de
+     calidad en Bolivia. La primera, la existencia de barreras de acceso a empleos que se debe a la
+     ausencia de información sobre vacantes de calidad en el mercado laboral y la falta de
+     receptividad de los empleadores a buscar candidatos para las vacantes laborales existentes por
+     vías diferentes a las tradicionales (contactos familiares, conocidos, entre otras14). Segundo, la
+     ausencia de PAML para la mayoría de la población. Esto último, se justifica en el hecho que, si
+     bien el MTEPS había empezado a implementar este tipo de políticas, estas estaban dirigidas
+     particularmente a un único grupo vulnerable: los jóvenes vulnerables de escasos recursos. Sin
+     embargo, gran parte de la población estaba desprovista de una alternativa de apoyo,
+     particularmente aquellos buscadores de empleo que contaban con el perfil requerido pero que
+     carecían de experiencia laboral formal y relevante para insertarse en empleos de calidad, hecho
+     particularmente relevante cuando el 79% de la población ocupada se desempeñaba en empleos
+     informales.
+2.12 Para responder a estos problemas la operación busco fortalecer los siguientes pilares: (i) ampliar
+     la cobertura y la pertinencia de la información de vacantes y ofertas laborales en el mercado;
+     (ii) el desarrollo de una PAML de implementación sencilla que permitiese a buscadores de
+     empleo que tuvieran el perfil adecuado, pero que carecían de experiencia formal relevante,
+     realizar una capacitación en planta en empresas formales; (iii) el apoyo al MTEPS para el
+     desarrollo de capacidades para la planificación, análisis y evaluación de políticas de empleo,
+     mismo que permitiría al MTEPS hacer seguimiento de la implementación de sus políticas y
+     realizar los ajustes que fueran necesarios.
+2.13 La cadena causal definida al momento del diseño de la operación estuvo delineada de tal forma
+     que cada componente potenciara al siguiente en la consecución del objetivo. En este sentido, la
+     ampliación del servicio de empleo era un factor determinante para la consecución del
+     componente de apoyo al empleo de adultos, dado que permitía el registro de buscadores de
+     empleo y vacantes para identificar a aquellos buscadores de empleo y vacantes que podrían ser
+     intermediados a través de la capacitación en planta. Asimismo, el diseño también contempló que
+     los productos estuvieran relacionados con los resultados y estos con los objetivos de desarrollo
+     planificados durante el diseño de la operación. Por ejemplo, el establecer una bolsa de empleo y
+     brindar apoyo económico a la inserción laboral de buscadores de empleo apuntaba a promover
+     la inserción en empleos de mejor calidad, medida como formalidad o mejor ingreso.
+     14
+        La búsqueda de empleo y empleados por métodos informales limitan el acceso al empleo para los grupos que no
+     gozan de contactos. Adicionalmente, estos métodos tienen una cobertura limitada, perpetúan la inequidad (Mazza,
+     2011) y son relativamente menos efectivos para la población más vulnerable.
+                                                             11
+"
+"2.14 En relación a la consecución de los objetivos del programa se definieron los siguientes resultados
+     que hacen seguimiento al objetivo específico 1 de ampliar el Servicio de Empleo en Bolivia:
+     (i) incrementar el número de buscadores de trabajo atendidos por el SPE; (ii) incrementar el
+     número de vacantes que los empleadores anuncian en el servicio; y (iii) nuevas empresas que
+     registran sus vacantes en el sistema.
+2.15 Estos resultados asimismo están asociados y son coherentes con los productos de: (a) oficinas
+     del servicio de empleo nacional y local en funcionamiento, que buscaba ampliar el número de
+     oficinas de 4 a 12 oficinas y que además, no solamente consideraba el financiamiento de nuevas
+     oficinas físicas en ciudades donde el servicio no tenía cobertura, sino también la relocalización
+     de algunas oficinas existentes hacia lugares más accesible dentro de ciudades capitales de
+     departamento del país15; y (b) el desarrollo de un portal web de empleo para el registro de ofertas
+     y demandas por internet.
+2.16 Con relación al objetivo específico 2 de implementar el Programa de Apoyo al Empleo de Adultos,
+     en este sentido, los resultados de (i) tasa de colocación de los beneficiarios del programa de
+     apoyo de adultos; y (ii) beneficiarios del programa de apoyo de adultos que se mantienen en su
+     empleo después de tres meses de terminado el estipendio están orientados a hacer seguimiento
+     a la implementación de la PAML destinadas a buscadores de empleo adultos. Los productos que
+     se encuentra atados a estos resultados son: (a) personas beneficiadas con estipendios; y (b) el
+     sistema de monitoreo y evaluación en funcionamiento. Esto se entiende por el número de
+     intermediaciones realizadas a través de PAE y del seguimiento y monitoreo de las mismas que
+     se realizó para conocer sobre la permanencia de los beneficiarios del programa al finalizar la
+     capacitación in situ y tres meses después.
+2.17 Finalmente, el programa considero también otros resultados que están orientados a medir la
+     efectividad de la implementación del objetivo específico 2 de implementar el PAE. Estos
+     resultados fueron medidos y evaluados a través de una Evaluación de impacto
+     cuasiexperimental. Los resultados originalmente propuestos en la matriz del programa son:
+     (iii) beneficiarios del programa de apoyo a adultos que obtienen empleo en relación al grupo de
+     control; (iv) beneficiarios del programa de apoyo de adultos del mismo perfil que obtienen un
+     trabajo mejor remunerado con relación al grupo de control; y (v) beneficiarios del programa de
+     apoyo a adultos que reducen su periodo de búsqueda de empleo con relación a personas del
+     mismo perfil en el grupo de control. Estos resultados son coherentes con el objetivo específico y
+     objetivo final de programa de contribuir a mejorar la inserción laboral de los trabajadores.
+2.18 En este marco, es importante mencionar tres sucesos en cuanto a los resultados durante el
+     proyecto: (i) la mayoría de los resultados mencionados en el párrafo anterior no contaban con
+     línea base ni metas al momento del diseño, esto se explica por la ausencia de datos y la corta
+     experiencia en este tipo de políticas en el país, lo que motivo a que estos datos fueran definidos
+     15 Se buscó separar, en la medida de lo posible, la localización de las oficinas de empleo, de las oficinas del MTEPS,
+     que tradicionalmente se han encargado del rol rector en cuanto al cumplimiento de la normativa laboral.
+                                                                12
+"
+"durante la implementación del proyecto16; (ii) se añadió un resultado a la matriz de resultados,
+“cambio porcentual en el ingreso laboral de los beneficiarios con relación al grupo de control”
+como un mejor indicador para cuantificar la mejora en la calidad de trabajo al que acceden los
+beneficiarios del programa, particularmente en lo que se refiere a mejoras en el ingreso, este
+resultado es coherente con la forma usual de medir en la literatura el impacto de los programas
+de empleo (Atanazio et al., 2011; Card et al., 2011; Berniell y de la Mata, 2017); y (iii) el resultado
+“Beneficiarios del programa de apoyo a adultos que reducen su periodo de búsqueda de empleo
+con relación a personas del mismo perfil en el grupo de control” no fue cuantificado al momento
+del cierre del PCR, sin embargo, es importante mencionar que la encuesta de la evaluación de
+impacto permite medir el indicador, mismo que se encontraba en elaboración al cierre del
+presente documento. El retraso de la medición de este resultado se explica por un proceso de
+limpieza de datos requerido de la base de datos para la medición adecuada de este indicador.
+16
+   Las metas incluidas P(A) en la matriz de resultados fueron definidas en base a la literatura económica especializada
+y las mismas son consistentes con las metas propuestas para el PAE II, que fue aprobado antes de la inclusión de las
+metas.
+                                                           13
+"
+"        Tabla 1. Matriz de resultados (aprobación, 60 días después de alcanzar la elegibilidad y al terminar el proyecto)17
+                                                                                                                                                                  Comentarios
+                                                   En aprobación                En elegibilidad + 60 días           Al terminar el proyecto (PCR)
+                     Indicadores
+                                                         Línea                              Línea                                                (A)
+                                          Unidad de                 Meta     Unidad de                 Meta     Unidad de        Línea de
+                                                           de                                 de
+                                            Medida                   (P)       Medida                   (P)      Medida            Base
+                                                          Base                               Base
+           Capacidad de diseño, ejecución, análisis y evaluación de políticas activas de empleo del Ministerio de Trabajo y Previsión Social (MTEPS) mejorada
+             Resultados
+           Buscadores de trabajo que son
+                                          Persona        10000     20000     Persona        10000     20000   Persona             10000         23688
+           atendidos por año.                                                                                                                                 Objetivo específico 1
+           Vacantes que los empleadores
+           anuncian anualmente en el      Vacante         3000     6000      Vacante         3000      6000   Vacante              3000         8397
+           servicio.                                                                                                                                          Objetivo específico 1
+                                                                                                                                                           El resultado no contaba con
+                                                                                                                                                            meta, ni línea base por la
+                                                                                                                                                           ausencia de experiencia en
+           Beneficiarios del programa de                                                                         Puntos
+                                          Porcentaje                                                                                                        este tipo de políticas en el
+           apoyo a adultos que obtienen                                                                       Porcentuales
+                                                                                                                                     0           8.4      país. Ambas fueron incluidas
+           empleo en relación al grupo de
+           control                                                                                                                                             efectivamente el 3 de
+                                                                                                                                                                diciembre de 2018.
+                                                                                                                                                              Objetivo específico 2
+                                                                                                                                                         Resultado incluido en el PMR,
+                                                                                                                                                         consistente con el objetivo de
+           Cambio porcentual en el
+                                                                                                                                                             desarrollo del Programa,
+           ingreso laboral de los
+                                                                                                              Porcentaje             0           8.7      incluido el 3 de diciembre de
+           beneficiarios con relación al
+                                                                                                                                                                       2018.
+           grupo de control
+                                                                                                                                                              Objetivo específico 2
+17
+   Se debe mencionar que en septiembre de 2017 se habían desactivado los resultados que eran medibles a través de la evaluación de impacto (Beneficiarios del
+programa de apoyo a adultos que obtienen empleo en relación al grupo de control; beneficiarios del programa de apoyo a adultos que reducen su periodo de
+búsqueda de empleo con relación a personas del mismo perfil en el grupo de control; Beneficiarios del programa de apoyo de adultos del mismo perfil que obtienen
+un trabajo mejor remunerado con relación al grupo de control). Esta decisión estaba sustentada en el hecho que la evaluación de impacto había presentado
+problemas en su ejecución, lo que ponía en duda la posibilidad de obtener los resultados. Finalmente, las contingencias fueron resueltas y los resultados alcanzados,
+por lo cual se solicitó la reactivación de los mismos, los que se efectivizaron el 3 de diciembre de 2018.
+                                                                  14
+"
+"                                                                                                                                                      Comentarios
+                                                   En aprobación            En elegibilidad + 60 días        Al terminar el proyecto (PCR)
+                     Indicadores
+                                                         Línea                          Línea                                             (A)
+                                           Unidad de               Meta   Unidad de                Meta  Unidad de        Línea de
+                                                           de                             de
+                                            Medida                  (P)    Medida                   (P)   Medida            Base
+                                                         Base                            Base
+                                                                                                                                               El resultado no contaba con
+           Beneficiarios del programa de
+                                                                                                        Puntos                                  meta, ni línea base, fueron
+           apoyo de adultos del mismo      Porcentaje
+                                                                                                        Porcentuales                           incluidos efectivamente el 3
+           perfil que obtienen un trabajo                                                                                     0           8.5
+                                                                                                                                                   de diciembre de 2018.
+           mejor remunerado con relación
+           al grupo de control
+                                                                                                                                                  Objetivo específico 2
+           Beneficiarios del programa de
+           apoyo a adultos que reducen
+                                           Porcentaje                                                   Porcentaje
+           su periodo de búsqueda de
+           empleo con relación a
+           personas del mismo perfil en el
+           grupo de control18                                                                                                                     Objetivo específico 2
+           Nuevas empresas que             Empresa
+           registran sus vacantes en el                     0     1000                                  Empresa               0        1602
+           sistema                                                                                                                                Objetivo específico 1
+           Inserción laboral de adultos buscadores activos de empleo apoyados por el programa mejorada.
+              Resultados
+           Tasa de colocación de los
+           beneficiarios del programa de   Porcentaje       0     60.00   Porcentaje       0      60.00  Porcentaje           0          63.80
+           apoyo de adultos                                                                                                                       Objetivo específico 2
+           Beneficiarios del programa de
+           apoyo de adultos que se
+           mantienen en su empleo          Porcentaje       0     30.00   Porcentaje       0      30.00  Porcentaje           0          38.49
+           después de tres meses de
+           terminado el estipendio                                                                                                                Objetivo específico 2
+18
+   Los resultados referentes a “Beneficiarios del programa de apoyo a adultos que reducen su periodo de búsqueda de empleo con relación a personas del mismo
+perfil en el grupo de control”, fue encargado como un producto separado en la evaluación de impacto. La decisión de realizar esta evaluación como producto
+separado se explica por la necesidad de contar con una firma con experiencia de trabajo en la temática de duración de desempleo. Al momento del cierre del
+PCR no se cuenta con este resultado, debido a la necesidad de limpieza y consistencia de datos requerido de la base de datos para la medición de este resultado.
+La encuesta realiza preguntas acerca de 3 periodos de empleo o desempleo a beneficiarios y controles: el periodo de su inscripción a la Bolsa de empleo; el
+periodo cuando se realiza la encuesta y el periodo anterior al momento de la encuesta. La decisión de incluir este último periodo se explica por la necesidad de
+contar con periodos completos de empleo o desempleo. La limpieza de datos tiene que ver con la necesidad de dar consistencia al reporte de estos datos.
+                                                                 15
+"
+"     2.2. Efectividad
+2.19 En esta sección se analizará la medida en que el Programa alcanzó los objetivos y resultados
+      especificados, con base en los productos logrados durante su ejecución.
+                       a. Descripción de los objetivos de desarrollo del proyecto
+2.20 El objetivo general del Proyecto fue apoyar al MTEPS a ampliar la cobertura y efectividad de sus
+      políticas activas de empleo y con ello contribuir a mejorar la inserción laboral de los trabajadores.
+      Para tal fin, los objetivos específicos del Proyecto fueron:
+          (1) Ampliar el Servicio de Empleo, a través de la expansión del servicio tanto física como por
+              medios web.
+          (2) Iniciar el Programa de Apoyo al Empleo de Adultos, para facilitar la inserción de
+              buscadores de empleo que ya contasen con un perfil requerido en el mercado, pero que
+              tuviesen dificultades en encontrar una oportunidad de encontrar una fuente de trabajo
+              debido a asimetrías de información dentro del mercado laboral; y
+          (3) Planificación, análisis de políticas de empleo y evaluación, que permitiese hacer el
+              seguimiento correspondiente del Programa.
+2.21 Para cumplir con dichos objetivos, el programa se estructuro de forma tal que cada objetivo
+      estuviese relacionado a un componente:
+2.22 Componente 1 – Ampliación del Servicio de Empleo: Planeado con un presupuesto de
+      US$6.442.314, y ejecutado con un importe de US$6.460.465. Este componente contemplaba
+      apoyar el desarrollo de áreas del MTEPS con injerencia en el desarrollo de políticas, programas
+      y proyectos de empleo. Es así que se incluyeron como productos de este Componente: (i) 12
+      oficinas del Servicio de Empleo nacional equipadas y en funcionando en las 9 ciudades capitales
+      de departamento, la ciudad de El Alto, Montero y Yacuiba; y (ii) el desarrollo de un portal web de
+      empleo para facilitar la promoción del SPE, su acceso a empresas y buscadores de empleo, y
+      brindar orientación a sus usuarios respecto a los servicios ofrecidos.
+2.23 Se buscó como resultado de estos productos mejorar el alcance de usuarios del SPE y adecuarse
+      a los requerimientos tanto de la oferta como de la demanda del mercado laboral, por lo que se
+      apuntó a que, entre los resultados finales del Programa, el SPE logre atender a
+      20.000 buscadores de empleo, e incorpore el registro de 1.000 empresas que, a su vez, pudiesen
+      anunciar un total de 6.000 vacantes reales durante el tiempo de ejecución de este proyecto.
+2.24 Componente 2 – Apoyo al Apoyo a Adultos: Planeado con un presupuesto original de
+      US$11.942.382 y ejecutado con un total de US$12.661.606,62. Este componente estuvo
+      diseñado para facilitar la inserción de buscadores de empleo que ya contasen con un perfil
+      requerido, pero que carecen de una oportunidad de trabajo que les permita adquirir la
+      capacitación in situ (en empresas) y la experiencia necesaria para lograr su inserción laboral. El
+      objetivo de este componente es incrementar el acceso a oportunidades de trabajo de buscadores
+      de empleo en edad de trabajar, medido por la inserción en mejores empleos (en términos de
+      salarios y beneficios, comparado con un grupo de comparación observable), que si lo tuvieran
+                                                       16
+"
+"     que lograr por su cuenta. Para llevar a cabo esta tarea, este componente incorporó un programa
+     de capacitación in-situ de hasta 3 meses para los buscadores de empleo dentro de las empresas
+     registradas en el SPE. Esto se desarrolló mediante el pago de apoyos económicos mensuales,
+     al momento de su diseño se buscó atender a 20.000 buscadores de empleo intermediados en
+     las empresas participantes durante el periodo de capacitación.
+2.25 En este sentido, el PAE estaba diseñado para: (i) apoyar el proceso de intermediación laboral,
+     para acercar a los buscadores de empleo con las vacantes registradas; y (ii) impulsar a la
+     contratación de buscadores de empleo que cumplen con el perfil, pero que de otra forma no
+     hubieran sido contratados por las empresas. Idealmente, una vez concluido este periodo, mismo
+     en el que las empresas tenían la oportunidad evaluar el desempeño de los beneficiarios, éstas
+     incorporarían (si les era conveniente) a estas personas dentro de sus instituciones, dado el
+     conocimiento técnico particular de la empresa adquirido durante la capacitación.
+2.26 En este sentido, para verificar el cumplimiento del componente, se incorporaron los siguientes
+     resultados: (i) la tasa de colocación de beneficiarios del PAE de al menos 60% al finalizar la
+     ejecución; y (ii) que al menos 30% de los beneficiarios del Programa hayan mantenido su empleo
+     al menos 3 meses después de haberse finalizado el financiamiento de estipendios financiados
+     por el programa.
+2.27 Componente 3 – Planificación, análisis de políticas de empleo y evaluación: Planeado con un
+     presupuesto de US$1.010.000 y ejecutado con un total de US$442.042,33. Este componente se
+     incorporó con el propósito de financiar el desarrollo de sistemas de monitoreo, estudios de
+     evaluación operativos y la evaluación de impacto del PAE y otras líneas que atienden a población
+     específica (por ejemplo, los usuarios de las oficinas locales del Servicio de Empleo).
+2.28 Los resultados asociados al programa como tal estaban orientados a evaluar si el Programa
+     hubiese generado un cambio en la calidad de empleo a la que los buscadores de empleo
+     intermediados por el PAE alcanzaban (medido a través de mejores ingresos laborales con
+     relación al grupo de control).
+2.29 Adicionalmente, teniendo en cuenta las necesidades de seguimiento, apoyo administrativo y
+     financiero y auditorías del SPE, para esto se consideró un presupuesto de
+     US$605.304 (US$515.304 por costos administrativos del SPE y US$90,000para auditorias). El
+     monto ejecutado por estos conceptos durante el programa alcanzó a US$435.859,3019.
+                        b. Resultados Logrados
+2.30 Los resultados y productos de la Propuesta de Desarrollo del Préstamo (POD) se materializaron
+     sin cambios sustanciales, aunque se observaron algunos atrasos en los tiempos de ejecución,
+     explicados por los retrasos en los procesos de adquisiciones. El Programa tuvo dos ampliaciones
+     de plazo para su ejecución, cambiando el límite original fijado para el 17 de marzo de 2016 al
+     19 El gasto asociado al programa alcanzó US$19.999.974. La diferencia de US$26 no fueron devueltos al Banco porque
+     los costos de la transacción del dinero superaban el monto a ser devuelto. Por un tema práctico, al análisis realizado
+     de aquí en adelante considera un costo total de US$20 millones.
+                                                             17
+"
+"        30 de junio de 2017 y luego al 15 de septiembre de 2017. El detalle de cada producto y su
+        consecuencia a los resultados del Programa se presentan a continuación:
+2.31 A continuación, se presenta el resumen de los resultados del Programa respecto a su línea base
+        y programación original:
+                                               Tabla 2. Matriz de resultados logrados20
+                                                           Valor de
+                                            Unidad de                   Año de línea                                  %
+             Resultado/Indicador                           Línea de                      Metas y alcance real                   Medios de verificación
+                                              Medida                       de base                               Alcanzado
+                                                             base
+    Capacidad de diseño, ejecución, análisis y evaluación de políticas activas de empleo del Ministerio de Trabajo y Previsión Social (MTEPS) mejorada
+                                                                                        P            20000
+                                                                                                                               Estadísticas del Ministerio
+    Buscadores de trabajo que son                                                                                              de Empleo y Previsión
+                                             Persona        10000            2009       P(a)         20000           118
+    atendidos por año.                                                                                                         Social y Portal Web del
+                                                                                                                               PAE
+                                                                                        A            23688
+                                                                                        P             6000
+                                                                                                                               Estadísticas del Ministerio
+    Vacantes que los empleadores                                                                                               de Empleo y Previsión
+                                             Vacante         3000            2008       P(a)          6000           140
+    anuncian anualmente en el servicio.                                                                                        Social y Portal Web del
+                                                                                                                               PAE
+                                                                                        A             8397
+                                                                                        P                                      Evaluación de impacto del
+    Beneficiarios del programa de apoyo a                                                                                      Programa
+                                              Puntos
+    adultos que obtienen empleo en                             0             2010       P(a)           5.0           168
+                                           Porcentuales
+    relación al grupo de control
+                                                                                        A              8.4
+                                                                                        P                                      Evaluación de impacto del
+    Cambio porcentual en el ingreso                                                                                            Programa
+                                                                                                                      no
+    laboral de los beneficiarios con       Porcentaje          0             2010       P(a)
+                                                                                                                  disponible
+    relación al grupo de control
+                                                                                        A              8.7
+                                                                                        P                                      Elaborado con datos de la
+    Beneficiarios del programa de apoyo                                                                                        evaluación de impacto del
+    de adultos del mismo perfil que        Puntos                                                                              Programa
+                                                               0             2010       P(a)            5            170
+    obtienen un trabajo mejor remunerado   Porcentuales
+    con relación al grupo de control
+                                                                                        A              8.5
+    Beneficiarios del programa de apoyo a                                               P                                      No disponible al momento
+    adultos que reducen su periodo de                                                                                          del PCR
+    búsqueda de empleo con relación a      Porcentaje                        2010       P(a)
+    personas del mismo perfil en el grupo
+    de control                                                                          A
+                                                                                        P             1000                     Estadísticas del Ministerio
+                                                                                                                               de Empleo y Previsión
+    Nuevas empresas que registran sus                                                                                          Social y Portal Web del
+                                           Empresa             0             2010       P(a)          1000           160
+    vacantes en el sistema                                                                                                     PAE
+                                                                                        A             1602
+        20 Datos de la evaluación permiten señalar que el impacto del programa para hombres y mujeres sobre el acceso a
+        empleo e ingresos laborales no son estadísticamente diferente. Con relación al porcentaje de beneficiarios que
+        obtuvieron un trabajo mejor remunerado, se observa que un porcentaje mayor de hombres que mejoran su ingreso,
+        aunque esta diferencia es pequeña y no significativa (solo 1,1 pp.) Con relación al porcentaje de beneficiarios que
+        mantienen su trabajo 3 meses después de terminado el estipendio existe una ligera diferencia positiva a favor de los
+        hombres en 2,5 pp. significativa al 10%).
+                                                                             18
+"
+"    Capacidad de diseño, ejecución, análisis y evaluación de políticas activas de empleo del Ministerio de Trabajo y Previsión Social (MTEPS) mejorada
+                                                                                        P             40.0%                    Encuestas de seguimiento
+                                                                                                                               del Programa
+    Tasa de colocación de beneficiarios
+                                           Porcentaje         0              2010       P(a)          60.0%          104
+    del Programa
+                                                                                        A             62.3%
+                                                                                        P             20.0%                    Encuestas de seguimiento
+    Beneficiarios que se mantienen en su                                                                                       del Programa
+    trabajo 3 meses después de              Porcentaje        0              2010       P(a)          30.0%          128
+    terminado el estipendio
+                                                                                        A             38.5%
+                                                           Valor de
+                                            Unidad de                   Año de línea                                  %
+                   Producto                                Línea de                      Metas y alcance real                   Medios de verificación
+                                              Medida                       de base                               Alcanzado
+                                                             base
+                                                                                        P              12
+    Oficinas del servicio de empleo
+                                              Oficina         4              2010       P(a)           12            108         Visitas de Inspección e
+    nacional y locales funcionando.
+                                                                                                                                  informes semestrales
+                                                                                        A              13
+                                                                                        P               1
+    Portal de empleo funcionando               Portal         0              2010       P(a)            1            100                Portal Web
+                                                                                        A               1
+                                                                                        P            20000
+                                                                                                                                Informes semestrales de
+    Personas beneficiadas con
+                                           Beneficiarios      0              2010       P(a)         18686            95           progreso/ Datos del
+    estipendios
+                                                                                                                                   sistema del SPEBO
+                                                                                        A            19024
+                                                                                        P               1
+    Sistema de Monitoreo y Evaluación en
+                                             Sistema          0              2010       P(a)            1            100
+    funcionamiento.                                                                                                                      Sistema
+                                                                                        A               1
+        Productos:
+2.32 Oficinas y Locales del Servicio de Empleo Nacional Funcionando: Hasta el primer semestre de
+        2016, se cumplió con la meta original de equipar las 12 oficinas propuestas para el SPEBO y
+        hasta el final del Programa se logró ampliar la cobertura de este indicador para incluir una oficina
+        física adicional, llegando a un total de 13. Esto implicó también una serie de cambios de ejecución
+        referidos al personal operativo de estas oficinas y a las necesidades estratégicas de las
+        localidades de las oficinas físicas permanentes.
+2.33 Portal del Programa de Apoyo al Empleo Funcionando: El portal web del PAE, entró en operación
+        en 2014, a través del dominio http://www.pae.gob.bo/ permitiendo así un acceso mejorado y
+        amigable a los usuarios de los servicios de intermediación laboral del Programa. El portal también
+                                                                             19
+"
+"     permite la interconexión complementación y sistematización de datos de beneficiarios y
+     empresas registradas21.
+2.34 Personas Beneficiadas con Estipendios: Se observa que, hasta el cierre del proyecto, el
+     Programa logró atender a un total de 19.024 buscadores de empleo, llegando a cubrir un
+     95,12% de la meta original de 20.000 beneficiarios atendidos por año.
+2.35 Respecto a la composición de los beneficiarios se encuentra que 55% fueron mujeres, 79% de
+     los beneficiarios eran menores a 35 años. Se observa también una importante participación de
+     beneficiarios con formación terciaria o profesional, 35% de los beneficiarios tenían ese perfil y
+     14% se declararon como estudiantes universitarios22 23.
+2.36 La menor cantidad de beneficiarios alcanzados con respecto a lo planificado se explica debido a
+     que, al momento del diseño, el pago de estipendios para capacitación en planta estaba indexado
+     al salario mínimo. En el periodo de ejecución del programa, el GOB realizó constantes
+     incrementos al salario mínimo, afectando de manera directa la estructura del pago de estos
+     subsidios (Tabla 3). Además de sufrir cambios en su valor, el pago de estipendios fue variando
+     en su estructura para funcionar de una manera más eficiente ante las modificaciones en la
+     legislación laboral.
+2.37 En un inició se definió que los estipendios tendrían dos escalas, las cuales eran determinadas
+     en un salario mínimo (100%) y en un salario mínimo y medio (150%). Estos valores fueron
+     actualizados año a año en la misma medida que los aumentos al salario mínimo, hasta 2013,
+     año en el que se incorporaron dos escalas intermedias adicionales de 115% y 130% del salario
+     mínimo.
+                   Tabla 3: Evolución del aumento salarial nominal en Bolivia 2010-2017
+             Año            2010           2011         2012          2013         2014        2015        2016        2017
+      Bolivianos            679,5          815,4       1000,0        1200,0       1440,0      1656,0      1805,0      2000,0
+      Dólares               97,63         117,16       143,68        172,41       206,90      237,93      259,34      287,35
+      Variación Anual                     20,00%       22,64%        20,00%       20,00%     15,00%       9,00%       10,80%
+     *Fuente: Elaboración propia a partir de la información de los informes semestrales y ayudas memorias del Programa.
+2.38 Sistema de Monitoreo y Evaluación en Funcionamiento: Se incorporó un sistema de monitoreo y
+     generación de datos para la gestión del programa. El sistema implementado en 2016 permitió
+     21 Siguiendo la normativa local, el portal requiere la verificación de información de los datos de registro como: el nombre
+     de los buscadores de empleo o empresas, tipo de personería jurídica, croquis de la residencia, facturas de luz o agua,
+     teléfonos de contacto y documentos de identificación nacionales. (C.I. en el caso de personas naturales y registro de
+     Número de Identificación Tributaria/ Fundempresa en el caso de personas jurídicas). En ese sentido, de todas formas,
+     es requerida la presencia de buscadores de empleo y empresas para completar el registro de vacantes y ofertas
+     laborales, lo que no ha permitido un mayor uso del portal web.
+     22 Datos interesantes de ser destacado, considerando que históricamente el perfil de los buscadores de empleo que
+     se acercaban al SPE eran aquellos con bajos niveles de formación.
+     23
+        Al momento de diseño de la operación y a solicitud del MTEPS, se definió que se analizaría la posibilidad de incluir
+     acciones orientadas a identificar oportunidades con el sector de agroindustria en áreas rurales. Al respecto el PAE
+     trabajo con la Empresa Azucarera San Buenaventura en el norte del Departamento de La Paz donde se intermediaron
+     a 162 beneficiarios desde 2012 hasta 2017. Adicionalmente, el programa trabajo con ciudades intermedias como
+     Guayaramerín, Montero, Yacuiba y Tupiza, aunque en sectores diferentes al de la Agroindustria.
+                                                                    20
+"
+"     mejorar el registro de buscadores de empleo y empresas para la intermediación laboral en la
+     Bolsa de Empleo y contar con un sistema de monitoreo de datos del programa, en cuanto a
+     beneficiarios, empresas, pero también en lo que se refiere al control de pago de estipendios y
+     otros temas inherentes al programa. El sistema desarrollado durante la operación, después de
+     algunas mejoras sigue funcionando en la segunda etapa del programa (PAE II) y ha servido de
+     insumo para mejora el seguimiento y monitoreo de beneficiarios del PAE como de usuarios de la
+     Bolsa de Empleo.
+2.39 El sistema también permitió el financiamiento de la recolección de la encuesta de evaluación de
+     impacto del programa, misma que sirvió para el desarrollo de la evaluación de impacto, que
+     sustenta gran parte de los resultados del PAE a ser explicados a continuación.
+     Resultados
+2.40 En relación a los resultados, también se superó la mayoría de las metas propuestas en la
+     operación, hecho que se puede corroborar a través de datos administrativos del MTEPS y los
+     resultados de la evaluación de impacto cuasi experimental del programa. La evaluación de
+     impacto fue realizada mediante una combinación de Propensity Score Matching y Diferencias en
+     Diferencias. El grupo de control está constituido por buscadores de empleo que se registraron en
+     la Bolsa de Empleo pero que no fueron beneficiarios por el Programa a través de la capacitación
+     en planta.
+2.41 Buscadores de empleo atendidos por año: Producto de la ampliación de cobertura y
+     acercamiento del Servicio de Empleo a la población en general, el programa alcanzó más de
+     20 mil buscadores de empleo atendidos por el SPE por año. El programa permitió que se
+     atiendan a 23688 buscadores de empleo en una gestión, alcanzando el 118% de lo planificado.
+2.42 Vacantes que los empleadores anuncian anualmente en el servicio: Como contra cara del
+     resultado anterior, el programa permitió que el SPE alcance su meta de registro de vacantes
+     laborales y llegó a registrar 8397 vacantes, alcanzando el 140% de la meta.
+2.43 Nuevas empresas que registran sus vacantes: El programa permitió que se registren más de
+     1.602 nuevas empresas al SPE, siendo que la meta de este resultado era de 1.000 nuevas
+     empresas durante el desarrollo del programa. Respecto al número de vacantes y empresas
+     nuevas registradas, es interesante señalar que el 94% de las empresas donde se intermediaron
+     beneficiarios corresponden a empresas privadas, de las cuales 24% señalaron ser empresas
+     grandes (con más de 50 trabajadores), 20% empresas medianas (entre 16 y 50 trabajadores) y
+     55% empresas pequeñas, de menos de 15 trabajadores.
+2.44 Tasa de colocación de beneficiarios del Programa: Como resultado de la ampliación del servicio
+     de empleo y de las intermediaciones laborales realizadas por el programa, se pudo evidenciar a
+     través de encuestas de seguimiento en diferentes años, que la tasa de colocación de
+     beneficiarios del programa fue de 62,3%, cuando el resultado esperado era de 60%.
+                                                      21
+"
+"2.45 Beneficiarios que se mantienen en su trabajo 3 meses después de terminado el estipendio: Como
+     consecuencia del resultado anterior, el Programa permitió que el 38,5% de los beneficiarios de
+     la capacitación en planta mantuvieran su trabajo 3 meses después de haber culminado la
+     capacitación en planta, lo que representa el 128% del resultado esperado de 30%.
+2.46 Beneficiarios del programa de apoyo a adultos que obtienen empleo en relación al grupo de
+     control: El programa permitió identificar mediante la evaluación de impacto cuasi -experimental
+     que los beneficiarios del programa mejoran su posibilidad de acceder a empleo en 8,4 puntos
+     porcentuales, siendo que la literatura y la meta del programa era de 5 pp. Este resultado implica
+     un cumplimiento de 168% de la meta.
+2.47 Cambio porcentual en el ingreso laboral de los beneficiarios con relación al grupo de control: Se
+     puede evidenciar también que el programa mejoro el ingreso de los beneficiarios con relación al
+     grupo de control en 8,7%, el resultado no cuenta con meta registrada en el PMR, sin embargo,
+     la literatura estima que incrementos del 10% son razonables. Si bien el resultado del programa
+     es ligeramente menor al esperado, se encuentran dentro del umbral de resultados encontrados
+     mediante evaluaciones experimentales en la región.
+2.48 Beneficiarios del programa de apoyo de adultos del mismo perfil que obtienen un trabajo mejor
+     remunerado con relación al grupo de control: El resultado mide la diferencia en el porcentaje de
+     beneficiarios y el grupo de control que obtienen, gracias al programa, un mejor acceso a empleos
+     mejor remunerados. El resultado encontrado, en base a datos de la encuesta de evaluación de
+     impacto del programa dan cuenta de una diferencia porcentual de 8,5 pp., siendo que la literatura
+     especializada en el tema ha encontrado resultados relacionados a acceso a empleos de mejor
+     calidad en cuanto a acceso a formalidad, por ejemplo, del orden de 5 pp. Los resultados son
+     superiores a la evidencia de literatura existente.
+2.49 Beneficiarios del programa de apoyo a adultos que reducen su periodo de búsqueda de empleo
+     con relación a personas del mismo perfil en el grupo de control: El resultado no fue calculado
+     hasta el momento del cierre del PCR, sin embargo, es importante mencionar que la evaluación
+     de impacto del programa permite cuantificar la esperada reducción de tiempo de búsqueda de
+     los beneficiarios con relación al grupo de control como consecuencia de mejores credenciales
+     laborales (a través del acceso a experiencia laboral formal) y por el mayor acceso a contactos
+     para la búsqueda laboral.
+                      c. Análisis contrafactual
+2.50 Para la atribución del programa se cuenta con evidencia empírica y evidencia a nivel de
+     evaluación de impacto que permite tener confianza de que las mejoras en los resultados
+     encontrados son atribuibles al programa.
+2.51 En lo que se refiere a evidencia empírica, el programa permitió, a través de las distintas acciones
+     y productos asociadas al componente de ampliación del servicio de empleo, el incremento de
+     registros de buscadores de empleo y de vacantes, a la vez que modificó el perfil de buscadores
+     de empleo que se acercaban al servicio hacia un perfil con mayor nivel de educación, que era el
+                                                      22
+"
+"     grupo que se encontraba particularmente desprotegido de las PAML en Bolivia (Gráfico 1,
+     Tabla 4).
+2.52 Como se puede observar, el número de registros de ofertas y demandas (vacantes) laborales en
+     el SPE se incrementó notablemente a partir del inicio del Programa. Para lograr esto, se procedió
+     a financiar 8 oficinas adicionales en otras localidades del país, junto con el equipamiento y
+     personal operativo necesario para brindar un servicio de orientación e intermediación a adultos.
+     Asimismo, se identificaron falencias de equipamiento y personal en las oficinas existentes, por lo
+     que se financiaron gastos operativos y alquileres para estas oficinas. Se hizo el esfuerzo para
+     tratar, en lo posible, de separar las oficinas del PAE de las oficinas regulares del MTEPS, que
+     generalmente se han visto asociadas al rol de regulación del Ministerio24.
+2.53 El hecho que el Programa haya motivado y financiado la apertura de oficinas, el equipamiento y
+     personal adecuados; la relocalización de oficinas a zonas más accesibles (cuando era
+     necesario); el desarrollo del portal WEB y los procesos de socialización del programa, nos
+     permiten atribuir el cumplimiento de las metas en los resultados al Programa.
+2.54 En lo que se refiere al número de buscadores de trabajo atendidos por año, una mejor
+     accesibilidad al SPEBO permitió que aquellos buscadores interesados en el Programa y sus
+     beneficios se inscriban en el servicio. Fueron entonces las acciones del Programa las que
+     permitieron el crecimiento en el registro de estos por año, lo que también muestra correlación
+     con él incremento en el número de oficinas disponibles.
+2.55 Asimismo, el incremento anual de las vacantes que los empleadores anuncian en el servicio es
+     coherente con las acciones del Programa de mayor accesibilidad gracias a la presencia de
+     nuevas oficinas y el funcionamiento del portal WEB.
+2.56 Finalmente, estas acciones y los positivos resultados observados en el programa permitieron que
+     nuevas empresas registren sus vacantes en el sistema. Es interesante notar que los registros
+     de buscadores de empleo, vacantes y nuevas empresas en el sistema están muy correlacionados
+     con el desarrollo del Programa, con lo cual también se observa una reducción en estos resultados
+     hacia la finalización del contrato de préstamo. En este sentido, es interesante mencionar que
+     estos resultados positivos se consiguieron en gran medida por la promoción del programa de las
+     mismas empresas que se eran usuarias del mismo. En este sentido, la positiva relación del
+     Programa con la Federación de empresarios de Sucre y de Oruro son claros ejemplo de esto.
+     24
+        Es importante notar que existieron algunos cambios en la distribución geográfica en relación con lo propuesto
+     originalmente en la fase de diseño. Las oficinas regionales situadas en las 8 ciudades capitales del país iniciaron sus
+     operaciones a principios del año 2013, exceptuando la ciudad de Trinidad, que empezó el registro de buscadores de
+     empleo en noviembre de ese año. Respecto a las oficinas en otras poblaciones, la oficina de la ciudad de Montero
+     empezó a registrar beneficiarios desde febrero de 2014, mientras que la oficina propuesta en Quillacollo no fue puesta
+     en servicio, por la cercanía de la oficina de Cochabamba. En su lugar se habilitaron las oficinas en Yacuiba (Tarija) y
+     Guayaramerín (Beni) que iniciaron sus operaciones en febrero y abril de 2016. Adicionalmente se instauraron brigadas
+     móviles del Programa que funcionaron de manera conjunta con ferias de empleo.
+                                                               23
+"
+"2.57 En lo que se refiere al logro en el resultado de Tasa de colocación de beneficiarios y Beneficiarios
+     del programa de apoyo de adultos que se mantienen en su empleo después de tres meses de
+     terminado el estipendio, estos resultados están exclusivamente asociados a la entrega del
+     beneficio del PAE y al trabajo previo de los concertadores de empleo de identificar buscadores
+     de empleo e intermediarlos con las empresas de forma tal que estos sean idóneos para las
+     vacantes existentes.
+2.58 En cuanto a la atribución de los resultados de: Beneficiarios del programa de apoyo a adultos
+     que obtienen empleo con relación al grupo de control; Beneficiarios del programa de adultos del
+     mismo perfil que obtienen un trabajo mejor remunerado con relación al grupo de control y al
+     Cambio porcentual en el ingreso laboral de los beneficiarios con relación al grupo de control, el
+     programa cuenta con una evaluación de impacto cuasi experimental que permite la atribución de
+     los resultados del programa a los impactos encontrados en los beneficiarios.
+2.59 Por el diseño de la evaluación, los resultados se focalizaron en el componente 2 del programa
+     Apoyo al Empleo de Adultos. Este ejercicio se realizó a través de encuestas telefónicas entre
+     octubre de 2017 y enero de 2018.
+                 Gráfico 1: Número de registros de Ofertas y Demandas laborales por mes
+                                                                                                               Enero 2005 – Julio 2017
+                                           3,000
+                                                                                       Ofertas Registradas por Mes
+                                           2,500                                       Demandas Registradas por Mes
+                     Número de registros
+                                           2,000
+                                           1,500
+                                           1,000
+                                            500
+                                              0
+                                                   Jul-05   Jan-06   Jul-06   Jan-07    Jul-07   Jan-08   Jul-08    Jan-09   Jul-09   Jan-10   Jul-10    Jan-11   Jul-11   Jan-12   Jul-12   Jan-13   Jul-13   Jan-14    Jul-14   Jan-15   Jul-15   Jan-16   Jul-16   Jan-17
+      *Fuente: Elaboración propia a partir de datos administrativos del SPE de Bolivia. La línea roja horizontal representa el momento
+      en el cual programa se vuelve elegible.
+         Tabla 4: Registro promedio de ofertas y demandas en el SPE y registro de empresas nuevas:
+                                                  2005-2017
+                                                          Registros
+                                                                                                                    Ofertas                                       Demandas                                              Empresas
+                                                                                                                   Promedio                                       Promedio                                               nuevas
+                                                   2005 - 2011                                                                    3.749                                                2.840                                                   0
+                                                   2012 - 2017                                                                   15.737                                                7.542                                               6.857
+      *Fuente: Elaboración propia a partir de datos administrativos del SPE de Bolivia.
+2.60 En cuanto a la evaluación de impacto del programa, esta utilizó datos obtenidos de
+     14.463 buscadores de empleo, entre beneficiarios del programa (3.759) y controles (10.704) en
+                                                                                                                                                        24
+"
+"     las ciudades capitales de departamento y otras ciudades donde se ejecutó el programa. Para la
+     evaluación de impacto se consideró como beneficiarios a aquellos buscadores de empleo
+     registrados en la Bolsa de Empleo del SPE que fueron intermediados en empresas registradas
+     en el PAE para la capacitación in situ de tres (3) meses. Se consideró como controles a aquellos
+     buscadores de empleo registrados en la Bolsa de Empleo del SPE, que no recibieron el beneficio
+     de la capacitación in situ. Para la evaluación, el grupo de control se refiere a aquellos buscadores
+     de empleo que estando registrados en el SPE no fueron seleccionados para el beneficio, ya sea
+     porque su registro se realizó en fecha en las cuales no existía una vacante disponible o por
+     diferencias con el perfil requerido o, para controlar este último la estrategia de identificación
+     considera las diferencias que puedan existir tanto en variables observables (ej. Educación, edad,
+     etc.) como en no observables (ej. aptitudes, habilidades socioemocionales, etc.). En ese sentido,
+     la medición del impacto del programa, corresponde solamente al impacto incremental asociado
+     a la intermediación laboral realizada por el Programa y a la capacitación in situ de tres (3) meses,
+     y no considera el impacto que tiene el uso de la Bolsa de Empleo por parte de los buscadores
+     de empleo, como se explica en el análisis costo beneficio, por lo que los datos de impacto están
+     subestimados.
+2.61 El diseño de la encuesta permitió recolectar información de beneficiarios y controles desde
+     2015 hasta 2017, donde se recolectó información de las características laborales al momento de
+     su primer registro en el SPE (t=0) así como al momento de realizar la encuesta (t=1). La
+     estrategia de identificación utilizada para la identificación del impacto causal consistió en el uso
+     de dos técnicas en conjunto, Propensity Score Matching (PSM), a través de un Kernel, y
+     Diferencias en Diferencias (DiD). La estrategia de identificación de la evaluación combina el
+     hecho de que, controlando por variables observables de beneficiarios y no beneficiarios antes de
+     su registro en el programa, se puede controlar todas aquellas variables que afectan la posibilidad
+     de ser beneficiario del programa y los resultados de las variables laborales de interés.
+     Adicionalmente, a través de Diferencias en Diferencias, se pudo eliminar todas aquellas variables
+     no observables que se mantienen constante en el tiempo y que afectan la posibilidad de ser
+     beneficiarios e impacta las variables laborales.
+2.62 La evaluación encontró un impacto positivo y significativo del Programa en tres variables
+     laborales de interés y relacionadas con los objetivos del programa. Se encontró impacto en el
+     acceso a empleo de los beneficiarios del programa en 8 pp. (puntos porcentuales), un impacto
+     de 3,8 pp. en la probabilidad de tener un empleo formal (entendiendo empleo formal como empleo
+     que tiene acceso a seguridad social y finalmente un impacto de 8% en el ingreso de los
+     beneficiarios del programa. La evaluación de impacto cuenta con varios test de robustez de los
+     impactos que permiten tener certeza de los resultados obtenidos. Asimismo, datos de la
+     evaluación de impacto permiten identificar que los beneficiarios del programa obtuvieron un
+     trabajo mejor remunerando en 8,5 pp. más que para el grupo de control.
+2.63 Los resultados de la evaluación de impacto del programa son congruentes con los encontrados
+     en la literatura económica. La evidencia de los países en desarrollo encuentra impactos positivos
+     en países en desarrollo, particularmente en Latinoamérica (Betcherman, 2007; Ibarrarán &
+     Rosas, 2008; Gonzales et al., 2012; Attanasio et al., 2011; Kluve 2014; Kluve, 2016). Por ejemplo,
+                                                       25
+"
+"     en Argentina, Berniell & de la Mata (2017), mediante una evaluación experimental encuentran
+     evidencia del impacto en la probabilidad de estar empleado en un trabajo formal (entre 3 pp. y
+     6 pp.) y una reducción en la probabilidad de estar desempleado (en 10 pp.). Con respecto al
+     impacto sobre ingresos, encuentran un impacto que varía entre 0% y 5%.
+2.64 Asimismo, los resultados son consistentes con la evidencia de PAML en Bolivia, Hernani &
+     Villarroel (2015) realizan una evaluación de la primera etapa del programa “Mi Primer Empleo
+     Digno”. Los autores, utilizando una estrategia de identificación a través de regresión discontinua,
+     encuentran evidencia de corto plazo que demuestra un impacto en 23 pp. sobre la perspectiva
+     de empleo para jóvenes y también impacto entre 4 y 7 pp. en la perspectiva de empleo formal y
+     un impacto en ingresos laboral de Bs.500.
+                        d. Resultados imprevistos
+2.65 En coordinación con el Ejecutor, y a manera de complementar las metas propuestas para el
+     Componente 2 del Programa se propusieron las siguientes modalidades de apoyo a buscadores
+     de empleo que agregan mayores dimensiones de apoyo social, que inicialmente no se
+     encontraban previstas en el diseño original de la Propuesta de Préstamo:
+     Inserción laboral para jóvenes indígenas
+2.66 Otro tema que se avanzó con relación al apoyo a grupos vulnerables es el trabajo conjunto con
+     el FOMIN para el diseño de un proyecto que busca construir un modelo de formación técnica e
+     inserción laboral para jóvenes migrantes indígenas que incluyó temas de interculturalidad,
+     habilidades técnicas y socioemocionales25. Al mismo tiempo el proyecto trabajó con empresas
+     para sensibilizarlas y asesorarlas en la incorporación de una gestión intercultural de recursos
+     humanos. En este proyecto del FOMIN, el PAE apoyo particularmente en la intermediación
+     laboral de los jóvenes capacitados. Al cierre del PAE se intermediaron 36 beneficiarios y el PAE
+     II continúa apoyando el proyecto BO-M1064.
+     Contratación de cursos cortos especializados para empresas asociadas a ACEIGAS
+2.67 Durante el periodo de octubre de 2014 a marzo de 2015 en la ciudad de Cochabamba se realizó
+     un piloto de apoyo a la inserción de trabajos intensivos en capacidades técnicas para la
+     instalación de líneas de gas domiciliario. El piloto incorporó el subsidio de cursos de capacitación
+     en aula con una duración de 180 horas, además de la compra de materiales de protección y
+     aprendizaje, contando con un total de 135 beneficiarios. El total de asistentes lograron ser
+     intermediados exitosamente, 124 beneficiarios lograron ser emparejados en oficios con un salario
+     de Bs.1440.
+     Inclusión de Personas con Discapacidad
+2.68 Durante la ejecución del Programa, se logró intermediar a un total de 241 personas con
+     discapacidad en empresas formales a lo largo de todas las oficinas del Programa. De éstas,
+     68.46% percibió un ingreso equivalente al salario mínimo de Bs.1805, mientras que el
+     25 Modelo Intercultural de Inserción Laboral para Jóvenes Indígenas de El Alto (BO-M1064; ATN/ME-14734-BO).
+                                                              26
+"
+"      31.53% restante fue posicionado en empleos con estipendios equivalentes a Bs.2076 o más.
+      Asimismo, la estructura por género de estos beneficiarios correspondió a 98 mujeres (equivalente
+      a 40,66% de las personas con discapacidad atendidas y 143 hombres (59,34% de este total).
+      Esta experiencia fue un primer paso para lo que en la segunda etapa del PAE (PAE II) se
+      desarrolle un piloto más estructurado para personas con discapacidad.
+      Piloto de apoyo de inserción de jóvenes en pequeñas y microempresas
+2.69 Este piloto inicialmente surgió bajo el marco de un convenio de cooperación entre el MTEPS y la
+      Confederación Nacional de la Micro y Pequeña Empresa (CONAMYPE) con la intención de
+      facilitar la generación de vacantes, al implementar el uso del registro del programa PROBOLIVIA
+      como un medio simplificado de acceso de microempresas productivas al Programa. Bajo este
+      esquema, en el periodo de junio 2014 a marzo 2015, se logró emparejar a 443 personas en
+      9 oficinas del PAE en empleos del sector industria y producción.
+     2.3. Eficiencia
+2.70 El análisis costo-beneficio (ACB) ex post utiliza como base la información de los resultados
+      obtenidos de la evaluación del programa (BO-L1051; Contrato de Préstamo 2365/BL-BO).
+      El ACB calcula los beneficios económicos netos sociales incrementales relacionados a la
+      implementación del programa, esto se realiza sustrayendo los costos incrementales del programa
+      del flujo descontado de beneficios incrementales estimados.
+2.71 En cuanto al análisis presupuestal, se puede apreciar en la Tabla 5, que se logró gastar el total
+      de lo programado, es decir 20 millones26. El análisis por Componentes se puede observar que el
+      Componente 1, el costo se estuvo muy cercano a su valor planificado, con un gasto diseñado de
+      US$6.442.314 y ejecutado con un importe de US$6.460.465. El Componente 2, ejecutó un monto
+      de US$12.661.606,62 y un monto presupuestado en diseño de US$11.942.382, el incremento
+      se explica por los mayores gastos asociados al incremento en el salario mínimo. Finalmente, el
+      Componente 3 presupuestado por un monto de US$1.010.000 y ejecutado con un total de
+      US$877.902,5327.
+2.72 Para el cálculo de los beneficios del programa se utiliza como base de información los resultados
+      obtenidos de la evaluación de impacto del programa que se enfoca en el Componente 2 y se
+      asume un impacto de 3 años. La decisión de solamente considerar 3 años de impacto se sustenta
+      en que la evaluación solamente permite medir el impacto en este intervalo de tiempo. Para el
+      cálculo de los costos se consideran los costos totales asociados a la operación. La decisión de
+      incluir los costos asociados al componente de apoyo institucional al SPE (Componente 1) y los
+      costos asociados al monitoreo y evaluación (Componente 3) se explica por la estructura del
+      programa en la cual los objetivos y resultados particulares del programa en total y del
+      Componente 2, en particular, están relacionados y definidos directamente por los otros
+      26 El gasto asociado al programa alcanzó US$19.999.974. La diferencia de US$26 no fueron devueltos al Banco porque
+      los costos de la transacción del dinero superaban el monto a ser devuelto. Por un tema práctico, al análisis realizado
+      de aquí en adelante considera un costo total de US$20 millones.
+      27 Por simplicidad en la explicación, el gasto mencionado en el componente 3, incluye gastos de administración del
+      programa y auditorias.
+                                                              27
+"
+"     componentes. Por ejemplo, los beneficiarios del programa son fruto del registro de buscadores
+     de empleo y vacantes a través de las oficinas de empleo establecidas en el marco del
+     Componente 1.
+2.73 Es importante mencionar que, por la naturaleza del programa, se realizó una evaluación cuasi
+     experimental que combina el uso de dos metodologías de identificación, matching (Propensity
+     Score Matching) y Diferencias en Diferencias. En este sentido, los resultados obtenidos, como
+     en cualquier metodología cuasi- experimental, están sujetos a la validez de los supuestos detrás
+     de ambas metodologías. Para el ACB se consideró el impacto en acceso a empleo, en acceso a
+     empleo formal e incremento en ingresos laborales28. Los resultados de la evaluación de impacto
+     muestran un impacto de 8 pp. en acceso a empleo y un incremento de 8,7% en el ingreso laboral
+     condicional en estar trabajando.
+                                           Tabla 5: Costos del proyecto
+     28 El ACB omite intencionalmente los beneficios del programa sobre otras variables fuera del ámbito laboral, siendo
+     que la literatura ha documentado una serie de impactos relacionados de las PAML con una reducción de
+     comportamientos de riesgoso y factores asociados, como en la probabilidad de ser encarcelado o morir (Gelber et al.,
+     2015 y en la probabilidad de embarazos en adolescentes (Novella & Ripani, 2015).
+                                                             28
+"
+"2.74 Para el cálculo de los beneficios del programa, se consideró un ingreso laboral mensual base en
+     ausencia del programa de Bs2.224 ($US319,4), que proviene del ingreso laboral del grupo de
+     control. El análisis asume una tasa de descuento de 12%, que es la tasa de descuento definida
+     para los proyectos del Banco (Guidelines for the Economic Analysis of IDB-Funded Projects,
+     2012).
+2.75 Considerando que el préstamo del Banco para el programa ascendió a US$20 millones, que fue
+     ejecutado en su totalidad, según los datos obtenidos mediante el presente análisis de Costo
+     Beneficio el préstamo fue rentable por un VPN de US$5,29 millones con un ratio Costo Beneficio
+     de 1,36 y una TIR de 45,74%.
+                            a. Análisis de sensibilidad
+2.76 El ACB ex post del programa considera también un análisis de sensibilidad en el que se modifican
+     los supuestos descritos anteriormente. En el análisis de sensibilidad aquí presentado se modifica
+     la magnitud del impacto encontrado en las tres variables laborales utilizadas, una a la vez, para
+     eso se considera una variación en una (1) desviación estándar en los impactos. Adicionalmente,
+     se presenta el análisis de los resultados del programa ante la existencia de efecto
+     desplazamiento29. Para esto, se siguen los supuestos de Gonzales (2014) y se asume un impacto
+     de “efecto desplazamiento” igual a 50% de los ingresos en el primer año del beneficio y que dicho
+     efecto desaparece en los siguientes periodos.
+2.77 La Tabla 6 describe los resultados del VPN usando nuevos supuestos para el impacto sobre el
+     ingreso, asumiendo variaciones del impacto del programa de una desviación estándar y
+     variaciones en la duración del impacto asociado al programa.
+                                     Tabla 6: Análisis de Sensibilidad del ACB
+                                                    Escenario                        VPN (en millones de $US)
+                   Variable
+                                        Pesimista      Base      Optimista    Pesimista          Base      Optimista
+          Impacto en acceso a
+                                          6,91%       8,28%        9,66%         $3,29           $5,29        $7,30
+          empleo
+          Impacto en acceso a
+                                          3,11%       3,80%        4,49%         $4,75           $5,29        $5,83
+          empleo formal
+          Impacto en ingreso laboral      2,28%       7,11%       11,93%         $1,83           $5,29        $8,75
+          Efecto Desplazamiento            50%           0                       $1,65           $5,29
+2.78 Como se puede observar, incluso considerando variaciones en los impactos del programa, los
+     resultados del ACB son positivos en todos los casos. Incluso ante la presencia de un efecto
+     desplazamiento en los impactos obtenidos por los beneficiarios el primer año que recibieron la
+     capacitación in situ.
+     29 Un costo económico identificado con relación a los PAML se explica por la presencia de un efecto desplazamiento
+     de beneficiarios del programa hacia no beneficiarios en el mercado laboral. La literatura económica estima los efectos
+     desplazamiento de este tipo de políticas es escasa y presenta resultados heterogéneos. Para el caso de Francia,
+     Crépon et al. (2013) encuentran que los efectos positivos de la inserción laboral de los beneficiarios se obtienen a
+     expensas de una disminución en las tasas de inserción de los no beneficiarios, teniendo en agregado un efecto neto
+     nulo. En contraste, Berniell & de la Mata (2017) aprovechando la asignación aleatoria de un programa en Argentina
+     no encuentran evidencia de efecto desplazamiento.
+                                                               29
+"
+"     2.4 Sostenibilidad
+2.79 Sostenibilidad financiera y política: La sostenibilidad de los avances realizados en cuanto a la
+      ampliación de acceso a PAML está garantizada al menos en el curso de los próximos años. Esto
+      se puede asegurar por la vigencia de la segunda etapa del Programa, PAE
+      II (BO-L1121, Contrato de Préstamo 3822/BL-BO).
+2.80 Adicionalmente, siguiendo los lineamientos constitucionales de establecer políticas de empleo,
+      el GOB anunció el lanzamiento de un Plan de Empleo, con el objetivo de reducir la tasa de
+      desempleo. El Plan de Empleo tiene 5 líneas de acción, donde destaca un componente de
+      inserción laboral. Para este punto en particular, el GOB realizó las modificaciones necesarias al
+      contrato de préstamo para que el Ministerio de Planificación del Desarrollo sea co-ejecutor del
+      Programa, lo que permitirá la inserción laboral de jóvenes en entre 18 y 35 años con estudios de
+      técnicos, egresados o profesionales en empresas formales a través del apoyo en el pago de un
+      porcentaje del salario y el pago de aportes patronales.
+2.81 En este contexto el GOB ha diversificado su esquema de PAML y ha puesto énfasis en la
+      necesidad de este tipo de políticas. En este marco, el GOB ahora se hace cargo del
+      financiamiento de algunas oficinas de empleo, tanto a través del MTESP y del MPD. Aunque el
+      PAE II todavía financiará parte del personal, por un tema presupuestario. Adicionalmente se ha
+      puesto énfasis en la necesidad de diversificar las PAML hacia los grupos con mayores
+      dificultades en la inserción laboral en empleos de calidad, esto es particularmente importante en
+      un contexto en el cual todavía es necesario mejorar el acceso a información sobre vacantes
+      laborales y continuar impulsando PAML que permitan mejorar la calidad de las intermediaciones
+      laborales, las habilidades de los trabajadores y con ello mejorar la productividad laboral.
+2.82 Sin embargo, es necesario mejorar el reconocimiento de marca del Programa. A través de los
+      datos recopilados en la encuesta de oferta y demanda laboral del Programa se determinó que
+      los buscadores de empleo en general no tienen conocimiento del Programa y sus funciones, o
+      tienden a confundirlo con otros proyectos. Adicionalmente a través de datos de la Encuesta de
+      Mercado Laboral (2018) se observó que solamente el 9% de las empresas medianas y grandes
+      habían acudido al Servicio de Empleo, este incipiente nivel de acercamiento se explica por el
+      poco conocimiento acerca de los beneficios que ofrece el Programa.
+2.83 Sostenibilidad Técnica: En cuanto a la sostenibilidad de los impactos sobre los beneficiarios, es
+      interesante señalar que en base a los resultados de la evaluación de impacto se puede considerar
+      que los impactos permanecen incluso tres (3) años después de haber sido capacitados en el
+      marco del programa. Adicionalmente, se espera que los resultados persistan en el tiempo
+      considerando la evidencia de la literatura que señala a través de evaluaciones experimentales
+      en República Dominicana y Colombia (Attanasio et al. (2015) y Ibarrarán et al., 2016) que
+      encuentran que los impactos de programas de capacitación similares persisten 6 y 10 años
+      después de su implementación. En ese sentido, se espera que el impacto del programa sea
+      permanente en cuanto al beneficio y adicionalidad entregado a los beneficiarios del programa.
+                                                      30
+"
+"           III.  CRITERIOS NO CENTRALES
+     3.1 Desempeño del Banco
+3.1  El Banco tuvo una participación fundamental en el cumplimiento de los resultados a través de su
+     rol en la implementación y monitoreo del Programa. Es importante remarcar el acompañamiento
+     al Programa por parte de la División de Mercados Laborales y Seguridad Social. En este sentido,
+     se dispuso de cooperaciones técnicas para complementar y potenciar la sostenibilidad de los
+     resultados. El monitoreo permanente y constante y la relación de confianza existente con la
+     contraparte local fue también fundamental para el cumplimiento de los objetivos del Programa,
+     lo que fue complementado por todo el equipo de la Representación en Bolivia, tanto a nivel de
+     ejecutivo como a nivel operativo. El apoyo de los analistas de operaciones, del equipo fiduciario
+     y financiero, del equipo de comunicación y otras instancias del Banco fueron fundamentales para
+     el desenvolvimiento del Programa.
+     3.2 Desempeño del Prestatario
+3.2  Durante el periodo de vida del Programa se presentó una dificultad para la consecución de los
+     objetivos del Programa, la cual se refiere a las dificultades que existieron para contratar personal
+     adecuado para la atención de buscadores de empleo en las oficinas del SPE, tanto en lo que se
+     refiere a puestos asociados a la atención de buscadores de empleo como en puestos de
+     coordinación. La falta de personal en el PAE y SPE han sido un hecho particularmente recurrente
+     al inicio del Programa con impactos sobre la parte operativa del programa y sobre demoras en
+     los procesos de adquisición de bienes y servicios.
+3.3  Sobre este punto, también es importante remarcar la influencia que tuvo en la operativa del
+     programa, la rotación de autoridades lo que implicó la ralentización de algunos procesos y
+     proyectos dentro del Programa y lo que requirió contar con interlocutores internos en distintas
+     áreas del Programa como a nivel del Banco que permitiesen responder a cambios institucionales
+     y promover el programa.
+3.4  Afortunadamente, una vez establecido el Programa, la misma lógica de crecimiento interno
+     dentro del Programa, permitió que la misma gente vaya creciendo y generando un stock de
+     personal con el conocimiento adecuado para el desarrollo del programa, esto es evidente en los
+     resultados obtenidos. Asimismo, la relación de confianza con el GOB permitió la interlocución
+     para dar continuidad y promover el programa.
+    3.3. Monitoreo y Evaluación
+     Sistemas de monitoreo del programa
+3.5  El Programa, consideró varias herramientas para llevar a cabo el seguimiento y monitoreo de las
+     actividades operativas y financieras inherentes a sus objetivos. Es así que siguiendo lo
+     establecido en el Reglamento Operativo y el Contrato de Préstamo del Programa, se mantuvieron
+     actualizados los registros PMR de los sistemas internos del Banco, en conjunto con el progreso
+     reportado en los Informes Semestrales de Progreso requeridos. Adicionalmente, se obtuvo
+                                                      31
+"
+"     información pertinente del Programa a partir de la información contenida en los informes de
+     auditoría y las visitas de inspección a las distintas oficinas en el interior del país.
+3.6  Siguiendo lo estipulado en la cláusula 6.2 del contrato de préstamo, atendiendo las necesidades
+     específicas del mismo se realizaron tareas de seguimiento permanente y sistemático a través de
+     dos sistemas: el primero, el Sistema de la Bolsa de Empleo, sistema que permitió el registro de
+     buscadores de empleo y empresas para la intermediación laboral; el segundo, el sistema de
+     monitoreo de datos del programa, mismo que permitió el registro de beneficiarios y las empresas
+     a las cuales fueron enviados, así como el control de pago de estipendios y otros temas inherentes
+     al programa.
+3.7  Para poder contar con estos sistemas, se contrataron los servicios de consultoría para el diseño
+     de los mismo, en ambos casos utilizando recursos financieros de la cooperación técnica de apoyo
+     al PAE, “Análisis de Políticas y Sistemas de Empleo (BO-T1066; ATN/SF-11930-BO), “Análisis
+     del Mercado Laboral y Seguridad Social” (BO-T1162; ATN/OC-13831-BO). Es importante
+     recalcar que durante la ejecución del programa se realizaron varios ajustes a los sistemas de
+     monitoreo y seguimiento, en función de las necesidades del programa y al crecimiento del
+     número de beneficiarios, donde se destaca la capacidad de ajuste de los sistemas para
+     adecuarse a nuevas necesidades. Además, considerando que durante el cierre de la operación
+     se diseñó la segunda etapa, se realizaron cambios en los sistemas de monitoreo que serán
+     implementados durante la operación PAE II (BO-L1121; Contrato de Préstamo No.3822/BL-BO)
+     y que permitirán un seguimiento integral de buscadores de empleo y empresas, desde su primer
+     registro en el sistema en la Bolsa de Empleo hasta la culminación del beneficio.
+3.8  Además de los canales de monitoreo de productos y resultados evidenciados en las
+     actualizaciones de reporte del PMR y de la presentación de informes semestrales, el Programa
+     contó con encuestas de seguimientos a beneficiarios del programa, financiadas a través de
+     cooperación técnica. Estas encuestas permitieron realizar un control externo de la calidad del
+     servicio ofrecido por el programa a la vez que permitían revisar la efectividad del mismo, al incluir
+     preguntas acerca del estado laboral de los beneficiarios después de la conclusión de su
+     capacitación.
+3.9  Es así que haciendo uso de las bases de datos facilitadas por el programa se procedió a realizar
+     4 versiones distintas de encuestas de seguimiento por vía telefónica para los años 2015 y 2016,
+     ya que el seguimiento a los beneficiarios se programó para después de los 3 meses de la
+     capacitación in situ y a los 3 meses después del primer contacto para cada instancia.
+     Evaluación del programa
+3.10 Para el diseño de la evaluación del programa, se contó con insumos de profesionales en el área
+     de investigación, financiados con recursos de la cooperación técnica “Programa de Apoyo al
+     Empleo” (BO-T1135; ATN/OC-12421-BO). A partir de los mismos, se identificaron características
+                                                       32
+"
+"              de la operación del Programa y propuestas para el diseño de la evaluación de impacto de este30.
+              En concreto, se buscaron métodos para aislar de la mejor manera posible los efectos de esta
+              intervención, tanto a largo como a corto plazo31.
+      3.11 Por el carácter universal del programa, se explicitó la necesidad de realizar una evaluación
+              cuasi-experimental. Después de analizar muchas alternativas para el diseño de la evaluación se
+              consideró que la alternativa metodológica de emparejamiento por probabilidades (Propensity
+              Score Matching) y Diferencias en Diferencias era la alternativa metodológicamente más robusta.
+              Par esto, se diseñó una encuesta de evaluación que permitiera recoger la información necesaria
+              para la evaluación 32 . La encuesta, que recogió información de aproximadamente
+              15 mil buscadores de empleo, fue financiada con fondos del Componente 3 del préstamo.
+             3.5. Salvaguardias ambientales y Sociales
+      3.12 De acuerdo con lo establecido en las Políticas de Medio Ambiente y Salvaguardias del Banco
+              (OP-703), (GN-2208-20), el proyecto fue clasificado como una operación con categoría “C”.
+              Durante su ejecución no se llevaron a cabo actividades que fuesen a tener un impactos
+              medioambientales o sociales negativos en forma directa.
+                    IV.      HALLAZGOS Y RECOMENDACIONES.
+      4.1     El PAE ha sido una experiencia positiva como un primer salto hacia una mejor definición de
+              Políticas Laborales Activas en Bolivia y un gran apoyo a mejorar la institucionalidad de las
+              entidades que las aplican. Es importante mencionar que su potencial ha sido impactado tanto por
+              causas específicas al mismo Programa, como por causas externas, que en ambos casos deben
+              poseer medidas remediales en futuras instancias.
+                                                Tabla 7: Hallazgos y recomendaciones
+                                 Hallazgos                                                          Recomendaciones
+    Dimensión 1: Técnico-sectorial
+    Hallazgo # 1 En el periodo de ejecución del programa, el GOB             Recomendación # 1 Se recomienda que los programas
+    realizó constantes incrementos al salario mínimo, afectando de           consideren la posibilidad de dar flexibilidad a sus indexaciones
+    manera directa la estructura del pago de subsidios, mismos que se        para hacer frente a este riesgo. Una adecuada flexibilidad
+    encontraban indexados al salario mínimo.                                 permitirá al programa ajustarse a posibles cambios de entorno.
+4.2 Hallazgo # 2 Otro factor sectorial que se identificó y que tiene         Recomendación # 2 En el caso de Bolivia, se debe trabajar en
+    incidencia en el Programa, es el importante porcentaje de la mano        mejorar el nivel de habilidades de la mano de obra, para esto es
+              30 Para más información, ver el documento de Propuesta para la Evaluación de Impacto del Servicio Plurinacional de
+              Empleo a septiembre de 2014.
+              31 De éstos pueden enlistarse a corto plazo, la probabilidad de encontrar un empleo después de finalizar el periodo de
+              capacitación, las variaciones en el nivel de ingreso, tamaño de la empresa que realiza la contratación del beneficiario
+              y las horas de trabajo diarias; mientras que a largo plazo se buscaba principalmente determinar la probabilidad de
+              encontrar empleo en horizontes de tiempo más largos después de la primera inserción laboral.
+              32 En una primera instancia se optó por una entrevista personal a nivel de beneficiarios y no beneficiarios, sin embargo,
+              posteriormente se vio pertinente el desarrollo de una encuesta telefónica, misma que permitiría obtener la información
+              con eficiencia en tiempo. Asimismo, se determinó necesario que para el cálculo de impactos pequeños en base a
+              resultados los resultados de evaluaciones de impacto en programas similares y por la naturaleza cuasi-experimental
+              de la evaluación para el programa.
+                                                                         33
+"
+"                                 Hallazgos                                                        Recomendaciones
+    de obra presenta carencia en habilidades técnicas y                     necesario primero identificar las causas de esta ausencia de
+    socioemocionales que tienden a trabajar en empleos de baja              habilidades. En el caso de Bolivia a través de dos cooperaciones
+    calidad, lo que se traduce en emparejamientos poco productivos.         técnicas (BO-T1256; ATN/OC 15615-BO y BO-T1310; ATN/OC
+                                                                            16703-BO y /OC 16704-BO) se realizó un trabajo para identificar
+                                                                            y proponer posibles programas que permitan mejorar este
+                                                                            aspecto.
+                                                                            Una solución planteada está relacionada con la capacitación de
+                                                                            los buscadores de empleo en temas técnicos. Por ejemplo,
+                                                                            durante el programa se contrataron cursos cortos especializados
+                                                                            para empresas para la instalación de líneas de gas domiciliario.
+                                                                            Recomendación #3 La conversación con la contraparte
+                                                                            identificando de manera clara las deficiencias observadas,
+                                                                            posibles alternativas de solución y consecuencias de estas
+                                                                            acciones permite dar consistencia al dialogo y a la confianza con
+                                                                            la contraparte.
+4.3 Hallazgo # 3 Las empresas en el país señalan que la estructura          Recomendación # 4 En el caso de Bolivia, es necesario mejorar
+    regulatoria de los mercados de trabajo y la legislación impositiva en   el acceso a información referente a la temática para los diferentes
+    Bolivia proveen pocos incentivos al crecimiento y a la formalización    actores. Para esto, es necesario recopilar, ordenar y analizar
+    de empresas pequeñas.                                                   datos administrativos para contar con más información acerca del
+                                                                            impacto que podría llegar a tener la regulación en el crecimiento
+                                                                            de las empresas. Si bien posiblemente existen espacios de
+                                                                            mejora en temas regulatorios también es necesario considerar la
+                                                                            importancia de mejorar la productividad laboral.
+4.4 Hallazgo # 4 Los resultados de la evaluación de impacto y de las
+                                                                     4.5    Recomendación # 5 En el caso de Bolivia, la intervención
+    evaluaciones de monitoreo muestran resultados positivos de este
+                                                                            diseñada ha mostrado resultados positivos, relacionados con la
+    tipo de intervenciones en Bolivia.
+                                                                            ausencia de información de vacantes laborales y un todavía
+                                                                            incipiente acceso a PAML. Se recomienda continuar con la
+                                                                            aplicación de este tipo de políticas, particularmente para los
+                                                                            grupos de mayor vulnerabilidad.
+    Dimensión 2: Organizativa y administrativa
+                                                                     4.6    Recomendación # 6 Es necesario trabajar en asegurar la calidad
+                                                                            de información que se registra en los sistemas (especialmente si
+                                                                            esta información constituye un insumo para el desarrollo del
+                                                                            programa) para evitar retrasos en la operativa y permitir hacer uso
+                                                                            de esta la información tanto para seguimiento como monitoreo.
+    Hallazgo # 5 Una dificultad identificada en la ejecución del Programa
+                                                                            En el caso del PAE, esta dificultad ha sido trabajada de cara a la
+    tiene que ver con la poca calidad de información incluida en los
+                                                                            segunda etapa del programa.
+    sistemas del MTEPS y en la interconexión de bases de datos que
+                                                                     4.7    Recomendación # 7 En los casos en los cuales no es posible en
+    afectaron particularmente el sistema de seguimiento del PAE.
+                                                                            el corto plazo hacer mejoras sustanciales en la calidad de
+                                                                            información, se recomienda que una unidad externa pueda hacer
+                                                                            el seguimiento del programa, en el caso del PAE esto funcionó a
+                                                                            través de encuestas recolectadas por una firma encuestadora que
+                                                                            permitieron un interlocutor neutral que recolectó información
+                                                                            clave a la hora de tomar decisiones en la operativa del programa.
+                                                                         34
+"
+"                                  Hallazgos                                                       Recomendaciones
+4.8 Hallazgo # 6 Durante la ejecución del programa se observó que4.9      Recomendación # 8 En el caso de países con un incipiente nivel
+    existen grupos con mayores dificultades de acceso a empleos de        de PAML, se recomienda la implementación de programas piloto
+    calidad (como son jóvenes, mujeres y personas con discapacidad)       especialmente destinados para grupos con mayores dificultades
+    que requieren especial atención dentro de la potencial población      en su acceso a empleo de calidad; Los pilotos permitirán
+    beneficiaria de las PAML.                                             identificar cual es el mejor mecanismo de intervención y permitan
+                                                                          construir experiencia institucional a la vez que se enfrenta el reto
+                                                                          de mejorar el acceso.
+                                                                          El PAE ejecutó 2 pilotos que permiten enfrentar los retos
+                                                                          particulares. Actualmente el PAE II se encuentra implementando
+                                                                          3 programas piloto para los grupos mencionados.
+    Dimensión 3: Procesos y actores públicos
+                                                                   4.10
+    Hallazgo # 7 Durante el proyecto se dieron cambios administrativos    Recomendación # 9 Se recomienda que los programas puedan
+    en las autoridades del MTEPS y en el personal a cargo del             contar con interlocutores en distintas áreas de la contraparte, del
+    Programa                                                              programa y a nivel del Banco que permitan dar continuidad ante
+                                                                          eventuales cambios institucionales.
+    Hallazgo # 8 La falta de personal en el PAE y SPE tuvo impactos       Recomendación # 10 En el caso en el cual la implementación de
+    sobre la operativa del programa y generó demoras en los procesos      un programa requiere personal con cierto nivel de cualificaciones
+    de adquisición de bienes y servicios.                                 que el mercado local no provee (como es el caso de
+                                                                          concertadores de empleo, figura relativamente nueva en Bolivia)
+                                                                          se debe considerar un plan de crecimiento de personal dentro de
+                                                                          la institución que permita hacer frente a la rotación de personal
+                                                                          sin perjudicar la operativa del programa.
+    Hallazgo # 9 Se observó una gran afluencia (con relación a lo         Recomendación # 11 Se recomienda mejorar la visibilidad de las
+    esperado) de empresas y vacantes a pesar de que el gasto en           ventajas de la implementación de Políticas Activas de Mercado
+    comunicación del Programa fue relativamente bajo y al prejuicio       Laboral, esto es especialmente valioso en lugares como Bolivia,
+    que tienen las empresas con relación a trabajar con el MTEPS,         donde existía poca experiencia en la implementación de este tipo
+    debido a su rol de fiscalización.                                     de políticas.
+    Dimensión 4: Fiduciario
+    Hallazgo # 10 Se observaron retratos en los procesos de licitación y  Recomendación # 12 Es importante dar a conocer los
+    compra y en la gestión administrativa de los proyectos debido a       mecanismos y normas que regulan los procesos administrativos
+    desconocimiento de la normativa del Banco por parte de la             relevantes al programa y a la normativa BID a la contraparte, no
+    contraparte.                                                          solamente a la parte operativa del programa si no también con las
+                                                                          unidades u organismos de auditoría interna y externa y el área
+                                                                          legal.
+                                                                          Recomendación # 13 Es recomendable brindar procesos de
+                                                                          capacitación continuos en temas de adquisiciones a la
+                                                                          contraparte, considerando el nivel de rotación de personal
+                                                                          observado.
+                                                                       35
+"

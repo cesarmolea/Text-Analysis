@@ -1,0 +1,1538 @@
+"outlist[[i]]"
+"                               INFORMACIÓN BÁSICA DEL PROYECTO
+NÚMERO (S) DE PROYECTO:                NI-L1081
+TÍTULO:                                FORTALECIMIENTO DE LA SALUD COMUNITARIA Y EXTENSIÓN DE
+                                       SERVICIOS DE SALUD Y NUTRICIÓN EN LAS COMUNIDADES DEL
+                                       CORREDOR SECO
+INSTRUMENTO DE PRÉSTAMO:               PRÉSTAMO DE INVERSIÓN
+PAÍS:                                  NICARAGUA
+PRESTATARIO:                           REPÚBLICA DE NICARAGUA
+PRÉSTAMO (S):                          2986/BL-NI
+SECTOR / SUBSECTOR:                    SERVICIOS DE SALUD
+FECHA DE APROBACIÓN DIRECTORIO:            18 DE MAYO 2013
+FECHA DE EFECTIVIDAD CONTRATO DE PRÉSTAMO: 13 DE FEBRERO 2014
+FECHA DE ELEGIBILIDAD PRIMER DESEMBOLSO:   17 DE DICIEMBRE 2014
+MONTO (S) DEL PRÉSTAMO
+MONTO ORIGINAL:                        US$35,000,000
+MONTO ACTUAL:                          US$35,000,000
+PARI PASU:                             3,2%
+COSTO TOTAL DEL PROYECTO:              US$36,200,000
+MESES EN EJECUCIÓN
+DESE APROBACIÓN:                       59 MESES
+DESDE EFECTIVIDAD DEL CONTRATO:        54 MESES
+PERIODOS DE DESEMBOLSOS
+FECHA ORIGINAL DE DESEMBOLSO FINAL: 13 DE AGOSTO DE 2018
+FECHA ACTUAL DE DESEMBOLSO FINAL: 13 DE AGOSTO DE 2018
+EXTENSIÓN ACUMULATIVA (MESES):      0
+EXTENSIÓN ESPECIAL (MESES):         0
+DESEMBOLSOS
+CANTIDAD TOTAL DE DESEMBOLSOS HASTA LA FECHA: 6
+GRÁFICO DE DESEMBOLSOS:
+               16000                                                          120%
+               14000
+                                                                                     Porcentaje acumulado
+                                                                              100%
+               12000
+                                                                              80%
+               Miles US$
+               10000
+                    8000                                                      60%
+                    6000
+                                                                              40%
+                    4000
+                                                                              20%
+                    2000
+                           0                                                  0%
+                               2014   2015      2016        2017     2018
+                                                Años
+REDIRECCIONAMIENTO. ¿TIENE ESTE PROYECTO?
+FONDOS RECIBIDOS DE OTRO PROYECTO: NO
+FONDOS ENVIADOS A OTRO PROYECTO: NO
+                                                iv
+"
+"Calificaciones del desempeño del proyecto en los PMR:
+                                                                                                 Desembolsos reales
+        No.              PMR Fecha                    Etapa de PMR            Calificación       (millones de USD)
+        2        Enero - Diciembre 2015             2do periodo 2014           Satisfactorio                    9.0
+        4        Enero - Diciembre 2016             2do periodo 2015           Satisfactorio                    7.5
+        6        Enero - Diciembre 2017             2do periodo 2016           Satisfactorio                  2.89
+        8        Enero - Diciembre 2018             2do periodo 2017           Satisfactorio                  3.71
+METODOLOGÍA DE ANÁLISIS ECONÓMICO EX POST: CEA
+METODOLOGÍA DE EVALUACIÓN EX POST: EFECTOS FIJOS
+CLASIFICACIÓN DE EFECTIVIDAD DE DESARROLLO: PARCIALMENTE EXITOSO
+                                 Informe de Terminación de Proyecto Efectividad en el Desarrollo
+                                                                Resumen
+               I. Efectividad en el Desarrollo - Criterios Centrales
+                                                        Calificación general recomendada: Parcialmente Exitoso
+                                                                                                       Peso
+               1. Relevancia                                                           4.00                    20%
+               2. Efectividad                                                          2.00                    40%
+                        % de resultados alcanzados                                   87,5%
+               3. Eficiencia                                                           4.00                    20%
+               4. Sostenibilidad                                                       4.00                    20%
+               II. Efectividad en el Desarrollo - Criterios No Centrales
+               Desempeño Del Banco                                                     Satisfactorio
+               Desempeño Del Prestatario                                               Satisfactorio
+PERSONAL DEL BANCO
+                     POSICIONES                 EN PCR                                       EN LA APROBACIÓN
+          VICEPRESIDENTE VPS                    ANA MARÍA RODRÍGUEZ ORTIZ             SANTIAGO LEVY ALGAZI
+          VICEPRESIDENTE VPC                    ALEJANDRE MEIRA DA ROSA               ROBERTO VELLUTINI
+          GERENTE DE PAÍS                       VERÓNICA ZAVALA                       GINA MONTIEL
+          GERENTE SECTORIAL                     MARCELO CABROL                        HECTOR SALAZAR (a.i)
+          JEFE DE DIVISIÓN                      FERDINANDO REGALÍA                    FERDINANDO REGALÍA
+          REPRESENTANTE DE PAÍS                 BAUDOUIN DUQUESNE                     CARLOS MELO
+          JEDE DE EQUIPO DEL PROYECTO           LEONARDO PINZON ENCISO                EMMANUELLE SANCHEZ-MONIN
+          JEFE DE EQUIPO DEL PCR                LEONARDO PINZON ENCISO                LEONARDO PINZON ENCISO
+Tiempo y costo (directo) del personal
+                                                                                USD (incluidos los gastos de viaje
+         Ciclo de proyecto            # de semanas de personal
+                                                                                              y asesoría)
+         Preparación                                                  18.86                                 121,763.91
+         Supervisión                                                  72.14                                 173,084.32
+         Total                                                        91.00                                 294,848.23
+DECLARACIÓN DE LOS OBJETIVOS DE DESARROLLO DEL PROYECTO / PROGRAMA:
+Fortalecer la capacidad del Ministerio de Salud (MINSA) de extender servicios de promoción, prevención y
+atención primaria a la salud en comunidades rurales dispersas, con el fin de mejorar el estado de salud de
+la población más vulnerable, con énfasis en aportar a la mejora nutricional de la niñez, disminuir la tasa de
+morbilidad severa de la niñez y ampliar los servicios primarios de acceso a la salud sexual y reproductiva.
+                                                                 v
+"
+"  I.     INTRODUCCIÓN
+El presente documento, contiene el Informe de Terminación de Proyecto, o PCR, por su sigla en
+inglés, de la operación NI-L1081 “Programa de Fortalecimiento de la Salud Comunitaria y
+Extensión de Servicios de Salud y Nutrición en la Comunidades del Corredor Seco de Nicaragua”,
+el que ha sido elaborado con base a la metodología establecida por el Banco.
+Durante la formulación del Programa se identificaron los esfuerzos que el Gobierno de Nicaragua
+había venido realizando en materia de salud, siendo que entre los años 2005-2012 el
+presupuesto ejecutado por MINSA aumentó en 167%, así como en 2008 se promulgó el Modelo
+de Salud Familiar y Comunitario (MOSAFC) bajo el concepto de responsabilidad compartida,
+involucrando, además del personal del salud, una red de brigadistas y parteras que se involucran
+en acciones más allá de la promoción o de prevención, como lo es la búsqueda de cambios de
+conducta de la población. El MOSAFC tiene dos estrategias centrales: (i) El Programa
+Comunitario de Salud y nutrición (PROCOSAN) que aborda la vigilancia de la nutrición de
+embarazadas y menores de dos años y el manejo comunitario de enfermedades prevalentes de
+la infancia; y (ii) Entrega Comunitaria de Métodos Anticonceptivos (ECMAC) que incluye
+consejería, captación y atención en planificación familiar en la comunidad. Estas dos estrategias
+comunitarias se complementan con la captación de embarazadas y el plan de parto.
+Sin embargo, los esfuerzos de gobierno antes citados, han sido insuficientes para cerrar brechas
+de cobertura, manteniéndose vigente, en 2013, la necesidad de profundizar la focalización de los
+recursos públicos en atenciones pro-pobre, que conforme los registros de MINSA en ese año
+registran bajas tasas de cobertura de atención primaria. Los datos del departamento de Madriz
+indican que el promedio de consultas por niño menor de un año de Vigilancia y Promoción del
+Crecimiento y Desarrollo (VPCD) registradas en 20121 no permitió cumplir con la frecuencia que
+establece la norma para ese rango de edad que es cuatro visitas antes de cumplir un año de
+edad; sumado a la alta frecuencia de consultas por diarrea e infección respiratoria, ambas
+consistentes con la desnutrición.
+Igualmente, se evidenció avances incipientes en el Sistema de Información Comunitario (SICO)
+el cual estaba únicamente registrando la de captación de embarazadas y no brindaba información
+sobre las atenciones que se realizaban en los sectores, lo cual limitaba la obtención de datos
+fiables, para la planificación del trabajo sectorizado de las atenciones y definición de población
+meta. El MINSA estaba en la etapa de diseño para incorporar al SICO los módulos relativos al
+PROCOSAN y ECMAC, así como la incorporación de tecnología móvil para mantener actualizado
+los registros desde la red comunitaria.
+En tema de recursos humanos, el modelo comunitario de atención se organiza basado en
+sectores, encabezados por una unidad primaria de salud y constituido, cada sector, por
+5.000 personas en el área urbana y mil personas en el área rural; cada sector es atendido por un
+equipo de Salud Familiar y Comunitaria (ESAFC), integrado por un médico, un enfermero y un
+auxiliar; lo que genera una demanda de mayor personal asistencial; que si bien MINSA entre el
+año 2005 y 2007 había logrado reclutar a 7.700 personas, de los cuales el 64% son cargos
+asistenciales. Lo anterior es aún insuficiente en relación a la densidad poblacional el que
+presentaba una relación de por cada mil habitantes es de 1.3, siendo que el estándar establecido
+1    Las estadísticas de SILAIS Madriz para el año 2012, reportan 3,051 consultas de VPCD a menores de un año,
+     para una población de 3.540 menores de un año.
+                                                        1
+"
+"por la OMS es de 2.5 y en cuanto perfil, siendo que enfermería es el más afín al modelo
+comunitario, muestra un déficit más agudo (0.5 por mil habitantes). A lo anterior se le suma que
+entre los años 1990 y 2005 la planilla fue reducida y congelada, lo que conllevo a que la
+distribución etaria actual del personal sea desbalanceada2, limitando aún más la disposición de
+personal asistencial, pero a su vez presentando una oportunidad para realizar un relevo
+generacional, enfocado en perfiles acordes al modelo comunitario, con mayor productividad al
+poder hacer turnos nocturnos y redistribuidos a zonas geográficas con menor cobertura.
+Para responder a estas brechas se estableció el Plan de Optimización del Recurso Humano; el
+cual forma parte del Convenio Colectivo y Salarial 2012-2014 y permitió que los trabajadores que
+hayan cumplido 50 años de edad y tengan a lo menos 30 años de antigüedad en el sector,
+puedan acceder voluntariamente a una “Bonificación Especial” siempre que se retire de la labor
+en la institución. El retiro no es vinculante con pensión por vejez, ya que para la jubilación existen
+los requisitos legales de edad distintos. De esta forma, en la primera fase (2013-2015) se habían
+acogido 2064 personas y el número de personal prestador de servicios se aumentó de 31.124
+en 2013 a 32.122 en 2016, a pesar del retiro de las 2064 personas que se acogieron al Plan; así
+mismo, se evidenció que los perfiles que mayormente aumentaron, a nivel nacional, fueron los
+de enfermería y técnicos de salud en un 12% y 6%, respectivamente. Al cierre del PCR se
+contabilizaron que 2475 personas se acogieron al plan, pero no se logró obtener información
+sobre el avance en la incorporación de personal prestador de servicios al 2018.
+El Programa NI-L1081 con un monto de inversión de US$36,2 millones, de los cuales
+US$35 millones corresponden al financiamiento del Banco y US$1,2 millones de aporte de
+contrapartida; se concentró en treinta y tres municipios del Corredor Seco de Nicaragua,
+ubicados en los SILAIS de Managua, Madriz, Nueva Segovia, Estelí, Chinandega, León y
+Matagalpa; los municipios fueron seleccionados en base a cuatro criterios: (i) porcentaje de
+pobreza extrema, conforme ENDESA 2005; (ii) hectáreas secas por cada 1000 habitantes
+conforme registros de INETER y datos poblacionales de MINSA del año 2012; (iii) tasa de
+atenciones por enfermedades diarreicas en niños menores de cinco años; y (iv) tasa de
+atenciones por neumonía en menores de cinco años; los dos últimos en base a información de
+vigilancia epidemiológica y de población de MINSA. Los 33 municipios seleccionados
+representan cerca de 700 comunidades con una población estimada de 681.000 personas, de
+los cuales 184.000 son MEF y 28.000 son menores de seis años. La ubicación de los
+33 municipios de señalan en el siguiente cuadro y mapa:
+2    25% del personal es mayor de 50 años, y como tal está exento de turno nocturno; de estos el 7% tienen más de
+     30 años de servicios, lo que los hace elegible para acogerse a la ley de retiro voluntario, si deciden retirarse del
+     sector.
+                                                          2
+"
+"                  Depto.             #              Municipio         Depto.                 #             Municipio
+                                     1    Ciudad Antigua                                     17   Condega
+                                     2    Dipilto                                            18   Estelí
+                                                                             Estelí
+                   Nueva Segovia     3    Macuelizo                                          19   La Trinidad
+                                                                        (6 de 6 Mcpios)
+                                     4    Mozonte                                            20   Pueblo Nuevo
+                  (7 de 12 Mcpios)   5    Ocotal                                             21   San Juan de Limay
+                                     6    San Fernando                                       22   San Nicolas
+                                     7    Santa María
+                                                                      Chinandega             23   San Francisco del Norte
+                                                                       (2 de 13
+                                     8    Las Sabanas                   Mcpios)              24   San Pedro del Norte
+                                     9    Palacagüina                                        25   El Jicaral
+                                     10   San José de Cusmapa                  León          26   La Paz Centro
+                                     11   San Juan del Rio Coco                              27   Larreynaga
+                      Madriz         12   San Lucas                     ( 5 de 10 Mcipios)   28   Santa Rosa del Peñón
+                  (8 de 8 Mcpios)
+                                     13   Somoto                                             29   Telica
+                                     14   Telpaneca                   Managua Matagalpa      30   Ciudad Darío
+                                     15   Totogalpa                                          31   Terrabona
+                                                                       (2 de 9 (2 de 13
+                                     16   Yalagüina                                          32   El Crucero
+                                                                      Mcpios) Mcpios)        33   San Francisco Libre
+                                               Gráfico 1.1. Mapa 33 Municipios
+Las intervenciones del Programa se estructuraron en dos intervenciones sustantivas
+(Componentes); y acciones operativas y de gestión complementarias:
+  i.   La primera intervención sustantiva, estuvo orientada a la optimización de los RRHH para
+       la extensión de los servicios comunitarios en áreas rurales dispersas; con un monto
+       original de US$25,6 millones y una ejecución final de US$30,4 millones, que representan
+       el 84% del Programa, evidenciando que los esfuerzos del Programa se focalizaron,
+       mediante éste componente, en la reducción de la brecha de personal asistencial
+       requerido en las comunidades para la implementación del MOSAFC; la optimización de
+       los recursos humanos para la extensión de los servicios consistió en: (i) apoyo al plan de
+       retiro de personal; y (ii), capacitación y formación del personal de atención primaria y de
+       vigilancia de la salud y nutrición comunitaria (enfermeras, educadores de salud, auxiliares
+                                                                  3
+"
+"           de salud, entre otros) a efecto de disminuir los niveles de empirismo3 del personal; así
+           como capacitación a los agentes de la red comunitaria (brigadistas4) conforme el modelo
+           MOSAFC.
+   ii.     La segunda intervención, complementando la disposición de equipos de salud (ESAFC)
+           en las comunidades provista por el componente 1, estuvo dirigida a la ampliación de la
+           cobertura de servicios comunitarios en municipios priorizados del Corredor Seco,
+           mediante la dotación de equipamiento y mejora de las capacidades instaladas de los
+           equipos de salud y red comunitaria (agentes comunitarios/brigadistas), así como
+           transferencias a los municipios por atenciones brindadas, utilizando cuatro prestaciones
+           como indicadores trazadores del conjunto: (a) Mujeres y Hombres en Edad Fértil (MEF)
+           atendidas y/o captadas con método anticonceptivo por la estrategia ECMAC en los
+           registros mensuales de atención; (b) embarazadas y puérperas atendidas con vigilancia
+           y consejería nutricional comunitaria; (c) niñas y niños menores de dos (2) años atendidos
+           con vigilancia y consejería nutricional comunitaria mensual; y (d) niñas y niños menores
+           de seis (6) años atendidos y/o referidos por enfermedad en la comunidad.
+           Transversalmente, se establecieron acciones para mejorar y ampliar el uso del SICO,
+           como herramienta de gestión de las atenciones comunitarias, mediante la dotación de
+           equipos tecnológicos a los ESAFC y asistencia técnica y equipamiento para el desarrollo
+           de nuevos módulos del SICO; contó con un presupuesto original de US$8 millones y una
+           ejecución final de US$4,2 millones que representan el 12% del presupuesto del
+           Programa. Esta disminución en la ejecución se debió a que los primeros dos años del
+           programa se realizaron acciones previas para la extensión de cobertura, tales como:
+           organización comunitaria, definición de sectores, censos poblaciones, identificación de
+           metas, definición de herramientas para el registro de las atenciones previstas, entre otros;
+           lo cual incidió en las metas previstas originalmente.
+Finalmente se implementaron acciones establecidas en el plan de salvaguardas de la gestión e
+informes de auditoría técnica y de evaluación externa, con un presupuesto inicial de
+US$1,06 millones y una ejecución final de US$0,6 millones que representa el 2% del presupuesto
+total del Programa. El presupuesto inicial fue sobredimensionado dado que muchas de las
+acciones del plan de salvaguardias de la gestión no requerían recursos, sino que correspondían
+a la creación de reglamentos y normativas, así mismo al ser un plan para todas las operaciones
+del Banco, las acciones que demandaron recursos fueron distribuidas entre todas las
+operaciones, de esta forma de un presupuesto inicial de US$0,86 millones para las acciones del
+plan de salvaguardias, se ejecutó US$0,41 millones.
+Al haber concluido el programa se evidencia los avances y cumplimiento satisfactorio de sus
+indicadores, los cuales se encuentran condensados en este informe, así como sus retos,
+hallazgos y lecciones aprendidas.
+3    Se considera empírico aquel personal que desempeña una labor en base a la práctica realizada, no posee estudios
+     específicos y acordes a la función que desempeña; el personal capacitado cuenta con estudios y certificado que
+     acredita conocimientos en la actividad que desempeña.
+4    El brigadista es personal comunitario, voluntario, que lidera la red comunitaria de su sector, es el enlace con el
+     personal de salud (ESAFC).
+                                                           4
+"
+"II.     CRITERIOS CENTRALES. RENDIMIENTO DEL PROYECTO
+2.1     Relevancia
+En 2007, el Ministerio de Salud (MINSA) de Nicaragua como respuesta institucional a los
+problemas de salud del país implementó el Modelo de Salud Familiar y Comunitaria (MOSAFC),
+el cual está dirigido a la promoción de la salud y prevención de enfermedades desde las
+comunidades, la dispensarización de las familias y la extensión de cobertura de servicios de
+salud gratuitos dirigidos principalmente a los grupos vulnerables en zonas de difícil acceso y
+pobreza, con el objetivo de reducir brechas en salud. En el marco de esta iniciativa se inició la
+implementación de una serie de operaciones con el objetivo general de mejorar el estado de
+salud y bienestar de las poblaciones más vulnerables mediante mejoras en la calidad y capacidad
+resolutiva de los servicios de atención de salud.
+El Programa NI-L1081, hace parte de una cartera de operaciones formulados bajo las políticas
+que el Ministerio de Salud articuló a partir del 2008, esencialmente en los tres documentos del
+MOSAFC: (i) Marco Conceptual del Modelo; (ii) Manual de Organización y Funcionamiento del
+Sector; y (iii) Desarrollo Prospectivo de la Red de Servicios. Los tres documentos fueron
+publicados en su versión vigente durante la formulación de este programa. El anexo detalla como
+las intervenciones del programa complementaron las intervenciones de fomento directo de la
+demanda y la mejora en la oferta de servicios en las operaciones iniciadas con anterioridad:
+    •   La primera operación fue el “Programa de Mejoramiento de la Salud Familiar y
+        Comunitario en municipios de alta vulnerabilidad social (NI-L1054)”, aprobada en 2011 y
+        que alcanzó elegibilidad en 2012, y cuyos objetivos específicos fueron: (i) incrementar el
+        uso de un conjunto de atenciones en salud materno infantiles de buena calidad bajo el
+        MOSAFC; y (ii) mejorar la calidad de la atención y la capacidad resolutiva de los
+        establecimientos de salud.
+    •   En 2012 se aprobó el “Programa Redes Integradas de Salud (NI-L1068)” que tuvo como
+        objetivo específico mejorar el acceso y la calidad a los servicios de salud, así como la
+        calidad de la atención, así como la Iniciativa Salud Mesoamérica (operación I, formulada
+        en 2012, y II, formulada en 2014).A través del programa RIS, además, se impulsaba el
+        fortalecimiento del MOSAFC en cuanto a gestión en red integrada y al incremento de la
+        capacidad resolutiva de redes, mediante la ampliación o rehabilitación de dicha red en las
+        mismas áreas priorizadas por el Programa de Mejoramiento (NI-L1054), con énfasis en
+        establecimientos que garanticen el acceso a la atención primaria y servicios esenciales,
+        en especial, los cuidados obstétricos y neonatales.
+    •   En 2013 se aprobó e implementó el “Programa de Fortalecimiento de la Salud
+        Comunitaria y Extensión de Servicios de Salud y Nutrición en la Comunidades del
+        Corredor Seco de Nicaragua (NI-L1081)” que estableció como objetivos específicos:
+        (i) aumentar la asignación del personal asistencia del primer nivel, en especial en perfiles
+        técnicos y de enfermería, así como a la ampliación de la red comunitaria activa; y
+        (ii) mejorar del acceso a servicios comunitarios de salud y nutrición en niños menores de
+        dos años y mujeres en edad fértil en los municipios priorizados.
+En el anexo 1, se ilustra la complementariedad de los programas bajo el MOSAFC mediante un
+gráfico y descripción del mismo.
+                                                 5
+"
+"                a. Alineación con las necesidades de desarrollo del país
+El objetivo general de mejorar el estado de salud y bienestar de las poblaciones más vulnerables
+ha estado alineado con las prioridades y estrategias del País –desde su formulación y ejecución,
+hasta su finalización. En particular, el Plan Nacional de Desarrollo Humano 2009-2016 incluyó la
+Política Nacional de Salud, que priorizó la atención a grupos vulnerables: menores de cinco años,
+adolescentes y mujeres; población que vive en zonas secas, en municipios que concentran
+población en extrema pobreza y en la Costa Caribe.
+Asimismo, la operación mantuvo relevancia a lo largo de la vida de los proyectos, ya que los Ejes
+del Programa Nacional de Desarrollo Humano 2018-2021 del Gobierno establecen como
+prioridad la continuación del MOSAFC, las estrategias de fortalecimiento para mejorar la calidad
+de la atención en salud en los municipios; y seguir reduciendo la mortalidad infantil y materna,
+desarrollando las estrategias comunitarias, fortaleciendo las casas maternas y mejorando la
+calidad de los servicios.
+En resumen, y de acuerdo a lo señalado arriba, los objetivos del programa fueron altamente
+relevantes para atender a las necesidades de desarrollo sostenible del país al momento de su
+formulación y se mantienen a su conclusión, debido a que el Gobierno de Nicaragua ha priorizado
+política de salud en el PNDH la atención a la niñez y las embarazadas, fortaleciendo el MOSAFC-
+Además, el programa al haber atendido temas de desnutrición crónica infantil en menores de tres
+años y la reducción de la mortalidad neonatal, en especial en el área rural pobre, siendo
+coherente con los puntos de diálogo de la estrategia de asistencia del BID y sus objetivos
+institucionales.
+                b. Alineación estratégica
+El objetivo de desarrollo del Programa y sus dos antecesores; se alineó con la Estrategia de País
+con Nicaragua 2008-2012 (GN-2499). En particular, los programas NI-L1054 y NI-1068 al
+momento de su aprobación y elegibilidad se alinearon con el lineamiento estratégico de
+“desarrollo de un sistema para el bienestar social y mejora, gestión y cobertura de los servicios
+sociales básicos”. Asimismo, los programas contribuyeron al lineamiento de “mejora de la calidad
+de los servicios de salud y cobertura en forma sostenible a la población más vulnerable”.
+De igual manera, la operación mantuvo consistencia con la Estrategia de País del Banco con
+Nicaragua 2012-2017 (GN-2683), destacando la reducción de la desnutrición crónica infantil en
+menores de tres años y la reducción de la mortalidad neonatal, en especial en el área rural pobre,
+como metas prioritarias. Las operaciones apoyaron la extensión de los servicios comunitarios
+integrales de salud y nutrición, con énfasis en los primeros mil días, contribuyendo a disminuir la
+desnutrición crónica, morbididad y mortalidad materna e infantil.
+El programa se alineó con la actualización de la Estrategia Institucional del BID para 2016-2019
+(UIS por sus siglas en inglés), ya que los dos objetivos generales del GCI-9 –específicamente
+crecimiento sostenible y reducción de la pobreza y la desigualdad- continúan vigentes. En ella,
+se establecen tres grandes retos del desarrollo: (i) exclusión social y desigualdad; (ii) bajos
+niveles de productividad e innovación; y (iii) integración económica regional rezagada. En este
+sentido, el diseño de las operaciones contempló mejorar el acceso y la calidad de la atención de
+salud de los grupos vulnerables, lo que contribuye con la reducción de la desigualad en el acceso
+a los servicios de salud al estar focalizado en poblaciones en condición de pobreza y exclusión
+social. Además, las inversiones en mejoras de calidad y cobertura de salud en las comunidades
+                                                  6
+"
+"priorizadas contribuyen a cerrar brechas en el acceso a la salud, lo que está asociado con
+incrementos en la productividad de la fuerza laboral.
+                c. Relevancia del diseño
+La lógica vertical de las operaciones estuvo sustentada en el diagnóstico de tres problemáticas
+que afectan cobertura y calidad de la atención de salud –principalmente en comunidades
+vulnerables que registraban niveles elevados de pobreza y exclusión social. En primer lugar, la
+situación de los indicadores de salud como la mortalidad materna y neonatal -que a pesar de
+mostrar reducciones importantes- se encontraban por encima de la meta establecida en los
+Objetivos de Desarrollo del Milenio. En segundo lugar, las brechas de acceso a los servicios de
+salud, ya que datos de la cobertura mostraban que las zonas rurales no solo tenían un acceso
+considerablemente menor, sino que también tenían una mayor incidencia de la pobreza.
+En tercer lugar, la deficiente calidad en la atención y de los servicios de salud.
+Para responder a esta problemática y mejorar el estado de salud y bienestar de las poblaciones
+más vulnerables, los Programas implementados buscaron fortalecer un conjunto de atenciones
+de salud de buena calidad en territorios priorizados por su alta vulnerabilidad a través de:
+(i) mejoras en la capacidad de los establecimientos de salud y del personal, en especial en
+perfiles técnicos y de enfermería; (ii) apoyo a los equipos municipales para implementar las
+estrategias comunitarias; (iii) fortalecimiento de la gestión institucional; y (iv) fortalecimiento del
+sistema de registros y del uso de la información epidemiológica para mejorar la atención
+comunitaria.
+La cadena causal definida al momento del diseño de las operaciones mantuvo relevancia a lo
+largo de toda la fase de ejecución. Al momento del diseño se planteó que para mejorar la
+cobertura y calidad de las atenciones en los servicios de salud, era necesario formular acciones
+simultáneas para abordar las mejoras de la calidad de la atención y la capacidad resolutiva de
+los establecimientos de salud en las zonas priorizadas, con lo cual las operaciones generarían
+resultados positivos en el estado de salud y bienestar de las poblaciones más vulnerables.
+En función a lo descrito con anterioridad, el Programa NI-L1081, durante la etapa de formulación,
+se estableció la lógica vertical (Ver ilustración No. 1.), la cual partió con el objetivo general de
+fortalecer la capacidad del MINSA de extender servicios de promoción, prevención y atención
+primaria a la salud en comunidades rurales dispersas con énfasis en la región del Corredor Seco,
+con el fin de mejorar el estado de salud de la población más vulnerable y dos objetivos
+específicos:
+Objetivo específico 1. Aumentar la asignación de personal asistencial del primer nivel, en
+especial en perfiles técnicos y de enfermería, así como a la ampliación de la red
+comunitaria activa.
+Los resultados esperados bajo este objetivo específico giraban en torno a aumentar la asignación
+de personal asistencial del primer nivel, en especial en perfiles técnicos y de enfermería, así
+como a la ampliación de la red comunitaria activa, y la mejoría de las capacidades. También se
+esperaba mejorar el registro y uso de la información epidemiológica y de servicios a nivel
+comunitario. En este sentido, bajo este objetivo se ejecutaron acciones de relacionadas a:
+(i) implementación del plan de optimización del talento humano; (ii) la formación inicial y
+capacitación en servicio del personal en los perfiles prioritarios; y (iii) apoyo a los equipos
+municipales para implementar las estrategias comunitarias.
+                                                  7
+"
+"Los indicadores de resultados que responden a éste primer objetivo específico corresponden a:
+R1 “Asignación de personal de atención primaria para el área rural y red comunitaria ampliadas”,
+que se encuentra soportado por las actividades realizadas bajo los productos P1- P3 de la lógica
+vertical del Programa, que se concentró en el financiamiento del plan de retiro voluntario del
+personal y creación de capacidades (formativas) al personal municipal. Igualmente, el resultado
+R2 “Capacidades del personal de atención primaria y de la red comunitaria mejoradas” responde
+a éste primer objetivo específico al proveer mediante el producto P4 acciones de fortalecimiento
+de la red comunitaria de salud (equipamiento y capacitación) y mejoras a las condiciones de
+trabajo de los ESAFC para brindar atención a las comunidades.
+Finalmente, bajo este objetivo específico el resultado R3 “Registro y uso de información
+epidemiológicas y de atención comunitarias mejorada”, aporta la logística y mejora la eficiencia
+en el manejo de datos y estadísticas del Ministerio con lo cual se consolida el modelo de atención
+a comunidades rurales a través del Sistema de Información SICO, el cual es transversal a los
+dos objetivos específicos del programa.
+Objetivo específico 2. Mejora del acceso a servicios comunitarios de salud y nutrición en
+niños menores de dos años y mujeres en edad fértil en los municipios priorizados.
+Se apoyó la ampliación de cobertura de cuatro indicadores trazadores que apoyan las estrategias
+de ECMAC y PROCOSAN en los 33 municipios priorizados, provista en los productos P6-P9,
+mediante la asignación de un monto por persona atendida que se reporten, estos cuatro
+productos están alineados al resultado R4 “Cobertura de atención primaria a la niñez y mujeres
+en edad fértil en zonas rurales dispersas ampliada”.
+Bajo este objetivo los indicadores se orientaban a la atención del estado nutricional de la niñez,
+a la reducción de la morbilidad severa en la niñez y ampliación del acceso a servicios primarios
+de salud sexual y reproductiva en zonas rurales dispersas; así mismo aporta las acciones
+realizadas en el marco del resultado 3 “Registro y uso de la información epidemiológica y de
+atención comunitaria mejorada” como un elemento transversal en la gestión de los servicios salud
+comunitaria y rural.
+Estos dos objetivos específicos y los cuatro resultados mencionados se vinculan claramente a la
+generación de cambios para mejorar el estado nutricional de la niñez; disminuir la morbilidad
+severa de la niñez y ampliar el acceso a los servicios primarios de salud sexual y reproductiva,
+establecidos como indicadores de impacto del programa.
+                                                8
+"
+"Gráfico 2.1. Lógica vertical simplificada del programa
+                           9
+"
+"                                                                                        Tabla 2.1. Matriz de Resultados
+                                                                                                                                     Al terminar el proyecto
+                                                                         En aprobación                  En elegibilidad + 60 días
+                                                                                                                                              (PCR)
+                       Indicadores                                                                                                                                        Comentarios
+                                                             Unidad de                                  Unidad de     Línea Meta     Unidad de    Línea
+                                                                             Línea Base   Meta (P)                                                         (A)
+                                                              Medida                                     Medida       Base (P)        Medida       Base
+Objetivo de Desarrollo: Fortalecer la capacidad del Ministerio de Salud (MINSA) de extender servicios de promoción, prevención y atención primaria a la salud en comunidades rurales
+dispersas, con el fin de mejorar el estado de salud de la población más vulnerable.
+Impacto 1: Estado nutricional en la niñez
+1.1 Desnutrición crónica en menores de dos años en
+                                                                 %               19.6         14            %          19.6    14        %         19.6 12.6 Sin cambios
+los SILAIS de Madriz y Nueva Segovia
+Impacto 2: Morbilidad severa en la niñez
+2.1 Tasa de hospitalización por enfermedad diarreica                                                   egresos por                  egresos por                Cambios de LB y Meta por
+aguda (EDA) en menores de cinco años en el SILAIS de                              8,8          6      1.000 niños <    19.2    16  1.000 niños <   19.2   12.4 delimitación geográfica. Se
+Madriz                                                                                                      5a                           5a                    eliminó Nueva Segovia.
+                                                          egresos por                                  egresos por                  egresos por                Cambios de LB y Meta por
+2.2 Tasa de hospitalización por neumonía en menores
+                                                          1.000 niños <          28.6         20      1.000 niños <    14.6    13  1.000 niños <   14.6   36.3 delimitación geográfica. Se
+de cinco años en SILAIS de Madriz.
+                                                          5a                                                5a                           5a                    eliminó Nueva Segovia.
+Impacto 3: Acceso a servicios primarios de salud sexual y reproductiva
+3.1 Demanda insatisfecha de planificación familiar en
+                                                                 %                14         12.5           %           14    12.5       %          14      0  Sin cambios.
+el SILAIS de Madriz.
+Resultado 1: Asignación de personal de atención primaria para el área rural y red comunitaria ampliadas
+                                                           Asignación al                              Asignación al                Asignación al               Ajuste de LB de 60.42 a 8.57 y P
+1.1 Enfermeras y auxiliares asignadas al primer nivel
+                                                            primer nivel                               primer nivel    60.4         primer nivel               de 64.88 a 9.12 en PCR final por
+de atención por 10.000 habitantes en los SILAIS de                              60.42       64.88                             9.12                 8.57   9.95
+                                                             por cada                                   por cada        2            por cada                  error en la determinación de
+Madriz, Nueva Segovia, Estelí, Chinandega y León.
+                                                            10.000 hab                                 10.000 hab                   10.000 hab                 datos de LB.
+                                                                                15 por      20 por
+                                                                            sector rural sector rural                                                          Sin cambios. Solamente se
+1.2 Tasa de “agente comunitario” por sector en los
+                                                               Agente          y 25 en     y 25 en        Agente        15     20      Agente       15    21.2 restringió a sector rural por ser
+municipios priorizados.
+                                                                                sector      sector                                                             el área priorizada
+                                                                               urbano.     urbano.
+Resultado 2: Capacidades del personal de atención primaria y de la red comunitaria mejoradas.
+2.1 Porcentaje de los recursos técnicos (estadísticos,
+higienistas, educadores para la salud, y auxiliares de
+                                                                 %                75          25            %           75     25         %         75      7  Sin cambios
+enfermería) que son empíricos en los SILAIS
+priorizados
+                                                                                                  10
+"
+"                                                                                                                               Al terminar el proyecto
+                                                                    En aprobación                    En elegibilidad + 60 días
+                                                                                                                                        (PCR)
+                       Indicadores                                                                                                                                 Comentarios
+                                                        Unidad de                                    Unidad de     Línea Meta  Unidad de    Línea
+                                                                        Línea Base     Meta (P)                                                      (A)
+                                                          Medida                                      Medida       Base (P)     Medida       Base
+2.2 Porcentaje agentes comunitarios activos de los
+municipios priorizados certificados en los contenidos        %                0           20             %           0      20     %           0    100  Sin cambios
+del Manual Único del Brigadista
+Resultado 3: Registro y uso de información epidemiológica y de atención comunitarias mejorada.
+3.1 Porcentaje de municipios priorizados cuyo reporte
+de atenciones e información comunitaria hacia el             %               50           90             %           50     90     %          50     97  Sin cambios
+SILAIS se efectúa por medio del SICO mensualmente.
+Resultado 4: Cobertura de atención primaria a niñez y mujeres en edad fértil en zonas rurales dispersas mejorada
+4.1 Porcentaje de niños de 23 meses de edad del área
+priorizada que cuentan con su esquema de                     %             67.5           80             %          67.5    80     %         67.5    95  Sin cambios
+vacunación completo.
+                                                                                                                                                         Error de digitación de LB entre
+                                                                                                                                                         aprobación y elegibilidad +60
+4.2 Prevalencia de métodos modernos de                                                                                                                   días. Cambios en 2016 en LB
+                                                             %             75.8           80             %          78.8    80     %         76.7     0
+planificación familiar en el área priorizada.                                                                                                            para coincidir con fuente de
+                                                                                                                                                         datos (ENDESA).
+                                                                                              11
+"
+"En relación a matriz de resultados que se muestra en tabla 2.2, se identifican, únicamente cambios
+a nivel de valores de línea base de indicadores y que, como consecuencia, en algunos casos,
+modificó la meta, estos corresponden a:
+   •    Impacto # 2 “Morbilidad severa en la niñez”: Se modificaron los datos de línea base y meta
+        de los indicadores 2.1 y 2.2, referidos a la tasa de hospitalización por EDA y por neumonía
+        de menores de cinco años. El cambio corresponde a que durante la etapa de formulación se
+        pretendió tener como parámetro de monitoreo los SILAS de Madriz y Nueva Segovia; no
+        obstante al definir la Matriz de Resultados 60 días posteriores se determinó que los datos
+        disponibles para ésta acción se encontraban únicamente para el SILAIS de Madriz, siendo
+        que Madriz representa el 22% de las comunidades atendidas y el 27% de los municipios
+        priorizados5, por lo que la Línea Base y Meta se ajustaron para monitorear el indicador
+        únicamente en Madriz considerando su representatividad geográfica en el programa.
+   •    Resultado # 1 “Asignación de personal de atención primaria para el área rural y red
+        comunitaria ampliadas”: Los datos mostrados en el PMR del indicador 1.1 “Enfermeras y
+        auxiliares asignadas al primer nivel de atención por 10.000 habitantes en los SILAIS de
+        Madriz, Nueva Segovia, Estelí, Chinandega y León”, no muestran los valores conforme el
+        nombre del indicador; debido a que los datos de la línea base, sobre la cual se proyectó la
+        meta; incluían a la totalidad del personal asignado a los SILAIS (además de primer nivel
+        incluyó personal administrativo y de segundo nivel de atención6), situación que fue identificada
+        como parte de la evaluación final del programa y no se logró ajustar el dato en el PMR.
+        La línea base conforme lo describe el indicador (personal de primer nivel) corresponde a
+        8,57 en lugar de 60,42; y la meta, manteniendo el mismo valor relativo de crecimiento (7,38%),
+        corresponde a 9,12 en sustitución de 64,88. Para efecto del PCR, se toman los valores
+        correctos y ajustados conforme lo establece el nombre del indicador, por tanto, se tiene:
+                           Tabla 2.2. Cambios del resultado No.1 de la matriz de resultados
+                                 Concepto                   PMR              PCR
+                                 Línea base                     60.42            8.57
+                                 Meta                           64.88            9.12
+                                 Actual                          9.95            9.95
+   •    Resultado # 1 “Asignación de personal de atención primaria para el área rural y red
+        comunitaria ampliadas”: Se modificó el indicador 1.2 “Tasa de agente comunitario por sector
+        en los municipios priorizados” en la MR anexa al Propuesta de Préstamo indicaba datos de
+        línea base y meta para el sector urbano y rural; no obstante, en la MR en elegibilidad +60 días
+        se restringió los datos a monitorear al sector rural, por ser ésta el área priorizada del
+        programa.
+   •    Resultado # 4 “Cobertura de atención primaria a niñez y MEF en zonas rurales dispersas
+        mejorada”: El indicador 4.2 “Prevalencia de métodos modernos de planificación familiar en el
+        área priorizada” presenta dos momentos de cambios en su Línea Base, la primera
+        corresponde a un error de digitación entre la MR en la Propuesta de Préstamo y la de
+5  De los 33 municipios priorizados, nueve corresponden a Madriz, que equivalen al 100% del del departamento.
+   El siguiente en la lista es Nueva Segovia con 7 municipios priorizados de 12 que lo integran y 55 comunidades
+   atendidas.
+6  La LB de 64.20 corresponde al total de personal por 10.000 habitantes del SILAIS de Estelí. Ver cuadro No. 8 del
+   enlace opcional 3, del Programa de Salud Comunitaria para Municipios Rurales. Con lo cual se denota que el valor de
+   LB no es consistente con la descripción del indicador. El informe oficial de datos históricos proveídos por DGRH de
+   MINSA muestra para 2013 una LB de 8.57, conforme descripción del indicador.
+                                                         12
+"
+"         elegibilidad +60días (75,8 vs. 78,8); luego en 2016 es nuevamente modificada para que sea
+         consistente con la fuente de datos7.
+ Para el resto de los indicadores, no mencionados, no hubo cambios. Así mismo, los cambios
+ acontecidos no afectaron la lógica vertical con la cual fue aprobada la operación, así como tampoco
+ afectó la medición de los resultados, dado que la meta fue ajustada en la misma proporción acordada
+ en la MR original del programa.
+2.2      Efectividad
+                  a. Declaración de objetivos de desarrollo del proyecto
+ El objetivo del programa fue fortalecer la capacidad del MINSA de extender servicios de promoción,
+ prevención y atención primaria a la salud en comunidades rurales dispersas con énfasis en la región
+ del Corredor Seco, con el fin de mejorar el estado de salud de la población más vulnerable.
+ Ese objetivo se planteó lograrse mediante la optimización de la composición del personal asistencial,
+ en especial en perfiles técnicos y de enfermería; la extensión priorizada de servicios comunitarios de
+ salud y nutrición; la ampliación de la red comunitaria activa, y la mejoría de las capacidades y
+ finalmente mejorar el registro y uso de la información epidemiológica y de servicios a nivel
+ comunitario. Los resultados logrados por el programa en cada uno de los objetivos específicos
+ planteados corresponden a los siguientes:
+                  b. Resultados logrados
+ Objetivo específico 1: Aumentar la asignación de personal asistencial del primer nivel, en
+ especial en perfiles técnicos y de enfermería, así como a la ampliación de la red comunitaria
+ activa:
+ El logro de éste primer objetivo se demuestra con los niveles de cumplimiento de los indicadores de
+ sus dos resultados asociados, y que son complementarios entre sí: (i) Asignación de personal de
+ atención primaria para el área rural y red comunitaria ampliada; y (ii) Capacidades del personal de
+ atención primaria y de la red comunitaria mejoradas. Los indicadores muestran que se logró
+ implementar el Plan de Optimización del Talento Humano, evidenciado en informe realizado en
+ 20168, en el que MINSA mostró avances significativos en la reorganización del personal. En la
+ primera fase (2013-2015) se habían acogido 2064 personas y el número de personal prestador de
+ servicios se aumentó de 31.124 en 2013 a 32.122 en 2016, a pesar del retiro de las 2064 personas
+ que se acogieron al Plan; así mismo, se evidenció que los perfiles que mayormente aumentaron, a
+ nivel nacional, fueron los de enfermería y técnicos de salud en un 12% y 6%, respectivamente.
+ La implementación del Plan de Optimización del Recurso Humano fue a nivel nacional, pero los
+ indicadores del Programa inherente a la implementación se limitaron a los 33 municipios priorizados,
+ por lo que las acciones hubiesen tenido un mayor impacto que el logrado, de haberse concentrado
+ en los 33 municipios.
+ En cuanto a los municipios priorizados por el Programa se logró aumentar la asignación de personal
+ de enfermería al primer nivel de atención de 8.57 a 9.95 por cada 10,000 habitantes (Indicador de
+ Resultados 1.1) y de agentes comunitarios por sector en todos los municipios priorizados de 15 a
+ 21.2 la tasa de agente por sector del área rural (Indicador de Resultados 1.2), así mismo los niveles
+ 7   Cuadro No. 5.8 “Uso actual de métodos anticonceptivos entre las mujeres entrevistadas actualmente unidas” de la
+     Encuesta Nicaragüense de Demografía y Salud 2011/12 (ENDESA), establece 76.7 de prevalencia de métodos
+     modernos para Madriz.
+ 8   Ver enlace opcional # 3 de la Propuesta de Préstamo NI-L1095.
+                                                          13
+"
+"de empirismo (Indicador de resultados 2.1) bajaron de 75% en 2013 a 7% en el 2017 en los SILAIS
+priorizados. De los 3.576 recursos, 3.326 se encuentran capacitados, sobresaliendo que el 100% de
+los educadores están capacitados y aún se tiene un reto importante en la formación de los
+estadísticos, tal y como se muestra en el detalle de la tabla 2.3:
+                                                    Tabla 2.3. Personal de salud capacitado
+                       Auxiliares de enfermería y de salud
+                                                                    Estadísticos                    Higienistas            Total de recursos técnicos
+        SILAIS         MOSAFC (educadores para la salud)
+                         Total      Empíricos Capacitado   Total     Empíricos Capacitado  Total    Empíricos Capacitado Total     Empíricos Capacitado
+Chinandega                359                       359          51           16       35        22           1       21      432          17          415
+Estelí                    207                       207          21            7       14         5           0        5      233            7         226
+León                      333                       333          55           27       28        16           1       15      404          28          376
+Madriz                    158                       158          13            4        9        11           5        6      182            9         173
+Managua                  1296                      1296         218         142        76        52           7       45     1566         149         1417
+Matagalpa                 428                       428          33           16       17        14           5        9      475          21          454
+Nueva Segovia             244                       244          26            7       19        14          12        2      284          19          265
+Total General            3,025          0         3,025     417         219        198      134         31       103     3,576        250         3,326
+           Porcentajes                 0%          100%                 53%        47%                 23%       77%                   7%          93%
+Así mismo, se avanzó en la certificación de agentes comunitarios activos de los municipios
+priorizados en los contenidos del Manual Único del Brigadista (Indicador de Resultados 2.2). Si bien
+MINSA mantiene una estrategia constante de capacitación de brigadistas a nivel nacional, la rotación
+de los mismos no permite tener un 100% capacitados en el Manual. En los SILAIS priorizados se
+obtuvo una tasa de brigadistas capacitados del 30%, cumpliendo así la meta del 20%; la información
+de las capacitaciones es manejada por la Dirección de Docencia a nivel de SILAIS y no municipal,
+por lo que el dato que se reportó corresponde a nivel departamental, conforme tabla 2.4. La meta y
+resultados, desde alguna perspectiva puede considerarse bajo y riesgoso para la sostenibilidad. No
+no obstante la sostenibilidad no se considera en riesgo dado que: (i) los agentes comunitarios son
+personal voluntario que ha logrado el MOSAF identificar, incentivar y capacitar a pesar de la alta
+rotación; (ii) Para enfrentar esta alta rotación, MINSA mantiene una estrategia de capacitación
+permanente a los brigadistas, para garantizar la sostenibilidad de la red comunitaria y año con año
+imparte contenidos básicos de las estrategias comunitarias; y (iii) Pese a la rotación, siempre se
+mantiene al menos un agente capacitado como parte del grupo de brigadistas que sirve de guía a los
+que se encuentran en proceso de capacitación o recién se incorporan a la red.
+                                        Tabla 2.4. Agentes comunitarios de salud capacitados
+                                                                                          2017
+                          SILAIS Priorizados                                         BRIGADISTAS
+                                                                                       Capacitados
+                                                           Existentes                                                  %
+                                                                                     (Manual Único)
+                         Nueva Segovia                           1346                      835                        62%
+                         Estelí                                  4016                      300                        7%
+                         Madriz                                   802                      585                        73%
+                         León                                    1227                      610                        50%
+                         Chinandega                              1351                      805                        60%
+                         Managua                                 3364                      835                        25%
+                         Matagalpa                               3935                      835                        21%
+                         Sub Total                             16041                      4805                        30%
+Este cumplimiento es consistente con el modelo de gestión de la salud implementado por MINSA en
+el que se ha organizado y capacitado a la red comunitaria de salud y que con el Programa se ha
+                                                                                14
+"
+"consolidado y logrado mantener activa en los municipios y comunidades priorizadas con el apoyo de
+los equipos ESAFC9.
+El nivel de avance de los indicadores de resultados y productos, aportan al cumplimiento de este
+primer objetivo específico: “Aumentar la asignación de personal asistencial del primer nivel, en
+especial en perfiles técnicos y de enfermería, así como la ampliación de la red comunitaria activa”,
+por cuanto las acciones desarrolladas para su logro, contribuyeron a mejorar las capacidades de
+conocimientos y de equipamiento de los equipos asignados al primer nivel de atención y la
+consolidación de la red comunitaria activa; con el reto de continuar con el proceso de optimización
+de los recursos humanos orientado hacia las comunidades más vulnerables y en los perfiles que
+permitan continuar con el proceso de consolidación del MOSAFC, de forma que se cierren las
+brechas de asignación de personal en estas comunidades.
+Así mismo, en la Propuesta de Préstamo se identificó10 que el acercar los servicios de salud a las
+comunidades más vulnerables con promoción, prevención y alertas tempranas de síntomas, incide
+en reducir la severidad de la morbilidad y el riesgo de muerte; lo que conlleva a analizar los cambios
+en los indicadores de impacto del Programa, observando una disminución en la desnutrición de
+menores de dos años (Indicador de Impacto 1.1) y de la tasa de hospitalización por enfermedades
+diarreicas (Indicador de Impacto 2.1). No obstante, la hospitalización por neumonía11 (Indicador de
+Impacto 2.2) aumentó considerablemente. Esto último se justifica en que la neumonía tiene 19 formas
+de presentarse12, y conforme a entrevistas a personal de salud del SILAIS de Madriz y de la Dirección
+de Servicios de Salud se informa que la variabilidad climática está incidiendo en el repunte de casos
+de neumonía, no solo en Madriz, sino a nivel de todo el país. Así mismo es importante reconocer que
+la naturaleza del programa (ampliación de oferta de servicios, incluidos los de promoción) contribuye
+a aumentar la detección y tratamiento de casos y, en algunos casos, a nivel hospitalario en los
+primeros años de la intervención. Se busca que, en el mediano plazo con este aumento de las
+intervenciones en prevención, disminuya el número de hospitalizaciones.
+Finalmente, se debe tener presente que el modelo de pares13 establecido en las estrategias
+comunitarias busca generar cambios de comportamiento en la población, tema que no se encontró
+evidencia de haber sido monitoreado durante la implementación del programa al no haber formado
+parte explícita del Programa; aspecto que se estará abordando en el acápite de sostenibilidad de
+este informe.
+Objetivo específico 2: Mejora del acceso a servicios comunitarios de salud y nutrición en
+niños menores de 2 años y mujeres en edad fértil en los municipios priorizados:
+El logro de este segundo objetivo se demuestra con los niveles de cumplimiento de los indicadores
+del resultado de ampliación de la cobertura de atención primaria a niñez y mujeres en edad fértil en
+zonas rurales dispersas. Así mismo, se han obtenido interesantes lecciones, como la planificación
+9    Los ESAFC corresponden a personal de salud asignado al primer y están integrados por perfiles de médico de servicio
+     social, enfermeras, auxiliares, educadores de la salud, nutricionistas, brigadistas de salud, entre otros.
+10   Se ha estimado que hasta un 30% de los casos de neumonía resultan como complicación de otras infecciones
+     respiratorias no tratadas oportunamente y hasta un 20% de hospitalizaciones evitables, ver Poverty related risk for
+     potentially preventable hospitalisations among children in Taiwan, Chen et al. BMC Health Services Research 2010.
+11   Las acciones que se previeron y realizaron correspondieron con la detección temprana de las afecciones que evitaran
+     complicaciones que generaran hospitalizaciones.
+12   Clasificación Estadística Internacional de Enfermedades y Problemas relacionados con la Salud. CIE-10, Volumen 1,
+     Edición 2008, Utilizado por MINSA para sus estadísticas.
+13   El MOSAFC establece el concepto de responsabilidad compartida a través de las consejerías por pares y la referencia
+     de la población por los agentes comunitarios basados en conocimientos y señales de peligro.
+                                                            15
+"
+"de todas las actividades previas a la implementación de las estrategias en nuevas comunidades, y
+que se abordan en los criterios no centrales de este informe. Se ha cumplido con el objetivo de
+mejorar el acceso a servicios comunitarios de salud a niños y mujeres en edad fértil en
+608 comunidades en las que se intervinieron con el programa a través de los equipos ESAFC y red
+comunitaria ampliados y fortalecidos bajo el primer objetivo específico, incluyendo transversalmente,
+la disposición de un sistema de captación y procesamiento de los registros de atenciones brindadas
+a la comunidad (SICO)14.
+La mejora de acceso a servicios comunitarios de salud y nutrición en niños menores de dos años,
+está vinculado a la mejora nutricional y disminución de la morbilidad severa de la niñez; medido a
+través de los tres primeros indicadores de impacto y que se han abordado como parte del primer
+objetivo específico, y que se ha visto complementado con las actividades de atenciones directas a la
+niñez bajo este segundo objetivo y que se materializó con las atenciones brindadas en los
+33 municipios priorizados y basada en dos indicadores trazadores: (i) niñas y niños menores de dos
+años atendidos con vigilancia y consejería nutricional mensual según la norma del PROCOSAN; y
+(ii) niñas y niños menores de seis años atendidos y/o referidos por enfermedad en la comunidad
+según la norma del PROCOSAN. El cumplimiento del indicador de resultado (4.1) de niños de
+23 meses de edad del área priorizada que cuentan con su esquema de vacunación completo, fue
+logrado por: (i) La cobertura del 100% de las comunidades priorizadas con la estrategia de
+PROCOSAN Niñez provistas por el incentivo a los municipios de transferencias de recursos por
+atenciones; y (ii) La realización de jornadas de vacunación anuales (al menos tres al año) que realiza
+MINSA.
+En cuanto al cumplimiento del indicador de resultado (4.2) referida a la prevalencia de métodos
+modernos de planificación, y su indicador de impacto (3.1) asociado: “Demanda insatisfecha de
+planificación familiar en el SILAIS de Madriz”, ambos poseen la misma fuente de información
+(ENDESA) para evidenciar su logro; no obstante, esta encuesta no fue realizada15. Como se dispone
+de evidencia de las acciones realizadas por el programa en la captación y atención de MEF con
+métodos anticonceptivo bajo la estrategia ECMAC en los municipios priorizados, el cual se logró
+aumentar en 45% la captación en los últimos tres años, lo cual hace inferir que se ha aumentado el
+uso de métodos modernos de planificación en más del 4% esperado y que la demanda insatisfecha
+de planificación familiar ha disminuido en un porcentaje mayor al 10% previsto por el programa,
+ambos para el SILAIS de Madriz, por lo cual los logros del Programa en el tema de salud sexual y
+reproductiva en MEF, se considera alcanzado.
+La captación y atención de métodos anticonceptivos para MEF se realizó conforme lo estipulado en
+la Norma 2012-N-099 “Manual para la Entrega Comunitaria de Métodos Anticonceptivos (ECMAC) y
+guía para capacitar al personal de salud y consejeras”. El proceso que se sigue para su
+implementación es el siguiente: (i) capacitación permanente del personal de salud en la
+implementación de la ECMAC; (ii) Selección de barrios y comunidades en base al diagnóstico basado
+en el MOSAFC; (iii) visita a la comunidad para: identificar a los líderes y voluntarios para la
+implementación de la ECMAC; censo de las MEF; (iv) Capacitación a consejeros comunitarios
+14    El SICO es un sistema que facilita el funcionamiento y vinculación de las redes comunitarias; recopila la información
+      básica de las actividades educativas, preventivas y de promoción que desarrollan en sus comunidades los Brigadistas,
+      promotores, Parteras, Colaboradores Voluntarios, Líderes, Casas Bases y otros representantes de la comunidad en
+      coordinación con las autoridades de salud, estableciendo todo un flujo de la información que registra los eventos
+      relacionados a ECMAC, PROCOSAN Materno y Niñez, Referencia Comunitaria de casos (Vigilancia comunitaria) que
+      son reportados por los agentes comunitarios a los equipos de Salud y éstos a su vez a las Direcciones Municipales y
+      SILAIS.
+15    Esta encuesta es realizada por Instituto Nicaragüense de Estadísticas, el cual no obtuvo los recursos necesarios para
+      realizarla para el año
+                                                             16
+"
+"voluntarios; y (v) captación de MEF y suministro de métodos anticonceptivos. Así mismo se disponen
+de herramientas de seguimiento que inician con la tarjeta de planificación para cada usuaria; la hoja
+de registro de atención ambulatoria; el acta de entrega de insumos; el expediente clínico de la usuaria
+y el expediente de ECMAC, a nivel de establecimiento de salud, municipio, SILAIS y a nivel central.
+Se hace notar que la metas originales de los cuatro productos que aportan a los resultados de éste
+objetivo fueron ajustados, esto debido a que no se disponían de la organización comunitaria y
+herramientas para el registro de las atenciones previstas, por lo que en los primeros años el MINSA
+con el apoyo del Banco se realizaron las acciones previas establecidas en la norma 097 “Manual
+Técnico Operativo PROCOSAN” del año 2014, tales como censos, selección de comunidades,
+identificación de brigadistas, equipamiento básico, capacitaciones; entre otros y el establecimiento
+de los mecanismos de registro y sistematización de las atenciones que se brindaban, siendo que la
+implementación de éstas actividades obligó a que la ejecución de los productos fuera gradual en los
+33 municipios tal y como se aprecia en la tabla 2.5 y para el Producto 2.6 hubo una sobreestimación
+de la meta:
+                 Tabla 2.5. Implementación gradual de intervenciones principales por municipios
+                                                                                    Número de Municipios
+            Indicador                                           2015              2016             2017         2018              Total
+                                                                                                                          No
+                                       Fecha de inicio de                                                                       municipios
+                                                          I Sem.   II. Sem.  I Sem.  II. Sem. I Sem.  II. Sem. I Sem. ejecutado
+                                       implementación
+  R4 P6: Transferencias por Mujeres en Edad Fértil (MEF)
+  captadas y atendidas con método anticonceptivo por la
+                                                             18         5       3         2                4              1        33
+  estrategia ECMAC en los registros mensuales de
+  atención en los municipios priorizados
+  R4 P7: Transferencias por embarazadas y puérperas de
+  los municipios protagonistas atendidas con vigilancia y
+                                                                                         17      6         6      4                33
+  consejería nutricional según la norma del Programa
+  Comunitario de Salud y Nutrición (PROCOSAN).
+  R4 P8: Transferencias por niñas y niños menores de dos
+  años atendidos con vigilancia y consejería nutricional     17                 2        14                                        33
+  mensual según la norma del PROCOSAN
+  R4 P9: Transferencias por niñas y niños menores de seis
+  años atendidos y/o referidos por enfermedad en la           9         5       1         7      8         1              2        33
+  comunidad según la norma del PROCOSAN
+Finalmente, de forma transversal a los dos objetivos específicos, el tercer resultado de la lógica
+vertical del programa, cuyo indicador (3.1) está referido al reporte de atenciones e información
+comunitaria hacia el SILAIS efectuada por medio del SICO, fue alcanzado al lograr que el 97% de
+los 33 municipios priorizados reporten sus atenciones por medio del SICO, distribuidos en los nueve
+SILAIS priorizados conforme se muestra en la tabla 2.6:
+Es relevante indicar que con el programa se consolidó la utilización del sistema de información como
+herramienta estadísticas de las atenciones brindadas en las comunidades, siendo que en el segundo
+semestre 2016 inició su utilización en los municipios priorizados, mediante el desarrollo del sistema,
+equipamiento y capacitaciones a la red comunitaria y equipos ESAFC; gradualmente se fue
+extendiendo a nivel nacional siendo que a octubre 2018 de los 10 SILAIS a nivel nacional, seis tienen
+implementado SICO en más del 90% de sus municipios y ocho SILAIS en más del 80% de sus
+municipios.
+                                                                          17
+"
+"                                   Tabla 2.6. Implementación SICO por municipios
+                                                                                          Actividades
+                TOTAL      Procosan Niñez  Plan de Parto Procosan Materno    ECMAC                     Promedio Aporte % Promedio
+      SILAIS                                                                            Comunitarias
+              MUNICIPIOS                                                                                 SILAIS municipios ponderado
+                         SI    NO      %   SI NO % SI NO             %    SI NO     %   SI NO %
+LEON               5      5     0    100%  5 0 100% 5              100%   5 0     100%   5 0 100% 100%             15%        15%
+CHINANDEGA         2      2     0    100%  2 0 100% 2 0            100%   2 0     100%   2 0 100% 100%              6%         6%
+MANAGUA            2      2     0    100%  0 2 0% 2 0              100%   6 0     300%   0 2 0%          100%       6%         6%
+ESTELI             6      6     0    100%  6        100% 6 0       100%   9 0     150%   6 0 100% 110%             18%        20%
+MADRIZ             9      9     0    100%  9 0 100% 9 0            100%   7 0      78%   9 0 100% 96%              27%        26%
+NUEVA SEGOVIA      7      7     0    100%  6 1 86% 7 0             100%   2 0      29%   7 0 100% 83%              21%        18%
+MATAGALPA          2      2     0    100%  2 0 100% 2 0            100%   2 0     100%   2 0 100% 100%              6%         6%
+Total             33     33     0   100.0% 30   3 90.9% 33 0      100.0%  33  0  100.0% 31     2 93.9%            100%        97%
+                                                                 18
+"
+"                                                               Tabla 2.7 Matriz de Resultados logrados
+                                                           Unidad de        Valor de Línea   Año de línea         Metas y          %
+                   Impacto / Indicador                                                                                                    Medios de verificación
+                                                             Medida            de base          de base        alcance real Alcanzado
+             Desnutrición crónica en menores de 2                                                              P          14
+                                                                                                                                          Reporte de la Dirección de
+   1.1       años en los SILAIS de Madriz y Nueva               %                19.6             2012         P(a)       14    125.0%
+                                                                                                                                          Servicios de Salud MINSA.
+             Segovia                                                                                           A        12.6
+             Tasa de hospitalización por enfermedad                                                            P          16              Reporte de la Dirección de
+                                                           egresos por
+   2.1       diarreica aguda (EDA) en menores de                                 19.2             2011         P(a)       16    212.5%    Estadísticas (antes ONE) del
+                                                          100 niños <5a
+             cinco años en el SILAIS de Madriz                                                                 A        12.4              MINSA.
+             Tasa de hospitalización por neumonía en                                                           P          13              Reporte de la Dirección de
+                                                           egresos por
+   2.2       menores de cinco años en los SILAIS de                              14.6             2011         P(a)       13 -1356.3% Estadísticas (antes ONE) del
+                                                          100 niños <5a
+             Madriz.16                                                                                         A        36.3              MINSA
+                                                                                                               P        12.5              Sin datos por falta de
+             Demanda insatisfecha de planificación
+   3.1                                                          %                 14              2011         P(a)     12.5      0.0%    realización de encuesta
+             familiar en el SILAIS de Madriz.
+                                                                                                               A                          ENDESA.
+                                                               Unidad de          Valor de     Año de línea         Metas y          %
+                    Resultado /Indicador                                                                                                     Medios de verificación
+                                                                 Medida        Línea de base      de base        alcance real    Alcanzado
+           Enfermeras y auxiliares asignadas al primer                                                          P         64.8
+           nivel de atención por 10.000 habitantes en los     asignación al                                     P(a)      9.12
+   1.1                                                                              8.57            2013                           250.9%    Datos provistos por DGRH.
+           SILAIS de Madriz, Nueva Segovia, Estelí,         primer nivel por
+           Chinandega y León.                                                                                   A         9.95
+                                                                                                                P           20
+           Tasa de agente comunitario por sector en los                                                                                      Datos provistos por la
+   1.2                                                          Agentes              15             2013        P(a)        20     124.0%
+           municipios priorizados.                                                                                                           DGSS.
+                                                                                                                A         21.2
+           Porcentaje de los recursos técnicos                                                                  P           25
+                                                                                                                                             Datos oficiales del MINSA
+           (estadísticos, higienistas, educadores para la                                                       P(a)        25
+   2.1                                                        % empíricos            75             2013                           136.0%    (Dirección General de
+           salud, y auxiliares de enfermería) que son
+                                                                                                                A            7               Docencia).
+           empíricos en los SILAIS priorizados.
+           Porcentaje agentes comunitarios activos de                                                           P           20               Datos oficiales del MINSA
+   2.2     los municipios priorizados certificados en los          %                  0             2013        P(a)        20     150.0%    (Dirección General de
+           contenidos del Manual Único del Brigadista.                                                          A           30               Docencia).
+           Porcentaje de municipios priorizados cuyo                                                            P           90
+           reporte de atenciones e información                                                                  P(a)        90               Datos provistos por la
+   3.1                                                             %                 50             2013                           117.5%
+           comunitaria hacia el SILAIS se efectúa por                                                                                        DTIC.
+           medio del SICO mensualmente.                                                                         A           97
+   4.1                                                             %                67.5            2012        P           80     220.0%
+16    Ver explicación sobre la medición de este indicador en p en el sexto párrafo del inciso b. del acápite 2.2 del PCR y fue retomado como hallazgo #4 en
+      la tabla 4.1.
+                                                                               19
+"
+"                                                        Unidad de      Valor de    Año de línea     Metas y           %
+              Resultado /Indicador                                                                                          Medios de verificación
+                                                          Medida    Línea de base    de base      alcance real   Alcanzado
+     Porcentaje de niños de 23 meses de edad del                                                 P(a)        80
+                                                                                                                            Datos provistos por la
+     área priorizada que cuentan con su esquema
+                                                                                                 A           95             DGSS.
+     de vacunación completo
+                                                                                                                            Sin datos por falta de
+                                                                                                                            realización de encuesta
+                                                                                                 P           80
+                                                                                                                            ENDESA.
+                                                                                                                            Proxy: 135% alcanzado en
+                                                                                                                            Mujeres en Edad Fértil
+     Prevalencia de métodos modernos de                                                                                     (MEF) captadas y
+ 4.2                                                         %            76.7        2012                          0.0%
+     planificación familiar en el área priorizada                                                P(a)        80             atendidas con método
+                                                                                                                            anticonceptivo por la
+                                                                                                                            estrategia ECMAC en los
+                                                                                                                            registros mensuales de
+                                                                                                 A            0             atención en los municipios
+                                                                                                                            priorizados
+                                                        Unidad de   Valor de Línea Año de línea      Metas y           %
+                    Producto                                                                                                 Medios de verificación
+                                                         Medida         base         de base       Alcance real   Alcanzado
+Componente 1. Optimización de los RRHH para la extensión de servicios comunitarios en áreas rurales dispersas.
+                                                                                                 P         1,338
+      Personal acogido al plan de optimización de
+ 1.1                                                  #                  N/A           N/A       P(a)      2,520      98%    Informes Semestrales.
+      talento humano.
+                                                                                                 A         2,475
+      Personal técnico formado                                                                   P           300
+ 1.2                                                  #                  N/A           N/A       P(a)      2,304     100%    Informes Semestrales.
+                                                                                                 A         2,300
+      Equipos municipales de salud capacitados y                                                 P           120
+ 1.3  con equipamiento para implementar               #                  N/A           N/A       P(a)        175     100%    Informes Semestrales.
+      estrategias comunitarias                                                                   A           175
+Componente 2. Extensión de servicios comunitarios en municipios priorizados del Corredor Seco
+      Agentes de la red comunitaria de los                                                       P         2,200
+      municipios priorizados usando tecnología                                                   P(a)      4,678
+ 2.1                                                  Agentes            N/A           N/A                           114%    Informes Semestrales.
+      móvil para el registro de atención y referencia
+                                                                                                 A         5,343
+      comunitaria
+                                                                                                 P           684
+      ESAFC de los municipios priorizados dotados
+ 2.2                                                  Equipos            N/A           N/A       P(a)        534     100%    Informes Semestrales.
+      de equipos y equipamiento básico
+                                                                                                 A           534
+      Mujeres en Edad Fértil (MEF) captadas y                                                    P        96,690
+      atendidas con método anticonceptivo por la      Beneficiarios                              P(a)     39,961
+ 2.3                                                                     N/A           N/A                           135%    Datos MINSA.
+      estrategia ECMAC en los registros mensuales (#)
+                                                                                                 A        53,847
+      de atención en los municipios priorizados.
+ 2.4                                                                     N/A           N/A       P        14,081     109%    Datos MINSA.
+                                                                    20
+"
+"                                                               Unidad de       Valor de Línea      Año de línea       Metas y              %
+                        Producto                                                                                                               Medios de verificación
+                                                                Medida               base            de base        Alcance real     Alcanzado
+         Embarazadas y puérperas de los municipios                                                                P(a)       9,204
+         protagonistas atendidas con vigilancia y
+                                                            Beneficiarios
+         consejería nutricional según la norma del
+                                                            (#)                                                   A        10,068
+         Programa Comunitario de Salud y Nutrición
+         (PROCOSAN).
+         Niñas y niños menores de dos años                                                                        P        64,851
+         atendidos con vigilancia y consejería              Beneficiarios                                         P(a)     91,116
+   2.5                                                                                N/A               N/A                              114%  Datos MINSA.
+         nutricional mensual según la norma del             (#)
+                                                                                                                  A      103,447
+         PROCOSAN
+         Niñas y niños menores de seis años                                                                       P      195,590
+         atendidos y/o referidos por enfermedad en la       Beneficiarios                                         P(a)       3,149
+   2.6                                                                                N/A               N/A                              105%  Datos MINSA.
+         comunidad según la norma del                       (#)
+                                                                                                                  A          3,321
+         PROCOSAN.17
+Donde: P = Planificado; P (a) = Objetivo anual revisado; A = real.
+17   Ver justificación entre meta inicial y ejecución en párrafo 11 del inciso b. del acápite 2.2; así como hallazgo #1 en la tabla 4.1.
+                                                                                21
+"
+"                  c. Análisis contrafactual
+El análisis contrafactual evalúa la contribución del proyecto a los logros observados en la
+Tabla 2.7 utilizando como base la evidencia internacional en el sector y un análisis de impacto
+sobre un conjunto de indicadores de impacto y resultado asociados al programa. Dado que el
+programa no contó con una evaluación de impacto prospectiva que establezca una estrategia de
+identificación para cuantificar los efectos causales del proyecto y sus componentes sobre los
+indicadores de resultado propuestos en la matriz de resultados, los análisis de impacto utilizan
+indicadores “proxys” disponibles en los sistemas de información de salud del país y cuyas
+características se adaptan a los requerimientos metodológicos de la estrategia de efectos fijos
+utilizados en el análisis. Por otro lado, dado que el proyecto se implementó de forma simultánea
+en un subconjunto de municipios y tuvo los mismos objetivos sanitarios que los proyectos
+NI-L1054 y NI-L1068, el análisis de impacto se enfoca en los efectos promedios del paquete de
+intervenciones implementadas en cada municipio por los tres proyectos. Este abordaje analítico
+maximiza la potencia estadística del análisis al extender la muestra a todos los municipios del
+país18.
+El análisis de impacto estima modelos de efectos fijos sobre un subconjunto de indicadores de
+impacto y resultado disponibles del sistema de información de salud para el periodo entre 2006
+a 2018. El conjunto de datos incluye información sobre la utilización de servicios de salud y los
+resultados de salud para los 153 municipios de Nicaragua y para cada uno de los 13 años entre
+2006 y 2018. De los 153 municipios, 59 fueron controles y 94 fueron tratados.
+El objetivo general de los proyectos fue el de reducir la mortalidad y morbilidad infantil y materna
+mediante la expansión y mejora de los servicios esenciales de salud. Como indicadores finales
+de impacto disponibles en el sistema de información de salud del país se cuenta con la tasa de
+mortalidad infantil, neonatal y materna, y el porcentaje de nacimientos en adolescentes como
+proxy para el embarazo en jóvenes. El análisis de los datos da como resultado una reducción
+estadísticamente significativa de 1.117 muertes infantiles por 1.000 nacimientos, y de
+0.745 muertes neonatales por 1.000 nacimientos. Estos impactos representan una reducción
+relativa del 7,5% y 7,2% respectivamente, relativo a las tasas de mortalidad en el periodo basal
+en los municipios de intervención. La tasa de mortalidad materna se vio reducida por las
+intervenciones de los programas en 32.134 muertes por 100.000 nacimientos, una reducción del
+44,5% relativo a la línea base. Y por último el porcentaje de nacimientos entre adolescentes bajó
+en 2 puntos porcentuales, una reducción de 7,8% relativo a la línea base, donde 25,6% de los
+nacimientos fueron por adolescentes. Estos resultados sugieren que las intervenciones
+realizadas conjuntamente por los programas de salud para fortalecer el sistema de salud y
+expandir cobertura fueron efectivos para alcanzar sus objetivos de mejorar el resultado final de
+reducción en mortalidad materno e infantil.
+Considerando el objetivo general del Programa “Fortalecer la capacidad del MINSA de extender
+servicios de promoción, prevención y atención primaria a la salud en comunidades rurales
+dispersas, con el fin de mejorar el estado de salud de la población más vulnerable, con énfasis
+en aportar a la mejora nutricional de la niñez, disminuir la tasa de morbilidad severa de la niñez
+y ampliar los servicios primarios de acceso a la salud sexual y reproductiva”, los resultados
+indican que se observa: (i) un aumento estadísticamente significativo de 968 en el número de
+mujeres que asisten a al menos cuatro controles en el embarazo, y de 1.181 en el número de
+18   Ver anexo No. 2 documento completo de Análisis de Impacto, elaborado por Sebastian Martínez (SPD/SDV) y
+     Solís Winters (SPD/SDV).
+                                                     22
+"
+"mujeres que reciben atención en el puerperio mediato. Estos aumentos representan un
+incremento relativo de 26,0% y 49,4% respectivamente, relativo a los niveles en el periodo basal
+en los municipios de intervención. El porcentaje de nacimientos institucionales, definido como
+partos en un hospital o clínica y atendidos por un médico, aumentó en 8,4%, un aumento de
+9,8% relativo a la línea base; y (ii) un impacto significativo y positivo de 9.758 niños de 1 a 4 años
+adicionales por año que asistieron a al menos dos controles de vigilancia y promoción de
+crecimiento y desarrollo (VPCD). Estas son visitas preventivas centradas en el crecimiento, hitos
+de desarrollo, vacunación, y desparasitación. Este impacto representa un aumento de
+127,2% relativo a la línea base. También se observa un aumento en el número de niños que
+recibieron una dosis de MMR de 1.244, un aumento de 13,5% relativo a la línea de base.
+Estos resultados sugieren que las intervenciones realizadas por el Programa dirigidas a la
+ampliación de cobertura de atención primaria a la niñez y a la mujer en edad fértil en municipios
+rurales fue exitosa.
+Finalmente, el análisis de atribución, detallado en el documento de análisis, concluye que
+sumando los análisis de impacto a la evidencia disponible en la literatura y a la teoría de cambio
+del proyecto descrito en este PCR, se establece una contribución plausible, aunque no una
+atribución causal, hacia la mayoría de los indicadores de resultados.
+                  d. Resultados imprevistos
+El programa inicialmente previó a través del Resultado R3, mejorar el registro y uso de la
+información epidemiológica y de atención comunitarias mediante la disposición de tecnología
+móvil (teléfonos celulares19) para facilitar la comunicación. No obstante, mediante el programa
+se reactivó y actualizó el SICO, desarrollándose acciones de vistas de acompañamiento a los
+consejeros ECMAC a quienes se les proporcionó métodos, papelería, capacitación
+personalizada, apoyo en el llenado de los formatos que se procesa la información mensual,
+organizar expedientes a nivel de las comunidades; actualización de los instrumentos como Censo
+de MEF, Croquis de las comunidades, Censos de Planificación Familiar, Reportes de los
+consejeros. Desde la sede de los SILAIS se realizaron visitas de acompañamiento por parte del
+Equipo de conducción integrado por personal de servicios de salud, verificando la organización,
+registro, seguimiento y monitoreo de las evidencias de la estrategia ECMAC y PROCOSAN,
+además de apoyar la consolidación de la información en los instrumentos que establecen las
+normas de estas estrategias, y revisión de las bases de datos por municipio, organizando las
+mismas por comunidades que integran cada sector
+En enero 2018 se oficializó el uso del SICO a nivel nacional para registrar los eventos
+relacionados a ECMAC, PROCOSAN Materno y Niñez, Referencia Comunitaria de casos
+(Vigilancia Comunitaria), que son reportados por los agentes comunitarios a los equipos de Salud
+y éstos a su vez a las Direcciones Municipales y SILAIS. Desde las sedes municipales al SILAIS
+ya fluye la información en un formato digital; a partir del año 2018 se integra esta información en
+una plataforma en línea que es parte del Sistema de información Comunitaria (SICO).
+Lo anterior, evidencia que el programa contribuyó en institucionalizar una herramienta de manejo
+de información de salud comunitaria, mediante la disposición de recursos para el desarrollo de
+19  Conforme el párrafo 1.17 del POD del Programa incluyó la dotación de teléfonos móviles y plan de datos (internet
+    móvil) para que a través de este medio la red comunitaria reportara a los SILAIS o MINSA Central, las captaciones,
+    atenciones y referencias comunitarias, como primer eslabón para la implementación del SICO.
+                                                         23
+"
+"software, equipamiento, capacitaciones y definición de formatos y papelería, entre otros; para su
+implementación.
+ 2.3     Eficiencia
+El análisis de eficiencia del Programa de Fortalecimiento de la Salud Comunitaria y Extensión de
+Servicios de Salud y Nutrición en las Comunidades del Corredor Seco de Nicaragua (NI-L1081)
+está basado en una comparación de Costo Eficiencia. En un análisis Costo Eficiencia ex post, el
+énfasis está focalizado en determinar si los resultados fueron logrados a un costo razonable.
+Para realizar este análisis, se consideró el costo de proveer un conjunto de paquetes de
+intervención en salud materno infantil. Para este efecto, se identificaron los costos detallados de
+21 paquetes de atención. Específicamente se analizó el costo de ofrecer la atención al parto
+vaginal y la atención al recién nacido. Los costos del programa en Nicaragua son los siguientes
+(en córdobas de 2011)
+                                  Tabla 2.8 costo de atenciones principales
+                                           Atención del Recién Nacido
+                           Servicios                              Uso de servicios             Costo
+ Atención del Recién Nacido (Sala de Partos)                             1                     158.31
+ Atención del Recién Nacido (Hospital)                                   1                     517.54
+ Atención del Recién Nacido (Consulta)                                   1                      16.90
+                          Costo Total                                                          692.75
+                                       Atención del parto vaginal (normal)
+                             Servicios                              Uso de servicios             Costo
+ Vacunación Toxoide Antitetánico                                           2                      54.80
+ Laboratorio Primera vez en Embarazo                                       1                      79.18
+ Atención Prenatal                                                         4                     366.94
+ Trabajo de Parto Normal (Urgencias)                                       1                     222.20
+ Trabajo de Parto Normal (Sala de Partos)                                  1                     236.99
+ Puerperio Normal (Hospital)                                               1                     280.10
+ Puerperio Normal (Consulta)                                               1                      16.90
+ Biometría hemática completa                                               2                      49.16
+ Examen general de orina                                                   2                      44.76
+ Glucosa                                                                   2                      39.48
+                           Costo Total                                                          1,390.52
+Dado que los costos se encuentran en monedas y años diferentes, todos los costos se llevaron
+a dólares de 2018 para hacerlos comparables con intervenciones similares en otros países.
+Más específicamente, se identificaron los costos de intervenciones similares en Panamá.
+Como puede observarse, en la tabla 2.9, el costo Nicaragua es un 59% más bajo que un costo
+de una intervención similar en Panamá en el caso de la atención de parto y un 42% más costo
+eficiente en el caso de la atención del recién nacido.
+                                  Tabla 2.9. Costos unitarios (dólares de 2018)
+                                                                   Panamá            Nicaragua
+           Atención de parto normal                                         169.8                69.5
+           Atención Recién Nacido                                             60.4               34.6
+                                                       24
+"
+"                       Tabla 2.10.        Costos del proyecto
+Componente 1: Optimización de los RRHH para la extensión de servicios comunitarios en áreas rurales dispersas
+                                                                                                                                             30,397,533.09
+                      Output                                           2014              2015            2016         2017             2018      EOP 2018
+1.1 Personal acogido al plan de optimización de        P       5,732,079.00     8,206,871.00     9,676,050.00             -                  23,615,000.00
+    talento humano.                                    P(a)    5,732,079.00     5,995,800.00     3,500,000.00             -                  25,936,915.89
+                                                       A       8,043,084.09    13,170,046.19     4,710,437.10    13,348.51       456,072.63  26,392,988.52
+1.2 Personal técnico formado                           P                   -      487,178.00       532,292.00   180,530.00                    1,200,000.00
+                                                       P(a)                -      437,000.00     1,052,473.64   854,643.31    718,255.04      2,694,579.10
+                                                       A                          227,289.50       829,009.12   920,025.44    499,497.21      2,475,821.27
+1.3 Equipos municipales de salud capacitados y         P                   -      275,400.00       275,400.00   275,400.00                      826,200.00
+    con equipamiento para implementar estrategias P(a)                     -      275,400.00     1,335,585.00   771,474.37    799,484.88      1,695,227.89
+    comunitarias                                       A                               351.03      746,074.93   149,317.05    632,980.29      1,528,723.30
+Componente 2: Extensión de servicios comunitarios en municipios priorizados del Corredor Seco                                                 3,046,089.54
+                             Output                                       2014             2015            2016          2017           2018     EOP 2018
+2.1 Agentes de la red comunitaria de los municipios priorizados P                 1,431,775.00       385,891.00    282,190.00                 2,099,856.00
+    usando tecnología móvil para el registro de atención y        P(a)             1,431,775.00    1,516,583.49  1,046,297.01     717,623.76  2,279,710.35
+    referencia comunitaria                                        A                   98,838.33    1,068,269.97    394,978.29   1,107,209.85  2,669,296.44
+2.2 ESAFC de los municipios priorizados dotados de equipos y P                       182,657.00      294,203.00     70,341.00                   547,201.00
+    equipamiento básico
+                                                                  P(a)              182,657.00       819,220.00    266,621.08     358,020.32    450,976.25
+                                                                  A                        13.04                    92,942.89                   189,861.55
+                                                                                                                                   96,905.62
+2.3 Mujeres en Edad Fértil (MEF) captadas y atendidas con         P                  555,808.00      223,320.00    192,707.00                   971,835.00
+    método anticonceptivo por la estrategia ECMAC en los          P(a)               223,320.00       99,072.00     80,233.52     332.348.45    367.669.04
+    registros mensuales de atención en los municipios
+                                                                  A                                                 17,680.35                   263,320.59
+                                                                                                      17,640.24                   228,000.00
+2.4 Embarazadas y puérperas de los municipios protagonistas       P                   52,394.00      218,428.00    218,428.00                   489,250.00
+    atendidas con vigilancia y consejería nutricional según la    P(a)                21,816.00       16,719.75      6,364.74     323.898.45    327.638.06
+    norma del Programa Comunitario de Salud y Nutrición
+    (PROCOSAN).                                                   A                                      124.03      3,615.58      24,000.00     27,739.61
+2.5 Niñas y niños menores de dos años atendidos con               P     -            541,577.00      461,993.00    461,993.00                 1,465,563.00
+    vigilancia y consejería nutricional mensual según la norma    P(a)       -      162,075.00       193,500.00     93,853.12     347.198.44    488.133.37
+    del PROCOSAN                                                  A                                   56,999.04     83,935.89     940,279.50  1,081,214.43
+2.6 Niñas y niños menores de seis años atendidos y/o referidos    P                 708,040.00       886,013.00    862,770.00                 2,456,823.00
+    por enfermedad en la comunidad según la norma del                        -
+    PROCOSAN.                                                     P(a)       -      208,032.00        29,724.00      9,804.00     334.068.45    341.004.87
+                                                                  A                                    6,936.42                     7,720.50     14,656.92
+                                                                                  25
+"
+"Componente 3: Administración, gestión y evaluación
+                                                                                                                                756,377.38
+                     Output                                    2014            2015           2016         2017         2018     EOP 2018
+3.1  Acciones del Plan de Salvaguardias de        P                -     320,409.00     292,667.00   245,324.00                 858,400.00
+     Gestión correspondientes al período          P(a)            -      292,667.00     256,640.00   234,943.93   103,509.94    407,393.07
+     implementadas.
+                                                  A                                     122,600.04   176,988.58   101,021.29    404,904.42
+                                                                           4,294.51
+3.2  Informes de verificación de cobertura y      P       33,500.00       27,910.00      27,910.00    78,019.00                 167,339.00
+     calidad entregados (auditoría técnica        P(a)    33,500.00       45,000.00     128,520.00    31,730.00    33,433.90    167,033.90
+     externa)
+                                                  A                       25,050.00      78,490.00    30,060.00    33,400.00    167,000.00
+3.3  Informes de evaluación externa entregados    P                                -     35,000.00                               35,000.00
+                                                  P(a)                             -     35,000.00    15,000.00    35,000.00     52,424.27
+                                                  A                       17,424.27                                              17,424.27
+Otros Costos
+                     Output                                    2014            2015           2016         2017         2018         Costo
+                                                  P                 -                                467,533.00                 467,533.00
+Imprevistos                                       P(a)              -                                         -    15,752.95     15,752.95
+                                                  A                 -                                         -                          -
+                                                  P      100,000.00      300,000.00     200,000.00   200,000.00                 800,000.00
+Costos Financieros                                P(a)   100,000.00      200,000.00     200,000.00   199,127.10            -    799,999.99
+                                                  A                      128,524.81     472,348.09   199,127.09                 799,999.99
+                                                  P                       80,000.00      70,000.00    50,000.00                 200,000.00
+Estados Financieros Auditados                     P(a)                    17,399.00      70,000.00    70,240.73    94,351.31    175,541.00
+                                                  A                                      39,759.27    41,430.42    85,859.00    167,048.69
+Costo Total
+                                                                                                                                  20
+                     Output                                    2014            2015           2016         2017         2018         Costo
+                                                  P    5,865,579.00   13,170,019.00  13,579,167.00 3,585,235.00            - 36,200,000.00
+Costo Total                                       P(a) 5,865,579.00    9,492,941.00   9,253,037.88 3,680,332.91 4,212,945.89 36,200,200.00
+                                                  A    8,043,084.09    3,671,831.68   8,148,688.25 2,123,450.09 4,212,945.89 36,200,000.00
+        .
+        20  Incluye contrapartida de US$1,2 millones.
+                                                                               26
+"
+" 2.4     Sostenibilidad
+                 a. Aspectos generales de sostenibilidad
+La sostenibilidad técnica de los resultados del programa proviene del modelo de salud
+institucional del Gobierno de Nicaragua implementado desde el 2007 a través del MINSA,
+denominado MOSAFC y sobre el cual se ha ejecutado toda la cartera vigente del Banco en temas
+de salud. Así mismo, con el programa se lograron fortalecer las estrategias comunitarias, las
+cuales se encuentran debidamente normadas y con manuales técnicos de
+operación21.Este modelo, al ser política nacional, continuará siendo implementado por el
+Gobierno en las áreas que fueron atendidas por el Programa; no con la misma intensidad del
+Programa, pero si con la disposición de recursos humanos y económicos para mantener la
+atención, aprovechando las fortalezas (capacidades técnicas y organizativas) que fueron
+provistas por el programa.
+Así mismo, otro factor de sostenibilidad es la red comunitaria, organizada y fortalecida con el
+programa, dado que la misma son atendidas por los equipos ESAFC del MINSA que han sido
+establecidos para mantener la atención de primer nivel en las comunidades de forma sostenida.
+Igualmente, con el programa se logró capacitar a los equipos ESAFC para el desempeño de sus
+funciones comunitarias; y MINSA ha impulsado la sectorización de los servicios para acercar la
+salud a la población, esta desconcentración del municipio se realiza sobre la base de los censos
+establecidos en la norma PROCOSAN, dónde en un sector puede haber un máximo de 30 niños
+menores de 2 años y/o 12 embarazadas; cada sector tiene asignado tres brigadistas.
+El Gobierno de Nicaragua aumentó de forma sostenida el gasto público en salud durante el
+periodo 2013 - 2017, siendo que el gasto de salud por persona pasó de US$43,3 en 2013 a
+US$73.61 en 2017; en 2018 la situación cambió, siendo el gasto promedio por persona en salud
+fue de US69.79, y para 2019, conforme el presupuesto general se prevé sea de US$65.58; si
+bien el gobierno está comprometido en mantener las asignaciones presupuestarias el sector
+salud, esto se ve afectado por la crisis económica que incide en un menor presupuesto del país22,
+lo cual se refleja en una menor asignación absoluta de presupuesto, pero se mantienen la
+asignación relativa del 17,6% del PGR para salud, con lo cual se logra sostener la atención de
+las poblaciones priorizadas y se ratifica la priorización del gobierno con los servicios de salud.
+La sostenibilidad financiera, antes indicada, se complementa al cumplir con lo establecido en la
+matriz de riesgo inicial del programa; en el cual, el equipo ESAFC (enfermeras y auxiliares de
+enfermería, educadores de la salud) ha sido formado y constituido con personal autóctono del
+municipio, sin obviar el reto de que aún hay brechas de personal comunitario. No obstante, éstos
+se complementan con médicos de servicio social que visitan las comunidades y brigadistas
+voluntarios de los sectores que han sido capacitados.
+Un tema que fue abordado en la Propuesta de Préstamo que se considera relevante es que la
+sostenibilidad del modelo de salud aspira a que los costos de atención en la salud disminuyan
+producto de: (i) la atención temprana de síntomas; y (ii) cambios de comportamiento de la
+población para mejorar la salud de la comunidad. Este último, aún se encuentra en proceso de
+21  Ver:                  http://www.minsa.gob.ni/index.php/repository/Descargas-MINSA/Divisi%C3%B3n-General-
+    Planificaci%C3%B3n-y-Desarrollo/Modelo-de-Salud-Familiar-Comunitaria/Marco-Conceptual-Modelo-Salud-
+    Familiar-Comunitario/;        http://www.minsa.gob.ni/index.php/repository/Descargas-MINSA/Direcci%C3%B3n-
+    General-de-Regulaci%C3%B3n-Sanitaria/Normas-Protocolos-y-Manuales/Normas-2012/Normativa---097-
+    Programa-Comunitario-de-Salud-y-Nutrici%C3%B3n-(PROCOSAN)/
+22  El Presupuesto General de la República ha disminuido en un 10% con relación al 2017.
+                                                        27
+"
+"consolidación, ya que requiere de mayor tiempo de maduración y que en el largo plazo generara
+mayor sostenibilidad a las acciones emprendidas por el MINSA.
+Se considera que el nivel de sostenibilidad es satisfactorio, teniendo en cuenta que se cumplieron
+satisfactoriamente con todas las salvaguardas y que todos los riesgos fueron mitigados. Al cierre
+del proyecto, sí existe inestabilidad por la situación sociopolítica del país (algo imprevisto). En la
+actualidad hay otras operaciones del Banco que se encuentran implementándose que coincide
+con las áreas geográficas y que ayudan a mitigar cualquier riesgo en las acciones que se
+desarrollaron con el programa.
+                b. Salvaguardas ambientales y sociales
+El Proyecto 2986-BL-NI (NI-L1081) ambientalmente fue clasificado en categoría C, según
+Propuesta de Préstamo capítulo II. Estructura del Financiamiento y Riesgos, inciso B. Riesgos
+ambientales y sociales de las salvaguardias, párrafo. 2.2; esto basado en que no se previó, ni se
+ejecutaron obras de infraestructura y de conformidad con la Política de Medio Ambiente
+(OP-703). El programa benefició a comunidades aisladas, en la mayoría rural no indígena, ya
+que la extensión de servicios apoya la redistribución del personal hacia zonas de difícil acceso.
+En concordancia con la Política OP-765 Pueblos Indígenas, se ha aplicaron los protocolos de los
+servicios apoyados por este programa que se fundamentan en la participación social y han sido
+validados para asegurar su pertinencia en los contextos rurales del ámbito del programa.
+En el Plan de Salvaguardias de Gestión: Matriz de Acciones: Acción 2, segunda etapa– basado
+en el análisis de carga de trabajo en las respectivas áreas, se implementó la dotación mínima de
+personal y organización, priorizando: Gestores del MOSAFC, Responsables administrativo-
+financieros y facilitadores a nivel de SILAIS, responsables de mantenimiento a nivel de SILAIS,
+responsables de Gestión Ambiental de nivel de SILAIS; Especialistas y analistas en las áreas de
+planificación y evaluación; Servicios de Salud, Docencia, Vigilancia (incl. y con énfasis en la
+Unidad de Gestión Ambiental).
+En la etapa de diseño se elaboró un plan de salvaguardias de la gestión cuyo objetivo fue
+propiciar las acciones aplicables al aspecto organizativo, de gestión y fiduciario de la ejecución
+de los programas y superar debilidades identificadas para salvaguardia de los resultados de los
+programas, en especial financiados por el BID. Bajo este objetivo se consignaron 17 acciones
+divididas en tres objetivos específicos: Mejoramiento de la organización del esquema de
+ejecución de los programas; Mejoramiento de los procesos de adquisición de los programas; y
+Mejoramiento de los procesos administrativos financieros. Este fue el primer plan de
+salvaguardias de la gestión elaborado y puesta a funcionamiento para el MINSA y respondió a
+las oportunidades de mejora que se identificaron en ese momento (2013). Las 17 acciones
+identificadas fueron cumplidas, tal y como se manifiesta en el párrafo predecesor, pero en la
+medida que aumentó la cartera del Banco con el MINSA, surgieron nuevas acciones a
+implementarse y que fueron retomadas por las otras operaciones. La última actualización del
+Plan Salvaguardias fue realizada en 2018, pero no ha sido acordado con el MINSA.
+En temas de pertinencia cultural, no se desarrollaron acciones relevantes en comunidades
+indígenas, los municipios priorizados son en zonas rurales en los que la presencia de
+comunidades indígenas es mínima; así mismo. No obstante, es una práctica común del MINSA
+que todos los instrumentos utilizados por la red comunitaria han sido adaptados a un lenguaje
+amigable/sencillo/popular para comprensión de la población a la cual está dirigida (rural e
+indígena).
+                                                  28
+"
+"        III. CRITERIOS NO CENTRALES
+3.1     Desempeño del Banco
+En la etapa de formulación del programa, el desempeño del Banco fue muy satisfactorio,
+considerando su rol interactivo con funcionarios del Gobierno, a efecto de lograr la armonización
+entre los objetivos, los indicadores, productos y actividades incluidas en la Propuesta de
+Préstamo, así como la consistencia con las políticas nacionales en temas de salud pública;
+incluyendo salvaguardias de la gestión, y consideraciones técnicas y fiduciarias para su
+implementación.
+En la etapa de implementación del programa, el desempeño del Banco fue satisfactorio, al
+desarrollar una asistencia focalizada y asertiva en la operatividad del Programa, apoyando y
+guiando al ejecutor en el cumplimiento de los planes operativos anuales, así como previendo y
+apoyando con las situaciones de riesgos o amenazas que se presentaron durante la ejecución;
+esto se logró mediante reuniones de seguimiento periódicas; la disposición de herramientas para
+el seguimiento y gestión del Programa (PEP-POA, PA, PMR; Informes semestrales; Reuniones
+de revisión de Cartera, entre otros); la asignación de consultores en áreas de conocimiento
+requeridas que apoyaron la implementación del Programa; visitas fiduciarias de supervisión; el
+establecimiento de un plan de acción para superar los riesgos identificados en el análisis de la
+capacidad institucional (SECI) del ejecutor que se realizó en la etapa de formulación; entre otros.
+En atención a los aspectos de gestión financiera, el Banco dio seguimiento al cumplimiento de
+las cláusulas contractuales relacionadas a la Auditoría Externa y Control Interno, mediante la
+entrega oportuna de los Estados Financieros Auditados anual. Además, se registraron
+oportunamente las justificaciones de desembolso como parte de reconocimiento a los gastos
+elegibles y conforme el reporte del sistema SIGFA-PRO y solicitudes de desembolso de acuerdo
+con el Plan Financiero vigente.
+Así mismo, para fortalecer las capacidades de gestión del MINSA en la implementación del
+Programa, se apoyó mediante la cooperación técnica NI-T1193 Fortalecimiento de las
+intervenciones para la reducción de la desnutrición en la niñez por US$435.000 dólares,
+aprobada en 2015.
+3.2     Desempeño del Prestatario
+El MINSA es el organismo ejecutor del programa, y designó a la Dirección de Cooperación
+Externa (DCE) la coordinación general del proyecto, apoyada técnicamente por las Direcciones
+Generales y especificas involucradas en cada uno de los resultados y productos del Programa.
+La DCE mantuvo constante comunicación con el Banco tanto para la gestión administrativa del
+programa, como de diálogo técnico que involucró a otras dependencias de MINSA.
+El Programa, fiduciariamente, se implementó en base al plan de adquisiciones y contrataciones,
+gestionado a través del sistema de ejecución de planes de adquisiciones (SEPA) y se rigió por
+las políticas para la adquisición de obras y bienes financiados por el Banco y las políticas para la
+selección y contratación de consultores financiados por el Banco; Los registros de las
+operaciones se efectuaron durante los años 2014 a 2017, en el SIGFA (Sistema Integrado de
+Gestión Financiero y Auditoria). A partir del año 2018, se registró en el SIGAF (Sistema Integrado
+de Gestión Administrativa Financiera), Asimismo se registra las operaciones en el Sub-sistema
+SIGFAPRO (Sistema Integrado de Gestión de Proyectos), especial para proyecto que
+corresponden a Préstamos y Donaciones de Organismos Internacionales. El registro se ha
+continuado en el SIGFAPRO, para la ejecución financiera del proyecto y el Sistema de
+Contrataciones Administrativas Electrónicas (SISCAE) como medio de difusión de los
+                                                 29
+"
+"procedimientos de contratación. Así mismo el ejecutor cumplió con la implementación de las
+recomendaciones provistas por el análisis de capacidad institucional (SECI) realizado durante la
+etapa de formulación del programa.
+MINSA, realizó una gestión satisfactoria de la ejecución del Programa, creando las bases
+necesarias para desarrollar las estrategias comunitarias de salud establecidas en los alcances;
+así mismo asignó los recursos de contraparte de Programa, mediante la captación de personal
+comunitario y asignación de recursos a los SILAIS para la extensión de cobertura.
+La implementación técnica del programa se basó en el establecimiento por parte de MINSA de
+sus propios mecanismos de seguimiento para lograr los productos previstos en los plazos
+establecidos (visitas de acompañamiento a equipos de salud y red de comunitaria, talleres de
+facilitadores, reuniones de seguimiento de articulación y seguimiento; formación en cascada y
+revisiones locales del funcionamiento de las estrategias); esta estrategia de monitoreo, permitió
+recuperar el lento inicio del programa, concluyendo con éxitos su cierre el plazo previsto.
+Es meritorio el desempeño del prestatario en la implementación del componente de optimización
+del Talento humano, el cual implicaba gestiones internas, negociación y coordinación con el
+sindicato de los trabajadores y se logró en los primeros dos años se ejecutó el 85% del
+componente.
+MINSA, únicamente, careció del seguimiento a los indicadores de resultados del programa,
+debido a que el ejecutor interpretó que la auditoría técnica de calidad de los cuatro indicadores
+trazadores establecidos en los productos, daban respuesta a la evaluación del programa.
+No obstante, esta situación no causó mayor problema en los resultados del programa.
+          IV. Hallazgos y recomendaciones
+ 4.1      Dimensiones 1 a 5
+                  a. Dimensión técnico-sectorial
+El diseño del programa estableció una lógica vertical sólida, la cual se evidencia en su Matriz de
+Resultados que durante la implementación no se dieron cambios, a excepción de datos puntuales
+de línea base; así mismo su fortaleza se entiende al haberse formulado estrechamente vinculado
+a las estrategias institucionales de atención a la salud comunitaria, con lo cual se logró un rápido
+empoderamiento del ejecutor y que el programa fuese ejecutado en el plazo previsto. No obstante,
+el diseño consideró que el avance institucional en las estrategias comunitarias de salud iba a
+facilitar un rápido inicio, sin embargo, esto no fue posible dado que en los municipios seleccionados
+aún no se implementaban las estrategias, por lo que era necesario el desarrollo de etapas previas
+de ejecución23, que no fueron consideradas en el diseño como un riesgo, lo cual ubicó al programa
+en su primer año como “Proyecto Problema” y pesé que al segundo año, mejoró su calificación24,
+igualmente no había iniciado la implementación de las estrategias comunitarias de salud en las
+comunidades de los municipios priorizados; fue hasta el tercer año que se logró su inició efectivo.
+El monitoreo y evaluación de los indicadores de resultados del Programa fue realizado durante
+el ejercicio de evaluación final, para lo cual el MINSA suministró base de datos para su análisis
+23    Censos comunitarios para definir población objetivo; contratación de personal; adquisición de insumos para
+      censos e implementación de las estrategias; y actualización o elaboración de normativas técnicas.
+24    La mejora provino de la ejecución del producto de optimización del talento humano con la acogida de trabajadores
+      al Plan de Retiro Voluntario.
+                                                          30
+"
+"que permitieron determinar el cumplimiento de los indicadores; no obstante, no se logró obtener
+información de un indicador, el cual se obtiene por vía directa de encuesta que no es facultad de
+MINSA realizarla; la detección de ésta falta de datos hubiese sido posible identificarla en la
+evaluación intermedia, pero esta no fue realizada, dado que el ejecutor consideró que la que la
+auditoría técnica a los indicadores trazadores era suficiente; esta situación no afectó los logros
+del Programa, dado que su sólida lógica vertical, permitió que los productos desarrollados
+estuviesen alineados a los objetivos del programa.
+En relación con los alcances del programa, no se presentaron factores ambientales o sociales
+que retrasara su implementación.
+                   b. Dimensión organizativa y administrativa
+El Programa NI-L1081, fue la tercera operación del Banco que ejecutaba el MINSA, por lo cual,
+durante el diseño partió del supuesto que existía capacidades institucionales desarrolladas para
+la implementación del Programa, así mismo durante su implementación se aprobaron tres
+operaciones adicionales, lo cual representaba un reto institucional organizativo y administrativo,
+por lo que se estableció un plan de salvaguardas de la gestión para gestionar los riesgos
+operativos y organizativos institucionales. Este plan facilitó la gestión interna del Proyecto, a
+través de asignación de responsables institucionales, contratación de personal incremental tanto
+a nivel central, como comunitario para apoyar la ejecución del programa.
+Así mismo, se estableció en la Propuesta de Préstamo que el mecanismo para implementar las
+transferencias por atenciones seguiría lo establecido para el Programa NI-L105425 (préstamo
+2527/BL-NI); para lo cual se utilizaría el mismo costo unitario por atención y el porcentaje a ser
+financiado por el programa26; por lo que no se identificó, durante la formulación, ningún riesgo
+asociado a los productos del resultado 4 del programa. No obstante, los indicadores y
+comunidades incluidas bajo el NI-L1081 son diferentes a las del NI-L1054, por lo que la curva de
+aprendizaje del programa anterior no evitó el lento arranque de estos productos del Programa.
+Durante la implementación se identificaron los riesgos, asociados a: (i) deficiencia en los
+sistemas de información en salud para la recolección de datos estadísticos e implementación de
+costos per cápita por persona atendida (2013-2016); (ii) retrasos en procesos de adquisición de
+equipo básico clave que afectan la atención de las cuatro prestaciones establecidas en el
+programa (2016); y (iii) retrasos en los pagos de transferencias por la aprobación del manual de
+transferencias (2016); estos tres hallazgos fueron monitoreados durante la implementación,
+aplicado medidas para ser superados, tales como: (i) contratación de personal a nivel municipal
+y central para apoyar la implementación de las extensión de cobertura de servicios; (ii) apoyo en
+temas de adquisiciones mediante la asignación de una especialista contratada por el Banco;
+(iii) apoyo técnico en la revisión y ajuste del manual de transferencias; y (iv) mantener actualizado
+el estudio de costos. Estas acciones contribuyeron a mejorar la ejecución de las transferencias
+por extensión de cobertura de servicios; pero fue insuficiente para recuperar los casi dos años
+iniciales que demoró el inicio de las actividades en las comunidades de este segundo objetivo.
+La coordinación general del Programa estuvo a cargo de la Dirección de Cooperación Externa
+del MINSA y la responsabilidad técnica fue asumida por las Direcciones involucradas, en especial
+la Dirección General de Recursos Humanos y la Dirección General de Servicios de Salud, esta
+última se encargó de la implementación de las estrategias comunitarias en la comunidades
+seleccionadas; así mismo, el acompañamiento técnico, fiduciario y de monitoreo del Banco en la
+25     Párrafo 1.18 de la Propuesta de Préstamo.
+26     Párrafo 1.19 de la Propuesta de Préstamo.
+                                                  31
+"
+"gestión, facilitó la implementación del programa, no obstante la organización interna fue un reto
+a nivel de los SILAIS.
+                   c. Dimensión relacionada a procesos y actores públicos
+El Programa NI-L1081 no tuvo afectaciones vinculadas a procesos políticos, cambios
+institucionales, o sectores sociales que se opusieran a su ejecución.
+No obstante, es importante señalar que la implementación del Plan de Optimización del Recurso
+Humano implicó un proceso de elaboración y divulgación27, representado por los trabajadores
+que se acogieron al Plan de Retiro Voluntario establecido en la cláusula XVIII, numeral II, incisos
+a) y b); y el numeral III del Convenio Colectivo y Salarial vigente del MINSA, el cual fue aprobado
+por el sindicato del Ministerio. El establecimiento de un Manual para la optimización del talento
+humano como anexo al Reglamento Operativo que rigió el Programa fue la base para el éxito de
+éste Programa, el cual implicó divulgación a diferentes niveles del ministerio, así como
+correspondencia directa a los trabajadores que cumplían los requisitos para acogerse al plan.
+                   d. Dimensión fiduciaria
+El Banco mantuvo asistencia técnica directa en temas de adquisiciones al ejecutor, considerando
+las capacidades limitadas del MINSA de esta forma se superaron impases en procesos de
+contratación; en temas financieros la disposición de un sistema nacional de contabilidad supone
+la facilitación de los procesos; no obstante, esto representó, en el inicio, retrasos, dado los
+tiempos transaccionales que implicó los pagos del personal acogido al plan de retiro voluntario.
+El organismo ejecutor no tuvo problemas en suministrar los recursos de contrapartida
+establecidos en la Propuesta de Préstamo, ya que ejecutó gastos muy encima del monto
+programado.
+                   e. Dimensión gestión de riesgos
+La matriz de riesgo establecida en la etapa de aprobación de la operación fue acertada; no
+obstante, este instrumento no fue actualizado durante el inicio y la ejecución del programa, siendo
+que al no realizarse este ejercicio se omitieron riesgos relevantes como el mencionado en la
+dimensión técnico-sectorial; así como la falta de monitoreo del plan de cierre de brecha del
+recurso humano identificado en la matriz de riesgo durante la aprobación del programa.
+27    El sindicato que aglutina a los trabajadores de la salud de Nicaragua es uno de los más fuertes del país,
+      considerando que es el gremio con mayor presencia a nivel nacional.
+                                                        32
+"
+"                Tabla 4.1.       Hallazgos y recomendaciones
+                           Hallazgos                                                           Recomendaciones
+Dimensión 1: Técnico Sectorial
+                                                               Recomendación # 1 La formulación de los programas debe realizarse por etapas,
+                                                               considerando las preparaciones sociales requeridas en las comunidades, para
+                                                               definir las bases de implementación de las propias acciones del programa.
+Hallazgo # 1 Los primeros dos años fue difícil su inicio, dado Recomendación # 2 La MR debe considerar que al menos se requieren dos años
+que las condiciones de ejecución a nivel de comunidades        para intervenir directamente en las poblaciones objetivos (poblaciones de zonas
+requirieron un proceso social de organización y creación de    de difícil acceso (Criterios de priorización de municipios y comunidades rurales),
+instrumentos para su implementación. Censos, definir           en este sentido, durante la preparación del programa debe incluirse en el diseño
+población objetivo, requisitos para implementar las            propio de la operación acciones que permitan la generación de hitos iniciales
+estrategias de PROCOSAN infantil y materno 20 a 25             requeridos para la puesta en ejecución real del programa, tales como:
+niños/niñas menores de 2 años en una comunidad),               1. Preparación de condiciones organizativas comunitarias e institucionales
+normativas, insumos para implementación (balanzas,             2. Fase de entrenamiento de personal comunitario e institucional
+tallímetros). Esto hizo que la implementación propia en las    3. Fase de abordaje a los protagonistas, enseñanza/educación, divulgación
+comunidades iniciara en el 3er año, con las contrataciones         sobre normas de cambios de comportamiento para mejoras de la salud y
+de nutricionistas e inicio de las capacitaciones a la red          nutrición.
+                                                               4. Metodología de acompañamiento en los cambios de comportamiento
+                                                                   comunitarios
+                                                               5. Metodología para la adopción de nuevos comportamientos en la comunidad.
+Hallazgo # 2 El seguimiento al Programa fue orientado en
+                                                               Recomendación # 3 Se debe orientar al ejecutor tener como herramienta de
+su mayoría a la operatividad y logro de los productos, los
+indicadores de resultados fueron evaluados y revisados         seguimiento el Plan de Monitoreo y Evaluación que forma parte de los
+como parte del cierre del Programa; así mismo la no            documentos del Programa, a efecto de irlos monitoreando y prever acciones para
+realización de la evaluación intermedia no permitió validar    la disposición de datos que permitan evaluar el Programa. Así mismo se debe
+que las acciones realizadas eran consistentes con la lógica    mejorar la administración de las cláusulas contractuales, las cuales establecen
+vertical del Programa y tampoco identificar las acciones       las obligaciones del ejecutor de reportar avances de los indicadores e informes
+que permitieran disponer de datos para realizar la             de evaluación requeridos.
+evaluación del Programa.
+Hallazgo # 3 La neumonía tiene 19 formas de presentarse,       Recomendación # 4: Es importante considerar en el diseño de los programas las
+y conforme a entrevistas a personal de salud del SILAIS de     diversas variantes que puede presentar una misma enfermedad y en función de
+Madriz y de la Dirección de Servicios de Salud se informa
+que la variabilidad climática está incidiendo en el repunte    esa variabilidad establecerse los indicadores a monitorear.
+                                                                        33
+"
+"                          Hallazgos                                                           Recomendaciones
+de casos de neumonía, no solo en Madriz, sino a nivel de
+todo el país.
+Hallazgo # 4 La optimización del talento humano fue
+ejecutada a nivel nacional (plan de retiro y captación de
+nuevos recursos), no obstante, el resultado del Programa,    Recomendación # 5 Establecer con mayor precisión un programa de cierre de
+vinculado a ésas acciones, se enmarcó en los municipios      brecha de recursos humanos en función del área priorizada, complementado con
+priorizados; estas diferencias de implementación geográfica  conocimientos y equipos y materiales para ejercer la función de provisión de
+no contribuyó a enfocar acciones orientadas al cierre de     servicios.
+brecha de recursos humanos en los municipios priorizados
+por el Programa.
+Dimensión 2: Organizativa y Administrativa
+Hallazgo # 5 Mecanismos para la difusión, apropiación y
+                                                             Recomendación # 6 Articulación con los equipos municipales y de SILAIS para
+toma de decisión de las distintas áreas del MINSA y para su
+                                                             micro-planificación es importante para lograr el compromiso con los indicadores.
+funcionamiento como equipo integrado son deficientes,
+                                                             Así como el establecimiento de un sistema de alertas tempranas para tomar
+resultando en demoras en la planificación, ejecución y
+                                                             medidas preventivas y correctivas.
+reporte ante el Banco.
+Hallazgo # 6 La formulación del Programa, partió del
+supuesto que las transferencias por extensiones de servicios
+se realizarían bajo el mismo esquema de una operación
+anterior (préstamo 2527/BL-NI). Sin embargo, por ser         Recomendación # 7 Durante la formulación del Programa se debe realizar
+diferentes indicadores; municipios y sectores, el MINSA no   análisis de la capacidad de implementación de acciones que involucren acciones
+disponía de la organización de la red comunitaria, el        a nivel municipal e identificar los riesgos asociados a los alcances previstos, así
+equipamiento de la red comunitaria para levantamiento de     como validar los supuestos de ejecución que se establezcan.
+información para iniciar su implementación desde el primer
+año por lo que fue a finales del segundo año que se empezó
+a realizar las primeras transferencias por atenciones
+                                                                     34
+"
+"                    Anexo 1. Lógica programática de la Cartera de Salud en Nicaragua 2011-2015
+1. Gráfico: Intervenciones por proyecto
+          Leyenda:                                    Adaptado de NI-L1095 - Teoría de Cambio, Anexo a la Propuesta de Préstamo.
+                                                        35
+"
+"     2. Análisis de relevancia del diseño de las tres operaciones de Mejoramiento, RIS-2 y Corredor
+         Seco
+La lógica vertical de las operaciones estuvo sustentada en el diagnóstico de tres problemáticas
+que afectan cobertura y calidad de la atención de salud –principalmente en comunidades
+vulnerables que registraban niveles elevados de pobreza y exclusión social. En primer lugar, la
+situación de los indicadores de salud como la mortalidad materna y neonatal, que, a pesar de
+mostrar reducciones importantes, se encontraban por encima de la meta establecida en los
+Objetivos de Desarrollo del Milenio. En segundo lugar, las brechas de acceso a los servicios de
+salud, ya que datos de la cobertura mostraban que las zonas rurales no solo tenían un acceso
+considerablemente menor, sino que también tenían una mayor incidencia de la pobreza.
+En tercer lugar, la deficiente calidad en la atención y de los servicios de salud.
+Para responder a esta problemática y mejorar el estado de salud y bienestar de las poblaciones
+más vulnerables, los programas implementados buscaron fortalecer un conjunto de atenciones
+de salud de buena calidad en territorios priorizados por su alta vulnerabilidad a través de:
+(i) mejoras en la capacidad de los establecimientos de salud y del personal, en especial en
+perfiles técnicos y de enfermería; (ii) apoyo a los equipos del MINSA en los territorios para
+implementar las estrategias comunitarias; (iii) fortalecimiento de la gestión institucional; y
+(iv) fortalecimiento del sistema de registros y del uso de la información epidemiológica para
+mejorar la atención comunitaria.
+La cadena causal definida al momento del diseño de las operaciones mantuvo relevancia a lo
+largo de toda la fase de ejecución. Al momento del diseño, se planteó que para mejorar la
+cobertura y calidad de las atenciones en los servicios de salud era necesario formular acciones
+simultáneas para abordar la problemática descrita anteriormente. La cadena causal propuesta al
+momento del diseño de las operaciones consideró que, al mejorar la calidad de la atención y la
+capacidad resolutiva de los establecimientos de salud en las zonas priorizadas, las operaciones
+generarían resultados positivos en el estado de salud y bienestar de las poblaciones más
+vulnerables.
+                                                  36
+"

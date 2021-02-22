@@ -1,0 +1,1643 @@
+"outlist[[i]]"
+"RESUMEN EJECUTIVO
+Se presenta el Informe de Terminación de Proyecto (PCR, por su sigla en inglés) del Programa
+de Infraestructura Vial Productiva (AR- L1045), que representó la primera operación de la Línea
+de Crédito Condicional para proyectos de Infraestructura Vial – Línea CCLIP (AR-X1016).
+Las intervenciones que conformaron el Programa se realizaron en el marco de las estrategias
+nacionales y provinciales para enfrentar los déficits de inversión en el sector vial, y aumentar así
+la competitividad del sector productivo. A su vez, las mismas formaron parte del plan vial a diez
+años del Esquema Director Vial Argentino (EDIVIAR), elaborado por el Consejo Vial Federal
+(CVF), y de los Planes Estratégicos Territoriales (PET)1 del año 2008 de las provincias
+intervinientes. Los proyectos fueron priorizados adoptando criterios de vinculación con sectores
+productivos, y considerando la incidencia social de la vía, políticas nacionales y provinciales de
+seguridad vial, índices de estado y volumen de tránsito.
+La alineación con las Estrategias País del Banco con Argentina (EP) vigentes a lo largo de su
+ejecución, surge a partir de la priorización de inversiones en infraestructura con eje en el
+desarrollo de las zonas rurales, mejorando la accesibilidad, generando una reducción de los
+costos de operación vehicular y una disminución en los índices de interrupción de las rutas
+pavimentadas, con el consiguiente impacto en la competitividad. Asimismo, se encontraba
+alineado con la Estrategia Institucional del Banco 2010-2020, y su actualización del 2015, que
+contempla como eje estratégico, la política de desarrollo direccionada a reducir la exclusión social
+y desigualdad, incrementar el nivel de productividad e innovación, y lograr una mayor integración
+económica.
+El objetivo general del Programa fue “apoyar el aumento de la competitividad y la integración
+económica y social del aparato productivo de las provincias intervenidas, mejorando la capacidad
+de gestión de las Direcciones Viales Provinciales (DPVs), y promoviendo el desarrollo sostenible
+de las condiciones del transporte de cargas y pasajeros, buscando la sostenibilidad de las
+inversiones y contribuyendo a la reducción de accidentes”, lo cual se lograría mediante la
+financiación de proyectos viales que representen una mejora sensible en la Red Vial Provincial
+(RVP), y en los actores responsables de la gestión de las mismas.
+Las principales intervenciones realizadas consistieron en la pavimentación de la RP Nº23 de la
+Provincia de Entre Ríos (PdER) y RP Nº26 de la Provincia de Formosa (PdFOR), la rehabilitación
+y ensanche de la ruta provincial (RP) Nº11 y obras se seguridad vial en la RP Nº16 de la PdER,
+y acciones de fortalecimiento de la DPV de Formosa. Todas las obras se encontraban localizadas
+en zonas con alto potencial productivo y con presencia de pequeños productores.
+La evaluación final del Programa indica que a partir de la pavimentaron, rehabilitaron y ensanche
+de 160,7 km de caminos y la implementación de actividades de fortalecimiento de la gestión en
+DPV de Formosa, se logró alcanzar las metas de la mayoría de los indicadores, lo que establece
+su efectividad. En particular, se ha generado una reducción en el costo de operación vehicular
+en los tramos intervenidos de un 39% en la RP Nº23, y un 22% en la RP Nº26, y se ha logrado
+eliminar los días de no transitabilidad de ambas rutas. Asimismo, el proceso de fortalecimiento
+de las DPVs, ha contribuido a mejorar los índices de accesibilidad y la tasa de fatalidad de las
+respectivas redes viales provinciales.
+Desde el punto de vista de su eficiencia, el Programa muestra resultados satisfactorios a partir
+del análisis costo beneficio y de los costos de construcción de las obras de pavimentación
+ejecutadas en comparación con otros proyectos similares.
+1
+  Elaborados por el Ministerio de Planificación Federal, Inversión Pública y Servicios (MPFIPyS), que es el instrumento de concreción
+de la política nacional de Desarrollo Territorial Estratégico y una guía para la planificación federal de la inversión pública.
+                                                                     v
+"
+"I.    INTRODUCCIÓN
+Argentina cuenta con un territorio de 2,7 millones de km2, una población estimada en 2017 de
+44.044.000 habitantes y un Producto Interno Bruto (PIB) a dicho año de US$461.347 millones2.
+En el período 2001-2010, la economía creció a un promedio del 6,5% anual, mientras que en los
+años comprendidos entre el 2011 y 2016, la actividad mostró un estancamiento con niveles de
+crecimiento anuales inferiores al 1%.
+La RVP, a cargo de la Dirección Provincial de Vialidad de cada jurisdicción, contaba en el año
+2009 con un total 202.037 km (ver Tabla 1) de rutas ya sea pavimentadas, mejoradas o de tierra
+en todo el país. En este sentido, la infraestructura vial representaba una de las principales
+limitaciones para el crecimiento y mejora de la competitividad, dado el perfil agroexportador del
+país, con niveles de producción de granos crecientes que superan actualmente los 135 millones
+de toneladas, y siendo la infraestructura vial la principal vía de transporte de carga.
+                                                Cuadro 1: RVP año 2009
+                            Pavimentadas                   Mejorada                       Tierra          Total
+          Rutas
+                          Km        %S/ Total          Km       %S/ Total          Km          %S/ Total   Km
+      Entre Ríos        1.676            12,6%        2.336       17,6%           9.273           69,8%  13.285
+      Formosa             326            11,9%         303        11,1%           2.101            77%    2.730
+      Total País       42.040            20,8%        50.840      25,2%          109.156           54%   202.037
+           Fuente: Consejo Vial Federal
+En ese contexto, algunos de los desafíos que se presentaban a los fines de adecuar la
+infraestructura vial a las demandas sociales y productivas, eran los siguientes: a) altos niveles
+de desinversión en nueva infraestructura y en mantenimiento, representadas por bajos índices
+de pavimentación, b) condiciones de tránsito deficientes con limitada accesibilidad en las
+comunidades rurales y con costos incrementales para el pequeño productor, c) aumento de la
+siniestralidad3 producto del crecimiento de factores de exposición tales como la población y el
+parque vehicular registrado, y d) agencias viales provinciales y municipales con estructuras de
+organización poco eficientes, con incapacidades técnicas y falta de recursos para la correcta
+gestión del sector.
+Así, se aprobó la Línea de Crédito Condicional para Proyectos de Infraestructura Vial por US$
+2.500 millones (AR-X1016) en septiembre de 2009, con el objetivo de apoyar el aumento de la
+competitividad y la integración económica y social del aparato productivo de todas las provincias,
+mejorando la capacidad de gestión de las DPVs, y promoviendo el desarrollo sostenible de las
+condiciones del transporte de cargas y pasajeros, buscando la sostenibilidad de las inversiones
+y contribuyendo a la reducción de accidentes. El presente Programa bajo análisis por US$150
+millones corresponde a la primera operación de la Línea CCLIP, y su financiamiento estuvo
+destinado principalmente a la pavimentación de caminos rurales en la red provincial de Formosa
+y de Entre Ríos, las cuales contaban, luego de Chubut, con los menores índices de rutas
+pavimentadas. Cabe destacar que inicialmente las provincias que formaban parte del Programa
+eran Formosa y Córdoba, pero principalmente por razones de nivel de endeudamiento provincial
+y cambios en las prioridades políticas, se reemplazó a ésta última por la provincia de Entre Ríos.
+La Propuesta de Préstamo fue aprobada por el Directorio el 16 de septiembre de 2009 y la fecha
+final para el último desembolso fue el 29 de marzo de 2017, lo que acumuló 30 meses de
+extensiones que fueron documentadas mediante comunicaciones formales entre el Banco, el
+Organismo Ejecutor y Prestatario.
+2
+  Cifras de CEPAL Cepalstat
+3
+  En Argentina mueren al año 5.000 personas por año como consecuencia de accidentes de tránsito.
+                                                             1
+"
+"El programa fue ejecutado desde sus inicios por el Ministerio de Planificación Federal, Inversión
+Pública y Servicios a través de la Unidad Coordinadora de Programas y Proyectos con
+Financiamiento Externo (“UCPyPFE”). El cambio de gobierno en el año 2015 modificó la
+estructura de Ministerios4 y estableció que la ejecución del Programa pasaría desde el Ministerio
+de Planificación Federal, Inversión Pública y Servicios (MPFIPS) a través de la Unidad
+Coordinadora de Programas y Proyectos con Financiamiento Externo (UCPyPFE), a ser por
+intermedio del Ministerio de Transporte, a través de la Dirección Nacional de Vialidad (DNV)
+como Organismo Ejecutor (OE).
+El presente informe analiza el Programa en términos de los impactos, resultados y productos que
+se pretendían alcanzar como un insumo para la rendición de cuentas y el aprendizaje de
+lecciones para una mayor efectividad en el desarrollo. Como parte del análisis, los resultados
+han sido construidos a partir de los indicadores de desempeño de la Matriz de Resultados del
+Programa.
+II. CRITERIOS CENTRALES. RENDIMIENTO DEL PROYECTO
+2.1        Relevancia
+Se analiza a continuación la consistencia de los objetivos del Programa y su diseño con la
+Actualización de la Estrategia Institucional 2010-2020 (AB-3008) del Banco y las prioridades de
+desarrollo del país.
+a. Alineación con las necesidades de desarrollo del país
+El Programa se encuentra alineado con las estrategias establecidas por el Gobierno Nacional y
+las provincias partícipes. En el año 2008, el Ministerio de Planificación Federal, Inversión Pública
+y Servicios (MPFIPyS) de la Nación, dependiente del Poder Ejecutivo Nacional, comenzó a
+presentar anualmente Planes Estratégicos Territoriales5 (PET) de cada provincia. Los mismos
+son los instrumentos de concreción de la política nacional de Desarrollo Territorial Estratégico y
+una guía para la planificación federal de la inversión pública. En ese marco, la PdFOR planteaba
+completar las obras que conforman el eje vertebral de la provincia, cerrando anillos productivos
+en la región centro-este y ampliando la red terciaria de caminos vecinales rurales en el oeste, y
+de esta manera, incorporaba la ruta pavimentada en el marco del presente programa (RP Nº26)
+como proyecto a ejecutar. A su vez, el Gobierno de Formosa elaboró el Plan Estratégico 2008-
+2015 que comprendía un plan de inversiones públicas basado en prioridades sociales,
+económicas y territoriales, y un Programa de transitabilidad permanente para la red primaria
+provincial, que involucraba la construcción de la RP Nº26. Por su parte, la PdER presentaba
+dentro de sus prioridades obras en el sistema de Infraestructura Vial Regional6, incluyendo las
+RP Nº11 y RP Nº23.
+Por otro lado, y de acuerdo con el Reglamento Operativo del Programa (ROP), todas las
+intervenciones del Programa debían formar parte de los planes viales estratégicos provinciales y
+haber sido priorizados dentro del Esquema Director Vial Argentino (EDIVIAR). El EDIVIAR,
+elaborado por el Consejo Vial Federal, con la participación del Consejo Interprovincial de
+Ministros de Obras Públicas y consensuado con la Nación, es un plan para la ampliación y el
+mejoramiento de la Red Vial Nacional (RVN) y Red Vial Provincial (RVP). Los proyectos viales
+incluidos en el EDIVIAR y de los cuales formaban parte las rutas pavimentadas bajo el Programa,
+son priorizados adoptando criterios de vinculación de sectores productivos, ponderación de la
+4
+  Decreto N°212 del 22 de diciembre de 2015.
+5
+  A partir del dictado del Decreto Nº1824 de fecha 10 de diciembre de 2004, por el cual se creó, en el ámbito del Ministerio de
+Planificación Federal, Inversión Pública y Servicios, la Subsecretaria de Planificación Territorial de la Inversión Pública.
+6
+  En este sentido, se inició un ambicioso Plan de Infraestructura que contemplaba obras viales como la nueva conexión vial Paraná-
+Santa Fe, la reconversión en autovía de la RN Nº18 y la culminación de las obras de la Autopista RN Nº14, entre otras.
+                                                                   2
+"
+"incidencia social de la vía, políticas nacionales y provinciales, seguridad vial, índice de estado y
+volumen de tránsito; y son consistentes con los PETs.
+b. Alineación estratégica
+En el lapso entre la fecha de aprobación y la del último desembolso del Programa, las Estrategias
+del Banco en el País fueron las correspondientes a los períodos 2004-2008 (GN-2328), 2009-
+2011 (GN-2570), 2012-2015 (GN-2687), y finalmente la 2016-2019 (GN-2870). Se analiza a
+continuación el alineamiento del Programa en cada una de ellas.
+Al momento de la aprobación, la operación se encontraba alineada con la EP 2004-2008 al
+contribuir al crecimiento sostenible y más equitativo, con especial atención en las regiones de
+menor desarrollo relativo, como las PdFOR y PdER, a través de inversiones orientadas, entre
+otras, a mejorar la infraestructura vial.
+La EP 2009-2011, de la cual formaba parte el presente Programa, planteaba concentrar
+intervenciones para apoyar el crecimiento y la competitividad, con acciones para fortalecer la
+planificación del transporte, inversiones en mantenimiento y mejoras de la red vial nacional y
+provincial, y la promoción de medidas que contribuyan a la seguridad vial.
+La actualización de la EP para el período 2012-2015, ratificó la necesidad de continuar con la
+estrategia de mejoramiento y conservación de la infraestructura vial, la promoción de la seguridad
+vial interurbana, y la modernización y capacitación técnica de los diversos actores públicos del
+sector. La EP enfatizaba que, a pesar de haber logrado mejoras en la infraestructura, distintos
+indicadores de benchmarking internacional seguían mostrando necesidades de mayor inversión,
+ya que los mismos se encontraban por debajo de otros países con ingreso medio similar.
+Finalmente, las acciones del Programa se insertan en la EP 2016-2019 en su eje estratégico7
+que establece la necesidad de contribuir a la reducción de la pobreza y las desigualdades
+sociales, y con la continuidad de su focalización en el Norte Grande.
+Por su parte, la Estrategia Institucional del Banco, y su actualización del 2015, contemplaba la
+necesidad de enfrentar tres desafíos en términos de desarrollo: i) la exclusión social y
+desigualdad, ii) el bajo nivel de productividad e innovación, y iii) la integración económica. Todas
+ellas afectadas transversalmente por temas de igualdad de género y diversidad, cambio
+climático, sostenibilidad ambiental, y capacidad institucional. El documento resalta que las
+brechas de productividad son aún más amplias en las zonas rurales, y que en dichas zonas
+deberían realizarse inversiones en infraestructura, que en definitiva impacta en mayores ingresos
+para los trabajadores agrícolas. El Programa abordó los mismos a través de un conjunto de
+acciones representadas por las obras de pavimentación en caminos rurales y con un impacto
+productivo esperable.
+Finalmente, el Documento de Marco Sectorial del Transporte de noviembre de 2016 presentaba
+entre sus principales desafíos, la deficiente calidad de las carreteras, la baja densidad vial y la
+sostenibilidad de los activos de la infraestructura. A su vez, enfatizaba la importancia de la gestión
+no solo como una visión de mantenimiento rutinario, sino como una gestión integral del activo
+durante todo su ciclo de vida.
+c. Relevancia del diseño
+El Programa se estructuró con los siguientes componentes: Componente 1. Ejecución de
+Proyectos de Ingeniería, mediante la pavimentación de la RP Nº23 y RP Nº26 de las PdER y
+PdFOR, respectivamente, y el mejoramiento y ensanchamiento de la RP Nº11 de la PdER;
+7
+ (i) Mejora del Ambiente de Negocios, (ii) Fortalecimiento de la Integración e inserción del sector privado a las cadenas de valor; y
+(iii) Reducción de la Pobreza y la Desigualdad.
+                                                                  3
+"
+"Componente 2. Fortalecimiento Institucional de las DPVs mediante la realización de un
+diagnóstico institucional del organismo y posterior definición del alcance y costo del apoyo;
+Componente 3. Mantenimiento Vial y Control de Pesos, a través de la implementación de
+contratos de mantenimiento por estándares de servidos y la instalación de infraestructura para el
+control de pesos y dimensiones de los vehículos; Componente 4. Seguridad Vial, a través de la
+realización de diagnósticos y auditorías de seguridad, la capacitación e interacción con otras
+entidades del sector, y la realización de un proyecto piloto de seguridad vial; y Componente 5:
+Recursos de Preinversión, administración y auditoría para la preparación de proyectos de
+ingeniería y estudios de factibilidad a fin de consolidar la cartera de proyectos.
+La estructura de la lógica vertical del Programa contribuye a alcanzar los objetivos expresados
+en el POD, mediante la ejecución de obras de pavimentación vial que logran una mejora de la
+infraestructura vial asociada a zonas rurales, impactando positivamente en los costos de
+operación vehicular, reduciendo los períodos de intransitabilidad y mejorando de esta manera la
+competitividad de los pequeños productores. Las obras seleccionadas se encuentran en zonas
+rurales con potencial productivo y atraviesan pequeñas localidades que tienen limitada su
+accesibilidad a zonas urbanas para la asistencia educativa y de salud. Además, para cubrir el
+déficit de gestión de las DPVs, se planearon actividades en relación con sus capacidades
+técnicas, de mantenimiento y de seguridad de la red vial.
+El diseño de la Matriz de Resultados del POD (ver Anexo 1 y 3) abarcó parcialmente el análisis
+del impacto de las intervenciones, al definir exclusivamente indicadores de resultados que
+midieran los cambios en los costos de operación, la accesibilidad e intransitabilidad de las
+inversiones en la pavimentación de nuevas rutas. Las intervenciones orientadas a fortalecer la
+gestión de las DPVs, la sostenibilidad y a la reducción de accidentes, no contaban con
+indicadores asociados.
+Por esta razón, se incorporaron en el año 2010 otros indicadores en el Informe de Seguimiento
+de Proyecto (PMR), pero como el proyecto se inició antes de septiembre de 2013 no es posible
+identificar la Matriz en Elegibilidad + 60 días en el sistema, por lo que los indicadores deben ser
+los mismos que los aprobados en la Matriz original. Sin perjuicio de lo anterior y con el objetivo
+de lograr una estimación del impacto de la totalidad de las actividades planificadas, se
+incorporaron en la Figura 1 y Tabla 2, un indicador de mejora de la capacidad de gestión de las
+DPVs y tres indicadores que midan el impacto en la reducción de accidentes, dos de los cuales
+surgen del citado PMR 2010.
+Asimismo y como se menciona anteriormente, dentro de los 60 días posteriores a la elegibilidad
+del proyecto, y por la conjunción de factores de política nacional, de capacidad de endeudamiento
+provincial y de no contar con el Convenio de Adhesión, la Provincia de Córdoba debió ceder la
+posibilidad del financiamiento a la Provincia de Entre Ríos, siendo Formosa, Córdoba, Entre Ríos,
+Corrientes, Misiones, Chaco, Chubut y/o La Pampa provincias elegibles de acuerdo con lo
+previsto en el párrafo 2.4 de la Propuesta de Préstamo (POD). A su vez, las provincias finalmente
+intervenidas presentaban junto con la provincia de Chubut los indicadores más bajos de rutas
+pavimentadas en relación con el total de la red provincial.
+La figura 1 expresa los principales lineamientos que conformaron la lógica vertical, a través de
+los objetivos y los Indicadores de resultados, y el esquema de actividades planificadas
+(Indicadores de producto).
+                                                  4
+"
+"                                                         Figura 1: Lógica Vertical
+                                                                                           OBJETIVOS
+           PRODUCTOS                                RESULTADOS                                                 OBJETIVO GENERAL
+                                                                                         ESPECIFICOS
+                                     1. Reducción de los costos de operación
+1.     Pavimentación     de    rutas vehicular                                       Desarrollo sostenible de
+provinciales de Entre Ríos y                                                         las condiciones del
+Formosa                              2. Reducción de los días de no transitabilidad transporte de cargas y
+                                                                                     pasajeros
+                                     3. Incremento del índice de accesibilidad de
+                                     vías pavimentadas
+2. Direcciones Provinciales       de                                                                          Apoyar el aumento de la
+Vialidad     con      planes      de 4. Grado de cobertura de los gastos de          Mejorar la capacidad de  competitividad y la
+fortalecimiento implementados        conservación de la RVP pavimentada con          gestión de las DPVs y la integración económica
+                                     Fondos de Coparticipación Vial de cada          sostenibilidad de las    y social del aparato
+3. Estudios de diagnóstico de provincia                                              inversiones              productivo     de    las
+mantenimiento y control de pesos                                                                              Provincias intervenidas
+elaborados
+                                     5. Estadísticas de siniestros de tránsito en la
+4. Diagnósticos de seguridad vial RVP pavimentada acopladas por la DVP y
+realizados,     capacitaciones     y publicadas                                      La     reducción      de
+Proyecto Piloto                      6. RVP con acciones correctivas priorizadas     accidentes
+                                     y en implementación
+                                     7.Disminución de la tasa de fatalidad
+                                                                        5
+"
+"                                                           Tabla 1. Matriz de resultados
+                                                               En elegibilidad + 60
+                                       En aprobación                                  Al terminar el proyecto (PCR)
+                                                                      días
+            Indicadores            Unidad     Línea           Unidad    Línea                     Línea                         Comentarios
+                                                      Meta                      Meta Unidad de
+                                     de         de               de       de                        de    Meta (P)
+                                                       (P)                       (P)   Medida
+                                   Medida     Base            Medida    Base                      Base
+Objetivo específico de Desarrollo 1: Desarrollo sostenible de las condiciones del transporte de cargas y pasajeros
+Indicador # 1 Reducción promedio de costos económicos de operación vehicular en los tramos mejorados y pavimentados por el Programa
+                                                                                                                           Cálculo en base HDM4 e
+Indicador # 1.1: RP 26. PdFOR        %           0     25        %         0      25      %          0        25
+                                                                                                                         información actualizada. (1)
+Indicador # 1.2: RP 26. PdCOR        %           0     30                                                                             (2)
+                                                                                                                           Cálculo en base HDM4 e
+Indicador # 1.3: RP 23. PdER                                     %         0      40      %          0        40
+                                                                                                                         información actualizada. (3)
+Indicador # 2 Reducción de días de no transitabilidad (vías cerradas al tránsito) o con restricciones severas a la circulación.
+Indicador # 2.1: Días de no
+                                  días/año     150      0    días/año    150       0   días/año    150         0            Informe de la DPV (1)
+transitabilidad RP 26. PdFOR
+Indicador # 2.2: Días de no
+                                                             días/año    105       0   días/año    105         0            Informe de la DPV (3)
+transitabilidad RP 23. PdER
+Indicador # 3 Incremento del Índice de accesibilidad de vías pavimentadas en las Provincias intervenidas por el Programa.
+Indicador # 3.1: IA RP 26.
+                                     %           0     >30       %         0     >30      %          0       >30            Informe de la DPV (1)
+PdFOR
+Indicador # 3.2: IA RP 26.
+                                     %           0    >0,5                                                                            (2)
+PdCOR
+Indicador # 3.3: IA RP 23. PdER                                  %         0     >6       %          0       >6             Informe de la DPV (3)
+Objetivo específico de Desarrollo 2: Mejorar la capacidad de gestión de las DPVs y la sostenibilidad de las inversiones
+Indicador # 4: Grado de cobertura de los gastos de conservación de la RVP pavimentada con Fondos de Coparticipación Vial de cada provincia.
+Indicador # 4.1: PdFOR                                                                    %        123       123
+                                                                                                                       Informe de la DPV (4)
+Indicador # 4.2: PdER                                                                     %         91       100
+Objetivo específico de Desarrollo 3: Reducción de accidentes
+Indicador # 5: Estadísticas de siniestros de tránsito en la RVP pavimentada acopladas por la DVP y publicadas.
+Indicador # 5.1: RVP de la                                   Informe/                 Informe/a                        Informe de Agencia Nacional
+                                                                           0       1                 0         1
+PdFOR                                                           año                       ño                           Dirección de Estadística Vial
+                                                             Informe/                 Informe/a                        de la Agencia Nacional de
+Indicador # 5.2: RVP de la PdER                                            0       1                 0         1
+                                                                año                       ño                           Seguridad Vial y DPV (5)
+                                                                           6
+"
+"Indicador 6: RVP con acciones correctivas priorizadas y en implementación
+Indicador # 6.1: RVP de la PdER                                                     %            0         10           %              0            10         Información de la DPV (5)
+Indicador 7: Disminución de la Tasa anual de fatalidad
+Indicador # 7.1: Tasa anual de                                                                                     Vícítimas
+                                                                                                                                     9.06          6.34
+fatalidad - PdFOR                                                                                                    fatales                                   Dirección de Estadística Vial
+                                                                                                                      cada                                     de la Agencia de Seguridad
+Indicador # 7.2: Tasa anual de
+                                                                                                                     10.000          2.74          1.92        Vial (6)
+fatalidad - PdER
+                                                                                                                   vehículos
+     (1)        Indicador del POD.
+     (2)        Dentro del periodo de elegibilidad + 60 días, la Provincia de Entre Ríos reemplazó a la Provincia de Córdoba.
+     (3)        Indicador del POD agregado para la provincia de Entre Ríos.
+     (4)        Indicador agregado para la elaboración del PCR.
+     (5)        Indicador agregado en PMR 2010.
+     (6)        Indicador agregado para la elaboración del PCR.
+     La Matriz de Resultados no contempla objetivos específicos claramente indicados; sin perjuicio de lo anterior, se puede descomponer
+     la estructura del objetivo general en tres objetivos específicos, los cuales son analizados seguidamente a partir de sus indicadores de
+     resultados y los productos asociados (ver Anexo 3) que los componen8:
+       I. Desarrollo sostenible de las condiciones de transporte de cargas y pasajeros: Las intervenciones programadas
+           comprendieron la ejecución de proyectos de ingeniería vial, a través de la pavimentación de 89 km de la RP Nº26 de la PdFOR, y
+           de 32,7 Km de la RP Nº23 de la PdER - Tramo RN N °130 - RN N°18 - Subtramo I. Como efecto esperable de las acciones, se
+           establecieron indicadores que cuantifiquen las mejoras en los costos de operación vehicular en los tramos intervenidos, una
+           reducción de los días de no transitabilidad y un incremento del índice de accesibilidad de las vías pavimentadas en las provincias.
+           Como una debilidad en el diseño del programa, no se definió la realización de una Evaluación Económica Ex Post de las rutas
+           intervenidas, con un potencial impacto social y productivo regional, cuya estimación hubiera generado información de suma utilidad
+           para el proyecto y para la toma de decisiones de futuros proyectos similares9. Dicha evaluación fue solicitada al cierre del Programa.
+     8
+        En Anexo 2 se detalla el Presupuesto del Programa y los fondos ejecutados.
+     9
+        Adicionalmente, por fuera del diseño original del Programa, el GoA incorporó en el año 2013 el proyecto de rehabilitación y ensanche de 39,6 Km de la RP Nº11 en la PdER. Esta
+     intervención se financió con recursos de contrapartida local adicionales a los previstos en el contrato, razón por la cual, si bien se incorporó la obra dentro del Informe de Seguimiento
+     de Proyecto (PMR) como un producto, no se evalúan sus resultados. Con esta incorporación se desbalanceó levemente el presupuesto total del programa a favor del Gobierno, pasando
+     de una proporción contractual de 80% de financiamiento BID y 20% de fondos de contraparte a un 70%-30%. El Contrato de Préstamo preveía aportes de USD30 millones y el GoA
+     colocó finalmente USD 51.596.437, siendo el costo de la ruta 11 de USD 21 millones.
+                                                                                                 7
+"
+" II. Mejorar la capacidad de gestión de las DPVs y la sostenibilidad de las inversiones: Para
+       lograr los objetivos planteados se elaboraron estudios de diagnósticos de las DVPs10 para
+       identificar las necesidades de fortalecimiento institucional y definir las acciones a ejecutar
+       (compra de equipamiento y/o la capacitación del personal técnico). A su vez y dada la
+       necesidad de incorporar nuevos sistemas de mantenimiento de la RVP y garantizar su
+       sostenibilidad, el Programa también preveía la elaboración de diagnósticos y diseños de
+       sistemas de mantenimiento vial y control de pesos, a los efectos de contribuir a lograr
+       estándares de servicio y una infraestructura de control de pesos acorde. Sin perjuicio de lo
+       anterior, la reasignación de partidas presupuestarias entre los Componentes del Programa,
+       destinando mayores fondos a ejecutar un ambicioso Proyecto Piloto de seguridad vial (RP N°
+       16 PdER), implicó la necesidad de cancelar las intervenciones orientadas a la implementación
+       de esquemas de mantenimiento y control de pesos de rutas, y a una reducción significativa
+       en el presupuesto destinado al fortalecimiento de las DPVs.
+       El estudio “El Sector Vial Argentino y las necesidades de Fortalecimiento Institucional”11
+       elaborado por el Banco, resalta como problemática principal de las redes viales, la necesidad
+       de mejorar y preservar los activos viales, recomendando una multiplicidad de acciones de
+       fortalecimiento de las DPVs. En particular, destaca la necesidad que las DPVs, incrementen
+       los fondos provenientes de la Coparticipación Vial para sostener políticas de mantenimiento
+       rutinario. Cabe resaltar, que dichos fondos provienen del impuesto a los combustibles líquidos
+       y se distribuye automáticamente entre las DPVs.
+       En base a dichas recomendaciones, se incorporó un indicador que evalúe el grado de
+       cobertura de los gastos de conservación de la RVP pavimentada, con fondos provenientes de
+       la Coparticipación Vial.
+III. Reducción de accidentes: Se diseñaron actividades (diagnósticos y auditorías de seguridad
+       vial, capacitaciones, diseño y construcción vial, implementación del proyecto piloto en la RP
+       N° 16 PdER, etc.) que contribuirían al fortalecimiento de las políticas de seguridad vial
+       provincial.
+       El impacto de estas medidas fue abordado mediante la incorporación de tres indicadores de
+       resultado, expresados por la necesidad de elaborar y publicar anualmente las estadísticas de
+       siniestros de tránsito en la RVP, contar con un porcentaje de la red vial con acciones de
+       seguridad vial correctivas priorizadas, y lograr una disminución de la tasa de fatalidad anual.
+ En este sentido, se puede concluir que el diseño ha contemplado los lineamientos descriptos en
+ los documentos que establecen las EP, del Gobierno de la República Argentina (GdA), y de los
+ respectivos gobiernos provinciales de Formosa y Entre Ríos. Asimismo, del análisis de la
+ documentación y de las acciones complementarias que las respectivas DPV han ejecutado ya
+ sea bajo otros Programas del Banco o con fondos propios, se puede afirmar que los principios
+ rectores del diseño se mantienen aún vigentes, y que la estructura de productos mostró una lógica
+ en pos del logro de los objetivos propuestos.
+ En base a lo descripto, y del análisis sobre el impacto de las acciones ejecutadas, se puede
+ concluir que la relevancia del Programa se califica como satisfactoria.
+ 2.2        Eficacia
+ En este apartado se evalúa si el Programa alcanzó los objetivos planteados. También se hace
+ una comparación entre los resultados esperados y los realmente alcanzados.
+ 10
+    El Programa incluyó el reembolso de US$1,1 millón de la FAPEP AR-L-1044 por la elaboración de los diagnósticos de las DPVs de
+ las Provincias de Córdoba, Formosa y Corrientes.
+ 11
+    “El Sector Vial Argentino y las necesidades de Fortalecimiento Institucional” - BID - Ing. Esteban Travaglianti.
+                                                                    8
+"
+"a. Declaración de objetivos de desarrollo del proyecto
+El objetivo de la línea CCLIP y del Programa, consistió en apoyar el aumento de la competitividad
+y la integración económica y social del aparato productivo de las provincias intervenidas,
+mejorando la capacidad de gestión de las DPVs, y promoviendo el desarrollo sostenible de las
+condiciones del transporte de cargas y pasajeros, buscando la sostenibilidad de las inversiones
+y contribuyendo a la reducción de accidentes. Como se expresó anteriormente, el objetivo
+general, se puede expresar en tres objetivos específicos: i) el desarrollo sostenible de las
+condiciones del transporte de cargas y pasajeros, con los indicadores de costo de operación
+vehicular y días de no transitabilidad, ii) la capacidad de gestión de las DPVs y la sostenibilidad
+de las inversiones, con el indicador del Índice de Accesibilidad y, iii) la reducción de accidentes.
+b. Resultados logrados
+Al finalizar el Programa, los resultados logrados fueron consecuencia de la ejecución de los
+siguientes productos12:
+ 1. Ruta Provincial N° 26 - Formosa - Tramo RN N°81 - RN N°86 - Sección I, II y III. Fue la
+      inversión individual más representativa ejecutada con recursos del Préstamo (US$101
+      millones). La obra, ubicada en la zona centro de la provincia, en el Departamento Patiño,
+      consistió en la pavimentación de los 89 km la Ruta Provincial Nº26, desde la localidad de
+      Pozo del Tigre hasta Fortín Cabo 1º Lugones. Se realizaron movimiento de suelos, ejecución
+      de alcantarillas, base estabilizada, carpeta asfáltica con un ancho de calzada de 7.30 mts,
+      dársenas y refugios para pasajeros, barandas de defensa y tareas de seguridad vial con la
+      señalización horizontal y vertical. Incluyó la construcción de 5 puentes de hormigón armado
+      y readecuación hidráulica de puentes y alcantarillas. La obra beneficia en forma directa a
+      más de 50.000 habitantes permitiendo el tránsito permanente a través de la zona afectada
+      por el Bañado La Estrella y el acceso a la frontera argentina con Paraguay. Asimismo, su
+      intersección con la RNº81 permite incorporar su zona productiva de influencia al corredor
+      bioceánico, desde los puertos del Pacifico (Iquique) Chile hacia los del Atlántico (San Pablo)
+      Brasil.
+ 2. Ruta. Provincial N° 23 - Entre Rios - Tramo RN N°130 - RN N°18 – Subtramo I: 32,7 km
+      pavimentada. La obra de pavimentación, con una inversión de US$30.4 millones, está
+      ubicada en los departamentos de Colon y San Salvador13. Su traza une dos rutas nacionales
+      (RN Nº130 y la RN Nº18), y su pavimentación constituye una vía alternativa a la RN Nº14. La
+      pavimentación de toda la ruta se planteó en dos tramos, el primero financiado por este
+      Programa, entre Villa Elisa y Arroyo Barú (32.5km), y el segundo entre Arroyo Barú y Jubileo
+      (24.4 KM). La traza de la ruta consistía en un terraplén de suelo natural con una calzada de
+      ripio de regular transitabilidad, y la obra comprendió la pavimentación con una calzada de
+      7.30 de ancho, banquinas de 3mts, base calcárea y carpeta asfáltica, movimiento de suelo,
+      ejecución de alcantarillas, dársenas, la señalización e iluminación de todas las
+      intersecciones, y los accesos a las localidades de La Clarita (448 habitantes) y Arroyo Barú
+      (509 habitantes). Se incorporó una variante de trazado a los efectos de evitar el paso por
+      zonas urbanizadas en las localidades de La Clarita y Aº Barú.
+ 3. Ruta Provincial N°16 - Entre Ríos. Obras de seguridad Vial con una inversión total de US$5,9
+      millones. La ruta tiene una extensión de 74 km y une las ciudades de Gualeguay y
+      Gualeguaychú, que están atravesadas por la RN Nº12 y RN Nº14, respectivamente. Además,
+ 12
+    Tal como se explica en la sección de relevancia el GoA incorporó en el año 2013 la obra de la Ruta Provincial 11 en Entre Rios,
+ Tramo Arroyo Doll – Victoria. Fueron 39,6 km de rehabilitación y ensanche financiados con recursos de Contrapartida Local
+ adicionales a los contractuales por un costo de US$21.6 millones. Se realizaron tareas de mejora de adaptación sobre la ruta, las
+ cuales consistieron en algunos tramos el saneamiento de la base calcárea, rehabilitación y ensanche de la calzada, la demolición y
+ reconstrucción de las carpetas de desgaste de los puentes existentes, la incorporación de una tercera vía en algunas secciones y,
+ tareas de seguridad relacionadas con la demarcación y colocación de cartelería.
+13
+   Con una población de más de 69.000 habitantes.
+                                                                 9
+"
+"        es complementaria a la RP Nº11, para unir el tránsito proveniente de otras provincias con el
+        Rio Uruguay, con creciente actividad turística. El proyecto contempló el reacondicionamiento
+        del tramo comprendido entre la intersección con la RNº14 y la rotonda de acceso a la
+        localidad de Larroque, con una longitud total de 30 km. Los trabajos se centraron en la mejora
+        de la seguridad vial mediante la repavimentación de parte de la calzada, ejecución de
+        alcantarillas, incorporación de iluminación, señalización horizontal y vertical, dársenas y
+        refugios para pasajeros, y barandas laterales.
+    4. Fortalecimiento de la Dirección Provincial de Formosa. Con recursos del Programa se realizó
+        una actualización de la capacidad institucional del organismo, del cual surgió una propuesta
+        de mejora, con un plan de capacitación y de compra de equipamiento. En base a dicho
+        documento, se compraron selladoras de juntas y fisuras, prensa, extractor de probeta de
+        pavimento, contadores y clasificadores de tránsito vehicular, equipo informático y de
+        laboratorio, con una inversión de US$173.047.
+   Para la medición de los resultados logrados, se han agrupado los indicadores en base a las tres
+   secciones del objetivo indicadas en la sección anterior: i) el desarrollo sostenible de las
+   condiciones del transporte de cargas y pasajeros, ii) la capacidad de gestión de las DPVs y la
+   sostenibilidad de las inversiones y, iii) la reducción de los índices de accidentes.
+                                 Tabla 2. Matriz de Resultados logrados
+                                     Valor de Año de
+                         Unidad de                          Metas y          %             Medios de
+      Indicador                     Línea de línea de
+                          Medida                          alcance real Alcanzado          verificación
+                                      base        base
+Objetivo específico de Desarrollo 1: Desarrollo sostenible de las condiciones del transporte de cargas
+y pasajeros
+Indicador 1: Reducción promedio de costos económicos de operación vehicular en los tramos
+mejorados y pavimentados
+                                                         P          25              Estimados HDM4,
+Indicador # 1.1: RP
+                             %          0         2009 P(a)         25       88     incorporando
+26 - Formosa
+                                                         A          22              información actualizada
+                                                         P           -              sobre los costos de
+Indicador # 1.3: RP                                                                 inversión, IRI, tránsito y
+                             %          0         2009 P(a)         40     97,5
+23 - Entre Rios                                                                     mantenimiento.
+                                                         A          39
+Indicador 2: Reducción de días de no transitabilidad o con restricciones severas a la circulación
+                                                         P           0
+ Indicador # 2.1: RP
+                          días/año     150        2009 P(a)          0      100     Información de la DPV
+26 - Formosa
+                                                         A           0
+                                                         P           -
+Indicador # 2.2: RP
+                          días/año     105        2009 P(a)          0      100     Información de la DPV
+23 - Entre Rios
+                                                         A           0
+Indicador 3: Incremento de accesibilidad en tramos principales de la red vial de las Provincias
+Indicador # 3.1:                                         P         >30
+                                                         P(a)      >30      377     Información de la DPV
+Índice accesibilidad -       %          0         2009
+                                                                                    y CVF
+Formosa                                                  A         113
+Indicador # 3.3:                                         P           -
+                                                                                    Información de la DPV
+Índice accesibilidad -       %          0         2009 P(a)         >2      750
+                                                                                    y CVF
+Entre Ríos                                               A          15
+Objetivo específico de Desarrollo 2: Mejorar la capacidad de gestión de las DPVs y la sostenibilidad de
+las inversiones
+Indicador 4: Grado de cobertura de los gastos de conservación de la RVP pavimentada con fondos de
+coparticipación Vial
+                                                      10
+"
+"                                                                       P              -
+Indicador # 4.1:
+                                    %            123          2009     P(a)         123        114         Información de la DPV
+PdFOR
+                                                                       A            140
+                                                                       P              -
+Indicador # 4.2:
+                                    %             91          2009     P(a)         100        611         Información de la DPV
+PdER
+                                                                       A            146
+Objetivo de Desarrollo 3: Reducción de los índices de accidentes
+Indicador 5: Estadísticas de siniestros de tránsito en la RVP pavimentada acopladas por la DVP y
+publicadas
+                                                                               P             -
+Indicador # 5.1:
+                            Informe/año            0          2009            P(a)           1      100
+Provincia de Formosa
+                                                                               A             1             DPV y Observatorio
+Indicador # 5.2:                                                               P             -             Vial de DNV
+Provincia de Entre          Informe/año            0          2009            P(a)           1      100
+Ríos                                                                           A             1
+Indicador 6: RVP con acciones correctivas priorizadas y en implementación
+Indicador # 6.1:                                                               P             -
+Provincia de Entre                  %              0          2009            P(a)          10 34,4 Información de la DPV
+Ríos                                                                           A           3,18
+Indicador 7: Disminución de la Tasa anual de fatalidad
+Indicador # 7.1: Tasa                                                          P             -
+                                Víctimas
+anual de fatalidad -                            9.06          2009            P(a)         6.34 179 Información de la DPV
+                                 fatales
+PdFOR                                                                          A            4.2
+                                  cada
+Indicador # 7.2: Tasa                                                          P             -
+                                 10.000
+anual de fatalidad -                            2.74          2009            P(a)         1,92 78 Información de la DPV
+                               vehículos
+PdER                                                                           A            2,1
+              Donde: P = Planificado; P (a) = Objetivo anual revisado; A = real.
+   Objetivo específico de Desarrollo 1. Promover el desarrollo sostenible de las condiciones
+   del transporte de cargas y pasajeros.
+   Indicador 1: Reducción promedio de costos económicos de operación vehicular en los
+   tramos mejorados y pavimentados. Los proyectos ejecutivos de las RP Nº26 de Formosa y RP
+   Nº23 de Entre Ríos, contaron con una evaluación económica Ex Ante, en la cual se estimaron a
+   través del modelo HDM 4 los costos de operación vehicular (COV). Mediante una Evaluación Ex
+   Post, utilizando la misma herramienta, y calibrada con nuevas estimaciones de Tránsito Medio
+   Diario Anual (TMDA), valores actualizados del IRI, y costos efectivos de inversión y
+   mantenimiento, se determinaron los nuevos COV promedio de ambas rutas, lo que permitió
+   estimar el porcentaje de reducción de los mismos.
+   RP Nº26 de Formosa: De acuerdo con las estimaciones realizadas, los costos de operación
+   vehicular disminuyeron en promedio el 22%, cuya meta era del 25%. Por lo cual, el cumplimiento
+   del objetivo fue del 88%. Cabe destacar, que debido a que no se contó con los archivos originales
+   del HDM 4 de la Evaluación Ex Ante, que contenía los valores de Línea de Base del COV
+   utilizados y establecidos en el POD14, y ante la imposibilidad de reconstruir los mismos ya que
+   comprenden una gran cantidad de variables (costo de los vehículos, tipo de amortización, valores
+   del combustible, cantidad de pasajeros, etc.), se utilizaron como Línea de Base, los valores de
+   14
+      Los valores del COV utilizados se encuentran en la Figura 2, y los correspondientes al POD, son los siguientes: Vehículos: 1.2,
+   Ómnibus: 11.2, Camión Liviano: 2.56, Camión Pesado: 4.67. Promedio: 4.92. Es decir que los valores utilizados para la estimación
+   de los indicadores como para la estimación de los beneficios por COV de la Evaluación Ex Post., corresponde a expresados en dicha
+   Figura.
+                                                                    11
+"
+"COV oficiales (COSTOP)15 publicados por la DNV. Esta modificación en la Línea de Base, no
+invalida las conclusiones sobre los resultados alcanzados.
+              Figura 2. Costo de Operación Unitarios Promedio de Vehículos Formosa.
+                                                              (valores constantes)
+                                                             4.26
+                                                                 3.20
+                                                                    3.18
+                                                                                                              2.27
+                                                                                                                    1.70
+                                                                                               1.69                       1.76 1.72
+                                                                              1.27                  1.27 1.37                        1.29 1.33
+                              0.28                                                 0.95 1
+                                           0.48
+                         0.37                   0.36
+                                   0.29                0.38
+                                       -22%              -21%            -25%             -21%            -19%            -22%              -23%
+                                                                                 Camion         Camion c          Camión
+                              Automovil         Pickup         Omnibus                                                           Promedio
+                                                                                mediano            Acopl         articulado
+                  L.Base          0.37            0.48            4.26             1.27              1.69           2.27             1.72
+                  Meta            0.28            0.36            3.20             0.95              1.27           1.70             1.29
+                  Alcanzado       0.29            0.38            3.18               1               1.37           1.76             1.33
+                  Ahorro         -22%            -21%            -25%             -21%              -19%           -22%             -23%
+            Fuente: DPV Formosa - Información HDM4.
+RP Nº23 de la PdER: De acuerdo con la estimación Ex Post, los costos económicos promedio
+de operación vehicular en el tramo intervenido de la disminuyeron un promedio de 39%16, la
+meta esperada EOP era del 40%17, por lo cual, se alcanzó el 97.5% del objetivo.
+             Figura 3. Costo de Operación Unitarios Promedio de Vehículos. Entre Ríos.
+                                                              (valores constantes)
+                                                4.78                                                      4.96
+                                                                                       4.45
+                                                                                                               3.06           3.44
+                                                                                           2.73                        3.06
+                                                     2.7 2.8                                         2.73
+                                                                   2.35                                                            2.07 2.09
+                                                                         1.38
+                                                                               1.38
+                               0.46
+                         0.64
+                                     0.46
+                                        -28%                  -41%            -41%                -39%                -38%               -39%
+                               Automovil           Omnibus        Camion c Acopl Camion s Acopl Camión semirem                  Promedio
+                  L.Base           0.64               4.78               2.35                4.45               4.96                3.44
+                  Meta             0.46                2.7               1.38                2.73               3.06                2.07
+                  Alcanzado        0.46                2.8               1.38                2.73               3.06                2.09
+                  Ahorro          -28%               -41%               -41%                -39%               -38%                -39%
+            Fuente: DPV Entre Ríos - Información HDM4.
+15
+   Se utilizaron los valores de COV del COSTOP, debido a la imposibilidad de replicar la línea de base definida en la Evaluación
+Económica Ex Ante, producto que la variable se conforma de una multiplicidad de factores (gastos de cubierta, gasto de aceite, valor
+de los vehículos, amortizaciones, etc.) que la conforman.
+16
+   Si se considera el valor promedio ponderado, la reducción es del 31.2%. Asimismo, dado que el TDMA no consideró el ómnibus,
+se estableció que el mismo alcanzaba la misma reducción de costo que el camión. Dicho valor no impacta significativamente en el
+resultado final.
+17
+   La meta surge del informe de Evaluación Económica de la Ruta Provincial N 23 – Villa Elisa –Jubileo, realizado por la Lic. Laura
+Beatriz Bonamico en abril 2009. Dicho informe incluyó una estimación bajo el modelo HDM.
+                                                                          12
+"
+"Indicador 2: Reducción de los días de no transitabilidad (vías cerradas al tránsito) o con
+restricciones severas a la circulación. Las obras de pavimentación de las rutas debían
+optimizar la transitabilidad de las redes de caminos provinciales, generando una integración
+productiva entre las diferentes regiones y contribuyendo a una recuperación económica
+sostenible. Las RP Nº23 y 26 contaban con altos índices de intransitabildiad con pérdidas de
+competitividad en el sector productivo, y un impacto social por las limitaciones de acceso a
+servicios de salud y educativos.
+La traza de la RP Nº26 de la PdFOR se localiza íntegramente en terreno llano, pero al ser una
+jurisdicción por la que escurren, entre otros, los riachos Montelindo, Pavao y Tatú Piré contaba
+con una transitabilidad limitada. Asimismo, una gran parte del tramo corresponde a bañados
+cubiertos por los derrames del Río Pilcomayo, y en especial se producen los desbordes del
+Bañado La Estrella. La obra de pavimentación, que incluyó la construcción de cuatro puentes de
+hormigón en la zona del Bañado La Estrella, buscó mitigar el impacto de los desbordes de los
+ríos y las precipitaciones estacionales sobre la media. Además, las obras de arte menores
+desarrolladas consistieron en una mayor densidad de alcantarillas en las zonas de cruce del
+bañado. Las acciones implementadas modificaron completamente la transitabilidad de la ruta, al
+reducir de 150 a 0 los días de intransitabilidad, y de esta manera alcanzar el 100% del objetivo.
+Para el caso de la RP Nº23 de Entre Ríos, el tramo se desarrolla en la cuenca del Río
+Gualeguaychú, y está caracterizada por una peniplanicie suavemente ondulada. El camino se
+encontraba enripiado, en regular estado de conservación, con faltante de ripio en algunos tramos.
+Esto dificultaba el transporte y obligaba a transitar en determinadas épocas del año por caminos
+pavimentados alternativos como son la RN Nº130 y RN Nº18 y RN Nº14. El clima de la zona es
+templado húmedo de llanura, y sus precipitaciones, eran otro de los factores que afectaban la
+transitabilidad de la ruta. De acuerdo con la información elaborada por la DPV, en el año 2009 la
+ruta tuvo interrupciones durante 105 días. Dada las características de la obra realizada, y a partir
+de la información provista por la DPV, se ha reducido completamente la interrupción del tránsito,
+alcanzando al 100% del objetivo con cero días de interrupción.
+Indicador 3: Incremento del índice de accesibilidad de vías pavimentadas en las provincias
+intervenidas por el programa. Las condiciones en las que se encontraba la red vial provincial,
+con un alto grado de desinversión en pavimentación y mantenimiento, requería un compromiso
+de las autoridades a mejorar la accesibilidad de las rutas, con el fin de acrecentar la
+transitabilidad, la seguridad y la competitividad de los productores regionales. Seguidamente se
+describen las mejoras observadas, en los indicadores de las dos provincias participantes del
+programa, habiendo sido el valor fijado para la meta para este indicador en cada Provincia, el
+incremento del índice, producto de la pavimentación de al menos el 100% de las rutas
+intervenidas bajo el presente Programa.
+En el caso de la Provincia de Formosa, las rutas pavimentadas no alcanzan a articular aún una
+red de vinculación entre los distintos puntos del territorio, y sólo el Este dispone de un sistema
+simple, con una marcada convergencia hacia la capital; sin embargo, se han logrado grandes
+avances en los últimos años con la pavimentación principalmente de las rutas que en su mayoría
+comunican las RNº81 y 86 y que atraviesan la provincia en forma paralela, permitiendo incorporar
+a las localidades intermedias al circuito comercial de ambas rutas nacionales. El ambicioso plan
+de inversiones ejecutado por la provincia que incluye además de la pavimentación de la RP Nº26
+financiada por este Programa, obras en las rutas provinciales Nº9, 28 y 24 con 76,2, 84,5 y 96
+km intervenidos respectivamente, ha contribuido a incrementar en un 113% el índice de
+accesibilidad, superando la meta del 30%. Cabe destacar, y como se puede observar en el Anexo
+6, la provincia se ubica dentro de las 5 provincias que más ha extendido su red provincial
+pavimentada entre los años 2009 y 2016, y la primera en términos relativos. Los kilómetros de
+ruta pavimentados bajo el Programa representan el 27% del total de Km de ruta pavimentados
+entre los años 2009 y 2016, lo cual ha permitido alcanzar la meta (30%) del indicador.
+                                                  13
+"
+"  Por su parte, la provincia Entre Ríos que forma parte de los proyectos estratégicos del gobierno
+  nacional en apoyo de las regiones del Noroeste y Noreste ha logrado un importante flujo de
+  inversiones para mejorar su infraestructura vial. Así, entre los años 2009 a 2016, la provincia
+  incrementó su RVP en 252 km, que se complementó con la habilitación de la autovía de la RN
+  Nº14, de más de 350 km. La extensión de la red provincial pavimentada en un 15%, superó la
+  meta del 2%. En base al resultado alcanzado, se logró el 100% del objetivo. En este caso, la meta
+  establecida para Entre Ríos utiliza el mismo criterio que para la provincia de Formosa de
+  kilómetros intervenidos sobre la RVP total. En este sentido, con la pavimentación de los 32,7 km
+  del proyecto de la obra de la RP Nº23 se alcanzó la meta planteada.
+                                           Cuadro 2: Índice de accesibilidad
+                                    RVP (en km)                 km2 de                   Índice de accesibilidad
+        Provincia
+                           2009        2016         Dif.           sup.        2009       2016       Variación         Meta
+        Formosa             326         693         367          72,066         4,52      9,62         113%            30%
+       Entre Ríos         1.676        1.928        252          78,800        21,27     24,47          15%             2%
+     Fuente: DPV y Consejo Vial Federal
+  Objetivo específico de Desarrollo 2. Mejorar la capacidad de gestión de las DPVs y la
+  sostenibilidad de las inversiones.
+  Indicador 4: Grado de cobertura de los gastos de conservación de la RVP pavimentada con
+  Fondos de Coparticipación Vial de cada provincia. Como se describió en el apartado de
+  Relevancia y de acuerdo con el informe de las necesidades de fortalecimiento institucional el
+  sector vial argentino, para sostener políticas de mantenimiento rutinario es necesario incrementar
+  los fondos provenientes de la Coparticipación Vial18.
+  Para la elaboración del indicador, se estimó el presupuesto anual de gasto de conservación de
+  cada provincia valorizando los kilómetros de RVP pavimentada por un gasto fijo de mantenimiento
+  por km de US$7.300, que surge del promedio de los Contratos de recuperación y mantenimiento
+  (CREMA) financiados por el Banco Mundial, a través del Programa de Infraestructura Vial (BIRF
+  7301 AR).
+  La PdFOR si bien ha mantenido estable el indicador y superior a la meta del 100%, se produjo
+  en un contexto donde ha duplicado su red vial pavimentada, y sus ingresos por coparticipación lo
+  han hecho en una proporción similar. Es decir que la provincia, ha acompañado financieramente
+  las mayores necesidades de gastos de conservación.
+  La PdER, ha logrado superar la meta, y alcanzar un indicador de cobertura similar al de la PdFOR,
+  pero con una red vial muy superior.
+                       Cuadro 3: Grado de cobertura de los gastos de conservación
+                                                    Entre Ríos                                           Formosa
+                                           2009                        2018                    2009                    2018
+Gasto promedio                          USD 7.300                  USD 7.300                USD 7.300              USD 7.300
+RVP pavimentada                            1.676                      1.928                     326                     693
+Gasto en conservación
+                                     USD 12.234.800            USD 14.074.400             USD 2.379.800         USD 5.058.900
+RVP pavimentada teórico
+Impuesto Combustibles                USD 11.192.958            USD 20.537.438             USD 2.920.566         USD 7.060.796
+Relación Imp/Gasto                          91%                       146%                     123%                    140%
+  Fuente: Consejo Vial Federal
+  18
+     Recursos que las Provincias disponen anualmente por la coparticipación del 14% del Impuesto a los Combustibles Líquidos y Gas
+  Natural.
+                                                                14
+"
+"Objetivo específico de Desarrollo 3: Reducción de accidentes.
+Indicador 5: Estadísticas de siniestros de tránsito en la RVP pavimentada acopiadas por
+las DPVs y publicadas. Ambas provincias, acompañaron el proceso coordinado por la Agencia
+Nacional de Seguridad Vial, de lograr estadísticas de siniestralidad sistemáticamente y
+confiables, que posibiliten la toma de decisiones. Desde el año 2016 se publica el Anuario
+Estadístico de siniestralidad vial con información sobre tasas de mortalidad y fatalidad,
+características sociodemográficas de las víctimas, según tipo de usuario de las vías, zona de
+ocurrencia, heridos, etc.
+La PdER ha implementado con recursos del Programa, acciones orientadas al fortalecimiento de
+la seguridad vial, como es la realización de diagnósticos y auditorías de seguridad vial de la RP
+N°16, es decir, que la atribución de los resultados corresponde parcialmente a acciones
+ejecutadas bajo el Programa.
+Indicador 6: RVP con acciones correctivas priorizadas y en implementación: A través de las
+intervenciones diseñadas (diagnóstico y auditorías, capacitaciones y proyectos piloto), uno de los
+objetivos era generar las capacidades de las DPVs para sistematizar dichas actividades sobre la
+red vial provincial. Las actividades fueron desarrolladas sólo en la Provincia de Entre Ríos, quien
+ejecutó un ambicioso proyecto, sobre 30 km la RP Nº16, con una inversión total de US$5,9
+millones, que excedió el presupuesto del Programa (US$2.0 millones). Asimismo, las acciones
+de seguridad vial fueron ejecutadas sobre 66.29 km de la red vial (3,44% del total), lo que significó
+que se alcanzó del 34,4% de la meta, que implicaba alcanzar el 10% de la red.
+Indicador 7: Disminución de tasa de fatalidad. Las estadísticas de siniestralidad en todo el
+territorio del país mostraban la necesidad de definir acciones relacionadas con la seguridad vial,
+con base en el fortalecimiento de las DPVs, mediante la ejecución de diagnósticos y auditorías
+de seguridad vial, obras, capacitaciones, etc. En este contexto, y a los fines de medir la evolución
+de la siniestralidad en cada provincia, se ha definido el indicador de tasa de fatalidad anual, que
+expresa la relación entre el número de víctimas fatales que ocurren en una unidad geográfica
+considerada cada diez mil vehículos registrados en la misma unidad geográfica, para un período
+de tiempo determinado. En este sentido, se ha fijado una meta de reducción del 30%, parámetro
+utilizado en otro programa19 de características similares.
+De las cifras provistas por el Observatorio Vial, perteneciente a la Agencia Nacional de Vialidad,
+se observan en ambas provincias una mejora de la tasa de la fatalidad. La Provincia de Formosa
+muestra una disminución de la tasa del 54%, mientras que la Provincia de Entre Ríos también ha
+logrado una disminución significativa del 22%. Cabe destacar que, en el mismo período, la tasa
+se ha incrementado en un 1% a nivel de Total del País.
+                                           Cuadro 4: Tasa de fatalidad anual
+                              Accidentes fatales           Unidad de               Tasa de Fatalidad
+      Provincia                                               medida
+                                 2009            2016                       2009 2016      Meta      Variación
+      Entre Ríos                  142             167        Víctimas       2,74  2,1      -30%       -22%
+                                                          fatales cada
+      Formosa                      94             108         10.000        9,06  4,2      -30%       -54%
+      Total País                5.219           5.530       vehículos       2.59  2.6                  1%
+     Fuente: Agencia Nacional de Seguridad Vial y DPV
+c. Análisis contrafactual
+Las obras de pavimentación de las rutas provinciales de Formosa y Entre Ríos, han permitido
+reducir los COV en valores similares a los presupuestados. La mejora alcanzada, surge a partir
+de los resultados del sistema HDM-4, mediante la modelización de los escenarios Sin y Con
+19
+   Proyecto del corredor de desarrollo vial del Noroeste del Banco Mundial.
+                                                                  15
+"
+"Proyecto, incorporando los datos de las características de las obras realmente ejecutadas, según
+los informes de calidad realizados, los costos de inversión incurridos, las condiciones de tránsito
+reales que surgieron de mediciones de tránsitos Ex Post. Es decir, que las estimaciones
+realizadas reflejan ciertamente los beneficios alcanzados. La pavimentación de la RP N° 20 en la
+PdER (Programa BID 1914/OC-AR) de características similares a los proyectos ejecutados, tuvo
+resultados similares, con una reducción del costo de operación vehicular de un 32% (de 0.397 a
+0.27 US$/vehículo/km).
+                                  Cuadro 5: Reducción del COV
+                      Proyecto                  Meta            Alcanzado
+                      RP N 26 PdFOR             25%                 22%
+                      RP N 23 PdER              40%                 39%
+El incremento de los índices de accesibilidad en ambas provincias superó la meta, sin embargo,
+solo es atribuible al presente Programa, el porcentaje de incrementado fijado por las metas, ya
+que las mismas eran alcanzadas, como consecuencia de la ejecución del 100% de las obras de
+pavimentación programadas.
+                        Cuadro 6: Incremento del índice de accesibilidad
+                          Provincia             Meta            Alcanzado
+                      Formosa                  >30%                113%
+                      Entre Ríos                >2%                 15%
+De acuerdo con las cifras informadas por las DPVs respectivas, las obras realizadas sobre ambos
+proyectos han logrado la transitabilidad permanente de ambas vías. La complejidad de la obra se
+presentaba especialmente en la RP N 26, debido a que el trayecto atraviesa una zona de riachos,
+esteros y bañados. Para ello, participó la Unidad Coordinadora del Agua de la Provincia de
+Formosa, en el proyecto hidráulico de la ruta.
+                      Cuadro 7: Reducción de los días de intransitabilidad
+                        Proyecto       Línea de Base      Meta        Alcanzado
+                   RP N°26 PdFOR            150             0             0
+                   RP N°23 PdER             105             0             0
+La Agencia Nacional de Seguridad Vial, a través del Observatorio Vial, y coordinadamente con
+las distintas provincias, han sistematizado el procesamiento y publicación de las estadísticas de
+accidentes viales. El programa ha implementado en la RP Nº16 de la Provincia de Entre Ríos, un
+plan de mejoras, con eje la reducción del riesgo de accidentes, en una red vial que ha visto
+modificado su tránsito, a partir de la inauguración del Puente Rosario-Victoria. El informe
+elaborado por el Observatorio Vial Provincial, expresa que la cantidad de accidentes fatales
+registrados no ha variado, entre el año 2010 y 2016.
+De acuerdo con lo señalado anteriormente no se lograron implementar las acciones para el diseño
+de sistemas de mantenimiento de las rutas y de control de pesos por razones presupuestarias.
+El objetivo central del Programa de apoyar el aumento de la competitividad y la integración social
+del aparato productivo, se basó principalmente en la pavimentación de las rutas provinciales de
+la PdER y PdFOR, las cuales lograron ahorros en los COV cercanos a los presupuestados, por
+lo que se puede concluir que se ha alcanzado un nivel satisfactorio y parece razonable atribuir a
+                                                 16
+"
+"las intervenciones viales realizadas con el Programa la mayoría de los beneficios expuestos
+precedentemente.
+d. Resultados imprevistos
+No se han obtenido resultados no previstos.
+2.3 Eficiencia
+Evaluación Ex Post
+Se realizaron los Análisis costo-beneficio (ACB) Ex Post de las dos rutas provinciales
+pavimentadas (ver detalle en Anexo 7). La metodología adoptada consistió en la modelización
+mediante el HDM-4, el cual consiste en una estimación cuantitativa de los beneficios esperados
+netos de costos, basada en la expresión simulada de la Situación Sin Proyecto (sin intervención)
+con la Situación Con Proyecto (resultados a partir de las acciones previstas). Se aplicaron precios
+económicos, que consisten en descontar los impuestos, aranceles, derechos, subsidios
+(transferencias dentro del país) y cualquier componente similar que impacte sobre los mismos.
+En ambos proyectos se realizaron nuevas mediciones de tránsito medio anual, mediante un
+contador de tránsito vehicular con sensor neumático. Finalmente, se desarrolló un Flujo de
+Fondos para los 20 años definidos como horizonte del proyecto, y se aplicó una tasa de descuento
+del 12%.
+                                                 Cuadro 8: TIR y VPN20
+                                    Proyecto                  TIR                  VPN
+                               RP N°26 PdFOR               12,71%           US$ 1.2 millones
+                                RP N°23 PdER                13.8%           US$1.95 millones
+                             Fuente: HDM 4
+A continuación, se describen las principales consideraciones que impactaron sobre los resultados
+de ambas intervenciones (RP N°23 de la PdER y la RP N°26 de la PdFOR).
+RP N°23 PdER: Las obras de pavimentación del camino de tierra, se reflejaron en un resultado
+final positivo, sin embargo, menor a lo esperado como consecuencia principalmente, del
+estancamiento de la actividad en general, en los últimos años. La zona de influencia comprende
+actividad no sólo eminentemente de producción agropecuaria, sino también cuenta con un flujo
+turístico, producto de bordear una ciudad termal. El resultado final alcanzado puede explicarse
+en las siguientes razones: a) mayores costos de inversión, como consecuencia de las
+modificaciones de obra ejecutadas y redeterminaciones de precios; b) los menores costos de
+mantenimiento de la ruta, a partir de las intervenciones realizadas, c) los ahorros del 39% en los
+COV (ver Indicador de Resultados 1.2) que resulto en beneficios totales menores a los
+presupuestados, por un menor flujo de TDMA medido, en relación con el proyectado, y d) los
+beneficios generaos por los ahorros en los Tiempos de Viaje, que también fueron menores a los
+proyectados, por lo expuesto anteriormente. Sin embargo, el impacto final de la obra excede los
+beneficios descriptos, y es una ruta que se encuentra en una zona estructural de la Provincia, y
+forma parte de un plan estratégico zonal de pavimentación.
+RP N°26 PdFOR: La pavimentación de la ruta provincial, en una zona de influencia de creciente
+actividad ganadera (crecimiento anual del 4,7%), impacto positivamente en la rentabilidad final,
+en un contexto de bajo nivel de actividad de la economía en general, en los últimos años, y
+permitió absorber los mayores costos de inversión incurridos. A continuación, se describen los
+factores que afectaron el resultado final del proyecto: a) se generaron mayores costos de
+inversión a lo presupuestado, producto de las modificaciones de obra y ajuste de precios, que
+20
+   La TIR Ex Ante de la RP N°23 de la PdER, fue del 20.3%, mientras que de la RP N°26 de la PdFOR, fue de 15.9%
+                                                               17
+"
+"impactaron negativamente en los resultados finales; b) se generaron ahorros del COV del 22%
+(ver Indicador de Resultados 1.1), sin embargo, el beneficio final fue menor al presupuestado,
+debido a que el TDMA medido ex post, ha sido menor al proyectado (crecimiento del 8,7% anual),
+c) se generaron beneficios por los Tiempos de Viaje, pero cuyo impacto final se redujo, por las
+mismas razones que las expuestas en el punto anterior; y d) se han estimado dos tipos de
+beneficios exógenos (descriptos en detalle en el Anexo 7), producto de la revalorización de la
+tierras en la zona de influencia del proyecto y menores costos de fletes y comercialización de los
+productores ganaderos.
+La tabla siguiente, muestra los resultados finales como consecuencia de cambios en los
+beneficios totales producto de modificaciones en los costos de mantenimiento de ruta, en los
+beneficios generados por las COV, en los ahorros en los tiempos de viaje y los beneficios
+exógenos. Como se observa, la rentabilidad final de los proyectos se mantiene dentro de valores
+esperados, excepto en el escenario de una disminución del 10% de los beneficios. Es importante
+resaltar, que los distintos gobiernos nacionales y el provincial, mediante obras complementarias
+que están en ejecución y de la mayor asistencia comprometida de entidades como el Instituto
+Nacional de Tecnología Agropecuaria (INTA), tienen como eje estratégico generar un mayor nivel
+de actividad, con base en el sector ganadero, generando mejores expectativas de mayor
+producción.
+                                    Cuadro 9: Sensibilización del Proyecto
+                                Variación en los
+                                                            RP N°23             RP N°26
+                                    Beneficios
+                                                              PdER              PdFOR
+                                       Totales
+                                         -5%                 13,09%             12,03%
+                                          5%                 14,44%             13,38%
+                                        -10%                 12,39%             11,34%
+                                         10%                 15,08%             14,04%
+                               Fuente. Elaboración propia en base a datos del HDM 4
+En ese marco de análisis los proyectos presentan una razonable solidez a la ocurrencia de
+efectos que limiten los impactos económicos proyectados.
+Análisis del Costo por Km
+Complementariamente, se procedió a realizar una comparación de los costos por km de las dos
+obras de pavimentación (RP N°23 de la PdER y RP N°26 de la PdFOR) con obras de
+características similares financiados por otros Programas, a saber: a) Programa de Infraestructura
+Vial del Norte Grande (AR-L1014)21; b) Programa Multifase de Desarrollo de la Infraestructura de
+Apoyo a la producción de Entre Ríos (AR-L1036)22; y c) Programa de Desarrollo Regional I –
+(CAF-7352)23. Metodológicamente, los valores fueron ajustados por el índice de inflación de
+Estados Unidos al 2016, y se procedió a comparar el costo por km de ambos proyectos con obras
+ejecutadas en las respectivas provincias, y con el promedio de costo por km de otras provincias.
+Ruta Provincial N°26 – PdFOR:
+a) Otras obras en la Provincia de Formosa: Las cifras de la Tabla 11, reflejan en términos
+generales, mayores costos en las obras de los otros programas. Las causas principales se deben
+a que los tramos de la RP Nº28 incluyeron un viaducto de 900 metros de largo en la zona del
+Bañado La Estrella y la obra de la RP N°9 Sección III financiada por la CAF implicó la construcción
+21
+   Construcción de 295km de RN y 786km de RP en la Región del Norte Grande entre 2009 y 2016- Corrientes, Formosa, Chaco
+Santiago de Estero, Salta, Tucumán, Catamarca, Jujuy y Misiones.
+22
+   Pavimentación de 76km de la RP Nº20 en entre Ríos entre los años 2009 y 2012
+23
+   Construcción de 144km de rutas provinciales en Formosa, Chaco y Misiones entre los años 2011 y 2014
+                                                               18
+"
+"en hormigón por lo que la obra demandó un movimiento superior de suelos y mayores costos. A
+su vez, y para esta misma ruta sección I y II, los costos superiores se explican por la inclusión en
+la obra del ensanche de un puente existente, la construcción de un canal de 7.400 metros de
+longitud, la construcción de dos rotondas, entre otros.
+b) Obras en otras Provincias: En este caso se observa un costo por kilómetro en Formosa
+levemente superior al promedio de otras provincias, debido principalmente a que Formosa no
+cuenta con yacimientos disponibles de cal, cemento y piedra en la zona, debiendo recurrir a otras
+provincias o a Paraguay para proveerse de esos materiales, con el consiguiente impacto en el
+flete.
+                     Cuadro 10: Costos comparativos de RP Nº26 – Prov. Formosa
+                                                                      Año                  Costo x km
+       Provincia         Programa                  Ruta                        Km
+                                                                      Fin                  (miles US$)
+       Formosa         2185/OC-AR           RP Nº26                   2013       89            1.101
+                                                                      Año                  Costo x km          Dif. Costo
+       Provincia         Programa                  Ruta                        Km
+                                                                      Fin                  (miles US$)        vs RP Nº 26
+                                            RP Nº9 - Sec I           2012      22.8            1.567                42%
+                                            RP Nº9 - Sec II          2012      23.4            1.140                 4%
+                       1851/OC-AR           RP Nº28 - Sec IA         2012        30              899               -18%
+       Formosa
+                                            RP Nº28 - Sec III        2013        16            1.208                10%
+                                            RP Nº28 - Sec Ib         2013        17            1.930                75%
+                       CAF 7352             RP Nº9 - Sec III         2014      47.5            1.792                63%
+       Otras           Programas 1851/OC-AR,                         2012-
+                                                                               477             1.009               -13%
+       Provincias      1914/OC-AR y CAF 7352                         2016
+Ruta Provincial N°23 – PdER: Para el caso de la Provincia de Entre Ríos, solo se ha analizado
+los costos en la obra de la RP Nº23, debido a que las obras en las RP Nº11 y a RP Nº16, tienen
+características muy diferentes.
+a) Otras obras en la Provincia de Entre Ríos: En este caso el costo por kilómetro de la ruta 23
+intervenida por el presente programa es superior a la obra presentada en la tabla 12 de la RP 20
+en la misma provincia. Su explicación se basa en que la obra de la RP Nº23 debió incorporar una
+modificación de obra que implicó un incremento del 11% del costo, producto de la necesidad de
+hacer ajustes como consecuencia de las características topográficas y de las inusuales
+precipitaciones pluviales de la zona, utilizando canteras en zonas altas, mayores volúmenes de
+terraplenes y del material extraído de yacimientos a profundidades mayores. Se observan
+también de acuerdo con el Informe sobre Los costos de obras viales de rehabilitación y mejora
+en Argentina24, mayores costos de construcción en dólares entre los años 2011 a 2014 en el país.
+b) Obras en otras Provincias: Al comparar con otras provincias se observa un costo por kilómetro
+en Entre Ríos significativamente menor al promedio.
+                    Cuadro 11: Costos comparativos de RP Nº23 – Prov. Entre Ríos
+24
+   Una problemática observada es la variación de precios interna en moneda local ($AR) del 20% al 25% anual en los últimos 4 años.
+Esta variación de precios no fue acompañada con la evolución de la cotización oficial del dólar estadounidense, lo que implicó que en
+el período del 2010 al 2012 haya habido una variación promedio del 11,2% anual en dólares estadounidenses, y del 7,6% en dólares
+en promedio en los últimos 4 años, incluyendo el año 2013. – Banco Mundial – Ing V. Raffo e Ing. E.Travaglanti- Febrero 2014.
+                                                                 19
+"
+"                                                                    Año            Costo x km
+       Provincia           Programa                  Ruta                    Km
+                                                                    Fin            (miles US$)
+       Entre Ríos       2185/OC-AR            RP Nº23               2014    32,7       883
+                                                                    Año            Costo x km     Dif. Costo vs
+       Provincia           Programa                  Ruta                    Km
+                                                                    Fin            (miles US$)      RP Nº 23
+                                              RP Nº20 - Las
+       Entre Ríos       1914/OC-AR                                 2012       77       707             -20%
+                                              Moscas
+       Otras            Programas 1851/OC-AR y CAF                 2012-
+                                                                             612      1.136             29%
+       Provincias       7352                                       2016
+Del análisis comparativo realizado, se puede concluir que los costos de ambas obras, se
+encuadran dentro de los parámetros fijados para las otras obras financiadas por proyectos
+similares, y las mismas se ejecutaron en un plazo satisfactorio25.
+Por otro lado, y de acuerdo con el siguiente gráfico, la evolución del nivel de desembolsos
+acumulados correspondientes al préstamo ha sido satisfactoria, y las extensiones en los plazos
+fueron consecuencia de restricciones presupuestaria del Gobierno Nacional a partir del 2014, y a
+partir del 2015, el cambio de Gobierno que implicó una nueva metodología para la administración
+de los recursos públicos.
+                 Figura 4: Evolución de los desembolsos acumulados del préstamo
+              100%                                          93%        97%       98%       100%
+                80%
+                60%                            47%
+                40%              10%
+                20%
+                 0%
+                            2010            2011           2012         2013        2014        2015
+Acciones de mejora de Seguridad Vial
+Si bien no se cuenta de estadísticas de siniestralidad por ruta intervenida, luego de las acciones
+realizadas de pavimentación en las RP 26 de PdFOR y RP 23 de PdER, y las tareas específicas
+de seguridad vial realizadas en la RP 16 de PdER, se puede demostrar la eficiencia del Programa
+con la mejora en la tasa de fatalidad en ambas provincias, establecidos en la Tabla 6.
+25
+   La única extensión de plazo se debió a razones climáticas.
+                                                                20
+"
+"                                                                                             Tabla 3: Costos del proyecto
+                                                                                                                                                                                                                                 Co mpo nent
+                                                                                                                                                                                                                                Revised Co st
+1 Componente 1. Ejecución de Proyectos de Ingeniería                                                                                                                                                                           $ 145.625.802,00
+O ut put s                                                                                            2 0 10             2 0 11             2 0 12             2 0 13            2 0 14            2 0 15        2 0 16              Co st
+1.1Ruta P ro vincial 26 - Fo rmo sa - Tramo RN N°81- RN N°86 - Seccio n I - P avimentada      P              $ 0,00 $ 16.250.000,00    $ 20.897.509,00       $ 798.820,00               $ 0,00                                 $ 37.946.329,00
+                                                                                            P (a)  $ 798.820,00     $ 15.252.760,00    $ 25.560.450,00       $ 798.820,00               $ 0,00                                 $ 37.946.329,00
+                                                                                              A              $ 0,00 $ 16.250.000,00    $ 20.897.509,00       $ 798.820,00               $ 0,00                                 $ 37.946.329,00
+1.2 Ruta P ro vincial 26 - Fo rmo sa - Tramo RN N°81- RN N°86 - Seccio n II - P avimentada    P              $ 0,00 $ 16.946.000,00    $ 21.483.933,00     $ 4.267.793,00               $ 0,00                                 $ 42.697.726,00
+                                                                                            P (a)  $ 632.580,00     $ 17.420.100,00    $ 23.459.670,00     $ 4.267.793,00               $ 0,00                                 $ 42.697.726,00
+                                                                                              A              $ 0,00 $ 16.946.000,00    $ 21.483.933,00     $ 4.267.793,00               $ 0,00                                 $ 42.697.726,00
+1.3 Ruta P ro vincial 26 - Fo rmo sa - Tramo RN N°81- RN N°86 - Seccio n III - P avimentada   P   $ 1.779.000,00    $ 10.772.000,00     $ 7.768.462,00       $ 200.000,00               $ 0,00                                 $ 20.519.462,00
+                                                                                            P (a)  $ 489.790,00     $ 10.029.470,00     $ 10.081.000,00      $ 200.000,00               $ 0,00                                 $ 20.519.462,00
+                                                                                              A   $ 1.779.000,00    $ 10.772.000,00     $ 7.768.462,00       $ 200.000,00               $ 0,00                                 $ 20.519.462,00
+1.4 Ruta P ro vincial 23 - Entre Río s - Tramo RN N°130 - RN N°18 - Subtramo I -              P              $ 0,00  $ 2.073.000,00    $ 10.778.622,00    $ 10.000.000,00               $ 0,00                                 $ 22.851.622,00
+P avimentada
+                                                                                            P (a)  $ 937.790,00     $ 12.737.170,00     $ 15.532.170,00   $ 12.040.000,00               $ 0,00                                 $ 22.851.622,00
+                                                                                              A              $ 0,00  $ 2.073.000,00    $ 10.778.622,00    $ 10.000.000,00               $ 0,00                                 $ 22.851.622,00
+1.5 Rehabilitació n y Ensanche Ruta P ro vincial Nº11, Tramo : A rro yo Do ll - Victo ria.    P                                                           $ 21.610.663,00                                                       $ 21.610.663,00
+P ro vinica de Entre Río s.
+                                                                                            P (a)                                                         $ 21.610.663,00                                                       $ 21.610.663,00
+                                                                                              A                                                           $ 21.610.663,00               $ 0,00                                  $ 21.610.663,00
+                                                                                                                                                                                                                                 Co mpo nent
+                                                                                                                                                                                                                                Revised Co st
+2 Componente 2. Fortalecimiento Institucional                                                                                                                                                                                              $ 0,00
+O ut put s                                                                                            2 0 10             2 0 11             2 0 12             2 0 13            2 0 14            2 0 15        2 0 16              Co st
+2.1Direccio nes P ro vinciales de Vialidad co n planes de fo rtalecimiento implementado s     P              $ 0,00             $ 0,00             $ 0,00                      $ 248.000,00                                      $ 248.000,00
+                                                                                            P (a)     $ 37.000,00       $ 219.000,00       $ 958.000,00               $ 0,00 $ 2.000.000,00    $ 2.000.000,00           $ 0,00       $ 0,00
+                                                                                              A              $ 0,00             $ 0,00             $ 0,00                               $ 0,00            $ 0,00        $ 0,00       $ 0,00
+                                                                                                                     21
+"
+"                                                                                                                                                                                                                                   Co mpo nent
+                                                                                                                                                                                                                                  Revised Co st
+3 Componente 3. Mantenimiento Vial y Control de Pesos                                                                                                                                                                                         $ 0,00
+O ut put s                                                                                          2 0 10              2 0 11             2 0 12             2 0 13            2 0 14            2 0 15            2 0 16              Co st
+3.1Esudio s de diagnó stico de mantenimiento y co ntro l de peso s elabo rado s             P              $ 0,00                                                           $ 2.322.000,00                                        $ 2.322.000,00
+                                                                                          P (a)            $ 0,00              $ 0,00             $ 0,00             $ 0,00 $ 2.700.000,00    $ 2.700.000,00               $ 0,00      $ 0,00
+                                                                                            A              $ 0,00                                                                      $ 0,00            $ 0,00            $ 0,00      $ 0,00
+                                                                                                                                                                                                                                   Co mpo nent
+                                                                                                                                                                                                                                  Revised Co st
+4 Componente 4. Seguridad Vial                                                                                                                                                                                                     $ 5.553.800,00
+O ut put s                                                                                          2 0 10              2 0 11             2 0 12             2 0 13            2 0 14            2 0 15            2 0 16              Co st
+4.1Diagnó stico s de seguridad vial realizado s. Obra de Seguridad Vial RP 16 Entre Río s   P       $ 53.800,00                $ 0,00                                         $ 826.000,00                                         $ 879.800,00
+P rimera Etapa.
+                                                                                          P (a)            $ 0,00     $ 360.000,00                $ 0,00                    $ 2.000.000,00    $ 2.000.000,00    $ 3.500.000,00    $ 5.553.800,00
+                                                                                            A       $ 53.800,00                $ 0,00                                                  $ 0,00 $ 2.000.000,00    $ 3.917.487,00    $ 5.971.287,00
+                                                                                                                                                                                                                                   Co mpo nent
+                                                                                                                                                                                                                                  Revised Co st
+5 Recursos de Preinversión, administración y auditoría
+O t he r C o s t                                                                                    2 0 10              2 0 11             2 0 12             2 0 13            2 0 14            2 0 15            2 0 16               C o st
+Reembo lso de FA P EP A R-L1044                                                             P              $ 0,00   $ 1.250.000,00                                                                                                     $ 1.250.000,00
+                                                                                          P (a) $ 1.250.000,00      $ 1.250.000,00                                   $ 0,00                                                            $ 1.250.000,00
+                                                                                            A              $ 0,00   $ 1.250.000,00                                                     $ 0,00                                          $ 1.250.000,00
+Estudio s de preinversió n y co nsulto rías de inspecció n de o bras                        P     $ 299.350,00      $ 1.530.000,00                                                                                                     $ 1.829.350,00
+                                                                                          P (a)                     $ 1.530.000,00                                                                                                     $ 1.829.350,00
+                                                                                            A     $ 299.350,00      $ 1.530.000,00                                                     $ 0,00                                          $ 1.829.350,00
+Unidad ejecuto ra en co ndicio nes para acceder al segundo tramo del CCLIP                  P              $ 0,00    $ 1.214.000,00      $ 940.000,00        $ 100.000,00      $ 171.000,00                                            $ 2.425.000,00
+                                                                                          P (a)   $ 592.000,00       $ 1.214.000,00      $ 946.000,00       $ 269.000,00       $ 171.000,00                                            $ 2.425.000,00
+                                                                                            A              $ 0,00    $ 1.214.000,00      $ 940.000,00        $ 100.000,00              $ 0,00                                          $ 2.254.000,00
+T o tal C o st                                                                                      2 0 10              2 0 11             2 0 12             2 0 13            2 0 14            2 0 15            2 0 16          T o tal C o st
+                                                                                            P    $ 2.132.150,00   $ 50.035.000,00     $ 61.868.526,00    $ 36.977.276,00    $ 3.567.000,00                                          $ 154.579.952,00
+                                                                                          P (a) $ 4.737.980,00    $ 60.012.500,00     $ 76.537.290,00    $ 39.186.276,00    $ 6.871.000,00    $ 6.700.000,00    $ 3.500.000,00      $ 156.683.952,00
+                                                                                            A    $ 2.132.150,00   $ 50.035.000,00     $ 61.868.526,00    $ 36.977.276,00                      $ 2.000.000,00    $ 3.917.487,00      $ 156.930.439,00
+Nota: El producto 1.5 corresponde a la RP 11 que no fue contemplado en el diseño original, sino que fue una obra incorporada en 2013 a pedido
+del GoA como parte de los recursos de contrapartida local aportados por el Programa, en adición a los recursos previstos en el Contrato de
+Préstamo.
+                                                                                                                       22
+"
+"2.4 Sostenibilidad
+a. Aspectos generales de sostenibilidad
+Las obras viales ejecutadas representan aproximadamente el 95% de las inversiones del
+Programa, por ende, es importante concentrar el análisis en la capacidad de gestión técnica y
+financiera de las respectivas DPVs.
+En los últimos años, el Gobierno Nacional y los Provinciales, han logrado avances en el
+fortalecimiento de la gestión de las distintas unidades responsables de las redes viales, mediante
+inversiones en equipamiento y recursos humanos, y en el incremento de los recursos financieros,
+impactando positivamente sobre la mitigación de los riesgos relacionados con la sostenibilidad
+de los logros alcanzados. Sin embargo, aún persisten grandes limitaciones a la disponibilidad de
+recursos y de capacidades técnicas para lograr un eficiente mantenimiento de la red.
+El informe coordinado por el Banco, El sector vial argentino y las necesidades de fortalecimiento
+institucional26, hace un profundo análisis sobre las capacidades de las DPVs, y en uno de sus
+párrafos expresa lo siguiente: “Una estimación inicial indica que para mantener adecuadamente
+las redes viales se requieren aproximadamente cuadriplicar los fondos de coparticipación vial a
+las provincias, para sostener políticas de mantenimiento rutinario, en la hipótesis de rehabilitar la
+red vial cada 10 años con políticas de inversión periódicas de mantenimiento”.
+En este sentido, si bien el proceso de inversión en equipamiento de las DPVs y los mayores
+recursos asignados, han fortalecido los organismos, se requiere de un proceso más prolongado
+de mejora de ambos factores para alcanzar niveles estándares de mantenimiento de las obras.
+Considerando lo descripto anteriormente, es que se considera que se ha alcanzado un nivel
+parcialmente insatisfactorio respecto a los objetivos.
+DPV- Entre Ríos: En los últimos años, la DPV ha mostrado signos de fortalecimiento. Ha logrado
+mejoras presupuestarias, al incrementar sus ingresos corrientes de US$45.6 millones (2009) a
+US$109 millones (2018), con la siguiente composición: a) 55% provienen de fondos del tesoro de
+la provincia (que en el año 2018 ha presentado un presupuesto equilibrado), b) el 17%
+corresponden a impuesto nacional a los combustibles27 que se coparticipa entre las provincias,
+c) el 10% proviene del Fondo Federal Solidario28, d) el 8% de una tasa inmobiliaria rural y e) el
+18% tiene su origen en otros ingresos. Como se observa en la Tabla 14, entre el 2009 y el 2018
+se ha llevado a cabo un plan de inversiones, incrementando un 15% el total de rutas provinciales
+pavimentadas (de 1.676 Km a 1.928 Km), y mejorando el presupuesto destinado al mantenimiento
+de la red vial en un 35%.
+Si bien con recursos del Programa no se han financiado actividades de fortalecimiento, en el
+aspecto técnico, a partir de un diagnóstico de la DPV realizado bajo el Programa Multifase de
+Desarrollo de la Infraestructura de Apoyo a la Producción de Entre Ríos (AR-L1036), se
+desarrollaron capacitaciones al personal (mezcla asfáltica, cemento portland), y se implementó
+un Sistema de Gerenciamiento y Conservación de la Red Vial, con el cual se realizó un inventario
+de la red vial provincial, y se genera información sobre el estado de las rutas, el tipo de superficie,
+parámetros de deterioro, el TMDA, etc.
+DPV- Formosa: Según el informe de Evaluación de la capacidad institucional de la DVP29
+financiado por el programa, las principales debilidades eran las siguientes: a) falta de personal
+26
+   Elaborado por el Ing. Esteban Travaglianti y otros. Año 2016.
+27
+   El 6,25% para gastos corrientes, y el 4,34% para inversión. La alícuota de coparticipación la establece anualmente el Consejo Vial
+Federal.
+28
+   Se conforma con el 35% de los gravámenes a la exportación de soja.
+29
+   Consultor: Ing Bernardino A. Capra – enero 2014.
+                                                                 23
+"
+"capacitado, b) inexistencia de un sistema de control de cargas, de mediciones de tránsito rutinario
+y de un mapa de riesgo por accidente, c) falta de un laboratorio central que puede cumplir con
+los procesos de control de calidad de obras, y d) la necesidad de mejorar la gestión de la
+conservación por administración de la red vial mediante la implementación de un Sistema de
+Gerenciamiento de Conservación de Rutina. Frente a ese escenario, la DPV ha mostrado signos
+de reequipamiento de todos los departamentos (selladora de juntas y fisuras, prensa, y extractor
+de probeta) a través del programa, y con recursos de la provincia se financió la ampliación del
+laboratorio, la elaboración de Sistema Integrado de Planificación y Conservación de la Red Vial y
+se incorporaron equipos. Sin embargo, desde el 2015 a la fecha, se vio reducido el personal
+técnico en casi un 50%, contando actualmente con solo 24 profesionales, por tal motivo se adoptó
+como política la reingeniería de funciones. A su vez, en el año 2015 se construyó con fondos
+propios un Centro de Capacitación Vial, para el cursado de la Tecnicatura Superior en Obras
+Viales y el dictado de cursos30. En ese contexto y entre los años 2009 y 2016, la RVP pavimentada
+se ha incrementado sensiblemente (113 %) al pasar de 326 km a 693 km, y los ingresos corrientes
+se han incrementado de US$30,9 millones a US$52,3 millones, no así los gastos en conservación
+y mantenimiento.
+                                    Cuadro 12: Gasto de mantenimiento por KM
+                                                                         2009                   2018           Variación
+                                                                                          Formosa
+           Gastos de conservación y mantenimiento                  US$19.865.092 US$16.250.304                     -18%
+           Km RVP Pavimentada                                             326                    693              113%
+           Gasto por Km                                               US$60.936             US$23.384              -62%
+                                                                                         Entre Rios
+           Gastos de conservación y mantenimiento                   US$8.856.656          US$11.919.796             35%
+           Km RVP Pavimentada                                            1.676                  1.928               15%
+           Gasto por Km                                                US$5.284              US$6.182               17%
+                    Fuente: DPV y Consejo Vial Federal
+Como se ha expresado, las DPVs cuentan con debilidad técnicas y presupuestos insuficientes
+para afrontar los desafíos, y requieren de financiamiento como el del Programa para lograr una
+continuidad en los objetivos. En línea con lo expresado, en julio del 2019 se aprobó el Programa
+Federal de Infraestructura Regional de Transporte (AR-L1307) por US$300 Millones, que
+contribuirá a la sostenibilidad de las acciones ya ejecutadas, mediante nuevas obras de ingeniería
+en rutas provinciales, estudios de preinversión, capacitaciones focalizadas en temas de diseño
+de infraestructura vial sostenible, gestión de la conservación vial, diseño y gestión de contratos
+de obra, incorporación de criterios de seguridad vial en diseño de carreteras, etc.
+La siguiente tabla sintetiza aspectos críticos de carácter general sobre de la sostenibilidad futura
+del Programa, asociado a las obras de infraestructura ejecutada, y a la continuidad de las
+acciones de fortalecimiento de las capacidades de las DPVs relacionadas con las obras, y la
+posibilidad de ser una contraparte eficiente en la ejecución de futuros programas, como el
+descripto precedentemente.
+30
+   Auxiliar en Topografía, Auxiliar Laboratorista Vial, Inspección de Obras, Auxiliar en Seguridad e Higiene en el Trabajo, Mecánico
+Auxiliar en Vehículos Pesados, Mecanizado Avanzado de tornería, Soldadura y herrería Básica y Soldadura Especializada.
+                                                                   24
+"
+"                                Cuadro 13: Análisis de la Sostenibilidad del Programa
+                                                                               Logros que contribuirán a la
+            Riesgo                Factores de probabilidad       Prob. Impacto sostenibilidad de los resultados del
+                                                                               Programa
+Riesgos asociados a la infraestructura
+Las inversiones realizadas Paralización en el proceso                          El análisis de alternativas de regímenes
+mejoran la eficiencia de los de consolidación de las Medio             Medio   de mantenimiento de rutas, con la
+beneficiarios,             pero finanzas de las DPVs.                          participación del sector privado.
+requieren      de     recursos Falta de previsión sobre los
+                                                                               Elaboración     de   Planes    Operativos
+presupuestarios para su costos de operación y Medio                    Medio
+                                                                               Anuales.
+mantenimiento                    mantenimiento.
+                                                                               Logros que contribuirán a la
+            Riesgo               Factores de probabilidad       Prob.  Impacto sostenibilidad de los resultados del
+                                                                               Programa
+Riesgos asociados a la infraestructura
+La ausencia de un plan                                                         Generar el desarrollo de capacidades
+estratégico      sectorial     a Dificultad de coordinación                    institucionales, capaces de fomentar
+mediano         plazo       con entre       los     diferentes                 políticas de planificación eficientes,
+planificación                 de interlocutores. que afecta Medio      Medio   asignación de recursos, transparencia,
+inversiones,                     tanto a las obras viales                      responsabilidad social y mejores
+consensuado entre las como a su mantenimiento                                  mecanismos de coordinación entre los
+distintas jurisdicciones.                                                      niveles provinciales y nacionales.
+Riesgos asociados a la capacidad de gestión de las DPV
+                                 Discontinuidad en la política                 Elaboración de los diagnósticos y planes
+Mantener las capacidades de fortalecimiento de las                             de acción de las DPVs. Asimismo, se
+técnicas y fortalecer los capacidades,                     por Medio   Medio   encuentran       en    ejecución    otros
+equipos en las DPVs              restricciones                                 programas con el objetivo de fortalecer
+                                 presupuestarias.                              los recursos humanos y tecnológicos.
+Riesgos asociados a la capacidad de gestión de Programas
+Rotación del personal de los
+equipos        técnicos        y
+administrativos              del Pérdida de profesionales
+                                                                               Selección de personal clave           con
+Programa                         especializados en áreas Alto          Bajo
+                                                                               reconocidos antecedentes.
+Injerencia      política      en claves
+recursos humanos de las
+Unidades Ejecutoras.
+                                 Desconocimiento            de
+                                                                               Plan y talleres de capacitaciones –
+                                 normativas del Banco por
+                                                                Medio  Medio   Continuidad       de     personal     con
+                                 parte de personal sin
+                                                                               experiencia en procesos del Banco.
+                                 experiencia.
+Retrasos          en         las
+                                                                               Analizar la existencia de proveedores
+adquisiciones                  o
+                                 Restricciones en la oferta                    alternativos de insumos críticos,
+imposibilidad de hacerlas.
+                                 de productos producto de                      repuestos y materiales. La eficiencia
+                                                                Medio  Medio
+                                 las          especificaciones                 logística debería permitir minimizar
+                                 técnicas requeridas.                          eventuales demoras en la ejecución de
+                                                                               las obras.
+                                                                               Continuidad en las políticas de los
+Disminución del nivel de Cambios de autoridades en                             gobiernos nacionales y provinciales, en
+compromiso del Prestatario los           Gobiernos      o    el Alto   Bajo    el mejoramiento de la red vial.
+y el Ejecutor.                   Ministerio.                                   Seguimiento a la ejecución y adecuada
+                                                                               fundamentación de los objetivos
+                                                               25
+"
+"b. Salvaguardas ambientales y sociales
+El Programa se enmarca en el Reglamento Operativo para la gestión socio ambiental (ROA) que
+forma parte de los documentos de la Línea CCLIP, que categoriza los proyectos según su riesgo
+socio ambiental, y define el alcance de los estudios y planes de manejo necesarios. En base al
+mismo, el proyecto fue calificado como categoría B, ya que no presentaba riesgos especiales ni
+requería de reasentamiento de personas y/o construcciones.
+El Estudio de Impacto Ambiental de la RP Nº26 comprendió una Audiencia Pública, de acuerdo
+con la regulación vigente. La misma fue realizada en forma previa al otorgamiento de la licencia
+ambiental expedida por la autoridad ambiental provincial.
+Asimismo, se realizaron auditorías ambientales finales de las RP Nº23 y Nº26, verificando el
+adecuado manejo ambiental y la observación de las obligaciones ambientales establecidas en el
+Estudio de Impacto Ambiental, así como la correcta aplicación y eficacia de las Medidas de
+Mitigación y Programas Ambientales propuestos en el Plan de Manejo Socio Ambiental.
+A su vez, de dichos informes de auditoría se resalta: a) el cumplimiento a la normativa legal
+vigente en cada jurisdicción, b) el adecuado control de la contaminación ambiental, especialmente
+del agua, aire y suelo, c) la separación de los residuos peligrosos de los sólidos urbanos, d) la
+implementación de medidas preventivas y correctivas, dirigidas a evitar la afectación de la fauna
+silvestre, como también la reforestará con especies nativas, y d) la ejecución de algunas medidas
+correctivas para la remediación del pasivo ambiental relevado en la RP Nº23 al observar
+presencia una mínima cantidad de residuos sólidos31 asociados a la etapa constructiva del
+proyecto.
+Para concluir la calificación general de los criterios centrales se puede agregar que el Programa
+abarcó plenamente las principales demandas del sector, y los lineamientos estratégicos del
+Banco y del País, alcanzando un alto grado de ejecución de las metas en los productos y el
+consiguiente impacto positivo observado en los respectivos indicadores por lo que se concluye
+que el Programa ha alcanzado un nivel Parcialmente Exitoso.
+III. CRITERIOS NO CENTRALES
+3.1 Desempeño del Banco
+El Organismo Ejecutor indicó una clasificación “satisfactoria’’ al desempeño del Banco durante el
+diseño y ejecución del Programa, aportando asistencia y soluciones técnicas óptimas, que
+ayudaron a la mejor toma de decisiones durante la ejecución y desarrollo del programa.
+El diseño de la operación se basó en la experiencia de la división de Transporte del Banco, de
+los especialistas sectoriales y del equipo fiduciario y operativo de la representación de República
+Argentina. El equipo del Banco coordinó estrechamente con la UCPyPFE el estado de ejecución
+del programa, lo que permitió la utilización de la totalidad de los fondos, y un alto cumplimiento
+de los productos programados.
+El cronograma de ejecución fue afectado por los cambios de autoridades a nivel nacional y
+provincial, lo que implicó un esfuerzo adicional del equipo del Banco para el seguimiento del
+Programa, y para el control del cumplimiento de las políticas de adquisiciones y el mecanismo de
+desembolsos, así como las posibles contingencias.
+31
+   Vainas de cable, de varillas de hierro, trozos de cemento y madera, residuos de postes y caños de hormigón y caños de chapa de
+hierro.
+                                                                 26
+"
+"    Como se ha descripto en el informe, se ha alcanzado un significativo nivel de ejecución de los
+    productos, sin embargo, no se ha logrado una medición, dentro de los plazos acordados, de varios
+    de sus indicadores de resultados.
+    Prueba del desempeño satisfactorio, es que el Banco es considerado por las autoridades
+    nacionales y provinciales, como un factor esencial para la continuidad en el desarrollo del sector.
+    3.2 Desempeño del Prestatario
+    La ejecución del 95% de los costos directos del Programa, fue realizada bajo la estructura de la
+    UCPyPFE, en un plazo acorde a lo planeado. Las restricciones presupuestarias, y luego, el
+    cambio de gobierno en el año 2015 dilató el proceso cierre del Programa. Este cambio significó
+    una modificación en la estructura responsable de la administración, la cual recayó en la Dirección
+    Nacional de Vialidad (DNV).
+    Se observa que la ejecución de programas a través de una Unidad Central junto con la
+    participación de entidades provinciales demanda una mayor coordinación a los efectos de cumplir
+    con los requisitos fiduciarios y normativos del Banco. Dada la responsabilidad primaria de la
+    Unidad Central en proveer la información requerida por el Banco, y en muchos casos, al ser las
+    entidades provinciales las generadoras de dicha información, es necesario una mayor
+    comunicación entre ambas partes, a los efectos de comprender los objetivos y responsabilidades
+    que debe cumplimentarse. Se ha observado, un desconocimiento de las DPVs respecto a los
+    objetivos de la Matriz de Resultados, entendiendo que los cambios de autoridades nacionales y
+    provinciales han contribuido en el déficit de comunicación.
+    IV. Hallazgos y recomendaciones
+    4.1 Dimensiones 1 a 5
+    A continuación, se presenta el cuadro resumen de los principales hallazgos y recomendaciones
+    obtenidos como parte de la ejecución del Programa:
+                                    Tabla 4: Hallazgos y recomendaciones
+                      Hallazgos                                          Recomendaciones
+Dimensión 1: Técnica-sectorial
+                                                    Recomendación #1: En el marco del programa, se ejecutaron
+Hallazgo #1: La pavimentación de rutas en zonas     medidas parciales relacionadas con la seguridad vial
+rurales representa cambios significativos en el     (construcción de obras de protección, iluminación y
+perfil del tránsito vehicular. La evidencia muestra señalización) a fin de morigerar el riesgo vinculado a
+que un alto porcentaje de los siniestros en zonas   siniestros. Se recomienda que este tipo de operaciones
+rurales comprende a niños con bajo nivel            incluyan en su diseño actividades de educación vial en las
+educativo.                                          comunidades rurales beneficiarias, mediante la ejecución de
+                                                    un plan relacionado con el nuevo entorno.
+Hallazgo #2: Los costos de mantenimiento de las
+                                                    Recomendación #2: Se sugiere incorporar en los diseños
+rutas pavimentadas se reducen significativamente
+                                                    algún mecanismo que facilite la gestión de recursos
+en relación con la situación sin proyecto; sin
+                                                    financieros para el mantenimiento de las inversiones. Un
+embargo, los presupuestos asignados distan de
+                                                    mecanismo podría ser la implementación de un tablero de
+cubrir los estándares requeridos, producto de la
+                                                    control de indicadores de monitoreo que permita planificar las
+necesidad de destinar fondos a cubrir las fuertes
+                                                    inversiones y el mantenimiento de rutina.
+demandas de ampliación de la RVP pavimentada.
+                                                        27
+"
+"Hallazgo #3: Las inversiones previstas para el
+                                                    Recomendación #3: Para futuras operaciones se debería
+fortalecimiento técnico de las DPV no se realizaron
+                                                    verificar el grado de cumplimiento de las inversiones blandas
+acorde con lo planeado, ya que para este tipo de
+                                                    en paralelo a las obras de forma de poder garantizar junto con
+Programas con inversiones tan grandes en
+                                                    la capacidad institucional del personal, el correcto avance de
+infraestructura resulta en ocasiones difícil las
+                                                    las obras y mantenimiento futuro.
+inversiones “soft”.
+Dimensión 2: Organizativa y administrativa
+Hallazgo #5: Las DPVs tiene una participación
+secundaria y desconocimiento sobre los              Recomendación #5: Capacitar a las DPVs en la estimación de
+mecanismos de seguimiento de los indicadores de     los impactos de las obras, y establecer en la metodología de
+la Matriz de Resultados. Esta situación diluye su
+responsabilidad final en la medición de los         seguimiento y evaluación, su responsabilidad funcional.
+indicadores.
+Hallazgo #6: La ejecución simultanea de un
+conjunto de Programas con objetivos similares,
+todos ellos con la participación de varias          Recomendación #6: Analizar la creación de un área específica
+organizaciones (Vialidad Nacional y Vialidades      en la UE, responsable del seguimiento y monitoreo de los
+Provinciales), implicó un esquema dinámico de       indicadores de la totalidad de los programas.
+reasignación de obras entre los programas, con los
+consiguientes efectos en la Matriz de Resultados.
+Dimensión 3: Procesos y actores públicos
+Hallazgo #7: El cambio en las autoridades
+nacionales     y    provinciales,  significó    una
+reestructuración del personal a cargo de las        Recomendación #7: Mantener registros permanentes de las
+Unidades intervinientes, y la desvinculación del    acciones realizadas para prevenir la pérdida de información a
+personal técnico responsable del seguimiento de     causa de rotaciones de personal.
+las obras, lo que ha impactado en el normal
+desenvolvimiento.
+                                                        28
+"
+"ANEXO 1 – Matriz de Resultados del POD
+                                      En aprobación           En elegibilidad + 60 días        Al terminar el proyecto (PCR)
+           Indicadores                                                                                                                  Comentarios
+                                                              Unidad                        Unidad
+                               Unidad de    Línea    Meta                 Línea    Meta               Línea de   Meta      Actual
+                                                                de                            de
+                                 Medida    de Base     (P)              de Base     (P)                 Base      (P)       (A)
+                                                              Medida                        Medida
+Indicador # 1: Reducción promedio de costos económicos de operación vehicular en los tramos mejorados y pavimentados por el Programa
+Indicador # 1.1 RP 26. PdFOR       %          0        25       %           0        25       %           0       25         22   Estimación mediante el
+Indicador # 1.2: RP 26. PdCOR      %          0        30       %           0        30        -          -        -          -   modelo HDM4
+Indicador # 2: Incremento del índice de accesibilidad de vías pavimentadas en las provincias intervenidas por el programa
+Indicador # 2.1: IA RP 26.
+                                   %          0       >30       %           0       >30       %           0                 113
+PdFOR                                                                                                                             km/1000 Km2.
+Indicador # 2.2: IA RP 26.                                                                                         -              Informe de la DPV
+                                   %          0       >0,5      %           0      >0,5        -          -                   -
+PdCOR
+Indicador # 3: Reducción de días de no transitabilidad (vías cerradas al tránsito) o con restricciones severas a la circulación
+Indicador # 3.1 Días de no
+                                días/año     150        0    días/año      150        0    días/año      150       0          0   Informe de la DPV
+transitabilidad RP 26. PdFOR
+                                                                            29
+"
+"    ANEXO 2 – Presupuesto vs Ejecutado
+                                    Presupuesto según Contrato                Ejecutado
+         Componentes
+                                   BID        Local        Total      BID        Local      Total
+Ejecución proyectos ingeniería 108.091.000 29.130.000 137.221.000 109.902.870 50.740.664 160.643.533
+Fortalecimiento institucional   2.000.000       0       2.000.000     173.047          0     173.047
+Mantenimiento vial y control    2.191.000    509.000    2.700.000           0          0           0
+Seguridad vial                  1.639.000    361.000    2.000.000   5.971.900    789.980   6.761.880
+Recursos de pre-inversión       4.829.000       0       4.829.000   2.434.839      6.819   2.441.657
+Reembolso de FAPEP              1.100.000       0       1.100.000   1.135.150          0   1.135.150
+Auditorías financieras y
+ambiental                        150.000        0        150.000      373.511     58.975     432.486
+              Total            120.000.000 30.000.000 150.000.000 119.991.315 51.596.437 171.587.753
+                                                   30
+"
+"ANEXO 3 – Matriz de Producto
+                                                      Valor de        Año de
+                                     Unidad de                                   Metas y alcance     %
+              Producto                                Línea de       línea de                               Medios de verificación
+                                      Medida                                          real       Alcanzado
+                                                        base            base
+    Componente 1. Ejecución de Proyectos de Ingeniería
+    RP 26 - Formosa - Tramo                                                    P            43
+                                                                                                           Información de Vialidad
+    RN N°81 - RN N°86 -                  km               0             2009   P(a)         43      100
+                                                                                                           Nacional
+    Sección I - Pavimentada                                                    A            43
+    RP 26 - Formosa - Tramo                                                    P            19
+                                                                                                           Información de Vialidad
+    RN N°81 - RN N°86 -                  km               0             2009   P(a)         19      100
+                                                                                                           Nacional
+    Sección II - Pavimentada                                                   A            19
+    RP 26 - Formosa - Tramo                                                    P            27
+                                                                                                           Información de Vialidad
+    RN N°81 - RN N°86 -                  km               0             2009   P(a)         27      100
+                                                                                                           Nacional
+    Sección III - Pavimentada                                                  A            27
+    RP 23 - Entre Ríos -                                                       P             0
+    Tramo RN N°130 - RN                                                        P(a)        32.7            Información de Vialidad
+                                         km               0             2009                        100
+    N°18 - Subtramo I -                                                                                    Nacional
+    Pavimentada                                                                A           32.7
+    Rehabilitación y Ensanche                                                  P             0
+                                                                               P(a)        39.6            Información de Vialidad
+    RP 11 - Entre Rios - Tramo           km               0             2009                        100
+                                                                                                           Nacional
+    Arroyo Doll - Victoria                                                     A           39.6
+    Componente 2. Fortalecimiento Institucional
+    DPV con planes de                                                          P             1
+                                                                                                           Información de Vialidad
+    fortalecimiento                    DPVs               0             2009   P(a)          1      100
+                                                                                                           Nacional
+    implementados                                                              A             1
+    Componente 3. Mantenimiento Vial y Control de Pesos
+    Estudios de diagnóstico de                                                 P             1
+                                                                               P(a)          1             Información de Vialidad
+    mantenimiento y control de        Estudios            0             2009                         0
+                                                                                                           Nacional
+    pesos elaborados                                                           A             0
+    Componente 4. Seguridad Vial
+    Diagnósticos de seguridad                                                    P           1
+    vial realizados. Obra de                                                                               Información de Vialidad
+                                        Obra              0             2009    P(a)         1      100
+    Seguridad Vial RP 16 -                                                                                 Nacional
+    Entre Ríos.                                                                  A           1
+     Donde: P = Planificado; P (a) = Objetivo anual revisado; A = real.
+                                                                            31
+"
+"ANEXO 4 – Información de las obras ejecutadas
+                        Obra Ruta Provincial Nº 23 -Sección I: RN. Nº130- Aº Barú)-
+  Intervención
+                        Provincia de Entre Ríos
+                        La ruta se encuentra extendida a lo largo de los Departamentos de
+                        Colón y San Salvador.El perfil agro-productivo es agrícola
+                        ganadero. Los principales productos que impulsan la región son los
+  Área de influencia:   citrus, forestales, arroz, arándanos, ganadería bovina y avicultura. Y
+                        en los últimos años el crecimiento de la soja y el maíz.
+                        Seguidamente, se detalla la evolución de algunos productos, entre
+                        los años 2009 y 2016, en el área de influencia.
+                                Detalle acciones del Programa
+                        Inicio:         Finalización           Plazo de Obra (en meses)
+                        12/11/2011      30/4/2014            Inicial              Final
+                                                               24                  32
+  Obra efectuada:       La pavimentación de toda la ruta se planteó en dos tramos. El
+                        primero de ellos, el que abarca este programa, entre Villa Elisa y
+                        Arroyo Barú (32.5km), y el segundo tramo, entre Arroyo Barú y
+                        Jubileo (24.4 KM). La traza de la ruta consistía en un terraplén de
+                        suelo natural con una calzada de ripio de regular transitabilidad. La
+                        obra comprendió la pavimentación con una calzada de 7.30 de
+                        ancho, banquinas de 3mts, base calcárea y carpeta asfáltica,
+                        movimiento de suelo, ejecución de alcantarillas, el traslado de
+                        alambrados y tranqueras, corrimiento de postes de electrificación
+                        rural, dársenas, la señalización e iluminación de todas las
+                        intersecciones, y los accesos a las localidades de La Clarita (448
+                        habitantes) y Arroyo Barú (509 habitantes). Se incorporó una
+                        variante de trazado a los efectos de evitar el paso por zonas
+                        urbanizadas en las localidades de La Clarita y Aº Barú.
+                        Como consecuencia de precipitaciones pluviales superiores a los
+                        históricos, falta de provision de cemento asfaltico y luego de gas oil
+  Observación:          generando periodos de inactividad de la planta asfáltica y la
+                        consiguiente quiebre de otras actividades colaterales, se solicito una
+                        extensiòn del plazo
+  Empresa Constructora  Dos Arroyos S.A
+  Costo total           USD 30.042.555
+  Modificaciòn de obra  11%                            Redeterminaciòn 59%
+                                        Situación plano técnico
+                        La construcción de la obra asegurará la transitabilidad permanente
+                        en la zona, lo cual facilitara la comunicación con el resto de la
+  Impacto del Proyecto: provincia y del país, por lo tanto las relaciones sociales y
+                        económicas se verán favorecidas a causa de la continuidad de las
+                        mismas.-
+                                                32
+"
+"                      Obra Ruta Provincial Nº 26- Tramo RN N°81 - RN N°86 -
+Intervención
+                      Provincia de Formosa
+                      La obra, ubicada en la zona centro de la provincia de Formosa, en
+                      el Departamento Patiño,.La producción ganadera es el recurso
+                      más genuino e inmediato con que cuenta gran parte de la
+                      geografía provincial, y el rodeo de ganado bubalino se concentra
+Área de influencia:
+                      en un 86% en los departamentos de Patinó, Pirané y Formosa.
+                      Asimismo, es una zona productora de pomelos, algodón, y el
+                      maíz. Patiño y Pirané, junto a Bermejo, son los departamentos de
+                      mayor producción forestal primaria.
+                            Detalle acciones del Programa
+                      Inicio:        Finalización          Plazo de Obra (en meses)
+                      25/1/2011      25/1/2013             Inicial              Final
+                                                             24                  24
+Obra efectuada:       Pavemientaciòn de 89 km. Se realizaron movimiento de suelos,
+                      ejecución de alcantarillas, base estabilizada, carpeta asfáltica con
+                      un ancho de calzada de 7.30 mts, dársenas y refugios para
+                      pasajeros, barandas de defensa y tareas de seguridad vial con la
+                      señalización horizontal y vertical. Incluyó la construcción de 5
+                      puentes de hormigón armado y readecuación hidráulica de puentes
+                      y alcantarillas.
+Observación:
+Empresa Constructora  Industrial y Constructora S.A y Rutas del Litoral SA
+Costo total           USD 107.598.696
+Modificaciòn de obra  24% del costo total          Redeterminaciòn 31% del costo total
+                                     Situación plano técnico
+                      La obra beneficia en forma directa a más de 50.000 habitantes
+                      permitiendo el transito permanente a través de la zona afectada
+                      por el Bañado La Estrella; y el acceso a la frontera Argentina con
+Impacto del Proyecto: Paraguay. Asimismo, su intersección con la RNº 81 permite
+                      incorporar su zona productiva de influencia, al corredor bioceánico,
+                      desde los puertos del Pacifico (Iquique) Chile hacia los del
+                      Atlántico (San Pablo) Brasil.
+                                            33
+"
+"ANEXO 5 – Costo de construcción por km comparativo
+                                                               Costo
+                                                   Año                Costo x km  MOD  RED
+Programa       Provincia             Ruta                Km    (Miles
+                                                    Fin               (miles US$)  (1)  (2)
+                                                                US$)
+                            RP Nº26 - Sec I        2013   43   36.745     855     25%  31%
+                            RP Nº26 - Sec II       2013   19   41.346    2.176    27%  29%
+              Formosa
+2185/OC-                    RP Nº26 - Sec III      2013   27   19.869     736     20%  30%
+   AR                       Total RP Nº26                 89   97.961    1.101    24%  31%
+              Entre Ríos    RP Nº23 - Sec I        2014  32.7  28.874     883     11%  59%
+                            Total Programa              121.7 126.834    1.042    21%  37%
+                            RP Nº9 - Sub Sec I     2012  22.8  35.726    1.567    20%  27%
+                            RP Nº9 - Sub Sec II    2012  23.4  26.684    1.140    20%  21%
+                            RP Nº28 - Sec I A      2012   30   26.961     899     15%  17%
+              Formosa
+                            RP Nº28 - Sec III      2013   16   19.328    1.208     8%  16%
+                            RP Nº28 - Sec I b      2013   17   32.806    1.930    20%  23%
+1851/OC-                    Total Formosa               109.2 141.505    1.296    17%  21%
+   AR         Chaco         RP Nº6 Empalme RN95    2012   57   27.339     480     12%  18%
+              Misiones      RP Nº221 - Pto Alicia  2016   54   92.638    1.716     1%  50%
+              S. del        RP Nº6 Tramo Frias
+                                                   2014  102   69.196     678     18%  32%
+              Estero        Loreto
+                            RP Nº307 - Acherral -
+              Tucumán                              2015   57   74.659    1.310    87%  52%
+                            Tafi
+                            Total otras provincias       270  263.832     977
+              Entre Ríos    RP Nº20 - Tramo RP 39  2012   47   24.549     522      8%  25%
+1914/OC-
+              Entre Ríos    RP Nº20 - Las Moscas   2012   30   29.903     997     23%  32%
+   AR
+                            Total Programa                77   54.452     707     16%  29%
+              Formosa       RP Nº9 - Sec III Sub I 2014  47.5  85.123    1.792    30%  29%
+              Chaco         RP Nº9 - Sec I y II    2013  60.5  85.407    1.412    17%   3%
+CAF -7352
+              Misiones      RP Nº8 - Tramo I       2015  36.4  22.198     610
+                            Total Programa               144  192.728    1.338
+Fuente: Elaboración propia.
+                                                     34
+"
+"ANEXO 6 – Rutas Provinciales Pavimentadas
+                                        KM PAVIMENTADOS
+                PROVINCIA                                     Var.
+                                    2009         2016
+                                                          %    KM
+        BUENOS AIRES                10.491       10.657    2%        166
+        CATAMARCA                    1.328        1.226   -8%  -     102
+        CORDOBA                      4.627        5.016    8%        389
+        CORRIENTES                      776         905  17%         129
+        CHACO                           578       1.051  82%         473
+        CHUBUT                          463         744  61%         281
+        ENTRE RIOS                   1.676        1.928  15%         252
+        FORMOSA                         326         693 113%         367
+        JUJUY                           505         518    3%         13
+        LA PAMPA                     2.384        2.353   -1%  -      31
+        LA RIOJA                        669         669    0%          -
+        MENDOZA                      2.531        3.145  24%         614
+        MISIONES                     1.263        1.231   -3%  -      32
+        NEUQUEN                      1.005        1.008    0%          3
+        RIO NEGRO                       628         751  20%         123
+        SALTA                           709         908  28%         199
+        SAN JUAN                     1.095        1.095    0%          -
+        SAN LUIS                     3.369        3.389    1%         20
+        SANTA CRUZ                      997         696 -30%   -     301
+        SANTA FE                     3.502        3.788    8%        286
+        SGO. DEL ESTERO              1.990        2.520  27%         530
+        T. DEL FUEGO,
+                                      5            5     0%        -
+        ANTARTIDA e IAS
+        TUCUMAN                      1.104        1.118    1%         14
+        TOTAL                       42.021       45.414    8%      3.393
+       Fuente: Consejo Vial Federal
+                                          35
+"

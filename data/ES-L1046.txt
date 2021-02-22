@@ -1,0 +1,1279 @@
+"outlist[[i]]"
+"PERSONAL DEL BANCO
+  POSICIÓN                           DURANTE PCR                           DURANTE APROBACIÓN
+  VICEPRESIDENTE VPS                 SANTIAGO LEVY                         SANTIAGO LEVY
+  VICEPRESIDENTE VPC                 ALEXANDRE MEIRA DE ROSA               CRISTIANO CARUÑO
+  GERENTE PAÍS                       VERÓNICA ZAVALA                       GINA MONTIEL
+  GERENTE SECTOR                     AGUSTÍN AGUERRE                       ROBERTO VELLUTINI
+  JEFE DE DIVISIÓN                   SERGIO CAMPOS                         FEDERICO BASAÑES
+  REPRESENTANTE DE PAÍS              CARMIÑA MORENO                        MARIA CARMENZA MCLEIN
+  LÍDER DE EQUIPO DE PROYECTO        NELSON ESTRADA                        HUBERT QUILLE
+  LÍDER DE EQUIPO PCR                NELSON ESTRADA
+TIEMPO DE PERSONAL Y COSTOS
+  ETAPA DE CICLO DE PROYECTO         # DE SEMANAS DE PERSONAL              US$ (INCLUYENDO VIAJES Y COSTOS
+                                                                           DE CONSULTORES)
+  PREPARACIÓN                                        4                                  8,000
+  SUPERVISIÓN                                        2                                  4,000
+  TOTAL                                              6                                 12,000
+DESCRIPCIÓN DE LOS OBJETIVOS DE DESARROLLO DEL PROYECTO/PROGRAMA:
+El objetivo general del programa es mejorar las condiciones de vida de la población de El Salvador a
+través de la provisión de servicios adecuados de agua potable y saneamiento. Los objetivos específicos
+son: i) ampliar la cobertura de agua potable y saneamiento con sistemas sustentables, con énfasis en
+áreas rurales de pobreza extrema-alta; y ii). contribuir a la gestión sostenible del recurso hídrico como
+base de la sostenibilidad de los servicios de A&S; y iii) mejorar la eficiencia y sostenibilidad de los servi-
+cios de A&S proporcionados por la ANDA;
+                                                                                                               4
+"
+"                                                   I.       INTRODUCCIÓN
+La República de El Salvador con una extensión de 21.000 km2y una población de 5,74 millones de habitan-
+tes, tenía para 2008 la densidad poblacional más elevada de la región (273 hab/km2). A nivel socioeconó-
+mico, aproximadamente el 64% de la población habitaba en zonas urbanas y el 36% en zonas rurales. A
+nivel nacional, el 40% de los hogares se encontraba por debajo de la línea de pobreza, mientras que el
+12,4% se encontraba en situación de pobreza extrema1 de acuerdo con el Mapa de Pobreza2. Los niveles
+de pobreza eran más elevados en las zonas rurales, donde el 49% de la población se encontraba en esa
+condición, contra un 35,7% en las zonas urbanas.
+A pesar de los esfuerzos realizados durante primera década del siglo 21, El Salvador registraba una de las
+tasas de cobertura de los servicios de agua potable y saneamiento (A&S) más bajas de América Latina. En
+2010 el 70% de las viviendas del país eran abastecidas de agua a través de conexión domiciliaria (82% en
+el sector urbano y 44% en el sector rural)3. La cobertura de hogares con conexión domiciliaria de sanea-
+miento era de 39% a nivel nacional (57% en áreas urbanas y 1% en áreas rurales). A nivel nacional, el 44%
+de los hogares usaban letrinas (30% en el sector urbano y 77% en el rural). Con relación a la calidad del
+servicio, la provisión de agua era reconocida como discontinua. En las comunidades rurales y ciudades
+pequeñas el agua, aún la distribuida por red, presentaba problemas de contaminación, especialmente por
+coliformes.Respecto a la institucionalidad del sector, en el ámbito urbano la Administración Nacional de
+Acueductos y Alcantarillados (ANDA) es el mayor prestador del servicio a nivel nacional. La ANDA tiene las
+funciones de operador, regulador, evaluador del recurso hídrico subterráneo y realiza el cobro de los res-
+pectivos cargos de extracción. La ANDA, a la preparación de la operación y al inicio del programa, se en-
+contraba en situación crónica de déficit financiero, como resultado entre otros, de bajos índices de efi-
+ciencia operativa y comercial, y de tarifas por debajo del nivel de sostenibilidad. En 2009 los ingresos pro-
+pios de la ANDA cubrieron el 71% de sus costos de operación y mantenimiento (O&M). Además, se tenían
+altos niveles en el índice de agua no facturada (superior al 50%) y altos costos energéticos. Los sistemas
+de información técnicos y gerenciales eran inadecuados y obsoletos, en particular el sistema comercial.
+En las zonas rurales y pequeñas ciudades los principales prestadores de servicio son las municipalidades y
+las Juntas Comunitarias de Agua Potable y Saneamiento. Hasta 2015, se estimaba que existían un prome-
+dio de 800 juntas de agua en el país, sin embargo, como resultado del Censo elaborado por ANDA, se
+identificaron más de 2,300. El Fondo de Inversión Social para el Desarrollo Local (FISDL), era la principal
+institución encargada de fomentar y promover el desarrollo de los servicios de A&S en el sector rural,
+brindando financiamiento para mejorar el acceso a los servicios.
+A nivel nacional la protección de los recursos naturales, y en particular los recursos y cuencas hídricas, a
+la fecha sigue siendo responsabilidad del Ministerio de Medio Ambiente y Recursos Naturales (MARN). Le
+compete la emisión de normas técnicas básicas para el aprovechamiento sostenible de los recursos hídri-
+cos, incluyendo los requisitos de calidad de las aguas residuales, la dirección y elaboración de la política
+del recurso hídrico, y la evaluación de su ejecución, por lo que, en el marco del desarrollo del Programa,
+se encargó de ejecutar actividades relacionadas con el mejoramiento de fuentes y conservación de suelos
+en cuencas prioritarias.
+En este contexto, en 2010 se aprobó el Programa de Agua y Saneamiento, financiado a través de un prés-
+tamo del BID por US$20 millones y una donación no reembolsable por US$24 millones del Fondo Español
+de Cooperación para el Agua y Saneamiento en América Latina y el Caribe (FECASALC). El programa tenía
+1 ANDA: Programa de Agua Potable y Alcantarillado (1102/OC-ES) en fase final de ejecución.
+2 El Mapa de pobreza urbana y exclusión social, es un documento que constituye una herramienta para localizar geográficamente
+y dimensionar la pobreza en las zonas urbanas de El Salvador.
+3 FISDL: Programa de Desarrollo Local II (1352/OC-ES) concluido en el 2010.
+                                                                                                                            5
+"
+"como objetivo general, mejorar las condiciones de vida de la población de El Salvador a través de la pro-
+visión de servicios adecuados de agua potable y saneamiento. Los objetivos específicos eran: i) ampliar la
+cobertura de A&S con sistemas sustentables, con énfasis en áreas rurales de pobreza extrema alta; ii)
+mejorar la eficiencia y sostenibilidad de los servicios de A&S proporcionados por la ANDA; y iii) contribuir
+a la gestión sostenible del recurso hídrico como base de la sostenibilidad de los servicios de A&S. El pro-
+grama definió 3 componentes:
+     -   Componente 1: Proyectos rurales de agua potable y saneamiento Componente que financió el
+         diseño y los estudios técnicos de proyectos de agua y saneamiento, la ejecución de las obras de
+         infraestructura y su supervisión, y la capacitación y asistencia técnica a las comunidades, necesa-
+         rias para asegurar la sostenibilidad de los servicios. El financiamiento de los proyectos rurales de
+         agua y saneamiento se realizó siguiendo un ciclo de proyecto que incluyó su diseño, la realización
+         de las obras, su supervisión y la complementación con asistencia técnica y capacitación.
+     -   Componente 2: Mejoramiento de fuentes y conservación de suelos en cuencas prioritarias. Es-
+         tuvo dirigido al desarrollo de actividades vinculadas a la conservación de los recursos hídricos en
+         cuencas prioritarias, con el propósito de contribuir a garantizar la confiabilidad en cantidad y
+         calidad de la fuente de abastecimiento de los proyectos de agua potable. Este componente contó
+         con dos sub-componentes: (1) Manejo de cuencas y protección de áreas de recarga y (2) Forta-
+         lecimiento institucional del MARN.
+     -   Componente 3: Mejoramiento de la Gestión y Eficiencia Operativa de ANDA. Comprendió dos
+         sub-componentes: el primero, asociado a inversiones para contribuir a la mejora operativa de
+         ANDA, enfocadas principalmente, en generar una reducción en los índices de agua no facturada
+         (ANF) y promover la sostenibilidad financiera de la institución para mejorar la prestación de los
+         servicios de agua y saneamiento a la población, con intervenciones en áreas clave como la ope-
+         rativa, comercial, financiera y de gestión; y el segundo, vinculado al fortalecimiento de la Ge-
+         rencia de Atención a Sistemas y Comunidades Rurales, con el objeto de facilitar la sostenibilidad
+         de los sistemas rurales de agua y saneamiento por medio de asistencia técnica post-construc-
+         ción, con especial atención, a los ejecutados, en el marco del programa.
+                           II.     CRITERIOS CENTRALES. DESEMPEÑO DEL PROYECTO
+2.1      Relevancia
+La relevancia de este programa radica en la utilidad y beneficios que la población de sus zonas de influencia
+recibe como resultado de contar con sistemas de agua potable y saneamiento sostenibles y desarrollados
+de manera integral. El diseño del programa en cuestión fue pertinente considerando que los objetivos,
+resultados y productos respondieron en forma adecuada a la política del Gobierno de El Salvador (GOES),
+la situación social del país y a la estrategia de país del Banco, dado que su finalidad era mejorar las
+condiciones de vida de la población de El Salvador.
+                                                                                                            6
+"
+"     a. Alineación con las necesidades de desarrollo del país
+El programa se alinea con las necesidades de desarrollo en el país durante la aprobación del documento
+de préstamo. El gobierno de El Salvador (GOES), considerando que para el año 2010 en el área rural solo
+el 63.9% de los hogares contaban con acceso al servicio de agua por cañería, y de estos, únicamente el
+50.7%4 contaban con dicho servicio de manera directa, incorporó en el Plan Quinquenal de Desarrollo
+2010-2014 como uno de sus objetivos “ampliar la infraestructura económica y social, sobre todo en las
+zonas rurales del país”, definiendo como una de sus metas globales “aumentar la cobertura de agua po-
+table al 80% al final del período en los 100 municipios más pobres del país”. Es así como en este marco, el
+GOES solicitó al BID la formulación del programa de Agua y Saneamiento Rural.
+Para el 2017, en el área rural de acuerdo con la Encuesta de Hogares de Propósitos Múltiples, el 76.5% de
+los hogares contaban con acceso al servicio de agua por cañería y de estos el 65.4% presentaban tenencia
+de agua por cañería. En este sentido, el programa sigue siendo relevante y alineado con las ingentes ne-
+cesidades del país en materia de acceso a servicios de agua potable y saneamiento, especialmente en las
+zonas rurales del país.5
+El programa estableció, desde su diseño y de manera complementaria, un componente vinculado a accio-
+nes relacionadas con el mejoramiento de fuentes y conservación de suelos en microcuencas prioritarias
+con el fin de mitigar los impactos del cambio climático y promovió acciones dentro de la conformación de
+las Entidades Administradoras de los sistemas de agua potable, para la participación de las mujeres como
+miembros directivos de las mismas, incorporando intervenciones puntuales6.
+     b. Alineación estratégica
+El programa, además de estar alineado con las necesidades de desarrollo del país, durante su preparación
+aseguró su congruencia tanto con la estrategia del BID, como con la estrategia de la Cooperación Española
+en El Salvador, al contribuir a extender el acceso sostenible de agua potable y los servicios básicos de
+saneamiento, especialmente en zonas vulnerables y de menor cobertura. La formulación del programa
+originalmente se alineó con la estrategia del Banco en El Salvador (2005-2009) que tenía como objetivo
+central reducir la pobreza, y como objetivos estratégicos promover el crecimiento económico sostenible
+mediante el aumento de la competitividad, desarrollar el capital humano y mejorar las oportunidades para
+los más pobres. Bajo estos objetivos estratégicos se requería mejorar el acceso de los más pobres a los
+servicios básicos, incluyendo los de agua potable y saneamiento, y optimizar la calidad de éstos. El pro-
+grama también estuvo alineado con la Estrategia de País 2010-2014, que incluía al sector de A&S como
+una de las áreas prioritarias de actuación.
+Así mismo cabe señalar, que en el marco de la actualización a la estrategia institucional (UIS), el programa
+se alinea con el desafío de Inclusión social e igualdad ya que estaba orientado a favorecer a familias de la
+zona rural en municipios catalogados en pobreza extrema alta, además incorporaba los temas trasversales
+de esta actualización vinculados a (i) Igualdad y diversidad de género ya que fomentaba la participación
+de las mujeres en cargos directivos en las juntas administradoras de agua; (ii) Cambio climático y Sosteni-
+bilidad del medio ambiente promoviendo acciones de suelo y agua en cuencas prioritarias; y (iii) Capacidad
+4 Encuesta de Hogares de propósitos Múltiples, DIGESTYC, 2010.
+5
+  De acuerdo a la información disponible, el proyecto contribuyó con el 1.55 % de incremento en la cobertura de tenencia de agua
+potable por cañería a nivel rural en el país, incluyendo además para cada familia beneficiada, soluciones de saneamiento básico,
+capacitación en hábitos higiénicos y en organización comunitaria para la administración de sus propios sistemas. Vale señalar que
+de los $44 millones, del programa, a nivel de ejecución de proyectos de agua potable y saneamiento rural, se invirtieron $19.8
+millones.
+6 Plan Quinquenal 2010-1014, Política Ambiental, pág. 112, numerales 176 y 190; y Estrategia de intervención, pág. 63, numeral
+57.
+                                                                                                                                7
+"
+"Institucional y Estado de Derecho con las que se contribuyó a fortalecer las capacidades técnicas de las
+instrucciones involucradas con el programa.
+     c. Relevancia del diseño
+El objetivo del programa fue planteado como medida de atención al problema identificado y fue definido
+con claridad y orientado a los resultados esperados. Durante la construcción de la matriz de resultados se
+definió tres objetivos específicos y se les vincularon sus correspondientes indicadores (ver Tabla 1).
+Durante el diseño del programa se establecieron indicadores cuyas características son: específicos, medi-
+bles, alcanzables, realistas y que se pudieran planificar en el tiempo (SMART); lo anterior permitió poder
+ejecutar el programa de una manera más ordenada y monitorear sus avances de manera sistemática y
+estructurada. Por ejemplo, se planifico tener 6,264 hogares con acceso nuevo o mejorado a agua potable
+a lo largo de los cinco años de ejecución del programa y se estableció utilizando datos históricos institu-
+cionales.
+El programa, no cuenta con indicadores de impacto dado que, se requiere que se desarrollen evaluaciones
+durante varios años, aun ya finalizado el programa y, paralelamente se requiere, llevar registro de comu-
+nidades que no sean beneficiadas con este tipo de proyectos, que permita identificar claramente los efec-
+tos sobre las mismas, con y sin proyecto. Dadas las limitaciones tanto temporales como financieras, se
+optó por no incorporar los indicadores de impacto.
+En la Tabla 1 se presenta la Matriz de resultados y los cambios que sufrieron las metas de los resultados
+esperados a lo largo de la ejecución.
+Si bien a lo largo de la ejecución del programa, se mantuvo la cadena de resultados definida para el logro
+de los objetivos, se consideró necesario adicionar un indicador que permitiera reflejar el resultado rela-
+cionado con los “hogares cuyas aguas residuales son tratadas”, vinculado al objetivo de “Ampliar la cober-
+tura de agua y saneamiento en El Salvador a través de la implantación de sistemas sostenibles” esto se
+hizo con el fin de poder reflejar la infraestructura construida en el marco del componente I, para el manejo
+de aguas grises (trampas de grasa y sistemas de infiltración) y negras (fosas sépticas y sistemas de infiltra-
+ción) en los hogares beneficiados.
+En cuanto a la lógica vertical, se evidencia consistencia entre las actividades, productos y resultados espe-
+rados para el logro del objetivo general del Programa, que consistía en mejorar las condiciones de vida de
+la población de El Salvador, mediante la provisión de servicios adecuados de agua potable y saneamiento.
+Los productos que se incluyeron en los tres componentes tienen una relación de causalidad con el resul-
+tado esperado y con los indicadores de resultado planificados en la Matriz de Resultados conforme se
+explica a continuación y se ilustra en el grafico 1, que evidencia la consistencia entre las actividades, pro-
+ductos y resultados esperados:
+Los productos del Componente 1 Proyectos rurales de agua potable y saneamiento: Sistemas de agua
+potable construidos, rehabilitados y/o ampliados, soluciones individuales de saneamiento construidas y
+entidades administradoras operando tienen una relación de causalidad con los indicadores de Resultado
+1.1 Hogares con acceso nuevo o mejorado a agua potable, 1.2 Hogares con acceso a saneamiento básico
+nuevo o mejorado y 1.3 Hogares cuyas aguas residuales son tratadas. Los productos (causa) de este com-
+ponente constituyen un conjunto de intervenciones prioritarias para el mejoramiento de la introducción
+de agua y saneamiento rural, es de mencionar que el producto 3.6, del Componente 3, entes administra-
+dores de sistemas rurales de agua potable y saneamiento favorecidos con Asistencia Técnica y Capacita-
+ción por la Gerencia de Atención a sistemas y comunidades rurales, también incide directamente en los
+resultados 1.2 y 1.3. Con esta intervención se logró que las familias de la zona de intervención cuenten
+con la introducción de agua domiciliar acompañado de obras que ayudan al saneamiento con el manejo
+                                                                                                             8
+"
+"de aguas grises/negras. En este componente se modificó, principalmente, en lo relacionado con la magni-
+tud de cada proyecto, pasando de inversiones promedio de US$300,000, orientadas a beneficiar a comu-
+nidades de manera independiente, al desarrollo de proyectos integrales, con los que se buscaba beneficiar
+al mayor número de comunidades posible, con el objetivo de optimizar el uso del recurso hídrico, incre-
+mentar el número de hogares con A&S y garantizar un mayor sostenibilidad financiera en la operación y
+mantenimiento del proyecto, al hacer uso del principio de economía de escala y reducir las tarifas a pagar
+por los usuarios, facilitando con ello, el acceso a este vital servicio.
+Los productos del Componente 2: Mejoramiento de fuentes y conservación de suelos en cuencas priorita-
+rias, tienen una relación de causalidad con los indicadores del resultado 3 del Programa: “Área con obras
+y prácticas de conservación de suelo, infiltración de agua y con sistemas agrosilvopastoriles incorporadas”
+y “Beneficiarios de programa implementando buenas prácticas de manejo”, con el consecuente beneficio
+a la población de la zona. Las actividades ambientales realizadas con este componente fueron planificadas
+y ejecutadas con una participación de las familias rurales atendidas por el proyecto, lo que permitió un
+mayor empoderamiento y contribuyó para lograr un cambio de actitud de los productores hacia la con-
+servación de los recursos agua, suelo y vegetación.
+Para obtener los resultados y productos del componente, se implementó un sistema de asistencia técnica
+que inició con la formulación del plan de manejo de la región hidrográfica o microcuenca; el cual conto
+con el diagnostico rural rápido participativo, la zonificación agroclimática, la línea de base y la formulación
+de proyectos para promover la protección ambiental. Una vez finalizado el plan de manejo, inicio el pro-
+ceso de abordaje de las comunidades a través del proceso de promoción/socialización, organización de
+las comunidades, capacitación de los productores beneficiarios y las unidades ambientales.
+Los productos del Componente 3 Mejoramiento de la gestión y eficiencia operativa de la ANDA, aseguran
+la relación de causalidad con los siguientes resultados del Programa: “Índice de agua no facturada” e “Ín-
+dice de cobertura de costos de O&M con ingresos propios”. Con este componente se fortaleció a la insti-
+tución tanto en aspectos técnicos, administrativos e informáticos, con los que se ha mejorado principal-
+mente en la disposición de información real y oportuna para una mejor atención a los usuarios y se con-
+tribuyó a mejorar las finanzas institucionales.
+                                                                                                              9
+"
+"Gráfico 1: Lógica Vertical
+                           10
+"
+"                                             Tabla 1. Matriz de Resultados (aprobación, elegibilidad + 60 días y a final de proyecto) 7
+                                                     Aprobación                  60 días tras elegibilidad8             Final del proyecto                            Comentarios
+              Indicador                                      Línea
+                                            Unidad de                  EOP    Unidad de Línea                  Unidad de      Línea de
+                                                               de                                      EOP (P)                            EOP (A)
+                                              medida                    (P)    medida de base                    medida         base
+                                                             base
+Objetivo específico 1: Ampliar la cobertura de A&S con sistemas sustentables, con énfasis en áreas rurales de pobreza ex-trema alta
+Resultados
+                                                                                                                                                     Se hicieron pequeños ajustes a solicitud del
+1.1 Hogares con acceso nuevo o me-
+                                             Hogares            0     6,373    Hogares        0         6,264   Hogares           0        6,288     Coejecutor en base a proyectos identificados
+jorado a agua potable
+                                                                                                                                                     por ellos a esa altura del programa
+                                                                                                                                                     Se revisó y eliminó porque estos planes
+1.2 Número de sistemas con plan de
+                                                                                                                                                     debían formar parte de la fase de operación
+mantenimiento rutinario en ejecu-            Sistemas           0       85
+                                                                                                                                                     de operación y mantenimiento de cada uno
+ción
+                                                                                                                                                     de los sistemas construidos.
+                                                                                                                                                     Se revisó y eliminó posterior a la aprobación
+                                                                                                                                                     del programa, ya que estos costos debían ser
+                                                                                                                                                     considerados al momento de establecer las
+1.3 Número de sistemas nuevos o
+                                                                                                                                                     tarifas, las cuales debían garantizar la
+mejorados con ingresos superiores a
+                                             Sistemas           0       69                                                                           sostenibilidad financiera de los sistemas y ser
+los costos de administración, opera-
+                                                                                                                                                     ratificadas por las comunidades previo al
+ción y mantenimiento
+                                                                                                                                                     inicio del proyecto, por lo que todos los
+                                                                                                                                                     sistemas ejecutados cumplían con esta
+                                                                                                                                                     condición.
+1.4 Hogares con acceso a sanea-
+                                                                                                                Hogares           0        5,796
+miento básico nuevo o mejorado
+                                                                                                                                                     Este indicador se incorporó para reflejar las
+1.5 Hogares cuyas aguas residuales
+                                                                                                                Hogares           0        5,796     acciones del programa en el manejo de las
+son tratadas
+                                                                                                                                                     aguas residuales domesticas
+       7 En esta tabla solo se desarrollan los indicadores de resultado dado que el programa no cuenta con indicadores de impacto.
+       8 La elegibilidad del Programa se produjo en enero de 2012. En este sentido, la matriz de resultados utilizada como matriz a 60 días tras la elegibilidad es la correspondiente al
+       PMR del período enero-junio 2012.
+                                                                                                                                                                                        11
+"
+"                                                                                                                                   Este indicador se eliminó a solicitud del
+                                                                                                                                   Coejecutor porque lo hizo con otros recur-
+                                                                                                                                   sos. El FISDL cuenta con una Gerencia de Mo-
+1.6 El Fondo de Inversión Social para                                                                                              nitoreo y Evaluación, la cual, una vez se noti-
+el Desarrollo Local (FISDL) con sis-                                                                                               ficó al Banco quedo como responsable de la
+                                            Sistema          0         1       Sistema       0         1                           implementación de este sistema, con recur-
+tema de seguimiento, monitoreo e
+información mejorado                                                                                                               sos propios.
+Objetivo específico 2: Mejorar la eficiencia y sostenibilidad de los servicios de A&S proporcionados por la ANDA
+                                                                                                                                   El EOP original resulto de un cálculo esti-
+                                                                                Porcen-                                            mado dado que en su momento no se con-
+2.1 Índice de agua no facturada           Porcentaje        50.0      45.0                 44.5       39.5    Porcentaje 47.8 50.9
+                                                                                   taje                                            taba con equipo adecuado (macromedido-
+                                                                                                                                   res)
+2.2 Índice de cobertura de costos de                                            Porcen-                                            La línea base fue ajustada en función de la
+                                          Porcentaje        88.0      100.0                76.4       96.0    Porcentaje 76.4 97.6 obtención de información real ajustada.
+O&M con ingresos propios                                                           taje
+2.3 Gerencia de atención a sistemas                                                                                                Se revisó y reformulo como indicador de pro-
+rurales creada, fortalecida y en fun-       Gerencia          0         1                                                          ducto
+cionamiento.
+                                                                                                                                   Se revisó y elimino posterior a la aprobación
+                                                                                                                                   del programa, esto fue a razón de que era
+                                                                                                                                   una actividad y constituía un requisito previo
+2.4 Otorgamiento de las factibilida-                                                                                               para el inicio de las obras, siendo estas las
+des técnicas a los proyectos de los                                                                                                factibilidad de ANDA de no afectación a fuen-
+                                            Sistemas          0        85
+sistemas rurales a ejecutar por el                                                                                                 tes propias y visto bueno a los diseño técni-
+FISDL.                                                                                                                             cos de los proyectos, y factibilidad del Minis-
+                                                                                                                                   terio de Salud para las soluciones de sanea-
+                                                                                                                                   miento.
+                                                                                                                                   Se revisó y elimino posterior a la aprobación
+2.5 Firma de convenios de coopera-                                                                                                 del programa. Formo parte de las actividades
+ción y asistencia técnica con las co-                                                                                              desarrolladas por el programa a través del
+                                           Convenios          0        85
+munidades beneficiarias y gobiernos                                                                                                FISDL en el marco del ciclo de proyecto esta-
+municipales relacionados.                                                                                                          blecido en el Componente 1.
+2.6 Visitas de inspección y/o asisten-
+cias técnicas suministradas a las co-                                                                                              Se revisó y elimino posterior a la aprobación
+                                             Visitas          0        85
+munidades beneficiarias del pro-                                                                                                   del programa dado que es una actividad.
+grama.
+                                                                                                                                                                      12
+"
+"                                                                                                                                             Formo parte de las actividades desarrolladas
+                                                                                                                                             por el programa
+Objetivo específico 3: Contribuir a la gestión sostenible del recurso hídrico como base de la sostenibilidad de los servicios de A&S
+Resultados
+3.1 Tiempos de respuesta en la eva-
+                                                                                                                                             Se revisó y eliminó posterior a la aprobación
+luación ambiental y seguimiento a
+                                               Días          45        20                                                                    del programa ya que se asoció a actividades
+las condiciones fijadas en la Resolu-
+                                                                                                                                             desarrolladas en el marco del programa.
+ción Ministerial, agilizados
+                                                                                                                                             Se revisó y eliminó posterior a la aprobación
+3.2 Sistemas de abastecimiento de
+                                                                                                                                             del programa. Todos los sistemas fueron so-
+agua y saneamiento cumplen con la           Sistemas          0        85
+                                                                                                                                             metidos al procedimiento de cumplimiento
+normativa ambiental nacional
+                                                                                                                                             de normativa ambiental nacional
+                                                                                                                                             Se revisó y elimino posterior a la aprobación
+3.3 Microcuencas con medidas de
+                                         Microcuencas         0         4                                                                    del programa ya que se asoció a los planes de
+conservación de agua y suelo
+                                                                                                                                             manejo como un producto.
+                                                                                                                                             Se revisó y elimino posterior a la aprobación
+3.4 Sistematización de metodología
+                                                                                                                                             del programa ya que fue incorporado como
+para la implementación de planes          Documento           0         1
+                                                                                                                                             parte de los productos de la consultoría de
+de manejo en Microcuencas
+                                                                                                                                             elaboración de los planes.
+                                                                                                                                             Posterior a la aprobación del programa se in-
+                                                                                                                                             corporó este indicador que consolida accio-
+Área con obras y prácticas de con-
+                                                                                                                                             nes vinculadas con los 3 anteriores. Poste-
+servación de suelo, infiltración de
+                                                                              Hectáreas      0        80.0       Hectáreas        0  2,732.0 riormente se actualizo la meta como resul-
+agua y con sistemas agrosilvopasto-
+                                                                                                                                             tado de un cambio de metodología (de con-
+riles incorporadas
+                                                                                                                                             tratación de personal a contratación de 2
+                                                                                                                                             ONG)
+Beneficiarios de programa imple-                                                                                                             Se modificó la meta con el objeto de identifi-
+                                         Perso-
+mentado buenas prácticas de ma-                          0            300      Personas      0         100       Personas         0   2,393  car de mejor manera el resultado de la estra-
+                                          nas
+nejo                                                                                                                                         tegia utilizada por este componente
+                                                                                                                                                                               13
+"
+"2.2        Efectividad
+      a. Descripción de los objetivos de desarrollo del proyecto
+El Programa de Agua y Saneamiento Rural de El Salvador fue concebido para beneficiar con acceso a sis-
+temas sostenibles de agua a 6,264 familias y con sistemas de saneamiento a 3,132 familias de las zonas
+rurales en comunidades entre 300 y 10,000 habitantes, localizadas en municipios catalogados en pobreza
+extrema alta según el Mapa de Pobreza de El Salvador. Las comunidades de los municipios intervenidos
+con el Programa han sido beneficiadas a partir del componente de asistencia técnica para la planificación
+y seguimiento a la gestión de los servicios de agua y saneamiento. De forma complementaria se realizaron
+actividades orientadas a la sostenibilidad del recurso hídrico y con ellos de las fuentes que abastecen los
+sistemas de agua potable, mediante la implementación de acciones relacionadas con el manejo de cuen-
+cas y protección de áreas de recarga. Así mismo se contribuyó con la gestión operativa de ANDA apor-
+tando con ello en la mejora del servicio de agua potable al principal núcleo urbano del país.
+      b. Resultados Logrados
+Resultado 1: Cobertura de agua potable y saneamiento mejorada. Si bien los productos relacionados con
+los sistemas de agua potable construidos, rehabilitados y/o ampliados se vieron reducidos de 47 proyec-
+tos planificados originalmente a 20 al final del programa de los cuales se finalizaron 189, se logró beneficiar
+a más hogares; esto, como consecuencia de la implementación de la estrategia de intervención que el BID
+en coordinación con el FISDL establecieron que para contribuir de mejor manera a la sostenibilidad finan-
+ciera de los proyectos y optimizar el uso del recurso. Para ello, era necesario agrupar en un solo proyecto,
+al mayor número de beneficiarios posible, para permitir entre otros, la aplicación del principio de econo-
+mía de escala y garantizar con ello una tarifa más accesible para las familias beneficiadas apoyando con
+ello la sostenibilidad de las inversiones realizadas.
+Se debe resaltar que ésta fue una nueva experiencia de intervención para el FISDL que se había dedicado
+tradicionalmente, a la ejecución de proyectos de agua y saneamiento rural, de menor alcance en monto
+y en número de beneficiarios, lo que implicaba un mayor esfuerzo administrativo y dificultades para a
+sostenibilidad de los mismos, dado que muchas familias de los hogares clasificados en extrema pobreza,
+no tenían la capacidad económica para pagar las tarifas de estos sistemas, considerando que a nivel de
+costos fijos del proyecto, mientras menor es el número de beneficiarios del sistema, mayor es la tarifa a
+pagar. Vale señalar que, a raíz de esta experiencia, a la fecha el FISDL ha institucionalizado la ejecución de
+las intervenciones focalizadas que le permiten una mayor eficiencia administrativa y mejores resultados
+operativos incrementando el número de beneficiarios por proyecto.
+Con la ejecución de las actividades de este componente se contribuyó entre otros, a un número mayor de
+hogares beneficiados con la introducción de agua potable, prácticas de saneamiento y capacitación en
+educación sanitaria y ambiental. Se conformaron y capacitaron a 20 nuevas juntas rurales de agua para la
+administración de igual número de sistemas construidos en el marco del programa. En éstas se promovió
+la participación de la mujer llegando a superar niveles de 40% participando en las juntas administradoras
+en los diferentes puestos directivos. Es de recalcar que dentro del fortalecimiento de la gestión y eficiencia
+operativa de ANDA; con el programa se reactivó un componente esencial para apoyar la sostenibilidad de
+los sistemas de agua rurales con la reactivación de su gerencia rural y la construcción del Centro de For-
+mación de sistemas y comunidades rurales, elemento clave para el apoyo técnico a la post construcción.
+La planificación y construcción de los sistemas rurales por parte del FISDL, requirió una fuerte coordina-
+ción administrativa y técnica con la ANDA, con el objeto de asegurar la adecuada formulación de los pro-
+yectos y garantizar la asistencia técnica, una vez construidos los sistemas a través de la gerencia técnica.
+9 A la fecha se está a la espera de la finalización de los dos proyectos que quedaron en ejecución al cierre del programa.
+                                                                                                                           14
+"
+"Además, se estableció una buena coordinación con el MARN, tanto para el desarrollo de acciones que
+contribuyeran a la sostenibilidad del recurso hídrico que abasteciera a los proyectos de agua interveni-
+dos10, así como para la gestión de los permisos ambientales requeridos para la ejecución de las obras. De
+manera adicional con el MINSAL se coordinó el visto bueno a las soluciones individuales de saneamiento
+incluidas en los diseños, además de apoyo para garantizar la cloración en los sistemas; y su participación
+en el diseño del material educativo en los temas vinculados al saneamiento y hábitos higiénicos de los
+habitantes de las comunidades.
+Resultado 2: Gestión de la Administración Nacional de Acueductos y Alcantarillados (ANDA), mejorada.
+De acuerdo con los reportes presentados, se logró una mejora en los ingresos percibidos por la institución
+disminuyendo con ello el déficit financiero de la misma y, además, se contribuyó a una mejor gestión a
+través de herramientas informáticas al servicio de la institución que se lograron con la intervención del
+programa. Así mismo, se logró una reducción en el número de reclamos gracias a los proyectos de susti-
+tución de tuberías y una respuesta más eficiente al usuario con la implementación del Call Center y la
+modernización de las agencias.
+La institución cuenta ahora, con un sistema que permite la facturación en línea, un mejor servicio al cliente
+por medio de la conexión en línea del servicio en las sucursales. Complementariamente, se actualizó el
+catastro comercial, que permite seguir en línea, mediante la aplicación de ANDAMAPS de un cúmulo clave
+de información crítico para la gestión de la entidad. La ANDAMAPS permite también, tener un seguimiento
+online del catastro y de la mora (rutas y catastro georreferenciados, mapas del censo rural y de usuarios
+en mora). Los productos antes mencionados permiten a la ANDA contar con los instrumentos para mejo-
+rar su recaudación y que los ingresos comerciales de la institución cubran incrementalmente los costos
+de operación y mantenimiento de la institución.
+El Índice de agua no facturada no alcanzó la meta esperada dado que durante el levantamiento de la línea
+base no se tenían valores certeros de la misma, ya que la institución no contaba con macro medición y
+tampoco se contaba con un catastro que permitiera disponer de toda la información de los usuarios; una
+vez instalados los macromedidores (entre el 2012 y 2013) se tuvo información real del agua servida y el
+agua facturada, estos datos fueron afinados a medida que se fue avanzando con el catastro (que finalizó
+en el 2015) por lo que para el 2016 ya se tenía un dato más real del 51.90 11 de agua no facturada, dado
+que arrojó una mejor identificación de los usuarios y permitió identificar muchas acometidas ilegales lo-
+grando esta combinación de acciones, no obstante para el 2017 se dio un punto de inflexión en el que se
+contabilizo un índice de 43.60%12, dato que la institución a la fecha continua verificando con el fin de
+verificar la desviación, siendo 50.90%13 el resultado real final del cálculo del índice. En conclusión, los
+datos erráticos que se reportan están relacionados con la falta de información durante la preparación del
+programa y la información que se fue depurando durante la implementación del programa en este tema.
+Resultado 3: Manejo sostenible del recurso hídrico en zonas de intervención, mejorada. La promoción/so-
+cialización del programa fue una nueva experiencia para el MARN con la que dio a conocer el programa
+en las microcuencas y regiones hidrográficas de influencia, permitiendo una mayor participación de todos
+los actores interesados en acompañar a la Institución en el esfuerzo de manejo sostenido de los recursos
+naturales en el ámbito de las cuencas de las regiones hidrográficas.
+Con el programa se buscó contribuir a garantizar en mejor medida, el recurso hídrico que constituye la
+fuente de abastecimiento de los sistemas rurales, implementando diversas prácticas de conservación de
+10 Se debe señalar que también se realizaron acciones de coordinación con el Ministerio de Salud para asegurar la potabilidad del
+agua entregada, para lo que el FISDL solicito el acompañamiento de los técnicos del MINSAL.
+11 Boletín estadístico y memoria de labores anual de la ANDA e informes de la Gerencia comercial
+12 Boletín estadístico y memoria de labores anual de la ANDA e informes de la Gerencia comercial
+13 Boletín estadístico y memoria de labores anual de la ANDA e informes de la Gerencia comercial
+                                                                                                                              15
+"
+"suelos y agua, en las zonas de influencia del programa, realizando intervenciones en 2,732 hectáreas. Las
+Microcuencas objeto de intervención con este Programa, en general presentaban problemas para
+garantizar la adecuada infiltración del agua lluvia dado la fuerte degradación del suelo por erosión y
+compactación, debido principalmente a que en estas zonas se siembran especialmente granos básicos
+que se cultivan principalmente en terrenos con altas pendientes en tierras que son de vocación forestal,
+afectando con esto el normal desarrollo del ciclo hidrológico y disminuyendo la disponibilidad del recurso
+para el abastecimiento humano.
+Los indicadores de Resultado del Programa se han logrado como efecto de la ejecución de los Productos
+planificados en cada uno de los tres Componentes, que han sido ejecutados exitosamente y contribuyeron
+al logro del Objetivo del Programa.
+                                                                                                        16
+"
+"Tabla 2. Matriz de Resultados Alcanzados
+ RESULTADO 1: Cobertura de agua potable y saneamiento mejorada
+                                                                                        Valor de
+                                                                                                    Año de Línea  Metas y alcance
+                           Indicator                               Unidad de Medida     Línea de                                   % Alcanzado   Medio de Verificación
+                                                                                                      de Base         actual
+                                                                                          Base
+ 1.1  Hogares con acceso nuevo o mejorado a agua potable          No. de Hogares       0.00        2010          P        6,264.00
+                                                                                                                                               Informes de avance se-
+                                                                                                                 P(a)     6,264.00    100%     mestral, intermedio y fi-
+                                                                                                                 A        6,288.00             nal del Programa
+ 1.2  Hogares con acceso a saneamiento básico nuevo o mejo-       No. de Hogares       0.00        2010          P        3,132.00
+                                                                                                                                               Informes semestrales,
+      rado                                                                                                       P(a)     3,132.00    185%     intermedio y final del
+                                                                                                                 A        5,796.00             Programa
+ 1.3  Hogares cuyas aguas residuales son tratadas                 No. de Hogares       0.00        2012          P
+                                                                                                                                                Informes de proyectos
+                                                                                                                 P(a)     3,132.00     N/A     y resultados de visitas
+                                                                                                                 A        5,796.00             de supervisión
+ RESULTADO 2: Gestión de la Administración Nacional de Acueductos y Alcantarillados (ANDA), mejorada
+ 2.1  Índice de agua no facturada                                 Porcentaje           44.50       2010          P           39.50             Boletín estadístico y me-
+                                                                                                                 P(a)        42.80             moria de labores anual
+                                                                                                                                       0%
+                                                                                                                                               de la ANDA e informes
+                                                                                                                 A           50.90             de la Gerencia comercial
+ 2.2  Índice de cobertura de costos de O&M con ingresos pro-      Porcentaje           76.40       2011          P           96.00             Boletín estadístico anual
+      pios                                                                                                       P(a)        90.00             de ANDA e informes de
+                                                                                                                                      108%
+                                                                                                                                               la Gerencia Financiera -
+                                                                                                                 A           97.60             Estados financieros
+ RESULTADO 3: Manejo sostenible del recurso hídrico en zonas de intervención, mejorada
+ 3.1  Área con obras y prácticas de conservación de suelo, infil- Hectáreas            0.00        2010          P           80.00
+      tración de agua y con sistemas agrosilvopastoriles incor-                                                  P(a)     1,650.00             Informes de avance se-
+                                                                                                                                     3415 %
+      poradas                                                                                                                                  mestral del Ejecutor
+                                                                                                                 A        2,732.00
+ 3.2  Beneficiarios de programa implementado buenas prácti-       Personas             0.00        2010          P          100.00
+                                                                                                                                               Informes de avance se-
+      cas de manejo                                                                                              P(a)     1,650.00   2393 %    mestral de avance del
+                                                                                                                 A        2,393.00             ejecutor
+                                                                                                                                                                         17
+"
+"Componente 1. Proyectos rurales de agua potable y saneamiento
+                                                                                Valor de
+                                                                                         Año de Línea de   Metas y alcance
+                        Producto                            Unidad de Medida    Línea de                                     % Alcanzado        Medio de Verificación
+                                                                                              Base             actual
+                                                                                  Base
+1.1 Sistemas de agua potable construidos, rehabilitados   Proyectos ejecutados                           P               47
+    y/o ampliados                                                                                        P(a)            20              Informes de avance semestral, inter-
+                                                                                    0         2011                               38%
+                                                                                                                                         medio y final del Programa
+                                                                                                         A               18
+1.2 Soluciones individuales de saneamiento construidas    Soluciones individua-                          P            3,132
+                                                          les                                            P(a)         5,149              Informes de avance semestral, inter-
+                                                                                    0         2011                              185%
+                                                                                                                                         medio y final del Programa
+                                                                                                         A            5,796
+1.3  Entidades administradoras operando                   Entidades Adminis-                             P               47
+                                                          tradoras                                       P(a)            20              Informes de avance semestral, inter-
+                                                                                    0         2011                               43%
+                                                                                                                                         medio y final del Programa
+                                                                                                         A               20
+Componente 2. Mejoramiento de fuentes y conservación de suelos en cuencas prioritarias
+                         Output                                                 Valor de
+                                                                                         Año de Línea de   Metas y alcance
+                                                            Unidad de Medida    Línea de                                     % Alcanzado        Medio de Verificación
+                                                                                              Base             actual
+                                                                                  Base
+2.1 Planes de manejo de cuencas prioritarias elaborados   Documentos                                     P               15
+                                                                                                         P(a)            15              Informes de avance semestral, inter-
+                                                                                    0         2011                              100%
+                                                                                                                                         medio y final del Programa
+                                                                                                         A               15
+2.2  Planes de manejo de cuencas prioritarias implemen-   Planes de manejo im-                           P                 4
+    tados                                                 plementados                                    P(a)              7             Informes de avance semestral, inter-
+                                                                                    0         2011                              175%
+                                                                                                                                         medio y final del Programa
+                                                                                                         A                 7
+Componente 3. Mejoramiento de la gestión y eficiencia operativa de la ANDA
+                         Output                                                 Valor de
+                                                                                         Año de Línea de   Metas y alcance
+                                                            Unidad de Medida    Línea de                                     % Alcanzado        Medio de Verificación
+                                                                                              Base             actual
+                                                                                  Base
+3.1 Macromedidores Instalados en el Área Metropolitana Macromedidores Ins-                               P               87
+    de San Salvador (AMSS)                                talados                                                                        Informes de avance semestral, inter-
+                                                                                    0         2011       P(a)            83      95%
+                                                                                                                                         medio y final del Programa
+                                                                                                         A               83
+3.2 Proyecto de Obras de emergencia ejecutado             Proyecto ejecutado                             P                 1
+                                                                                                         P(a)              1             Informes de avance semestral, inter-
+                                                                                    0         2011                              100%
+                                                                                                                                         medio y final del Programa
+                                                                                                         A                 1
+3.3 Proyectos de Obras prioritarias para optimización de  Proyectos ejecutados                           P               34
+    la distribución de agua potable en el AMSS ejecuta-                                                                                  Informes de avance semestral, inter-
+                                                                                    0         2011       P(a)           138     406%
+    dos                                                                                                                                  medio y final del Programa
+                                                                                                         A              138
+                                                                                                                                                                              18
+"
+"3.4  Nuevo sistema informático de gestión comercial y de Sistema informático        P         1
+    contabilidad de costos, funcionando                  implementa                                  Informes de avance semestral, inter-
+                                                                             0 2011 P(a)      1 100%
+                                                                                                     medio y final del Programa
+                                                                                    A         1
+3.5 Medidores para agua potable adquiridos               Medidores adquiri-         P    77,780
+                                                         dos                        P(a) 87,464      Informes de avance semestral, inter-
+                                                                             0 2011             112%
+                                                                                                     medio y final del Programa
+                                                                                    A    87,464
+3.6 Entes administradores de sistemas rurales de agua    Entes administrado-        P        47
+    potable y saneamiento favorecidos con Asistencia     res                                         Informes de avance semestral, inter-
+                                                                             0 2011 P(a)     55 117%
+    Técnica y Capacitación por la Gerencia de Atención a                                             medio y final del Programa
+    sistemas y comunidades rurales                                                  A        55
+3.7 Programa piloto de optimización de eficiencia ener-  Programa                   P         1
+    gética implementado                                                             P(a)      1      Informes de avance semestral, inter-
+                                                                             0 2011             100%
+                                                                                                     medio y final del Programa
+                                                                                    A         1
+3.8 Catastro comercial actualizado                       Catastro                   P         1
+                                                                                    P(a)      1      Informes de avance semestral, inter-
+                                                                             0 2011             100%
+                                                                                                     medio y final del Programa
+                                                                                    A         1
+3.9 Proyectos de eficiencia energética y operativa II    Proyecto ejecutado         P         4
+                                                                                    P(a)      4      Informes de avance semestral, inter-
+                                                                             0 2011             100%
+                                                                                                     medio y final del Programa
+                                                                                    A         4
+                                                                                                                                          19
+"
+"Para el caso de los productos 3.1 y 3.2 se debe destacar que, durante la preparación del programa, la institu-
+ción responsable por la ejecución de este componente estableció la meta sin contar con la adecuada infor-
+mación, a lo que se sumó, que, además, contaba con limitada experiencia en la ejecución de este tipo de
+proyectos. Una vez iniciado el proyecto y luego de contar con los planes de trabajo elaborados por las ONG
+’s contratadas para la implementación del componente, se obtuvo información real de las metas que se po-
+dían alcanzar con los recursos disponibles.
+Lo relacionado con el análisis de las metas alcanzadas en los productos, para el Componente 1, como son: los
+sistemas de agua potable construidos, rehabilitados y/o ampliados (indicador de producto 1.1) sufrieron una
+reducción del 38%, lo cual obedeció a la búsqueda de la implementación de economías de escala, incremen-
+tando el número de familias por sistema, para garantizar una tarifa menor y más accesible a las familias. A lo
+largo del proyecto esta estrategia fue incorporada por el FISDL a nivel institucional y fue denominado mapeo
+focalizado. Esta reducción de la construcción de los sistemas aplicó también para las “entidades administra-
+doras operando” dado que es una entidad administradora por sistema. Este cambio afecto numéricamente
+en la misma proporción al indicador 1.3. Entidades administradoras operando. El cambio de estrategia fue
+sumamente apropiado considerando que los beneficiarios son familias clasificadas dentro del estrato de po-
+breza extrema alta.
+El indicador 1.2, Soluciones individuales de saneamiento construidas, tuvo un incremento en relación con lo
+planificado originalmente dado el incremento del número de familias por sistema con la implementación de
+la metodología de mapeo focalizado.
+Para el segundo componente, la razón del incremento en la meta del indicador del producto 2.2 se debió al
+cambio, realizado de manera conjunta BID-MARN, en la estrategia de ejecución planificada orientada a con-
+tratar al personal técnico que formaría a cada agricultor pasando a una estrategia de terciarización de las
+actividades con dos ONGs con experiencia y equipo territorial que utilizaron un sistema de asistencia técnica
+y extensión basada en la figura de los agricultores demostradores, y que apoyándose en la asistencia técnica
+con agricultores de las comunidades (metodología agricultor-promotor14) logrando una mayor cobertura en
+cuanto a funcionarios capacitados, planes de manejo de cuencas prioritarias elaborados y planes de manejo
+de cuencas prioritarias implementados con los mismos recursos.
+En el caso del tercer componente se alcanzaron y en algunos casos se superaron las metas planificadas pos-
+terior a la elegibilidad teniendo suficientes ahorros para poder hacer más proyectos. Las principales diferen-
+cias entre los productos planificados y realizados, en este componente, son:
+Para el indicador del producto 3.1. Macromedidores Instalados en el Área Metropolitana de San Salvador
+(AMSS), la ANDA reevaluó el número de equipos a adquirir en vista que algunos de los originalmente planifi-
+cados fueron adquiridos previamente por la institución reduciendo en 5% el logro de la meta planificada.
+Para el caso del indicador 3.3. Proyectos de Obras prioritarias para optimización de la distribución de agua
+potable en el AMSS ejecutados, se realizó el cambio de Accesorios y tuberías de asbesto cemento en el AMSS,
+suministro e instalación de válvulas y accesorios de los tanques y puntos de maniobra del AMSS logrando con
+los mismos recursos hacer un número mayor de obras.
+Para el producto 3.5 con los ahorros logrados se pudo compras más medidores. El indicador 3.6 relacionado
+con la Gerencia Rural vio un incremento numérico dado que con los ahorros logrados tuvo la oportunidad de
+dar asistencia técnica y capaciones a más entes administradores.
+14 Metodología en la que se capacita a un grupo de agricultores para que ellos repliquen los conocimientos con otros agricultores de
+la comunidad.
+                                                                                                                                  20
+"
+"El indicador de producto 3.9, proyectos de eficiencia energética y operativa II, fue incorporado tomando en
+cuenta que se tenían los recursos generados por ahorros en la ejecución del resto de los procesos, dado el
+fuerte impacto que tienen los costos energéticos en la institución.
+      c. Análisis contrafactual
+El proyecto no incluye una evaluación de impacto u otro tipo de evaluación con atribución, por tanto, el
+análisis de atribución se basa exclusivamente en la contribución potencial o “atribución teórica” de los resul-
+tados al programa.
+Este programa fue formulado en el marco de la existente evidencia internacional sobre la eficacia de las po-
+líticas y programas en el sector de AyS y las implicaciones que éstas tienen para el trabajo del Banco15. En
+términos generales, los 3 resultados del programa (Cobertura de agua potable y saneamiento mejorada en
+los municipios de pobreza extrema-alta de El Salvador, Gestión de la Administración Nacional de Acueduc-
+tos y Alcantarillados (ANDA), mejorada, y Manejo sostenible del recurso hídrico en zonas de intervención,
+mejorada) responden al objetivo general del programa “Mejorar las condiciones de vida de la población de
+El Salvador a través de la provisión de servicios adecuados de agua potable y saneamiento”, asociando las
+“condiciones de vida” a la mejora en salud, principalmente, aunque también a las condiciones económicas y
+el acceso a la educación.
+En este sentido, según el Fondo de las Naciones Unidas para la Infancia (UNICEF) (2006), la escasez de AyS es
+la principal causa de enfermedades en el mundo, en particular en los niños16. Numerosos estudios documen-
+tan que el acceso a AyS ayuda a mejorar la salud. Según estimaciones recientes 17, el acceso a AyS podría
+prevenir, al año, 361.000 muertes por diarrea en niños menores de cinco años de edad, lo que representa el
+58% de las muertes por diarrea, hasta el 73% de éstas podrían reducirse con suministro continuo de agua por
+tubería y eliminación de excretas por alcantarillado para hogares y entornos comunitarios18. Según estima-
+ciones a nivel global19, si el acceso a AyS fuera universal el número de episodios de diarrea se reduciría un
+17%. Por último, proporcionar acceso a un abastecimiento continuo de agua, conexión en la vivienda a la red
+de alcantarillado y tratamiento parcial de las aguas residuales, permitiría conseguir una reducción de episo-
+dios de diarrea del 69%.
+La falta de acceso a AyS está también relacionada con el aumento de la incidencia de Enfermedades
+Transmitidas por Mosquitos (ETM). Estudios muestran que el riesgo de contraer dengue es mayor en la
+población sin acceso a AyS, por cuenta del almacenamiento de agua en el hogar (sin protección) y de aguas
+residuales al aire libre20 o encharcadas21. Entre 50 y 100 millones de casos de dengue ocurren anualmente en
+el mundo, siendo Latinoamérica y el Caribe (LAC) la región más afectada22. Adicionalmente, la falta de AyS es
+un factor de riesgo importante para enfermedades infecciosas desatendidas, las cuales afectan a más de 1.5
+mil millones de personas a nivel mundial y generan alrededor de 170.000 muertes cada año. En LAC, éstas
+afectan sobre todo a las personas ubicadas en zonas tropicales y subtropicales y, de manera desproporcional,
+15 Documento de Marco Sectorial de Agua y Saneamiento. División de Agua y Saneamiento, junio 2017.
+16 Estudios formales de Behrman y Wolfe (1982), Lavy et al. (1996), Lee et al. (1997), Shi (2000), Newman et al. (2002), Leipziger et al.
+(2003), Wagstaff y Claeson (2004), y Gamber-Rabintran et al. (2010) encontraron que el acceso a agua limpia y a infraestructura de
+saneamiento ayuda a reducir la mortalidad infantil.
+17 Por ejemplo, los resumidos por Brenneman y Kerf (2002).
+18 Pruss-Ustun et al. (2014).
+19 Hutton y Haller (2004).
+20 Schmidt et al. (2011), Cordeiro et al. (2011).
+21 Cecchini et al. (2012), AFD (2014), PAHO (2012), Githeko y Woodward (2003), Magrin et al. (2014).
+22 Entre 2000 y 2006, la región dio lugar al 68% de los casos a nivel mundial (Cafferata et al., 2013).
+                                                                                                                                     21
+"
+"a la población más pobre23. Por otro lado, un gran número de investigaciones han documentado la existencia
+de vínculos significativos entre acceso a infraestructura y resultados en educación en países en desarrollo24.
+El programa incluía brindar o mejor el servicio de agua en las escuelas en las comunidades benéficas, sobre
+todo considerando que de acuerdo con la literatura los investigadores encontraron que un mejor acceso 25 a
+AyS en escuelas tiende a elevar las tasas de asistencia (particularmente de las niñas) y las habilidades de los
+niños para aprender26. Buena salud y nutrición son prerrequisitos esenciales para un aprendizaje efectivo27.
+La alta incidencia de diarrea está asociada con elevados niveles de malnutrición, lo que puede resultar en
+altos niveles de anemia, bajos niveles de desarrollo cognitivo temprano, psicomotor y de crecimiento en ni-
+ños, afectando su capacidad de aprendizaje. En conclusión, niños más sanos se desempeñan mejor en los
+colegios28.
+Existe también una relación entre disponibilidad de AyS, productividad e ingresos. La falta de AyS implica una
+pérdida de productividad de origen laboral como consecuencia del ausentismo por enfermedad o por la ne-
+cesidad de cuidar a los niños enfermos. También, hay que considerar el menor potencial en la generación de
+ingresos debido al tiempo o ingreso destinado a obtener agua desde alguna fuente distante de la vivienda.
+En zonas de baja densidad y rurales, el mayor beneficio económico de la disponibilidad de agua está dado
+por el ahorro en el tiempo de acarreo que puede ser destinado a actividades productivas capaces de generar
+ingresos para la familia29. De forma semejante, en zonas urbanas y periurbanas, ante la carencia de AyS, la
+población incurre en mayores gastos al proveerse de forma alternativa (pozos y bombeo de agua, camiones
+cisternas, agua embotellada, cámaras o pozos sépticos, contratación de camiones atmosféricos30, etc.)31.
+El análisis de causalidad a nivel de los indicadores de resultado del proyecto y los productos esperados se
+describe para cada uno de los tres resultados esperados.
+Respecto al resultado 1 “Cobertura de agua potable y saneamiento mejorada en los municipios de pobreza
+extrema-alta de El Salvador”, las actividades financiadas “sistemas de agua construidos, rehabilitados y/o
+ampliados” y “soluciones individuales de saneamiento construidas” están asociadas directamente a la am-
+pliación de cobertura, y las “entidades administradoras operando” se asocia a la calidad de “sistemas susten-
+tables”, pues una buena operatividad de los sistemas se asocia a la sostenibilidad de los mismos32. El resultado
+“Hogares cuyas aguas residuales son tratadas” no tiene asociado ninguna de las acciones en la matriz de
+23 OPS (2016).
+24 Como lo documentaron Brenneman y Kerf (2002), y más recientemente Agenor (2008, 2011). Para LAC, la
+relación entre acceso a AyS en escuelas y resultados académicos se presenta en Duarte et al (2011).
+25 En términos de incremento de acceso y mejoramiento del servicio (continuidad y calidad).
+26 En Bangladesh, las tasas de asistencia de niñas a colegios se elevaron hasta en un 15% luego de mejorar el acceso a AyS. En Ma-
+rruecos, un marcado incremento en el registro de niñas fue en parte debido a mejoras en estos servicios en las escuelas. Este efecto
+puede operar en parte mejorando la salud de los niños.
+27 WB (2008a).
+28 Bleakley (2007) encontró que la desparasitación de niños en América del Sur tuvo efectos positivos en los resultados educativos.
+Bundy et al. (2006), en su evaluación de los programas de salud en escuelas (que incluye el tratamiento de parásitos intestinales),
+enfatizaron que estos programas pueden aumentar la productividad durante la vida adulta no solo por mejores habilidades cognitivas,
+sino también por su efecto en la participación escolar y años de educación alcanzados.
+29 Hutton y Haller (2004), Pickering et al. (2012).
+30 Los camiones atmosféricos son aquellos dotados de tanques de forma cilíndrica, destinados a la recolección y transporte de las
+aguas residuales provenientes de viviendas con pozos sépticos.
+31 Lentini (2006).
+32 La operación adecuada de los sistemas es uno de los criterios de sostenibilidad de los sistemas: OVE, 2016. Estudio sobre el
+funcionamiento y la sostenibilidad de las intervenciones de agua potable y saneamiento en áreas rurales.
+https://publications.iadb.org/bitstream/handle/11319/7614/Estudio-sobre-el-funcionamiento-y-la-sostenibilidad-de-las-
+intervenciones-de-agua-potable-y-saneamiento-en-areas-rurales-Programa-de-agua-potable-y-saneamiento-de-pequenas-
+comunidades-en-Paraguay.pdf?sequence=8; Andrés, Luis A.; Schwartz, Jordan; Guasch, J. Luis. 2013. Uncovering the Drivers of Utility
+Performance : Lessons from Latin America and the Caribbean on the Role of the Private Sector, Regulation, and Governance in the
+Power, Water, and Telecommunication Sectors. Directions in Development--Infrastructure; Washington, DC: World Bank.
+https://openknowledge.worldbank.org/handle/10986/15774
+                                                                                                                                 22
+"
+"resultados del proyecto. Si bien este indicador de resultado se incorporó en la matriz de resultados en la
+matriz “Elegibilidad +60 días”, no se incluyó ningún indicador de producto que reflejara las acciones del pro-
+grama en el manejo de las aguas residuales domésticas.
+  Resultado 1       Acciones financiadas        Indicadores de resultado              Objetivo Especifico
+                    - sistemas de agua
+                                                Hogares con acceso nuevo o mejorado
+  Cobertura de      potable construidos,
+                                                a agua potable
+  agua potable y    rehabilitados y/o
+                                                                                      Mejorar las condiciones de
+  saneamiento       ampliados
+                                                                                      vida de la población de El
+  mejorada en los   - soluciones individuales   Hogares con acceso a saneamiento
+                                                                                      Salvador a través de la
+  municipios de     de saneamiento              básico nuevo o mejorado
+                                                                                      provisión de servicios
+  pobreza           construidas
+                                                                                      adecuados de AyS
+  extrema-alta de   - entidades
+  El Salvador       administradoras             Hogares cuyas aguas residuales son
+                    operando                    tratadas
+Respecto al resultado 2, Gestión de la Administración Nacional de Acueductos y Alcantarillados (ANDA) me-
+jorada, se financiaron varias acciones como la instalación de macromedidores en el Área Metropolitana de
+San Salvador (AMSS), realización de obras de emergencia, obras para la optimización de la distribución de
+agua potable en el AMSS, la implementación de un sistema informático de gestión comercial y de contabilidad
+de costos, adquisición de medidores para agua potable, la actualización del catastro comercial o implemen-
+tación de proyectos de eficiencia energética y operativa.
+  Resultado 2           Acciones financiadas             Indicadores de resultado            Objetivo Especifico
+                        -Macromedidores Instalados
+                        en el Área Metropolitana de
+                        San Salvador (AMSS)
+                        - Proyecto de Obras de emer-
+                        gencia ejecutado
+                                                         Índice de agua no facturada
+                        - Proyectos de Obras priorita-
+                        rias para optimización de la
+                        distribución de agua potable
+                        en el AMSS ejecutados                                                Mejorar las condi-
+  Gestión de la Admi-                                                                        ciones de vida de la
+  nistración Nacional   - Nuevo sistema informático                                          población de El Sal-
+  de Acueductos y Al-   de gestión comercial y de con-                                       vador a través de la
+  cantarillados         tabilidad de costos, funcio-                                         provisión de servi-
+  (ANDA)                nando                                                                cios adecuados de
+                        - Medidores para agua potable                                        AyS
+                        adquirido
+                        - Entes administradores de sis-  Índice de cobertura de costos de
+                        temas rurales de agua potable    O&M con ingresos propios
+                        y saneamiento favorecidos con
+                        Asistencia Técnica y Capacita-
+                        ción por la Gerencia de Aten-
+                        ción a sistemas y comunidades
+                        rurales
+                                                                                                                 23
+"
+"                            - Programa piloto de optimiza-
+                            ción de eficiencia energética
+                            implementado
+                            - Catastro comercial actuali-
+                            zado
+                            - Proyectos de eficiencia ener-
+                            gética y operativa II
+Finalmente, respecto al resultado 3 Manejo sostenible del recurso hídrico en zonas de intervención, mejo-
+rada; el programa definió varias actividades asociadas a los dos indicadores de resultados propuestos, para
+las áreas con obras y prácticas de conservación de suelo, infiltración de agua y con sistemas agrosilvopasto-
+riles incorporadas se elaboraron e implementaron planes de manejo de cuencas prioritarias los cuales inclu-
+yen variables de gestión (ambiental, prevención y mitigación de desastres naturales, etc.); institucional (me-
+canismos económicos y financieros, capacitación, etc.); e información (estudios, monitoreo, etc.)33.Estás ac-
+ciones para la conservación de suelos y sistemas agrosilvostoriles se atribuyen a la gestión sostenible del
+recurso hídrico34. Por otro lado, la asistencia técnica y la capacitación a los entes administradores de los sis-
+temas de AyS se asocian a la implementación de buenas prácticas de manejo, que a la vez contribuyen a la
+gestión sostenible del recurso hídrico35.
+  Resultado 3            Acciones financiadas           Indicadores de resultado                Objetivo Especifico
+                                                        Área con obras y prácticas de
+  Mejorar la
+                         - planes de manejo de          conservación de suelo,
+  eficiencia y                                                                                  Mejorar las condiciones de
+                         cuencas prioritarias           infiltración de agua y con
+  sostenibilidad                                                                                vida de la población de El
+                         elaborados                     sistemas agrosilvopastoriles
+  de los servicios                                                                              Salvador a través de la
+                         - planes de manejo de          incorporadas
+  de AyS                                                                                        provisión        de       servicios
+                         cuencas prioritarias           Beneficiarios de programa
+  proporcionados                                                                                adecuados de AyS
+                         implementados                  implementando buenas
+  por la ANDA
+                                                        prácticas de manejo
+     d. Resultados Imprevistos
+Algunos resultados que sin estar previstos en el diseño del Programa se lograron, son los siguientes:
+     <U+F02D>     Los Estudio de Impacto Ambiental (EIA) y los estudios de calidad de agua fueron contratados bajo
+           una nueva modalidad (lotes) que permitió una reducción en los tiempos de contrataciones.
+     <U+F02D>     Originalmente se tenía previsto ejecutar este componente con personal directamente contratado por
+           el Ministerio, pero posteriormente, al analizar de manera conjunta con el ejecutor, se identificó como
+           una mejor alternativa la tercerización de la ejecución técnica del componente 2 permitiendo esto
+           obtener avances de manera oportuna y ampliar los alcances de este, dado que se contó con personal
+           técnico especializado y con experiencia en proyectos similares en el país. Tomando en cuenta que
+           este componente se estableció solo para ser ejecutado en 2 años, el equipo ejecutor pudo concen-
+33 Tucci, C. 2009. Plan de Manejo Integrado de los Recursos Hídricos de los recursos hídricos en la Cuenca Alta del Río Guayllabamba.
+BID y FONAG.
+                                                                                                                                  24
+"
+"         trarse en el seguimiento de las actividades planificadas dejando la responsabilidad logística a las em-
+         presas contratadas. No obstante, la tercerización limito el empoderamiento y capitalización de las
+         experiencias a nivel institucional.
+     <U+F02D>   El desarrollo de los diferentes sistemas informáticos por el personal interno de la ANDA, permitió
+         ahorros significativos considerando que originalmente se planificó hacer con la contratación de con-
+         sultorías externas para el desarrollo de los mismos, permitiendo esto ampliar el alcance y fortalecer
+         las capacidades del personal institucional.
+2.3      Eficiencia
+El “Programa de Agua Potable y Saneamiento Rural” (ES-L1046) planteaba, entre otros componentes, el me-
+joramiento y/o construcción de servicios de abastecimiento público de agua potable y saneamiento en co-
+munidades rurales de El Salvador, por un lado, y el mejoramiento de la gestión y eficiencia operativa de la
+Administración Nacional de Acueductos y Alcantarillados (ANDA), por el otro.
+El presente apartado presenta los resultados de la evaluación socioeconómica ex post de las intervenciones
+del Programa de Agua Potable y Saneamiento Rural ejecutadas por el Fondo de Inversión Social en Desarrollo
+Local (FISDL) y la Administración Nacional de Acueductos y Alcantarillados (ANDA).
+La información técnica de los proyectos fue suministrada por el FISDL y ANDA. En el caso de los proyectos
+rurales, se realizó un análisis costo-eficiencia, comparando los costos de inversión para intervenciones simi-
+lares, pero ejecutadas en otros países de la región. Para el caso de los proyectos de ANDA, se realizó un
+análisis costo-beneficio (ACB) ex post utilizando la misma metodología que para la evaluación ex ante.
+El componente de agua y saneamiento rural financió el diseño y los estudios técnicos de proyectos de agua y
+saneamiento, las obras de infraestructura y su supervisión, y la capacitación y asistencia técnica necesarias
+para asegurar la sostenibilidad de los servicios. Específicamente, con el programa se financiaron las siguientes
+actividades:
+El diseño de los proyectos comprendió la elaboración (o ajuste en caso de que los estudios presentados di-
+rectamente por los gobiernos municipales requirieran complementaciones para ser declarados viables) de
+los estudios de pre-inversión para los proyectos de agua potable y saneamiento. Estos estudios incluyeron:
+      <U+F0B7> La factibilidad hídrica de la fuente (aforos en la época adecuada o perforación de pozos para la de-
+         terminación de la suficiencia de la fuente tanto en caudal como en calidad de acuerdo a la normativa
+         vigente).
+      <U+F0B7> La elaboración de estudios de pre-factibilidad que incluyeran alternativas técnicas de solución para
+         los sistemas de agua potable y saneamiento.
+      <U+F0B7> La elaboración de estudios de diseño final o carpetas técnicas de los proyectos de agua potable y
+         saneamiento de acuerdo con la guía de formulación del FISDL y normas técnicas de ANDA.
+En el área de infraestructura se financió:
+      <U+F0B7> La construcción de sistemas nuevos con todas sus unidades operativas.
+      <U+F0B7> La ampliación de sistemas existentes.
+      <U+F0B7> Rehabilitación de sistemas con una antigüedad mayor a los 7 años.
+      <U+F0B7> Captación de aguas lluvias.
+                                                                                                              25
+"
+"En todos los casos se financió complementariamente la construcción y/o reparación de unidades básicas de
+saneamiento, que consistieron en unidades integrales con los siguientes elementos: pila con lavadero, ducha,
+inodoro, trampa de grasa, fosa séptica o biodigestor con caja para secado de lodos y disposición de aguas
+grises (pozo, bio-jardinera, zanja de infiltración y de arena filtrante).
+La supervisión de las obras, a cargo de terceros, permitió asegurar que estas se ejecutasen de acuerdo con la
+normativa técnica vigente, a los diseños y a las especificaciones técnicas de los proyectos.
+Complementariamente, y para contribuir a la sostenibilidad de sistemas de agua potable y saneamiento, se
+financió un sub-componente de capacitación y asistencia técnica buscando la conformación/fortalecimiento
+y capacitación de los operadores de los servicios, la promoción y organización de la participación activa de la
+comunidad para la prestación y uso eficiente de los servicios, y el fortalecimiento de capacidades de los go-
+biernos municipales para su seguimiento. Este sub-componente se realizó paralelamente a la ejecución téc-
+nica de los proyectos, acompañando las etapas de diseño, de ejecución de las obras e incluyendo apoyo para
+los primeros meses de operación y mantenimiento de los sistemas.
+Los proyectos de agua potable rural y las correspondientes soluciones de saneamiento han sido evaluados a
+través de una evaluación costo-eficiencia comparando cuánto es el costo de las diferentes alternativas para
+la construcción de sistemas similares en contextos y países similares y de esta forma verificar la eficiencia de
+los proyectos financiados por el programa. El indicador de efectividad utilizado fue personas beneficiadas por
+los proyectos. Los costos utilizados fueron los costos de inversión, dado que los costos de operación y man-
+tenimiento de los proyectos de agua y de saneamiento rurales analizados son muy similares entre sí y no
+representan un costo importante que modifique el análisis.
+Se analizaron los costos de inversión de 57 proyectos de agua y 56 de saneamiento ejecutados en los últimos
+6 años en comunidades rurales de El Salvador, Honduras y Guatemala, detalles de los cuales se presentan en
+el Apéndice I del Anexo de Evaluación Expos. Los costos de inversión fueron actualizados utilizando la evolu-
+ción el índice de precios al consumidor en los respectivos países entre el año de construcción y octubre de
+2018 y luego convertidos a dólares de octubre de 2018.
+El análisis de los costos de inversión de los 57 proyectos muestra que, en promedio, cuesta aproximadamente
+US$426 por persona dotar de agua potable a una comunidad rural, con una mediana de US$465 por persona.
+Adicionalmente, el 75% de los proyectos tuvo un costo menor a US$494 por persona, y el 95% de los proyec-
+tos costó menos de US$593 por persona. En el caso de los proyectos del presente programa, 14 proyectos (el
+78%) se ubicaron por debajo de la mediana en términos de costos per cápita, 15 proyectos (el 83%) se ubica-
+ron por debajo del 75% de la distribución y la totalidad de los proyectos se ubicaron por debajo del 95% de
+la distribución. De este análisis se puede inferir que el nivel de eficiencia del programa es aceptable.
+Para el caso de saneamiento, el análisis de los costos de inversión de los 56 proyectos muestra que, en pro-
+medio, cuesta aproximadamente US$227 por persona dotar de soluciones de saneamiento a una comunidad
+rural, con una mediana de US$249 por persona. Adicionalmente, el 75% de los proyectos tuvo un costo menor
+a US$271 por persona, y el 95% de los proyectos costó menos de US$405 por persona. En el caso de los
+proyectos del presente programa, 6 proyectos (el 33%) se ubicaron por debajo de la mediana en términos de
+costos per cápita, 10 proyectos (el 56%) se ubicaron por debajo del 75% de la distribución y 15 proyectos (el
+83%) se ubicaron por debajo del 95% de la distribución. De este análisis se puede inferir que el nivel de efi-
+ciencia del programa es algo inferior a los mostrados por otros programas; sin embargo, es fundamental
+considerar que la solución técnica desarrollada en este programa es superior a la de los otros programas,
+dado que en el caso de El Salvador las soluciones de saneamiento incluyeron en todos los casos lavatorio de
+manos y trampa para aguas grises lo cual, si bien elevó los costos, da un servicio superior a los usuarios.
+                                                                                                              26
+"
+"Tabla 4 Costos del Proyecto
+                                                                                      Component revised cost
+                                                                                                  21,750,000
+                          Output                                   Unit of Measure               2012            2013        2014       2015       2016      2017      2018    EOP 2018
+ 1.1                1.1. Sistemas de agua potable construidos,                        P     1,711,000        5,800,000   3,910,000  1,013,000                                 12,434,000
+                    rehabilitados y/o ampliados
+                                                                Proyectos ejecutados  P(a)  1,711,000        2,884,000   3,800,000  4,623,441  4,534,749 2,416,844   778,535  12,873,904
+                                                                                      A        45,600        1,665,674   3,825,417  2,355,875  2,565,091 1,637,712   131,038  12,226,407
+                          Output                                   Unit of Measure               2012            2013        2014       2015       2016      2017              EOP 2017
+ 1.2                1.2. Soluciones individuales de sanea-                            P     1,124,000        3,867,000   2,607,000    676,000                                   8,274,000
+                    miento construidas
+                                                                Soluciones individua- P(a)  1,124,000        1,473,000   2,500,000  3,082,294  3,023,167 2,200,326 1,108,121    8,582,603
+                                                                         les
+                                                                                      A        30,400        1,110,449 2,550,368.9  1,570,583  1,120,873 1,091,808    87,359    7,561,841
+                          Output                                   Unit of Measure               2012            2013        2014       2015       2016      2017      2018    EOP 2018
+ 1.3                1.3. Entidades administradoras operando                           P              0         290,000     326,000    236,000                                     852,000
+                                                               Entidades Administra-  P(a)           0          25,000     200,000    120,000 136,798.97  8,615.06                292,500
+                                                                        doras
+                                                                                      A              0               0    63,132.8   86,807.6 133,944.54       490                284,375
+                          Output                                   Unit of Measure               2012            2013        2014       2015       2016      2017      2018    EOP 2018
+ 1.4                1.4. El Fondo de Inversión Social para el  Sistema                P                        100,000      90,000                                                190,000
+                    Desarrollo Local (FISDL) con sistema de
+                    seguimiento, monitoreo e informacion me-                          P(a)                                  50,000          0          0                                0
+                    jorado                                                            A              0               0           0          0          0         0                      0
+                                                                                      Component revised cost
+                                                                                                3,182,493.76
+                          Output                                   Unit of Measure               2012            2013        2014       2015       2016      2017      2018    EOP 2018
+ 2.1                2.1. Personal del Ministerio de Medio Am-  Técnicos               P        21,670           49,975                                                             71,645
+                    biente y Recursos Naturales (MARN) y Uni-
+                    dades Ambientales capacitado en manejo                            P(a)     21,670           10,000      31,000          0          0                                0
+                    de cuencas y recursos hídricos
+                                                                                      A              0               0           0          0          0         0                      0
+                          Output                                   Unit of Measure               2012            2013        2014       2015       2016      2017      2018    EOP 2018
+ 2.1                2.2. Planes de manejo de cuencas priorita- Documentos             P       150,000          600,000                                                            750,000
+                    rias elaborados
+                                                                                      P(a)    150,000                0      63,000    103,600          0         0                332,582
+                                                                                      A       150,000                0      69,000 113,581.95          0         0                332,582
+                          Output                                   Unit of Measure               2012            2013        2014       2015       2016      2017      2018    EOP 2018
+ 2.2                2.3. Planes de manejo de cuencas priorita- Planes de manejo im-   P                        475,671   1,210,885    641,799                                   2,328,355
+                    rias implementados                         plementados
+                                                                                      P(a)                     925,500   1,253,000    169,907          0         0              2,849,912
+                                                                                      A       584,000          916,000   1,207,493 142,418.81          0         0              2,849,912
+                                                                                                                                                                             27
+"
+"                                                                      Component revised cost
+                                                                                16,777,542.03
+         Output                                     Unit of Measure                2012            2013       2014        2015       2016       2017  2018   EOP 2018
+3.1 3.1. Macromedidores Instalados en el Área   Macromedidores Insta- P       1,073,000                                                                       1,073,000
+    Metropolitana de San Salvador (AMSS)        lados
+                                                                      P(a)    1,073,000          702,000          0                      0          0       802,220.70
+                                                                      A       171,157.1        631,063.6          0           0          0          0       802,220.70
+         Output                                     Unit of Measure                2012            2013       2014        2015       2016       2017  2018   EOP 2018
+3.2 3.2. Proyecto de Obras de emergencia eje-   Proyecto ejecutado    P         769,000                                                                         769,000
+    cutado
+                                                                      P(a)      769,000          400,000          0                      0          0         1,005,276
+                                                                      A               0     1,005,276.27          0           0          0          0         1,005,276
+         Output                                     Unit of Measure                2012            2013       2014        2015       2016       2017  2018   EOP 2018
+3.3 3.3. Proyectos de Obras prioritarias para   Proyectos ejecutados  P       5,293,000                                                                       5,293,000
+    optimización de la distribución de agua po-
+    table en el AMSS ejecutados                                       P(a)    5,293,000        2,341,000                                 0          0         5,583,986
+                                                                      A    1,952,435.67      3,631,550.2          0           0          0          0         5,583,986
+         Output                                     Unit of Measure                2012            2013       2014        2015       2016       2017  2018   EOP 2018
+3.4 3.4. Nuevo sistema informático de gestión   Sistema informático   P       2,598,000                                                                       2,598,000
+    comercial y de contabilidad de costos, fun- implementa
+    cionando                                                          P(a)    2,598,000        1,098,000 126,273.64                      0          0         2,345,430
+                                                                      A      895,053.57     1,324,102.84 126,273.64           0          0          0         2,345,430
+         Output                                     Unit of Measure                2012            2013       2014        2015       2016       2017  2018   EOP 2018
+3.5 3.5. Medidores para agua potable adquiri-   Medidores adquiridos  P       1,445,000                                                                       1,445,000
+    dos
+                                                                      P(a)    1,445,000          445,000  22,989.02                      0          0         1,423,618
+                                                                      A       49,907.75     1,350,720.73  22,989.02           0          0          0         1,423,618
+         Output                                     Unit of Measure                2012            2013       2014        2015       2016       2017  2018   EOP 2018
+3.6 3.6 Entes administradores de sistemas ru-   Entes administradores P         102,000          832,000   466,000     100,000                                1,500,000
+    rales de agua potable y saneamiento favo-
+    recidos con Asistencia Técnica y Capacita-                        P(a)      102,000          200,000   600,000     900,000  549,935.41 131,935.41         1,671,349
+    ción por la Gerencia de Atención a siste-
+    mas y comunidades rurales                                         A               0         6,523.49  329,541.1    757,000    435,000  143,284.45         1,671,349
+         Output                                     Unit of Measure                2012            2013       2014        2015       2016       2017  2018   EOP 2018
+3.7 3.7 Programa piloto de optimización de efi- Programa              P       1,749,000                                                                       1,749,000
+    ciencia energética implementado
+                                                                      P(a)    1,749,000          500,000  70,855.71                      0          0         1,626,390
+                                                                      A      308,767.37     1,144,106.77 130,515.76           0     43,000          0         1,626,390
+         Output                                     Unit of Measure                2012            2013       2014        2015       2016       2017  2018   EOP 2018
+3.8 3.8 Catastro comercial actualizado          Catastro              P       1,073,000                                                                       1,073,000
+                                                                      P(a)    1,073,000          350,000   612,000  1,025,988.4          0          0         1,024,885
+                                                                      A               0                0          0 1,020,988.4   3,896.88          0         1,024,885
+                                                                                                                                                           28
+"
+"                              Output                                 Unit of Measure      2012         2013        2014      2015        2016       2017       2018      EOP 2018
+3.9                      3.9 Proyectos de eficiencia energética y Proyecto ejecutado P                                                                                            0
+                         operativa II
+                                                                                     P(a)                           400,000 767,718.26 405,589.97  17,454.72              1,590,072
+                                                                                     A              0          0 232,281.74    821,000    235,000    301,790              1,590,072
+            Output                                                                           2012      2013        2014      2015        2016       2017       2018        Cost
+    Auditoria, Monitoreo     Auditoria, Monitoreo y Evaluación                       P         75,000    265,000    300,000    200,000     60,000                           900,000
+    y Evaluación
+                                                                                     P(a)      75,000     75,000    125,000    108,400    165,000 148,289.36                350,809
+                                                                                     A              0     19,700   44,519.6     73,000     65,300  38,375.07                240,895
+    Administración           Administración                                          P        663,600    709,800    675,800    551,800     49,000                         2,650,000
+                                                                                     P(a)     663,600    568,700 696,144.62 559,064.12 239,036.47 197,541.63              1,765,048
+                                                                                     A         44,600 601,217.31 675,146.22    291,000 112,143.85  40,940.22              1,765,048
+     Output                                                                                  2012      2013        2014      2015        2016       2017       2018        Cost
+    Total Cost                                                                       P     17,825,600 12,839,471  9,495,685  3,418,599    109,000          0            43,688,355
+                                                                                     P(a)  17,825,600 11,987,200 10,469,263 11,460,413  9,054,276  5,121,006 1,886,656  44,002,544
+                                                                                     A      4,231,921 13,406,384  9,276,679  7,232,254  4,714,249  3,254,400   218,397  42,334,285
+                                                                                                                                                                       29
+"
+"2.4      Sostenibilidad
+     a. Aspectos generales sobre Sostenibilidad
+Desde el momento del diseño del programa, la sostenibilidad, constituyo uno de los principales aspectos a con-
+siderar. En el caso específico del componente I, vinculado con la ejecución de los proyectos de agua y sanea-
+miento rural, no sólo se valoró la ejecución de la obra física, sino también, la importancia de la participación de
+las comunidades a beneficiar desde la misma concepción del proyecto y a lo largo de todo su ciclo, con especial
+atención a la participación de la mujer en niveles decisorios de las juntas de agua, todo lo cual, sumado al desa-
+rrollo de capacidades para la administración de los sistemas y los procesos de capacitación impartidos, contri-
+buyo decididamente, a la sostenibilidad de los proyectos desde la dimensión social. Así mismo, el desarrollo de
+acciones de conservación del recurso hídrico, tanto dentro del área particular de cada proyecto como en muchas
+de las microcuencas, a las que pertenecían los mismos, sumado al cumplimiento de la normativa ambiental
+aplicable, fortaleció la dimensión ambiental asociada a la sostenibilidad. Además, se brindó especial atención, a
+los aspectos vinculados con la sostenibilidad a nivel económico de los sistemas, aplicando el principio de eco-
+nomía de escala en los proyectos ejecutados, además de garantizar la implementación de tarifas que permitie-
+ran cubrir al menos los costos de operación y mantenimiento de estos, lo cual fue apoyado, a través de asistencia
+técnica post-construcción, dada en un primer momento por el FISDL y posteriormente retomada por la Gerencia
+rural de ANDA, cuyo fortalecimiento, fue parte de las acciones financiadas por el programa.
+Un elemento adicional que sugiere la sostenibilidad en el tiempo fue la solicitud de que se garantizara que las
+instalaciones (terrenos para estaciones de bombeo, por ejemplo) fueran propiedad de la comunidad o de la
+municipalidad. La elaboración de un plan de seguridad del agua en cada intervención, para el primer año con
+un seguimiento cada 6 meses y la incorporación en los estatutos de cada junta de agua de la obligatoriedad de
+darle seguimiento y replanificación de los subsiguientes años, refuerza la sostenibilidad de los proyectos.
+Con respecto al componente de mejoramiento de fuentes y conservación de suelos en cuencas prioritarias, vale
+señalar que como parte de las acciones vinculadas a fortalecer la sostenibilidad de las intervenciones, se forta-
+leció la asistencia técnica para la preparación de los planes de finca y la aplicación de nuevas técnicas en temas
+de conservación de suelos, sistemas agroforestales, diversificación de cultivos y la capacitación de agricultores
+demostradores o extensionistas comunitarios a través de la transferencia de conocimientos, lo cual permito
+crear capacidades locales, fomentado con ello, el mantenimiento y ampliación del alcance de las intervencio-
+nes.
+En el componente de mejoramiento de la gestión y eficiencia operativa de la ANDA, las diferentes actividades
+realizadas, tales como la instalación de macromedidores para establecer el volumen de agua producida, distri-
+buida y facturada; la creación de nuevos sistemas de información, el catastro de usuarios actualizado, así como
+el entrenamiento del personal en el Nuevo Centro de Formación Integral recién inaugurado, han permitido a la
+entidad contar con capacidades institucionales ampliadas y contribuir al mismo tiempo, a mejorar la sostenibi-
+lidad financiera y técnica de la institución. Los principales riesgos ante los cuales se pueden enfrentar las dife-
+rentes actividades son:
+     <U+F0B7>   La falta de apoyo a los gobiernos municipales puede limitar la implementación de las medidas inclui-
+         das en los PGA de los sistemas de agua potable construidos, rehabilitados y/o ampliados.
+     <U+F0B7>   La falta de personal suficiente y necesario en el MARN para dar seguimiento a los resultados del pro-
+         grama, puede afectar la continuidad de las obras y prácticas en la conservación de suelos, infiltración
+         de agua y con sistemas agrosilvopastoriles desarrolladas en las 2,732 hectáreas intervenidas por el pro-
+         grama, así como en la continuidad del trabajo de las 2,393 personas beneficiadas con buenas prácticas
+         de manejo de cuencas, vale señalar sin embargo se ha constatado que algunas instituciones se han
+         involucrado en el seguimiento de algunas de las áreas intervenidas por el programa.
+                                                                                                                 30
+"
+"     <U+F0B7>   La falta de continuidad de las nuevas autoridades de la ANDA en las actividades iniciadas con el pro-
+         grama puede causar incremento en la brecha relacionada con la autogestión.
+     b. Salvaguardas ambientales y sociales
+El programa, durante su formulación como resultado de un Análisis Ambiental y Social, fue clasificado como
+categoría “B” considerando que produciría efectos ambientales y sociales positivos en el área de influencia.
+Durante la ejecución, las obras de construcción si bien causaron impactos ambientales y sociales moderados,
+localizados y de corta duración, se implementaron medidas de mitigación de conformidad a la Política de
+Salvaguardas del Medio Ambiente del Banco (OP-703), para lo que se elaboró un Marco de Gestión Ambiental
+y Social (MGAS) y un Plan de Gestión Ambiental y Social (PGAS).
+Cada uno de los proyectos, antes de su inicio, dio cumplimiento con la normativa ambiental respectiva y se ha
+incluido como tema de capacitación el seguimiento que los beneficiarios deben dar a los proyectos,
+principalmente durante la etapa de elaboración de carpetas, construcción y operación. Se dio cumplimiento a
+la salvaguarda que establece que se debe mantener amplia participación de los miembros de las comunidades
+en las asambleas en las que se aprueban los proyectos, se eligieron juntas de agua, se establecieron tarifas de
+agua, etc. Las comunidades se aseguran de que se cumplan los porcentajes comprometidos de participación de
+la mujer tanto en la gestión de los proyectos, como en su construcción y operación.
+                                         III.     CRITERIOS NO CENTRALES
+3.1.     Desempeño del Banco
+La evaluación del desempeño del Banco puede ser considerada como satisfactoria, ya que, durante el proceso
+de formulación del contrato de préstamo existió muy buena disposición de los diferentes equipos en todos los
+niveles para garantizar un proceso exitoso. El proceso de formulación incluyó diversas reuniones de planificación
+con especialistas de las tres instituciones co-ejecutoras y el Ministerio de Hacienda, que dieron soporte a la
+elaboración del documento para presentación y aprobación del Directorio del Banco, así como durante el
+proceso de aprobación y ratificación de la Asamblea Legislativa de El Salvador.
+Durante la implementación del Proyecto, también se contó con la buena disposición de las Autoridades y de
+Especialistas respectivos, lo que permitió la búsqueda de soluciones congruentes y expeditas, para solucionar
+de la mejor manera los problemas específicos que se generaron en el transcurso del Proyecto. La práctica
+realizada durante el periodo de ejecución del proyecto permitió el cumplimiento del objetivo y metas. El apoyo
+también se reflejó en la resolución oportuna de los requerimientos y modificaciones que sufrió la operación de
+préstamo, ya que, de no haber contado con la supervisión cercana del Banco, los tiempos de modificación
+podrían haber afectado la ejecución de los componentes.
+El apoyo que se tubo por parte del Banco en la resolución de problemas, el seguimiento periódico y la
+incorporación del uso de las herramientas de gestión principalmente el PEP para el seguimiento ha permitido ir
+superando las dificultades que los componentes fueron enfrentando.
+Durante la implementación y ejecución del Programa, en la que se requirió efectuar distintas coordinaciones
+con el Banco, se logró establecer una comunicación ágil y oportuna, mediante la cual se logró atender en tiempo
+y en forma todos aquellos procesos en los que se requirió la intervención del equipo del Banco, a fin de emitir
+las respectivas No Objeciones, recomendaciones y aprobaciones.
+A lo largo de la ejecución del programa se realizaron reuniones de seguimiento para lo que previamente se
+apoyó a las tres instituciones en la actualización de las herramientas de gestión, durante las mismas se discutía
+el avance logrados y los problemas enfrentados a lo largo del periodo que se analizaba.
+                                                                                                               31
+"
+"Otro aspecto relevante fueron las capacitaciones en temas relacionados con la gestión fiduciaria y las
+actualizaciones en el uso de los procesos aprobados en las políticas del Banco.
+3.2      Desempeño del prestatario
+El desempeño del prestatario se dio a través de la Unidad Coordinadora de ANDA que dio cumplimiento de
+manera oportuna a las cláusulas establecidas durante la ejecución del Programa, principalmente en cuanto a la
+consolidación de la información para la entrega de los informes de avance semestrales, así como de los estados
+financieros.
+A nivel técnico, tanto ANDA, FISDL y el MARN se han apropiado el programa en sus correspondientes
+componentes de manera tal de hacer sostenible las diferentes actividades desarrolladas.
+Durante la ejecución participaron activamente en todas las actividades de planificación y seguimiento que se
+realizaron utilizando las herramientas de gestión, así también participaron en los diferentes eventos de
+capacitación fiduciaria.
+                                     IV.      HALLAZGOS Y RECOMENDACIONES
+El programa durante su ejecución identificó una serie de hallazgos que describen una acción que era crítica para
+determinar la evolución positiva o negativa del mismo. La identificación de los hallazgos llevó a la posibilidad de
+establecer recomendaciones que, en similares circunstancias, facilitarían la resolución de problemas, la
+mitigación de riesgos o la replicación de éxito. A continuación, se describen los principales hallazgos por cada
+dimensión y sus correspondientes recomendaciones.
+En la Dimensión Técnico Sectorial se identifica como hallazgo que durante el diseño se debe contar con un
+conocimiento detallado del sector de A&S y tener claridad del problema del país ayudando a planificar de
+manera lógica los productos necesarios para lograr los resultados, por lo que se recomienda, que para el diseño
+de los Programas, se cuente con un diagnóstico completo y adecuado al problema que se desea solucionar así
+como utilizar los indicadores SMART para el seguimiento del Programa.
+Para la Dimensión organizacional y de gestión se identificó que al finalizar el programa los 3 ejecutores
+mantuvieron las Unidades Ejecutoras hasta la culminación de este, lo que permitió efectuar un cierre exitoso;
+lo anterior permite recomendar que las Unidades Ejecutoras deben estar integradas y operativas hasta el cierre
+del programa con poder de decisión, manteniendo la estabilidad y jerarquía del personal vinculado al mismo,
+para garantizar una ejecución constante y eficiente de lo programado.
+En la Dimensión de procesos y actores públicos se identificó que contar con el apoyo de los actores locales
+facilito al Programa la credibilidad de los potenciales beneficiarios por lo que en nuevas operaciones se
+recomienda que se promueva la participación de todos los actores interesados en acompañar al Programa en la
+ejecución de sus actividades y se realice la socialización del mismo dando a conocer los detalles a los habitantes
+de la zona de influencia.
+Dentro de los hallazgos de la Dimensión fiduciaria se identificó que el sistema de gestión financiera pública de
+El Salvador, SAFI, permite llevar una contabilidad individual de cada proyecto de infraestructura, característica
+que facilita la generación de reportes financieros de ejecución y la conciliación entre la contabilidad institucional
+y los estados financieros de propósito especial requeridos por el Banco por lo que se recomienda asegurar la
+existencia y mantenimiento de un adecuado sistema de registro contable y reporte financiero de los proyectos
+de inversión financiados y que facilita el seguimiento de la ejecución y cierre oportuno de los mismos. Las
+capacitaciones que dio el Banco al personal de las Unidades Ejecutoras a través de sus especialistas en el uso
+del sistema de ejecución del plan de adquisiciones SEPA y el que les motivara el uso del sistema de información
+del país COMPRASAL (Sistema Electrónico de Compras Públicas de El Salvador) para la promoción de los
+procesos, aseguro una mayor transparencia y redujo la posibilidad de declaratorias desiertas por lo que se
+                                                                                                                   32
+"
+"recomienda se mantenga la buena práctica del trabajo conjunto entre el BID y las ejecutoras asesorándolas y
+capacitándolas permanentemente asegurando de esta manera una ejecución más eficiente.
+En cuanto a la Dimensión de gestión del riesgo, se identificó que la integración de las Unidades Ejecutoras a la
+institucionalidad de los municipios, el rol articulador del programa, así como el apoyo de las autoridades
+municipales, constituyó un factor de éxito en su ejecución por lo que se recomienda que las acciones de
+mitigación de riesgos, deben constituirse en parte integrante de la ejecución de los programas y requieren de
+un seguimiento permanente, para evitar que los problemas de ejecución se materialicen y atente al éxito de los
+programas.
+                            Hallazgos                                             Recomendaciones
+Dimensión 1: Dimensión técnico-sectorial
+Hallazgo # 1. Durante el diseño se contó con un             Recomendación # 1. Es recomendable que, para el diseño de
+conocimiento detallado del sector de A&S y se tenía         los Programas, se cuente con un diagnóstico completo y
+claridad del problema del país ayudando a planificar de     adecuado al problema que se desea solucionar.
+manera lógica los productos necesarios para lograr los      Recomendación # 2. Utilizar los indicadores SMART hace
+resultados.                                                 más eficiente el seguimiento del Programa.
+Hallazgo # 2. La coordinación y apoyo interinstitucional    Recomendación # 3. Es recomendable impulsar la
+facilitó el manejo de los procedimientos con el Banco y la  coordinación interinstitucional para la agilización de
+realización de las actividades.                             mecanismos de apoyo entre equipos ejecutores.
+Hallazgo # 3. Para el M&E, cuando el Programa cuente con
+                                                            Recomendación # 4. Se debe contar con herramientas de
+más de un ejecutor se debe de dar seguimiento individual y
+                                                            seguimiento por ejecutor y una integrada por Programa.
+general del avance alcanzado.
+Dimensión 2: Organizacional y de gestión
+                                                            Recomendación # 5. Mantener informados a los ejecutores
+                                                            que el BID tiene la disposición de realizar las capacitaciones
+Hallazgo # 4. Las Unidades Ejecutoras en la actualidad      fiduciarias que el ejecutor necesite para asegurar el
+funciona como coordinación interna con otras unidades       conocimiento estandarizado del uso de las políticas del
+tales como planificación, financiera, adquisiciones, legal, Banco para todos los funcionarios involucrados en las áreas
+etc., lo que en muchas ocasiones atrasa o dificulta la      técnica, financiera, legal, adquisiciones, etc., que
+operación, debido a que estas unidades no disponen de los   contribuyan a mejorar las capacidades de gestión de estas.
+recursos humanos con las habilidades necesarias para        Es importante agregar que se deben mantener también la
+ejecutar con el alcance requerido.                          participación del equipo técnico y fiduciario del Banco en las
+                                                            reuniones de trabajo con el ejecutor, en sus oficinas y en las
+                                                            oficinas del Banco,
+                                                            Recomendación # 6. Las Unidades Ejecutoras deben estar
+Hallazgo # 5. Al finalizar el programa los 3 ejecutores     integradas y operativas hasta el cierre del programa con
+mantuvieron las Unidades Ejecutoras hasta la culminación    poder de decisión, manteniendo la estabilidad y jerarquía
+de este, lo que permitió efectuar un cierre exitoso.        del personal vinculado al mismo, para garantizar una
+                                                            ejecución constante y eficiente de lo programado.
+                                                            Recomendación # 7. Durante la fase de preparación de
+Hallazgo # 6. Contar con los recursos logísticos necesarios
+                                                            nuevas operaciones es importante considerar todos los
+facilito la adecuada supervisión de la Unidad Ejecutora.
+                                                            recursos mínimos necesarios, para una ejecución exitosa.
+Dimensión 3: De procesos y actores públicos
+                                                            Recomendación # 8. Realizar la promoción / socialización del
+                                                            programa dando a conocer los detalles del mismo a los
+Hallazgo # 7. Contar con el apoyo de los actores locales
+                                                            habitantes de la zona de influencia.
+facilito al Programa la credibilidad de los potenciales
+                                                            Recomendación # 9. Se debe promover la participación de
+beneficiarios.
+                                                            todos los actores interesados en acompañar al Programa en
+                                                            la ejecución de sus actividades.
+                                                                                                                        33
+"
+"Dimensión 4: Fiduciaria
+Hallazgo # 8. La firma de Auditoría Externa efectuó además
+de la revisión de los Estados Financieros del Programa, la    Recomendación # 10. Las firmas Auditoras deben ser
+revisión de la parte técnica de los proyectos, esto permitió  contratadas para la revisión integral de los Programas y no
+mayor control en la calidad de estos y la prevención de       solo deben efectuar auditorias financieras.
+inconvenientes en la ejecución física.
+Hallazgo # 9. El sistema de gestión financiera pública de El
+Salvador, SAFI, asegura una mayor transparencia en el uso
+                                                              Recomendación # 11. Asegurar la existencia y
+de los recursos ya que permite llevar una contabilidad
+                                                              mantenimiento de un adecuado sistema de registro
+individual de cada proyecto y programa, característica que
+                                                              contable y reporte financiero de los proyectos de inversión
+facilita la generación de reportes financieros de ejecución y
+                                                              financiados facilita el seguimiento de la ejecución y cierre
+la conciliación entre la contabilidad institucional y los
+                                                              oportuno de los mismos.
+estados financieros de propósito especial requeridos por el
+Banco.
+Hallazgo # 10. Durante la ejecución del programa, el Banco
+capacitó al personal de la Unidad Ejecutora a través de sus
+                                                              Recomendación # 12. Se debe mantener la buena práctica
+especialistas en el uso del sistema de ejecución del plan de
+                                                              del trabajo conjunto entre el BID y las ejecutoras
+adquisiciones SEPA y motivó el uso del sistema de
+                                                              asesorándolas y capacitándolas permanentemente
+información del país COMPRASAL (Sistema Electrónico de
+                                                              asegurando de esta manera una ejecución más eficiente.
+Compras Públicas de El Salvador) para la promoción de los
+procesos, redujo la posibilidad de declaratorias desiertas.
+Dimensión 5: Gestión del riesgo
+Hallazgo # 11. La integración de las Unidades Ejecutoras a la Recomendación # 13. Las acciones de mitigación de riesgos
+institucionalidad de los municipios, el rol articulador del   deben constituirse en parte integrante de la ejecución de los
+programa, así como el apoyo de las autoridades municipales,   programas y requieren de un seguimiento permanente, para
+constituyó un factor de éxito en su ejecución                 evitar que los problemas de ejecución se materialicen y
+                                                              atente al éxito de los programas.
+                                                                                                                        34
+"

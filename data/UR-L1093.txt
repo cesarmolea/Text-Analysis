@@ -1,0 +1,1577 @@
+"outlist[[i]]"
+"  METODOLOGÍA DE ANÁLISIS ECONÓMICO EX POST:
+  El Análisis económico realizado en forma Ex post toma como base la metodología utilizada en el estudio
+  de CBA Ex ante, a fin de que puedan ser comparables tanto los beneficios, como los costos económicos.
+  Al igual que en la evaluación CBA Ex ante, el análisis de costo- beneficio de los dos componentes se
+  realiza sobre los estudiantes de educación primaria. La metodología de cálculo de los beneficios
+  económicos (directos) del programa PAM y Ceibal en inglés se basa en la estimación de beneficios
+  directos a través de los retornos salariales por nivel educativo alcanzado, y de beneficios indirectos
+  mediante el ahorro generado por el sistema educativo al disminuir el número de repetidores de 1º grado
+  de Educación Media. Ver sección 2.3 para más detalles.
+  METODOLOGÍA DE EVALUACIÓN EX POST:
+  La evaluación ex post de resultados de Ceibal en Ingles, fue una evaluación de impacto, en la que se
+  compraron los desempeños en ingles de 3 cohortes, al ingreso al programa, en relación con aquellos al
+  egreso del 3º año, Para el caso de la Plataforma Adaptativa de Matemática, se realizó una evaluación
+  de impacto que comparó el desempeño en matemática de una muestra de estudiantes participantes de
+  un PANEL. Ver sección 3.2.b para más detalles.
+  CLASIFICACIÓN DE EFECTIVIDAD DE DESARROLLO: Se califica al proyecto como altamente satisfactorio.
+         PERSONAL DEL BANCOPosiciones                    en PCR                     En la aprobación
+                  Vicepresidente VPS                SANTIAGO LEVY                  SANTIAGO LEVY
+                  Vicepresidente VPC               ALEXANDRE ROSA                 ALEXANDRE ROSA
+                    Gerente de país                 JOSÉ LUIS LUPO                 JOSÉ LUIS LUPO
+                   Gerente Sectorial               MARCELO CABROL                 HÉCTOR SALAZAR
+                    Jefe de División                EMILIANA VEGAS                 EMILIANA VEGAS
+                Representante de país               MORGAN DOYLE                JUAN JOSÉ TACCONE
+              Jede de equipo del proyecto       MARCELO PÉREZ ALFARO                JESÚS DUARTE
+                Jefe de equipo del PCR          MARCELO PÉREZ ALFARO                         -
+  Tiempo y costo del personal
+                                                                         USD (incluidos los gastos de viaje y
+         Ciclo de proyecto de etapa        # de semanas de personal
+                                                                                      asesoría)
+                Preparación                           34                               82.600
+                 Supervisión                         160                              118.400
+                    Total                            194                              201.000
+  DECLARACIÓN DE LOS OBJETIVOS DE DESARROLLO DEL PROYECTO / PROGRAMA:
+  El objetivo central del proyecto será contribuir a través del uso de las nuevas Tecnologías de la
+  Información y la Comunicación (TICs) al mejoramiento en los aprendizajes de matemáticas e inglés en
+  la educación primaria y el ciclo básico de media en las instituciones escolares beneficiadas por la
+  operación.
+v
+"
+"Resumen Ejecutivo
+A inicios de 2014, el Plan Ceibal comenzaba su octavo año en funcionamiento, había completado
+la etapa de entrega de dispositivos a niños y docentes de primaria, y estaba completando lo
+correspondiente a media. Además, había dotado de conectividad a internet a los centros
+educativos públicos, y venía trabajando desde 2010 en la implementación de estrategias para
+fomentar el uso de los dispositivos para la mejora educativa. Así puso a disposición de
+estudiantes y docentes múltiples plataformas de gestión educativa como la Biblioteca Digital, la
+Plataforma Adaptativa de Matemáticas (PAM), la Plataforma Virtual de Aprendizaje Colaborativo,
+Contenidos y Recursos para Enseñanza y Aprendizajes (CREA), Ceibal en Inglés (CEI) y el
+Sistema de Evaluación de Aprendizajes en Línea (SEA).
+Asimismo, tal como se describe en el Capítulo II de este informe, desde 2013, Ceibal y el Sistema
+Educativo, comenzaron a plantearse el inicio de una nueva etapa, focalizada en la promoción del
+uso de las tecnologías disponibles como aceleradoras de nuevas pedagogías, y en el
+fortalecimiento de las capacidades de evaluación. En este contexto el Sistema Educativo
+comenzó a formar parte de la Red Global para el Aprendizaje Profundo (Nuevas Pedagogías
+para el Aprendizaje Profundo, NPDL)1, y Ceibal redefinió su estrategia operativa de asistencia
+técnica a centros educativos para fortalecer la participación en dicha red.
+En este contexto, Ceibal solicitó apoyo al BID para el financiamiento de un programa, destinado
+a contribuir a mejorar los aprendizajes de matemática e inglés, mediante la expansión de
+cobertura de CEI, y de la promoción del uso intensivo de la de la PAM. El Programa se alineaba
+con las prioridades del Banco, tanto en términos de Estrategia País como de Marco Sectorial
+Corporativo, y fue aprobado a mediados de 2014 y declarado elegible en diciembre del mismo
+año.
+El Programa fue implementado entre 2014 y 2017, de manera satisfactoria2 y en los plazos
+originalmente previstos, superó todos los resultados previstos para primaria, y alcanzó niveles
+de logro de más del 85% en los resultados previstos para media. La superación de los resultados
+esperados implicó también una mayor efectividad tal como demuestra la actualización del análisis
+costo-beneficio ex post realizada a partir de los niveles de ejecución alcanzados. Asimismo, el
+Programa fortaleció las capacidades de evaluación de Ceibal, y la generación de estudios
+pertinentes para la toma de decisiones tal como se describe y detalla en los capítulos III y IV del
+presente documento.
+También se generaron lecciones aprendidas y hallazgos relevantes en términos de la
+identificación de etapas pertinentes para la implementación de programas de incorporación del
+uso de tecnologías de la información al trabajo en aula, de la utilización de evaluaciones técnicas
+para la mejora de procesos de gestión, de la importancia de contar con espacios de gobernanza
+a la medida de las necesidades estratégicas y operativas de la intervención, y en la definición de
+contratos de pago según nivel de uso a proveedores de plataformas educativas. Todos ellos se
+describen en el Capítulo V.
+Por último, cabe mencionar que el apoyo a la mejora de los aprendizajes mediante la promoción
+de un uso activo de plataformas sigue siendo una prioridad política en Uruguay, tanto es así que
+el Banco da continuidad a su apoyo a esta agenda por medio de la tercera operación de apoyo
+a Ceibal “Generación C” recientemente aprobada (UR-L1141).
+1
+    Integran NPDL siete países (Canadá, Estados Unidos, Holanda, Nueva Zelanda, Australia, Finlandia y Uruguay).
+    Cobo, C., Brovetto, C., y Gago, F, Global Network for Deep Learning: The Case of Uruguay (2016).
+2   Ver PMRs 2014, 2015, 2016 y 2017
+                                                        6
+"
+"Introducción
+El Programa de apoyo a la educación en matemática e inglés en primaria y media (UR-L1093;
+3225/OC-UR), fue aprobado en junio de 2014 y declarado elegible en diciembre del mismo año,
+gracias al alto nivel de eficiencia y compromiso de una Unidad Ejecutora con vasta experiencia
+de trabajo con el Banco.
+En Uruguay, la educación es responsabilidad principal de dos instituciones: (i) el Ministerio de
+Educación y Cultura (MEC), en calidad de coordinador de las políticas educativas; y (ii) la
+Administración Nacional de Educación Pública (ANEP), ente autónomo con personería jurídica
+propia, responsable de la planificación, gestión y administración del sistema educativo público en
+sus niveles de educación inicial, primaria, media, técnica y de la formación en educación, y de la
+regulación de la educación privada. La ANEP está dirigida por un órgano rector, el Consejo
+Directivo Central (CODICEN), que orienta la gestión de los niveles educativos organizados en
+cuatro Consejos desconcentrados, el de Educación: Inicial y Primaria (CEIP); el de Educación
+Secundaria (CES); el Técnico Profesional (CETP), que incluye la educación terciaria técnica
+(tecnicaturas); y el de Formación en Educación (CFE).
+El Plan Ceibal es implementado por el Centro Ceibal para el Apoyo a la Educación de la Niñez y
+la Adolescencia, un organismo autónomo respecto a la institucionalidad educativa formal3. Fue
+anunciado en 2006 y comenzó sus actividades en 2007 por iniciativa de Presidencia de la
+República, con el objetivo de asegurar la equidad a través de la disminución de la brecha digital.
+Para Plan Ceibal, la tecnología contribuye a mejorar la educación en tanto (a) facilita la
+generación de experiencias pedagógicas innovadoras y (b) brinda la posibilidad de viabilizar
+actividades educativas que de otra forma no se podrían realizar, como el aprendizaje a distancia
+o la distribución de libros digitales. De esta forma, el Plan Ceibal ha sido la herramienta para
+cerrar la brecha digital en el país y para introducir las nuevas tecnologías de la información y la
+comunicación en el sistema educativo.
+Desde el lugar del Plan Ceibal, se venía identificando el potencial que la incipiente evidencia
+regional mostraba con relación al impacto que podían tener los programas de tecnología en
+educación, que promueven el uso intensivo de recursos tecnológicos por parte de docentes y
+estudiantes, para generar efectos positivos en los desempeños y aprendizajes. Estos programas
+mostraban además viabilidad para ser implementados a gran escala de manera costo-eficiente.
+Es así como continuando con el apoyo que el Plan Ceibal venía realizando al sistema educativo
+del país, y como un eslabón más en un proceso que tiene 10 años de iniciado, este proyecto se
+propuso contribuir al mejoramiento en los aprendizajes de matemáticas e inglés en la educación
+primaria y el ciclo básico de educación media en las instituciones escolares beneficiadas por la
+operación, a través del uso de las nuevas Tecnologías de la Información y la Comunicación
+(TICs).
+Para comprender la pertinencia y alcance de este programa, es necesario conocer y vincularlo
+con el proceso de consolidación y avance general del Plan CEIBAL desde su creación en 2007,
+y que podría resumirse en tres etapas:
+La primera etapa (2007-2009) se caracterizó por dotar de dispositivos a niños y docentes, y de
+conectividad a Internet a los centros educativos (CE). Como resultado, la brecha de acceso a
+una computadora entre el quintil de mayor ingreso y el de menor ingreso pasó de 12,8 (2007) a
+3 La Ley 18.719 (de aprobación del Presupuesto Nacional para el periodo 2010-2014), promulgada el 27/12/10 y
+     publicada el 5/01/11, institucionalizó Centro Ceibal) como una persona jurídica de derecho público no estatal, que
+     responde directamente a la Presidencia de la República Oriental del Uruguay.
+                                                            7
+"
+"1,2 (2010). El 99,9% de los estudiantes y docentes uruguayos hoy tienen acceso inalámbrico a
+Internet en su centro educativo.
+La segunda etapa (2010-2012) se focalizó en fomentar el uso de los dispositivos, poniendo a
+disposición plataformas de aprendizaje y apoyo a los docentes. Surge la figura de Maestro de
+Apoyo CEIBAL (MAC) y se crean múltiples plataformas de gestión del trabajo docente y
+educativas como la Biblioteca Digital, la Plataforma Adaptativa de Matemáticas (PAM), la
+Plataforma Virtual de Aprendizaje Colaborativo, Contenidos y Recursos para Enseñanza y
+Aprendizajes (CREA), Ceibal en Inglés (CEI) y el Sistema de Evaluación de Aprendizajes en
+Línea (SEA). Gran parte de estas herramientas fueron apoyadas por el Programa APRENDE
+(UR-L1058). Actualmente la Biblioteca Digital cuenta con más de 3.000 recursos digitales (libros,
+audio cuentos, videos, fichas didácticas, obras de arte). La PAM ofrece más de 100.000
+actividades matemáticas a estudiantes, desde 4º de Educación Primaria (EP) hasta 3º de
+Educación Media Básica (EMB), adaptables al ritmo de aprendizaje de cada estudiante y da al
+docente la posibilidad de brindar atención individualizada. CEI es un programa de enseñanza de
+inglés para 4º a 6º grados de EP, en el cual un profesor remoto se conecta semanalmente a
+través de videoconferencia con un grupo. Junto con el maestro de aula, conducen la enseñanza
+del inglés. Comenzó en 2012, para expandir la cobertura de la enseñanza de inglés, que
+alcanzaba apenas al 27% de la matrícula. Mientras el sistema de enseñanza presencial atiende
+32.000 estudiantes anuales, CEI permitió universalizar la enseñanza del idioma, pasando de
+25.000 alumnos (2013) a 85.000 (2016). La aplicación de la prueba adaptativa en inglés (2015)
+mostró que 66% de los alumnos de 6º grado alcanzaron los niveles de conocimiento esperados
+para su nivel en comprensión lectora. El SEA es usado por el 80% de los docentes uruguayos,
+aplicando evaluaciones con actividades diseñadas por docentes. Los resultados son entregados
+inmediatamente, permitiendo al docente reflexionar, intervenir sobre y personalizar los
+aprendizajes enfocándose en las dificultades experimentadas por los alumnos a través de, por
+ejemplo, del uso de la PAM.
+Finalmente, la tercera etapa (2013-presente) se focaliza en el uso de las tecnologías como
+aceleradores de nuevas pedagogías y el fortalecimiento de las capacidades de evaluación de
+CEIBAL. El objetivo es transformar las prácticas docentes integrando los dispositivos y los nuevos
+recursos a los aprendizajes. El reto de esta última fase es triple: (i) mantener en el tiempo el alto
+nivel de uso en las distintas plataformas; (ii) integrarlas de forma efectiva con el fin de consolidar
+su aporte a la transformación del proceso pedagógico en Uruguay; y (iii) promover la
+investigación, el análisis y la transferencia de conocimientos que permitirá apoyar la toma de
+decisiones de los diferentes actores en el sistema educativo.
+En este contexto, el objetivo general del programa fue contribuir al mejoramiento en los
+aprendizajes de matemáticas e inglés en la educación primaria y el ciclo básico de educación
+media en las instituciones escolares beneficiadas por la operación, a través del uso de las nuevas
+Tecnologías de la Información y la Comunicación (TICs).
+El Programa se focalizó en particular en la expansión de la PAM para el desarrollo de habilidades
+en matemática, y en el fortalecimiento de Ceibal en Inglés (CEI) para la incorporación masiva del
+inglés como segunda lengua a nivel escolar. En ambos casos el Programa se focalizaría en la
+ampliación y fortalecimiento de la asistencia técnica de apoyo a docentes.
+Para cumplir con este objetivo, el programa se organizó en tres componentes técnicos:
+Componente 1: Expansión de la Plataforma Adaptativa de Matemática (PAM), con el objetivo
+específico de ampliar la cobertura de los docentes y estudiantes que conocen, y especialmente,
+utilizan de manera intensiva la PAM para fortalecer los aprendizajes de matemática (US$ 950.000
+de aporte BID);
+                                                   8
+"
+"Componente 2. Expansión del modelo Ceibal en Inglés, con el objetivo específico de apoyar la
+expansión de Ceibal en Inglés al 50% del universo de grupos de escuelas públicas urbanas de
+4º, 5o y 6º de primaria, que cuenten con fibra óptica y equipo de videoconferencia instalada, lo
+que representaría llegar a 2000 grupos de estudiantes al final del proyecto (US$ 4.750.000 de
+aporte BID y US$ 900.000 de aporte local).
+Componente 3. Evaluación del impacto de las experiencias, para obtener información para que
+el país diseñe estrategias para la expansión a un mayor número de centros escolares y a otros
+niveles educativos (US$ 300.000 de aporte BID).
+Finalmente, cabe mencionar, que, en términos contractuales, con fecha 28 de marzo de 2016 el
+Prestatario y el Banco suscribieron el Contrato Modificatorio No 1 al contrato 3225/OC-UR, con
+el objeto de incorporar dentro de dicho contrato el documento sobre “Guías de Gestión Financiera
+para Proyectos Financiados por el Banco (OP-273-6), aprobada por el Banco el 30 de octubre
+de 2014”
+Criterios Centrales. Rendimiento del Proyecto
+            1.1 Relevancia
+El programa posee una clara relevancia tanto interna como externa en la medida en que -como
+se detalla en las siguientes secciones-, se alinea adecuadamente a las necesidades y prioridades
+de desarrollo del país al momento del diseño; y posee una lógica vertical sólida que plantea
+respuestas pertinentes a los problemas identificados.
+               a. Alineación con las necesidades de desarrollo del país
+El programa se alineó con las prioridades del país, de mejora de las condiciones de enseñanza
+de la población, en las áreas priorizadas en la Ley de Presupuesto quinquenal 2010-2014 (Ley
+18.719)4. El Programa puso énfasis en equidad e inclusión social mediante el desarrollo de un
+conjunto de acciones que estaban dirigidas a reducir la brecha digital en el país y para introducir
+las nuevas Tecnologías de la Información y la Comunicación (TICs) en el sistema educativo de
+forma masiva.
+El programa fue consistente con la Estrategia de País 2010-2015 (GN-2626), vigente durante su
+aprobación y elegibilidad en 2014, y se alineaba a los objetivos en el área de la educación de i)
+aumento en la cobertura para 12 y 14 años y mejora de la calidad; ii) aumento de cobertura de
+la educación media y reducción de la deserción, focalizando en jóvenes de 15 a 17 años de
+poblaciones vulnerables, con énfasis en población afro-descendente; iii) extensión de TICs y
+fomento de la educación tecnológica; y iv) generación de servicios de acreditación de estudios
+secundarios para adultos, .
+Asimismo, durante la ejecución del programa entre los años 2016 -2017 este se alineó a la nueva
+Estrategia de País 2016-2020 (GN-2836), contribuyendo al objetivo de aumentar la tasa de
+graduación de educación media y mejorar la calidad de la educación.
+Estas prioridades surgieron principalmente de constatar que, Uruguay, al igual que otros países
+de la región, presenta grandes desafíos para abordar algunas brechas que podrían limitar su
+crecimiento en el mediano y largo plazo, entre ellas, la insuficiente e inadecuada provisión de
+capital humano. Esta es una de las limitantes más importantes para el crecimiento económico,
+especialmente en la medida que las exportaciones se tornan más intensivas en mano de obra
+4   Ley 18.719
+                                                 9
+"
+"especializada. Uruguay presenta déficits de calidad, pertinencia y equidad de educación
+secundaria y técnico-profesional donde más del 60% de los jóvenes de 21 años no ha completado
+la educación media5, y se evidencian déficits de habilidades y destrezas en la fuerza laboral.
+En respuesta a estas problemáticas, el programa dio continuidad y potenció acciones que se
+habían iniciado en el marco del “Programa de Apoyo a la Consolidación y Expansión del Plan
+Ceibal (UR-L1058 / 2260/OC-UR)”. En este sentido, su aporte ha sido clave para que el sistema
+educativo pudiera mejorar la enseñanza y aprendizaje en matemáticas e inglés de niños y
+jóvenes, ambas áreas de gran relevancia para el desarrollo futuro de habilidades y destrezas
+personales y laborales, reduciendo además la brecha digital preexistente entre grupos
+socioeconómicos, y expandiendo el uso de las TICs de manera masiva.
+                  b. Alineación Estratégica
+El programa estuvo alineado al momento de su diseño con las prioridades de financiamiento del
+Banco, expresadas en el Noveno Aumento General de Recursos del BID (AB-2764) (GCI-9), que,
+en el caso de países pequeños y vulnerables, priorizaba acciones orientadas a la reducción de
+la pobreza, y al aumento de la equidad, siendo así consistente con el objetivo de promover una
+política social favorable a la igualdad y a la productividad.
+Asimismo, se alineó a las metas sectoriales en educación, vinculadas al aumento del número de
+estudiantes que se benefician de proyectos educativos. También durante su ejecución mantuvo
+la alineación con la actualización del Marco Corporativo de Resultados (AB-3008), y con la
+Estrategia para una Política Social Favorable a la Igualdad y la Productividad (GN-2588-4).
+                  c. Relevancia del Diseño
+La lógica vertical del programa se amparaba en la evidencia existente al momento de su diseño,
+de que los programas de tecnología en educación que guían el uso de recursos tecnológicos por
+parte de los docentes y que miden si se usan de forma intensiva por estos y por los alumnos,
+tienden a presentar efectos positivos y significativos en el aprendizaje, además de permitir su
+implementación a gran escala y ser de carácter costo-eficientes6.
+Para el caso del desempeño en matemáticas de los estudiantes uruguayos, pese a los grandes
+esfuerzos que el país venía realizando en materia de educación en los últimos años, los
+aprendizajes continuaban siendo insuficientes y las pruebas internacionales mostraban bajos
+niveles de rendimiento en todos los niveles. Según los últimos datos del Tercer Estudio Regional
+Comparativo y Explicativo (TERCE), recogidos en 2013 por el Laboratorio Latinoamericano de
+Evaluación de la Calidad de la Educación (LLECE)7, a nivel de 6º grado de primaria, un 26% de
+los estudiantes uruguayos se encontraba en el nivel más bajo de la prueba, lo que significa que
+no es capaz de resolver problemas simples que involucran números decimales, fracciones y
+variaciones proporcionales, y un 36% se encontraba en el segundo nivel, siendo que solamente
+el 13% de los estudiantes lograba desempeños correspondientes al mayor nivel de la prueba lo
+cual implica que son capaces de resolver problemas complejos que involucran –entre otros-
+5   ECH 2015. Datos procesados por el Instituto Nacional de Evaluación Educativa, y publicados en el Informe sobre
+    el estado de la educación en Uruguay 2015-2016.
+6   Arias Ortiz, E. y Cristia, J (2014), “El BID y el uso de tecnología para los aprendizajes: ¿cómo promover programas
+    efectivos?”, Nota Técnica, BID.
+7   Datos recogidos en el Informe sobre el Estado de la Educación en Uruguay 2015-2016 del Instituto Nacional de
+    Evaluación Educativa.
+                                                               10
+"
+"números decimales y fracciones o variaciones proporcionales, que requieren convertir unidades
+de medidas e interpretar datos presentados en tablas o gráficos más complejos.
+Para el caso de los adolescentes, a los 15 años, y considerando solamente al 86% que son los
+que están escolarizados, las pruebas del Programme for International Student Assessment
+(PISA) más recientes, recogidas en 2015 muestran que el 52% no es capaz de interpretar y
+reconocer situaciones en contextos que requieren hacer inferencias directas, extraer información
+relevante a partir de una sola fuente, emplear algoritmos básicos, formulas, procedimientos o
+convenciones para resolver problemas con números enteros8. La evolución de los resultados en
+las pruebas de PISA indica que, en el último decenio, no se han registrado progresos, y que los
+desempeños siguen siendo significativamente diferenciados según nivel socioeconómico. Dicho
+estancamiento, según los estudios existentes, son consecuencia a la vez de deficiencias en la
+formación docente, insuficiente tiempo pedagógico es esa asignatura, alta relación
+alumnos/docente, y escasez de materiales didácticos y estrategias de apoyo al trabajo de los
+docentes en el aula y de los estudiantes en sus hogares, entre otros.
+En este marco, el Centro Ceibal buscó contribuir a la mejora de los resultados en los aprendizajes
+en matemáticas por medio del apoyo en el uso de las nuevas tecnologías, con la expansión de la
+PAM, a través de la ampliación y fortalecimiento de la asistencia técnica de apoyo a docentes.
+En este marco, el Centro Ceibal buscó contribuir a la mejora de los resultados en los aprendizajes
+de matemática por medio del apoyo en el uso de las nuevas tecnologías, con la expansión de la
+PAM, a través de la ampliación y fortalecimiento de la asistencia técnica de apoyo a docentes.
+La Plataforma Adaptativa de Matemática (PAM). La PAM es una plataforma adaptativa,
+desarrollada con apoyo del programa anterior con el Banco, y puesta a disposición de docentes
+y estudiantes en 2013. La PAM proporciona herramientas a alumnos y docentes de educación
+primaria y secundaria para desarrollar el trabajo matemático tanto en el aula como fuera de ésta.
+Ya en el momento del diseño de este Programa la PAM contenía más de cien mil propuestas de
+actividades, con diferentes niveles de dificultad, con resoluciones alternativas y secuencialidad,
+y con evaluación y retroalimentación continua, para que el usuario pueda avanzar
+progresivamente y a su propio ritmo. Contenía, además, herramientas para que los docentes
+puedan preparar sus clases, establecer metas de aprendizaje y proponer a los estudiantes
+ejercicios y tareas domiciliarias (grupales o individuales). La PAM incorporaba también cerca de
+600 entradas temáticas y acceso a 300 libros de texto.
+Para la expansión del uso de la PAM, Ceibal se propuso centrarse en el apoyo técnico a docentes
+para promover un mayor y mejor uso de la plataforma, la cual en educación primaria se
+concretaba en aquel entonces a través de los Maestros de Apoyo Ceibal (MACs). Desde 2013
+Ceibal había comenzado a otorgar asistencia técnica y acompañamiento a cerca de 280 escuelas
+(educación primaria), en las cuales, a partir de una demanda voluntaria, se capacitaron sus
+docentes, directivos y maestros de apoyo Ceibal en estrategias de incorporación de los diferentes
+recursos digitales en las aulas. La información administrativa recogida demostraba una mayor
+intensidad de uso y exposición a la plataforma tanto de docentes como de estudiantes en
+aquellos centros en los que se contaba con MACs.
+El carácter adaptativo de la PAM, había mostrado ya, según la opinión de expertos como Michael
+Fullan, el potencial para cambiar prácticas docentes y mejorar el aprendizaje del alumno a través
+de procesos pedagógicos más personalizados9, en cuanto permite incorporar actividades de
+aprendizaje diferenciadas según el nivel de conocimientos de los alumnos, y permitía a los
+8   Datos recogidos en el Informe sobre el Estado de la Educación en Uruguay 2015-2016 del Instituto Nacional de
+    Evaluación Educativa.
+9   Fullan, M; Watson, N; y Anderson, S; CEIBAL (2013): Los Próximos Pasos. Informe Final.
+                                                        11
+"
+"docentes planificar las clases usando la información disponible sobre el progreso de cada alumno
+individual. Igualmente, la PAM tenía potencial para complementar y fortalecer los conocimientos
+de matemáticas de los propios docentes que encuentran en la PAM ejercicios adaptativos para
+fortalecer sus propios conocimientos.
+Pese a la limitada experiencia internacional en la temática, la metodología propuesta con PAM
+era promisoria considerando estudios como el de Arias y Cristia (2014) que indicaban que los
+programas de tecnología en educación que guían el uso de los recursos tecnológicos por parte
+de los docentes - aquellos que definen de forma clara, la materia, frecuencia y material
+tecnológico a ser usado para alcanzar un objetivo - tienen hasta 4 veces mayor impacto en
+aprendizajes, que los programas de uso no guiado10. xx
+Ceibal en Inglés (CEI). En lo que respecta a la enseñanza de inglés, es necesario destacar que
+previo a la creación del programa Ceibal en Inglés, la oferta de enseñanza de este idioma era
+muy reducida en la educación primaria pública uruguaya y solo había comenzado a ser parte del
+currículo oficial en el 2008. Hasta la creación de Ceibal en Inglés, solo 15% de las escuelas de
+primaria pública tenían docentes de Inglés, debido principalmente a la escasez de esta clase de
+docentes, lo que le impedía en el corto, y aún en el mediano plazo, pensar en poder expandir la
+enseñanza de inglés usando métodos tradicionales de enseñanza.
+Ceibal en Inglés es una estrategia de enseñanza de inglés en forma remota, iniciada a fines de
+2012 con apoyo del Programa anterior del Banco (en 45 grupos en 20 escuelas y que en 2013
+ya había alcanzado los 985 grupos), dirigida a niños y maestros de 4º a 6º grado de primaria. El
+programa se basa en un trabajo conjunto del docente de aula y un maestro de inglés que da su
+clase en forma remota mediante videoconferencia. El maestro de inglés da una clase por
+videoconferencia a la semana a los niños y trabaja por Skype con el docente de aula para que
+éste ofrezca de forma presencial otras dos clases semanales utilizando materiales acordados
+con el docente remoto.
+El programa tiene soporte en materiales digitales (videos, imágenes, juegos, canciones, etc.),
+que se acompañan por materiales impresos que se usan en las clases. Y ofrece simultáneamente
+al docente de aula cursos on-line para que mejore su nivel de inglés11. La tecnología utilizada es
+la proporcionada por Ceibal a los centros educativos, y es de alta calidad: pantalla gigante de
+alta definición, sonido estéreo, plataforma digital especializada para la inclusión de materiales
+digitales en la clase remota, materiales de apoyo diseñados para uso intensivo y conexión a
+internet por fibra óptica.
+Una evaluación preliminar no experimental de Ceibal en Inglés había mostrado en 2013 un mejor
+desempeño en estudiantes con más tiempo (al menos seis meses) de exposición al programa,
+independientemente de su origen sociocultural12.
+Las acciones planteadas, y los resultados esperados por el Plan Ceibal, y el Programa, se
+asociaron directamente a dos tipos de acciones tal como muestra el siguiente gráfico:
+10  Arias Ortiz, E. y Cristia, J (2014), “El BID y el uso de tecnología para los aprendizajes: ¿cómo promover programas
+    efectivos?”, Nota Técnica, BID.
+11  El docente de aula, es el docente titular del grupo, que en algunos casos tiene conocimientos previos de inglés,
+    pero que en ningún caso es docente de ésta lengua.
+12  Ver CEIBAL (2013), “Análisis cuantitativo sobre resultados de las pruebas de inglés aplicadas en la Plataforma
+    SEA de ANEP”, Departamento de Evaluación y Monitoreo del Plan Ceibal.
+                                                               12
+"
+"Ilustración 1 Lógica Vertical del Diseño
+                                                                                       Impacto
+                                                      Resultados
+        Productos / Actividades                                                   (Indicadores de
+                                             (indicadores de resultados)
+                                                                                      impacto)
+                                              #1 – Expansión de la PAM
+                                                                                     Mejora en el
+                                               Centros escolares reciben           aprendizaje de
+                                            asistencia técnica: primaria 400         Matemática.
+    (1.1) 11.520 horas de asistencia
+                                               centros escolares (MAC),
+   técnica directa a formadores que
+                                            secundaria 125 centros (PAM).
+   trabajan para la PAM brindadas.
+                                             Estudiantes conocen la PAM:           11% de mejora
+                                         primaria 63.000 estudiantes (4º a 6º      respecto a una
+                                          grado), secundaria 27.000 (1º a 3º   desviación estándar
+                                                         grado).               en los resultados de
+                                                                                matemáticas entre
+       (1.2) Al menos una escuela         Estudiantes usan intensivamente la   alumnos de 6º grado
+    accede a la nueva versión de la          PAM: primaria 12.600 (4º a 6º     de primaria que usan
+    PAM disponible (incluye módulo         grado), secundaria 5.400 (1º a 3º     intensivamente la
+        de integración SEA-PAM)                          grado).               PAM y los que no la
+                                                                                        usan.
+                                             #2 – Expansión del modelo
+                                                   Ceibal en inglés                   Mejora en
+                                                                                   aprendizajes de
+    (1.3) 68.000 clases dictadas por           Grupos escolares reciben         inglés en Primaria.
+            maestros remotos.             asistencia técnica: 2.000 grupos de
+                                               primaria (de 4º a 6º grado)         15% de mejora
+                                                                                   respecto a una
+                                            Maestros de aula participan del    desviación estándar
+                                          programa: 1900 maestros (de 4º a     en los resultados de
+                                                        6º grado)                  inglés entre los
+                                                                                   alumnos cuyas
+                                            Grupos escolares de educación
+                                                                               escuelas ingresan al
+       (1.4) Al menos una escuela           primaria pública urbana reciben
+                                                                                programa en marzo
+    accede a la versión revisada de          enseñanza en inglés: 50% de
+                                                                                    de 2015 y los
+    plataforma de inglés disponible.          cobertura (de 4º a 6º grado)
+                                                                                   alumnos cuyas
+                                           Alumnos que hayan transitado 3      escuelas ingresan al
+                                         años de enseñanza del programa de     programa en julio de
+                                         inglés alcanzan el nivel A2: 60 %              2015.
+                                                      de alumnos
+Por un lado, se procuraba poner a disposición y fomentar la ampliación del uso de recursos
+digitales para la enseñanza de matemáticas e inglés. Por otro lado, se proponían acciones
+tendientes a ofrecer apoyo técnico a docentes que participan del programa en las dos materias.
+En el diseño original, el apoyo técnico para el uso de PAM se realizaría a través de los MAC en
+primaria y de los tutores en media, y de los docentes remotos de inglés en CEI. Este modelo, no
+solo permitiría al programa fomentar el uso de la tecnología e integrar los recursos tecnológicos
+en el aula y el hogar, sino que facilitaría cambios en las prácticas pedagógicas docentes
+explotando de esta forma las ventajas comparativas de la tecnología.
+La elección de estas acciones se basaba en la convicción de que es fundamental desarrollar las
+capacidades del docente para que puedan dar un uso adecuado a la tecnología y mejorar con
+ella sus prácticas pedagógicas, impactando en los aprendizajes.
+                                                    13
+"
+"En este sentido, se considera que la lógica vertical del programa es apropiada en términos de
+consistencia interna, en la medida en que las acciones definidas están relacionadas con cada
+uno de los objetivos específicos, y estos últimos están alineados con el objetivo general, tal como
+se expresa en la Ilustración 1.
+Cabe mencionar, que en este tipo de programas los productos se vinculan con poner a
+disposición de escuelas, docentes y estudiantes un conjunto de herramientas educativas, y el
+resultado, entendido como cambio de comportamiento esperado, es la decisión de docentes y
+estudiantes del uso de éstas.
+En el caso de la PAM, la utilización de la asistencia técnica para apoyar la incorporación y uso
+de la plataforma es voluntaria y debe ser solicitada por los centros educativos. A partir de esto,
+se espera que, como consecuencia, más estudiantes conozcan la PAM y que un grupo de ellos
+la utilicen intensivamente. Por esto, el conocimiento e intensidad de uso de la PAM por los
+estudiantes depende del cambio de práctica de los docentes, y de ellos mismos.
+Para Ceibal en Inglés, la adhesión al Programa, aunque más masiva, también es voluntaria por
+parte de las escuelas. A partir de la adhesión inicial del centro educativo, los maestros de aula
+deben aceptar y adecuarse a la metodología de trabajo de CEI, en la cual ellos actúan como
+enlace entre el docente remoto y el grupo, articulan el uso de materiales y orientan la clase, sin
+conocer necesariamente el idioma. Es entonces que se espera, que, como consecuencia de la
+adhesión del centro (solicitar el programa, y dar prioridad al uso de la sala de video conferencia),
+y del maestro (coordinación con maestro remoto, y dictado efectivo de las 2 clases
+complementarias), los estudiantes accedan a las clases remotas de inglés y logren adquirir
+aprendizajes de dicha lengua.
+Estas definiciones sobre la selección de los indicadores de resultados fueron tomadas durante el
+diseño de la operación y se mantuvieron en operaciones subsiguientes con Ceibal como el
+Programa Generación C: consolidando innovaciones educativas para las habilidades y
+competencias del SXXI (UR-L1141).
+                                                14
+"
+"                                Tabla 1. Matriz de resultados (aprobación @, 60 días después de alcanzar la elegibilidad y @ exit)
+                                                                                             En elegibilidad + 60 días
+                                                                  En aprobación                                             Al terminar el proyecto (PCR)
+                                                                                                   (marzo.2015)
+                       Indicadores                                                                                                                                  Comentarios
+                                                                        Línea                            Línea                           Línea
+                                                         Unidad de               Meta     Unidad de                 Meta  Unidad de
+                                                                          de                               de                              de         (A)
+                                                           Medida                 (P)      Medida                    (P)    Medida
+                                                                        Base                             Base                             Base
+Objetivo específico de Desarrollo 1 - Expansión de la PAM
+   Impactos
+                                                                                                                                                             Con los resultados finales,
+                                                                                                                                                               conocidos en 7.2017, el
+(Indicador # 1) Mejora en aprendizajes en Matemáticas                                                                                                      análisis se realizó en base a la
+en Primaria:                                                                                                                                                   ganancia diferencial en
+% de mejora respecto a una desviación estándar en los     % mejora                        % mejora                         % mejora                         aprendizajes de matemáticas,
+resultados de matemáticas entre los alumnos de 6º grado  en Desvíos       0       11     en Desvíos        0         11   en Desvíos      N/C        0.21   entre los alumnos que usan y
+de primaria que usan intensivamente la PAM (en las        estándar                        estándar                         estándar                           no usan PAM. Medida en
+áreas más comúnmente consultadas en la plataforma) y                                                                                                       desvíos estándar en base a un
+los que no la usan intensivamente.                                                                                                                         panel realizado con las pruebas
+                                                                                                                                                              TERCE (2013, 3º grado y
+                                                                                                                                                                         2016)
+   Resultados
+(Indicador # 1.1) # de centros escolares de primaria que
+reciben asistencia técnica en la PAM a través del MAC      centros       280      400      centros        280       400     centros       280         494
+(acumulado).
+(Indicador # 1.2) # de centros de secundaria (Liceos y
+UTUs) que reciben asistencia técnica en la PAM             centros        52      125      centros         52       125     centros        52         181
+(acumulado).
+(Indicador # 1.3) # de estudiantes que conocen la PAM
+                                                         estudiantes   35.800   63.000   estudiantes    35.800     63.000 estudiantes    35.800     65.237
+en Primaria (4º al 6º grado)13.
+(Indicador # 1.4) # de estudiantes que conocen la PAM                                                                                                      Marzo 2015, modificación en la
+                                                         estudiantes   13.900   27.000   estudiantes    13.900     27.000 estudiantes    13.900     34.463
+en Secundaria (1º al 3º grado).                                                                                                                               redacción de indicadores.
+(Indicador # 1.5) # de estudiantes que usan
+                                                         estudiantes    7.000   12.600   estudiantes     7.000     12.600 estudiantes    7.000      34.495    Su sustituye “número” por
+intensivamente la PAM en Primaria (4º al 6º grado)14.
+(Indicador # 1.6) # de estudiantes que usan                                                                                                                      “número adicional”.
+intensivamente la PAM en Secundaria (1º al 3º grado).    estudiantes    3.000    5.400   estudiantes     3.000     5.400  estudiantes    3.000      17.655
+           13    Conocer la PAM significa que el estudiante accedió la plataforma y realizó al menos un ejercicio al año.
+           14    Usar intensivamente la PAM significa que el estudiante realizó al menos 100 ejercicios al año.
+                                                                                            15
+"
+"Objetivo específico de Desarrollo 2 - Expansión del modelo Ceibal en Inglés
+   Impactos
+(Indicador # 2) Mejora en aprendizajes de Inglés en                                                                                                        En julio.2017 se modificó la
+Primaria:                                                          %                                                                                       redacción, al incorporarse la
+                                                                                         % mejora
+% de mejora respecto a una desviación estándar en los         mejora en                                                                                    posibilidad de medir
+                                                                         0       15     en Desvíos     0        15
+resultados de inglés entre los alumnos cuyas escuelas         Desvíos                                                                                      aprendizajes con tests
+                                                                                         estándar
+ingresan al programa en marzo 2015, y los alumnos             estándar                                                                                     adaptativos a todos los
+cuyas escuelas ingresan al programa en julio 2015                                                                                                          estudiantes beneficiarios. La
+                                                                                                                                                           redacción ajustada es:
+(redacción ajustada)                                                                                                                                       Porcentaje de estudiantes de
+ Porcentaje de estudiantes de Ceibal en Inglés de 6º de                                                                                                    Ceibal en Inglés de 6º de
+                                                                                                                             %         N/C         55
+centros educativos urbanos que aplican tests adaptativos                                                                                                   centros educativos urbanos
+y alcanzan un nivel A2 en VRG                                                                                                                              que aplican tests adaptativos y
+                                                                                                                                                           alcanzan un nivel A2 en VRG
+   Resultados
+(Indicador # 2.1) # de grupos de estudiantes (de 4º a 6º
+grado de primaria) que reciben asistencia técnica en
+                                                               Grupos   985     2000      Grupos      985      2000       Grupos       985       3.509     Marzo 2015, modificación en la
+componentes tecnológicos y pedagógicos del proyecto15
+(acumulado incluyendo la línea de base)16.                                                                                                                     redacción de indicadores.
+(Indicador # 2.2) # de maestros de aula participando del                                                                                                        Su agrega “(acumulado
+                                                              Maestros  941     1900     Maestros     941      1900      Maestros      941       3.355
+programa17 (acumulado incluyendo la línea de base)18.                                                                                                       incluyendo la línea de base)” al
+(Indicador # 2.3) % del total de los grupos de 4º, 5º y 6º de                                                                                                      final del indicador
+educación primaria pública urbana que reciben enseñanza        Grupos   25%     50%       Grupos     25%       50%        Grupos       25%       95%
+en inglés (acumulado incluyendo la línea de base)19.
+(Indicador # 2.4) % de alumnos que hayan transitado 3
+años de enseñanza del programa de inglés que alcanzan         alumnos    0      60%      alumnos       0       60%        alumnos       0        79%
+el nivel A220.
+            15   Asistencia técnica a cada grupo significa una clase remota semanal (por 34 semanas); dos sesiones semanales entre el maestro remoto y el de clase (por 34
+                 semanas); y entrega de material didáctico a cada grupo. En promedio cada grupo tiene 25 estudiantes.
+            16    El texto entre paréntesis fue agregado posteriormente.
+            17   La diferencia entre número de grupos y docentes se debe a que hay docentes que trabajan en más de un turno y/o centro educativo.
+            18   El texto entre paréntesis fue agregado posteriormente.
+            19   El texto entre paréntesis fue agregado posteriormente.
+            20   Nivel A2 corresponde al nivel inicial alto de inglés según el Marco de Referencia Europeo para lenguas. Nivel A2 supone que la persona: “Es capaz de
+                 comprender frases y expresiones de uso frecuente relacionadas con áreas de experiencia que le son especialmente relevantes (información básica so bre sí
+                 mismo y su familia, compras, lugares de interés, ocupaciones, etc.). Sabe comunicarse a la hora de llevar a cabo tareas simples y cotidianas que no quieran
+                 más que intercambios sencillos y directos de información sobre cuestiones que le son conocidas o habituales. Sabe describir en términos sencillos aspectos
+                 de su pasado y su entorno así como cuestiones relacionadas con sus necesidades inmediatas”.
+                                                                                           16
+"
+"         1.2 Eficacia
+Los siguientes apartados describen la efectividad alcanzada por el programa a partir de los
+objetivos planteados, identificándose los resultados alcanzados, los elementos y evidencias
+que permiten atribuir los mismos a las acciones del programa, así como otros resultados no
+previstos originalmente.
+              a. Declaración de objetivos de desarrollo del proyecto
+El objetivo general del programa fue contribuir al mejoramiento en los aprendizajes de
+matemáticas e inglés en la educación primaria y el ciclo básico de educación media en las
+instituciones escolares beneficiadas por la operación, a través del uso de las nuevas
+Tecnologías de la Información y la Comunicación (TICs).
+Para el logro de estos objetivos, el programa se estructuró en los siguientes componentes:
+Expansión de la Plataforma Adaptativa de Matemática (PAM);
+Expansión del modelo Ceibal en inglés; y
+Evaluación del impacto de las experiencias.
+Componente I: Expansión de la PAM (US$950.000 aporte BID). Con este componente se
+esperaba ampliar la cobertura de los docentes y estudiantes que conocen, y especialmente,
+utilizan de manera intensiva la PAM como medio para fortalecer los aprendizajes de
+matemática. Para ello, el proyecto financiaría acciones de asistencia técnica y
+acompañamiento a las escuelas de educación primaria y centros de educación secundaria
+(media básica, incluyendo instituciones de educación técnica) en el uso, fortalecimiento y
+desarrollo del uso de la PAM. El proyecto procuraría incrementar el número de centros
+escolares con capacidad instalada para el uso de la PAM hasta cubrir al final de la operación
+a 400 escuelas de primaria (partiendo de 280 existentes al inicio) y 125 centros de educación
+media (partiendo de 52 existentes al inicio).
+Componente II: Expansión del modelo Ceibal en Inglés (US$4.750.000 aporte BID y
+US$900.000 aporte local). Con este componente se esperaba apoyar la expansión de CEI al
+50% del universo de grupos de escuelas públicas urbanas de 4º, 5o y 6º de primaria, que
+contaran con fibra óptica y equipo de videoconferencia instalada (lo que representaría llegar a
+2000 grupos de estudiantes al final del proyecto (partiendo de 985 grupos que ya estaban
+operando). Esto se logrará a través de la financiación de la contratación de maestros remotos,
+la asistencia técnica a cerca de 2000 maestros de aula con acciones de capacitación y
+promoción usando mentores contratados para tal fin, la entrega de materiales a las escuelas
+y la puesta en funcionamiento de una nueva versión de la plataforma CREA para facilitar el
+trabajo entre los maestros remotos de inglés y los docentes de aula. Este componente también
+incluía la financiación del equipo de coordinación del proyecto Ceibal en Inglés, con recursos
+de contrapartida. Los costos de los equipos de videoconferencia y de la conexión a la fibra
+óptica fueron pagados por Ceibal y Administración Nacional de Telecomunicaciones (ANTEL)
+y su instalación precede las acciones de este componente.
+Componente III: Evaluación del impacto de las experiencias (aproximadamente
+US$300.000 aporte BID). Con este componente se buscaba determinar los impactos de CEI
+y de la PAM sobre los aprendizajes de los estudiantes, y obtener información para que el país
+diseñe estrategias para la expansión a un mayor número de centros escolares y a otros niveles
+educativos. Para ello se utilizarían metodologías experimentales en el caso de Ceibal en Inglés
+y no experimentales en el caso de la PAM. Ver detalle de las metodologías utilizadas en las
+evaluaciones, resultados encontrados, y vinculación de estas con los indicadores de impacto
+del Programa, en la sección 4.2 de este informe.
+                                              17
+"
+"             b. Resultados logrados
+Los resultados esperados por el programa fueron logrados sustantivamente, en la medida en
+que como se describe en los siguientes párrafos las evaluaciones muestran que el programa
+contribuyó al mejoramiento en los aprendizajes de matemáticas e inglés en la educación
+primaria y el ciclo básico de media.
+Para comprender el alcance de estos logros, se considera necesario enmarcar previamente
+el contexto del desarrollo del Plan CEIBAL y su evolución en el tiempo.
+A poco más de 10 años de iniciado, CEIBAL se ha constituido en la principal herramienta para
+introducir nuevas tecnologías de la información y la comunicación en el sistema educativo
+uruguayo, con el objetivo de impulsar una transformación educativa que contribuya a mejorar
+la calidad los aprendizajes y la equidad social.
+Además de brindar acceso a dispositivos tecnológicos, en estos años, CEIBAL ha venido
+fomentando su uso en el aula a través del despliegue de plataformas educativas, la creación
+de contenidos educativos digitales y la formación de docentes, con apoyo -entre otros- de los
+Proyectos previos financiados por el Banco.
+La trayectoria de CEIBAL comenzó enfocada en el cierre de la brecha digital, y evolucionó al
+desarrollo del máximo potencial de aprendizaje, creatividad y pensamiento crítico de los niños
+y adolescentes uruguayos. Este progreso, lo ha consolidado como pionero dentro y fuera de
+la región.
+Previo al inicio de la ejecución del Proyecto, y en el marco de las actividades de apoyo al
+arranque se realizó una revisión de la Matriz de Resultados, y se ajustó la redacción de
+algunos indicadores procurando facilitar la discriminación del aporte incremental del Programa
+a Ceibal. En el enlace obligatorio 2 se resumen los cambios realizados entre la matriz
+aprobada con la propuesta de préstamo, la vigente a los 60 días de la elegibilidad y la vigente
+en el PMR para monitoreo de la ejecución y resultados alcanzados. Cabe mencionar que en
+ningún caso se modificaron las variables de análisis de los indicadores de resultados.
+Asimismo, el programa se propuso y ha posibilitado el fortalecimiento de las prácticas
+pedagógicas y la mejora de los sistemas de apoyo escolar a través del uso masivo e intensivo
+de nuevas tecnologías con apoyos directos a los docentes en las escuelas de manera
+presencial y con actividades en línea.
+Con la Plataforma Adaptativa de Matemáticas (PAM) el programa ha permitido también
+ampliar el uso de recursos digitales en el aula, en particular de, logrando el consecuente
+aumento en la intensidad de uso y en exposición a la plataforma tanto por parte de docentes
+como de estudiantes. Esta ampliación en el uso, sumada al acompañamiento y apoyo técnico
+de los Maestros de Apoyo Ceibal (MAC), demostró -como se verá en detalle en la sección
+3.2.c- generar cambios en las prácticas docentes y mejorar el aprendizaje del alumno a través
+de procesos pedagógicos más personalizados, en cuanto incorpora actividades de
+aprendizaje diferenciadas según el nivel de conocimientos de los alumnos, y permite a los
+docentes planificar las clases usando la información disponible sobre el progreso de cada
+alumno individual.
+Adicionalmente, el programa contribuyó a la expansión masiva de la enseñanza de inglés a
+partir de la inclusión de docentes (pasando de 941 a 3355 maestros) y niños/jóvenes en el
+programa (pasando de 985 a 3509 grupos en primaria) y la asistencia técnica en componentes
+tecnológicos y pedagógicos. En esta línea, se verificó que los niveles de aprendizaje de los
+participantes son similares a los que presenta el programa presencial, mejorando de forma
+significativa los rendimientos de aquellos que tienen una mayor exposición. Este último
+                                              18
+"
+"   impacto es de gran relevancia dado que muchos de estos niños y jóvenes no recibían
+   enseñanza en inglés.
+   En el resultado #1 de la MR “Expansión de la PAM, relacionado con ampliar la cobertura de
+   los docentes y estudiantes que conocen, y especialmente, utilizan de manera intensiva la PAM
+   para fortalecer los aprendizajes de matemática, se obtuvieron resultados muy satisfactorios.
+   Por un lado, se incrementó el número de centros escolares que recibieron asistencia técnica
+   en la PAM en el correr del período de ejecución, tanto en primaria a través de MAC, pasando
+   de 280 a 494 (indicador 1.1); como en media a través de tutores, pasando de 52 a 181
+   (indicador 1.2). Esto representa un 178% y 177% del logro esperado respectivamente. Esta
+   inesperada expansión responde principalmente en un cambio en la estrategia general de
+   Ceibal de apoyo a los centros, a partir de la cual los equipos de trabajo directo con centros
+   educativos que inicialmente se especializaban en el apoyo al uso de una herramienta en
+   particular (por ejemplo PAM), pasaron a agruparse en un único equipo de apoyo ceibal bajo
+   las definiciones pedagógicas de la Red Global de Aprendizajes de la cual Ceibal forma parte,
+   y a dar apoyo al uso de todas las herramientas puestas a disposición en cada centro, dentro
+   de las que la PAM resultó ser de las mejor recibidas.
+   Estos mismos resultados, vistos en términos de alcance a estudiantes se traducen en que se
+   incrementó el número de estudiantes que conocen la PAM, pasando de 35.800 a 65.237 para
+   el caso de 4º a 6º año de primaria (indicador 1.3), y de 13.900 a 34.463 en el caso de 1º a 3º
+   de secundaria (indicador 1.4). Esto representa un 108% y 8621% del logro esperado
+   respectivamente. Se entiende que la diferencia de magnitud entre los resultados alcanzados
+   para el caso de educación primaria, y aquellos de educación media, responden a un proceso
+   general de inserción de Ceibal en media más lento de lo previsto22.
+   Finalmente, con relación a la intencionalidad de mejorar la intensidad de uso de la PAM, se
+   incrementó el número de estudiantes que la usan intensivamente, pasando de 7.000 a 34.495
+   para el caso de 4º a 6º año de primaria (indicador 1.5), y de 3.000 a 17.655 en el caso de 1º a
+   3º de secundaria (indicador 1.6). Esto representa un 120% y 95% del logro esperado
+   respectivamente. Estos resultados muestran al igual que los anteriores una leve lentitud en el
+   logro de los resultados esperados para el caso de educación media.
+   Adicionalmente, es importante mencionar que más allá de los efectos cuantitativos de la
+   expansión de la PAM, la calidad de la experiencia de su uso también se vio mejorada en el
+   marco de la implementación del Programa, debido principalmente a la integración de la PAM
+   con las plataformas CREA y SEA. CREA es la plataforma de gestión del trabajo de aula,
+   utilizada tanto para facilitar las propuestas del docentes hacia el estudiante, como para
+21   Cabe mencionar que en el caso de los indicadores 1.4 y 1.6 las metas originales (P) fueron modificadas por P(a)
+    mayores a fines de 2016, a partir de la información de avance del sistema de monitoreo. Sin embargo,
+    posteriormente se identificó un error involuntario en el sistema de conteo que hacía que algunos estudiantes
+    fueran duplicados. Este error fue identificado y corregido posteriormente, pero implicó que la meta P(a) no fuera
+    alcanzable ni para el número de estudiantes que conocía la PAM en educación media, ni para aquellos que hacían
+    un uso intensivo de la misma en el mismo ciclo.
+22  Cabe mencionar que el proceso de implementación de Ceibal en los centros de educación primaria fue rápido,
+    tanto en lo que tuvo que ver con la distribución de máquinas a los estudiantes, y docentes, como en la adhesión
+    de ambos grupos de beneficiarios al uso de diferentes herramientas. Con esta experiencia, la proyección realizada
+    para la implementación de Ceibal en media fue más optimista de lo que fue finalmente posible. La lógica
+    institucional de la educación media, donde no existe un único docente en el aula (sino que hasta 14 diferentes),
+    sumado a las diferencias de edad, interés y realidad de los estudiantes determinó que en todas las etapas (entrega
+    de máquinas tanto a estudiantes como a docentes, motivación al uso, incorporación de roles de asistencia en
+    aula, etc.) la implementación tuviera un proceso más moderado que en la experiencia precedente.
+                                                          19
+"
+"generar trabajo colaborativo entre docentes del mismo o diferentes centros; la integración
+PAM-CREA se considera de altísimo potencial pedagógico en la medida que por un lado
+permite incorporar las actividades de la PAM como una actividad más de la dinámica del aula,
+y combinarlas con otro tipo de materiales y ejercicios en CREA como ser material teórico y
+gráfico, entre otros; y por otro lado permite a diferentes docentes compartir materiales y
+buenas prácticas y trabajar de manera colaborativa. Por otra parte, SEA es la plataforma
+utilizada para la evaluación formativa en línea, la plataforma permite tanto realizar
+evaluaciones diagnósticas, como evaluar logros y oportunidades de aprendizaje de manera
+individualizada para cada estudiante, y ofrece los resultados de manera inmediata; la
+integración de PAM-SEA permite que a partir de las evaluaciones en SEA, PAM proponga
+rutinas de trabajo individualizadas a cada estudiante para maximizar sus oportunidades de
+aprendizaje a partir de las pautas que defina el docente.
+La entrega de productos fue también muy exitosa alcanzándose el 100% de la meta
+actualizada en todos los productos asociados a este resultado. En particular, el producto 1.1
+relativo al número de horas de asistencia técnica al año (MAC, mentores, formadores)
+dedicados al acompañamiento de la PAM fue alcanzado en un 100% del valor actualizado
+(185% de la meta original); y para el caso el producto 1.2 relativo a la nueva versión de la PAM
+disponible (incluye el módulo de integración SEA-PAM) también fue alcanzada en un 100% la
+meta prevista).
+Con relación al resultado #2 de la MR “Expansión del modelo Ceibal en Inglés (CEI),
+relacionado con la expansión de CEI al 50% del universo de grupos de escuelas públicas
+urbanas de 4º, 5o y 6º de primaria, que cuenten con fibra óptica y equipo de videoconferencia
+instalada, también se alcanzaron resultados muy satisfactorios.
+Por un lado, se incrementó el número de grupos de estudiantes (de 4º a 6º grado de primaria)
+que reciben asistencia técnica en componentes tecnológicos y pedagógicos del proyecto,
+pasando de 985 a 3.509 (indicador 2.1), lo que representa un 105% del logro esperado.
+También, se incrementó el número de maestros de aula participando del programa, pasando
+de 941 a 3.355 (indicador 2.2), lo que representa un 110% del logro esperado, y se incrementó
+el porcentaje del total de los grupos de 4º, 5º y 6º de educación primaria pública urbana que
+reciben enseñanza en inglés, pasando de 25 a 95% (indicador 2.3), lo cual representa un
+113% del logro esperado. Cabe mencionar, que este logro, más allá de estar por encima de
+lo previsto implica que en un país como Uruguay sin tradición de segunda lengua obligatoria
+a nivel escolar, CEI ha permitido casi universalizar el acceso a la enseñanza de este idioma
+en el nivel escolar. Logro que no podría haber sido alcanzado mediante la expansión de la
+modalidad presencial de Segundas Lenguas por restricciones de disponibilidad de docentes
+en todo el territorio nacional, y de costos.
+Finalmente, CEI confirmó su efectividad, al superar la meta de porcentaje de alumnos que
+habiendo transitado 3 años de enseñanza del programa de inglés alcanzan el nivel A2
+(indicador 2.4), alcanzándose un 79% con relación al 60 previsto (132% del logro esperado).
+Este logro es por demás significativo, en la medida que cuando el país se planteó la posibilidad
+de crear un programa de enseñanza de inglés a distancia, el principal interrogante, radicaba
+en la garantía de que la modalidad a distancia permitiera niveles de aprendizaje similares a
+los de la modalidad presencial existente hasta el momento. Si bien en ese entonces no se
+contaba con una evaluación estandarizada de los desempeños de los estudiantes en el
+programa de segundas lenguas, la información generada posteriormente en el marco de este
+Programa, con la evaluación de los aprendizajes de todos los niños con el marco común de
+                                              20
+"
+"   referencia europeo23 (tanto a los estudiantes en modalidad presencial como a los de CEI) y
+   permitió demostrar la similitud de los resultados en aprendizaje entre ambas modalidades.
+   La entrega de productos de este segundo componente fue también muy exitosa
+   alcanzándose el 100% de la meta actualizada en todos los productos asociados. Para el caso
+   de Ceibal en Inglés el producto 2.1 relativo al número de clases con maestros remotos fue
+   alcanzado en un 115% con relación a la meta actualizada (169% de la meta original); y el
+   producto 2.2 relativo a la nueva versión de la plataforma de inglés disponible, también fue
+   alcanzado en un 100%.
+   Para el caso del componente 3, Evaluación de impacto de las experiencias. Se realizaron las
+   evaluaciones previstas, de PAM y de CEI, con diseños ajustados de acuerdo con lo que se
+   describe en la sección 4.2.b de este informe. Cabe mencionar que estas evaluaciones han
+   tenido relevancia estratégica en el proceso de consolidación respectiva de las iniciativas en la
+   medida que los resultados permitieron a la vez evidenciar efectos de las intervenciones y
+   generar recomendaciones para mejoras en la gestión de las mismas.
+   Finalmente, el producto 4.1 correspondiente a la realización de auditorías bianuales fue
+   cumplido a satisfacción del Banco.
+23   Evaluación adaptativa anual (2015). Comprende actividades sobre vocabulario, gramática, lectura y escritura, de
+    acuerdo al Marco Común Europeo de Referencia que identifica distintos niveles de conocimiento en vocabulario,
+    lectura y gramática: (Enlace). El nivel de aprendizaje esperado en 6º EP es A2 (elemental) y significa que el
+    estudiante distingue y demuestra comprensión consolidada de diversas expresiones familiares en inglés y
+    reconoce las estructuras de gramática más frecuentes y esenciales referidas a sí mismo, sus actividades, sus
+    gustos y su entorno. (Antecedentes y Agenda de Evaluación del Programa CEI)
+                                                        21
+"
+"                                                                Tabla 2. Matriz de Resultados Alcanzados
+                                                                 Unidad     Valor de
+                                                                                        Año de línea                                 %
+                      Impacto/Indicador                            de       línea de                        Metas y alcance real           Medios de verificación
+                                                                                          de base                                Alcanzado
+                                                                 Medida       base
+                                                        Impacto #1: Mejora en aprendizajes en Matemáticas en primaria
+    Indicador # 1 Ganancia diferencial en aprendizajes de                                                P             0,11
+  matemáticas, entre los alumnos que usan y no usan PAM.        Desvíos                                                                    Evaluación de impacto
+                                                                               N/C            -        P(a)              -         190%
+Medida en desvíos estándar en base a un panel realizado con     estándar                                                                         de la PAM
+         las pruebas TERCE (2013, 3º grado y 2016)
+                                                                                                         A             0,21
+                                                           Impacto #2: Mejora en aprendizajes de Inglés en primaria
+                                                                                                         P              55
+ Indicador # 2 Porcentaje de estudiantes de Ceibal en Inglés                                                                               Evaluación de impacto
+    de 6º de centros educativos urbanos que aplican tests           %          N/C          2013       P(a)                        142%     del Programa Ceibal
+          adaptativos y alcanzan un nivel A2 en VRG                                                                                               en Inglés
+                                                                                                         A              78
+                                                                                     22
+"
+"                                                                                                        Año de                             Ratio Logro
+                                                                       Unidad de     Valor de línea                                                       Medios de
+                         Resultado/Indicador                                                           línea de       Metas y alcance real     (%
+                                                                         Medida         de base                                                           verificación
+                                                                                                         base                              Alcanzado)
+                                                                         Resultado # 1 Expansión de la PAM
+   Indicador # 1.1 Número de centros escolares de primaria que
+                                                                                                                      P           400                    Informes de
+                                                                                                                                                1
+       reciben asistencia técnica en la PAM a través del MAC            Centros           280            2013        P(a)         400        (178%)
+                                                                                                                                                       seguimiento del
+                             (acumulado)                                                                                                                   programa
+                                                                                                                      A           494
+                                                                                                                      P           125                    Informes de
+Indicador # 1.2 Número de centros de secundaria (Liceos y UTUs)                                                                                 1
+       que reciben asistencia técnica en la PAM (acumulado)
+                                                                        Centros            52            2013        P(a)         125        (177%)
+                                                                                                                                                       seguimiento del
+                                                                                                                                                           programa
+                                                                                                                      A           181
+                                                                                                                      P          63.000                  Informes de
+ Indicador # 1.3 Número adicional de estudiantes que conocen la        Estudiante                                                               1
+                    PAM en Primaria (4º a 6º grado)                         s
+                                                                                         35.800          2013        P(a)        63.000      (108%)
+                                                                                                                                                       seguimiento del
+                                                                                                                                                           programa
+                                                                                                                      A          65.237
+                                                                                                                      P          27.000                  Informes de
+ Indicador # 1.4 Número adicional de estudiantes que conocen la        Estudiante                                                               1
+                  PAM en Secundaria (1º a 3º grado)                         s
+                                                                                        139.000          2013        P(a)        37.900      (157%)
+                                                                                                                                                       seguimiento del
+                                                                                                                                                           programa
+                                                                                                                      A          34.463
+                                                                                                                      P          12.600                  Informes de
+     Indicador # 1.5 Número adicional de estudiantes que usan          Estudiante                                                               1
+          intensivamente la PAM en Primaria (4º a 6º grado)                 s
+                                                                                         7.000           2013        P(a)        30.000      (491%)
+                                                                                                                                                       seguimiento del
+                                                                                                                                                           programa
+                                                                                                                      A          34.495
+                                                                                                                      P          5.400                   Informes de
+     Indicador # 1.6 Número adicional de estudiantes que usan          Estudiante                                                               1
+        intensivamente la PAM en Secundaria (1º a 3º grado)                 s
+                                                                                         3.000           2013        P(a)        18.500      (611%)
+                                                                                                                                                       seguimiento del
+                                                                                                                                                           programa
+                                                                                                                      A          17.655
+                                                                 Resultado # 2 Expansión del modelo Ceibal en Inglés
+   Indicador # 2.1 Número de grupos de estudiantes (de 4º a 6º                                                        P          2.000                   Informes de
+grado de primaria) que reciben asistencia técnica en componentes                                                                                1
+ tecnológicos y pedagógicos del proyecto (acumulado incluyendo
+                                                                         Grupos           985            2013        P(a)        3.344       (175%)
+                                                                                                                                                       seguimiento del
+                                                                                                                                                           programa
+                          la línea de base).                                                                          A          3.509
+   Indicador # 2.2 Número de maestros de aula participando del
+                                                                                                                      P          1.900                   Informes de
+                                                                                                                                                1
+         programa (acumulado incluyendo la línea de base).              Maestros          941            2013        P(a)        3.144       (252%)
+                                                                                                                                                       seguimiento del
+                                                                                                                                                           programa
+                                                                                                                      A          3.355
+Indicador # 2.3 Porcentaje del total de los grupos de 4º, 5º y 6º de
+                                                                                                                      P            50                    Informes de
+                                                                                                                                                1
+   educación primaria pública urbana que reciben enseñanza en              %               25            2013        P(a)          87        (281%)
+                                                                                                                                                       seguimiento del
+            inglés (acumulado incluyendo la línea de base).                                                                                                programa
+                                                                                                                      A            95
+  Indicador # 2.4 Porcentaje de alumnos que hayan transitado 3
+                                                                                                                      P            60                    Informes de
+                                                                                                                                                1
+ años de enseñanza del programa de inglés que alcanzan el nivel            %                0            2013        P(a)          60        (122%)
+                                                                                                                                                       seguimiento del
+                                  A2.                                                                                                                      programa
+                                                                                                                      A            79
+                                                                                         23
+"
+"                                                                    Unidad     Valor de       Año de
+                                                                                                          Metas y alcance          %             Medios de
+  Producto/Indicador24                                                de       línea de      línea de
+                                                                                                                real           Alcanzado        verificación
+                                                                    Medida       base          base
+  Componente #1 Expansión de la Plataforma Adaptativa de Matemáticas (PAM)
+  Producto # 1.1 Número de horas de Asistencia Técnica al año                                               P       34.560                  Informes de
+  (MAC, mentores, formadores) dedicados al acompañamiento de      Horas          6.900         2013       P(a)      63.846        100%      seguimiento del
+  la PAM                                                                                                    A       63.846                  proyecto
+                                                                                                            P         1                     Informe de
+  Producto # 1.2 Nueva versión de la PAM disponible (incluye
+                                                                  Escuelas         0           2013       P(a)        1           100%      seguimiento del
+  módulo de integración SEA-PAM)
+                                                                                                            A         1                     programa
+  Componente #2 Expansión del modelo Ceibal en Inglés
+                                                                                                            P       68.000                  Informe de
+  Producto # 2.1 Número de clases con maestros remotos
+                                                                  Clases        33.490         2013       P(a)     100.300        115%      seguimiento del
+  (acumulado, incluye valor de la línea de base)
+                                                                                                            A      115.052                  programa
+                                                                                                            P         1                     Informe de
+  Producto # 2.2 Nueva versión de la plataforma de inglés
+                                                                  Escuelas         0           2013       P(a)        1           100%      seguimiento del
+  disponible
+                                                                                                            A         1                     programa
+  Componente #3 Evaluación del impacto de las experiencias.
+                                                                                                            P         2                     Informe de
+  Producto # 3.3 Evaluación de inglés.                            Informes         0           2013       P(a)        1           100%      seguimiento del
+                                                                                                            A         1                     programa
+                                                                                                            P         1                     Informe de
+  Producto # 3.4 Evaluación de matemáticas.                       Informes         0           2013       P(a)        2           100%      seguimiento del
+                                                                                                            A         2                     programa
+  Componente #4 Administración del Programa (Auditoría)
+                                                                                                            P         3
+  Producto # 4.1 Administración del Programa (Auditoría)          Auditorias                              P(a)        2           100%      Auditorias
+                                                                                                            A         2
+24 La doble numeración en el caso de los productos corresponde a que para el PMR se decidió modificar la numeración inicial prevista en la Matriz de Resultados
+aprobada, en la cual la numeración se relacionaba con los subcomponentes a los que el indicador hacía referencia. Para evitar la desvinculación entre el PCR y la
+documentación de aprobación del proyecto se mantiene la numeración original entre paréntesis en cada caso.
+                                                                             24
+"
+"                 c. Análisis de atribución de los resultados
+En términos generales, se entiende que la atribución de los resultados alcanzados debe ser
+analizada tomando en cuenta el contexto de la implementación del Plan Ceibal, en la medida que
+las condiciones de implementación de cada una de las intervenciones financiadas por el
+programa se sustentan en otras condiciones preexistentes, que son resultado del estado de
+consolidación del Plan Ceibal en su conjunto, el cual fue descrito en la introducción de este
+informe. Por ejemplo, la disponibilidad de conexión de internet y de aulas de videoconferencia en
+los centros educativos, y la disponibilidad de computadores por parte de los estudiantes, estaba
+dada por el estado de implementación del Plan, y el Programa definió sus metas para cada nivel
+(primaria o secundaria) contemplando las diferencias de avance en cada ciclo.
+En términos de evidencia, como parte del Programa (componente 3) se desarrollaron dos
+evaluaciones de impacto, una del impacto del Programa Ceibal en Inglés (en primaria) en el
+aprendizaje de dicha lengua, y una evaluación del efecto de los Maestros de Apoyo Ceibal (MAC)
+en el aprendizaje en matemática utilizando la plataforma PAM. Ambas evaluaciones evidencian
+la incidencia de las intervenciones en los efectos alcanzados, y la atribución es amparada
+además por evidencia internacional ya conocida desde el diseño de las intervenciones (ver
+sección 4.2.b).
+A continuación, se explican estas relaciones para cada resultado esperado.
+Con relación al impacto #1 “Mejora de aprendizaje en matemática”, a partir de logro de los
+resultados asociados por un lado al “Número de centros que reciben asistencia técnica”
+(indicadores 1.1 y 1.2), y por otro lado al “Número adicional de estudiantes que conocen
+(indicadores 1.3 y 1.4) y que usan intensivamente la PAM (indicadores 1.5 y 1.6).
+La evaluación mostró que el uso de la PAM tiene un efecto positivo en la ganancia de
+aprendizajes. La magnitud de este efecto es de aproximadamente 0.20 desvíos estándar 25 en la
+ganancia de aprendizajes en matemática. La evaluación considera que los resultados son
+robustos a distintas especificaciones del modelo empírico y a la forma en la que se define a un
+usuario de la plataforma. Asimismo, la evaluación estimó que estos mismos estudiantes generan
+un progreso medio de 2.6 desvíos estándar el cabo de 3 años de escolaridad utilizando la PAM.
+Por otra parte, una evaluación complementaria26 permitió también verificar que el uso de la PAM
+no genera inequidades en los resultados según nivel socioeconómico, y que a partir del segundo
+año de cursada logra compensar las inequidades de partida de los estudiantes de diferentes
+quintiles; y que tampoco genera inequidades de género entre los estudiantes usuarios de la
+misma.
+Esta vinculación positiva es consistente con otras literaturas identificadas en el propio Marco
+Sectorial de Educación y Desarrollo Infantil Temprano del Banco (GN-2708-5) en el cual se
+explicita (párrafo 2.12) que un cuerpo creciente de investigaciones sugiere que el maestro es el
+principal factor por el lado de la escuela que ayuda a aumentar el logro estudiantil, desarrollar
+habilidades y brindar igualdad de oportunidades y, por ende, contribuir directamente al
+crecimiento económico de un país (Hanushek y Rivkin, 2012; Hanushek 2011; Kane y Staiger,
+2008); y que (párrafo 2.27) las TIC son útiles cuando complementan el trabajo docente, pero no
+25  Perera M, Aboal D, 2017 “Evaluación del Impacto de la Plataforma Adaptativa de Matemática en los resultados
+    de los Aprendizajes”
+26  Perera M, Aboal D, 2017 “Diferencias por género y contexto socioeconómico del impacto de la Plataforma
+    Adaptativa de Matemáticas”
+                                                       25
+"
+"lo sustituyen (Barrow et al., 2009; Malamud y Pop-Elches, 2010), y cuando las intervenciones
+educativas con recursos tecnológicos contienen un uso “guiado” (es decir, objetivos claros
+acompañados de materiales y capacitación docente), es que pueden lograr efectos significativos
+en los aprendizajes. Adicionalmente, existe evidencia específica de que el uso de las plataformas
+de aprendizaje como la PAM pueden tener un impacto positivo y significativo sobre el aprendizaje
+de la matemática (Banerjee et al., 2005; Banerjee et al., 200727; Pilli y Aksu, 2013; De Witte,
+Haelermans y Rogge, 2014).
+Con relación al efecto de la asistencia técnica ofrecida sobre los niveles de uso de la PAM, si
+bien no es pertinente la definición de un contrafactual porque la participación en el programa es
+voluntaria, se considera que los registros administrativos muestras de manera clara, y se
+menciona en la evaluación, que los centros con mayor asistencia técnica tienen niveles de uso y
+uso intensivo mayores al resto. Esta es consistente con lo que se menciona en Arias Ortiz, E. y
+Cristia, J (2014), respecto a la importancia de ofrecer estrategias de apoyo a los docentes para
+el conocimiento y uso de recursos tecnológicos (Programas guiados de uso de tecnología). En
+esta línea, la asistencia técnica ofrecida a los centros educativos posibilita favorecer el
+conocimiento y dominio de las herramientas por parte de los docentes (indicadores 1.1 y 1.2), y
+consecuentemente el conocimiento y uso por parte de los estudiantes (indicadores 1.3 y 1.4) y
+en algunos casos el uso intensivo (indicadores 1.5 y 1.6).
+Para contribuir al logro del impacto #2 “Mejora en aprendizajes de inglés en estudiantes de
+primaria”, se previó la expansión del Programa Ceibal en Inglés (CEI) al 50% del universo de
+grupos de escuelas públicas urbanas de 4º, 5o y 6º de primaria, midiendo diferentes tipos de
+cambios de comportamientos asociados. Por un lado, se esperaba que los centros educativos y
+sus docentes demandaran voluntariamente participar del programa, lo cual se traduciría en un
+incremento en el “número de maestros de aula participando del programa” (indicador 2.2), y en
+el consecuente incremento del “número de grupos de estudiantes que reciben asistencia técnica
+en componentes tecnológicos y pedagógicos del proyecto” (indicador 2.1). La decisión del centro
+educativo de participar en el Programa, y la disponibilidad de los maestros remotos y tecnologías
+de comunicación por parte de CEI, debería resultar un aumento del “porcentaje total de grupos
+de 4º, 5º y 6° de primaria que recibían enseñanza de inglés” (indicador 2.3). Y posteriormente,
+en la medida que estos cambios de comportamiento (adhesión al programa) resultaran
+sostenibles se esperaba que un “porcentaje de los estudiantes que hayan transitado 3 años de
+enseñanza del programa de inglés que alcanzan el nivel A2” (indicador 2.4).
+Cabe mencionar que el Programa CEI tienen un carácter altamente innovador en la medida en
+que propone la expansión masiva de la enseñanza de una lengua mediante el uso combinado
+de docentes remotos nativos de la lengua, y docentes presenciales de grado. Es por ello que
+para conceptualizar sobre la atribución de los resultados alcanzados se han identificado
+evidencias vinculadas a evaluaciones de programas con algunas características parecidas.
+En este sentido lo que expresa la literatura ya citada sobre Programas guiados de uso de
+tecnología, y de evaluaciones realizadas por Ceibal en las fases de piloto del CEI28, antes de la
+expansión a gran escala, que mostraron resultados positivos y robustos con relación al mejor
+27 Por ejemplo, un programa de enseñanza con uso de plataformas y dispositivos mostró un aumento en los resultados
+     de matemáticas de 0.47 desviaciones estándar. Un año después de la terminación del programa los resultados
+     continuaban siendo significativos para los estudiantes focalizados, pero se habían reducido a 0.10 desviaciones
+     estándar. Banerjee, A. , Cole, S. , Duflo, E. , & Linden, L. (2007). Remedying education: Evidence from two
+     randomized experiments in India. Quarterly Journal of Economics, 122 (3), 1235–1264.
+28 Marconi, C (2016). Antecedentes y agenda de evaluación e investigación del Programa CEI 2013-2015: año 2013
+     “Evaluación de impacto sobre los aprendizajes”.
+                                                          26
+"
+"desempeño de los alumnos con mayor tiempo de exposición al Programa independientemente
+de los contextos socioculturales. Por otra parte, otras literaturas como Bando y Li, 2014 muestran
+que el acceso a profesores con mejor conocimiento del idioma inglés permite alcanzar mejores
+resultados de aprendizaje29. Este es el caso de los profesores remotos en el formato CEI, que
+cuentan con un dominio total de la lengua, siendo algunos hablantes nativos.
+Las evaluaciones realizadas materializaron dos tipos de evidencias, las de cobertura y las de
+calidad en el aprendizaje.
+La propia expansión del Programa CEI con recursos del Programa generó un impacto de
+cobertura, en la medida en que previo a la existencia de CEI el sistema educativo solo ofrecía
+clase de inglés a un 15% de los estudiantes, a través de clases presenciales.
+Por otra parte, a través de una evaluación adaptativa de la capacidad de comprensión lectora,
+escritura y comprensión auditiva en inglés30, se comprobó que el 78% de los estudiantes de 6º
+de primaria (año en el que egresan del programa) alcanza un nivel A2 en “Vocabulary, Reading
+and Grammar (VRG)”, y el 50% alcanza un nivel A2 en comprensión auditiva, luego de participar
+del programa de clases remotas. Ambos indicadores muestran resultados muy alentadores de
+aprendizaje aún más alentador cuando partimos de que estos alumnos no recibían clases de
+inglés por parte del sistema. Cabe mencionar que la meta estimada para este indicador, que
+planteaba que el 55% de los estudiantes alcanzaran el nivel A2 o más en VRG correspondía el
+nivel de logro en 2014 del Programa Segundas Lenguas, que ofrece clases de inglés
+presenciales a los estudiantes desde 1º a 6º de primaria. Por lo cual la evaluación indica que el
+efecto de CEI en los aprendizajes es similar al del programa presencial existente.
+          d. Resultados imprevistos
+Con apoyo del Banco y de otros actores internacionales, el Plan CEIBAL, su forma de
+implementación y sus herramientas, ha pasado a ser un referente indiscutido en la región en este
+tipo de programas.
+El Programa logró de manera imprevista, generar un salto cualitativo en la capacidad de evaluar
+resultados de aprendizaje de lenguas extranjeras, mediante la incorporación de la evaluación
+estandarizada de desempeños como proceso permanente de trabajo. Esto se logró a partir del
+desarrollo de pruebas adaptativas que permiten la evaluación universal en línea de desempeños
+de los estudiantes participantes del Programa CEI (Vocabulary, Reading and Grammar – VRG)).
+Si bien el desarrollo de estas pruebas estaba previsto en la Propuesta de Desarrollo de la
+Operación (POD párrafo 1.26), se trataba de un test para la realización de una evaluación a una
+muestra de estudiantes. Sin embargo, las pruebas desarrolladas pasaron a formar parte del SEA,
+la mencionada herramienta permanente de evaluación formativa del sistema educativo, y son
+realizadas para toda la enseñanza de inglés en primaria y educación media. Se considera éste
+un resultado imprevisto en la medida que se genera un cambio de comportamiento relevante, en
+un sistema educativo sin antecedentes hasta dicho momento en la realización de pruebas de
+desempeño estandarizadas.
+También, dentro del componente 3, el Programa financió la realización de una “Investigación
+sobre la calidad en la enseñanza de inglés: características y practicas docentes, interacciones
+en aula y aprendizajes “, la cual se proponía generar evidencia sobre los atributos, características
+y prácticas de los docentes remotos de inglés y de los maestros de clase que se asocian con
+29
+    Bando, R. and Li, X. 2014. ¨ The Effect of In-Service Teacher Training on Student Learning of English as a Second
+    Language¨ IDB Working paper Series No. IDB-WP-529.
+30  Plan Ceibal (2017). Evaluación Adaptativa de Inglés 2016-Resumen Ejecutivo. Montevideo.
+                                                           27
+"
+"mejores resultados en los aprendizajes. Esta investigación mostró que los docentes remotos
+presentan distintos grados de efectividad en los aprendizajes de los estudiantes. Asimismo, esta
+investigación permitió obtener información de gran relevancia para la gestión del programa, como
+la identificación de que la acumulación de grupos por parte de un mismo docente tiene efecto
+positivo en los aprendizajes, cuando el número es entre 8 y 15, pero que disminuye a partir de
+esa cifra, y la puesta en evidencia de que el hecho de que el inglés sea la lengua nativa del
+profesor remoto no demuestra impacto en el aprendizaje de inglés en esta modalidad de
+enseñanza.
+Estos hallazgos permitieron a CEI optimizar la asignación de grupos a cada docente según sus
+características y una ratio determinado, y ofrecer docente de mejor desempeño a los centros
+educativos de contexto crítico con más necesidades pedagógicas.
+Finalmente, se considera que otro resultado imprevisto del Programa es la incorporación de
+CEIBAL a la prueba International Computer and Information Literacy Study (ICILS)ICILS es un
+estudio internacional que evalúa la alfabetización computacional y el manejo de información en
+estudiantes. La alfabetización computacional y manejo de información se refiere a una habilidad
+individual para usar los computadores para investigar, crear y comunicar. El estudio fue
+desarrollado por la Asociación Internacional para la Evaluación del Logro Educativo (IEA), con el
+objetivo de conocer cuán preparados están los estudiantes para estudiar, trabajar y
+desenvolverse en la era de la información. El foco de la evaluación es una competencia cuya
+materia prima es la información, independientemente del área a la que esté referida. El marco de
+evaluación de ICILS contempla dos dimensiones: recopilar y administrar información y producir
+e intercambiar información. También se definen y categorizan factores de contexto, que
+caracterizan el entorno en el cual se desarrolla y adquiere la competencia de alfabetización
+computacional y manejo de información.
+El Programa financió la adaptación de la prueba al país y apoyó la realización del Piloto en 2017.
+La implementación de la prueba en 2018 será financiada por el nuevo préstamo UR-L1141. La
+población analizada serán los estudiantes que estén cursando 2º año de educación media en
+cualquier formato con menos de 18 años. Se realizará una aplicación piloto en 2017 con 32
+centros educativos c/u 25 estudiantes y 15 docentes. La aplicación será en 2018 con 170 centros
+educativos con 20 estudiantes y 15 docentes en cada uno.
+             1.3 Eficiencia
+                                       Tabla 3. Costos del Proyecto
+                                      Unidad
+  #              Producto               de             2014        2015      2016    2017    EOP 2017
+                                      Medida
+ Componente 1: Expansión de la Plataforma Adaptativa de Matemáticas (PAM)                      803,097
+      Número       de   horas    de           P        107,500     280,000   305,000 107,500   800,000
+      Asistencia Técnica al año               P(a)     107,500     158,288   237,680       0   784,872
+ 1.1 (MAC, mentores, formadores) Horas
+      dedicados                   al          A        229,212     300,173   255,487       0   784,872
+      acompañamiento de la PAM
+      Nueva versión de la PAM                 P         22,500      50,000    55,000  22,500   150,000
+ 1.2 disponible (incluye módulo de Escuelas P(a)        22,500      50,000         0       0    18,225
+      integración SEA-PAM)                    A         18,225           0         0       0    18,225
+ Componente 2: Expansión del modelo Ceibal en Inglés                                         6,150,267
+      Número de clases con                    P        705,000   1,595,000 1,670,000 705,000 4,675,000
+      maestros             remotos            P(a)     705,000   1,125,498 1,552,572 216,546 5,828,667
+ 2.1                                 Clases
+      (acumulado, incluye valor de
+      la línea de base)                       A      1,459,061   2,070,652 2,082,408       0
+                                                                                             5,612,121
+                                                     28
+"
+"       Nueva       versión   de     la           P          37,500             0            0    37,500       75,000
+ 2.2 plataforma          de     inglés Escuelas P(a)        37,500       37,500     279,791            0    321,600
+       disponible                                A               0      321,600                        0    321,600
+ Componente 3: Evaluación del impacto de las experiencias.                                                  154,342
+                                       Informe   P          35,000       65,000      50,000                 150,000
+                                       de        P(a)       35,000       87,669      84,329      12,500       92,531
+ 3.1 Evaluación de inglés.
+                                       Evaluaci
+                                       ón        A          12,331       18,388      49,312      85,329     165,360
+                                       Informe   P          17,500       65,000      50,000      17,500     150,000
+                                       de        P(a)       17,500       82,500      84,329      12,500       61,811
+ 3.2 Evaluación de matemáticas.
+                                       Evaluaci
+                                       ón        A               0             0     49,311      85,329     134,640
+ Componente 4: Administración del Programa (Auditoría)                                                        15,961
+                                                 P           3,500         7,000       7,000      3,500       21,000
+       Administración del Programa     Auditoría
+ 4.1                                             P(a)        3,500       10,500             0     3,500       15,961
+       (Auditoría)                     s
+                                                 A           4,261         3,349       4,851      4,444       16,905
+ Otros costos
+                                                 P        115,000       300,000     370,000     115,000     900,000
+        Otros costos                             P(a)     115,000       144,015             0          0           0
+                                                 A               0             0            0          0           0
+                                                 P      1,043,500 2,362,000 2,507,000 1,008,500 6,921,000
+        Costo Total                              P(a) 1,043,500 1,695,970 2,238,701             245,046 7,123,667
+                                                 A      1,723,090 2,714,162 2,441,369           175,102 7,053,723
+Nota: Los costos incluyen financiamiento del BID y la contraparte local, y deben ser consistentes con la información
+presentada en el último reporte de PMR. Si existe alguna inconsistencia entre los datos, el PCR será rechazado para
+su corrección.
+La valorización de los impactos del proyecto en comparación a sus costos se realizó en base al
+Análisis Costo Beneficio (ACB) ex-ante, con la actualización de este de manera ex post
+incorporando los datos reales de costos totales de ejecución y de resultados alcanzados31. En
+este marco, para el análisis de eficiencia se estimó el Valor Actual Neto (VAN) y la Tasa Interna
+de Retorno (TIR) de las dos intervenciones principales del Programa: PAM y CEI; inicialmente
+con los costos y resultados esperados, y más recientemente con los costos y resultados
+alcanzados. Como referencia también se estimó la proporción Beneficios/Costo (B/C)
+El análisis ex ante ya permitió demostrar resultados esperados positivos, y alentadores tanto para
+la PAM como para CEI (Ver Propuesta de Préstamo párrafo 3.9).
+En función de los supuestos, parámetros y metodología utilizada en ambos análisis los
+principales beneficios que se cuantificaron están vinculados a los diferenciales salariales
+esperados en el futuro, obtenidos por quienes son intervenidos por los programas y alcanzan
+ciertas habilidades versus quienes no las alcanzan.
+Para el caso de la Plataforma Adaptativa de Matemática, la evaluación costo beneficio ex ante
+indicó que en el escenario base el VAN sería de US$10,3 millones positivo, y la TIRS de 34,9%,
+resultando mayor que la tasa de descuento del proyecto, mostrando su viabilidad.
+Adicionalmente, diversos escenarios, con supuestos menos conservadores, permitían alcanzar
+un VAN de US$ 11,9M una TIRS de 42,8%. Se esperaba incrementar la cobertura de PAM en
+31
+     Plan Ceibal II Apoyo a la Educación en Matemáticas e Inglés en Primaria y Media (UR-L1093), Análisis
+     Económico, 2014. Enlace.
+                                                        29
+"
+"21.240 alumnos (120 centros, de 177 alumnos en promedio cada uno) y alcanzar una tasa de
+uso intensivo del 20% para el escenario base y 25% para el optimista.
+Sin embargo, la tasa de uso intensivo lograda fue de 21,07% en 2014, 49,51% en 2015 y 52,88%
+en 2016, lo que incide positivamente en los beneficios calculados en forma Ex-post para cada
+generación. Además, el número de alumnos incrementales fue de 29.427, también superior al
+estimado.
+Así la evaluación costo beneficio ex-post arroja valores de VAN de US$ 7,2 millones y TIR de
+52,21%, superiores a los resultados del CBA ex-ante. Como mencionado anteriormente esto
+permite apreciar la superación de las metas establecidas en el componente 1 en términos de
+alumnos e intensidad de uso durante su diseño.
+Para el caso de Ceibal en Ingles, la evaluación ex ante de los beneficios, en el escenario base
+indicó que el Valor Actual Neto (VAN) era de US$10,3 millones positivo con una Tasa Interna de
+Retorno Social (TIRS) era 34,9% mayor que el costo de oportunidad del proyecto, resultando en
+un indicador de viabilidad. Asimismo, analizando diversos escenarios, con supuestos menos
+conservadores como aumentar el porcentaje de estudiante que finalizan con Nivel A2 de 60% a
+70%, permitían alcanzar TIRS de 42,8%.
+La evaluación ex-post incorporando los costos reales y los niveles de resultados alcanzados
+superan los resultados previstos: la TIRS es del 34,2% y el VAN 23,3M. Esto se debe
+principalmente a que el programa superó el % de estudiantes de 6º que obtienen calificación de
+A2 o mayor en VRG, siendo que se estimaba originalmente un resultado del 60% y se alcanzó el
+73%. Adicionalmente se alcanzó una cobertura de grupos significativamente mayor a la prevista
+(2509 grupos adicionales con relación a 1000 previstos).
+Por otra parte se realizó una evaluación de sobre-costos y sobre-tiempos, apoyadas en la
+información histórica generada por los índices de desempeño del PMR durante el período de
+ejecución (Índice de desempeño del costo anual – CPI (a), Índice de desempeño del Cronograma
+anual – SPI (a), y el indicador de desembolso logrados según el tiempo transcurrido desde el
+momento de aprobación y comparado con el indicador de desembolso para todos los proyectos
+del país en el periodo de 10 años anterior.
+Tal como muestra la siguiente tabla, la operación tuvo una clasificación satisfactoria en todos los
+índices, lo cual muestra un adecuado uso de los recursos. En particular con relación al CPI se
+considera que parte de los resultados se deben a un efecto favorable del tipo de cambio durante
+el período de implementación.
+                           Tabla 4. Índice de desempeño del programa
+                         2014                 2015               2016                  2017
+  SPI (a)                1,51                 1,57                1,65                 1,22
+  CPI (a)                0,98                 1,13                1,26                 1,10
+           1.4 Sostenibilidad
+                a. Aspectos generales de sostenibilidad
+Se entiende que no existen riesgos técnicos, políticos, financieros, económicos, ambientales o
+sociales, que puedan afectar significativamente la sostenibilidad de los resultados alcanzados
+por el Programa. En efecto, el Plan CEIBAL, así como las acciones promovidas por el Programa
+seguirán siendo implementadas, y hacen parte de las prioridades nacionales establecidas y que
+se reflejan en una agenda de compromisos entre todos los actores del sistema educativo validada
+                                                 30
+"
+"por la propia Ley de Presupuesto Nacional32 y el Plan Estratégico de CEIBAL33. La asignación
+presupuestal para CEIBAL está garantizada para lo que queda del actual Gobierno, y no hay
+ningún indicio de que esta pueda verse debilitada en futuras administraciones.
+Asimismo, en línea con las prioridades mencionadas, el Banco ha aprobado recientemente una
+nueva operación de apoyo al Plan CEIBAL, el préstamo basado en resultados UR-L1141
+Generación C: Consolidando innovaciones educativas para las habilidades del siglo XXI,
+mediante el que se redobla la apuesta no solo en términos de relevancia de los resultados
+esperados, sino en términos fiduciarios siendo un programa basado 100% en políticas nacionales
+(Préstamo basado en resultados). Indicadores como el porcentaje de estudiantes que alcanzan
+nivel A2 en inglés, y de uso significativo de PAM, son utilizados como indicadores de desembolso.
+Los riesgos identificados al momento del diseño (las actividades del proyecto en las instituciones
+educativas no se desarrollan en los plazos previstos; desarticulación tecnológica del PAM y
+Ceibal en Inglés; no se da continuidad a la PAM y Ceibal en Inglés luego de terminarse el
+préstamo del Banco; debilidad del control interno; insuficiencia futura de personal entrenado en
+la gestión financiera de proyectos BID; debilidad de los procesos de Adquisiciones, insuficiencia
+futura de personal entrenado en la gestión financiera de proyectos BID) fueron mitigados con
+creces durante la ejecución.
+                 b. Salvaguardas ambientales y sociales
+El proyecto fue clasificado como categoría “C” de acuerdo a la Política de Salvaguardias y Medio
+Ambiente (OP-703) por lo que no se aplicaron salvaguardas durante la implementación de la
+operación.
+Criterios No Centrales
+            1.5 Desempeño del Banco
+El Banco ha mantenido un intercambio permanente con la Unidad Ejecutora y las autoridades
+del Plan Ceibal, tanto en relación con aspectos técnicos como fiduciarios. Esto ha ocurrido tanto
+durante el proceso de preparación de la operación, como durante la ejecución e incluso durante
+el cierre, En particular, cabe mencionar que se contó con un especialista en educación con
+residencia en el país, durante todo el proceso tanto de diseño como de implementación.
+Adicionalmente, cabe mencionar que la división de educación proporcionó asesoramiento técnico
+especializado tanto para la elaboración de la herramienta de observación de clases de CEI como
+para el diseño de la evaluación de CEI facilitando tiempo de Julián Cristiá a tales efectos.
+En este sentido se considera que el acompañamiento brindado por el Banco permitió asegurar
+la calidad del diseño de la operación, y el acompañamiento permanente durante la ejecución
+permitió mitigar riesgos y resolver inconvenientes para logro de los resultados previstos.
+            1.6 Desempeño del Prestatario
+Se considera que el desempeño del prestatario ha sido Muy Satisfactorio en la medida que el
+Plan Ceibal ha demostrado capacidad de trabajar con efectividad en las temáticas acordadas
+con el Banco.
+En particular, a iniciativa del Organismo Ejecutor, se creó una instancia política de alto nivel para
+la coordinación de las acciones del Programa con todos los desconcentrados del sistema
+32  ANEP (2015). Presupuesto 2015-2019, Tomo I, Exposición de motivos.
+33  Plan estratégico 2017-2020. Centro CEIBAL (2017)
+                                                     31
+"
+"educativo. Evidenciando el compromiso del gobierno con el proyecto. Por otra parte, en lo que
+respecta a aspectos organizativos, la UE contó durante todo el proceso con el personal
+necesario, el cual contaba con la capacidad técnica necesaria para resolver de manera oportuna
+las problemáticas de la implementación. Finalmente, en términos contractuales la UE ha cumplido
+a satisfacción del Banco con la entrega oportuna de la documentación relativa a las cláusulas
+contractuales de Informes de Progreso, Semestral, Planes Operativos Anuales, entre otros.
+           1.7 Monitoreo y Evaluación
+Se considera que el Plan de Monitoreo y Evaluación del programa fue adecuado para las
+necesidades de monitoreo tanto por parte del ejecutor como del Banco.
+Asimismo, se previeron dos evaluaciones de impacto, las que fueron realizadas de manera
+satisfactoria y en acuerdo con el Banco. En el caso de la evaluación del CEI, tal como se detalla
+en las próximas secciones, fue necesaria la realización de algunos ajustes metodológicos como
+consecuencia de mejoras en la cobertura de la intervención y la imposibilidad de discriminar
+intensidades de exposición a la intervención.
+                a. Diseño del M&E
+El programa contó en su diseño con un Plan de Monitoreo y Evaluación que buscaba articular
+varios instrumentos para garantizar el buen seguimiento de la ejecución, configurándose un
+Sistema de Monitoreo que estaba conformado por: (i) el Plan de Operaciones Anual (POA); (ii)
+los Informes de Seguimiento del Progreso (PMR) anual; (iii) la Matriz de Resultados; y (iv) la
+Matriz de Riesgo y Plan de Mitigación.
+Según información del Plan mencionada en los Arreglos para el Monitoreo y Evaluación de la
+Operación los indicadores de la MR estaban razonablemente adecuados a los objetivos que
+pretendían medir, y en buena medida se generaban con informaciones disponibles en el país o
+de aquella que se preveía generar durante la ejecución.
+En relación con las actividades de evaluación de la operación, estas tenían como objetivo
+determinar los impactos de las intervenciones financiadas y proveer información acerca de
+estrategias posibles para maximizar estos impactos. Se previó una evaluación del programa
+Ceibal en Inglés que permitiera determinar los impactos de esta intervención en el aprendizaje
+de esta materia en estudiantes beneficiarios. Por su parte, la evaluación del componente de
+apoyo a la PAM se centraría en determinar el impacto de las acciones financiadas en incrementar
+el uso de la plataforma por estudiantes y docentes y los aprendizajes en esta área. Y finalmente,
+la evidencia resultante de ambas evaluaciones complementaría la información generada por el
+monitoreo del programa para analizar los mecanismos por los cuales estas intervenciones
+generan los impactos documentados y de qué forma los mismos podrían potenciarse. Se
+previeron entonces dos evaluaciones de impacto, una experimental y otra no experimental, como
+se detalló en la descripción del Componente III.
+                b. Implementación del M&E
+En términos generales se considera que el Plan de monitoreo y evaluación ha sido implementado
+de acuerdo con lo previsto, en la medida que tanto las acciones de monitoreo, como las
+evaluaciones fueron realizadas a satisfacción del Banco.
+En lo que respecta a las actividades de monitoreo, el organismo ejecutor ha dado cumplimiento
+a todas las cláusulas contractuales relativas a entrega de informes de monitoreo, y posee una
+cultura interna proclive al uso significativo de los informes de progreso para la toma de
+decisiones.
+                                               32
+"
+"En lo que respecta a las evaluaciones de impacto relacionadas a los componentes I y II se
+describen a continuación las situaciones particulares de cada caso:
+Para el Programa Ceibal en Inglés, el diseño metodológico de la evaluación originalmente
+prevista contemplaba un análisis de los resultados por \"tiempo de exposición\", en virtud de que
+la estrategia de expansión del CEI era en fases. Sin embargo, a partir de inicios de 2015 Ceibal
+optó por ofrecer el programa de manera universal a nivel urbano, a partir del inicio del año lectivo,
+por lo que ya no era posible diferenciar grupos de tratamiento y de control según “tiempo de
+exposición” con esta metodología. Adicionalmente la consolidación de la Prueba Adaptativa de
+inglés como instrumento de evaluación de aprendizajes, permitió la evaluación del desempeño
+de todos los estudiantes beneficiarios en diferentes dimensiones del dominio de la lengua
+(writing, listening and reading comprehension). Surge así la necesidad y la oportunidad de
+evaluar la eficacia del programa para generar aprendizajes a lo largo de los 3 años de
+intervención (4º a 6º de educación primaria), comparando los desempeños de los estudiantes al
+ingreso al programa en 4º año, con los de los mismos estudiantes en 6º año, luego de 3 años de
+exposición; y a su vez poder comparar estos desempeños con los alcanzados por los estudiantes
+que continuaron cursando el programa tradicional de inglés presencial dentro del sistema.
+A partir de esta realidad se consideró pertinente avanzar con la evaluación del desempeño en
+inglés, de todos los niños, y analizar particularmente el desempeño de aquellos que llegaron a
+6º año en 2016 habiendo participado del CEI por 3 años (y realizado pruebas entre 2014 y 2016).
+Esta modificación metodológica permitió mejorar la calidad de la medición del impacto, lo cual se
+plasmó en la Matriz de Resultados con una modificación del indicador originalmente previsto.
+En términos de resultados alcanzados, la evaluación realizada permitió mostrar que al
+completarse el 6º año escolar no existen ganancias diferenciadas significativas en aprendizajes
+de la lengua entre la modalidad presencial existente y CEI. Adicionalmente, la evaluación mostró
+que, al comparar los niveles de desempeño de los estudiantes de 4º año de primaria, se
+identifican diferencias importantes entre los que provienen de la modalidad presencial (cursando
+desde 1º año), y los que se incorporan en 4º año a CEI sin exposición previa a la lengua dentro
+del sistema educativo. Esta brecha se corrige al avanzar en el tiempo de exposición.
+Por otra parte, se realizó una investigación sobre la calidad de la enseñanza de inglés34, en la
+que, a partir de una asignación aleatoria de institutos y docentes a grupos, se procuró explorar
+los rasgos de los docentes que se asocian a buenos resultados en los aprendizajes. En el marco
+de esta investigación, se pudo confirmar que los docentes remotos presentan distinto grado de
+efectividad. Dato que puede ser utilizado para la asignación intencional de los docentes más
+efectivos a los grupos con peor desempeño. La pregunta que aún queda abierta es ¿cuáles son
+los factores determinantes de la calidad docente?
+Por último, cabe mencionar que en el marco de este Programa no fue posible evaluar de manera
+masiva las habilidades en speaking, para lo cual actualmente se está desarrollando un
+instrumento para la evaluación de esta dimensión en el marco de la nueva operación de Ceibal
+con el Banco (UR-L1141).
+En lo que respecta a la evaluación de la expansión de PAM, inicialmente el diseño de la
+evaluación fue hecho a partir de la hipótesis de que el uso de PAM estaría asociado a la presencia
+de la figura del Maestro de Apoyo Ceibal (MAC) en los centros educativos, lo cual acompañaba
+la propuesta de estrategia de implementación al momento del diseño de la operación, cuando se
+34  Perera M (2017) “Informe de resultados del análisis econométrico de la evaluación del sistema Ceibal de
+    enseñanza de inglés”.
+                                                         33
+"
+"preveía un fuerte consolidación y expansión de esta figura. Es decir, se estimaba que la presencia
+del MAC correlacionaba con un mayor uso de PAM. Este primer diseño fue pensado en base al
+acceso a los datos con los que contaba el Área de Evaluación y Monitoreo de Plan Ceibal.
+Posteriormente, y en la medida en que, desde la estrategia operativa, la expansión de la figura
+del MAC no fue efectivizada, se avanzó en un acuerdo con el equipo del Departamento de
+Investigación y Estadística Educativa del Consejo Directivo Central de la Administración Nacional
+de Educación Pública (DIEE/CODICEN/ANEP) para diseñar una evaluación del impacto de PAM
+basados en el acceso a dos evaluaciones nacionales de aprendizajes que dicho Departamento
+estaba desarrollando.
+Las dos evaluaciones de aprendizajes en matemática y lectura fueron realizadas a una muestra
+de la cohorte de alumnos que se encontraba cursando 3º año de Educación Primaria en el año
+2013. La primera de estas evaluaciones se realizó a finales del año 2013 y la segunda a finales
+de 2016, cuando la mayoría de estos niños se encontraba en 6º año. La de 2013 corresponde a
+la prueba del Tercer Estudio Regional Comparativo y Explicativo (TERCE), una evaluación
+internacional coordinada por el Laboratorio Latinoamericano de Evaluación de la Calidad de la
+Educación (LLECE) de la UNESCO en la que participó Uruguay y otros 14 países de América
+Latina.
+La segunda evaluación de aprendizajes fue aplicada por la DIEE/CODICEN/ANEP en 2016 a la
+cohorte de alumnos de 3º grado de TERCE 2013, es decir cuando la mayoría de estos alumnos
+se encontraba cursando el último año de Educación Primaria. Esta última evaluación se basó en
+la misma metodología que aplica LLECE/UNESCO en las evaluaciones regionales. El DIEE
+realizó además un procedimiento de equiparación de los puntajes de 3ro a la métrica de 6º,
+permitiendo analizar el progreso de los alumnos entre 3º y 6º grado en términos absolutos tanto
+en Lectura como en Matemática. Esta modificación metodológica permitió mejorar la calidad del
+indicador de impacto previsto en la medida en que la medición pasó a ser realizada en el marco
+de un PANEL, comparando casos de una misma muestra.
+               c. Utilización del M&E
+En la cultura de gestión del Centro CEIBAL las herramientas de monitoreo son utilizadas de
+manera permanente para la toma de decisiones, mediante un tablero de control que da
+seguimiento a todas las líneas de intervención. Particularmente para el caso de este programa
+hay dos datos administrativos que han resultado de cabal importancia para el diseño de las
+evaluaciones y para la toma de decisiones de política. Por un lado, está la información
+administrativa sobre intensidad de uso de la plataforma PAM, que fue un elemento clave para la
+discriminación de perfiles de usuario que permitieran evaluar el impacto del uso intensivo de la
+misma en el desarrollo de habilidades específicas.
+Por otra parte, para el caso del CEI, fueron de gran utilidad los registros administrativos de
+asignación y supervisión de docentes a diferentes grupos, permitiendo la generación de perfiles
+de docentes, los que combinados con la definición de perfiles de grupos según los niveles de
+desempeño en las pruebas, permitieron desarrollar la hipótesis de que en la medida en que el
+CEI pueda racionalizar la asignación de docentes a los grupos de acuerdo al perfil de ambos, se
+pueden disminuir las brechas de desempeño entre diferentes grupos. Este análisis fue utilizado
+para el diseño de la nueva operación \"Generación C: Consolidando Innovaciones Educativas
+para las Habilidades y Competencias del Siglo XXI\" (4290/OC-UR; UR-L1141) que evaluará el
+impacto de la asignación de buenos docentes remotos a centros educativos de contexto crítico
+En el caso de la evaluación de PAM, la evaluación realizada, y la verificación del impacto positivo
+de la PAM en general, y la constatación del impacto creciente de la misma en los aprendizajes
+de matemática a medida que baja en nivel socioeconómico del niño permitió verificar la
+pertinencia y oportunidad de poner a disposición recursos digitales como la PAM como
+                                               34
+"
+"instrumento potente para contribuir a reducir las brechas de aprendizaje entre diferentes grupos.
+En virtud de ello, en el corto plazo esta evaluación permitirá analizar posibles estrategias
+específicas de apoyo y asistencia técnica a docentes, en aquellos centros con peores
+desempeños en esta área, de manera de aportar a disminución de las brechas existentes entre
+diferentes grupos socioeconómicos.
+Los resultados de la evaluación muestran que la PAM no es solo una oportunidad para mejorar
+la enseñanza de matemática en general, sino también un instrumento para reducir la inequidad
+en los aprendizajes dado que su impacto es mayor en los alumnos con menor nivel
+socioeconómico, los que a su vez presentan una mayor desventaja en los niveles de
+aprendizaje35
+Por otra parte, el diseño viabilizado para la evaluación de impacto de PAM fue utilizado como
+referencia para el diseño de la evaluación del Programa \"Generación C: Consolidando
+Innovaciones Educativas para las Habilidades y Competencias del Siglo XXI\" (4290/OC-UR; UR-
+L1141), en la que se utilizará una metodología similar con los resultados de las pruebas Aristas36
+de nivel primario que serán aplicadas a partir de 2017 trienalmente.
+               1.8 Uso de Sistemas de Países
+En cuanto al uso de sistemas nacionales, los que operaron para el proyecto fueron los siguientes:
+Presupuesto, es elaborado en forma anual y aprobado por el Consejo de Dirección, en base a la
+asignación presupuestaria. Luego es comunicado al Tribunal de Cuentas de la República y
+presentado al MEF. Y finalmente enviado al Banco para su consideración;
+Tesorería, en relación a los ingresos se utilizó la Cuenta Única Nacional dado que los fondos se
+transferirán a una cuenta específica abierta en el Banco Central del Uruguay mientras que para
+los egresos, el MEF transferirá a cuentas operativas del Centro para su realización.
+Desde el punto de vista de la administración de las adquisiciones, el Organismo Ejecutor fue
+considerado desde el diseño de riesgo bajo según el conocimiento madurado durante los años
+previos, cuyos aspectos a resaltar fueron: (i) es una entidad establecida bajo derecho público no
+estatal, que anteriormente ha ejecutado proyectos del Banco; (ii) posee una consolidada
+experiencia previa en materia de compras y contrataciones según la normativa del Banco, y se
+ha desempeñado adecuadamente bajo ambas modalidades de revisión (ex ante y ex post);
+(iii) cuenta con personal con buena experiencia en procesos de adquisición o contratación
+siguiendo las normativas del Banco; y (iv) sus procesos y el ambiente general de controles
+internos, son considerados sólidos.
+Hallazgos y Recomendaciones
+Los avances significativos del Programa, así como el alto nivel de reflexión y análisis de las
+autoridades y equipos técnicos han permitido la generación de hallazgos y recomendaciones que
+se describen a continuación.
+35 Perera  M, Aboal D, 2017 “Diferencias por género y contexto socioeconómico del impacto de la Plataforma Adaptativa
+      de Matemáticas”
+36 Aristas es la nueva Evaluación Nacional de Logros Educativos producirá información sobre los desempeños en
+      lectura y matemática de los estudiantes de tercero y sexto de escuela y tercero de media, con foco en los
+      conocimientos y capacidades que el sistema educativo uruguayo se propone que alcancen sus estudiantes.
+      Además, buscará conocer sus habilidades socioemocionales y sus opiniones sobre el clima escolar, la convivencia
+      y la participación en los centros. Será por el Instituto Nacional de Evaluación Educativa, organismo autónomo e
+      independiente.
+                                                              35
+"
+"             1.9 Dimensión: Técnica-sectorial (Diseño del Proyecto)
+(#1) Existencia de etapas. Son muchos los países de la región que están analizando e
+implementado intervenciones de introducción masiva de tecnología de información en el aula,
+inspirados en One Laptop per Child (OLPC) u otras iniciativas. El caso del Plan Ceibal, y varias
+de las consolidaciones apoyadas por este programa han demostrado que es necesario
+contemplar la existencia algunas etapas mínimas para favorecer la generación de resultados
+educativos concretos en términos de aprendizajes, y más allá de los resultados propios de las
+mejoras de acceso a conectividad y la utilización de herramientas informáticas.
+En este sentido, la experiencia del Plan Ceibal en Uruguay, apoyada desde el inicio por el Banco,
+ha mostrado la existencia de al menos tres fases diferenciadas que es necesario considerar y
+planificar de acuerdo a sus características propias:
+              Puesta en funcionamiento de la infraestructura tecnológica. Esto incluye hacer
+              accesible la conectividad en todos los centros educativos, adquirir y distribuir
+              máquinas, generar adaptaciones de aula para contar con infraestructura básica
+              necesaria para sostener el uso de las máquinas en ellas (tomas de corriente para
+              cargadores, cortinas para evitar reflejo en pantallas, alcance de las redes inalámbricas
+              a todas las aulas, etc).
+              Disponibilizar y gestionar el acceso a recursos educativos pertinentes. Si bien existe
+              a esta altura una amplia oferta de recursos educativos en la región, cada país debe
+              analizar y definir cuáles de ellos se adaptan mejor a las características de sus
+              beneficiarios, y generar mecanismos de adquisición y yo contratación del desarrollo
+              de contenidos que se adecúen a sus propias necesidades y posibilidades.
+              Apoyo a docentes y estudiantes para intensificación del uso. Finalmente, para que la
+              incorporación de las TIC en el aula tenga impactos en los aprendizajes es necesario
+              facilitar la intensificación del uso de las nuevas herramientas disponibles. Esto
+              requiere apoyo técnico específico tanto a docentes como a estudiantes. La
+              identificación del formato y mecanismos óptimos para cada realidad y nivel del
+              sistema será el desafío más importante. En el caso de Ceibal, se procuró la
+              combinación del fortalecimiento de los actores del sistema, con la creación de roles
+              de apoyo transitorio desde el propio Plan Ceibal.
+(#2) Necesidad de flexibilidad y apertura a oportunidades. Las intervenciones con
+incorporación de TICs son innovadoras en sí mismas, y por tanto deben disponer de una actitud
+emprendedora que contemple la flexibilidad y la apertura a la adaptación y aprovechamiento de
+oportunidades como modelo de gestión. En este sentido, al reflexionar sobre este programa
+surgen al menos dos situaciones donde esto se manifiesta de manera muy clara y permite
+generar hallazgos transferibles a otras realidades.
+El primer caso refiere la utilización de las herramientas e información de supervisión de docentes
+remotos de CEI para la creación de ratios entre docente y estudiantes, y la creación de perfiles
+docentes según fortalezas pedagógicas y de afinidad con ciertos grupos poblacionales, que
+dieron lugar a poder pensar hacia adelante en una asignación más racionalizada de los docentes
+remotos a los centros educativos en virtud de las características de ambos.
+El segundo caso refiere a la incorporación de Uruguay a las pruebas ICILS. En el marco de la
+implementación del Programa, Ceibal identificó la necesidad de avanzar en la medición de su
+efectividad en el desarrollo de distintos tipos de habilidades digitales. A partir de esta inquietud,
+y con apoyo del programa se optó por participar de una prueba estandarizada que permite
+conocer en qué lugar se posiciona Uruguay en el desarrollo de las habilidades digitales, para
+facilitar a futuro la definición del mejor uso de los programas que Ceibal desarrolla basados en la
+                                                    36
+"
+"tecnología como son el aprendizaje de matemáticas a través de PAM y el aprendizaje de inglés
+en sus diversas modalidades. La prueba en la que se participará es ICILS 2018, que evaluará la
+alfabetización computacional y el manejo de información en estudiantes de 2do año de Educación
+Media y será comparable a nivel internacional. El objetivo de ICILS es saber cuán preparados
+están los estudiantes para estudiar, trabajar y desenvolverse en la era de la información. A su
+vez, ICILS aborda entre otras la dimensión de la seguridad, tan relevante para el uso de las
+plataformas y los usuarios adolescentes. El principal hallazgo en este sentido es que la
+flexibilidad y apertura permiten identificar oportunidades tanto a nivel interno como de
+cooperación con otros actores
+            1.10        Dimensión: Organización y Gestión (Coordinación Inter/Intra)
+(#3) Potencial de utilización de evaluaciones técnicas para mejoras de gestión. Si bien en
+la teoría el cruce entre información proporcionada por el monitoreo administrativo y las
+evaluaciones técnicas es clave para la toma de decisiones, no siempre esto es posible ni sencillo
+en la práctica. En el caso de este programa se destaca como hallazgo la utilización de la
+evaluación de impacto de CEI, y los datos de desempeño de estudiantes para la revisión y ajuste
+del mecanismo administrativo de asignación de docentes remotos efectivos a escuelas de
+contexto crítico, de la definición de cantidad de grupos a asignar a cada docente (ratio), y de la
+generación de diferentes mecanismos para supervisión de estos roles que en este caso trabajan
+a distancia.
+            1.11        Dimensión: Procesos públicos y actores (Prioridades de actores)
+(#4) Espacios de gobernanza específicos. En el caso del sistema educativo uruguayo, la
+implementación del Plan Ceibal requiere de la coordinación y articulación de diversas
+instituciones y actores del sistema educativo, con lógicas institucionales muy distintas tanto en lo
+cultural como en lo operativo. Para que estas diferencias no terminen convirtiéndose en trabas
+para la implementación Ceibal ha procurado la creación de espacios específicos de gobernanza
+y articulación a diferentes niveles que han mostrado ser de gran efectividad.
+El Centro Ceibal, de acuerdo con la Ley 18.640 (modificada por Ley 18.719), está regido por un
+Consejo de Dirección (CD), integrado por un delegado del Poder Ejecutivo que lo preside, un
+delegado de la ANEP, un delegado del MEC, y un delegado del MEF. En el CD reside la máxima
+autoridad, que se ejerce por sí y con apoyo de la Gerencia General, nivel cuyo cometido principal
+es la superintendencia de la administración total del Centro, de acuerdo con las reglamentaciones
+y actos que dicte el CD. Complementariamente, y para generar condiciones favorables para la
+articulación al más alto nivel institucional, creó un Consejo Ampliado formado por representantes
+del CODICEN, los Consejos Desconcentrados (CEIP, CES, CETP y CFE) y del MEC. La
+existencia de este consejo ampliado ha sido de gran utilidad y relevancia tanto para la toma de
+decisiones como para la apropiación de las herramientas por parte cada uno de los actores del
+sistema educativo.
+            1.12        Dimensión:       Gestión    fiduciaria y  de   riesgo   (Desempeño       de
+             proveedores)
+Innovación en formas de contratación de servicios según nivel de uso. La gestión fiduciaria
+y en particular de adquisiciones y contrataciones de servicios TIC presenta en general desafíos,
+dado que se trata de bienes y servicios no habituales. En este sentido Ceibal ha mostrado ser
+altamente innovador en la concreción de acuerdos de pago según niveles de uso de los usuarios,
+que han permitido disponibilizar herramientas y plataformas a gran escala con costos
+racionalizados. Este es el caso por ejemplo de la Plataforma Adaptativa de Matemática, que está
+disponible a nivel de acceso (con usuario personal) para todos los estudiantes y docentes del
+sistema educativo. Sin embargo, las licencias se pagan en virtud de la cantidad de usuarios que
+                                                   37
+"
+"generan un uso intensivo de la misma, y no se genera pago de licencias por aquellos que solo
+ingresan esporádicamente para conocerla o hacer uso de algún recurso de manera puntual. La
+recomendación en este caso es a explorar diferentes formatos y mecanismos que permitan
+ofrecer herramientas y contenidos digitales a gran escala, sin generar costos excesivos para los
+sistemas educativos.
+                                                          Tabla 5
+                                             Hallazgos y Recomendaciones
+  Hallazgos                   Recomendaciones
+  Dimensión 1: Técnica – Sectorial
+                              # 1 La implementación de programas de mejora escolar con uso de TICs necesitan
+                              reconocer y respetar las etapas necesarias para garantizar la adecuada
+                              implementación, primero hay que consolidar la infraestructura tecnológica para poder
+  # 1 Existencia de etapas
+                              luego focalizarse en cambios de prácticas. En este sentido, el proceso desarrollado por
+                              Ceibal y descrito en el párrafo 36, surge como un ejemplo para otros países de la región
+                              de la secuencia de niveles de intervención a seguir.
+                              # 2 Para maximizar las posibilidades de generar innovaciones es necesario tener
+                              flexibilidad institucional para aprovechar oportunidades. En particular con relación a la
+  # 2 Flexibilidad y apertura
+                              generación de nuevos instrumentos de medición, los esfuerzos por evaluar pueden
+  a oportunidades.
+                              generar desarrollos de herramientas que pueden ser usada para la gestión y monitoreo
+                              potenciando su valor y utilidad.
+  Dimensión 2: Organización y Gestión
+   # 3 Potencial de la        # 3 Procurar la utilización de evaluaciones técnicas para la mejor de la gestión. En el
+  utilización              de caso de CEIBAL la evaluación de CEI permitió la identificación de elementos que
+  evaluaciones       técnicas permitieron la toma de decisiones administrativas de gran impacto en la forma evaluar,
+  para mejoras de gestión     asignar, monitorear y supervisar a los docentes remotos.
+  Dimensión 3: Procesos públicos y actores
+                              # 4 Procurar la formalización de espacios específicos de gobernanza que garanticen la
+  #     4     Espacios     de
+                              participación formal de todos los actores involucrados es clave para la implementación
+  gobernanza                y
+                              de la intervención, en particular en proyectos que requieran articulación
+  articulación específicos.
+                              interinstitucional.
+  Dimensión 4: Gestión fiduciaria y de riesgo
+  # 5 Innovación en formas
+                              # 5 Analizar las posibilidades de innovar en la forma de negociar y contratar los
+  de      contratación     de
+                              servicios vinculables a niveles de uso de usuarios. En el caso de CEIBAL se lograron
+  servicios según nivel de
+                              acuerdos muy sostenibles con los proveedores sobre la forma de pago.
+  uso.
+                                                            38
+"

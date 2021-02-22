@@ -1,0 +1,1358 @@
+"outlist[[i]]"
+"Calificaciones del desempeño del proyecto en los PMR:
+   No.    PMR Fecha                  Etapa de PMR                        Desembolsos
+                                                                         reales (USD)
+   1      Enero – Diciembre 2010     Posterior     a   No disponible     525.000
+                                     eleg.
+   2      Enero – Diciembre 2011     Posterior     a   No disponible     202.005,35
+                                     eleg.
+   3      Enero – Diciembre 2012     Posterior     a   No disponible     1.904.748,08
+                                     eleg.
+   4      Enero – Diciembre 2013     Posterior     a   SATISFACTORIO     2.767.466,09
+                                     eleg.
+   5      Enero – Diciembre 2014     Posterior     a   SATISFACTORIO     2.028.162,18
+                                     eleg.
+   6      Enero – Diciembre 2015     Posterior     a   SATISFACTORIO     1.915.956,24
+                                     eleg.
+   7      Enero – Diciembre 2016     Posterior     a   SATISFACTORIO     1.086.774,18
+                                     eleg.
+METODOLOGÍA DE ANÁLISIS ECONÓMICO EX POST: ANÁLISIS COSTO-BENEFICIO
+METODOLOGÍA DE EVALUACIÓN EX POST: ANÁLISIS COSTO-BENEFICIO
+CLASIFICACIÓN DE EFECTIVIDAD DE DESARROLLO: SATISFACTORIO
+PERSONAL DEL BANCO
+                         POSICIONES        EN PCR              EN LA APROBACIÓN
+                   VICEPRESIDENTE VPS      ANA MARÍA
+                                           RODRÍGUEZ ORTIZ
+                   VICEPRESIDENTE VPC      ALEXANDRE ROSA
+                   GERENTE DE PAÍS         JOSÉ LUIS LUPO
+                   GERENTE SECTORIAL       JUAN PABLO
+                                           BONILLA
+                   JEFE DE DIVISIÓN        PEDRO MARTEL        HECTOR MALARÍN
+                   REPRESENTANTE DE PAÍS   MORGAN DOYLE        MORGAN DOYLE
+                   JEDE DE EQUIPO DEL      L. HERNANDO         ADRIANA DELGADO
+                   PROYECTO                HINTZE
+                                               vi
+"
+"                   JEFE DE EQUIPO DEL          L. HERNANDO
+                   PCR                         HINTZE
+Tiempo y costo (directo) del personal
+  Ciclo de proyecto de etapa        # de semanas de personal         US$ (incluidos los gastos
+                                                                     de viaje y asesoría)
+  Preparación                       54,95                            357.612
+  Supervisión                       82,28                             442.866
+  Total                             137.23                            800.478
+DECLARACIÓN DE LOS OBJETIVOS DE DESARROLLO DEL PROYECTO / PROGRAMA:
+Fortalecer la gestión del Ministerio de Ganadería, Agricultura y Pesca (MGAP), con énfasis en
+el fortalecimiento de la gestión institucional y los servicios de sanidad agropecuaria e inocuidad
+alimentaria, para facilitar el acceso a servicios eficientes de alta calidad para la atención de los
+usuarios en todo el país. Para lograr este objetivo, el Programa comprenderá dos componentes:
+i) fortalecimiento de la gestión institucional del MGAP; y ii) apoyo a la gestión técnica de los
+servicios de sanidad e inocuidad.
+                                                   vii
+"
+"I. INTRODUCCIÓN
+  La República Oriental del Uruguay (ROU) y el Banco Interamericano de Desarrollo (BID)
+  celebraron en el año 2010 el Contrato de Préstamo 2182/OC-UR, para implementar el
+  Programa de Apoyo a la Gestión Pública Agropecuaria (UR-L1016). El mismo tuvo como
+  objetivo fortalecer la gestión del Ministerio de Ganadería Agricultura y Pesca (MGAP), con
+  énfasis en el fortalecimiento de la gestión institucional y los servicios de sanidad
+  agropecuaria e inocuidad alimentaria, para facilitar el acceso a servicios eficientes de alta
+  calidad en la atención de los usuarios de todo el país.
+  El sector agropecuario de Uruguay (incluyendo a los sectores agroindustrial y
+  agroalimentario) constituye un pilar fundamental en la economía del país, por su
+  contribución al Producto Interno Bruto (PBI), el empleo y principalmente a la generación de
+  divisas a través de las exportaciones. Al momento del diseño, las exportaciones sectoriales
+  (agropecuarias, agroindustriales y agroalimentarias) se situaban en US$3.800 millones
+  (año 2008), un 60% de las exportaciones totales del país. En ese entonces, comenzaba a
+  observarse la aparición de nuevos rubros exportados y de nuevos mercados, generando
+  así cierta diversificación intrasectorial y reduciendo los riesgos de variabilidad a factores
+  externos. Las cifras de la década anterior (año 1998) mostraban que el destino de las
+  exportaciones uruguayas se concentraba en un 55% en los países de la región (Brasil: 33%
+  y Argentina: 19%), en tanto que en el año 2008 Uruguay había consolidado su posición en
+  otros mercados, entre ellos la Unión Europea (UE) y Estados Unidos (EEUU), destinando a
+  la región sólo un 26% de sus exportaciones. A nivel mundial, Uruguay ocupa el 5º lugar
+  entre los países exportadores de leche en polvo (con contenido de grasas mayor a 1,5%),
+  el 6° lugar en exportación de carne bovina congelada sin hueso, 6° lugar en exportación de
+  soja y el 7° lugar entre los exportadores de arroz.
+  El diseño del programa responde al hecho que los servicios de sanidad agropecuaria e
+  inocuidad alimentaria, con características de bienes públicos, son fundamentales para
+  atender las exigencias de los mercados internacionales en esos aspectos y, por lo tanto,
+  son clave para el mantenimiento de la tendencia creciente de las exportaciones sectoriales
+  del país. También se tomó en cuenta que dichos servicios son importantes para reducir la
+  probabilidad de ingreso de plagas y enfermedades, lo que, de realizarse, podría originar
+  impactos negativos sobre la actividad agropecuaria, la biodiversidad y la salud pública. El
+  MGAP, a través de sus Direcciones Generales de Servicios Ganaderos (DGSG) y de
+  Servicios Agrícolas (DGSA), es la autoridad sanitaria nacional y de la condición higiénico-
+  sanitaria de los alimentos de origen animal y vegetal, respectivamente. Es, por tanto,
+  responsable del cumplimiento de las normas y directrices aplicables al comercio
+  internacional; especialmente las establecidas por la Organización Mundial de Sanidad
+  Animal (OIE), la Convención Internacional de Protección Fitosanitaria (CIPF), y el Codex
+  Alimentario, organizaciones responsables del Acuerdo sobre la aplicación de Medidas
+  Sanitarias y Fitosanitarias en el marco de la Organización Mundial del Comercio (OMC).
+  Atendiendo a los objetivos trazados y la situación existente, el Programa se estructuró en
+  dos componentes:
+  Componente 1. Fortalecimiento de la gestión institucional del MGAP, que comprende:
+  (i) Plan estratégico funcional; (ii) Plan director del sistema de información, informática y
+  telecomunicaciones; (iii) Estrategia de gestión de recursos humanos; (iv) Estrategia de
+  comunicación, difusión y sensibilización; y (v) Fortalecimiento de la capacidad de gestión a
+  nivel local.
+                                                 1
+"
+"      Componente 2. Apoyo a la gestión técnica de los servicios de sanidad e inocuidad, que
+      abarca: (i) Gestión técnica estratégica (Inocuidad), (ii) Barreras Sanitarias y
+      (iii) Laboratorios.
+      El diseño de la operación focalizó en la necesidad de mejorar la gestión de los servicios por
+      su potencial impacto en el estatus sanitario, clave para el acceso a los mercados de
+      exportación del país. Adicionalmente, se identificó que la prestación de los servicios se ve
+      afectada por la capacidad de la gestión institucional del MGAP. La reducción de los tiempos
+      en trámites relacionados con la prestación de servicios a nivel local, así como la gestión
+      pública en general del MGAP basada en el planeamiento, eficiencia y transparencia fueron,
+      por lo tanto, objeto del Programa. Esto influyó en los indicadores elegidos para evaluar los
+      resultados del Programa.
+      La Matriz de Resultados (MR) del Programa establece como impacto esperado el de
+      mejorar la competitividad del sector agropecuario del país, para garantizar la seguridad
+      alimentaria y mantener y ampliar los mercados de exportación a través de una mejora en
+      los estándares de sanidad e inocuidad alimentaria. Durante la ejecución, el Programa
+      complementó varias iniciativas de política sectorial que priorizaron aumentar las
+      exportaciones a mercados de altas exigencias, particularmente integrantes de la OCDE,
+      que verifican los mayores estándares sanitarios a nivel mundial.
+  II. CRITERIOS CENTRALES. RENDIMIENTO DEL PROYECTO
+2.1.  Relevancia
+      Al momento del diseño se señalaba que el sector agropecuario de Uruguay y sus sectores
+      relacionados (agroindustrial y agroalimentario) constituían un pilar fundamental en la
+      economía. A su vez, este pilar enfrentaba el desafío relacionado con el cumplimiento, por
+      parte de sus servicios, de requerimientos en materia de sanidad animal y vegetal e
+      inocuidad de los alimentos cada día más exigentes. Adicionalmente, para mantener y
+      ampliar los mercados de exportación, el desafío de mejorar la calidad de prestación de los
+      servicios del MGAP a los usuarios, que requerían mejorar su competitividad frente a las
+      demandas de los mercados. Estos aspectos centrales se han mantenido durante la
+      ejecución del proyecto. Además del aumento de la importancia relativa de las exportaciones
+      sectoriales en el total de las exportaciones del país (pasó del 60% a 72% en esos años), se
+      verifica un cambio en la composición relativa de las mismas, ya que los productos de origen
+      vegetal pasan a representar el 50% de las exportaciones sectoriales del país, cambiando
+      el perfil histórico netamente exportador pecuario (carne, leche y lana) en menos de una
+      década.
+      Uno de los aspectos que demuestran la relevancia del programa como apoyo a la provisión
+      de bienes públicos esenciales para el productor, es la permanencia de las exportaciones
+      en los mercados y el avance de las exportaciones a nuevos mercados satisfaciendo
+      mayores demandas de calidad y exigencias de inocuidad.
+            a. Alineación con las necesidades de desarrollo del país.
+      El Programa buscó mejorar y actualizar la gestión institucional y técnica de los servicios de
+      sanidad agropecuaria e inocuidad de los alimentos en el marco del proceso de
+      fortalecimiento de la gestión pública del MGAP. Dichos servicios son estratégicos para
+                                                     2
+"
+"mantener la tendencia creciente de las exportaciones agroalimentarias, principal fuente de
+divisas del país, y para contribuir a preservar el patrimonio natural y la salud de la población.
+En el año 2007, la calidad del servicio de la DGSG fue evaluada por la OIE utilizando su
+herramienta para la Evaluación de Prestaciones de Servicios Veterinarios (PVS). La
+herramienta PVS permite determinar el grado de eficacia de dicho servicio, identificar
+carencias y deficiencias, establecer prioridades y emprender iniciativas estratégicas de 40
+competencias críticas agrupadas en 4 aspectos: i) estabilidad institucional y económica
+demostrada por el nivel de recursos profesionales, técnicos y financieros; ii) capacidad
+técnica para elaborar y aplicar medidas sanitarias y respaldarlas con procedimientos
+científicos; iii) capacidad de colaborar con partes interesadas y hacerlas participantes de
+sus programas, y iv) capacidad para respaldar el acceso a los mercados y contribuir a su
+expansión y mantenimiento. Cada competencia crítica es evaluada con un nivel de
+progresión de 1 al 5, siendo este último el más avanzado, y presenta recomendaciones para
+su mejoramiento. La referida Evaluación PVS para Uruguay concluyó que sus servicios
+veterinarios tenían un nivel muy avanzado en los 4 aspectos mencionados, con niveles de
+progresión máxima de 5 en 23 competencias críticas y un promedio de 4,6.
+En el año 2006, Uruguay evaluó la calidad de los servicios de la DGSA utilizando la
+metodología de Desempeño, Visión y Estrategia (DVE) para Organizaciones Nacionales de
+Protección Fitosanitaria del Instituto Interamericano de Cooperación para la Agricultura
+(IICA). De manera análoga al PVS, la metodología DVE determina el desempeño del
+servicio y hace recomendaciones a través de una evaluación de 27 competencias críticas
+agrupadas en los mismos 4 aspectos del PVS. Los resultados del análisis mostraron que el
+desempeño de la DGSA se situaba en un nivel medio, con valores cercanos al 50%, y que
+existía un amplio espacio para el fortalecimiento institucional en todas las áreas de acción
+de los servicios de sanidad vegetal e inocuidad de alimentos de origen vegetal.
+Los principales resultados de las evaluaciones mencionadas fueron tomados en
+consideración al momento del diseño, tratando de que las áreas de mejora identificadas en
+los mismos fueran atendidas con el Programa. El diagnóstico realizado permitió constatar
+que a pesar de los relativamente buenos niveles de eficacia de los servicios sanitarios del
+Uruguay señalados por las evaluaciones de la DGSG (PVS) y la DGSA (DVE), la prestación
+de dichos servicios a los usuarios se veía afectada por la calidad de la gestión institucional
+del MGAP en su conjunto, constituyendo una prioridad trabajar hacia la integración de los
+servicios, la simplificación de trámites, un mayor planeamiento de los recursos físicos y
+humanos, desconcentración de las prestaciones que en su mayoría se realizaban en
+Montevideo y una mayor coordinación de políticas a nivel nacional y local.
+En la matriz de resultados de la operación, en lo relacionado con la situación de los servicios
+veterinarios y agrícolas -acciones del Componente 2, se incluyeron índices PVS y DVE de
+algunas de las dimensiones clave, como indicadores del Programa a nivel de resultados
+(ver Tabla 1). Adicionalmente, se incluyeron otros dos indicadores a nivel de resultados,
+relacionado con el Componente 1, de la mejora de la gestión del MGAP, que intentan
+capturar las mejoras, por un lado, en el servicio que presta el MGAP a los usuarios del
+sector, en el cual se buscaba mejoras en la eficiencia y, por el otro, en la calidad de la
+gestión sectorial, al cual aspiraba a ser basada en una planificación con visión estratégica
+que contribuya a su vez a una mayor eficiencia y transparencia: (1.1) el tiempo de respuesta
+                                                3
+"
+"a cinco trámites prioritarios y (1.2) Sistema de Gestión MGAP basado en prioridades,
+estrategias y resultados1.
+La matriz de resultados cuenta con cinco productos del Componente 1, relacionados con la
+la implementación de una herramienta de gestión en el MGAP, el logro de un plan director
+que guíe el desarrollo del sistema de información, informática y telecomunicaciones del
+ministerio, el desarrollo e implementación de una estrategia de recursos humanos, mejoras
+en las oficinas departamentales para que estén aptas para trabajar bajo un nuevo modelo
+de gestión de ventanilla única y con procesos de tecnologías de información y comunicación
+modernas (vinculado al plan director en dicho tema); y la estrategia de comunicación y
+difusión del ministerio.
+En el Componente 2 se incluyen tres indicadores de producto: El primero relacionado con
+el desarrollo y acuerdos necesarios para llegar a un contar con un plan estratégico de
+inocuidad de alimentos con mecanismos de seguimiento y evaluación, el cual incluía
+además la capacitación al personal del ministerio. El segundo está referido al desarrollo de
+un sistema de gestión de barreras sanitarias diseñado e implementado, incluyendo
+actividades de capacitación el personal del ministerio y el financiamiento de adecuación
+edilicia y equipamiento clave. El tercer indicador se refiere al diseño e implementación de
+la primera etapa del Plan Director de Laboratorios, incluyendo mejoras en la capacitación
+del personal, infraestructura edilicia y equipamientos. Salvo los tres casos señalados en el
+Enlace Electrónico 2 (Cambios en la Matriz de Resultados), los indicadores se mantuvieron
+sin mayores cambios a lo largo de la ejecución del Programa.
+Estrategia de País. El Programa se enmarcó en dos de las tres áreas estratégicas de la
+EBP 2005-09: por un lado, la mejora de la gestión pública y el afianzamiento de la
+sostenibilidad fiscal, a través de la mejora de los servicios del MGAP; y por el otro, la mejora
+de la competitividad y la profundización de la inserción internacional para lograr un
+crecimiento sostenido, a través del mantenimiento y mejora de los logros en sanidad e
+inocuidad agropecuaria, elementos clave de dicha inserción.
+El período de ejecución de la operación incluyó la vigencia de la EBP 2010-2015, con la
+cual también estuvo alineada al apoyar el objetivo estratégico “Desarrollo Sostenible de la
+Agroindustria”. Finalmente, su último año de ejecución coincidió con el inicio de la nueva
+estrategia 2016-2020 (GN-2836), con la cual está alineada al apoyar dos de sus ejes
+estratégicos: mejorar la productividad y competitividad; y fortalecimiento de la gestión del
+Estado.
+Las condiciones relevantes del sector agropecuario y la problemática que fueron
+encontradas durante el diseño que justificaron su pertinencia en dicho momento, se han
+mantenido desde entonces, con algunos matices. Desde ese punto de vista, las acciones
+del programa han mantenido su relevancia.
+     b. Alineación estratégica
+1 El alcance del indicador de resultado 1.2, no fue claramente definido en el diseño, y fue adaptándose a los
+avances observados en la institución a lo largo del período de ejecución. En breve, está relacionado con avances
+en: la implementación de un software de gestión del ministerio; la gestión de la información y los sistemas, y
+mejoras en la gestión de los recursos humanos.
+                                                         4
+"
+"El programa fue consistente con la Actualización de la Estrategia Institucional (UIS) 2010-
+2020 (AB-3008) y se considera alineada con los desafíos de desarrollo de: (i) productividad
+e innovación, al apoyar servicios de calidad del gobierno que son importantes para el sector
+productivo agroindustrial; y (ii) integración económica, al potenciar la inocuidad de los
+alimentos que faciliten la integración de productores a cadenas de valor de calidad y valor
+agregado.
+Adicionalmente, también es consistente con el Documento de Marco Sectorial de
+Agricultura y Gestión de Recursos Naturales (GN-2709-5), que enfatiza la necesidad de
+fortalecer la provisión de bienes públicos sectoriales como los de sanidad e inocuidad
+apoyados por el programa; así como el Marco Sectorial de Seguridad Alimentaria (GN-
+2825-3) respecto a la dimensión de acceso a alimentos seguros y nutritivos; y también con
+el Marco Sectorial de Integración y Comercio (GN-2715-6), que aborda la problemática de
+los costos de logística, incluyendo los de facilitación, que están entre los principales
+obstáculos en el comercio internacional.
+    c. Relevancia del diseño
+El diseño se basa en una lógica vertical cuyo eje central entiende que, para lograr mayor
+competitividad, garantizar la seguridad alimentaria y mantener y ampliar los mercados de
+exportación, es necesario fortalecer en sus capacidades técnicas y en una efectiva gestión
+y provisión de servicios al MGAP como principal organismo proveedor de los bienes
+públicos al sector2. Esta lógica vertical se mantuvo durante la vida del proyecto.
+Consecuentemente, la estructura del Programa, diseñado sobre la base de recursos de
+posibilidades de financiamiento disponible en dicha oportunidad, se estructura en dos
+componentes: (I) Fortalecimiento de la gestión institucional del MGAP y (II) Apoyo a la
+gestión técnica de los servicios de sanidad e inocuidad. Para ello, el primer componente
+previó el financiamiento de actividades e insumos para alcanzar productos que fortalecieran
+la gestión, herramientas, planes y sistemas de información, nuevos instrumentos
+informáticos y telecomunicaciones, estrategia de capacitación de RRHH, oficinas de
+atención y provisión de servicios actualizadas, nuevos procesos utilizando tecnologías de
+la información y comunicación (TICS) y herramientas de difusión y comunicación
+adecuadas. Desafíos en dichos aspectos, afectan la prestación de los servicios sanitarios
+y de otra índole que son brindados por el Estado a los usuarios. Paralelamente, con el
+segundo componente, en términos de las capacidades técnico-científicas de los servicios
+de sanidad e inocuidad, se planteó generar productos y nuevas capacidades a nivel de
+laboratorios, barreras sanitarias, y la planificación de la gestión de inocuidad alimentaria.
+Esta cadena de resultados esperados, propuesta desde el logro de los productos, con
+efectos concretos a nivel de la gestión del MGAP hacia los productores y el sector en
+general, concluyó en la selección de indicadores a nivel de servicios, nuevas capacidades
+técnicas y de gestión, así como efectos e impactos a nivel de exportaciones, mantenimiento
+de mercados existentes y la creación de nuevos mercados más exigentes en materia de
+sanidad, con garantías de inocuidad de los productos exportados. Estos últimos resultados,
+relacionados con los mercados externos, no fueron explícitamente presentados en el POD,
+2  Por ejemplo, el Informe de Terminación de Proyecto del Subprograma de Sanidad Animal y Protección de
+   Alimentos (1131/OC-UR), que culminó en 2007, identificó el desarrollo institucional como un elemento clave
+   para la sostenibilidad de sus resultados.
+                                                    5
+"
+"     pero fueron tomados en cuenta por el ejecutor como aspiraciones a las cuales el programa
+     esperaba contribuir y posteriormente incorporados en el PMR.3
+     Por ejemplo, según el anuario 2014 de OPYPA, la carne y derivados tienen acceso
+     garantizado a 130 mercados, los productos lácteos a 100 mercados y los productos de la
+     pesca y la acuicultura a 70 mercados; mientras que se exporta vino a 49 países. Asimismo,
+     se destaca en términos generales que entre los años 2010 y 2014 se abrieron 20 nuevos
+     destinos para las exportaciones de productos agroindustriales, haciéndose específicamente
+     mención a la obtención de la habilitación para el acceso de fruta fresca de cítricos y carne
+     ovina sin hueso a Estados Unidos, carne vacuna sin hueso a Corea del Sur, carne ovina a
+     México, carne bovina, ovina, suina (porcina) y equina a Vietnam, cebada y ganado lechero
+     a China, manzanas a Venezuela. El acceso a los mercados agroalimentarios es el resultado
+     de una serie de procesos comerciales e institucionales a lo largo del tiempo. El
+     mantenimiento de los mercados, especialmente los más exigentes como los de países
+     miembros del OCDE, requieren de una actualización y vigilancia constante para que los
+     servicios sanitarios puedan responder adecuadamente a los requerimientos e inspecciones.
+     La evaluación final del programa da como un ejemplo que en los casos del acceso de
+     cítricos y carne ovina con hueso a EEUU y carne vacuna sin hueso a Corea del Sur, las
+     habilitaciones pueden atribuirse a mejoras en laboratorios y barreras sanitarias, mejores
+     capacidades humanas.
+     Sin embargo, algunas observaciones acerca del detalles del diseño y la lógica vertical
+     fueron encontrados durante la evaluación final del programa: grado en el que algunas metas
+     estaban al alcance de las responsabilidades directas o presupuestos del programa;
+     posibilidad de definir mejor algunos indicadores desde el inicio; algunas de las actividades
+     del Programa estaban relacionadas con la gestión permanente de la institución; y
+     asignación del responsabilidades de coordinación a un funcionario de alta jerarquía (con
+     muchas otras responsabilidades al interior del MGAP). Esto refleja, en cierta medida,
+     dificultades en definir indicadores en proyectos de fortalecimiento de capacidades.
+     En resumen, el Programa estuvo muy bien alineado a las necesidades del país y a las
+     prioridades institucionales del Banco, cosa que se reflejó en el diseño de la operación, la
+     cual mantuvo sus elementos centrales durante toda su vida. Algunos elementos de cómo
+     la lógica vertical se reflejó en los indicadores pudo haber recibido mayor atención en el
+     diseño. Para el criterio de relevancia, se considera razonable una calificación de
+     “excelente”.
+2.2. Efectividad
+     a.        Declaración de objetivos de desarrollo del proyecto
+     El objetivo del programa propuesto fue fortalecer la gestión del Ministerio de Ganadería,
+     Agricultura y Pesca (MGAP), con énfasis en el fortalecimiento de la gestión institucional y
+     los servicios de sanidad agropecuaria e inocuidad alimentaria, para facilitar el acceso a
+     servicios eficientes de alta calidad para la atención de los usuarios en todo el país. Para
+     lograr este objetivo, el Programa fue estructurado en dos componentes: i) fortalecimiento
+     de la gestión institucional del MGAP; y ii) apoyo a la gestión técnica de los servicios de
+     sanidad e inocuidad. En la Matriz de Resultados (MR) del POD, no se estableció
+     expresamente un impacto o un indicador de impacto. No obstante, desde el Informe de
+     3   La inclusión de esta dimensión a nivel de los indicadores hubiera sido positiva pues habría permitido
+         monitorear efectos importantes del programa, aunque se entiende su ausencia por la existencia de otros
+         factores, además del Programa, que pueden influir en dicho resultado.
+                                                           6
+"
+"           Seguimiento de Progreso de 2013, se establece como impacto esperado el de “Mejorar la
+           competitividad del sector agropecuario del país, para garantizar la seguridad alimentaria y
+           mantener y ampliar los mercados de exportación”.
+           b.         Resultados logrados
+           Se destacan los resultados de manera sintética, reconociendo cambios que ocurrieron
+           sobre la marcha en algunos indicadores de producto. Los mismos, incluidos en Anexo 3, no
+           alteraron el alcance del objetivo y propósito del Programa desde su diseño original. Los
+           cambios ocurridos se justifican en orden a no superponer acciones del Programa con
+           estrategias desarrolladas en paralelo por el gobierno central, en un caso, y con
+           reasignaciones de metas y/o alcances de algunos productos que permitieron un mejor
+           aprovechamiento de los recursos existentes, en línea con las políticas priorizadas por el
+           MGAP, que evolucionaron a lo largo de la ejecución. En ningún caso fueron modificaciones
+           que implicaron la anulación de productos, sino cambios en la estrategia para el alcance del
+           objetivo del componente o un replanteo de la meta sin condicionar el alcance u objetivo final
+           del mismo.
+                                                 Tabla 1. Matriz de Resultados
+                                  En aprobación             Al terminar el proyecto (PCR)
+     Indicadores                                                                                       Comentarios
+                         Unidad de   Línea de               Unidad de   Línea de
+                                                Meta (P)                              (A)
+                         Medida        Base                 Medida        Base
+   Impactos
+                                                                                           No se incluyeron Impactos en la
+Productividad                                                                             Matriz de Resultados. Al momento
+agropecuaria                                                    %                         de incluir el indicador, el P(A) fue
+incrementada                 NA         NA        NA         aumento        0         20  5%.
+                                                                                           No se incluyeron Impactos en la
+                                                                                          Matriz de Resultados. Al momento
+Volumen              de                                         %                         de incluir el indicador, el P(A) fue
+exportaciones                NA         NA        NA         aumento        0         65  10%.
+                                                                                          No se incluyeron Impactos en la
+Valor       de      las                                         %                         Matriz de Resultados. Al momento
+exportaciones                NA         NA        NA         aumento        0         50  de incluir el indicador, el P(A) fue 5%
+   Resultados
+1.1            Tiempo
+respuesta       a     5                                                                   La línea de base no estaba lista al
+tramites prioritarios       Días        NA        NA           Días         5        1.4  momento de la aprobación.
+1.2     Sistema      de
+Gestión         MGAP
+basado               en
+prioridades,
+estrategias           y
+resultados                Sistema        0         1         Sistema        0          1
+                                                           7
+"
+"2.1 Competencias de
+los       profesionales
+DGSG                        Índice         3          4        Índice      4        3      Metodología OIE
+                                                               Índice                      Metodología OIE. Si bien se
+                                                                                           mantuvo el buen nivel indicado por el
+                                                                                           índice (4) y se reconocen las
+                                                                                           mejoras edilicias, no se alcanzó el
+                                                                                           nivel meta 5 para índice, por falta de
+                                                                                           actualización de la flota vehicular,
+                                                                                           que no estaba dentro de los gastos
+                                                                                           elegibles del programa.
+2.2 Recursos físicos
+de la DGSG                  Índice         4          5                    4        4
+                                                               Índice                      Metodología OIE. La caída se debió
+                                                                                           a un cambio en la herramienta y no
+                                                                                           a una caída en la calidad. El informe
+                                                                                           PSV reconoce que el país podría
+2.3      Calidad     de                                                                    llegar a un 4 o hasta 5 en el futuro
+laboratorios DGSG           Índice         4          5                    4        3      cercano.
+2.4 Comunicación de                                            Índice
+la DGSG                     Índice         4          5                    4        4      Metodología OIE
+2.5            Medidas
+sanitarias            y
+procedimientos
+aplicados
+científicamente      en
+DGSA                          %          <50%       60%          %       <50%     60%      Metodología DVE IICA
+2.6 Actualización de
+recursos      humanos
+DGSA                          %           25%       50%          %        25%     50%      Metodología DVE IICA
+2.7 Difusión oportuna
+sobre programas                          <50%                            <50%
+Sanitarios DGSA               %                     60%          %                50%      Metodología DVE IICA
+2.8      Servicios    y                  <50%                            <50%
+procesos certificados
+de DGSA                       %                     75%          %                75%      Metodología DVE IICA
+            La Tabla 2 presenta la Matriz de Resultados con los correspondientes indicadores a nivel
+            de impacto, efectos/resultados, y productos por Componente, señalando la comparación
+            entre la situación al inicio del proyecto (o último dato de base existente), la planificación
+            inicial (P), la planificación actualizada durante la ejecución -P(A)- y la situación alcanzada
+            (A). Como consecuencia de los avances que allí se detallan es posible valorar lo sucedido
+            a nivel de los Indicadores Claves del diseño.
+                                                            8
+"
+"                                   Tabla 2. Matriz de Resultados Alcanzados
+  Indicador de:                 Unidad       Valor   Año     Medio        de   P              P(A)      A         Fecha     %
+  Impacto,                                   línea   línea   Verificación                                               alcanzado
+  Efecto/Resultado                           de      de
+  Producto                                   Base    base
+  1.1            Productividad  %            0       2010    DIEA              NA.            5%        10%       2015  100
+  agropecuaria                  aumento                                        Incluido
+  incrementada                                                                 durante
+                                                                               ejecución
+                                                                               sin P
+   1.2      Volumen          de  %           0       2010    Banco Central     NA. Ídem       10%       65%       2015  100
+  exportaciones                 aumento
+  1.3      Valor     de     las %            0       2010    Banco Central     NA. Ídem       5%        50%       2015  100
+  exportaciones                 aumento
+  Resultados
+  1.1 Tiempo respuesta a 5      Días         5       2010    MSGO              NA.            NA        1.4       2016  100
+  tramites prioritarios                                                        Incluido
+                                                                               durante
+                                                                               ejecución
+                                                                               sin P
+  1.2 Sistema de Gestión        Sistema      0       2010    MGAP              1              1         1         2015  100
+  MGAP         basado        en
+  prioridades, estrategias y
+  resultados
+  2.1 Competencia de los        Índice       3       2008    Auditoría         4              4         4         2014  100
+  para-profesionales de la                                   independiente
+  DGSG
+  2.2 Recursos físicos de la    Índice       4       2008    Auditoría         5              5         4         2014  80
+  DGSG                                                       independiente
+  2.3        Calidad         de Índice       4       2008    Auditoría         4              5         3         2014  604
+  Laboratorios de la DGSG                                    Independiente
+  2.4 Comunicación de la        Índice       4       2008    Auditoría         5              5         4         2014  80
+  DGSG                                                       independiente
+  2.5 Medidas sanitarias y      %            50      2006    Auditoría         60             60        60        2016  100
+  procedimientos aplicados                                   independiente
+  científicamente en DGSA
+  2.6     Actualización      de %            25      2006    Auditoría         50             50        50        2016  100
+  RRHH DGSA                                                  independiente
+  2.7 Difusión oportuna         %            50      2006    Auditoría         60             60        50        2016  83
+  programas          sanitarios                              independiente
+  DGSA
+  2.8 Servicios y Procesos      %            50      2006    Auditoría         75             75        75        2016  100
+  certificados de DGSA                                       independiente
+  Productos
+  1.1      Herramienta       de Herramie     0       2010    Visita            1              1         0.5       2016  50
+  Gestión        del      Plan  nta     de                   Inspección
+  Estratégico del MGAP          gestión
+  implementado
+  1.2 Plan Director del         Plan         0       2010    Visita            1              1         0.5       2015  50
+  Sistema de Información,                                    Inspección
+  Informática                 y
+  Telecomunicaciones
+  1.3 Estrategia de RRHH        Estrategi    0       2010    Visita            1              1         0.5       2015  50
+  implementada                  a                            Inspección
+4 El método de cálculo de este indicador (metodología de la OIE) cambió entre la medición de línea de base y
+la medición al final del proyecto. Por esa razón, se redujo el índice relacionado con la calidad de laboratorios a
+pesar de las mejoras observadas en los laboratorios.
+                                                        9
+"
+"1.4               Oficinas  Cantidad  0      Visita     19 10 10   2016 52
+departamentales             oficinas         Inspección
+adecuadas     al    nuevo
+modelo de gestión con
+ventanilla    única       y
+procesos TICs
+1.5             Estrategia  Estrategi 0 2010 Visita     1  1  1    2016 100
+comunicación y difusión     a                Inspección
+MGAP
+2.1    Plan    Estratégico  Plan      0 2010 Visita     1  1  0.95 2016 95
+Inocuidad de alimentos                       Inspección
+con      mecanismo       de
+seguimiento y evaluación
+2.2 Sistema gestión de      Sistema   0 2010 Visita     1  1  0.7  2016 70
+barreras         sanitarias                  Inspección
+diseñado                 en
+implementado
+2.3      Plan      Director Plan      0 2010 Visita     1  0  1    2016 100
+Laboratorios diseñado e                      Inspección
+implementado      en     su
+primera etapa
+                                          10
+"
+"Previo al análisis con mayor detalle de lo logrado por el Programa, es importante realizar
+algunas consideraciones: (i) el contexto institucional en el que fue implementado el
+Programa, (ii) la dinámica de los mercados internacionales de productos agropecuarios y
+alimentos que se registró durante el periodo de su ejecución. Ambos aspectos incidieron en
+las características de la implementación de los componentes del Programa, la adecuación
+del alcance de algunos productos, y en los tiempos de ejecución.
+En relación al contexto institucional, hay que considerar que el préstamo fue aprobado por
+el Directorio del BID el 9 de septiembre de 2009, y el contrato de préstamo fue firmado el 9
+de febrero de 2010, un mes antes de que asumieran las nuevas autoridades de gobierno.
+El recambio de autoridades y la definición del presupuesto quinquenal, junto al proceso de
+reforma del Estado impulsado por la nueva administración, que no participó en la propuesta
+de diseño, resultó en un período de muy baja ejecución durante los dos primeros años del
+programa, aunque no afectó los principales resultados esperados ni implicó cambios
+significativos.
+En relación a la dinámica de los mercados internacionales de productos agropecuarios y
+alimentos, hay que señalar que desde el año 2010 hasta el año 2014 el sector en su
+conjunto mostró un crecimiento sostenido de la producción y las exportaciones, con un
+cambio en la composición relativa de estas últimas. Se destaca en tal sentido la creciente
+relevancia de los productos agrícolas (particularmente la soja) que suman exportaciones
+por US$1.600 millones, la pasta de celulosa y productos de madera y derivados que suman
+US$1.500 millones, y los cítricos y otras frutas con US$90 millones. Esto hace que los
+productos de origen vegetal representan prácticamente el 50 % de las exportaciones
+agroindustriales del país, lo cual ha cambiado el perfil netamente exportador pecuario
+(carne, leche y lana) en menos de una década. Asimismo, se observa que entre los años
+2010 y 2014 no se perdieron mercados y se abrieron 20 nuevos destinos para las
+exportaciones de productos agroindustriales, destacándose particularmente la obtención de
+la habilitación para el acceso de fruta fresca de cítricos y carne ovina sin hueso a Estados
+Unidos, carne vacuna sin hueso a Corea del Sur, carne ovina a México, carne bovina, ovina,
+suina y equina a Vietnam, cebada y ganado lechero a China, manzanas a Venezuela. En
+suma, desde 2008 a la fecha, al analizar los cambios en el sector se observa: (i) un aumento
+de las cantidades y valores de las exportaciones de origen agropecuario, (ii) un aumento
+en la importancia relativa de las mismas en el total de las exportaciones nacionales, (iii) un
+cambio en la estructura de las exportaciones del sector, equilibrando la importancia de los
+rubros de origen vegetal y animal, (iv) una diversificación de mercados a los que se dirigen
+las exportaciones del sector.5 Aunque resulta difícil cuantificar la magnitud de la
+contribución que el programa y sus actividades han tenido sobre estas tendencias, la
+política agropecuaria del país está basada en la necesidad de mantener y fortalecer los
+aspectos sanitarios y de inocuidad como un requisito para mantener las capacidades que
+permiten esa inserción comercial y como una señal hacia los mercados de que el país es
+un proveedor confiable y seguro de alimentos de calidad6.
+Siguiendo el Marco de Resultados, presentado en la Tabla 2 con los indicadores principales
+cabe realizar las siguientes aclaraciones generales:
+5  https://medios.presidencia.gub.uy/tav_portal/2015/noticias/NO_S408/opypa.pdf
+6  Un ejemplo para el país de la importancia de los aspectos sanitarios fue la aparición, en 2001, de un brote
+   de fiebre aftosa tuvo un costo estimado sobre el sector cárnico y la economía del país de US$700 millones
+   (Knight-Jones y Rushton, 2013; Otte et al., 2004).
+                                                      11
+"
+"i)      En relación a la calidad de los servicios sanitarios, esenciales para ganar
+        competitividad en los mercados de exportación, el último informe de evaluación PVS
+        disponible correspondiente a 2014, del cual se obtienen los indicadores 2.3 a 2.5, da
+        cuenta de que se ha mantenido el progreso en la situación de los servicios veterinarios
+        pertenecientes a la DGSG. Según el reporte de la evaluación PVS-OIE7 “El hallazgo
+        más importante (…) fue que Uruguay, partiendo de un nivel ya alto de sus SV, ha
+        dado respuesta a los resultados y recomendaciones de la evaluación PVS 2007 para
+        mejorar sus servicios aún más. A la vez ha demostrado una gran estabilidad de sus
+        estructuras y la sostenibilidad de sus políticas.” Se destaca también la buena
+        comunicación de la DGSG con las partes interesadas (relacionado con indicador 2.4),
+        y las inversiones en laboratorios (relacionado con indicador 2.3). El reporte reconoce
+        que la herramienta PVS del 2007 (usada para la línea de base) tenía menos
+        competencias que la herramienta del 2013 (utilizada en 2014), y que algunas de las
+        competencias críticas de la herramienta son más exigentes en la nueva versión.
+ii)     También se verifican mejoras sustantivas en la situación de los servicios agrícolas
+        (DGSA) respecto a su punto de partida, según lo observado en los indicadores 2.5 a
+        2.8, y considerando que se han recibido dos auditorías (en 2011 para evaluar control
+        de pesticidas en manzana y citrus para la exportación a la UE, y en 2016 para evaluar
+        el sistema de control de la sanidad en citrus para la exportación a la UE), que han
+        permitido mantener el mercado de la UE abierto a las exportaciones de frutas de
+        Uruguay y han recomendado a las autoridades acreditar los laboratorios de acuerdo
+        a la norma ISO 17.025. El fortalecimiento de los servicios sanitarios (a través de los
+        apoyos a laboratorios de sanidad agropecuaria) y los esfuerzos para el mantenimiento
+        de las condiciones sanitarias (a través de los apoyos a las barreras sanitarias) habrían
+        sido relevantes en alcanzar esos logros. Adicionalmente, la apertura del mercado de
+        EEUU a las exportaciones de cítricos en 2013 habla de la credibilidad de los servicios
+        en otro de los mercados más exigentes del mundo en materia fitosanitaria;
+iii)    En cuanto a la planificación y gestión estratégica del MGAP, se avanzó en el Tablero
+        de Control generado para la DGS del MGAP, que fue el resultado de una redefinición
+        de meta y acuerdo de partes (MGAP-BID) en 2012, se avanzó en la concreción del
+        software de base y se encuentra en proceso de instalación para los principales flujos
+        de gestión administrativa, que tomarán aún un tiempo de integración y capacitación
+        para su uso, por lo que el avance en este caso puede considerarse parcial.
+iv)     En cuanto a la reducción de los tiempos en trámites y consultas en las oficinas locales,
+        la consolidación de centros de atención a nivel departamental que atienden diversos
+        trámites que antes exigían el traslado a dependencias centrales del ministerio
+        (Montevideo), y la informatización de algunos de ellos representan una mejoría en los
+        tiempos de respuesta de la institución a las necesidades de la demanda. En 9 de los
+        19 departamentos del país se han realizado inversiones para la readecuación edilicia
+        y el equipamiento de oficinas del MGAP, centralizando su atención al público a nivel
+        local (Centros de Atención Ministerial – CAM) y se han capacitados los RRHH,
+        simplificando 20 trámites que los usuarios del MGAP deben cumplir ante la institución,
+        poniendo los mismos a disposición a través de internet. En el futuro, mayor énfasis
+        podría darse a cuantificar adecuadamente los impactos que estas mejoras
+        representan y que se espera sean significativas.
+7  Hutera, Sabina et al. 2014. Informe de Evaluación PVS de Seguimiento de los Servicios Veterinarios de
+     Uruguay. OIE.
+                                                    12
+"
+"Relacionado a los productos del Componente I se considera destacar:
+i)   Se ha logrado modernizar el equipamiento informático del MGAP en diversas
+     dependencias, y se ha regularizado el uso de software (pago de licencias) de la
+     institución. Esto representa avances significativos en las capacidades de gestión de
+     tecnologías de la información del ministerio. Asimismo, se dispone de un Plan Director
+     de Información, Informática y Telecomunicaciones, el cual continúa su ejecución y de
+     un Plan de Mejora de la Seguridad de la Información que cuenta con 39 proyectos
+     implementados hasta 2017.
+ii)  Como resultado de un estudio contratado, se definieron prioridades de capacitación
+     para el personal del MGAP por Unidad Ejecutora. Se efectuaron entre 2014 y 2016
+     unas 1.000 capacitaciones, en las áreas de competencia señaladas por el Plan de
+     Capacitación formulado. También se realizaron 200 pruebas psicotécnicas para el
+     ingreso de personal al MGAP a modo de prueba, para evaluar la viabilidad de su
+     implementación regular. La gestión de los RRHH ha progresado en relación al estado
+     de situación al momento del diseño, y lo ha hecho en la dirección propuesta por el
+     proyecto, habiéndose capacitados 400 funcionaros en temáticas relacionadas con el
+     Modelo de Gestión de los Servicios del MGAP.
+iii) La estrategia de comunicaciones del MGAP logró concretar un rediseño del portal
+     web, que facilitará el acceso a los servicios de la institución por parte de los usuarios
+     del mismo, no pudiéndose avanzar con otras actividades por la baja asignación
+     presupuestal asignada por el Programa a esta área.
+iv)  Se realizaron las adecuaciones edilicias, de mobiliario, equipamiento y capacitaciones
+     de RRHH dejando operativos 9 CAM de los 19 proyectados, siendo la implementación
+     de los CAM una estrategia priorizada en la agenda del MGAP para la provisión de
+     servicios a productores y usuarios. La decisión de establecer un CAM de carácter
+     especial en Tacuarembó que ubica a las oficinas del MGAP en un campus
+     interinstitucional que conjuga servicios de investigación, extensión, formación, y
+     administrativos, vinculados al sector agropecuario en el marco de una política de
+     coordinación de esfuerzos interinstitucionales, se decidió en 2014, como se destaca
+     en el Anexo 3.
+Relacionado a los productos del Componente II se considera destacar:
+i)   El Plan Estratégico para los Servicios de Sanidad e Inocuidad concluyó la elaboración
+     del Plan de Inocuidad en 2015 y dio lugar a la creación de una nueva Unidad Ejecutora
+     en el MGAP (UE9) denominada Dirección General de Bioseguridad, que contará con
+     3 Gerencias (Inocuidad, Bioseguridad y Barreras Sanitarias), que consagra la
+     institucionalización de los avances en este tema. Este fue un resultado no esperado
+     del Programa, aunque es elemento de la mejora en la gestión de los servicios
+     sanitarios y de inocuidad observados.
+ii)  Referido al sistema de control de la calidad en laboratorios de la DGSA y la DGSG,
+     se han realizado inversiones en adecuación edilicia, adquisición de equipamientos,
+     desarrollo de software y capacitaciones de personal, que mejoraron la Gestión
+     Ambiental y de Bioseguridad de los Servicios de Sanidad. Se implementa un Sistema
+     de Gestión (LIMS) que permitirá la rastreabilidad completa del proceso de cada
+     muestra ingresada hasta la obtención de sus resultados. Este fue otro resultado no
+     esperado del programa, identificado durante la ejecución del programa, dentro de las
+     actividades de fortalecimiento de los laboratorios. El nivel de progreso puede
+     considerarse satisfactorio en los dos principales laboratorios del MGAP que trabajan
+     con la calidad e inocuidad de los productos agroindustriales;
+                                             13
+"
+"iii)    Vinculados a las barreras sanitarias, se cuenta con un Plan de Readecuación,
+        manuales de gestión y normativa actualizada, al tiempo que se adecuaron
+        infraestructura y equipamiento en 8 pasos de frontera y avances en otros 22 pasos
+        de frontera, incluyendo capacitación a 120 funcionarios y vestimenta específica. Se
+        diseñó folletería y cartelería que está siendo utilizada y se avanzó en la
+        complementación del trabajo entre los RRHH de las dos Direcciones del MGAP que
+        comparten la responsabilidad de control sanitario en frontera (DGSG y DGSA). La
+        creación de la nueva Dirección General de Bioseguridad que cuenta con una Gerencia
+        de Barreras Sanitarias, constituye un avance institucional en la dirección de consolidar
+        una actuación unitaria de los servicios.
+iv)     Se diseñó el Plan Director de Laboratorios y la normativa para la Acreditación de los
+        Laboratorios de la DGSA de acuerdo a la Norma ISO 17.025, que identificaron
+        necesidades de adecuación edilicia, equipamiento, incorporación de RRHH y
+        formación de personal. Las mejoras de equipamiento, la incorporación de RRHH, la
+        capacitación del personal, y la colaboración entre laboratorios, conforman un nuevo
+        escenario muy favorable en comparación a la situación previa a la ejecución del
+        programa. Los Laboratorios de la DGSA, que en 2008 contaban con la capacidad de
+        efectuar 3.500 ensayos/año, cuentan con la capacidad de efectuar 6.600
+        ensayos/año, de acuerdo al siguiente detalle: Alimento Animal 2.500, Formulaciones
+        1.300, Biológico 1.200, Residuos 1.000, Cereales y Oleaginosos 600, representando
+        la superación de la meta planificada por el Programa.
+   v) el El laboratorio de la DGSA fue acreditado de acuerdo a la Norma ISO 17.025, por
+        el Organismo Uruguayo de Acreditación en 2016. Los tiempos requeridos para la
+        implementación de los cambios en la modalidad de gestión de los laboratorios fueron
+        mayores a los previstos, vinculados en parte con el hecho de que se amplió la
+        demanda de servicios por el cambio en el perfil productivo y agroexportador del país
+        registrado durante la ejecución.
+   vi) El Plan de Infraestructura Edilicia de Laboratorios para cumplir con las Normas de
+        Bioseguridad y Gestión Ambiental permitió la readecuación edilicia de los laboratorios
+        de la DGSA para poder solicitar la acreditación de procedimientos de acuerdo a la
+        Norma ISO 17.025, destacándose la construcción del depósito unificado y seguro de
+        reactivos, solventes y gases, auditado por Facultad de Química con Informe positivo
+        en 2013; una oficina independiente para la gestión del almacén; y un depósito
+        contiguo para cilindros de gases con techo liviano. En el caso de la DGSG vale
+        destacar la nueva infraestructura montada para albergar el horno pirolítico en el que
+        se manejaran los residuos de todos los laboratorios del MGAP de la zona sur,
+        brindando las máximas garantías.
+   vii) El Plan de Capacitación en Gestión del Sistema de Laboratorio integral, depende de
+        la implementación total del nuevo Sistema de Gestión LIMS que está en marcha y la
+        ejecución del mismo se ha limitado a los RRHH directamente involucrados en los
+        laboratorios de la DGSA, la DGSG y DINARA.
+En conclusión, analizando la Matriz de resultados, los primeros impactos del Programa, sus
+productos y el alcance efectivo de objetivos y metas, se consideran los resultados
+alcanzados como satisfactorios, especialmente en lo relacionado con la gestión de los
+servicios sanitarios, aunque con algunas brechas frente a lo programado.
+                                               14
+"
+"Análisis de la Atribución de los Resultados
+El diseño de la operación no previó la realización de una evaluación de impacto8. Si bien
+no se puede mensurar exactamente la significación relativa de cada producto del Programa
+en el logro de los resultados, es posible constatar que la mayoría de los resultados
+esperados al momento de su formulación fueron alcanzados satisfactoriamente y pueden
+atribuirse mayoritariamente al Programa.
+Considerando los indicadores de impacto de la Tabla 2 relacionados al aumento de las
+exportaciones en volumen y valor, puede argumentarse que resultaría, en parte, de haber
+conseguido la apertura de nuevos mercados de exportación de productos agropecuarios y
+el mantenimiento de los existentes a través de una mejora en los estándares de sanidad e
+inocuidad alimentaria. Cabe señalar que de acuerdo a la información publicada por el
+MGAP, mencionada en la introducción de este informe, se mantienen abiertos más de 400
+mercados diferentes para los principales productos de exportación agroalimentaria del país,
+siendo innegable que en muchos de esos mercados como es el caso de las frutas frescas
+cítricas a EEUU, la carne ovina con hueso a Estados Unidos o la carne vacuna sin hueso a
+Corea del Sur, las habilitaciones obtenidas pueden atribuirse a: (i) las mejoras en
+equipamiento de laboratorio y barrera sanitarias (posibilidades de análisis con mayor
+precisión, garantía de la credibilidad de los resultados de los ensayos, manejo más seguro
+de insumos y residuos en los laboratorios, mayor control de fronteras), (ii) las mejores
+capacidades humanas (incorporación de RRHH formados y capacitación de la plantilla), y
+(iii) el mayor control de gestión (documentación e informatización de las actividades
+cumplidas por los servicios), que se han registrado en los Laboratorios del MGAP y en las
+Barreras Sanitarias9. Del mismo modo, de las entrevistas a actores de la agroindustria
+realizadas en el marco de la evaluación económica, se encontró que existe la percepción
+entre ellos de que las acciones del Programa habrían facilitado la apertura de este mercado.
+En el caso de la evaluación final del programa, coincide también en que “…el proyecto ha
+tenido impacto en mantener y ampliar los mercados de exportación habilitados por motivos
+de sanidad y de inocuidad”.
+  Respecto a las actividades del Programa y el logro de los resultados del primer
+  componente, es claro para la evaluación final que la consolidación de centros de atención
+  a nivel departamental (que pueden atender diversos trámites que anteriormente exigían el
+  traslado a dependencias centrales del ministerio), y la informatización de algunos de esos
+  trámites, representan una mejoría en los tiempos de respuesta de la institución ante la
+  demanda del público. Ello, ha estado aunado a la capacitación a los funcionarios del MGAP
+  en el nuevo modelo de gestión y en la atención a los usuarios (entre otras actividades de
+  capacitación según el plan cuyo diseño también fue producto del Programa); a la mejora
+  en los sistemas de información y comunicación (para lo cual se cuenta ahora con un plan
+  de mejora de mediano plazo); avances en los sistemas de gestión; al rediseño de la página
+  web del ministerio como herramienta de comunicación con el público y a las mejoras
+  edilicias financiadas por el programa. Todo ello habría permitido un fortalecimiento del
+  Ministerio que posibilita un mayor acceso a servicios del MGAP por parte de los
+  productores y otros actores del sector agropecuario uruguayo, una mayor cobertura
+  territorial y mejores niveles de acceso en esos territorios. Respecto a la gestión interna,
+  dichos logros contribuyen a una mejor capacidad de planificar sus recursos y realizar sus
+  gestiones internas de manera más eficiente. Hacia los actores externos, contar con un
+  ministerio con mejores capacidades, fortalece la posibilidad de atender mejor las
+8  Los precedentes de evaluaciones de impacto en proyectos de fortalecimiento institucional han sido bastante
+limitados.
+9    Mermot, C. “Evaluación Final del programa Apoyo a la Gestión Pública Agropecuaria”. Setiembre de 2016.
+                                                     15
+"
+" inspecciones y auditorías internacionales que son elementos importantes en el acceso a
+ los mercados.
+En relación al análisis costo beneficio ex – post (ver sección de Eficiencia), si bien no fue
+posible medir la totalidad de los efectos e impactos del Programa, ni atribuir la totalidad de
+los beneficios a la inversión realizada, se presume, en general, que análisis de programas
+de esta naturaleza, donde existe un componente importante de fortalecimiento institucional
+y productos intangibles difíciles de medir, toda evaluación de los beneficios realizada resulta
+generalmente subestimada. La atribución de los resultados referidos a la posibilidad de
+permanecer en los mercados, sin tener rechazos significativos, al mismo tiempo que lograr
+un estatus sanitario satisfactorio, global a nivel país, se debe a la inversión que en su
+conjunto realiza el sector público en áreas como sanidad. Este programa, sin duda, no solo
+cumplió a nivel del logro de capacidades técnicas en lo sanitario, sino que también
+representó un avance para transmitir y transferir conocimientos, mejores prácticas y
+simplificar procesos, realizando un aporte también desde la simplificación de trámites y la
+prestación de servicios a nivel local.
+c. Resultados Imprevistos
+Entre los resultados imprevistos se destaca:
+ •   Las actividades realizadas por el Programa en algunos de los ámbitos priorizados
+     (tecnologías de información, atención al público, comunicaciones, inocuidad y barreras
+     sanitarias) revelaron la necesidad de mejoras en la coordinación de las diferentes áreas
+     del sector agropecuarios para poder lograr los resultados esperados. En consecuencia,
+     en el marco de la ejecución de dichas actividades se propició la creación de espacios
+     institucionales de coordinación, los cuales son altamente valorados en función del
+     aporte al trabajo en equipos interdisciplinarios que dieron lugar los siguientes comités10:
+     i) Comité para el seguimiento del Plan Director Informático, con participación de:
+          Sistema Nacional de Información Ganadera, Asesoría SIC, Servicios Jurídicos,
+          Asesor de Ministro en Tecnologías de la Información, Programa de Apoyo a la
+          Gestión Pública Agropecuaria.
+     ii) Comité para el seguimiento del Sistema de Gestión de Seguridad de la Información,
+          con la participación de los mismos actores institucionales.
+     iii) Comité de Ventanilla única con la participación de: Dirección General de Secretaría,
+          Programa de Apoyo a la Gestión Pública Agropecuaria, Descentralización.
+     iv) Comité de comunicaciones con la participación de la Gerencia de Comunicaciones
+          del MGAP y el Programa.
+     v) Comité de inocuidad con la participación de la comisión de inocuidad del MGAP y el
+          Programa.
+     vi) Comité de Barreras Sanitarias con la participación de: Dirección General de
+          Servicios Agrícolas, Programa de Apoyo a la Gestión Pública Agropecuaria,
+          Dirección General de Servicios Ganaderos y Dirección General de Secretaría del
+          MGAP.
+     vii) Comité de Laboratorios con la participación de: Dirección General de Servicios
+          Agrícolas, Programa de Apoyo a la Gestión Pública Agropecuaria, Dirección General
+          de Servicios Ganaderos y Dirección General de Secretaría del MGAP.
+10 http://www.mgap.gub.uy/unidades-ejecutoras
+                                                16
+"
+" •    El trabajo alrededor del plan estratégico para los servicios de sanidad e inocuidad y del
+      fortalecimiento de las capacidades en estas áreas, contribuyó a que se propusiera y
+      alcanzara la formalización de la Unidad de Coordinación y Planificación de la Inocuidad
+      Alimentaria (UCPIA11) en el año 2014, por Resolución del MGAP, y la posterior creación
+      de la Unidad Ejecutora 9 (UE9) del MGAP con la Ley de Presupuesto de año 2015 -
+      Dirección General de Bioseguridad elevó el rango institucional para le gestión de estos
+      temas que hacen parte central al cumplimiento de los nuevos requisitos de acceso a
+      los mercados internacionales más exigentes.
+ •    Otro resultado imprevisto de las actividades de planificación, fortalecimiento y
+      capacitación a los laboratorios, tiene que ver con la generación de un ambiente de
+      colaboración y coordinación entre los Laboratorios del MGAP, que trasciende los
+      cometidos del Comité de Laboratorios mencionado anteriormente, y que se puede
+      sumar hacia la posibilidad de contar en el mediano plazo con un sistema de gestión
+      integral centralizado que unifique inventarios y planificación de insumos para una
+      efectiva y eficiente gestión y atención a los usuarios12.
+ •     Finalmente, está también la implementación del Plan de Vigilancia de Residuos de
+       Plaguicidas (PNVR) en productos vegetales, que descansa en buena medida en la
+       capacidad de análisis de la DGSA que se desarrolló con al apoyo del Programa. En
+       abril de 2012 se creó un grupo multidisciplinario e interinstitucional con el objetivo de
+       contribuir a garantizar la salud de la población y el comercio internacional en cuanto al
+       cumplimiento de los LMRs (Límite Máximo de Residuos establecido por la Comisión
+       del CODEX Alimentarius, basados en datos de BPA (Buenas Prácticas Agrícolas) y en
+       el análisis de riesgos con enfoque a la protección de la salud humana. Para llevar a
+       cabo el Plan (PNVR) trabajan coordinadamente 4 Laboratorios (DGSSA – responsable
+       de casi 80 % de la capacidad de análisis, LATU, Facultad de Química e Intendencia
+       Municipal de Montevideo). Se recogen muestras de productos a la entrada y salida del
+       país, en mercado local, a nivel de productores y a nivel de puesto de ventas mayoristas.
+       Todas las muestras son tomadas de acuerdo al método de muestreo recomendado por
+       la Guía Codex CAC/GL 33-1999, a los efectos del cumplimiento de los LMR.
+ •     El Plan (PNVR) contempla el análisis de productos vegetales (frutas; hortalizas;
+       cereales) de producción nacional para consumo local y exportaciones y de productos
+       importados; y el análisis de aguas subterráneas y superficiales. Particularmente para
+       la exportación se comenzó a trabajar sobre manzana y citrus atendiendo las alertas
+       recibidas en los años 2006 a 2009 desde el RASFF (Sistema de alerta rápida para
+       alimentos y piensos de la Unión Europea).
+ •     En general en el control de las exportaciones las muestras se sacan en el embarque,
+       y por lo tanto la detección eventual de problemas se concreta luego de que la
+       mercadería ha sido embarcada. En la medida que han ido progresando las exigencias
+       de los mercados compradores (ej. citrus) se han trasladado los puntos de muestreo
+       hacia atrás (packing-chacra) de manera de efectuar el control con mucha antelación al
+       embarque y poder evitar así el envío de mercadería que no cumpla las exigencias. Esta
+       modalidad, adoptada a instancias de Programa, será la que irá avanzando en el caso
+       de los diferentes productos de exportación, y sobre ella se trabajará en cada cadena
+       mediante el desarrollo de procedimientos para la Evaluación de Riesgos, procurando
+       dar las mayores garantías a los consumidores y minimizar los costos de control.
+11 MGAP. Resolución ministerial Nº 36/014.
+12 Este punto estaría contemplado para implementarse con la continuidad de una nueva operación de
+   financiamiento con el Banco.
+                                                 17
+"
+"  Estos resultados, debido a que no fueron considerados entre los logros esperados, no
+  fueron incluidos en la matriz de resultados o en las actividades de monitoreo del programa
+  Sin embargo fueron reportados por el ejecutor y documentados en la evaluación final del
+  programa.
+  Considerando que gran parte de los resultados se alcanzaron y que, además, se
+  observaron resultados no esperados, se propone la calificación de satisfactorio para el
+  criterio de efectividad.
+2.3    Eficiencia
+ Entendida como la relación entre los recursos utilizados en el proyecto (ver Tabla 3 de
+ Costos del Programa) y los logros conseguidos con el mismo, en el caso del PAGPA la
+ ejecución financiera muestra que, además de que se han aplicado los recursos de
+ financiamiento con relativamente pocos desvíos respecto de lo proyectado en el diseño, los
+ mismos se han invertido eficientemente.
+                                               18
+"
+"                                                              Tabla 3. Tabla de costos del programa
+  Componente 1: Fortalecimiento de la gestión institucional del                                                                                       Costo revisado del
+  MGAP                                                                                                                                                     Componente
+                                                                                                                                                               5,696,332
+                Output                   Unidad de        2010          2011         2012        2013         2014         2015     201613                    EOP 2016
+                                          medida
+  1.1  Herramienta de Gestión del   herramienta de P                  22,663       80,671      73,801          833          199                                  178,167
+       Plan estratégico del MGAP    gestión
+       implementada                                P(a)   1,833       22,663       31,000     140,000       94,384   119,636.41                                  329,520
+                                                   A          0          501       37,902      17,346   154,134.57            0          0                       209,884
+  1.2  Plan director del sistema de plan           P                 245,514      873,936     799,511        9,024        2,154                                1,930,139
+       información, informática y
+       telecomunicaciones                          P(a)  19,861      245,514      350,000     643,600      486,015   168,485.85 502,837.48                     2,244,401
+       implementado
+                                                   A          0      160,401      578,915     453,835   397,936.43   150,476.27 543,043.13                     2,284,607
+  1.3  Estrategia de recursos       estrategia     P                  15,109       53,781      49,201          555          132                                  118,778
+       humanos implementada
+                                                   P(a)   1,222       15,109       60,000      74,000       60,968    24,142.61                                  131,793
+                                                   A          0        1,533       16,058      41,640    48,419.79     8,539.89          0                       116,191
+  1.4  Oficinas departamentales     oficinas       P     12,659      384,009    1,366,926   1,250,517       14,114        3,369                                3,031,594
+       adecuadas al nuevo modelo
+       de gestión, con ventanilla                  P(a)  31,065      384,009      700,000     460,000      467,607 1,156,496.56 126,970.62                     3,023,709
+       única y procesos TICs
+                                                   A     12,659      275,892      364,413     705,627   326,924.97 1,211,222.82 163,114.79                     3,059,854
+  1.5  Estrategia de comunicación y estrategia     P                  12,590       44,817      41,001          463          110                                   98,981
+       difusión del MGAP
+       implementada                                P(a)   1,019       12,590       20,000      46,350            0       338.88                                   26,136
+                                                   A          0        1,179        1,400      22,718       500.38            0          0                        25,797
+                                                                                                                                                      Costo revisado del
+  Componente 2: Apoyo a la gestión técnica de los servicios de sanidad e inocuidad                                                                         Componente
+                                                                                                                                                               4,367,604
+                Output                   Unidad de        2010          2011         2012        2013         2014         2015       2016                    EOP 2016
+                                          medida
+  2.1                               plan           P                  31,358       86,540      64,668       26,472          962                                  210,000
+13  Los costos de 2016 fueron actualizados por el Ejecutor con posterioridad a la presentación del Informe Semestral en 2017 y el correspondiente registro en el
+    PMR. Con estos datos actualizados, los totales por componente coinciden con las inversiones acumuladas registradas por la auditoría financiera y pueden tener
+    cierta discrepancia con los datos de costos del PMR, pues esto últimos no han sido actualizados.
+                                                                                19
+"
+"      Plan estratégico de inocuidad          P(a)       0      31,358      80,000      52,866       84,080   609,484.69     22,950.6               243,912
+      de alimentos con mecanismo
+      de seguimiento y evaluación            A          0           0      39,951      62,590    118,420.2            0            0               220,961
+      implementado
+2.2   Sistema de gestión de          sistema P                211,292     583,113     435,737      178,369        6,489                          1,415,000
+      barreras sanitarias diseñado e
+      implementado                           P(a)       0     211,292     200,000     977,000      336,500    44,234.31        3,500               693,553
+                                             A          0       1,339      37,661     503,332   134,400.73    13,320.39        3,135               693,188
+2.3   Plan director de laboratorios  plan    P                444,235   1,225,979     916,125      375,016       13,645                          2,975,000
+      diseñado e implementado en
+      su primera etapa                       P(a)       0     444,235     400,000   1,417,000      304,147   640,802.75   541,097.04             3,232,763
+                                             A          0     152,223     439,006   1,153,911   207,543.91   738,982.47    761,788.3             3,240,334
+Otros costos
+                                                   2010      2011        2012        2013         2014         2015         2016          Costo
+      Administración del programa            P      8,619     224,867     213,168     224,432      200,355        2,588                            874,029
+                                             P(a)  34,590     224,867     300,000     213,000      215,470      140,982    55,137.71               843,882
+                                             A      8,619     131,539     172,000     202,102   160,499.25   113,984.91    80,631.52               869,376
+      Seguimiento, evaluación y              P                 18,000      27,000      14,000       34,000        7,000                            100,000
+      auditoría
+                                             P(a)       0      18,000      27,000      15,000       20,000       20,000       25,000                39,430
+                                             A                      0           0           0       14,430            0       15,477                29,907
+Costo Total
+                                                  2010    2011        2012        2013        2014         2015         2016         Cost
+      Costo Total                            P     21,278   1,609,637   4,555,931   3,868,993      839,201       36,648                         10,931,688
+                                             P(a)  89,590   1,609,637   2,168,000   4,038,816    2,069,171 2,924,604.06 1,277,493.45            10,809,100
+                                             A     21,278     724,607   1,687,306   3,163,101 1,563,210.23 2,236,526.75 1,267,352.62            10,963,219
+                                                                         20
+"
+"Al cierre de la operación se realizó la evaluación ex-post para el Programa que estimó los
+beneficios económicos derivados de la apertura de mercados, así como de la condición de
+país libre de aftosa en ganadería. Para ello se utilizó la metodología aplicada en la
+evaluación ex–ante, la cual asume que las acciones del Programa fueron clave para lograr
+dichos beneficios económicos, según la cadena de efectos y lógica vertical del programa,
+Se incorpora el uso de Relaciones de Precio de Cuenta a fin de obtener una evaluación a
+precios sociales. Se calcularon los beneficios en base a cuatro problemáticas específicas
+(de las ocho analizadas en la evaluación ex -ante) relacionados con la sanidad animal y
+vegetal lo que permitió calcular los resultados y retornos económicos. Al realizar la selección
+de estas cuatro, se procuró enfocarse en aquellas que habían tenido relación más directa
+con las acciones que se han realizado en el marco del Programa.14 Las áreas de beneficios
+estimadas fueron:
+i)        Sanidad animal: (1) mantenimiento de la condición de país libre de aftosa con
+vacunación, en el entendido de que dicha condición permite obtener precios más elevados
+por el producto en comparación a la situación con aftosa y (2) seguridad alimentaria en
+carnes, que permitiría el acceso a mercados de mayor exigencia y precio por el producto.
+ii)       Sanidad vegetal: (3) reducción de rechazo de exportaciones de cítricos y apertura
+de mercados para limones y (4) reducción de rechazo de exportaciones de frutas no cítricas
+y apertura de mercados para manzanas y peras.
+La evaluación económica ex-post se basó en:
+    •   Calcular la reducción de pérdidas económicas ocasionadas por plagas y/o
+        enfermedades en los cultivos y crianzas, como resultado de la disminución de la
+        prevalencia o incidencia de las plagas o enfermedades presentes en el territorio.
+    •   Medir la disminución de los sobrecostos de exportación y reducción del riesgo de
+        rechazo de productos en los mercados de destino como consecuencia de la mejora
+        de los sistemas de inspección y certificación de exportaciones, así como por la
+        disminución de la prevalencia de plagas y mejora de los sistemas productivos con las
+        buenas prácticas agrícolas, ganaderas y de manufactura.
+    •   Los costos y pérdidas potenciales por el riesgo de ingreso, dispersión y
+        establecimiento de plagas y enfermedades exóticas, como resultado de la
+        consolidación de los sistemas permanentes de protección, vigilancia y diagnóstico.
+    •   La mejora de la cultura de inocuidad en los agentes productivos y consumidores, y
+        disminución de los riesgos e incidencia de enfermedades trasmitidas por alimentos.
+Estos beneficios generados por el Programa son de largo plazo y en estas instancias
+pueden estar afectados por factores externos. Por otra parte, Uruguay ha mantenido su
+condición de país libre de aftosa sin que se registren casos de esta enfermedad desde el
+brote de la misma en el año 2001. Es decir, que la condición sanitaria del ganado bovino
+ha sido buena, permitiendo al país mantener las exportaciones a mercados con importantes
+niveles de exigencia sanitaria en este sentido.
+Se estimaron los beneficios económicos derivados de la apertura de algunos de los
+mercados mencionados, así como de los beneficios derivados de la condición de país libre
+de aftosa. Para ello, se utilizó una la metodología similar a la utilizada en la evaluación ex–
+ante del Programa. En este sentido, se procedió a aplicar Relaciones de Precio de Cuenta
+14   La evaluación ex -ante estudió además la reducción de pérdidas por brucelosis, la reducción de prevalencia
+     de garrapatas en bovinos, control de malezas y reducción de intoxicación por plaguicidas.
+                                                      21
+"
+"(RPC) a fin de ajustar los precios de mercado para realizar la evaluación desde el punto de
+vista socio-económico. Para ello, se utilizaron. las razones de cuenta calculadas y
+publicadas por la Oficina de Planeamiento y Presupuesto (OPP) a través del Sistema
+Nacional de Inversión Pública (SNIP) en el año 201415 para la divisa y la mano de obra. Se
+compararon los beneficios netos del Programa y los costos enfrentados por las actividades,
+calculando el Valor Actual Neto (VAN) de cada uno. Para el cálculo del VAN se utilizó una
+tasa de descuento (BID) 12% anual en precios constantes, y adicionalmente una tasa social
+de descuento calculada de 7,5% a precios constantes, que es la que utiliza el país para
+evaluaciones de esta naturaleza (OPP – Uruguay).
+Se estimó el VAN de los costos para el período 2009 – 2039, y de los beneficios del mismo
+para el período 2016 – 2039. La distinción de fechas entre ambos valores responde a la
+naturaleza ex-post de la presente evaluación. Según los resultados, el Programa ha dado
+beneficios netos entendidos como mayores ingresos (o menores costos en algunos casos)
+en la situación con Programa respecto al escenario sin Programa.
+                                                               Tasa de descuento
+                                       USD
+                                                                         BID
+                              VAN Costos totales                     9.525.675
+                            VAN Beneficios totales                   46.361.421
+                         VAN Beneficios de Sanidad
+                                                                     31.111.679
+                                     animal
+                        VAN Beneficios por condición
+                                                                           0
+                                 libre de aftosa
+                       VAN Beneficios por seguridad
+                                                                     31.111.679
+                             alimentaria en carnes
+                         VAN Beneficios de Sanidad
+                                                                     7.624.871
+                                     vegetal
+                              VAN Beneficios por
+                                                                     7.624.871
+                          exportaciones de cítricos
+                              VAN Beneficios por
+                         exportaciones de frutas no                        0
+                                     cítricas
+La evaluación asumió que el 50% de los fondos del Programa fueron destinados a las
+mejoras en sanidad animal y el restante 50% a sanidad vegetal16 y se calcularon ratios por
+categoría de impacto, siendo los beneficios esperados positivos. Las actividades
+relacionadas a sanidad animal son las que reportan un mayor beneficio en relación a los
+costos de las misma.
+La Tasa Interna de Retorno (TIR), global calculada para el Programa, alcanzó a un 26,4%.
+15 “Precios Sociales y Pautas Técnicas para la Evaluación Socioeconómica”. Sistema Nacional de Inversión
+   Pública (SNIP). Octubre de 2014.
+16 El nivel de registro de los costos del programa no permitió diferenciar con precisión aquéllos dirigidos a
+   sanidad animal y vegetal.
+                                                    22
+"
+"                              VAN Beneficios/VAN Costos             Tasa BID
+                          Beneficios y Costos - Totales              486,7%
+                          Beneficios y Costos - Sanidad
+                                                                     653,2%
+                          animal
+                          Beneficios y Costos - Sanidad
+                                                                     160,1%
+                          vegetal
+La evaluación ex ante realizada como parte del diseño de la operación, encontró para el
+Programa en su conjunto una VAN de US$1,06 millones17.
+Tanto en el caso de la evaluación ex ante como la ex-post, no se puedo considerar los
+beneficios que se originan por la reducción de los costos de transacción asociados a la
+reducción del tiempo en los trámites y consultas, debido a la falta de información pertinente
+para ello.
+Por tanto, se entiende que el Programa ha dado lugar a una serie de beneficios positivos
+que justifican su implementación. Asimismo, si se asigna un valor monetario a los beneficios
+indirectos, se obtiene que el Programa ha generado retornos positivos en relación a los
+costos de su implementación, garantizando la eficiencia de la inversión.
+Considerando los resultados del análisis económico se considera que a la operación le
+corresponde una calificación de excelente para el criterio de eficiencia.
+2.4 Sostenibilidad
+a. Aspectos generales de sostenibilidad y riesgos
+Considerando los logros y relevancia del Programa y que, en su mayoría, los productos
+generados son adiciones a los bienes públicos estratégicos para mantener la producción y
+las exportaciones a niveles competitivos, a través de proteger al país de la entrada de
+plagas y enfermedades, el interés del gobierno por garantizar la sostenibilidad de los logros
+es un elemento que cabe resaltar18.
+Mantener actualizados los servicios que apoyan a la competitividad agropecuaria en
+general, incluyendo aquellos apoyados por el Programa, es una tarea que requiere mejoras
+continuas que permitan responder a la dinámica de los mercados y sus requerimientos, los
+cuales pueden ser revisados y actualizados continuamente. El sector público agropecuario
+de Uruguay ha alcanzado un nivel de madurez y solidez técnica reconocido, por lo que no
+se esperan mayores riesgos a la sostenibilidad de los logros alcanzados.
+Sin embargo, para mantener esta mejora continua de los servicios prestados al sector, con
+base a las inversiones efectuadas en capital físico y humano en la DGS, DGSG y DGSA,
+no retroceder en el logro de los resultados alcanzados y continuar avanzando en dirección
+de contar con las capacidades que permitan enfrentar futuros desafíos, se hace necesario
+al menos contemplar los siguientes elementos:
+17 Dicha evaluación no reporta la TIR.
+18 “Lineamientos Políticos del MGAP y         la  Institucionalidad   Pública Agropecuaria 2010-2015
+   (http://www.mgap.gub.uy/portal/page.aspx).
+                                                 23
+"
+"•   Completar la implementación del Plan Director del Sistema de Información, Informática
+    y Telecomunicaciones y del Plan de Mejora de la Seguridad de la Información, pudiendo
+    poner en funcionamiento pleno el Tablero de Control en la DGS para luego expandirlo
+    al resto de las unidades ejecutoras (UE) del MGAP y lograr una integración de la
+    información que sirva de base para la planificación de la gestión institucional.
+•   Continuar avanzando en la simplificación de trámites, intensificando el uso de las
+    tecnologías de la información y comunicaciones, acercando así los servicios a los
+    usuarios sin necesidad de movilizarse a dependencias del MGAP.
+•   Continuar capacitando funcionarios en las diferentes UE del MGAP de acuerdo al Plan
+    de Capacitación formulado, y desarrollar capacitaciones específicas a nivel técnico en
+    los laboratorios, de tal forma de lograr las mayores garantías científicas de los
+    resultados de los ensayos efectuados por los Laboratorios del MGAP responsables por
+    la sanidad e inocuidad.
+•   Avanzar en la implementación de un sistema de gestión del conocimiento en las áreas
+    competentes a la sanidad e inocuidad, para que los recambios de personal no impliquen
+    una pérdida de los conocimientos y experiencias asociados al capital humano de la
+    institución.
+•   Encontrar alternativas para poder cubrir las necesidades de personal de las
+    instalaciones existentes (combinando recursos presupuestados y contratados), a los
+    efectos de lograr que su funcionamiento aproveche las capacidades instaladas.
+•   Mantener la estrategia de implementación de CAMs a nivel regional y/o departamental,
+    como complemento del avance en la informatización de los trámites, para ofrecer a los
+    usuarios una atención descentralizada.
+•   Confirmar la mudanza de los laboratorios de DINARA al predio del DILAVE para lograr
+    una complementación de los equipos y las capacidades técnicas que trabajan en
+    respaldar la sanidad e inocuidad de los productos de origen animal, con base a un
+    trabajo más integrado, y llevar a cabo obras de saneamiento (para el manejo de las
+    aguas pluviales y cloacales de manera independiente) para mejorar la gestión ambiental
+    de los laboratorios involucrados.
+•   Completar la implementación del software de gestión (LIMS) en todos los laboratorios
+    relacionados con la sanidad e inocuidad de los productos de origen vegetal y animal,
+    en apoyo a la acreditación progresiva de las diferentes técnicas de ensayo que son
+    requeridas para cumplir con los requisitos de acceso a los mercados internacionales
+    más exigentes.
+•   Al amparo de la puesta en funcionamiento de la UE9 con una gerencia específica de
+    Barreras Sanitarias, ensayar una nueva organización del trabajo en los puntos de
+    frontera que permita presentar a los servicios de sanidad (animal y vegetal) como una
+    “unidad” de servicios del MGAP a los efectos del control del ingreso y egreso de
+    productos de origen agropecuario.
+•   Alcanzar la implementación de protocolos de análisis de riesgo en las principales
+    cadenas agroindustriales exportadoras.
+Estos temas continúan siendo trabajados por el MGAP, en parte con apoyo de una nueva
+operación del Banco, Programa de Apoyo a la Gestión Pública Agropecuaria II (UR-L1135),
+que da continuidad al trabajo de la operación analizada en este documento y que estará en
+ejecución hasta 2021. Por un lado, ello implica que algunos aspectos clave relacionados
+con la sostenibilidad en el corto plazo están atendidos, aunque por el otro, el hecho que esa
+continuidad se dé a través de operaciones de financiamiento externo requiere de una
+atención especial.
+                                              24
+"
+"Respecto a los riesgos identificados durante el diseño, los principales estuvieron referidos
+a la necesidad de lograr una renovación ordenada de los recursos humanos, que a su vez
+permitiera una transferencia de conocimientos ante una situación de cambio generacional.
+El Programa previó apoyar en el diseño de una estrategia de recursos humanos, aunque
+dicha estrategia fue preparada directamente por el Gobierno, el cual además contó con un
+sistema de carrera general para el servicio público. El Programa apoyó en el tema de
+recursos humanos principalmente a través de la capacitación, que permitiera fortalecer la
+transferencia y actualización de conocimientos. Debido a la distribución de edades de los
+funcionarios, el tema de los recursos humanos continúa siendo un reto para el ministerio en
+algunas de sus áreas y se mantiene como uno de los aspectos de la sostenibilidad
+mencionados líneas arriba.
+En cuanto a los aspectos fiduciarios, se identificaron dos áreas a fortalecer: planificación y
+gestión, y administración y finanzas. Para ello, el Programa previó la contratación de
+personal. A pesar de ello, como se verá en la sección IV, se apreciaron algunas debilidades
+en los aspectos de monitoreo y evaluación de resultados.
+b. Salvaguardas ambientales y sociales
+Siguiendo las orientaciones de la Política de Salvaguardias y Medio Ambiente del Banco
+(OP-703 y OP-765), el equipo clasificó la operación a través del Filtro de Salvaguardias
+como categoría “B”. De acuerdo con esta clasificación, se realizó un análisis ambiental y
+social, cuyos resultados indicaron que el Programa tendría principalmente impactos
+ambientales y sociales positivos, ya que sus actividades contribuirán a mejorar la capacidad
+del país para proteger la sanidad agropecuaria y la inocuidad de los alimentos, en un marco
+de prestación de los servicios más integrado a los requerimientos de productores y
+consumidores.
+Al mejorar la gestión de los laboratorios, el almacenamiento de insumos químicos, manejo
+de residuos y seguridad en el trabajo, se considera que el programa efectivamente tuvo
+impacto positivo.
+Los posibles impactos negativos, relacionados con el posible incremento de las actividades
+de laboratorio en manejo de sus sustancias tóxicas, tratamiento y disposición de residuos
+fueron atendidos oportunamente a través de la aplicación de la normativa nacional en la
+materia. El manejo de efluentes es una tarea pendiente en curso de solución, en el predio
+de DILAVE, que se está financiando con la operación 3800/OC-UR. Asimismo, los posibles
+impactos negativos de las remodelaciones de instalaciones (CAMs, Barreras, Laboratorios)
+han sido minimizados al contemplar en su plan de obras el cumplimiento de todas las
+normativas relativas a la gestión ambiental y social nacional y municipal aplicable en cada
+caso.
+Considerando la importancia de los resultados del programa para el país, así como la
+capacidad de la institucionalidad agropecuaria del país para mantenerlos, pero tomando en
+cuenta también que la continuidad de algunas de las capacidades (relacionadas con los
+recursos humanos) se atiende en el corto plazo con financiamiento externo, la calificación
+general de sostenibilidad propuesta para la operación es Satisfactorio.
+En resumen, tomando en cuenta la calificación obtenida para cada uno de los criterios
+centrales de evaluación utilizados en el PCR: relevancia (excelente), efectividad
+                                               25
+"
+"     (satisfactorio), eficiencia (excelente) y sostenibilidad (satisfactorio), se recomienda para
+     esta operación la calificación general de “Exitoso”.
+III. CRITERIOS NO CENTRALES
+     3.1. Desempeño del Banco
+     Según el Informe de la Consultoría de la Evaluación Final del Programa, la actuación del
+     Banco es bien valorada por los integrantes de la Unidad Ejecutora del Programa, así como
+     por los funcionarios de las diferentes Direcciones que estuvieron más directamente
+     involucradas en su ejecución (DGS, DGSG y DGSA). Se valora particularmente la
+     colaboración recibida por parte de los técnicos del Banco encargados de dar seguimiento
+     a la operación, que en todo momento mostraron la disposición a analizar ajustes en algunos
+     aspectos no sustanciales del diseño en respuesta al cambio en las necesidades que
+     surgieron: (i) a la luz de los nuevos lineamientos estratégicos de actuación del MGAP
+     asociados al cambio de gobierno ocurrido durante el período de ejecución; (ii) como
+     consecuencia de la dinámica comercial exportadora del país, y (iii) como resultado de los
+     aprendizajes que se fueron realizando durante la propia ejecución.
+     3.2. Desempeño del Prestatario
+     El Ejecutor, durante toda la ejecución de la operación, mostró un compromiso con los
+     objetivos del Programa y con mejorar los servicios y la atención al sector agropecuario.
+     Una serie de elementos afectaron durante ciertos momentos, la normal ejecución de la
+     operación, entre los que se destacan: (i) El cambio de gobierno y el consecuente recambio
+     de autoridades ministeriales en marzo del año 2010 (a un mes de la firma del contrato de
+     préstamo) las que se enfocaron en la definición del presupuesto quinquenal, relegando a
+     un segundo plano la puesta en marcha de las actividades del Programa. (ii) El avance en
+     el proceso de reforma del estado impulsado por la nueva administración, que llevó a la
+     postergación de algunas acciones previstas en el Programa a la espera de definiciones
+     estratégicas de alcance nacional. (iii) El hecho de que el diseño de ejecución preveía que
+     la coordinación del Programa fuera ejercida por el director de la DGS (quien se vio
+     absorbido por las múltiples responsabilidades de su cargo), limitó sensiblemente la
+     capacidad del funcionario para atender de manera adecuada a las actividades del
+     Programa, hasta que no se nombraron los subcoordinadores por componente para asistirlo.
+     Como consecuencia de ello el Programa presenta dos fases claramente diferentes. La
+     primera, que abraca desde su elegibilidad y hasta fines del año 2011, y se caracteriza por
+     niveles de ejecución prácticamente nulos e indefiniciones en la estrategia de ejecución de
+     algunos de sus subcomponentes. La segunda, desde el año 2012 hasta la finalización del
+     Programa, que muestra un ritmo de ejecución más acelerado que, al amparo de la extensión
+     del plazo de ejecución, llegando a Julio de 2016 con la casi totalidad de los recursos del
+     préstamo ejecutados. Así, el Programa, proyectado para ser ejecutado en 60 meses,
+     requirió de 78 meses para completar su ejecución, debido al atraso en el inicio real de sus
+     actividades.
+     Los inconvenientes señalados durante el inicio del proyecto implicaron que se consumieran
+     prácticamente los dos primeros años del plazo de vigencia del préstamo obteniendo en ese
+     lapso muy pocos logros (con una ejecución de menos de US$0,4 millones), con los
+                                                   26
+"
+"    aumentos consecuentes en costos de Administración. Iniciado el año 2012 y sorteadas en
+    gran medida las dificultades que explican lo sucedido los dos años anteriores, el Programa
+    tomo un buen ritmo de ejecución.
+    Un tema importante que resaltar es que el Programa no alcanzó la implementación de un
+    sistema adecuado de Monitoreo y Evaluación. El Contrato de Préstamo estableció que el
+    Organismo Ejecutor se obligó a presentar, para la aprobación del Banco, informes
+    semestrales de seguimiento del programa. Estos informes semestrales (en general
+    presentados dentro de los plazos previstos), focalizaban en el alcance de metas
+    cuantitativas de gasto y desembolsos, con escaso análisis en el avance de los indicadores
+    de producto y resultado. En términos generales, la información que contienen los
+    documentos de monitoreo y planificación permiten conocer de manera agregada los
+    avances respecto a las actividades realizadas. No obstante, los informes en general
+    presentan algunas limitaciones en: (i) sistematización en cuanto a la presentación del
+    avance de las actividades de cada producto planificado y su vinculación con las siguientes;
+    (ii) fundamentación en cuanto a la contribución esperada de ciertas actividades a los
+    resultados del programa; y (iii) vinculación entre los objetivos buscados y la ejecución
+    financiera planificada.
+    Esta situación fue advertida por el BID y se dispuso de asistencia técnica para reforzar la
+    planificación y el monitoreo tanto hacia fines del año 2012, como en el año 2013. Aunque,
+    sin duda el resultado de esta asistencia técnica fue positivo, y con una alta valoración por
+    parte del ejecutor, la falta de personal específico asignado para que de manera sistemática
+    realizara el seguimiento y monitoreo del Programa, resultó en algunas deficiencias de
+    información técnica.
+    En resumen, considerando los diferentes factores señalados anteriormente, el desempeño
+    de prestatario puede calificarse como satisfactorio.
+IV. HALLAZGOS Y RECOMENDACIONES
+                                        Tabla 3. Hallazgos y Recomendaciones
+     Hallazgos                                     Recomendaciones
+     Dimensión técnico- sectorial
+     No estuvo claro durante la ejecución si       En operaciones de limitados recursos, se recomienda ser más
+     todas las metas comprometidas en el           precisos, focalizando en el problema a resolver precisando mejor
+     diseño estaban al alcance de la               los efectos e impactos y sus indicadores, y que se haga
+     responsabilidad directa del programa, o       referencia expresa en cada caso a la fuente de información que
+     líneas de presupuesto específicas del         se va a utilizar para dar seguimiento a su evolución a lo largo de
+     proyecto. Esto dificulta una adecuada         la vida del proyecto.
+     evaluación. Es importante precisar mejor
+     los indicadores, de tal forma que estén
+     estrechamente relacionados a los
+     problemas a resolver y las inversiones
+     asociadas.
+     El diseño se basó en la selección de          Se recomienda establecer lineamientos prioritarios más claros,
+     actividades en diversas áreas, en muchos      basados en los diagnósticos concretos, que determinen áreas e
+     casos relacionadas con la gestión             inversiones de magnitud para responder a problemas por
+     permanente de la institución, diluyendo la    resolver u oportunidades en el marco de una visión prospectiva
+     relevancia del apoyo y exigiendo tiempo y     de mediano plazo.
+     esfuerzos significativos para su ejecución.
+                                                            27
+"
+"Si bien las consultorías del diseño
+priorizaron una serie de inversiones y
+proyectos considerados importantes en el
+diagnóstico, faltó una focalizando más
+precisa, lo que dispersó las acciones y
+pudo haber afectado los efectos de la
+inversión global.
+Los informes de seguimiento se limitaron    Es necesario profundizar en el monitoreo y evaluación
+a la descripción de actividades cumplidas,  permanente, contando no solo con informes semestrales de
+pero no contemplaron su vinculación con     avance y POAs que detallen actividades cumplidas y/o a cumplir
+los productos buscados, los resultados      sino también focalizando en el seguimiento analítico-técnico de
+esperados a partir de su obtención y el     los indicadores de producto, resultado e impacto, que permitan
+impacto previsto como consecuencia de       un adecuado seguimiento y la eventual corrección de errores
+ellas.                                      sobre la marcha. Asimismo, es conveniente diferenciar con
+                                            mayor claridad las acciones del programa de aquéllas que
+                                            constituyen parte de las acciones regulares de la institución.
+Al incorporar equipamiento y nuevas         Es necesario prever contrataciones temporarias y actividades
+técnicas que exigen capacidades y           de capacitación que puedan asegurar la puesta en
+recursos humanos entrenados, durante        funcionamiento de los equipos en el menor tiempo posible.
+las fases iniciales de implementación, se   Paralelamente es importante contar con un plan de ingreso de
+pueden presentar dificultades no            RRHH a la plantilla del Ministerio en reemplazo a las
+previstas que generan problemas             jubilaciones esperadas, apropiándose del conocimiento
+operativos. Lo mismo sucede en áreas        acumulado y evitando la pérdida de capital humano.
+técnicas clave que requieren continuidad
+para la gestión del conocimiento hacia la
+generación y prestación de servicios.
+                                            Se recomienda seguir fortaleciendo las capacidades de
+Los servicios de laboratorio que presta el  información, la construcción de cronogramas de riesgo, la
+MGAP cumplen un rol sustantivo, no solo     aplicación de barreras móviles asociadas a fronteras, etc.,
+como soporte del estatus sanitario del      favoreciendo la “gestión inteligente” sin desmerecer la
+país y de las campañas asociadas            infraestructura física y el equipamiento localizado en puntos
+lideradas por el Ministerio, sino también   críticos del territorio. Continuar con la acreditación de las
+como elemento de valorización de las        técnicas de laboratorio y su exposición regular a auditorías de
+exportaciones en respuesta a exigencias     diversa naturaleza son indispensables para respaldar
+de los mercados en materia de inocuidad     científicamente los resultados de su actuación.
+alimentaria.
+                                            Priorizar una visión más asociada a la evaluación y gestión del
+Los servicios de sanidad e inocuidad        riesgo que a la reacción frente a eventos sanitarios adversos.
+deben avanzar en el sentido que le
+plantean las nuevas exigencias de los
+mercados más sofisticados, que es el
+análisis de riesgo por cadena
+agroalimentaria. En ello, es importante la
+implementación de campañas de difusión
+y la colaboración público-privada en las
+tareas de vigilancia sanitaria.
+                                            Es importante continuar con el apoyo a las inversiones en gestión
+La gestión ambiental y de bioseguridad,     ambiental y bioseguridad que le permitan dar un salto de calidad
+exige la relocalización de los laboratorios a todos los laboratorios del MGAP.
+de la DINARA en el DILAVE y la
+adecuación del saneamiento del campo
+del DILAVE manejando aguas pluviales y
+cloacales por separado y conectándose a
+la red de saneamiento público.
+.
+                                                     28
+"
+"Organizacional-administrativa
+El diseño del programa asignó la máxima     En proyectos como estos se recomienda contar con un
+responsabilidad a altas jerarquías del      Coordinador con plenas responsabilidades de gestión para la
+MGAP, por lo que el tiempo dedicado por     ejecución.
+estas al programa competía con muchas
+otras responsabilidades en una estructura
+bajo conducción y decisiones principales
+en forma centralizada.
+El modelo de ejecución adoptado, basado     Se recomienda en este caso asignar mayores recursos para
+en la contratación de consultores           capacitación, apoyo al proceso de cambio, así como suficientes
+individuales para que estos apoyen y        recursos para entrenamiento interno y externo, de manera de
+desarrollen el fortalecimiento mediante su  garantizar los efectos esperados y provocar resultados
+acción en las áreas específicas del         duraderos en menor tiempo.
+ministerio involucradas, así como en un
+alto grado de coordinación entre las áreas
+“beneficiarias” y el Programa, resultó
+adecuado para lograr un buen ritmo de
+ejecución.
+                                            Contar desde el arranque con mecanismos que aseguren
+Si el diseño promueve ámbitos de            coordinación y trabajo conjunto, interacción y continuidad, con
+coordinación de actores                     independencia de los cambios circunstanciales de funcionarios,
+intrainstitucionales con igual rango        propendiendo a una adecuada planificación y programación de
+jerárquico convocados para la ejecución,    acciones de manera unificada. En caso contrario, se requiere
+hay que procurar que se consagre            tiempo y esfuerzo adicional para lograr establecer esos
+formalmente ese ámbito por las máximas      mecanismos sobre la marcha.
+autoridades para respaldar su
+funcionamiento.
+Procesos y actores políticos
+Un significativo monto de la inversión fue  En este tipo de proyectos es necesario incorporar, desde el
+orientado desde el diseño a mejorar la      diseño, actividades destinadas a sensibilizar y concientizar a los
+cultura organizativa a nivel interno y      actores claves, en especial en organizaciones donde el promedio
+también al relacionamiento con los clientes de edad de la plantilla es elevado y las nuevas formas de trabajo
+y usuarios del MGAP, a través de            requieren cambios culturales y nuevas herramientas.
+infraestructura, nuevos servicios, mejora
+de procesos, instrumentos y herramientas
+de gestión, etc. que involucró cambios en
+los RRHH, las culturas de trabajo y la
+imagen institucional.
+Gestión de riesgos
+Existen      fuertes    limitaciones   para Deben contemplarse recursos para contratar algunos RRHH
+completar la nómina de personal de los      claves para complementar la plantilla de personal como parte del
+laboratorios que han mejorado mucho su      proceso de recambio generacional y con miras en una institución
+equipamiento y potencial de trabajo. Son    orientada al futuro y sus nuevos retos.
+relativamente      pocas      las  vacantes
+generadas en la nueva ley de presupuesto
+a nivel de los DGSG y DGSA, y no hay un
+plan     definido    para      el  recambio
+generacional que inevitablemente se va a
+dar en la institución por motivos de edad
+del personal.
+                                                    29
+"
+"30"

@@ -1,0 +1,1857 @@
+"outlist[[i]]"
+"I.         INTRODUCCIÓN
+Paraguay es un país altamente rural, con el 42% de su población viviendo en áreas rurales en 2007, inicio
+de preparación del programa analizado en este Reporte de Finalización de Proyecto (PCR, por sus siglas
+en inglés). El porcentaje de población rural ha disminuido lentamente, hasta llegar a un porcentaje del
+38,7% en 2017, si bien la población ha incrementado (de 2,49 millones de habitantes en la zona rural en
+2007 a 2,64 millones de habitantes en 2017)1. Esta población rural se caracterizaba por niveles de pobreza
+muy altos, con más del 35% de la población bajo niveles de pobreza y más de un 24% bajo pobreza
+extrema. Dentro del ámbito rural, las comunidades indígenas presentaban indicadores de salud con
+peores resultados en comparación con el área urbana y rural no indígena2. Si bien los niveles de cobertura
+en agua potable y saneamiento (APS) en Paraguay han incrementado significativamente en las últimas
+décadas, las brechas en cobertura y calidad de los servicios entre las zonas urbana y rural son todavía
+enormes, especialmente en las comunidades indígenas.
+Según la Encuesta Permanente de Hogares, para 2007 el 63,2% de los hogares en Paraguay tenía acceso
+a una conexión domiciliaria de agua potable, mientras que el resto se abastecía de pozos de extracción
+manual o agua superficial, con problemas de contaminación de agua asociados. En el área urbana el
+porcentaje alcanzaba el 79,3% mientras que en la zona rural apenas llegaba al 38,1%; en las comunidades
+indígenas el porcentaje no alcanzaba el 6%. En relación con el saneamiento, en 2007 sólo el 16% de los
+hogares urbanos estaban conectados al alcantarillado, y de éstos sólo la mitad de las aguas servidas recibía
+algún tipo de tratamiento. En las áreas rurales, las instalaciones de saneamiento más comunes eran
+letrinas, presentes en casi dos tercios de los hogares (62,1%) para el año 2007; en el caso de las
+comunidades indígenas, sólo un 3,3% de los hogares presentaba desagüe cloacal o pozo ciego.
+Paraguay ha sido el país a nivel mundial con mayor incremento (53 puntos) en acceso a agua entubada en
+el hogar durante el período 1990-2015. Este incremento se debió principalmente a la expansión de
+servicios en el área rural3. De acuerdo con el Programa Conjunto de Monitoreo (JMP, por sus siglas en
+inglés) de Naciones Unidas, a nivel nacional los niveles de acceso a servicios al menos básicos de agua
+potable incrementaron del 82,9% en 2010 a 99,6% en 2017. En relación con los servicios básicos de
+saneamiento, el acceso incrementó del 70,9% en 2010 a 89,8% en 2017. En el ámbito rural, el incremento
+de acceso a servicios al menos básicos de agua potable y saneamiento en el período 2010-2017 fue de
+80,5% a 99,2%, y del 70,2% al 82,8%, respectivamente. Si bien el incremento es significativo, casi 700.000
+personas en 2017 todavía carecían de servicios básicos de saneamiento, un 65% de ellas viviendo en el
+ámbito rural (JMP, 2019). Asimismo, el acceso no asegura un nivel de servicio adecuado, y muchos
+sistemas carecen de una gestión adecuada que impacta en la disponibilidad del recurso, su accesibilidad
+o su calidad.
+En relación con la gestión de residuos sólidos, en 2007 sólo un 54% de los residuos generados eran objeto
+de disposición final, aunque no siempre los vertederos receptores se encontraban en condiciones
+adecuadas. Según el documento de préstamo, sólo un 37,3% de los hogares estaban beneficiados por un
+servicio de recogida de residuos; la mitad de la población los quemaba y poco más del 20% los enterraban
+en hoyos o los arrojaban sin control en el área colindante a los hogares. En este caso, la brecha de servicio
+entre el área urbana y rural también era enorme, con más de 54,5 puntos porcentuales de diferencia,
+siendo el servicio de prestación en estas últimas áreas prácticamente inexistente.
+1 World Bank, 2019
+2 En las poblaciones indígenas, la mortalidad de menores de un año presenta una tasa de 109 defunciones por cada 1.000, frente
+a un promedio nacional de 40. La tasa bruta de mortalidad para la población no indígena es de 6,1 por 1.000 habitantes, frente a
+niveles de 16,9 por 1.000 habitantes para la población indígena (Documento de préstamo, 2009).
+3 Alvarez, L., 2015
+                                                                                                                              1
+"
+"El Servicio Nacional de Saneamiento Ambiental (SENASA), dependiente del Ministerio de Salud Pública y
+Bienestar Social (MSPBS), es la entidad responsable de promover la prestación de servicios de APS en
+poblaciones menores a 10.000 habitantes a través de las Juntas de Saneamiento (JS) en zonas rurales o
+Comisiones de Saneamiento (CS) en comunidades indígenas, como prestadores comunitarios de servicios.
+En 2008 existían 1.277 sistemas operados por JS y 946 por otros operadores. SENASA, si bien avanzó en
+las últimas décadas en la formalización de JS y CS y en el apoyo técnico a estas organizaciones para
+incentivar la sostenibilidad, presentaba limitaciones en cuanto a capacidad de planificación, personal
+suficiente y presupuesto adecuado para llegar a las zonas rurales más dispersas del país4. Asimismo, las JS
+tenían retos por los niveles de morosidad de las poblaciones y las limitaciones financieras y técnicas para
+las reparaciones más frecuentes de los sistemas5. Los retos eran aún mayores en la gestión de las CS,
+donde estas entidades no estaban formalizadas y la idiosincrasia cultural y el tipo de soluciones técnicas
+implementadas en las comunidades indígenas (a menudo, sistemas individuales) limitaban la gestión
+participativa y el mantenimiento de niveles de acceso adecuados a servicios de APS.
+En este contexto, la República del Paraguay y el Banco Interamericano de Desarrollo (BID) aprobaron en
+2009 el Programa de Agua y Saneamiento para Comunidades Rurales e Indígenas (PAYSRI), a través de la
+suscripción de un contrato de préstamo (PR-L1022|2222/OC-PR) y un convenio de financiamiento no
+reembolsable de inversión del Fondo Español de Cooperación para Agua y Saneamiento en América Latina
+y el Caribe (FECASALC) (PR-X1003|GRT/WS-12513-PR)6. El financiamiento provino del préstamo del BID
+(USD 12 millones), la donación del FECASALC (USD 40 millones) y contrapartida local (USD 8 millones), por
+un total de USD 60 millones. El Programa fue ratificado por el país el 4 de octubre de 2011, a través de la
+Ley 4.454. Tras esta ratificación, se confirmó la aprobación de la parte de donación financiada por
+FECASALC (diciembre 2011).
+El programa tenía por objetivo “contribuir a incrementar el acceso a servicios de agua potable y
+saneamiento en las comunidades rurales e indígenas del país con el fin de que las familias que no cuenten
+con dichos servicios puedan) llegar a tenerlo a corto plazo, mejorando así ´ su calidad de vida” (¶ Resumen
+del Proyecto. Documento de préstamo).
+Los objetivos específicos del Programa fueron7:
+      •   Extender la cobertura de los sistemas de agua potable y saneamiento básico en comunidades
+          rurales e indígenas menores [a] 2.000 [habitantes] que carecen del servicio y promover su
+          sostenibilidad
+      •   Desarrollar un programa piloto para el manejo de los residuos sólidos
+      •   Fortalecer el esquema institucional del programa y la capacidad fiduciaria y de ejecución de la
+          entidad ejecutora [SENASA]
+La implementación del Programa estuvo a cargo del SENASA, a través de una Unidad Coordinadora del
+Programa (UCP). El Programa fue estructurado con base en cuatro componentes: i) Inversiones en
+infraestructura; ii) Preparación de proyectos y desarrollo comunitario; iii) Programa piloto de manejo de
+residuos y iv) Fortalecimiento institucional para el SENASA.
+4 CEPAL, 2000. Informe nacional sobre la gestión del agua en Paraguay.
+5 BID, 2010. Plan estratégico sectorial de agua potable y saneamiento de Paraguay.
+6 La donación no fue aprobada hasta la ratificación del proyecto en el Congreso del país, en 2011.
+7 Objetivos específicos según la matriz de resultados (MR) del documento de préstamo. Hay discrepancias en Hoja de Resumen,
+párrafo ¶2.1 y la MR del documento de préstamo. Respecto al primer objetivo específico, la Hoja Resumen y el ¶2.1 hablan de
+“comunidades rurales e indígenas”, mientras que en la MR específica “menos de 2.000 habitantes”. En relacio´n con el tercer
+objetivo específico, en los primeros se habla de “capacidad de gestio´n”, mientras que en MR se habla de “esquema institucional”,
+“capacidad fiduciaria”, y “de ejecucio´n”. Se toma la definicio´n de la MR, que comprende las diferentes redacciones de los
+objetivos específicos que aparecen a lo largo del documento de préstamo de una manera más concisa.
+                                                                                                                               2
+"
+"II.        CRITERIOS CENTRALES. DESEMPEÑO DEL PROYECTO
+2.1        Relevancia
+      a. Alineación con las necesidades de desarrollo del país
+El Programa estuvo directamente alineado con las necesidades del país en el momento de su diseño, y
+siguió alineado durante toda su ejecución8. La operación focalizó sus actividades en 3 aspectos:
+incremento de cobertura del servicio de APS en zonas rurales e indígenas y su sostenibilidad, programa
+piloto de manejo de residuos sólidos, y fortalecer la capacidad de SENASA.
+En relación con la cobertura de APS en zonas rurales, el programa se alinea directamente con las
+necesidades de desarrollo del país en cuanto a las brechas de cobertura en el sector rural. Asimismo,
+respecto a los objetivos asociados a la sostenibilidad, también existe alineación, pues en las JS y, con
+mayor intensidad, en las CS, se detectaban problemas de gestión que afectaban la sostenibilidad de los
+sistemas (alta morosidad que limitaba los recursos financieros para el mantenimiento preventivo y
+correctivo de los sistemas, baja capacidad técnica de las personas responsables de las JS y CS, limitada
+oferta de servicios para la reparación de los sistemas, entre otros). El mayor rezago en los niveles de
+acceso y en la calidad del servicio se encontraba en zonas del Chaco paraguayo, donde se concentra la
+población indígena del país. En este sentido, la Organización Panamericana para la Salud destacaba en su
+análisis sectorial la necesidad de ampliar las coberturas para la población indígena9. En este contexto, el
+Programa estuvo alineado con las necesidades de desarrollo del país en cuanto a la brecha de cobertura
+de APS en las áreas rurales e indígenas del país, y sigue vigente su relevancia.
+Con relación al componente en gestión de residuos, el Programa quiso desarrollar una metodología piloto
+para implementar un sistema de gestión de residuos sólidos en zonas rurales, que era prácticamente
+inexistente en el momento de diseño del Programa. Así, el objetivo específico “Desarrollar un programa
+piloto para el manejo de residuos sólidos” estaba alineado con esta necesidad de experimentar nuevas
+formas de gestión de los residuos en zonas rurales, en localidades piloto, para recopilar lecciones
+aprendidas aplicables a experiencias a mayor escala. Asimismo, el servicio de recogida estuvo subsidiado
+por parte del gobierno en el interés de promover proyectos nuevos prometedores tiene una lógica desde
+la perspectiva del rol del gobierno en fomentar o estimular un nuevo mercado que trae múltiples
+beneficios pero que enfrenta fallas de mercado importantes.
+Finalmente, SENASA presentaba limitaciones en su gestión, especialmente en las zonas más remotas del
+país. La centralización de la institución en Asunción, capital de Paraguay, limitaba su presencia y apoyo
+técnico a las comunidades más alejadas de la capital, en zonas rurales (menos de 2.000 habitantes) y en
+comunidades indígenas. Asimismo, el seguimiento de la gestión de las JS y CS era limitado, y no existía un
+monitoreo sistematizado. El Programa apoyó con el fortalecimiento de las oficinas regionales del país,
+clave considerando la tradicional gestión centralizada en Asunción (la capital del país) y con limitaciones
+en su efectividad de los servicios, así como con el sistema de monitoreo (Sistema Único de Información)
+y otras actividades para fortalecer la estructura y la normativa de la institución.
+Durante la aprobación del Programa estaba en vigencia el Plan Estratégico Económico y Social (PEES)
+2008-201310, que establecía las prioridades del gobierno nacional para ese período, entre las que se incluía
+la necesidad de inversión en infraestructura en agua y saneamiento, y de mejora de las empresas públicas
+mediante una gestión más profesional, más eficiente y transparente (nombrando específicamente el
+8 El Programa llegó a la fase de Finalización (CO, por sus siglas en inglés) el 3 de mayo de 2019, una vez justificados en su totalidad
+los desembolsos de la operación asociada PR-X1003, financiada con recursos de donación del FECASALC.
+9 OPS, 2010. Actualización del análisis sectorial de agua potable y saneamiento de Paraguay.
+10 PEES 2008-2013. Propuestas para un crecimiento económico con inclusión social en Paraguay.
+                                                                                                                                      3
+"
+"sector agua). El Programa también estuvo alineado con el Plan Nacional de Desarrollo (PND) 2030,
+aprobado en 201411, que define varias líneas de acción asociadas con la necesidad de incrementar la
+cobertura de servicios básicos para la población más vulnerable, especialmente los pueblos indígenas, y
+define objetivos específicos para el sector APS, como universalización del acceso a agua potable y mejora
+de los servicios de saneamiento. Asimismo, se presenta como objetivo la ampliación de la infraestructura
+de los servicios de gestión de residuos sólidos en zonas urbanas, industriales y rurales para universalizar
+la disposición y manejo de residuos urbanos (hogares que cuentan con recolección de basura).
+El Programa se alineó durante su diseño con la Estrategia del Banco con el País (EBP) 2009-2013 (GN-2541-
+1)12, que prioriza las acciones a financiar por el Banco en el sector APS en las zonas rurales, así como en el
+proyecto piloto en gestión de residuos sólidos previo al financiamiento de proyectos de inversión de gran
+envergadura. Así, uno de los indicadores de resultado de la estrategia fue “aumentar la cobertura rural”
+en APS, así como “establecer planes de gestio´n de residuos so´lidos”. El Programa tambie´n se alineo´ con
+la EBP 2014-2018 (GN-2769-1)13 durante la ejecución y cierre del proyecto, donde el sector APS es uno de
+los ejes prioritarios, focalizado en la expansión y mejoramiento de los servicios públicos urbanos de
+alcantarillado sanitario, tratamiento de efluentes, agua potable, drenaje pluvial, recolección y disposición
+de residuos sólidos urbanos. Asimismo, también destaca la línea estratégica de apoyo a las intervenciones
+tendientes a expandir el acceso de agua potable y saneamiento en comunidades indígenas, rurales y
+ciudades intermedias del país. Finalmente, el Programa se alineó con la EBP 2019-2023 (GN-2958)14
+vigente durante el cierre del proyecto, en su objetivo de continuar cerrando la brecha de infraestructura,
+específicamente “mejorar y ampliar la provisio´n de servicios de agua potable y saneamiento (drenaje
+pluvial, residuos sólidos) en zonas rurales y urbanas”. Asimismo, la EBP 2019-2023 presenta el objetivo
+estrate´gico de ”Mejorar la capacidad pública para ejecutar proyectos de inversión en infraestructura”,
+alineado con el componente de mejora de capacidad de gestión de SENASA. La EBP 2019-2023 incluye,
+como en el resto de EBP durante el período de ejecución del Programa, indicadores asociados al
+porcentaje de hogares con acceso a servicios de agua potable y saneamiento.
+      b. Alineación estratégica
+El Programa se alineó con el desafío de la Actualización de la Estrategia Institucional 2010- 2020 (UIS)15 de
+inclusión social e igualdad, en su objetivo de incremento de cobertura de servicios de APS en el área rural
+(indicadores de contribución al incremento de cobertura de APS en áreas rurales). En las zonas rurales se
+concentra la mayor parte de la población pobre del país, y el cierre de brechas en estas zonas, objetivo
+del PAYSRI, se alinea directamente con los objetivos del Banco bajo este desafío, contribuyendo a la
+erradicación de la pobreza (por el acceso a servicios de APS y los impactos en la calidad de vida de la
+población) y a ofrecer infraestructura influyente y servicios de infraestructura a toda la población.
+Asimismo, se alinea con los temas transversales de igualdad y diversidad de género, en el contexto del
+cierre de brechas y la participación de la mujer en la gestión de los servicios de APS (indicador de “Mujeres
+participando como miembros de las JS”, por ejemplo), así como de cambio climático y sostenibilidad del
+medio ambiente, a través del objetivo específico dirigido a la sostenibilidad de los sistemas construidos y
+mejorados por el Programa (capacitación de JS y CS para asegurar la operación y mantenimiento de los
+sistemas a largo plazo), que incluye la sostenibilidad ambiental (protección de la fuente, gestión adecuada
+de los sistemas). Asimismo, el componente de manejo de residuos sólidos también contribuye a la
+sostenibilidad ambiental al implementar planes de manejo de residuos que disminuirán el número de
+11 PND 2030. Plan Nacional de Desarrollo Paraguay 2030.
+12 Estrategia del BID con el país 2009-2013 (GN-2541-1)
+13 Estrategia del BID con el país 2014-2018 (GN-2769-1)
+14 Estrategia del BID con el país 2019-2023 (GN-2958)
+15 UIS 2010-2020
+                                                                                                            4
+"
+"residuos vertidos de forma inadecuada al medio ambiente. Finalmente, el Programa se alineó con el tema
+transversal de capacidad institucional y estado de derecho, bajo el componente de fortalecimiento
+institucional de SENASA (reingeniería de SENASA para fortalecer el apoyo y la asistencia a las JS y CS para
+contribuir a su sostenibilidad, entre otros) y de los prestadores comunitarios (JS y CS).
+      c. Relevancia del diseño
+El objetivo general del Programa fue contribuir a incrementar el acceso a servicios de agua potable y
+saneamiento en las comunidades rurales e indígenas del país con el fin de que las familias que no cuenten
+con dichos servicios puedan llegar a tenerlo a corto plazo, mejorando así ´ su calidad de vida. La matriz de
+resultados no presenta indicadores de impacto asociados a la mejora de la calidad de vida, si bien la
+literatura relaciona profusamente la directa relación entre la mejora en el acceso a servicios de APS y las
+mejoras en niveles de salud, productividad, entre otros16. El programa introdujo los aspectos de
+sostenibilidad de los sistemas con acciones de fortalecimiento de los operadores (JS y CS) y del organismo
+rector (SENASA), así como el trabajo de desarrollo comunitario para mejorar el uso de los sistemas, el
+pago de tarifas, la apropiación de los sistemas, entre otros. La propuesta de intervención abordó de forma
+adecuada los problemas y factores identificados en el diagnóstico del documento de préstamo,
+presentados en el apartado a) de esta sección. Estos problemas y factores se mantuvieron durante toda
+la implementación del Programa, manteniendo la relevancia del diseño respecto a la problemática.
+Los objetivos específicos del Programa, indicados anteriormente (p. 3), se alinearon con la problemática
+definida en el documento de préstamo, en relación con la limitada cobertura de APS en la zona rural y
+comunidades indígenas y la inexistencia de experiencias en gestión de residuos sólidos en las zonas
+rurales. Asimismo, el fortalecimiento de la capacidad de gestión de SENASA también interviene en el
+incremento del acceso (servicio de calidad, disponibilidad, accesibilidad, gestión adecuada), mejorando la
+calidad de vida en las zonas rurales del país. El diagnóstico del Programa reportaba información sobre la
+problemática que presentaba SENASA, como órgano de promoción de la prestación de servicios mediante
+JS y CS en zonas menores a 10.000 habitantes, cuyas funciones incluyen la planificación, promoción,
+ejecución, administración, y supervisión de lo relacionado a provisión de AYS, incluyendo la creación
+misma de JS, diseño de obras, y transferencia de obras a ser administradas por las JS17. Asimismo, el
+análisis de capacidad institucional adjunto al documento de préstamo18, indicaba que se precisaba una
+modernización institucional de la SENASA, así como sistemas de planificación, monitoreo y evaluación. El
+enlace, en esencia, presentaba el diagnóstico de las deficiencias de la SENASA y sugerencias de lo que se
+precisaba para que se pudiera implementar de buena forma esta operación.
+La lógica vertical original del programa fue en general adecuada, si bien los indicadores de resultado
+debieron ser más específicos para cumplir con los criterios para ser SMART (Especifico, Medible,
+Alcanzable, Relevante, y de duración determinada) (Figura 1). Así, por ejemplo, el resultado asociado a la
+contribución al aumento de cobertura de agua y saneamiento no distinguía específicamente si se trataba
+de las áreas rurales menores de 2.000 habitantes o de las zonas indígenas (que también eran rurales).
+Para el resto de los indicadores (de producto y de resultado) si se especificaba esta diferencia. Se destaca
+que los productos asociados a estos dos resultados de cobertura reunían los sistemas de agua y
+saneamiento en un único indicador (uno para las comunidades rurales de menos de 2.000 habitantes, y
+otro para las comunidades indígenas). En relación con el producto asociado a los planes de capacitación
+y educación ambiental y sanitaria a miembros de las comunidades beneficiarias, éste tenía incidencia en
+el resultado de sostenibilidad ya que, tal y como indica el documento de préstamo, la capacitación a las
+16 Marco sectorial APS, 2017
+17 Párrafos 1.5 y 1.6 del documento de préstamo.
+18 http://idbdocs.iadb.org/wsdocs/getDocument.aspx?DOCNUM=2157526
+                                                                                                           5
+"
+"comunidades en temas de salud, higiene, uso racional del agua y protección de fuentes debía ayudar a los
+aspectos de sostenibilidad, los cuales se vincularían con los resultados intermedios, el resultado final, y el
+objetivo #1 que también promueve la sostenibilidad del Programa.
+Hubo varios cambios en los indicadores de resultado durante la ejecución del programa (Tabla 1) que no
+tuvieron impactos en la lógica vertical de la matriz de resultado. En general, los cambios consistieron
+primordialmente en reescribir algunos indicadores y dividir otros en subsectores (agua y saneamiento)
+para cumplir con los criterios de que fueran SMART; también se incluyeron indicadores (que en algunos
+casos medían lo mismo, pero con diferentes unidades) y se cambiaron algunas metas previstas. Así, por
+ejemplo, en el caso de los indicadores de resultado asociados con el objetivo específico de “Extender la
+cobertura de los sistemas de APS básico en las comunidades rurales e indígenas que carecen del servicio
+y promover su sostenibilidad” se consideraron indicadores midiendo hogares y poblacio´n (habitantes),
+que podrían considerarse reiterados (Figura 2).
+Asimismo, el número de beneficiaros en comunidades rurales (habitantes y personas) disminuyeron al
+intervenir en menos comunidades (226 frente a las 400 previstas). La disminución obligada en el número
+de comunidades fue resultado del análisis de costos realizado en las primeras fases del Programa, que
+resultó en un incremento de los costos por hogar y por solución y, considerando el presupuesto inicial,
+supuso una reducción en el número de comunidades a intervenir. Asimismo, el guaraní se apreció frente
+al dólar entre el período de diseño del proyecto (2009) y la definición de los proyectos de infraestructura
+(2011), encareciendo el valor de las obras en dólares equivalentes19, motivando así la disminución de las
+metas del número de comunidades intervenidas. Este cambio en el alcance de la intervención, a su vez,
+influyó en las metas previstas para varios indicadores, revisadas a la baja, como el número de JS que
+operan los sistemas construidos (de 400 a 226) o el número de mujeres miembros de las JS (de 900 a 508).
+En relación con el objetivo específico 3 de fortalecimiento institucional, se realizaron varias actividades
+de capacitación a nivel técnico y de gestión para lograr la creación de JS de forma adecuada. Asimismo, la
+atención de JS y CS por parte del SENASA se esperaba disminuir al estar las JS y CS mejor capacitadas para
+solventar los problemas de operación y mantenimiento y mejorar la sostenibilidad de los sistemas.
+Finalmente, se desarrollaron varias consultorías para apoyar al SENASA a actualizar las normas de diseño
+de sus proyectos y a desarrollar tecnologías alternativas para comunidades dispersas (aquéllas alejadas
+de los núcleos concentrados de población, compuestas por hogares alejados entre sí, con limitaciones
+para acceder a recursos para la operación y reparación de los sistemas, entre otros). Estas normas y
+nuevas tecnologías, desarrolladas en las obras del Programa y en futuras obras gestionadas por SENASA,
+mejoraron la calidad de los sistemas y su tiempo de utilidad, así como a la operación y mantenimiento de
+éstos.
+La matriz comparativa de la Tabla 1 no considera los cambios en la matriz de elegibilidad más 60 días,
+dado que la elegibilidad de este Programa fue antes del 1 de septiembre de 2013.
+19 Para ilustrar el efecto que la apreciación del guaraní (PYG) respecto del dólar americano (USD) debe considerarse que al
+momento de diseño de la operación (año 2009) la tasa de cambio equivalente era de 1USD = 5,050PYG, mientras que para febrero
+de 2013 dicha equivalencia correspondía a 1USD = 3,988PYG (con un mínimo histórico en dicho período de PYG3,787 por dólar),
+esto es una pérdida de valor – expresada en guaraníes equivalentes – del 21%. Adicionalmente, para el período 2009-2011, el
+Paraguay sufrió una inflación acumulada de 14.98% (2009: 2.6%; 2010: 7.2%; 2011: 8.3%), con lo que en precios constantes el
+efecto acumulado de apreciacio´n ma´s inflacio´n equivale a una pe´rdida de “poder adquisitivo” del orden del 44%. Esta situacio´n
+fue analizada por el equipo de proyecto en Misión de Administración realizada en noviembre de 2011, concluyéndose la
+necesidad de actualizar los costos per -cápita utilizados para la programación de metas del Programa y realizar los ajustes
+correspondientes a los indicadores de resultado asociados a las Juntas de Saneamiento intervenidas, y de beneficiarios; dichos
+ajustes se reflejaron en la línea de planificación actual (P(a)) de la Matriz de Resultados del Programa.
+                                                                                                                                 6
+"
+"En relación con los indicadores de producto hubo numerosos cambios, principalmente en la incorporación
+de nuevos indicadores y en la revisión de algunas metas (ver enlace electrónico EE2). Como en el caso de
+los indicadores de resultado, los principales cambios ocurren en los productos asociados a resultados
+ligados al objetivo específico de cobertura, debido a los aspectos de revisión de costos de los
+anteproyectos y de la apreciación del guaraní frente al dólar (como se explicó anteriormente). Esta
+disminución no influyó en la efectividad de incrementar la cobertura, relacionado el objetivo específico
+de extensión de cobertura; sin embargo, si se vio afectado el alcance final de la extensión de la cobertura,
+ya que en el sector APS este tipo de indicadores está estrechamente ligado al alcance de los indicadores
+de producto. Sin embargo, cabe resaltar que en el 100% de las comunidades intervenidas, el alcance final
+de cobertura si se logró llegar al 100% en el caso de acceso a servicios de agua20.
+En resumen, de acuerdo con los criterios definidos en las Guías PCR 2018 (p.5), la clasificación del criterio
+de relevancia para este Programa sería de satisfactorio, puesto que los objetivos del Programa y su diseño
+están alineados tanto con las necesidades del país como con las EBP del BID vigentes durante la ejecución
+y cierre del Programa. Asimismo, el Programa presenta una lógica vertical adecuada (tanto al inicio como
+al final), que muestra la relevancia de la operación, con claros vínculos entre los productos, resultados y
+objetivos específicos de Programa. Si bien ha existido varios cambios durante la ejecución del programa,
+la calidad de la lógica mejoró su calidad.
+20 Las intervenciones de agua y saneamiento se realizan bajo el criterio de lograr plena cobertura (conexión) de los hogares
+existentes al momento de realizar las obras. Esto es corroborado por los datos usados en el análisis económico. Favor ver Anexo
+1 del Enlace Electrónico 8. Atribución.
+                                                                                                                              7
+"
+"Figura 1. Lógica vertical inicial
+Fuente: elaboración propia a partir del documento de préstamo
+                                                              8
+"
+"Figura 2. Lógica vertical final
+Fuente: elaboración propia a partir de información de Convergencia
+                                                                   9
+"
+"   Tabla 1. Matriz comparativa de resultados durante la aprobación – elegibilidad + 60 días21 – final del proyecto
+                                             Aprobación                     Elegibilidad + 60 días                Final del proyecto
+                                                    Línea                 Unidad Línea                                    Línea
+Indicador                          Unidad de                                                     EOP       Unidad de                              Comentarios
+                                                      de      EOP (P)        de        de                                   de       EOP (A)
+                                     medida                                                       (P)       medida
+                                                    base                 medida base                                      base
+Objetivo específico 1. Extender la cobertura de los sistemas de agua potable y saneamiento básico en comunidades rurales e indígenas menores 2.000 que carecen del
+servicio y promover su sostenibilidad
+Resultado 1. Cobertura de los servicios de agua potable en el área rural, incrementada
+                                                                                                                                                  Se modifica la definicio´n como “Cobertura
+                                                                                                                                                  de agua potable en el área rural (atribuible
+                                                                                                                                                  al programa)”. El medio de verificacio´n es
+Contribución al aumento                                                                                                                           la encuesta permanente de hogares de la
+de cobertura de agua                                                                                                                              Dirección General de Estadística, Encuestas
+                                        %            49,2       51,1                                           %           49,2        50,56
+potable en el área rural                                                                                                                          y Censos (DGEEC), calculando la población
+atribuible al programa                                                                                                                            rural cubierta por servicios de agua
+                                                                                                                                                  mejorados (según definición del JMP22) en
+                                                                                                                                                  la zona de intervención entre el total de
+                                                                                                                                                  población rural en la zona de intervención.
+                                                                                                                                                  Originalmente un indicador general (para
+                                                                                                                                                  agua y saneamiento). Posterior a la
+                                                                                                                                                  aprobación se divide en dos indicadores,
+Población en comunidades                                                                                                                          como “Habitantes con acceso a agua
+rurales menores de 2.000           Habitantes         0       150.000                                     Habitantes        0       121.53223 potable en comunidades rurales menores
+habitantes beneficiada                                                                                                                            de 2.000 habitantes (atribuible al
+                                                                                                                                                  programa)”. Tambie´n para saneamiento.
+                                                                                                                                                  Esta información se usa en la construcción
+                                                                                                                                                  del indicador de cobertura.
+   21 No se considera los cambios en la matriz de elegibilidad más 60 días, dado que la elegibilidad de este programa fue antes del 1 de septiembre de 2013.
+   22 Fuente mejorada de agua se define como aquella que por la naturaleza de su construcción o mediante una intervención activa queda protegida de contaminación externa, en
+   particular de la contaminación con materia fecal. Las fuentes de agua consideradas mejoradas son: agua potable entubada en vivienda, terreno o patio, grifo/hidrante público,
+   pozo entubado/de perforación, pozo excavado protegido, manantial protegido, recolección de agua de lluvia.
+   23 La meta prevista se modifica durante la ejecución del programa: P(a) 120.000
+                                                                                                                                                                                10
+"
+"                                             Aprobación                     Elegibilidad + 60 días                Final del proyecto
+                                                     Línea                 Unidad Línea                                   Línea
+Indicador                          Unidad de                                                   EOP       Unidad de                                Comentarios
+                                                       de    EOP (P)         de        de                                   de      EOP (A)
+                                     medida                                                     (P)        medida
+                                                     base                 medida base                                     base
+                                                                                                                                                  Originalmente un indicador general (para
+                                                                                                                                                  agua y saneamiento). Posterior a la
+                                                                                                                                                  aprobación se divide en dos indicadores,
+Población en comunidades
+                                                                                                                                                  como “Habitantes con acceso a agua
+indígenas menores de
+                                   Habitantes          0      6.000                                      Habitantes         0         8.307       potable en comunidades indígenas
+2.000 habitantes
+                                                                                                                                                  menores de 2.000 habitantes (atribuible al
+beneficiadas
+                                                                                                                                                  programa)”. Tambie´n para saneamiento.
+                                                                                                                                                  Esta información se usa en la construcción
+                                                                                                                                                  del indicador de cobertura.
+Hogares con acceso a agua                                                                                                                         Esta información se usa en la construcción
+potable en comunidades                                                                                                                            del indicador de cobertura. Acceso dentro
+                                  Indicador no definido en la MR
+rurales menores de 2. 000                                                                                  Hogares          0       24.28524      del hogar es un resultado con atribución
+                                    del documento de préstamo
+habitantes (atribuible al                                                                                                                         más directa. Indicador incorporado tras la
+programa)                                                                                                                                         aprobación (octubre 2010).
+Hogares con acceso a agua                                                                                                                         Esta información se usa en la construcción
+mejorada en comunidades                                                                                                                           del indicador de cobertura. Acceso dentro
+                                  Indicador no definido en la MR
+indígenas menores de                                                                                       Hogares          0         1.589       del hogar es un resultado con atribución
+                                    del documento de préstamo
+2.000 habitantes                                                                                                                                  más directa. Indicador incorporado tras la
+(atribuible al programa)                                                                                                                          aprobación (octubre 2010).
+Resultado 2. Cobertura de los servicios de saneamiento en el área rural, incrementada
+                                                                                                                                                  En la matriz de resultados final definido
+                                                                                                                                                  como “Cobertura de saneamiento ba´sico26
+Contribución al aumento                                                                                                                           en el a´rea rural (atribuible al programa)”. El
+de cobertura de                                                                                                                                   medio de verificación es la encuesta
+saneamiento básico en el                %            37,1      39,7                                            %           37,1      39,1625      permanente de hogares de la DGEEC,
+área rural atribuible al                                                                                                                          calculando la población rural cubierta por
+programa                                                                                                                                          servicios de saneamiento en la zona de
+                                                                                                                                                  intervención entre el total de población
+                                                                                                                                                  rural en la zona de intervención.
+   24 La meta prevista se modifica durante la ejecución del programa: P(a) 24.000
+   25 La meta prevista se modifica durante la ejecución del programa: P(a) 39,18%
+   26 Incluye instalaciones de saneamiento mejorado que separa higiénicamente las excretas humanas del contacto humano, como la descarga hidráulica con cisterna o manual a
+   sistemas de alcantarillado, tanque séptico o letrina de pozo; letrina de pozo mejorado con ventilación, retrete de compostaje o letrina de pozo.
+                                                                                                                                                                                   11
+"
+"                                             Aprobación                   Elegibilidad + 60 días         Final del proyecto
+                                                    Línea                Unidad Línea                            Línea
+Indicador                          Unidad de                                                 EOP  Unidad de                         Comentarios
+                                                      de     EOP (P)        de       de                            de      EOP (A)
+                                     medida                                                   (P)  medida
+                                                    base                medida base                              base
+                                                                                                                                    Originalmente un indicador general (para
+                                                                                                                                    agua y saneamiento). Posterior a la
+                                                                                                                                    aprobación se divide en dos indicadores,
+Población en comunidades                                                                                                            como “Habitantes con acceso a
+rurales menores de 2.000           Habitantes         0      150.000                              Habitantes       0      108.38727 saneamiento básico en comunidades
+habitantes beneficiada                                                                                                              rurales menores de 2.000 habitantes
+                                                                                                                                    (atribuible al programa)”. Esta informacio´n
+                                                                                                                                    se usa en la construcción del indicador de
+                                                                                                                                    cobertura.
+                                                                                                                                    Originalmente un indicador general (para
+                                                                                                                                    agua y saneamiento). Posterior a la
+                                                                                                                                    aprobación se divide en dos indicadores,
+Población en comunidades
+                                                                                                                                    como “Habitantes con acceso a
+indígenas menores de
+                                   Habitantes         0       6.000                               Habitantes       0        6.420   saneamiento básico en comunidades
+2.000 habitantes
+                                                                                                                                    indígenas menores de 2.000 habitantes
+beneficiadas
+                                                                                                                                    (atribuible al programa)”. Tambie´n para
+                                                                                                                                    saneamiento. Esta información se usa en la
+                                                                                                                                    construcción del indicador de cobertura.
+Hogares con acceso a                                                                                                                Esta información se usa en la construcción
+saneamiento básico en                                                                                                               del indicador de cobertura. Es un
+                                  Indicador no definido en la MR
+comunidades rurales                                                                                Hogares         0      21.13428  resultado con atribución más directa.
+                                    del documento de préstamo
+menores de 2.000                                                                                                                    Indicador incorporado tras la aprobación
+habitantes                                                                                                                          (octubre 2010).
+Hogares con acceso a                                                                                                                Esta información se usa en la construcción
+saneamiento básico en                                                                                                               del indicador de cobertura. Es un resultado
+                                  Indicador no definido en la MR
+comunidades indígenas                                                                              Hogares         0        1.285   con atribución más directa. Indicador
+                                    del documento de préstamo
+menores de 2.000                                                                                                                    incorporado tras la aprobación (octubre
+habitantes                                                                                                                          2010).
+   27 La meta prevista se modifica durante la ejecución del programa: P(a) 110.000
+   28 La meta prevista se modifica durante la ejecución del programa: P(a) 22.000
+                                                                                                                                                                  12
+"
+"                                             Aprobación                   Elegibilidad + 60 días         Final del proyecto
+                                                    Línea                Unidad Línea                            Línea
+Indicador                           Unidad de                                                EOP  Unidad de                         Comentarios
+                                                      de     EOP (P)        de       de                            de     EOP (A)
+                                     medida                                                   (P)  medida
+                                                    base                medida base                              base
+                                                                                                                                    Se incluye para alinearse con el nuevo
+                                                                                                                                    marco de resultados corporativo del BID y
+Hogares cuyas aguas                Indicador no definido en la MR                                                                29 la división INE/WSA, asociado a las
+                                                                                                   Hogares         0      21.134
+residuales son tratadas             del documento de préstamo                                                                       soluciones individuales de saneamiento.
+                                                                                                                                    Indicador incorporado tras la aprobación,
+                                                                                                                                    durante la ejecución
+Resultado 3. JS en comunidades rurales y CS u otras estructuras comunitarias similares en comunidades indígenas operativas para promover la sostenibilidad
+                                                                                                                                    En la matriz de resultado original, como
+JS en comunidades rurales
+                                                                                                                                    resultado intermedio. Si bien se eliminó el
+beneficiarias creada y
+                                                                                                                                    indicador durante la implementación
+fortalecidas con cursos de            Juntas          0        400                                  Juntas         0         227
+                                                                                                                                    (octubre 2010), se midieron los resultados
+capacitación impartidos a
+                                                                                                                                    asociados al indicador, en línea con los
+sus integrantes
+                                                                                                                                    requisitos de las guías de PCR
+                                                                                                                                    Incluido para mostrar información sobre el
+JS en comunidades rurales
+                                                                                                                                    número de sistemas operados por JS, que a
+que operan los sistemas            Indicador no definido en la MR
+                                                                                                    Juntas         0        22730   su vez fueron capacitadas por el Programa.
+construidos por el                  del documento de préstamo
+                                                                                                                                    Indicador incorporado tras la aprobación
+programa
+                                                                                                                                    (mayo 2013)
+                                                                                                                                    En la matriz de resultado original, como
+CS en comunidades
+                                                                                                                                    resultado intermedio. Responde más a un
+indígenas beneficiarias
+                                                                                                                                    indicador de producto. Si bien se eliminó el
+creadas y fortalecidas con
+                                   Comisiones         0         40                                Comisiones       0          39    indicador durante la implementación
+cursos de capacitación
+                                                                                                                                    (octubre 2010), se midieron los resultados
+impartidos a sus
+                                                                                                                                    asociados al indicador, en línea con los
+integrantes
+                                                                                                                                    requisitos de las guías de PCR
+                                                                                                                                    Incluido para mostrar información sobre el
+CS en comunidades
+                                                                                                                                    número de sistemas operados por CS, que a
+indígenas que operan los           Indicador no definido en la MR
+                                                                                                  Comisiones       0          39    su vez fueron capacitadas por el Programa.
+sistemas construidos por            del documento de préstamo
+                                                                                                                                    Indicador incorporado tras la aprobación
+el programa
+                                                                                                                                    (octubre 2010).
+   29 La meta prevista es de P(a) 22.000
+   30 La meta prevista se modifica durante la ejecución del programa: P(a) 226
+                                                                                                                                                                  13
+"
+"                                             Aprobación                   Elegibilidad + 60 días        Final del proyecto
+                                                    Línea                Unidad Línea                           Línea
+Indicador                          Unidad de                                                 EOP  Unidad de                      Comentarios
+                                                      de     EOP (P)        de       de                           de     EOP (A)
+                                     medida                                                   (P)  medida
+                                                    base                medida base                             base
+                                                                                                                                 En la matriz de resultado original, como
+                                                                                                                                 resultado intermedio. Parece responder
+                                                                                                                                 más a un indicador de producto; sin
+                                                                                                                                 embargo, el anexo de atribución explica la
+Integrantes de JS
+                                   Habitantes         0       2.400                               Personas        0        1.626 lógica del por qué si es indicador de
+capacitados
+                                                                                                                                 resultado. Si bien se eliminó el indicador
+                                                                                                                                 durante la implementación, se midieron los
+                                                                                                                                 resultados asociados al indicador, en línea
+                                                                                                                                 con los requisitos de las guías de PCR
+                                                                                                                                 En la matriz de resultado original, como
+                                                                                                                                 resultado intermedio. Parece responder
+                                                                                                                                 más a un indicador de producto; sin
+                                                                                                                                 embargo, el anexo de atribución explica la
+Integrantes de CS
+                                   Habitantes         0        240                                Personas        0         264  lógica del por qué si es indicador de
+capacitados
+                                                                                                                                 resultado. Si bien se eliminó el indicador
+                                                                                                                                 durante la implementación, se midieron los
+                                                                                                                                 resultados asociados al indicador, en línea
+                                                                                                                                 con los requisitos de las guías de PCR
+Mujeres participan como                                                                                                          En la matriz de resultado original, como
+                                    Mujeres           0        900                                 Mujeres        0        57331 resultado intermedio
+miembro de las JS
+                                                                                                                                 En la matriz de resultado original, como
+                                                                                                                                 resultado intermedio. Parece responder
+                                                                                                                                 más a un indicador de producto ; sin
+Miembros de la                                                                                                                   embargo, el anexo de atribución explica la
+comunidad rural con JS             Habitantes         0      150.000                              Personas        0      124.209 lógica del por qué si es indicador de
+capacitados                                                                                                                      resultado Si bien se eliminó el indicador
+                                                                                                                                 durante la implementación, se midieron los
+                                                                                                                                 resultados asociados al indicador, en línea
+                                                                                                                                 con los requisitos de las guías de PCR
+   31 La meta prevista se modifica durante la ejecución del programa: P(a) 508
+                                                                                                                                                                14
+"
+"                                         Aprobación               Elegibilidad + 60 días             Final del proyecto
+                                              Línea              Unidad Línea                                Línea
+Indicador                      Unidad de                                             EOP     Unidad de                            Comentarios
+                                                de     EOP (P)      de       de                                de      EOP (A)
+                                 medida                                               (P)      medida
+                                              base               medida base                                 base
+                                                                                                                                  En la matriz de resultado original, como
+                                                                                                                                  resultado intermedio. Parece responder
+                                                                                                                                  más a un indicador de producto ; sin
+Miembros de la                                                                                                                    embargo, el anexo de atribución explica la
+comunidad indígena con         Habitantes        0      6.000                                 Personas          0       5.696     lógica del por qué si es indicador de
+CS capacitados                                                                                                                    resultado Si bien se eliminó el indicador
+                                                                                                                                  durante la implementación, se midieron los
+                                                                                                                                  resultados asociados al indicador, en línea
+                                                                                                                                  con los requisitos de las guías de PCR
+Porcentaje de JS y CS que
+piden apoyo para la
+operación y                          %          60        25                                      %            60       6,20
+mantenimiento de los
+sistemas.
+Objetivo específico 2. Desarrollar un programa piloto para el manejo de los residuos solidos
+Resultado. Planes de manejo de residuos sólidos en comunidades rurales, implementados
+                                                                                                                                  En la matriz de resultado original, como
+Número de comunidades
+                                                                                                                                  resultado intermedio. El corto tiempo para
+con sistemas de residuos
+                              Comunidades        0        10                               Comunidades          0          9      la implementación de los planes no
+sólidos implementados
+                                                                                                                                  permite analizar la adecuación de esta
+adecuadamente
+                                                                                                                                  implementación.
+Habitantes beneficiados                                                                                                           En la matriz final, definido como
+por la implementación de                                                                                                          “Habitantes con acceso a sistemas de
+                               Habitantes        0      3.450                              Habitantes        0       3.105
+los planes de manejo de                                                                                                           recolección y disposición final de residuos
+residuos sólidos                                                                                                                  so´lidos en comunidades rurales”
+Objetivo específico 3. Fortalecer el esquema institucional del programa y la capacidad fiduciaria y de ejecución de la entidad ejecutora.
+Resultado. Capacidad fiduciaria y de ejecución del SENASA fortalecida
+Número de JS y CS creadas        Juntas /                                                     Juntas /
+                                                10        50                                                   10         53
+por año/100 funcionarios       Comisiones                                                    Comisiones
+Número de JS y CS
+                                 Juntas /                                                     Juntas /
+atendidas por año/100                           20       100                                                   20         75
+                               Comisiones                                                    Comisiones
+funcionarios
+                                                                                                                                                                 15
+"
+"                                  Aprobación          Elegibilidad + 60 días        Final del proyecto
+                                       Línea         Unidad Línea                           Línea
+Indicador                 Unidad de                                      EOP  Unidad de                      Comentarios
+                                         de  EOP (P)   de        de                           de     EOP (A)
+                           medida                                         (P)  medida
+                                       base          medida base                            base
+                                                                                                             Si bien la MR no indicaba el valor de línea
+Porcentaje de proyectos
+                                                                                                             de base, al referirse a la actualización
+que cumplen con normas        %         ND    100                                 %           0        100
+                                                                                                             promovida por acciones del Programa, el
+de diseño actualizadas
+                                                                                                             valor se correspondía a cero.
+Proyectos en comunidades
+dispersas con tecnologías Proyectos      0    100                             Proyectos       0         39
+alternativas
+                                                                                                                                            16
+"
+"2.2      Efectividad
+     a. Descripción de los objetivos de desarrollo del proyecto
+El objetivo general del Programa, según el resumen del Proyecto del documento de pre´stamo “contribuir
+a incrementar el acceso a servicios de agua potable y saneamiento en las comunidades rurales e indígenas
+del país con el fin de que las familias que no cuenten con dichos servicios puedan llegar a tenerlo a corto
+plazo, mejorando así ´ su calidad de vida”. Como se definio´ anteriormente, los objetivos específicos del
+Programa fueron:
+     •   Extender la cobertura de los sistemas de agua potable y saneamiento básico en comunidades
+         rurales e indígenas menores [a] 2.000 [habitantes] que carecen del servicio y promover su
+         sostenibilidad. Resultados esperados: (1) Cobertura de los servicios de agua potable en el área
+         rural, incrementada; (2) Cobertura de los servicios de saneamiento en el área rural, incrementada;
+         (3) Juntas de Saneamiento en comunidades rurales y Comisiones de Saneamiento u otras
+         estructuras comunitarias similares en comunidades indígenas, operativas para promover la
+         sostenibilidad
+     •   Desarrollar un programa piloto para el manejo de los residuos sólidos. Resultados esperados:
+         (1) Planes de manejo de residuos sólidos en comunidades rurales, implementados
+     •   Fortalecer el esquema institucional del programa y la capacidad fiduciaria y de ejecución de la
+         entidad ejecutora (SENASA). Resultados esperados: (1) Capacidad fiduciaria y de ejecución del
+         SENASA fortalecida.
+El programa definió 4 componentes:
+     •   Componente 1: Inversiones en infraestructura: incrementar el acceso a los servicios de agua
+         potable y saneamiento en comunidades rurales e indígenas que carecen de dichos servicios.
+     •   Componente 2. Preparación de proyectos y desarrollo comunitario: estructurar proyectos de
+         abastecimiento de agua potable y saneamiento y apoyar la conformación y el fortalecimiento de
+         Juntas de Saneamiento (JS) en comunidades rurales y de Comisiones de Saneamiento u otras
+         estructuras comunitarias similares en comunidades indígenas, que permitan implementar en cada
+         comunidad un sistema auto sostenible.
+     •   Componente 3: Programa piloto de manejo de residuos sólidos: desarrollar una metodología para
+         implementar planes de manejo de residuos sólidos en comunidades rurales fortalecidas
+         institucionalmente por el SENASA que hayan demostrado tener la capacidad de auto gestionar
+         sus sistemas. Se esperaba que 10 comunidades implementaran exitosamente un plan de manejo
+         de residuos sólidos.
+     •   Componente 4. Fortalecimiento Institucional para el SENASA: fortalecer la capacidad fiduciaria y
+         de ejecución del SENASA.
+     b. Resultados Logrados
+Objetivo específico 1. Extender la cobertura de los sistemas de agua potable y saneamiento básico en
+las comunidades rurales e indígenas que carecen del servicio y promover su sostenibilidad
+El primer objetivo específico definido por el Programa se cumplió con una ratio promedio de logro de 85%
+de los 21 indicadores de resultado.
+                                                                                                         17
+"
+"Resultado 1. Cobertura de los servicios de agua potable en el área rural, incrementada
+En relación con este resultado, se definieron 5 indicadores de resultados, asociados con el incremento de
+cobertura en el área rural, atribuible al programa, y a los beneficiarios en zona rural32 y comunidades
+indígenas33 medidos en hogares y habitantes. El promedio de logro de estos 5 indicadores fue de 87%. Las
+metas previstas para las comunidades indígenas, las cuales mostraban rezagos mucho más significativos
+que el resto de la zona rural, se superaron (habitantes con acceso a agua potable (logro de 138%) y
+hogares con acceso a agua mejorada (logro de 132%) en relación con lo planificado, si bien ambos
+indicadores en realidad están midiendo lo mismo, como se observó en el análisis de relevancia. A pesar
+de las limitaciones en la inflación y la apreciación de la moneda, el equipo del programa (BID y SENASA)
+decidió mantener las metas previstas, debido a las necesidades específicas en APS en las comunidades
+indígenas, con más dificultades para el acceso a servicios de calidad. Las metas en las zonas rurales no se
+lograron al 100% por la disminución del número de comunidades intervenidas. Si bien existieron
+complicaciones por el incremento de costos previstos en el diseño y la apreciación del guaraní respecto al
+dólar estadounidense (ver pie de página 23), el Programa logró un 72% de la cobertura prevista y un 81%
+para los otros dos indicadores de resultado.
+Asociado con este resultado, y siguiendo la misma lógica, los indicadores de producto relacionados con el
+componente 1 de inversiones en infraestructura de agua lograron sus metas parcialmente. De los 2
+indicadores relacionados con las inversiones en infraestructura de agua, uno logró superar las metas
+(sistemas de agua en comunidades rurales) y el otro logró avances significativos, con el 97% de las metas
+revisadas previstas. En relación con los sistemas de agua potable en comunidades rurales, la meta original
+(400 sistemas) se redujo a 226 sistemas, de los cuáles se logró ejecutar el 100% (227 sistemas). La
+diferencia reside, como se explicó anteriormente, por una revisión en los costes de los sistemas de APS y
+la valuación del guaraní frente al dólar.
+Resultado 2. Cobertura de los servicios de saneamiento en el área rural, incrementada
+Para los servicios de saneamiento, como en el caso anterior para los servicios de agua, se definieron 5
+indicadores (cobertura y beneficiados, medidos en hogares y habitantes, para zonas rurales y
+comunidades indígenas) más un indicador incluido tras la aprobación del programa, relacionado con el
+tratamiento de aguas residuales (hogares beneficiados). Las metas asociadas a las comunidades indígenas
+(hogares y habitantes) fueron superadas. En promedio, estos seis indicadores alcanzaron un logro de 87%.
+Como para el caso anterior en agua, las metas en las zonas rurales (Población con acceso a saneamiento
+básico en comunidades rurales menores de 2.000 habitantes) lograron alcanzar un 72% a pesar de la
+disminución del número de comunidades intervenidas. El indicador de hogares cuyas aguas residuales
+fueron tratadas prácticamente logró su meta (96%), con 21,134 hogares. Este número coincide con la
+meta del indicador de hogares con soluciones individuales en el área rural, donde se construyeron UBS de
+arrastre hidráulico con fosa séptica. Estos sistemas aseguran el tratamiento de las aguas residuales por la
+tipología de sistema, lo que implica que el 100% de las soluciones de saneamiento aseguran el tratamiento
+de las aguas residuales. Como se indicó anteriormente, la disminución de las comunidades intervenidas
+influyó en no lograr la meta inicialmente prevista para este indicador. Sin embargo, al igual que en el caso
+de agua, la cobertura de saneamiento básico en las comunidades indígenas logro superar el 100% de la
+meta planificada.
+Respecto a los indicadores de producto asociados, como en el caso del resultado 1, de los 2 indicadores
+relacionados con las inversiones en infraestructura de saneamiento, uno logró superar las metas
+32 El promedio de hogares por comunidad rural es de 102 hogares por comunidad y 4,93 personas por hogar.
+33 El promedio de hogares por comunidad indígena es de 41 hogares por comunidad y 5,23 personas por hogar.
+                                                                                                           18
+"
+"(soluciones individuales de saneamiento básico en comunidades indígenas) y el otro logró avances
+significativos, con el 96% de las metas revisadas previstas.
+Resultado 3. Juntas de Saneamiento en comunidades rurales y Comisiones de Saneamiento u otras
+estructuras comunitarias similares en comunidades indígenas, operativas para promover la sostenibilidad
+Bajo este resultado, originalmente se definieron 4 indicadores de resultado y 6 indicadores de resultado
+intermedio. Estos últimos se eliminaron de la matriz de resultados durante la ejecución por ser, algunos,
+repetitivos con otros indicadores y, otros, en realidad parecían más apropiados como indicadores de
+productos, por lo cual se reubicaron como tales en la matriz final. El enlace electrónico de atribución
+describe la lógica del por qué estos indicadores si se pueden considerar como de resultado. Para el PCR,
+los indicadores se recuperaron y midieron para estar en línea con los requerimientos de las guías de PCR.
+La Tabla 2 detalla estos aspectos en cada uno de los indicadores eliminados, pero al final recuperados y
+medidos.
+El indicador de JS en comunidades rurales que operan los sistemas construidos por el Programa redujo su
+meta de 400 JS a 226, de las cuáles se llegaron a 227. Como se dijo anteriormente, la disminución en el
+número de comunidades fue resultado del incremento de costos y la apreciación del guaraní frente al
+dólar. El indicador asociado con CS no varió la meta, pero se logró el 97% de las CS operando los sistemas
+construidos por el programa. La diferencia con la meta prevista se justifica por dificultades en llegar a las
+comunidades indígenas, especialmente en época de lluvias, lo que retrasó alguna de las actividades que
+cerrarán en los próximos meses tras el cierre del proyecto. Al disminuir el número de JS con las que el
+Programa trabajó finalmente (226 sobre las 400 esperadas), el número de mujeres participantes en las JS
+también disminuyó de 900 a 508, de las cuáles se logró la meta del 64% respecto las previstas
+originalmente (573 mujeres). Finalmente, en relación con el porcentaje de JS y CS que piden apoyo para
+la operación y mantenimiento de los sistemas, se superaron las metas prevista, y sólo un 6,2% de las JS y
+CS conformadas en el marco del Programa pidieron apoyo, frente al 25% esperado; ello, como resultado
+de una mayor capacidad de SENASA para desarrollar acciones efectivas de fortalecimiento de las
+capacidades de gestión de las organizaciones de base comunitaria, con el apoyo de consultorías
+específicas para dicho propósito, y a la inclusión en los contratos de obra de actividades operativas
+postconstrucción, como parte del proceso de puesta en marcha, estabilización operativa y entrega de las
+obras. En este sentido, el resultado indica que las JS y las CS lograron más autonomía, asociada a la gestión
+administrativa y operativa de los sistemas y al ingreso por cobro de tarifas, entre otras acciones
+fomentadas por el Programa.
+Respecto a los seis indicadores eliminados, se logró recopilar data que muestra su avance. Sólo el asociado
+a los integrantes de CS capacitados superó la meta prevista, en promedio, el logro de estos fue de un
+83.5%. En todos los casos donde no se logró la meta, las razones están asociadas a la disminución de las
+comunidades intervenidas por causas anteriormente explicadas. Las capacitaciones, si bien no eran de
+carácter obligatorio, constituían una necesidad para las CS y las JS, por lo que la participación fue del 100%
+de las CS y JS de las comunidades intervenidas por el Programa. SENASA cuenta con un currículo de
+contenidos, focalizados en 6 ejes temáticos34 con varios módulos (cada módulo de 28 horas en promedio),
+en los que el 60% del tiempo es de carácter práctico y el 40% de carácter teórico.
+34 Ejes: (1) Gestión eficiente, democrática y transparente; (2) Corresponsabilidad de los usuarios; (3) Operar y mantener el
+sistema; (4) Calidad del agua; (5) Cambio de comportamiento, higiene y mantenimiento de las USB; y (6) Asociacionismo.
+                                                                                                                         19
+"
+"En relación con los productos asociados a este resultado, se destaca el logro de todas las metas esperadas,
+con excepción del indicador de habitantes de comunidades indígenas capacitados en aspectos de salud,
+higiene, uso racional de agua, equidad de género y protección de fuentes de agua, que logró el 95% de
+los resultados esperados (5.696 habitantes frente a los 6.000 habitantes previstos). Esta diferencia recae
+en que en algunas de las comunidades indígenas no se logró finalizar las actividades del proyecto durante
+el período de ejecución del programa, y se finalizarán en los próximos meses.
+Objetivo específico 2. Desarrollar un programa piloto para el manejo de los residuos sólidos
+El segundo objetivo específico se cumplió con una ratio promedio de logro de 90% de los 2 indicadores de
+resultado.
+Resultado 1. Planes de manejo de residuos sólidos en comunidades rurales, implementados
+El propósito del componente piloto fue testear el potencial de esquemas de educación y participación
+ciudadana, orientadas a propiciar comportamientos individuales y colectivos orientados a generar y
+consolidar una cultura de separación de residuos desde los hogares, así como disminuir las prácticas de
+quema de residuos y/o su vertido a cielo abierto, prevalentes al inicio de la intervención.
+Para ello, se seleccionaron durante la ejecución del Programa diez (10) comunidades que debían cumplir
+como requisitos el contar con una JS conformada, baja incidencia de conflictos políticos o sociales, una
+adecuada gestión administrativa de los sistemas, reflejada en una baja morosidad, y que tuvieran cercanía
+a centros urbanos y por ende a mercados de consumo. Considerando que las JS seleccionadas son
+similares en sus condiciones organizacionales y características socio-económicas, el desarrollo de los
+planes partio´ de una aproximacio´n metodolo´gica general basada en el enfoque de prevencio´n de las 3R’s
+(reducir, reutilizar, reciclar), fundamentado en la activa participación de la comunidad en su conjunto
+desde las fases más tempranas del proyecto y fomentando la participación de todos los actores relevantes
+(autoridades locales, JS, comunidad en general), con especial énfasis en la comunidad educativa, a través
+de visitas, asesorías y capacitaciones.
+Los indicadores de resultado bajo este objetivo específico indican que al final del Programa se lograron al
+90% (3.105 habitantes frente a los 3.450 habitantes esperados en 9 de 10 comunidades). Esta diferencia
+se asocia a la cancelación de uno de los contratos para el desarrollo de los planes de manejo de residuos
+sólidos por problemas con la empresa contratada (ver pie de página 40). El indicador original de “Número
+de comunidades con sistemas de residuos so´lidos implementados adecuadamente” (resultado
+intermedio) se eliminó por no disponer de indicadores de proceso adecuado para determinar el
+“adecuadamente” durante la etapa de ejecución del proyecto. Sin embargo, entrevistas con la
+coordinadora de la unidad ejecutora y técnicos de SENASA confirman que en las 9 comunidades se están
+implementando los sistemas de gestión de residuos apropiadamente en términos de la separación,
+recogida, y disposición de los residuos sólidos. En relación con los productos asociados a este resultado,
+dos de los tres indicadores bajo este componente lograron sus metas (desarrollo de una metodología para
+implementar plantes de manejo de residuos sólidos en comunidades rurales y el plan de concientización
+y capacitación implementado). En relación con los sistemas de manejo de residuos sólidos
+implementados, finalmente sólo fueron 935 comunidades las participantes en el Programa.
+35 Para la ejecución de esta componente, se previeron dos contratos, cada uno con agrupaciones de cinco (5) localidades cada
+uno, así: Grupo 1: Valle Apuá, Pirayú y Yaguarón, del Departamento de Paraguarí, y Liberación Sur y Santo Domingo, del
+Departamento de San Pedro; Grupo 2: Jorge Naville, santa Librada, Cerrito, Santa Catalina, Virgen de las Mercedes, del
+Departamento de Guairá. El contrato del Grupo 1 se desarrolló adecuadamente en todas sus fases, mientras que el del Grupo 2
+tuvo que ser rescindido por incumplimiento del contratista; para subsanar la situación, se amplió el contrato de la firma del Grupo
+1 para culminar las tareas no desarrolladas en las localidades del Grupo 2, pero en el entre tanto la localidad de Virgen de las
+                                                                                                                                 20
+"
+"Objetivo específico 3. Fortalecer el esquema institucional del programa y la capacidad fiduciaria y de
+ejecución de la entidad ejecutora
+El tercer objetivo específico se cumplió con una ratio promedio de logro de 92% de los 4 indicadores de
+resultado.
+Resultado 1. Capacidad fiduciaria y de ejecución del SENASA fortalecida
+El propósito de las actividades previstas buscaba incrementar la capacidad organizacional y de ejecución
+de SENASA, tanto en lo relativo a sus funciones en la preparación de proyectos y su posterior
+programación, contratación, supervisión y control de ejecución de obras, como en aquellas asociadas al
+apoyo postconstrucción que la entidad ofrece a las Juntas de Saneamiento, en los aspectos
+administrativos, técnicos y operacionales, para fortalecer condiciones de sostenibilidad. Se lograron o
+superaron las metas de 3 de los 4 indicadores de resultado. Cabe mencionar que el indicador de
+“Proyectos en comunidades dispersas con tecnologías alternativas” casi cuadruplico la meta planificada—
+se implementaron 39 proyectos cuando la meta original era 10. Este resultado es muy importante al ser
+las comunidades dispersas, generalmente indígenas, las más limitadas en el acceso a servicios de calidad
+de APS por la lejanía a las fuentes, al apoyo técnico, las dificultades de acceso, etc. Por otro lado, el
+indicador de número de JS y CS atendidas por 100 funcionarios alcanzó el 69% de la meta prevista. En
+relación con el número de JS y CS creadas, el 100% de las comunidades intervenidas por el programa tiene
+una JS (227 comunidades) o CS (39 comunidades) formada y capacitada. Respecto al número de CS y JS
+atendidas por SENASA (respuesta a una solicitud de demanda por parte de las JS y CS), éste fue menor al
+esperado. Sin embargo, puede ser debido a que los sistemas son nuevos y han recibido capacitaciones
+adecuadas, por lo que no necesitaría apoyo de SENASA, al menos durante la primera fase de
+funcionamiento de los sistemas.
+El componente de fortalecimiento institucional de SENASA asociados con este resultado cumplió todos
+los indicadores de producto previstos, en relación con la implementación del plan de reingeniería, el SUI,
+el plan de difusión y comunicación, y la actualización de las normas técnicas de diseño.
+En resumen, de acuerdo con los criterios definidos en las Guías PCR 2018 (p.5), la clasificación del criterio
+de efectividad para este Programa sería de satisfactorio, al lograr el 89% de las metas de los indicadores
+de resultado propuestos (ver EE4. Checklist).
+Mercedes perdió el entusiasmo en el proyecto, declinando su participación, y sin posibilidad de sustituirla dentro del plazo de
+ejecución del Programa.
+                                                                                                                            21
+"
+"    Tabla 2. Matriz de resultados y productos alcanzados
+                                                                       Valor de        Año de
+                                                     Unidad de                                          Metas y alcance
+Resultado/Indicador                                                    Línea de        línea de                         % Alcanzado Comentarios
+                                                     Medida                                             actual
+                                                                       base            base
+Objetivo específico 1. extender la cobertura de los sistemas de agua potable y saneamiento básico en comunidades rurales e indígenas menores 2.000 que carecen
+del servicio y promover su sostenibilidad
+Resultado 1. Cobertura de los servicios de agua potable en el área rural, incrementada
+Contribución al aumento de cobertura de                                                                   P       51,1
+agua potable en el área rural atribuible al                 %              49,2            2008          P(a)     51,1        72
+programa36                                                                                                A      50,56
+Población37 con acceso a agua potable en                                                                  P     150.000
+comunidades rurales menores de 2.000                   Habitantes            0             2009          P(a) 120.000         81
+habitantes (atribuible al programa)                                                                       A     121.532
+Población38 con acceso a agua potable en                                                                  P      6.000              En la aprobación, habitantes
+comunidades indígenas menores de 2.000                 Habitantes            0             2009          P(a)    6.000       138    beneficiados por agua y saneamiento
+habitantes (atribuible al programa)                                                                       A      8.307              en un solo indicador
+                                                                                                          P     30.000              Indicador incorporado tras la
+                                                                                                         P(a)   24.000              aprobación. Se incluye en la valoración
+Hogares con acceso a agua potable en
+                                                                                                                                    de la efectividad pues responde
+comunidades rurales menores de 2.000                     Hogares             0             2009                               81
+                                                                                                                                    directamente al objetivo específico
+habitantes (atribuible al programa)                                                                       A     24.285
+                                                                                                                                    propuesto y mejora la lógica vertical del
+                                                                                                                                    Programa
+                                                                                                          P      1.200              Indicador incorporado tras la
+                                                                                                         P(a)    1.200              aprobación. Se incluye en la valoración
+Hogares con acceso a agua mejorada en
+                                                                                                                                    de la efectividad pues responde
+comunidades indígenas menores de 2.000                   Hogares             0             2009                              132
+                                                                                                                                    directamente al objetivo específico
+habitantes (atribuible al programa)                                                                       A      1.589
+                                                                                                                                    propuesto y mejora la lógica vertical del
+                                                                                                                                    Programa
+Resultado 2. Cobertura de los servicios de saneamiento en el área rural, incrementada
+Contribución al aumento de cobertura de                                                                   P       39,7
+saneamiento básico en el área rural                         %              37,1            2008          P(a)    39,18        79
+atribuible al programa39                                                                                  A      39,16
+    36 En la matriz final, indicador como Cobertura de agua potable en el área rural atribuible al programa
+    37 En la matriz final, indicador como Habitantes
+    38 En la matriz final, indicador como Habitantes
+    39 En la matriz final, indicador como Cobertura de saneamiento básico en el área rural atribuible al programa
+                                                                                                                                                                      22
+"
+"                                                                 Valor de Año de
+                                                     Unidad de                     Metas y alcance
+Resultado/Indicador                                              Línea de línea de                   % Alcanzado    Comentarios
+                                                     Medida                        actual
+                                                                 base     base
+Población40 con acceso a saneamiento                                                 P     150.000
+básico en comunidades rurales menores de              Habitantes      0       2009  P(a)   110.000         72
+2.000 habitantes (atribuible al programa)                                            A     108.387
+Población41 con acceso a saneamiento                                                 P      6.000                   En la aprobación, población beneficiada
+básico en comunidades indígenas menores               Habitantes      0       2009  P(a)    6.000         107       por agua y saneamiento en un solo
+de 2.000 habitantes (atribuible al programa)                                         A      6.420                   indicador
+                                                                                     P     30.000                   Indicador incorporado tras la
+                                                                                    P(a)   22.000                   aprobación. Se incluye en la valoración
+Hogares con acceso a saneamiento básico
+                                                                                                                    de la efectividad pues responde
+en comunidades rurales menores de 2.000                Hogares        0       2009                         70
+                                                                                                                    directamente al objetivo específico
+habitantes                                                                           A     21.134
+                                                                                                                    propuesto y mejora la lógica vertical del
+                                                                                                                    Programa
+                                                                                     P      1.200                   Indicador incorporado tras la
+                                                                                    P(a)    1.200                   aprobación. Se incluye en la valoración
+Hogares con acceso a saneamiento básico
+                                                                                                                    de la efectividad pues responde
+en comunidades indígenas menores de                    Hogares        0       2009                        107
+                                                                                                                    directamente al objetivo específico
+2.000 habitantes                                                                     A      1.285
+                                                                                                                    propuesto y mejora la lógica vertical del
+                                                                                                                    Programa
+                                                                                     P        ND                    Indicador incorporado tras la
+                                                                                    P(a)   22.000                   aprobación. Se incluye en la valoración
+                                                                                                                    de la efectividad pues responde
+Hogares cuyas aguas residuales son tratadas            Hogares        0       2014                         96
+                                                                                                                    directamente al objetivo específico
+                                                                                     A     21.134
+                                                                                                                    propuesto y mejora la lógica vertical del
+                                                                                                                    Programa
+Resultado 3. Juntas de Saneamiento en comunidades rurales y Comisiones de Saneamiento u otras estructuras comunitarias similares en comunidades indígenas,
+operativas para promover la sostenibilidad
+                                                                                     P       400
+JS en comunidades rurales que operan los
+                                                        Juntas        0       2011  P(a)     226           57
+sistemas construidos por el programa
+                                                                                     A       227
+    40 En la matriz final, indicador como Habitantes
+    41 En la matriz final, indicador como Habitantes
+                                                                                                                                                      23
+"
+"                                                        Valor de Año de
+                                            Unidad de                     Metas y alcance
+Resultado/Indicador                                     Línea de línea de                 % Alcanzado Comentarios
+                                            Medida                        actual
+                                                        base     base
+                                                                            P        40
+CS en comunidades indígenas que operan
+                                             Comisiones      0       2011  P(a)      40         98
+los sistemas construidos por el programa
+                                                                            A        39
+                                                                            P        400              Como indicador de resultado
+                                                                           P(a)      226              intermedio en la aprobación. Se elimina
+                                                                                                      durante la ejecución del programa al
+                                                                                                      proporcionar la misma información que
+JS beneficiarias creadas y fortalecidas con
+                                                                                                      el indicador “JS en comunidades rurales
+cursos de capacitación impartidos a sus        Juntas        0       2009                       57
+                                                                                                      que operan los sistemas construidos
+integrantes                                                                 A        227
+                                                                                                      por el programa”. Sin embargo, se
+                                                                                                      midieron los resultados asociados al
+                                                                                                      indicador, en línea con los requisitos de
+                                                                                                      las guías de PCR
+                                                                            P        40               Como indicador de resultado
+                                                                           P(a)      40               intermedio en la aprobación. Se elimina
+                                                                                                      durante la ejecución del programa al
+                                                                                                      proporcionar la misma información que
+CS beneficiarias creadas y fortalecidas con
+                                                                                                      el indicador “JS en comunidades
+cursos de capacitación impartidos a sus      Comisiones      0       2009                       98
+                                                                                                      indígenas que operan los sistemas
+integrantes                                                                 A        39
+                                                                                                      construidos por el programa”. Sin
+                                                                                                      embargo, se midieron los resultados
+                                                                                                      asociados al indicador, en línea con los
+                                                                                                      requisitos de las guías de PCR
+                                                                            P      2.400              Como indicador de resultado
+                                                                           P(a)     1200              intermedio en la aprobación. Se elimina
+                                                                                                      durante la ejecución. Sin embargo, se
+Integrantes de JS capacitados                 Personas       0       2009                       68
+                                                                                                      midieron los resultados asociados al
+                                                                            A       1626
+                                                                                                      indicador, en línea con los requisitos de
+                                                                                                      las guías de PCR
+                                                                            P        240              Como indicador de resultado
+Integrantes de CS capacitados                 Personas       0       2009                      110
+                                                                           P(a)      240              intermedio en la aprobación. Se elimina
+                                                                                                                                          24
+"
+"                                                                          Valor de       Año de
+                                                       Unidad de                                       Metas y alcance
+Resultado/Indicador                                                       Línea de       línea de                          % Alcanzado        Comentarios
+                                                       Medida                                          actual
+                                                                          base           base
+                                                                                                                                              durante la ejecución. Sin embargo, se
+                                                                                                                                              midieron los resultados asociados al
+                                                                                                         A         264
+                                                                                                                                              indicador, en línea con los requisitos de
+                                                                                                                                              las guías de PCR
+                                                                                                         P      150.000                       Como indicador de resultado
+                                                                                                        P(a)    120.000                       intermedio en la aprobación. Se elimina
+                                                                                                                                              durante la ejecución por ser un
+Miembros de la comunidad rural con JS
+                                                           Personas             0             2009                                83          indicador de producto. Sin embargo, se
+capacitados42
+                                                                                                         A      124.209                       midieron los resultados asociados al
+                                                                                                                                              indicador, en línea con los requisitos de
+                                                                                                                                              las guías de PCR
+                                                                                                         P       6.000                        Como indicador de resultado
+                                                                                                        P(a)     6.000                        intermedio en la aprobación. Se elimina
+                                                                                                                                              durante la ejecución por ser un
+Miembros de la comunidad indígena con CS
+                                                           Personas             0             2009                                95          indicador de producto. Sin embargo, se
+capacitados
+                                                                                                         A       5.696                        midieron los resultados asociados al
+                                                                                                                                              indicador, en línea con los requisitos de
+                                                                                                                                              las guías de PCR
+                                                                                                         P         900
+                                                                                                                                              Como indicador de resultado
+Mujeres participan como miembro de las JS                  Mujeres              0             2009      P(a)       508            64
+                                                                                                                                              intermedio en la aprobación
+                                                                                                         A         573
+Porcentaje de JS y CS que piden apoyo para                                                               P         25
+la operación y mantenimiento de los                            %               60             2009      P(a)       25            153
+sistemas.                                                                                                A         6,2
+Objetivo específico 2. Desarrollar un programa piloto para el manejo de los residuos sólidos
+Resultado 1. Planes de manejo de residuos sólidos en comunidades rurales, implementados
+                                                                                                         P         10                         Como indicador de resultado
+Número de comunidades con sistemas de                                                                   P(a)       10                         intermedio en la aprobación. Se elimina
+residuos sólidos implementados                         Comunidades              0             2009                                90          durante la ejecución, al no tener
+adecuadamente                                                                                            A          9                         información suficiente para definir el
+                                                                                                                                              “adecuadamente”. Sin embargo, se
+    42 Por limitaciones de espacio en el Checklist (máximo 20 indicadores de producto), no se considera en el EE4. Sin embargo, su inclusión no modificaría la valoración del criterio de
+    efectividad del objetivo específico (satisfactoria) ni de la operación en general (satisfactoria).
+                                                                                                                                                                                      25
+"
+"                                                                Valor de    Año de
+                                               Unidad de                                  Metas y alcance
+Resultado/Indicador                                             Línea de    línea de                          % Alcanzado     Comentarios
+                                               Medida                                     actual
+                                                                base        base
+                                                                                                                              midieron los resultados asociados al
+                                                                                                                              indicador, en línea con los requisitos de
+                                                                                                                              las guías de PCR; además el enlace
+                                                                                                                              electrónico de atribución explica de
+                                                                                                                              forma cualitativa a que se refiere con
+                                                                                                                              “adecuadamente”.
+Habitantes beneficiados por la                                                              P        3.450
+implementación de los planes de manejo          Habitantes           0          2009       P(a)      3.450          90
+de residuos sólidos                                                                         A        3.105
+Objetivo específico 3. Fortalecer el esquema institucional del programa y la capacidad fiduciaria y de ejecución de la entidad ejecutora
+Resultado 1. Capacidad fiduciaria y de ejecución del SENASA fortalecida
+                                                                                            P          50
+Número de JS y CS creadas por año/100             Juntas /
+                                                                    10          2009       P(a)        50          108
+funcionarios                                    Comisiones
+                                                                                            A          53
+                                                                                            P         100
+Número de JS y CS atendidas por año/100           Juntas /
+                                                                    20          2009       P(a)       100           69
+funcionarios                                    Comisiones
+                                                                                            A          75
+                                                                                            P         100
+Porcentaje de proyectos que cumplen con
+                                                     %               0          2009       P(a)       100          100
+normas de diseño actualizadas
+                                                                                            A         100
+                                                                                            P          10
+Proyectos en comunidades dispersas con
+                                                 Proyectos           0          2009       P(a)        10          390
+tecnologías alternativas
+                                                                                            A          39
+                                                                                                                                                                  26
+"
+"                                                             Valor de Año de
+                                             Unidad de                                                %
+Producto/Indicador                                           Línea de línea de Metas y alcance actual           Comentarios
+                                             Medida                                                   Alcanzado
+                                                             base     base
+Componente 1. Inversiones en infraestructura
+                                                                               P             400
+Sistemas de agua potable construidos en
+                                                                               P(a)          226
+ comunidades rurales menores de 2.000        Sistemas        0        2009                               100
+ habitantes en operación                                                       A             227
+                                                                               P              40
+Sistemas de agua potable construidos en
+                                             Sistemas        0        2009     P(a)           40          97
+ comunidades indígenas
+                                                                               A              39
+Soluciones individuales de saneamiento                                         P           30.000
+                                             Soluciones                                                         Indicador no incluido en la MR en la
+ básico construidos en comunidades rurales                   0        2009     P(a)        22.000         96
+                                             individuales                                                       aprobación.
+ menores de 2.000 habitantes.                                                  A           21.134
+Soluciones individuales de saneamiento                                         P            1.200
+                                             Soluciones                                                         Indicador no incluido en la MR en la
+ básico construidos en comunidades                           0        2009     P(a)         1.200        104
+                                             individuales                                                       aprobación
+ indígenas                                                                     A            1.242
+Componente 2. Preparación de proyecto y desarrollo comunitario
+                                                                               P               2                En la aprobación, como dos
+                                                                               P(a)            2                indicadores: metodología para la
+Metodologías implementadas                   Metodologías    0        2009                               100    creación, fortalecimiento y
+                                                                               A               2                acompañamiento de JS y de CS
+                                                                                                                implementada
+                                                                               P               4                En la aprobación, como tres
+                                                                               P(a)            4                indicadores: planes de capacitación
+Planes de capacitación implementados         Planes          0        2009                               100
+                                                                                                                para integrantes de JS, CS y miembros
+                                                                               A               4
+                                                                                                                de las comunidades ejecutados
+                                                                               P             400
+Proyectos de agua para comunidades rurales,                                                                     Indicador incluido en la MR tras la
+                                             Proyectos       0        2009     P(a)          226         100
+concluidos                                                                                                       aprobación
+                                                                               A             226
+                                                                               P              40
+Proyectos de agua para comunidades                                                                              Indicador incluido en la MR tras la
+                                             Proyectos       0        2009     P(a)           40         100
+indígenas concluidos                                                                                             aprobación
+                                                                               A              40
+Habitantes de comunidades rurales que                                          P            2.400
+                                                                                                                Indicador incluido en la MR tras la
+integran las Juntas de Saneamiento           Habitantes      0        2009     P(a)         1.200        135
+                                                                                                                 aprobación
+capacitados en las áreas                                                       A            1.626
+                                             Habitantes      0        2009     P             240         110
+                                                                                                                                             27
+"
+"Habitantes de comunidades indígenas que                            P(a)   240
+                                                                                    Indicador incluido en la MR tras la
+integran las CS capacitados en las áreas
+                                                                   A      264        aprobación
+legales, técnicas, contables y financieras
+Habitantes de comunidades rurales                                  P    150.000
+capacitados en aspectos de salud, higiene,                         P(a) 120.000     Indicador incluido en la MR tras la
+                                              Habitantes    0 2009              103
+uso racional de agua, equidad de género y                                            aprobación
+                                                                   A    124.209
+protección de fuentes de agua.
+Habitantes de comunidades indígenas                                P     6.000
+capacitados en aspectos de salud, higiene,                         P(a)  6.000      Indicador incluido en la MR tras la
+                                              Habitantes    0 2009               95
+uso racional de agua, equidad de género y                                            aprobación
+                                                                   A     5.696
+protección de fuentes de agua.
+Componente 3. Programa piloto de manejo de residuos sólidos
+Metodología para implementar planes de                             P       1
+manejo de residuos sólidos en comunidades      Metodología  0 2009 P(a)    1    100
+rurales desarrollada                                               A       1
+Sistemas de manejo de residuos sólidos                             P       10
+                                                                                    En MR aprobada, definidos como
+implementados comunidades rurales en           Sistemas     0 2009 P(a)    10    90
+                                                                                     planes de manejo
+operación                                                          A       9
+Plan de concientización y capacitación                             P       1
+dirigidos a las comunidades rurales sobre el   Plan         0 2009 P(a)    1    100
+manejo de los residuos sólidos implementado                        A       1
+Componente 4. Fortalecimiento institucional del SENASA
+                                                                   P       1
+Plan de reingeniería del Servicio Nacional de
+                                              Plan          0 2009 P(a)    1    100
+Saneamiento Ambiental implementado
+                                                                   A       1
+Sistema Único de Información para el                               P       1
+Servicio Nacional de Saneamiento Ambiental    Sistema       0 2009 P(a)    1    100
+implementado                                                       A       1
+                                                                   P       1
+Normas técnicas de diseño para sistemas de    Normas
+                                                            0 2009 P(a)    1    100
+agua potable y saneamiento actualizadas       técnicas
+                                                                   A       1
+                                                                   P       1
+Tecnologías alternativas de provisión de agua Tecnologías
+                                                            0 2009 P(a)    1    100
+en comunidades dispersas desarrolladas        alternativas
+                                                                   A       1
+                                                                   P       1
+Plan de difusión y comunicación del SENASA                                          Indicador incorporado tras la
+                                              Plan          0 2009 P(a)    1    100
+implementado                                                                         aprobación
+                                                                   A       1
+                                                                                                                 28
+"
+"     c. Análisis de atribución
+Si bien el proyecto no realizó una evaluación de impacto, la literatura relacionada sugiere que es de
+esperar que el logro en los indicadores de resultado sea atribuible a las actividades del proyecto, dada la
+evidencia proveniente de otras intervenciones similares (ver EE8 para información detallada de la
+evidencia). En esta sección se presenta el análisis de cómo los productos se asocian a los resultados
+(revisión de la solidez de la lógica vertical, como requerido en las guías del PCR (2018), ¶ 3.14, numeral ii),
+la revisión de literatura que muestra la relación entre las actividades del proyecto y resultados esperados,
+y otras informaciones de apoyo al análisis de atribución. Si bien otros factores fuera del control del
+proyecto pudieron haber afectado los indicadores de resultado, la revisión de literatura sugiere que es
+razonable sustentar que las intervenciones implementadas por el proyecto contribuyeron a las mejoras
+observadas en los indicadores de resultado.
+El análisis de atribución, presentado en el enlace electrónico 8 por su extensión, agrupa varios indicadores
+de resultado bajo cada uno de los objetivos específicos para facilitar la lectura y comprensión del vínculo
+entre los productos y resultados, dado el alto número de indicadores de resultado (27) y de producto (20)
+que define el programa en su matriz de resultados. Este análisis incluye todos los indicadores de la Tabla
+2 del documento de PCR, incluidos aquéllos que, si bien se eliminaron para simplificar el monitoreo
+durante la implementación, se recuperaron para este informe.
+En resumen, se concluye que existe atribución del logro de todos los indicadores de resultado que
+contribuyen a la consecución de los objetivos específicos. Para algunos de los indicadores, se presenta
+como refuerzo del análisis una revisión de literatura que corrobora la validez de los vínculos causales entre
+los indicadores de producto y resultado.
+     d. Resultados Imprevistos
+No se reportan resultados imprevistos significativos.
+2.3      Eficiencia
+Se realizó el análisis económico ex post (costo-efectividad) de una muestra representativa de 50 proyectos
+del Programa. La muestra es para proyectos en comunidades rurales menores a 2.000 habitantes (79% de
+los costos directos del Programa). En el caso de las intervenciones en gestión de residuos sólidos
+(componente Piloto de Manejo de Residuos Sólidos), se incluyeron los costos de esas intervenciones en
+los costos de inversión de los proyectos de APS en comunidades rurales bajo el criterio que ambas
+intervenciones tienen beneficios positivos para la salubridad (medioambiente y salud) del hogar y su
+entorno. De igual manera, los costos de las intervenciones de los componentes de Preparación de
+Proyectos y Desarrollo Comunitario y de Fortalecimiento Institucional del Servicio Nacional de
+Saneamiento Ambiental se incluyeron en los costos de inversión de los proyectos de APS en comunidades
+rurales bajo el criterio que el componente de preparación de proyectos y desarrollo comunitario hace
+parte de los costos de implementación de los proyectos de APS. El enlace electrónico 5 presenta detalles
+de la metodología utilizada.
+Para el caso de la muestra de proyectos en comunidades rurales, a partir del análisis costo-beneficio se
+analizó la rentabilidad económica ex post de esta muestra y se actualizó el parámetro de referencia costo-
+eficiencia. La estimación de los beneficios se realizó a partir del cálculo del área bajo la curva de demanda
+(excedente del consumidor), similar a lo realizado ex ante (2013) pero con la actualización a enero 2019
+de los parámetros de Demanda: consumo promedio observado, precio promedio observado equivalente
+por m3 y la elasticidad implícita. Todos los precios y costos están expresados en USD de enero del 2019
+                                                                                                           29
+"
+"por el Índice de Precios al Consumo (IPC)43 y el tipo de cambio de cambio de 5.912 Guaranís por USD
+publicados por el Banco Central de Paraguay44.
+De los 50 proyectos de agua en comunidades rurales 48 presentan una rentabilidad económica superior
+a 12%, entre estos se encuentran los 10 Proyectos evaluados ex ante en 2013. El principal beneficio
+económico estimado está asociado a la liberación de recursos por el cambio de alternativa de suministro
+de agua segura para los hogares, y representa en promedio USD 207 por hogar y por mes y en menor
+medida por incremento en el consumo de agua total que representa en promedio USD61,5 por hogar por
+mes (a precios de 2019) calculados para un consumo observado medio de 12,29m 3 y una tarifa media
+observada de USD 0,22/m3 vis-a-vis USD 401 y USD120 (a precios de 2019) respectivamente, calculados
+para un consumo medio mensual de 15m3 y una tarifa de USD 0,34/m3. El menor beneficio por aumento
+de consumo se explica debido a una elasticidad precio más baja de lo que se había usado en la evaluación
+ex ante45. Las causas por los que algunos proyectos no son viables socioeconómicamente en la evaluación
+ex post se puede explicar por aumentos en los costos de inversión comparado con los costos de licitación,
+disminución en la cantidad de hogares beneficiarios o una combinación de ambas.
+Usando los beneficios unitarios calculados con la información relevada para las comunidades de la
+muestra, se evaluaron los proyectos para las 241 comunidades rurales beneficiarias del PAySRI
+(representa 48% de los costos directos del PAySRI). De los 241 proyectos evaluados, 11 no sería no viables
+socioeconómicamente. Las causas por los que algunos proyectos no son viables socioeconómicamente en
+la evaluación ex post se puede explicar por aumentos en los costos de inversión comparado con los costos
+de licitación, disminución en la cantidad de hogares beneficiarios, una combinación de ambas.
+Se realizó un análisis comparativo de los resultados de la evaluación ExAnte y ExPost, básicamente las
+diferencias están a nivel del consumo de agua y precios en el escenario con proyecto y en una diferencia
+de los costos de inversión por hogar. El resultado en términos de Valor de Corte es que ExPost este
+parámetro es 50% más bajo que el calculado ExAnte reflejando menores beneficios en la Evaluación
+ExPost46 y costos de inversión por conexión más bajos de lo previsto en la evaluación ExAnte47. Este valor
+de corte de USD 1.390/hogar es de la muestra y no de un “benchmarking” nacional o del programa.
+Para el caso de las intervenciones con UBS, a partir del análisis costo-beneficio se analizó la rentabilidad
+económica ex post en los mismos proyectos de la muestra de agua y se actualizó el parámetro de
+referencia costo-eficiencia, similar a lo realizado ex ante (2013) pero con la actualización a 2019 de los
+beneficios usando el valor disposición al pago calculada en la evaluación ex ante.
+43 Banco Central de Paraguay. Índice de inflación mensual. https://www.bcp.gov.py/informe-de-inflacion-mensual-i362
+44 Banco Central de Paraguay. Cotización Minorista del Tipo de Cambio Nominal. https://www.bcp.gov.py/cotizacion-minorista-
+del-tipo-de-cambio-nominal-i368
+45 La conclusión a la que llegó, con base a lo observado durante la evaluación socioeconómica ex post, fue que los beneficios
+generados por la implantación de los sistemas se derivan de ahorro de costos por cambio de fuente (a una más barata que lo que
+se había calculado en la evaluación ex ante) y en menor medida al aumento del consumo, pero menores a lo que se hipotetizó
+ex ante. Esto se debe a que en la evaluación ex ante se observó consumos equivalentes por hogar de 5,4 m 3/hogar/mes para
+consumidores con pozo y sin bomba eléctrica a 12 m 3/hogar/mes para consumidores con pozo y con bomba eléctrica (con un
+promedio ponderado de 7,71 m3/hogar/mes) y en la evaluación ex post estos consumos observados fueron en promedio 12,94
+m3/hogar/mes. Este comportamiento implica que la elasticidad precio es más baja (-0.11) de lo que se asumió en la evaluación
+ex ante de -0,7 para consumidores con pozo y sin bomba eléctrica y de -0,3 para consumidores con pozo y bomba eléctrica.
+46 Dado que los proyectos evaluados en el análisis ex ante no son los mismos que en el análisis ex post (con excepción de 10), no
+es posible hacer una comparación directa de la TIR antes y después del proyecto para todo el programa. Por tanto, el análisis se
+basa en una comparación de los costos máximos de inversión por hogar por debajo de los cuales se garantiza una tasa de
+rentabilidad superior a 12%.
+47 Para los 10 proyectos que se pueden comparar el costo de inversión por conexión exante fue calculado en USD1.104 (a precios
+de 2013) versus el costo por conexión observado expost de USD783 (a precios de 2018). Consecuentemente se observan TIR más
+altas [a pesar de tener beneficios observados menores a los previstos exante].
+                                                                                                                              30
+"
+"En este caso los 50 proyectos analizados, 49 muestran una Tasa interna de Retorno (TIR) económica
+superiores al 12%. Las causas por las que un proyecto de la muestra no es viable socioeconómicamente
+en la evaluación ex post se puede explicar por aumentos en los costos de inversión comparado con los
+costos de licitación y disminución en la cantidad de hogares beneficiarios. El parámetro costo-eficiencia
+de referencia para el criterio de elegibilidad en función del análisis económico (benchmarking) se ha
+estimado en un costo de inversión per cápita a precio de cuenta de USD 880 por USB y es 43% más bajo
+que el calculado en la evaluación ex ante. Este valor es de la muestra y no de un “benchmarking” nacional
+o del programa.
+Usando los beneficios unitarios calculados con la información relevada para las comunidades de la
+muestra, se evaluaron los proyectos para 236 de las 241 comunidades rurales beneficiarias del PAySRI
+donde se instalaron las USB (representa 23% de los costos directos del PAySRI). Dos de los 236 proyectos
+analizados no son viables socioeconómicamente en la evaluación ex post. Las causas por los que algunos
+proyectos no son viables socioeconómicamente en la evaluación ex post se puede explicar por aumentos
+en los costos de inversión comparado con los costos de licitación, disminución en la cantidad de hogares
+beneficiarios y una combinación de ambas.
+Cómo en el caso de los proyectos de agua rural, para las intervenciones en saneamiento (UBS) en las
+comunidades rurales se realizó un análisis comparativo de los resultados de la evaluación ExAnte y ExPost,
+básicamente las diferencias están en el valor de la Disponibilidad a Pagar (DaP)/hogar/mes ajustada por
+el nivel de ingreso en el escenario con Proyecto que es 30% más baja (a precios de 2019) que la usada en
+la evaluación ExAnte y un costo más bajo de la USB comparado con el valor medio que usa SENASA. El
+resultado en términos de Valor de Corte es que ExPost este parámetro es 35% más bajo, reflejando un
+menor nivel de rentabilidad económico en la Evaluación ExPost.
+Para el caso de los proyectos de APS en comunidades indígenas (7% de los costos directos del PAySRI), el
+análisis costo efectividad muestra que el valor de la inversión por hogar de USD 516 por beneficiario para
+agua potable y el valor de la inversión por hogar de USD 62 por beneficiario) para saneamiento es menor
+que el promedio de intervenciones similares financiadas por el SENASA.
+Además del componente de obras (sistemas de agua y saneamiento para comunidades rurales e
+indígenas), el PAySRI financió intervenciones en pilotos de manejo de residuos sólidos, desarrollo
+comunitario, fortalecimiento del SENASA y preparación de proyectos (11,5% de los costos directos del
+PAySRI. El costo de estas intervenciones se ha evaluado con respecto a su efecto en la rentabilidad global
+del componente de obras. Es decir, cuando se incorporan al flujo de costos de las obras financiadas por el
+programa, como afecta los indicadores de bondad de la rentabilidad social del mismo (TIR y Valor Actual
+Neto (VAN). Considerando estos costos adicionales, el PAySRI como programa es viable
+socioeconómicamente en la evaluación ex spot, con un valor VAN de USD 30.007.444,60 y TIR de 24,82%.
+Los tiempos de ejecución del programa se prolongaron más de lo previsto en el diseño del proyecto. El
+tramo de préstamo del PAYSRI se aprobó en el Directorio del BID en noviembre de 2009, y el tramo de
+donación del FECASALC un año después (noviembre de 2010). En Paraguay, todos los proyectos han de
+ratificarse en el Congreso, cuyos procesos administrativos se extienden habitualmente entre 6 y 12 meses.
+En este caso, el proyecto fue ratificado en octubre de 2011 y hasta diciembre de ese año no logró la
+elegibilidad, por lo que el proyecto inició su ejecución efectiva más de dos años tras su aprobación por el
+BID. En 2016 el país pidió una extensión de dos años para poder ejecutar toda la financiación de la
+donación para lograr los objetivos y metas esperadas del proyecto.
+La implementación del Programa se inició con los fondos establecidos por la Facilidad para la Preparación
+y Ejecución de Proyectos (FAPEP) 2283/OC-PR, que permitió al PAYSRI en forma anticipada fondos
+necesarios para el inicio del proceso de implementación, en el periodo 2010/2012.
+                                                                                                        31
+"
+"    Cuadro 1. Plazos originales de ejecución
+                CONTRATO/CONVENIO                                                    PLAZO
+            FAPEP 2283/OC-PR (Anticipo del Programa)                                 2011/2012
+            Contrato de Préstamo Nº 2222/OC-PR
+                                                                                     2011/2017
+            Convenio de Financiamiento GRT/WS-12513-PR
+La evolución de la ejecución presupuestaria del PAYSRI evidencia que se ha logrado un alto nivel de
+ejecución al fin del programa. Todas las clasificaciones del reporte de PMR de la operación fueron
+satisfactorias y la evolución del desembolso fue mejor que el promedio del país (ver hoja resumen en este
+documento PCR).
+Existe un desfase en el análisis de costos de la muestra a la entrada y el análisis posterior en el inicio de la
+operación debido principalmente a la apreciación del guaraní frente al dólar entre el período de diseño
+del proyecto (2009) y la definición de los proyectos de infraestructura (2011), lo que incrementó el valor
+de las obras en dólares equivalentes. Como se indicó anteriormente, durante el diseño de la operación
+(año 2009) la tasa de cambio equivalente era de USD1 = PYG 5.050, mientras que para febrero de 2013
+dicha equivalencia correspondía a USD1 = PYG 3.988 (con un mínimo histórico en dicho período de
+PYG 3.787 por 1USD). Adicionalmente, en el período 2009-2011 el país sufrió una inflación acumulada de
+14,98%, con lo que en precios constantes el efecto acumulado de apreciación más inflación conllevó a una
+pe´rdida de “poder adquisitivo” del orden del 44%. Esta situacio´n fue analizada junto con la unidad
+ejecutora por el equipo de proyecto en noviembre de 2011, concluyéndose la necesidad de actualizar los
+costos per cápita utilizados para la programación de metas del Programa y realizar los ajustes
+correspondientes a varios indicadores como, por ejemplo, la disminución de las metas de número de
+comunidades intervenidas a 226 frente a las 400 previstas.
+En resumen, de acuerdo con los criterios definidos en las Guías PCR 2018 (p.5), la clasificación del criterio
+de eficiencia para este Programa sería de satisfactorio, puesto que, para los proyectos de agua rural, 48
+de 50 proyectos tuvieron una TIR superior al 12%; para el saneamiento, los resultados fueron de 49
+proyectos sobre la muestra de 50 con TIR superior al 12%. Para las comunidades indígenas, donde se
+realizó un análisis costo-efectividad, se demostró que el valor de la inversión por hogar y beneficiario para
+agua potable y saneamiento era menor que el promedio de intervenciones similares financiadas por el
+SENASA.
+                                                                                                             32
+"
+"       Tabla 3. Costos del proyecto
+                                                                                  Costo del componente revisado
+Componente Nbr.1: Inversiones en infraestructura
+                                                                                  46.248.638,88
+Output                                  Unidad de               2011         2012            2013            2014           2015           2016           2017             2018         EOP 2018
+                                       medida
+1.1  Sistemas de agua potable            sistemas        P         537.000     8.526.000       3.885.000       4.402.000      3.885.000      4.662.000                                  25.897.000
+     construidos en comunidades
+                                                         P(a)      537.000     8.526.000       4.113.960       4.858.351,65   3.048.557,08   6.358.003,16   299.816,93    1.683.940,97  25.355.383,2
+     rurales menores de 2.000
+     habitantes en operación                             A         637.400     5.905.764,55    7.759.635,93    2.176.245,67   4.091.586,63   4.484.933,49   2.714.220,99  1.296.204,45  29.065.992
+1.2  Sistemas de agua potable            sistemas        P         560.000     306.000         312.000         798.000        867.000        624.000                                    3.467.000
+     construidos en comunidades
+                                                         P(a)      560.000     306.000         190.697         184.683,76     873.453,62     1.539.593,62   1.345.652,39  334.072,76    3.706.541,62
+     indígenas
+                                                         A         250.900     499.904,12      12.615,12       151.399,36     0              1.446.070,63   997.295,17    397.463,42    3.755.648
+1.3  Soluciones individuales de          soluciones      P         280.000     4.623.000       2.101.000       2.382.000      2.101.000      2.522.000                                  14.009.000
+     saneamiento básico construidos      individuales
+                                                         P(a)      280.000     4.623.000       3.393.879       3.023.878,39   1.893.810,44   4.238.668,77   1.998.677,95  1.464.287,    16.680.639,12
+     en comunidades rurales menores
+     de 2.000 habitantes.                                A         501.900     2.214.745,79    3.512.293,49    1.713.995,99   2.746.442,86   3.992.583,04   2.376.468,42  1.131.677,49  18.190.107
+1.4  Soluciones individuales de          soluciones      P         300.000     169.000         169.000         432.000        469.000        338.000                                    1.877.000
+     saneamiento básico construidos      individuales
+                                                         P(a)      300.000     169.000         127.132         123.122,51     536.055,11     230.054,22     201.074,5     49.918,92     506.074,94
+     en comunidades indígenas
+                                                         A         41.600      44.138,98       8.410,07        0              0              210.851,39     149.021,12    59.391,09     513.413
+                                                                                  Costo del componente revisado
+Componente Nbr.2: Preparación de proyecto y desarrollo comunitario
+                                                                                  4.823.110,32
+Output                                    Unidad de                2011          2012           2013             2014           2015           2016          2017           2018          EOP 2018
+                                          medida
+2.1  Metodologías implementadas             metodologías   P         19.000      19.000                                                                                                    38.000
+                                                           P(a)      19.000      19.000          0               0              0              0               0                           1.533,74
+                                                           A         0           1.155,93        377,81          0              0              0               0                           1.534
+2.2  Planes de capacitación                 planes         P                     35.000          35.000                                                                                    70.000
+     implementados                                         P(a)                  35.000          35.000          0              0              0               0                           2.788,62
+                                                           A         0           2.101,69        686,93          0              0              0               0                           2.789
+2.3  Proyectos de agua para                 proyectos      P         561.000     488.000         293.000         414.000        488.000        195.000                                     2.439.000
+     comunidades rurales, concluidos
+                                                           P(a)      561.000     488.000         1.242.441       923.713,23                    300.000         726.415,09    674.199,27    1.812.575,35
+                                                           A         91.100      250.604,14      484.346,63      186.603,93     64.664,36      8.841,2         406.202,77    595.468,34    2.087.831
+2.4  Proyectos de agua para                 proyectos      P                                     87.000          65.000         59.000                                                     211.000
+     comunidades indígenas concluidos                      P(a)                                  86.408          151.741        16.500         0               0             154.623       53.445,23
+                                                           A         0           0               0               29.521,67      23.923,56      0               0,            0,            53.445,23
+2.5  Habitantes de comunidades rurales      habitantes     P                     130.000         125.000         98.000         87.000         103.000                                     543.000
+     que integran las Juntas de                            P(a)                  130.000         181.130         89.220,39      40.101,58      254.475,57      183.551,39    28.251,9      931.251,12
+"
+"     Saneamiento capacitados en las                       A       0       60.820,46      159.928,21      110.002,73 58.072,89 358.875,44  173.860,88  30.591,24      952.152
+     áreas
+2.6  Habitantes de comunidades           habitantes       P               0              11.000          17.000     10.000                                           38.000
+     indígenas que integran las
+                                                          P(a)    0       0              3.296           0          5.454,27  100.682,12  102.581,78  56.503,8       200.905,9
+     Comisiones de Saneamiento
+     capacitados en las áreas legales,                    A       0       12.607,89      4.120,83        3.265,36   0         78.330,04   83.741,75   72.879,14      254.945
+     técnicas, contables y financieras
+2.7  Habitantes de comunidades rurales   habitantes       P               217.000        192.000         151.000    125.000   151.000                                836.000
+     capacitados en aspectos de salud,
+                                                          P(a)    0       217.000        499.682         140.146    98.182,49 391.694,52  282.526,42  28.251,9       1.433.402,71
+     higiene, uso racional de agua,
+     equidad de género y protección de                    A       0       93.616,22      246.165,13      169.318,69 89.387,11 552.389,14  267.610,56  47.086,72      1.465.574
+     fuentes de agua.
+2.8  Habitantes de comunidades           habitantes       P               0              24.000          35.000     15.000                                           74.000
+     indígenas capacitados en aspectos
+                                                          P(a)    0       0              6.352           0          10.512,07 194.045,49  197.706,73  169.511,39     387.207,65
+     de salud, higiene, uso racional de
+     agua, equidad de género y                            A       0       24.299,3       7.942,11        6.293,34   0         150.966,17  161.396,18  140.460,58     491.358
+     protección de fuentes de agua.
+                                                                           Costo del componente revisado
+Componente Nbr.3: Programa piloto de manejo de residuos sólidos
+                                                                           308.368,45
+Output                                  Unidad de               2011      2012           2013            2014       2015      2016       2017        2018           EOP 2018
+                                        medida
+3.1  Metodología para implementar        metodología      P               15.000         15.000                                                                      30.000
+     planes de manejo de residuos
+                                                          P(a)            15.000         15.000          25.236,92  5.047,38  0           0                          64.600,79
+     sólidos en comunidades rurales
+     desarrollada                                         A       0       0              4.763,08        0          58.593,42 1.244,29    0                          64.601
+3.2  Sistemas de manejo de residuos      sistemas         P               0              350.000         600.000    600.000   400.000                                1.950.000
+     sólidos implementados
+                                                          P(a)            0              150.000         600.000    390.000   331.102,84  147.257,6                  243.767,66
+     comunidades rurales en operación
+                                                          A       0       0              0               0          0         96.510,06   236.972,95  103.733,88     437.217
+3.3  Plan de concientización y           plan             P                              20.000                                                                      20.000
+     capacitación dirigidos a las
+                                                          P(a)                           5.000           5.000      4.000     20.000      0                          0
+     comunidades rurales sobre el
+     manejo de los residuos sólidos                       A       0       0              0               0          0         0           0                          0
+     implementado
+Componente Nbr.4: Fortalecimiento Institucional del Servicio Nacional de   Costo del componente revisado
+Saneamiento Ambiental                                                      1.811.929,83
+Output                                  Unidad    de            2011      2012           2013            2014       2015      2016       2017        2018           EOP 2018
+                                        medida
+4.1  Plan de reingeniería del Servicio   plan             P       460.000 255.000        330.000         100.000    220.000   70.000                                 1.435.000
+     Nacional de Saneamiento
+                                                          P(a)    460.000 255.000        330.000         220.000    93.323,93 124.210,91  132.700     63.789         1.599.348,56
+     Ambiental implementado
+                                                          A       124.500 211.812,64     804.658,78      104.037,3  91.724,16 129.915,68  73.130,53       88.833     1.628.612
+                                                                                                                                                                 34
+"
+"4.2 Sistema Único de Información para       sistema        P        319.000   178.000       190.000      313.000      330.000                                                  1.330.000
+    el Servicio Nacional de                                P(a)     319.000   178.000       190.000                   132.876,19    130.372,73    11.000                       50.208,94
+    Saneamiento Ambiental                                  A        9.200     4.310,21      0            0            0             25.698,73     54.444,98                    93.654
+    implementado
+4.3 Normas técnicas de diseño para          normas         P                  150.000                                                                                          150.000
+    sistemas de agua potable y              técnicas
+                                                           P(a)     0         150.000                                 15.000        81.818,18     0                            0
+    saneamiento actualizadas
+                                                           A        0         0             0            0            0             0             0                            0
+4.4 Tecnologías alternativas de             tecnologías    P                                75.000       75.000                                                                150.000
+    provisión de agua en comunidades        alternativas
+                                                           P(a)                             0            0            30.000        7.356,44      0                            19.578,36
+    dispersas desarrolladas
+                                                           A        0         0             0            0            12.303,54     7.274,82      0                            19.578
+4.5 Plan de difusión y comunicación del     plan           P        0         35.000        100.000      100.000      100.000       100.000                                    435.000
+    Servicio Nacional de Saneamiento
+                                                           P(a)     0         35.000        100.000      55.000       36.372,72     22.690,91     23.111,11                    142.793,97
+    Ambiental implementado
+                                                           A        2.400     0             44.108,14    26.949,95    23.421,04     22.803,73     19.571,72       21.747,71    161.002
+        Otros costos                                       2011       2012       2013         2014         2015       2016       2017          2018         Costo
+        Administración                                P    264.000    850.000    683.000      441.000      381.000    381.000                               3.000.000
+                                                      P(a) 264.000    850.000    682.600      441.600      181.977,57 590.253,03 524.882,55    302.650,76   3.673.737,25
+                                                      A    426.000    670.549    882.127,79   374.230,61   379.361,35 416.585,95 393.626       290.984      3.833.464,29
+        Auditoria, evaluación y seguimiento           P               54.000     91.000       41.000       214.000    100.000                               500.000
+                                                      P(a) 0          54.000     91.000       41.100       25.000     20.700     49.783,02     111.257,42   199.462,19
+                                                      A               23.402     53.573,76    27.227,99    25.277,13  20.198,29  42.965,83     78.381,2     271.026,2
+        Costos financieros                            P               300.000    300.000      300.000      300.000    300.000                               1.500.000
+                                                      P(a) 0          300.000    300.000      100.000      65.000     70.000     1.161.116,88               1.603.482,46
+                                                      A               0          141.402,84   63.901,91    72.466,96  164.593,87 224.771,11    143.113,8    810.250,49
+        Total costos                                       Costo
+        Total Costos                                  P    59.999.000
+                                                      P(a) 65.565.597,81
+                                                      A    64.154.191,9
+      Fuente: PMR enero-junio 2019
+                                                                                                                                                                            35
+"
+"2.4        Sostenibilidad
+      a. Aspectos generales sobre Sostenibilidad
+El programa PAYSRI abarcó varias actividades asociadas a la ejecución de infraestructura, desarrollo
+comunitario y fortalecimiento institucional, que llevan asociados intrínsecamente riesgos a la
+sostenibilidad para mantener sus resultados a largo plazo. La sección de sostenibilidad analiza estos
+riesgos bajo cada uno de los objetivos específicos del proyecto, así como las medidas que el proyecto ha
+desarrollado y el contexto institucional para mitigarlas.
+En relación con el objetivo específico 1 (Extender la cobertura de los sistemas de APS en las comunidades
+rurales e indígenas que carecen del servicio y promover su sostenibilidad), existe una buena calificación
+de los sistemas construidos por el PAYSRI en la zona de intervención (según las encuestas realizadas
+durante la evaluación final del programa a usuarios de los nuevos sistemas construidos48). Varios factores
+contribuyen a esta buena calificación. Por un lado, la calidad de las obras de infraestructura: más del 97%
+de los encuestados indicaron que la calidad del agua (medido como calidad de la presión del servicio) era
+muy buena o buena; el 94% indicaron que el servicio era bueno o muy bueno (el 94% de los hogares
+recibía servicio de agua de la JS durante las 24 horas al día49, y solo 2,3% recibía agua durante 8 horas o
+menos). Por otro lado, el 100% de las JS y CS del programa participaron en las capacitaciones para la
+gestión de los sistemas y su mantenimiento adecuado. Esta capacitación la lideró SENASA e incluyó varios
+aspectos administrativos y técnicos, en línea con sus modelos de intervención social de la entidad.
+Asimismo, SENASA está fortaleciendo actualmente sus procesos sociales de trabajo con la población con
+apoyo del BID (cooperación técnica PR-T122450), que le permitirá un mejor acercamiento a la población
+para la apropiación de los sistemas y su uso adecuado. En este sentido, este fortalecimiento permitirá un
+mejor seguimiento y apoyo a las comunidades beneficiadas por el programa bajo evaluación y al resto de
+comunidades bajo la responsabilidad de SENASA, especialmente las más dispersas que se encuentran
+alejadas de instituciones públicas y, en general, con difícil acceso a servicios para la gestión de los sistemas
+de APS. La satisfacción de los usuarios del sistema en cuanto a la calidad del agua y la confiabilidad del
+servicio prestado, relevada a través de las encuestas aplicadas a los beneficiarios en la evaluación final,
+concluye que el 97,0% de los beneficiarios otorgó una calificación alta al servicio a nivel general (presión,
+olor, sabor) que reciben.
+Los principales riesgos de mantener los resultados de acceso a los servicios de APS son los relacionados a
+la capacidad de gestión, operación y mantenimiento de los sistemas por parte de los organismos
+operadores y las instancias de apoyo para la resolución de problemas en el sistema51, si bien tanto la
+frecuencia como la intensidad del riesgo es bajo. El Programa ha implementado actividades de
+capacitación y fortalecimiento de las JS y CS que aseguran la adecuada gestión de sistemas. Asimismo, es
+importante destacar que se trata de sistemas técnicamente sencillos, y la capacitación ofrecida es
+suficiente para asegurar la operación y mantenimiento adecuado en condiciones normales de
+funcionamiento. Se destaca la solidez financiera y relativamente buen funcionamiento de las JS. La
+evaluación final destaca que el ingreso promedio de las JS apoyadas por el PAYSRI fue superior al gasto
+promedio, indicando que, en la gran mayoría de JS y CS (96%), estarían generando excedentes operativos.
+En este sentido, las tarifas son suficientes para la operación y mantenimiento de los sistemas para la
+48 La evaluación final realizó 400 encuestas en 36 Distritos ubicados en 11 de los 17 Departamentos del país.
+49 Estudios anteriores (muestra de 100 comunidades) indican niveles de servicio de 24 horas/días para el 82% de los encuestados
+(Alvarez, L., 2015)
+50 PR-T12224
+51 Problemas con la presión del agua en el sistema, déficits en el sistema de cloración que limitan la calidad del agua, roturas en
+las cañerías, funcionamiento inadecuado de la bomba, entre otras.
+                                                                                                                                36
+"
+"mayoría de los sistemas, y los niveles de pago por parte de la población han sido buenos, con niveles de
+mora inferiores al 16% según las encuestas52. Este aspecto es clave pensando en la potencial ampliación
+de los sistemas de agua en las comunidades por el incremento de población. Se destaca también la
+implementación de actividades de refuerzo de educación ambiental y desarrollo comunitario que
+trabajaban los aspectos de pago de tarifas desde el diseño del proyecto y durante su ejecución. Sin
+embargo, la sostenibilidad de la mayoría de las JS requiere de un apoyo continuo de SENASA para que
+puedan mantener los servicios que prestan a la comunidad en el momento que requieren reparaciones
+de los sistemas importantes (bomba, canalizaciones) o la reposición de partes o la totalidad del sistema a
+largo plazo. En este sentido, el proyecto cuenta como indicador las JS y CS atendidas por SENASA (por
+cada 100 funcionarios), en el que se observa cómo se explicó en el apartado de efectividad que las
+demandas por parte de las JS y CS han sido menores a las esperadas (nuevos sistemas y mejor capacidad
+de las JS y CS para resolver problemas menores).
+ Las JS se han enfrentado históricamente a diversos factores que pueden afectar la prestación de sus
+servicios53, tales como problemas organizativos (conflictos internos por razones personales, liderazgos
+antagónicos, falta de recambio en la dirigencia, injerencia política, entre otros); problemas relacionados
+a la infraestructura (agotamiento o contaminación de las fuentes de agua, obsolescencia de las
+instalaciones o necesidad de ampliar el sistema en el largo plazo). Este programa, tomando en
+consideración éstos y otros retos, ha desarrollado varias estrategias que minimizan estos riesgos e
+impulsan la sostenibilidad de los sistemas. El establecimiento de sistemas de monitoreo y apoyo continuo
+a las JS por parte de SENASA, con el respaldo de las iniciativas de capacitación, consolidación de los
+modelos de negocio y la integración de las JS a través de asociaciones, ayudan a resolver algunos de los
+principales desafíos descritos, a consolidar el funcionamiento de las JS y garantizar la provisión del servicio
+de agua potable a sus beneficiarios. Debido al carácter voluntario de las JS y CS, es importante desarrollar
+con continuidad programas que refuercen la participación comunitaria, la rotación de autoridades de las
+JS/CS y la renovación en los liderazgos, como establecen los estatutos de las JS y CS. SENASA dispone de
+un equipo social que trabaja estos aspectos tanto en las nuevas intervenciones como en las existentes,
+actualmente con apoyo del BID para reforzar sus capacidades e innovar en sus estrategias de intervención
+social, como se ha indicado anteriormente. La capacitación continua por parte de SENASA a estas JS/CS
+es fundamental, y se espera que puedan avanzar las iniciativas promovidas por el BID a través de otros
+programas y cooperaciones técnicas para mejorar el modelo de negocios de las JS y promover la
+asociatividad entre las mismas, como soluciones alternativas adicionales54. A pesar de los avances para la
+desconcentración de SENASA y el refuerzo de su presencia en las regiones más alejadas de Asunción, el
+nivel de apoyo de los gobiernos regionales y locales a la construcción y mantenimiento de los sistemas de
+APS es todavía mejorable. Entre las oportunidades a mejorar, se han identificado algunos aspectos
+vinculados a controlar la calidad del agua, y a la necesidad de capacitaciones continuas, en el marco del
+desarrollo de nuevas guías y modelos de intervención bajo este programa y otros programas de SENASA,
+para capacitar a los nuevos puestos directivos de las JS, CS y a los municipios. Las guías son un instrumento
+adecuado que hay que difundir para su apropiación y su uso adecuado. En este sentido, el Programa ha
+reforzado estos sistemas y estrategias de mejora y fortalecimiento institucional, como veremos en un
+siguiente objetivo específico (#3).
+En relación con el objetivo específico 2, de “Desarrollar un programa piloto de manejo de los residuos
+so´lidos” y bajo el componente piloto para manejo de residuos sólidos, se logró implementar el programa
+52 Estudios anteriores (muestra de 100 comunidades rurales) indicaron niveles de mora del 31% (Alvarez, L., 2015)
+53 Puerta, J.M. (2016) Estudio sobre el funcionamiento y la sostenibilidad de las intervenciones de agua potable y saneamiento
+en áreas Rurales: Programa de Agua Potable y Saneamiento de Pequeñas Comunidades en Paraguay. Banco Interamericano de
+Desarrollo.
+54 Por ejemplo, en las operaciones PR-T1234, PR-T1224, PR-T1094, PR-L1060/PR-G1001.
+                                                                                                                           37
+"
+"de gestión de residuos sólidos en 9 comunidades, con la participación de la población en las campañas
+informativas y en las primeras fases del programa, con la separación de algunos residuos valorizables en
+el hogar y la disposición de las basuras en los horarios y lugares establecidos por las nuevas rutas. En este
+sentido, si bien los proyectos son recientes, los primeros resultados indican su adecuada implementación
+por parte de los técnicos municipales y de la población, y la posibilidad de replicación en otras
+comunidades del país. Sin embargo, es importante seguir capacitando a los municipios y a los especialistas
+del ministerio en la gestión de este subsector. Si bien el servicio tiene un componente de subsidio
+importante (lógico desde la perspectiva del gobierno para fomentar y estimular un nuevo mercado), se
+observa que tiene potencial para que se pueda autofinanciar, pues los beneficiarios valoran positivamente
+el servicio (encuesta en la evaluación final, en relación con los beneficios de tener la ciudad más limpia,
+reducción de olores, valorización/reciclaje de los residuos). Las oportunidades de mejora en estos
+sistemas se vinculan a aspectos tales como la logística de comercialización de algunos residuos reciclables
+en el mercado privado, y una mayor educación sobre temas ambientales, que se debería iniciar desde la
+educación escolar básica.
+La experiencia desarrollada indica que es posible motivar la separación de residuos en origen, teniendo
+como factor motivador para la comunidad la prevención de impactos negativos en la salud, especialmente
+de los niños. Adicionalmente, se resalta la necesaria vinculación activa de todos los actores relevantes –
+Juntas, beneficiarios y gobierno local – en todas las fases de ciclo de proyecto, desde su promoción
+temprana, a efectos de un exitoso proceso de educación y sensibilización con proyección a mediano plazo,
+y orientado a consolidar una actitud responsable frente a las responsabilidades de pago por el servicio de
+recolección selectiva y/o ordinaria de residuos en sus comunidades. Por último, para reforzar la
+sostenibilidad de los sistemas, es importante apoyar a las autoridades locales en sus capacidades técnicas
+y administrativas para asumir su responsabilidad frente a la prestación del servicio de aseo, así como
+fomentar líneas sostenibles de comercialización para el material con potencial de aprovechamiento y
+valorización. En este sentido, SENASA está reforzando su desconcentración en todo el país para poder
+asistir de cerca a las necesidades técnicas y de apoyo a los municipios, con personal y recursos destinados
+a este acercamiento y asistencia.
+En relación con el objetivo específico 3, de “Fortalecer el esquema institucional del programa y la
+capacidad fiduciaria y de ejecución de la entidad ejecutora (SENASA)”, se incorporaron aspectos clave
+para la sostenibilidad de las iniciativas promovidas por la institución, tales como i) la reingeniería del
+SENASA, incluyendo el fortalecimiento de las Oficinas Regionales (OR), ii) el diseño e implementación de
+un plan de difusión y comunicación, iii) el desarrollo e implementación de sistemas de gestión
+administrativa y financiera, y de un sistema de información geo-referenciado, así como el desarrollo de
+tecnologías alternativas de abastecimiento en comunidades rurales e indígenas dispersas a través de un
+proyecto piloto; y iv) la actualización y complementación de las normas técnicas para el diseño,
+construcción y mantenimiento de sistemas. Asimismo, el componente de fortalecimiento institucional
+desarrolló acciones que promueven el incremento de la calidad de las obras, la eficiencia y la eficacia en
+su construcción y la sostenibilidad de las intervenciones del SENASA (mejor operación y mantenimiento
+de los sistemas por la mejora en la calidad de los diseños, por ejemplo), después de culminado el PAYSRI
+(definición de un plan de reingeniería, puesta en marcha de un sistema único de información para el
+monitoreo y evaluación, definición de tecnologías alternativas en los expedientes para adecuarse a las
+necesidades de las comunidades, etc.). Según la evaluación final, como consecuencia del fortalecimiento
+se espera que aumente 5 veces (de 10 a 50) el número de JS y CS creadas por año y que se incremente en
+la misma proporción (5 veces, de 20 a 100) el número de JS y CS asistidas por cada 100 funcionarios del
+SENASA, así como la actualización de las normas de diseño de proyectos y el desarrollo de tecnologías
+alternativas de provisión de agua en comunidades dispersas.
+                                                                                                          38
+"
+"Existe, además, un respaldo y compromiso político al desarrollo del sector APS asumido por el Estado
+paraguayo con respecto al derecho al agua y los Objetivos de Desarrollo Sostenible al 2030, así como la
+adopción del PND 2030, que establece acciones priorizadas para mejorar los servicios públicos, incluyendo
+los de agua y saneamiento. El Programa gubernamental Sembrando Oportunidades, coordinado por la
+Secretaría Técnica de Planificación (STP) y con la participación de varias entidades públicas vinculadas al
+sector agua y saneamiento, que contribuyó a la priorización y focalización de las inversiones públicas, a
+fin de brindar asistencia a las poblaciones vulnerables. El respaldo político para dar sostenibilidad a las
+inversiones realizadas, así como para promover la construcción de nuevos sistemas y ampliar los
+existentes, debe trasladarse asimismo a los gobiernos Departamentales55 y Municipales, bajo la
+coordinación y supervisión de las instancias del gobierno central. En este sentido, SENASA está
+desarrollando estructuras de coordinación y desconcentración en varias regiones del país, especialmente
+en el Chaco, en donde todavía hay rezagos importantes en los niveles de cobertura de AYS, para mejorar
+la injerencia de los gobiernos departamentales y locales en el sector agua y saneamiento.
+En resumen, de acuerdo con los criterios definidos en las Guías PCR 2018 (p.5), la clasificación del criterio
+de sostenibilidad para este Programa sería de satisfactorio, puesto que los riesgos para asegurar el
+funcionamiento y gestión adecuados de los sistema son menores, focalizados en el componente de
+residuos por la experiencia limitada de SENASA en este subsector, y tomando en consideración las
+múltiples acciones que SENASA ha desarrollado y prevé desarrollar para la mitigación de posibles riesgos
+que acontezcan en el corto, mediano y largo plazo.
+      b. Salvaguardas ambientales y sociales
+De conformidad con los lineamientos de la Política de Medio Ambiente y Cumplimento de Salvaguardias
+(OP-703) del BID, el PAYSRI fue clasificada en la Categoría B, que comprende las operaciones que pueden
+causar principalmente impactos ambientales negativos localizados y de corto plazo, incluyendo impactos
+sociales asociados, y para los cuales se dispone de medidas de mitigación efectivas de uso corriente. El
+Reglamento Operativo estableció como parte de la preparación del Programa, y en conformidad a la
+Política de Salvaguardas del Medio Ambiente (OP-703), la elaboración de un Análisis Ambiental y Social
+del Programa y de un Plan de Gestión Ambiental y Social.
+Durante el diseño del PAYSRI se anticipó que el Programa produciría un efecto ambiental y social positivo
+en el área de influencia. No obstante, por su naturaleza, las obras podían tener impactos ambientales y
+sociales moderados, localizados y de corta duración, para los cuales se dispuso de medidas de mitigación
+efectivas que fueron aplicadas principalmente durante la etapa de construcción, sin detectar ningún tipo
+de problema asociado a las salvaguardas ambientales y sociales definidas.
+III.       CRITERIOS NO CENTRALES
+3.1.       Desempeño del Banco
+Durante el diseño del proyecto, el Banco tuvo un desempeño satisfactorio en la preparación de estudios
+y acompañamiento a SENASA para definir las comunidades participantes en el proyecto, así como ajustar
+los componentes y acciones del programa para asegurar el logro de resultados y la sostenibilidad de éstos.
+En este proceso, el personal de FECASASL en el país también fue partícipe, y el BID tuvo un importante rol
+de conexión entre el Fondo y el ejecutor, organizando varias sesiones de trabajo compartidas y alentando
+la coordinación interinstitucional. El prestatario realizó una evaluación de la ejecución por parte del Banco
+(enlace electrónico 7), donde se destaca la clasificacio´n como “muy satisfactoria” de la implementacio´n
+55 La Ley 426/94 Orgánica Departamental (artículo 16) y Ley 3966/10 Orgánica Municipal (artículo 12)
+                                                                                                           39
+"
+"del proyecto y “muy probable” el logro de los objetivos de desarrollo del proyecto y la sostenibilidad de
+los resultados del proyecto. Asimismo, se resalta el apoyo constante BID a la unidad ejecutora, a través
+de sesiones periódicas para desarrollar / consolidar capacidades de gestión fiduciaria financiera y de
+adquisiciones, así como facilitar la participación del equipo de trabajo en talleres teórico – prácticos para
+actualizar y mejorar las herramientas de planificación y gestión del proyecto, bajo el enfoque de
+Planificación por Resultados (PM4R), para avanzar en la ejecución de forma eficiente. El rol del BID fue
+clave en la revisión de las metas previstas en la matriz de resultados original frente al período de inflación
+y apreciación del guaraní frente al dólar (en 2011), de acuerdo con las prioridades del gobierno y a los
+proyectos que ya tenían expedientes adelantados.
+Es de destacar el apoyo adicional brindado por el BID para promover la sostenibilidad de las JS, a través
+de recursos (cooperaciones técnicas56) para apoyar el establecimiento de un sistema de capacitación
+permanente a los actores vinculados a los sectores de agua y saneamiento, así como de la asistencia
+técnica destinada al fortalecimiento de las JS como unidades de negocio, y a la integración de éstas a
+través de esquemas de asociatividad.
+3.2       Desempeño del prestatario
+La gestión del Programa estuvo a cargo del Servicio Nacional de Saneamiento Ambiental, adscrita el
+Ministerio de Salud Pública y Bienestar Social (MSPBS). La Unidad Ejecutora ha tenido un desempeño
+satisfactorio durante la ejecución del Programa, lográndose avances significativos en la totalidad de
+productos y resultados esperados para los diversos componentes. Es de valorar el desempeño del equipo
+de trabajo de la Unidad Ejecutora del Programa, frente al enorme volumen de tareas y responsabilidades
+derivadas de su ejecución, resaltándose la capacidad de liderazgo de los responsables funcionales y el
+compromiso profesional del equipo humano, quienes de manera general evidencian una sostenida
+trayectoria en actividades similares a las apoyadas por el Programa, lo que les ha permitido enfrentar y
+superar exitosamente los desafíos técnicos, sociales y políticos propios de este tipo de intervenciones. Se
+destaca el esfuerzo específico para el desarrollo de las actividades en las comunidades indígenas del
+programa, que no redujeron las metas a pesar de la apreciación de la moneda, en un gesto de apoyar a la
+población más vulnerable del país. Finalmente, la capacidad de aprendizaje en el sector residuos, donde
+SENASA presenta un conocimiento menos desarrollado que el sector agua y saneamiento, y la
+capacitación continua de la unidad ejecutora con el apoyo del BID permitió el desarrollo satisfactorio de
+las actividades asociadas a este componente, incluyendo la gestión de contratos con varias empresas
+implicadas.
+La Unidad Ejecutora mantuvo una comunicación fluida y permanente con el Banco y con la AECID, en su
+calidad de donante, presentando en forma oportuna y rigurosa todos los informes requeridos para la
+adecuada supervisión del avance de las actividades y resultados del Programa, lo que permitió identificar
+oportunamente riesgos de ejecución y adoptar las decisiones para su mitigación, incluyendo, cuando fue
+necesario, la reprogramación justificada de metas; así mismo, la Unidad Ejecutora desplegó una efectiva
+estrategia de relacionamiento con las diferentes instancias decisionales y de procedimiento del MSPBS,
+así como otros actores sectoriales relevantes, incluido el Ministerio de Hacienda (MH), autoridades locales
+56 En el marco de la Cooperación Técnica No Reembolsable No ATN/JO-15860-PR (PR-T1224 “Promocio´n del cambio de
+comportamiento y fortalecimiento del sector agua y saneamiento en Paraguay”, se desarrollaron acciones orientadas a: i) la
+elaboración de contenidos y conformación de un aula virtual de formación y capacitación, con el propósito de fortalecer las
+competencias funcionales de los funcionarios de SENASA y de los administradores de las JS; ii) el diagnóstico del mercado de la
+oferta de bienes y servicios de las JS, a efectos de identificar potencialidades de negocio complementarias para reforzar
+condiciones de sostenibilidad; y iii) explorar opciones de asociatividad de JS que posibiliten el aprovechamiento de economías de
+escala para los apoyos post construcción y para la compra agregada de insumos, materiales, bienes y servicios transversales.
+                                                                                                                              40
+"
+"y regionales, así como con diversos grupos de representación social y política con interés en el Programa,
+mediante la información oportuna y diferenciada de los aspectos relevantes del Programa.
+Asimismo, la unidad ejecutora se autoevaluó (enlace electrónico 7) con un desempeño durante la
+preparación y ejecución del proyecto como satisfactorio, destacando a un equipo de formulación y
+ejecución muy compacto y comprometido, logrando superar los retos de implementación del proyecto
+sin que se vea afectado de forma sustancial.
+IV.       HALLAZGOS Y RECOMENDACIONES
+Resultado de la evaluación final realizada, resultan un conjunto de hallazgos y recomendaciones que se
+detallan a continuación:
+Tabla 4. Hallazgos y recomendaciones
+ Hallazgos                                               Recomendaciones
+ Dimensión 1: Técnico Sectorial (diseño del proyecto, monitoreo y evaluación, factores ambientales y sociales)
+                                                         Es necesario que las instituciones responsables del sector
+ Si bien los niveles de sostenibilidad y                 rural (en este caso, SENASA) ofrezcan servicios de
+ funcionamiento de los sistemas son adecuados, es        capacitación, formación y acreditación de competencias
+ necesario fortalecer a las JS/CS con el apoyo           funcionales, en temas vinculados al APS, así como a otros
+ constante de SENASA para mantener la                    temas tales como el manejo de recursos financieros,
+ sostenibilidad de los sistemas y asegurar su gestión    resolución de conflictos, rendición de cuentas,
+ adecuada.                                               asociatividad, entre otros, tanto en las comunidades
+                                                         rurales como en las indígenas
+ Especialmente en las zonas más remotas y alejadas       Fortalecer y ampliar los sistemas de monitoreo de los
+ de Asunción, no existe información completa de la       sistemas de agua potable y saneamiento existentes, para
+ situación de los sistemas y se dificulta el seguimiento garantizar la provisión continua y estable de los servicios
+ y apoyo expost por falta de información.                de agua potable y saneamiento.
+ El crecimiento poblacional presiona sobre algunos       Integrar y asociar a los prestadores comunitarios, antes
+ de los sistemas existentes, a los que se exige          de la creación de nuevos sistemas, para lograr economías
+ incrementar el número de conexiones. En otros           de escala y potenciar la sostenibilidad de los sistemas. Es
+ casos, la migración rural urbana limita la              importante alinear los incentivos para la conformación de
+ sostenibilidad de sistemas pequeños (menos de 100       organizaciones comunitarias prestadoras de servicios de
+ usuarios), tanto a nivel técnico como financiero        APS para evitar la atomización de los sistemas.
+                                                         Analizar los mecanismos para abastecer a las
+ Las comunidades rurales e indígenas más dispersas
+                                                         comunidades aisladas. Los mayores costos necesarios
+ acumulan menores niveles de cobertura y peores
+                                                         para atender a este segmento de la población implican
+ niveles de servicio.
+                                                         mayores desafíos para la institución.
+                                                         Se debería capacitar y preparar a los prestadores
+                                                         comunitarios para gradualmente puedan asumir un
+ Se observa una creciente necesidad de involucrar a
+                                                         mayor compromiso para intervenir en su área de
+ las Juntas de Saneamiento en la solución de los
+                                                         influencia, que menudo se incrementa por la llegada de
+ desafíos que existen en materia de saneamiento
+                                                         nuevos habitantes a las comunidades (ampliación del
+                                                         servicio)
+ Dimensión 2: Organizacional y de gestión (capacidad de gestión del proyecto, coordinación)
+ Uno de los factores que han contribuido a los           Mantener y consolidar el equipo de trabajo conformado
+ buenos resultados alcanzados por el PAYSRI ha sido      en la unidades de proyecto, que tienen experiencia y
+ la estabilidad del equipo técnico conformado al         conocimiento del sector y de los programas.
+ interior de SENASA.
+                                                                                                                   41
+"
+"Hallazgos                                               Recomendaciones
+                                                        La autogestión y la sostenibilidad de los sistemas en las
+                                                        comunidades indígenas requieren de un enfoque
+La provisión de agua potable y saneamiento en           diferente al utilizado en las JS. Es necesario atender las
+comunidades indígenas requiere una fuerte               normas internacionales que protegen los derechos de las
+articulación y coordinación entre las instancias        comunidades indígenas, además de establecer
+pertinentes.                                            capacidades institucionales para atender adecuadamente
+                                                        los aspectos sociales, culturales y ambientales
+                                                        relacionados al trabajo con las comunidades indígenas.
+                                                        Se requiere definir las fuentes de los recursos financieros
+                                                        necesarios para realizar las inversiones requeridas para
+                                                        construir los sistemas de alcantarillado. En ciertas
+Se observa una creciente necesidad de involucrar a      regiones, la iniciativa podría ser promovida por la
+las JS en la solución de los desafíos que existen en    integración de esfuerzos y los recursos disponibles en los
+materia de saneamiento                                  entre gobiernos departamentales, municipales y el
+                                                        Gobierno nacional, o desarrollando el análisis de
+                                                        mecanismos innovadores de financiamiento, incluyendo
+                                                        la inversión privada y el uso de fondos de garantías
+Dimensión 3: Relacionada con los procesos públicos y los actores (prioridades, aprobación/ratificación)
+Las capacidades actuales de las instituciones del       Se necesita fortalecer la capacidad de articulación vertical
+sector APS no permite fortalecer la coordinación        con los gobiernos departamentales y municipales para
+entre los responsables de definir estrategias, regular  que estos puedan tener un rol más protagónico en el
+el sistema y realizar inversiones en el sector.         sector.
+                                                        Consolidar una visión de largo plazo y de alcance nacional
+                                                        para las inversiones en el sector de agua y saneamiento,
+Los niveles de cobertura, si bien han incrementado
+                                                        que esté estrechamente vinculada a los compromisos
+significativamente en la última década, todavía no
+                                                        internacionales asumidos en el marco de los ODS y a los
+cubren a toda la población rural de Paraguay,
+                                                        objetivos establecidos en el marco del PND 2030,
+especialmente para el saneamiento.
+                                                        incluyendo la provisión de los recursos financieros
+                                                        requeridos para alcanzar los objetivos establecidos.
+                                                        Es de fundamental importancia un mayor
+La concentración de la asistencia técnica y apoyo a     involucramiento de los gobiernos Departamentales y
+las JS y las CS en Asunción no es eficiente y limita el Municipales para mejorar los indicadores del sector,
+apoyo de SENASA y la sostenibilidad de los sistemas     contribuyendo con su cercanía a la población local y con
+de APS.                                                 los recursos con que disponen o que pudieran obtener,
+                                                        desconcentrando el rol de SENASA en todo Paraguay.
+                                                        Analizar la replicabilidad de los sistemas establecidos en
+SENASA no tiene experiencia extensa en la gestión
+                                                        el marco del programa piloto de residuos. Se debería
+de residuos e implementación en las zonas rurales, y
+                                                        hacer un análisis sobre costos y desafíos institucionales
+limita la ejecución y resolución de conflictos durante
+                                                        adicionales para SENASA que pudieran surgir de la
+la implementación
+                                                        iniciativa de replicar el sistema.
+Dimensión 4: Fiduciaria (adquisiciones, contratos, costos)
+                                                        Se deberían analizar estrategias orientadas a brindar
+Los costos para llevar servicios de APS a
+                                                        soluciones integrales a las comunidades indígenas, que
+comunidades indígenas, generalmente más
+                                                        requieren la coordinación interinstitucional, a los efectos
+dispersas y alejadas de los centros poblados, es
+                                                        de brindar cobertura a las necesidades en materia de
+mayor al trabajo en comunidades rurales
+                                                        agua, saneamiento y manejo de residuos, al mismo
+concentradas o dispersas. Este mayor costo se
+                                                        tiempo que se atienden otros aspectos tales como
+relaciona en gran parte a los costos de traslado, pero
+                                                        educación, salud y vivienda entre otros.
+                                                                                                                   42
+"
+"Hallazgos                                              Recomendaciones
+también a las dificultades de encontrar contratistas   La coordinación interinstitucional puede reducir costos
+con conocimiento específico, entre otras.              operativos si se organización actividades conjuntas y se
+                                                       evitan las visitas de instituciones en forma individual.
+                                                       Esto implica conectar los programas de protección social
+                                                       con los servicios de educación y salud, para que la
+                                                       presencia de los funcionarios estatales en las
+                                                       comunidades pueda ampliar la calidad y cantidad de
+                                                       otros bienes públicos a los que deberían tener acceso los
+                                                       habitantes de las comunidades indígenas.
+                                                       Idealmente, la renovación y ampliación de los sistemas
+                                                       deberían ser financiados por las mismas JS, pero se
+Debido al crecimiento poblacional que impacta          podrían presentar casos en que el apoyo del Estado sea
+sobre muchos sistemas administrados por JS, se         necesario para atender la demanda y promover el
+debería analizar los requerimientos potenciales de     acceso. Al respecto, el impacto potencial de la dinámica
+recursos financieros necesarios para la renovación     demográfica, en especial de la migración rural urbana,
+y/o ampliación de los sistemas                         afecta a las ciudades intermedias y también a los
+                                                       sistemas existentes que pudieran ser afectados por la
+                                                       migración.
+Algunas JS y CS no están preparadas para operar y      Es clave la inclusión en los contratos de obra de
+gestionar solas los sistemas APS justo tras la entrega actividades operativas post construcción, como parte del
+de obras por la inexperiencia, a pesar de la           proceso de puesta en marcha, estabilización operativa y
+capacitación y requieren de apoyo durante un           entrega de las obras y para impulsar la sostenibilidad de
+tiempo para asegurar conocimientos                     los sistemas
+Dimensión 5: Gestión del riesgo
+El escalamiento de los proyectos piloto de
+programas de residuos requiere que SENASA y los        Es necesario realizar una adecuada capacitación de los
+gobiernos locales tengan más experiencia y mayor       actores involucrados en los procesos de gestión de
+capacidad de personal y recursos para poder            residuos, incluyendo a los usuarios potenciales, para
+diseñar, ejecutar y supervisar proyectos. También es   lograr la implementación efectiva de los proyectos a gran
+importante reforzar la capacidad empresarial local     escala.
+para diseñar y gestionar los sistemas.
+                                                                                                                43
+"

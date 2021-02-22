@@ -1,0 +1,1505 @@
+"outlist[[i]]"
+"            Junio – diciembre
+   15                            Segundo periodo                     Satisfactorio    US$16.496.807,70
+            2017
+  Metodología de análisis económico ex post: si
+  Metodología de evaluación ex post: no
+  Clasificación de efectividad de desarrollo: parcialmente no exitosa
+  Personal del Banco
+        Posiciones                           En PCR                                En la aprobación
+     Vicepresidente         Ana María Rodríguez (VPS/VPS – a.i.)          Santiago Levy (VPS/VPS)
+     VPS
+     Vicepresidente         Alexandre Meira da Rosa (VPC/VPC)            Roberto Vellutini (VPC/VPC)
+     VPC
+     Gerente de País        Rafael de la Cruz (CAN/CAN)                  Verónica Zavala (CAN/CAN)
+     Gerente Sectorial      Juan Antonio Ketterer (IFD/IFD – a.i.)       Mario Marcel (ICF/ICF)
+     Jefe de División       Vicente Fretes (IFD/FMM)                     Xavier Comas (ICF/ICS)
+     Representante de       Elba Viviana Caro Hinojosa (CAN/CPE)         Fidel Jaramillo (CAN/CPE)
+     país
+     Jefe de Proyecto       José Larios (FMM/CPE)                        Carlos Pimenta (ICF/ICS)
+     Jefe del PCR           José Larios (FMM/CPE)                        Carlos Pimenta (ICF/ICS)
+   Tiempo y costo (directo) del personal
+                                                                             USD (incluyendo los gastos
+   Fase del Ciclo de Proyecto           # de semanas del personal
+                                                                             de viajes y asesoría)
+   Preparación                          10 semanas                           USD 17.000
+   Supervisión                          4 semanas                            USD 8.000
+   Total                                14 semanas                           USD 25.000
+  Declaración de los objetivos de desarrollo del proyecto / programa:
+  El objetivo general del proyecto fue contribuir al aumento de la eficiencia en la gestión pública. Los
+  objetivos específicos fueron: (i) Aumentar la eficiencia de los procesos e instrumentos de automatización
+  de la preparación y ejecución financiera, (ii) fortalecer la capacidad institucional y organizacional del
+  Ministerio de Economía y Finanzas, (iii) mejorar el proceso decisorio de asignación de los recursos
+  públicos.1
+1
+  El objetivo no coincide exactamente con lo que está presentado en el POD, porque en el momento de la
+preparación no era obligatorio poner objetivos específicos.
+                                                         v
+"
+"  I.        RESUMEN EJECUTIVO
+      La presente evaluación del Programa de Modernización del Sistema de Administración
+      Financiera Pública para Mejorar la Programación, Ejecución y Rendición de Cuentas de
+      los Recursos Públicos (PE-L1087 / 2445/OC-PE) se realizó utilizando las guías de Project
+      Completion Report (PCR) de 2018. El Programa tuvo como objetivo general contribuir al
+      aumento de la eficiencia en la gestión pública, mediante la modernización de la gestión
+      financiera en el sector público. Los objetivos específicos estuvieron orientados a:
+      (i) aumentar la eficiencia de los procesos e instrumentos de automatización de la
+      preparación y ejecución financiera; (ii) fortalecer la capacidad institucional y
+      organizacional del Ministerio de Económica y Finanzas (MEF); y (iii) mejorar el proceso
+      decisorio de asignación de los recursos públicos. El Programa logró una clasificación total
+      parcialmente exitosa, conforme se detalla a continuación en la Tabla 1.
+                          Tabla 1. Resumen de la clasificación total del Programa
+    Dimensión                                        Detalles                                    Clasificación
+                 A pesar de que el proyecto no logró alcanzar la mayoría de sus resultados,
+                 con excepción de los productos (P1.2) Macroproceso de ejecución
+                 financiera, contabilidad y rendición de cuentas y del (P2.3) Sistema SIGA-
+                 MEF con despliegue en versión web, 9 alcanzaron sus metas totalmente
+                 y 4 parcialmente. Por lo tanto, el proyecto a su término contribuyó con las
+                 metas de las políticas del Banco y del país, conforma detallado en la
+                 sección respectiva.
+                 En cuanto a la lógica vertical, de manera general, de los 15 productos
+                 financiados, solamente los productos referente a la Informatización del
+                 macroproceso de ejecución financiera, contabilidad y rendición de cuentas
+                 (P1.2) y el Sistema SIGA-MEF con despliegue en versión web (P2.3) no
+                                                                                                 Parcialmente
+  Relevancia     se implementaron, sin embargo, la no implementación del producto (P1.2)
+                                                                                                Insatisfactoria
+                 afectó a la obtención de 2 de los 3 objetivos específicos del proyecto
+                 (OBE1 y OBE2), los cuales estaban asociados a los indicadores de
+                 resultados (R2.1), (R2.2), (R2.3), (R2.4), (R2.7). (R2.8), que no se
+                 cumplieron. Los 6 resultados no alcanzados estaban mayormente
+                 asociados a la implementación de la contabilidad en línea, la cual formaba
+                 parte de las funcionalidades del nuevo sistema. Por otro lado, el objetivo
+                 específico 3 (OBE3) se cumplió totalmente, debido a que su resultado no
+                 dependía de la implementación del producto (P1.2). En vista de esta
+                 ocurrencia, el equipo del PCR considera que la lógica vertical al término
+                 de la operación se vio substancialmente perjudicada y se clasifica como
+                 parcialmente insatisfactoria.
+                 Resultados
+                 El objetivo específico 1 tuvo clasificación Insatisfactoria.
+                 El objetivo específico 2 tuvo clasificación insatisfactoria
+                                                                                                insatisfactoria
+                 El objetivo específico 3 tuvo clasificación excelente
+  Eficacia
+                 La clasificación general fue Insatisfactoria
+                 Productos
+                 Los indicadores de productos lograron un promedio de 79.33% lo que lo
+                 clasifica como parcialmente insatisfactorio.
+                 Con el aumento de los pagos electrónicos, al final de 20 años, el proyecto
+                                                                                                 Parcialmente
+  Eficiencia     producirá una Tasa Interna de Retorno (TIR) de 8%, lo que hace la
+                                                                                                Insatisfactoria
+                 clasificación de la eficiencia del proyecto de parcialmente insatisfactoria.2
+                 De los 3 resultados alcanzados (1 totalmente y 2 parcialmente) todos
+                                                                                                  Excelente
+  Sostenibilidad tienen baja probabilidad de deterioro. Los 6 otros resultados no fueron
+                 alcanzados.
+                 (i) con respecto a la identificación, preparación y aprobación del Programa,
+                 el desempeño del Banco se clasifica como satisfactorio, debido a que se
+                 cumplió sin mayores dificultades con las diferentes etapas hasta el
+  Desempeño      arranque de la ejecución de la operación; y (ii) con respecto a la            Moderadamente
+  del Banco      supervisión, el desempeño del Banco se clasifica como moderadamente            Insatisfactoria
+                 insatisfactorio, dado que, a pesar de haber señalado oportunamente al
+                 ejecutor los riesgos que implicaba el cambio en el mecanismo de ejecución
+                 del proyecto que se produjo en 2011, no logró ser escuchado en la medida
+2 Cabe que mencionar que este resultado era uno de los 3 que no dependía de la implementación del nuevo
+  sistema SIAF.
+                                                          6
+"
+"                            necesaria para ayudar a prevenir sus consecuencias. Sumado a esto, si
+                            bien la decisión de fortalecer la supervisión de la ejecución del proyecto a
+                            través de la contratación de expertos externos en tecnología y en sistemas
+                            informáticos fue muy acertada, se tomó recién en el cuarto de los cinco
+                            años de extensión inicialmente previstos para la ejecución de la operación
+                            La ejecución fue llevada a cabo por un Equipo Ejecutor (EE), compuesto
+                            100% por consultores externos, al cual se le otorgaron responsabilidades
+                            y poder de decisión que trascendía su capacidad y alcance,
+                            principalmente por la ausencia de representantes de los ORs en su
+          Desempeño         conformación para llevar a cabo la ejecución del Programa / reforma
+                            conforme a lo planificado. Esto debilitó substancialmente la gobernanza          Insatisfactorio
+          del Ejecutor      del Programa. Además, el EE no contó con un Plan Estratégico, ni con un
+                            Plan de Acción Global para la gestión de las actividades, lo que consumió
+                            gran parte de los recursos del proyecto en consultorías y no logró
+                            implementar el principal producto (SIAF-SP). Esto dificultó el logro de 6 de
+                            los 9 resultados previstos.
+                                                                                                              Parcialmente
+                                                                                     Clasificación total
+                                                                                                               No exitosa
+                                                       Project Completion Report
+   Programa de Modernización del Sistema de Administración Financiera Pública para Mejorar la Programación, Ejecución y
+                                                       Development Effectiveness
+                                                                Summary
+I. Development Effectiveness - Core Criteria
+                             Recommended overall rating:                                                Partly unsuccessful
+                                                                                                                    Weight
+1. Relevance                                                                         2.00                            20%
+2. Effectiveness                                                                     1.00                            40%
+      % of outcomes that were achieved                                              42.8%
+3. Efficiency                                                                        2.00                            20%
+4. Sustainability                                                                    4.00                            20%
+II. Development Effectiveness - Non core Criteria
+Bank's Performance                                                                        Moderately Unsatisfactory
+Borrower's Performance                                                                          Unsatisfactory
+              Consideraciones sobre los resultados.
+              La modernización del Sistema Integrado de Administración Financiera (SIAF) contempla
+              modificaciones a varios procesos simultáneamente, a saber: 1. Cambios en procesos,
+              que derivan en cambios normativos; 2. Fomenta la coordinación ya que se aspira a que
+              exista la trazabilidad del gasto en todas sus etapas, esto implica que las diferentes áreas
+              de la hacienda pública reciban y compartan información en tiempo real; 3. Promueve la
+              tendencia a mejorar el análisis de datos, lo cual es facilitado a través no solo de cambios
+              tecnológicos, sino también la modernización de la contabilidad pública; 4. Genera
+              condiciones para cambios tecnológicos que facilitan las transacciones y el análisis, lo cual
+              genera cambios organizacionales adentro de la dirección que gestión la infraestructura y
+              los sistemas que sustentan la gestión de las finanzas públicas. Lo anterior conlleva a que
+              un buen programa de modernización de la gestión financiera del Estado debe de tener un
+              plan robusto de: 1. Gestión del cambio y 2. Gobernanza del proyecto. La gestión del
+              cambio no es solo el proceso de evaluación, diagnostico, y generación de nuevos
+              procesos que simplifiquen pasos, que generen nuevas formas de analizar la data
+              financiera, a veces, asociado a resultados sociales, económicos y de inversión pública,
+              sino también de gestión de los intereses y prioridades de cada uno de los directores de la
+              gestión de las finanzas públicas y del Director de Tecnología del MEF.
+              Este proyecto tuvo como talón de Aquiles, que la estrategia de gobernanza fue debilitada
+              por que las reglas del juego fueron cambiadas durante la duración del proyecto. Por
+              ejemplo, el diseño original del Proyecto se centraba en un modelo en el cual, el MEF
+                                                                   7
+"
+"       generaría los términos de referencia de los componentes funcionales y tecnológicos y
+       luego licitaría la construcción del nuevo sistema. La gobernanza fue substancialmente
+       afectada por la decisión de modificar el mecanismo de ejecución original, en el cual se
+       estableció un Equipo Ejecutor (EE) compuesto en su totalidad por consultores externos,
+       al cual se le otorgó responsabilidades y poder de decisión que excedían su capacidad
+       para la implementación de una reforma institucional de esta magnitud. Una importante
+       consecuencia de esta deficiente gobernanza fue que el dialogo técnico entre el EE,
+       Órganos Rectores (OR’s) y el BID no fue fluido. Por lo que el valor agregado técnico
+       asociado a las mejores prácticas internacionales y lecciones aprendidas fueron
+       presentadas de forma intermitente al EE. Esto afectó la capacidad de proveer
+       conocimiento de forma consistente y permanente. La evaluación intermedia del Programa
+       ya señalaba que, con casi 81% del tiempo de ejecución consumido, se habían
+       desembolsado 65% de los recursos financieros con un valor ganado3 de apenas 44%.
+       Con base en estos hallazgos de la evaluación intermedia, la decisión del Banco fue no
+       autorizar nuevos compromisos financieros y desembolsar únicamente los recursos ya
+       comprometidos. La decisión del Banco fue acertada, aunque la tomó cuando ya se habían
+       consumido buena parte de los recursos y tiempo del Programa. En la sección de hallazgos
+       y recomendaciones se proveen más detalles sobre estos temas.
+       También es importante resaltar que una reforma de las finanzas públicas debe estar
+       basada en 4 pilares: (i) sus normativas; (ii) sus procesos; (iii) sus instrumentos y
+       metodologías de apoyo; y (iv) sus sistemas y tecnologías de la información. Las mejores
+       prácticas internacionales son claras en afirmar que no seguir estos principios pueden
+       generar serias consecuencias negativas “recipe for desastre” y no se lograr la reforma.
+       En este sentido, la operación evaluada tuvo un foco muy fuerte en sistemas y tecnología
+       de la información, lo que puso en riesgo de que, si esto no se lograra, toda la reforma
+       estaría comprometida, conforme ocurrió. La recomendación para una eventual nueva
+       operación es que esta tenga un enfoque principal en el negocio que las Finanzas Públicas
+       llevan a cabo. Actualmente, existen mejoras a ser implementadas en las Finanzas
+       Públicas que transcienden a la mejora de la tecnología de la información, como por
+       ejemplo: (i) contar con una normativa que oriente la modernización y respalde los cambios
+       en los procedimientos y sistema; (ii) contar con una clasificación presupuestaria que
+       facilite la gestión de los programas de gobierno; (iii) contar con un plan de cuentas que
+       genere información oportuna para la toma de decisiones; (iv) estandarizar catálogos de
+       bienes y servicios para generar economía de escala en la compras públicas; (v) contar
+       con procedimiento efectivos de programación de ingresos; (vi) eliminar los cuellos de
+       botella en el proceso de devengado introduciendo transparencia a la ejecución
+       presupuestaria; (vii) eliminar saldos de balance que distorsionan la ejecución del
+       presupuesto;        (viii) contar con una gestión de caja eficiente disminuyendo el
+       endeudamiento de corto plazo del Tesoro; y (ix) contar con un modelo de Cuenta Única
+       en que se pueda sacar provecho de su fungibilidad y mejorar la disponibilidad de recursos
+       del gobierno.
+  II.        INTRODUCCIÓN
+Uno de los principales factores de éxito en la mejora de la eficiencia en la gestión pública en
+la región es la existencia y operación de Sistemas Integrados de Administración Financiera
+(SIAF’s), que promuevan el registro y acceso a información de calidad y de manera oportuna,
+para apoyar al proceso decisorio en la asignación y ejecución de los recursos públicos.
+En 2010, el Perú contaba con un sistema de gestión financiera, denominado, Sistema
+Integrado de Administración Financiera del Sector Publico del Perú´ , por sus siglas SIAF-SP;
+una herramienta informática estándar de registro y control del gasto público que tenía la
+3     Valor ganado es el peso (importancia) que cada producto presenta con relación al universo de productos.
+                                                        8
+"
+"finalidad de administrar, en todas las entidades públicas del Gobierno General (Gobierno
+Nacional, Gobiernos Regionales y Locales).
+El SIAF-SP funcionaba en una plataforma que ya había cumplido su ciclo de vida, el cual
+inició su desarrollo en 1997. Este proceso culminó en una versión unificada para las Unidades
+Ejecutoras del Gobierno Nacional y sus Consejos Transitorios de Administración Regionales
+en 1999, abarcando los procesos de presupuesto, tesorería y contabilidad. En enero de 2001,
+todas las Unidades Ejecutoras (UE) del Gobierno Nacional adoptaron el uso del SIAF-SP, a
+excepción de los Ministerios de Defensa e Interior y del Servicio de Inteligencia, y en
+diciembre de 2002 se sumaron los nuevos 26 Gobiernos Regionales, creados a la fecha.
+A 2010 el SIAF-SP se encontraba implantado y en operación en alrededor de 2.400
+instituciones del sector público, lo que incluye todas las UE de los gobiernos nacional y
+regionales, y 1.834 gobiernos locales.
+El SIAF-SP es una de las principales herramientas que contribuyó a los importantes avances
+logrados en la administración financiera pública del Perú; sin embargo, presentaba algunas
+debilidades que limitaban el manejo de los recursos financieros y la eficiencia de la gestión
+del gasto. Para mitigar estas debilidades, y basado en una evaluación independiente
+internacional del sistema, el Ministerio de Economía y Finanzas (MEF) tomó la decisión en el
+año 2008 de implementar un nuevo SIAF, en lugar de seguir invirtiendo recursos para
+actualizar el sistema actual, pues de haberlo hecho hubiera presentado problemas de
+integración y de obsolescencia, altos costos de mantenimiento y hubiera carecido de algunas
+funcionalidades importantes para la gestión del gasto.
+Otro criterio adoptado al momento de tomar la decisión fue la obsolescencia tecnológica de
+la plataforma SIAF-SP. Es por ello, que Ministerio de Economía y Finanzas (MEF) establece
+un dialogo con el Banco a fin de desarrollar una operación que permitiera la modernización
+de la gestión del gasto público.
+En el diseño del proyecto se utilizó el diagnóstico del Informe de la
+Gestión de las Finanzas Públicas, conocido por sus siglas PEFA (Public Expenditure &
+Financial Accountability). En total son 31 indicadores, cada uno compuesto por varios sub-
+indicadores, todos basados en criterios objetivos y evidencias empíricas, cuantitativas y
+entrevistas.
+El 2 de diciembre de 2010, el Gobierno del Perú y el Banco suscribieron el Contrato de
+Préstamo 2445/OC-PE denominado “Modernización del Sistema de Administración
+Financiera Pública para mejorar la Programación, Ejecución y Rendición de Cuentas de los
+Recursos Públicos”, por un monto de US$22,24 millones. El proyecto cumplió con las
+respectivas condiciones previas y fue declarado elegible para desembolsos el 15 de abril de
+2011.
+El objetivo general del proyecto fue contribuir al aumento de la eficiencia en la gestión pública.
+Los objetivos específicos fueron: (i) Aumentar la eficiencia de los procesos e instrumentos de
+automatización de la preparación y ejecución financiera, (ii) fortalecer la capacidad
+institucional y organizacional del Ministerio de Economía y Finanzas, (iii) mejorar el proceso
+decisorio de asignación de los recursos públicos.
+El proyecto finalmente fue estructurado en base a tres componentes:
+     •   Modernización de los procesos y sistemas de gestión financiera pública, cuyas
+         acciones están orientadas a diseñar, desarrollar, implantar y poner en operación todos
+         los módulos informáticos del nuevo Sistema Integrado de Administración Financiera
+         (SIAF);
+     •   Fortalecimiento de capacidades institucionales para la Gestión Financiera Pública, el
+         cual busca fortalecer las capacidades de las Direcciones Generales de Tesoro y
+         Endeudamiento Público, Contabilidad Pública, Gestión de Recursos Públicos y la
+         Oficina General de Informática y Estadística; y
+                                                 9
+"
+"      •  Institucionalización de instrumentos de Gestión Presupuestaria para mejorar la
+         Calidad del Gasto, que prevé institucionalizar la medición de productos e impactos
+         para fortalecer el proceso decisorio de asignación de recursos en el marco del
+         presupuesto por resultados.
+El impacto esperado del Programa fue mejorar el indicador de eficiencia del Gobierno utilizado
+en la Estrategia del Banco con el País (EBP) (pasar del 4º al 3º cuartil). Los principales
+resultados esperados fueron: (i) incrementar la calidad y puntualidad de los informes
+presupuestarios del ejercicio en curso; (ii) incrementar la disponibilidad de información sobre
+los recursos recibidos por las unidades de prestación de servicios; (iii) gestión del saldo y
+seguimiento de los atrasos de pagos; (iv) ahorro en costos de soporte para la operación del
+SIAF; (v) aumentar la cobertura de pagos del sector público; (vi) aumentar el porcentaje del
+total de cuentas bancarias incorporadas en la CUT; (vii) aumentar el porcentaje de asientos
+contables automatizados; (viii) aumentar la oportunidad de los estados financieros (tiempo de
+preparación y envío al MEF de los estados financieros; y (ix) aumentar la cobertura del PpR,
+comparado con el total del gasto no financiero ni previsional del presupuesto del gobierno
+general.
+      Estos resultados se evalúan en las siguientes secciones del presente informe, de acuerdo
+      con lo establecido en las guías de PCR aprobadas en 2018.
+ III.      CRITERIOS CENTRALES
+3.1      Relevancia
+El proyecto fue diseñado considerando que la gestión financiera del Perú requería de un
+proceso modernizador profundo, como lo demuestra el Estudio de Pre-inversión,
+particularmente asociado al soporte tecnológico de los mismos, y plantea que cualquier
+mejora del “sistema” de gestión de las finanzas públicas pasaba por una mejora sustantiva
+de la herramienta tecnológica que la soportaba. A la fecha la gestión financiera del Perú se
+soportaba en una herramienta tecnológica que ya había cumplido su ciclo, tanto desde el
+punto de vista de su cobertura funcional, como en los aspectos tecnológicos, con un alto
+grado de obsolescencia, que hacía compleja su mantención y evolución.
+La estrategia del Banco apuntaba a apoyar al país en el mejoramiento de sus procesos de
+gestión financiera, tanto desde el punto de vista funcionales como tecnológicos.
+En la evaluación realizada en el proyecto de inversión, la cobertura funcional de la plataforma
+de gestión financiera que operaba a la fecha (SIAF-SP) era de un 59% de los procesos
+involucrados, lo cual es bastante bajo para un soporte tecnológico de este tipo.
+                                                            SI   NO
+                                                                       22%
+                   46%                                                            41%
+                                              80%
+                                                                       78%
+                   54%                                                            59%
+                                              20%
+            EJECUCIÓN               PROGRAMACIÓN                  RENDICIÓN DE  TOTAL DE
+                                                                    CUENTAS    PROCESOS
+Fuente: Estudio de Pre-inversión a nivel de Factibilidad, MEF, 2010
+                                                              10
+"
+"Si a lo anterior, se agrega que la arquitectura tecnológica sobre la cual operaba el SIAF-SP
+se trataba de una plataforma del tipo cliente-servidor, sustentada en tecnologías ya bastante
+obsoletas, esto hacía imperioso su actualización a tecnologías orientadas a web.
+    a. Alineación del Programa con las necesidades de desarrollo del país
+    La preparación y aprobación del Programa tiene como referencia el contexto
+    macroeconómico y fiscal del país, así como el marco de los problemas identificados
+    durante su preparación. Durante la década 2001 - 2010, los fundamentos económicos de
+    Perú se basaron en una política macroeconómica sólida y prudente, lo que permitió un
+    crecimiento del Producto Interno Bruto (PIB) de 71%, a un ritmo promedio de 6% anual
+    en términos reales4, y la reducción significativa de la pobreza, la cual pasó de 54,8% a
+    30,8%5. Además, en 2008 y 2009, las agencias calificadoras de riesgo Standard & Poor's
+    y Moody's asignaron el grado de inversión a Perú con perspectiva estable. Sin embargo,
+    a pesar del buen desempeño macroeconómico registrado, el déficit fiscal se encontraba
+    en torno a 1,5% del PIB, producto de un gasto público superior al potencial de recaudación
+    tributaria. Con la finalidad de equilibrar el balance fiscal para generar espacio fiscal y
+    gestionar de forma sostenible posibles entradas de capital, las autoridades acordaron
+    reducir gradualmente el déficit fiscal y volver en 2011 al límite de 1% del PIB establecido
+    en la Ley de Responsabilidad y Transparencia Fiscal.
+    Durante los años de ejecución del Programa (2011 – 2017), el PIB creció 26%, a un ritmo
+    promedio de 4% anual en términos reales, superando al promedio latinoamericano (1,8%).
+    La disciplina fiscal/monetaria y un entorno favorable para la inversión facilitaron estos
+    resultados. Sin embargo, los cambios en el contexto internacional, como la reducción de
+    la demanda de socios comerciales como China, la caída de los precios de los minerales
+    y el ajuste de la tasa de interés referencial de la Reserva Federal de Estados Unidos,
+    influenciaron la desaceleración del crecimiento económico del país. Perú pasó de crecer
+    a un ritmo promedio de 6,9% (real) durante 2006 – 2010 a 4,6% durante los últimos seis
+    años. Además, en 2017, los efectos climáticos de El Niño condujeron a un crecimiento
+    inferior al esperado en 2017 (2,5%) y la pobreza aumentó 1 punto porcentual por primera
+    vez en la última década. (INEI) En este contexto, el crecimiento económico en 2018 fue
+    en torno a 4,0%, respaldado por estímulos fiscales y monetarios anticíclicos. Para 2019 -
+    2020, se espera que la recuperación de la demanda interna privada impulse el crecimiento
+    por encima del 4%, incluso a medida que se produce una consolidación fiscal de forma
+    gradual. En el mediano plazo, se proyecta que el crecimiento convergerá a 4% y la
+    inflación general aumentará gradualmente hasta ubicarse en el centro del rango objetivo
+    del Banco Central de 1% – 3%.
+    La contribución del Programa a las políticas públicas del país se identificó en el marco de
+    los siguientes planes: (i) el Plan Estratégico de Desarrollo Nacional hacia 2021, cuyas
+    acciones están direccionadas a la promoción del crecimiento económico sostenible; y
+    (ii) el Plan Estratégico Institucional 2017-2019 del MEF, el cual contempla en sus objetivos
+    específicos 1 y 5 la consolidación del equilibrio y sostenibilidad fiscal de las finanzas
+    públicas y la mejora del desempeño del gasto público en los 3 niveles de gobierno.
+    Específicamente, el Programa evaluado en este PCR apoyó las acciones del Gobierno
+    para mejorar la eficiencia a través del fortalecimiento de los procesos e instrumentos
+    informatizados de gestión de las finanzas públicas, los cuales a su vez contribuyen al
+    crecimiento económico.
+    En este contexto, el Programa estuvo alineado en sus etapas de diseño y ejecución con
+    las necesidades de desarrollo identificadas por el Gobierno, así como con la EBP. En lo
+    referente a las necesidades de desarrollo identificadas por el Gobierno, el Programa
+    estuvo alineado con el Plan Estratégico de Desarrollo Nacional de Perú hacia 20216, y
+4  WEO, FMI.
+5  Perfiles de pobreza 2001 y 2010, INEI.
+6  Se elaboró a partir de 2011 y la primera versión corresponde a enero 2012.
+                                                        11
+"
+"      con el Plan Estratégico Institucional 2017-2019 del MEF, conforme a lo presentado en el
+      Tabla 2.
+                     Tabla 2. Contribución del Programa a las políticas públicas del país
+ Resultado esperado            Políticas del país apoyadas por el        Acciones del Programa asociadas
+     del Programa                           Programa                     con la obtención de los resultados
+Mejorar el Indicador de El indicador estuvo alineado con el Plan Todos los 13 productos implementados
+Eficiencia del Gobierno Estratégico de Desarrollo Nacional de (9 totalmente y 4 parcialmente)
+del Perú usado en la Perú hacia 2021, que subraya la contribuyeron al alcance del impacto y
+EBP (pasar del 4º al 3º importancia de la búsqueda de la a la política correspondiente.
+Cuartil)                   eficiencia en la administración pública, así
+                           como el apoyo al progreso científico,
+                           tecnológico y de la innovación como
+                           medios para lograr el crecimiento
+                           sostenible.
+                           Línea Estratégica 1 - Eficiencia del
+                           Gobierno e institucionalidad, con el
+                           objetivo de asegurar predictibilidad,
+                           transparencia y eficiencia, a través de
+                           regulaciones      de      calidad,    mayor
+                           coordinación intergubernamental y mejora
+                           de las capacidades de planificación y
+                           gestión.
+1.1 Incrementar la El indicador estuvo alineado con el Plan 6 productos del componente I
+calidad y puntualidad Estratégico de Desarrollo Nacional hacia contribuyeron al alcance de los
+de      los     informes 2021, el cual en su tercer eje destaca la resultados         y   a     las    políticas
+presupuestarios       del necesidad de desarrollar mecanismos que correspondientes. Estos productos son
+ejercicio    en     curso permitan consolidar la institucionalidad (Gráfico 1): (P1.1) informatización e
+(indicador 24 del Public democrática, con transparencia, rendición implementación del macroproceso de
+Expenditure              & de cuentas y representatividad política, en programación presupuestaria; (P1.3,
+Financial                  los tres niveles de gobierno (índice de voz P1.4 y P1.5) infraestructura informática
+Accountability (PEFA y rendición de cuentas).                           para la implantación y operación del
+2009)                                                                   nuevo SIAF; (P1.6) plataforma de e-
+1.2 Incrementar la El indicador estuvo alineado con Plan learning; y (P1.7) metodologías en
+disponibilidad         de Estratégico Institucional 2017-2019 del CMMI y PMMI implementadas.
+información sobre los MEF en su objetivo específico de mejorar
+recursos recibidos por el desempeño del gasto público,
+las     unidades       de especialmente en la acción 5.2 de
+prestación de servicios promover la transparencia y rendición de
+(indicador 23 del PEFA cuentas, impidiendo la corrupción y
+2009)                      distorsiones en el uso de los recursos
+                           públicos.
+1.3 Disminuir la gestión El indicador estuvo alineado con el Plan
+del        saldo         y Estratégico Institucional 2017-2019 del
+seguimiento de los MEF en su objetivo específico de mejorar
+atrasos     de     pagos el desempeño del gasto público,
+(indicador 4 del PEFA especialmente en la acción 5.3 de
+2009)                      impulsar la predictibilidad de las
+                           transferencias        intergubernamentales
+                           sobre la base de criterios de asignación.
+2.1     Aumentar      los El indicador estuvo alineado con Plan 2 productos del componente II,
+ahorros en costos de Estratégico Institucional 2017-2019 del contribuyeron al alcance del resultado
+soporte      para       la MEF en su objetivo estratégico de y a la política correspondiente. Estos
+operación del SIAF         modernizar la gestión institucional del productos son (Gráfico 1): (P2.1)
+                           ministerio en la acción AI 8.2, servicios de Estudios    y    metodologías      para
+                           tecnología de información (TI) del fortalecer las capacidades del MEF y
+                           ministerio con altos estándares de calidad. (P2.4) estudios para un sistema
+                                                                        unificado de gestión de planillas de
+                                                                        nómina y de RRHH.
+                                                      12
+"
+"                    Tabla 2. Contribución del Programa a las políticas públicas del país
+ Resultado esperado           Políticas del país apoyadas por el        Acciones del Programa asociadas
+     del Programa                          Programa                     con la obtención de los resultados
+2.2     Aumentar       la El indicador estuvo alineado con Plan 3 productos del componente II,
+cobertura de pagos del Estratégico Institucional 2017-2019 del contribuyeron al alcance de los
+sector público; y 2.3 Ministerio de Economía y Finanzas en su resultados             y    a     las    políticas
+aumentar el porcentaje objetivo estratégico consolidar el equilibrio correspondientes. Estos productos son
+del total de cuantas y sostenibilidad fiscal en la acción gestión (Grafico 1): (P2.1) estudios y
+bancarias                 efectiva de la CUT en moneda nacional.       metodologías para fortalecer las
+incorporadas en la                                                     capacidades del MEF; (P2.2) cursos a
+CUT                                                                    funcionarios del MEF en temas
+2.4     Aumentar       el El indicador estuvo alineado con Plan especializados en manejo hacendario;
+porcentaje de asientos Estratégico Institucional 2017-2019 del y (P2.4) estudios para un sistema
+contables                 Ministerio de Economía y Finanzas en su unificado de gestión de planillas de
+automatizados; y          objetivo     estratégico     optimizar    la nómina y de RRHH.
+2.5     aumentar       la transparencia y rendición de cuentas en
+oportunidad de los sector público en la acción AEI7.1,
+estados      financieros fortalecimiento de la normatividad del
+(tiempo de preparación sistema de contabilidad pública..
+y envío al MEF de los
+estados financieros)
+3.1     Aumentar       la El Plan Estratégico de Desarrollo Nacional 4 productos del componente III
+cobertura            del hacia 2021 recomienda que el proceso de contribuyeron al alcance del resultado
+Presupuesto          por planeación estratégica debe articularse y de las políticas correspondientes.
+Resultados        (PpR) con el proceso presupuestario, lo que Estos productos son (Grafico 1): (P3.1
+comparado con el total involucra el PpR y sus instrumentos, guía metodológica para promover la
+del gasto no financiero especialmente        con     los   programas reestructuración de los programas
+ni    previsional    del presupuestales          cuyos      resultados presupuestales bajo la lógica insumo-
+presupuesto          del específicos contribuyen a los resultados producto; (P3.2) capacitación en
+gobierno general.         finales vinculados a los objetivos gestión presupuestaria y PpR; (P3.3)
+                          estratégicos. Además, el indicador se estudio para evaluar el uso de sistemas
+                          alinea con el Plan Estratégico Institucional de gestión administrativa en el proceso
+                          2017-2019 del MEF en su objetivo de PpR, con el objeto de definir
+                          específico de mejorar el desempeño del estándares mínimos para su interfaz
+                          gasto público, especialmente en la acción con el SIAF; y (P3.4) evaluaciones de
+                          5.1 de fortalecer el proceso presupuestario diseño,     impacto     y     desempeño
+                          multianual del sector público, con énfasis realizadas y revisiones metodológicas.
+                          en el presupuesto por resultados.
+     Conclusión. De acuerdo con el análisis realizado en esta sección, se concluye que las
+     intervenciones del Programa fueron relevantes en su contribución a las necesidades de
+     desarrollo del país.
+     b. Alineación estratégica
+     El programa fue consistente con los desafíos de desarrollo de productividad e innovación
+     y con el área transversal de capacidad institucional y Estado de derecho de la
+     Actualización de la Estrategia Institucional 2010-2020 (AB-3008), mediante la mejora en
+     la gestión de las finanzas públicas y la capacidad de reducción de los costos de
+     administración/transacción de los sistemas informatizados. Adicionalmente, el Programa
+     contribuyó al Marco de Resultados Corporativos 2016-2019 (GN-2727-6), mediante la
+     mejora de la gestión financiera (indicador de agencias gubernamentales beneficiadas por
+     proyectos que fortalecen los instrumentos tecnológicos para mejorar la provisión de
+     servicios). Además, el Programa es consistente con la Estrategia Sectorial sobre las
+     Instituciones para el Crecimiento y el Bienestar Social (GN-2587-2) y con el Marco
+     Sectorial de Política y Gestión Fiscal (GN-2831-3). Por último, el Programa está alineado
+     con la EBP 2007-2011 (GN-2472-2), en lo relacionado con la modernización del gobierno
+     nacional y la consolidación de los sistemas fiduciarios y de gestión, y con la EBP
+     2017-2021 (GN-2889), al contribuir a mejorar la gestión pública e incrementar el uso de
+     TI en trámites gubernamentales.
+                                                     13
+"
+"     Conclusión. De acuerdo con el análisis realizado en esta sección, se concluye que el
+     Programa fue relevante en su contribución a las estrategias de desarrollo del Banco, tanto
+     en la fase de diseño, así como durante y al final de la ejecución.
+     c. Relevancia del diseño7
+     En la fase de preparación, la DEM detalló que el Programa tenía como base un
+     diagnóstico completo del SIAF, el cual identificaba las principales deficiencias de los
+     procesos y sistemas, y la magnitud de casi todos ellos. Un análisis de costo-efectividad
+     se realizó con anterioridad al diseño del Programa para determinar el tipo de solución
+     informática a desarrollar. Cuatro opciones fueron analizadas, todas conducentes a lograr
+     los mismos resultados en términos de aumento de la eficiencia. El Programa tenía un
+     buen conjunto de indicadores para la medición de los resultados, incluyendo tres
+     indicadores relevantes del PEFA. Los productos estaban claramente establecidos. Todos
+     los indicadores eran SMART. Un indicador de resultado carecía de una línea de base
+     (número de cuentas bancarias incorporadas en la CUT). El proyecto calculaba una TIR
+     para algunos de sus componentes (CUT e integración de sistemas de información) y ésta
+     se estimaba en un 23%. La evaluación era reflexiva, pero no contaba con un plan de
+     seguimiento y evaluación específico. El Programa tampoco contaba con presupuesto para
+     el seguimiento, pero si para contratar la evaluación intermedia y final.
+     El equipo del PCR llevó a cabo un análisis ex post de la lógica vertical del Programa
+     después de su término, conforme a lo presentado a detalle en el Gráfico 1 a continuación.
+     El Gráfico 1 fue elaborado siguiendo la misma lógica y numeración de la matriz de
+     resultados aprobada con el proyecto. Los resultados y productos marcados en color
+     amarillo no se alcanzaron y los marcados en verde se alcanzaron parcialmente.
+     Conclusión. De los 15 productos financiados, solamente los productos referentes a la
+     Informatización del macroproceso de ejecución financiera, contabilidad y rendición de
+     cuentas (P1.2) y el Sistema SIGA-MEF con despliegue en versión web (P2.3) no se
+     implementaron, sin embargo, la no implementación del producto (P1.2) afectó a la
+     obtención de 2 de los 3 objetivos específicos del proyecto (OBE1 y OBE2), los cuales
+     estaban asociados a los indicadores de resultados (R2.1), (R2.2), (R2.3), (R2.4), (R2.7).
+     (R2.8), que no se cumplieron. Los 6 resultados no alcanzados estaban mayormente
+     asociados a la implementación de la contabilidad en línea, la cual formaba parte de las
+     funcionalidades del nuevo sistema. Por otro lado, el objetivo específico (OBE3) se cumplió
+     totalmente, debido a que su resultado no dependía de la implementación del producto
+     (P1.2.). En vista de esta ocurrencia, el equipo del PCR considera que la lógica vertical al
+     término de la operación se vio substancialmente perjudicada y se clasifica como
+     parcialmente insatisfactoria.
+                            Tabla 3. Resumen de clasificación de la relevancia
+       Alineación con las
+                                         Alineación                                        Clasificación de la
+        necesidades de                                             Lógica vertical
+                                         estratégica                                           relevancia
+       desarrollo del país
+         Completamente                Completamente                   Parcialmente            Parcialmente
+             alineado                      alineado                  Insatisfactoria         Insatisfactoria
+7 El Programa en la fase de preparación presentó una evaluabilidad altamente satisfactoria, conforme a lo
+  presentado en la DEM respectiva (Enlace electrónico I). El Programa recibió un puntaje general de 7,25, con
+  8,9 en la evaluación basada en pruebas y soluciones; 5,6 en el plan de evaluación y seguimiento; 7,0 en el
+  costo-beneficio o eficacia en función del costo; y 7,7 en la matriz de seguimiento de riesgos y mitigación.
+                                                          14
+"
+"                       Gráfico 1 – Lógica vertical a nivel de resultados
+             OBP– Objetivo Principal; I – Impacto; OBE – Objetivo Específico; R – Resultado; C – Componente; P – Productos
+Impacto
+                  OBP. Contribuir al aumento de la eficiencia en la gestión pública.
+                 I. Mejorar el indicador de eficiencia del Gobierno de Perú usado en la Estrategia del Banco con el País (pasar del 4º al 3º cuartil).
+             `
+                 OBE1. Aumentar la eficiencia de los procesos e
+                                                                                OBE2. Fortalecer la capacidad institucional y                     OBE3. Mejorar el proceso decisorio de asignación
+                 instrumentos de automatización de la
+                                                                                organizacional del MEF                                            de los recursos públicos
+                 preparación y ejecución financiera
+                 R2.1 Incrementar la calidad y puntualidad de los               R2.4 Aumentar los ahorros en costos de soporte
+                 informes presupuestarios del ejercicio en curso                para la operación del SIAF
+Resultados
+                 (Indicador 24 del PEFA 2009)                                   R2.5 Aumentar la cobertura de pagos del sector
+                 R2.2 Incrementar la disponibilidad de                          público                                                            R2.9 Aumentar la cobertura del PpR comparado
+                 información sobre los recursos recibidos por las               R2.6 Aumentar el % del total de cuentas bancarias                  con el total del gasto no financiero ni previsional
+                 unidades de prestación de servicios (Indicador                 incorporadas en la CUT                                             del Presupuesto del gobierno general
+                 23 del PEFA 2009)                                              R2.7 Aumentar el % de asientos contables
+                                   qq
+                 R2.3 Incrementar la gestión del saldo y                        automatizados
+                 seguimiento de los atrasos de pagos (Indicador 4               R2.8 Aumentar la oportunidad de los estados
+                 del PEFA 2009)                                                 financieros (tiempo de preparación y envío al MEF
+                                                                                de los estados financieros
+                 C1. Modernización de los procesos y sistemas de                 C2. Fortalecimiento de capacidades institucionales para            C3. Institucionalización de instrumentos de gestión
+                 gestión financiera pública                                      la gestión financiera pública                                      presupuestaria para mejorar la calidad del gasto
+                 P1.1 Informatización e implementación del
+                 macroproceso de programación presupuestaria                                                                                        P3.1 Guía metodológica para promover la
+                                                                                                                                                    reestructuración de los programas presupuestarios
+                 P1.2 Informatización del macroproceso de ejecución             P2.1 Estudios y metodologías para fortalecer las
+Productos
+                                                                                                                                                    bajo la lógica insumo-producto
+                 financiera, contabilidad y rendición de cuentas                capacidades del MEF
+                                                                                P2.2 Cursos a funcionarios del MEF en temas específicos             P3.2 Capacitación en gestión presupuestaria y PpR
+                 P1.3 Servidores
+                                                                                de manejo hacendario                                                P3.3 Estudio de evaluación de sistemas de gestión
+                 P1.4 Software de producción y manejo de datos
+                                                                                P2.3 Conversión del SIGA-MEF al despliegue en                       administrativa
+                 P1.5 Equipos informáticos                                      plataforma web                                                      P3.4 Evaluaciones de diseño, impacto y desempeño
+                 P1.6. Plataforma de e-learning implementada                    P2.4 Estudios para un sistema unificado de gestión de               realizadas y revisiones metodológicas
+                 P1.7. Metodologías en CMMI y PMMI implementadas                                           15
+                                                                                planillas de nómina y de RRHH.
+"
+"            3.2      Efectividad
+                  a. Descripción de los objetivos de desarrollo del Programa
+                  El objetivo general del proyecto fue contribuir al aumento de la eficiencia en la gestión
+                  pública. Los objetivos específicos fueron: (i) Aumentar la eficiencia de los procesos e
+                  instrumentos de automatización de la preparación y ejecución financiera, (ii) fortalecer la
+                  capacidad institucional y organizacional del Ministerio de Economía y Finanzas, (iii)
+                  mejorar el proceso decisorio de asignación de los recursos públicos.
+                  b. Resultados alcanzados
+                  Los resultados alcanzados con el Programa se presentan en la Tabla 4. Los indicadores
+                  y las metas contenidas en la matriz de resultados 2014 – 2017 son los mismos que se
+                  incluyeron al momento de aprobación del Programa.
+                                  Tabla 4. Matriz de impacto y resultados 2014 – 2017
+                                        Unidad de   Línea de             Metas                                       % de
+                                                                Año                 2014    2015    2016    2017
+     Indicadores de impacto y                                                                                                    Medios de
+            resultados                                                                                                          verificación
+                                         Medida       Base             y alcance                                    alcance
+IMPACTO
+Indicador de Eficiencia del                                      P                                          3       0%        Foro
+Gobierno del Perú usado en la          Cuartil     4    2006 P(a)                                           3                 Económico
+EBP.                                                             A                                          4                 Mundial
+RESULTADOS
+C1. Modernización de los procesos y sistemas de gestión financiera pública
+2.1 Calidad y puntualidad de los                                 P      B+                                          0%
+informes presupuestarios del        Categoría del               P(a)    B+
+                                                  C+ 2009
+ejercicio en curso (Indicador 24     indicador
+                                                                 A       -
+del PEFA 2009)
+2.2 Disponibilidad de información   Categoría del                P       C                                          0%
+                                                                                                                              Informe de
+sobre los recursos recibidos por     indicador                  P(a)     C
+                                                                                                                              evaluación
+las unidades de prestación de                      D    2009
+                                                                                                                              PEFA-2016
+servicios (Indicador 23 del PEFA                                 A       -
+2009)
+2.3    Gestión     del    saldo   y Categoría del                P      B+                                          0%
+seguimiento de los atrasos de        indicador    C+ 2009 P(a)          B+
+pagos (Indicador 4 del PEFA 2009)                                A       -
+C2. Fortalecimiento de capacidades institucionales para la gestión financiera pública
+                                                                 P                                         -19M*
+2.4 Ahorro en costos de soporte                         2010 P(a)                                          -19M*
+                                       Soles       0                                                                0%        OGTI – MEF.
+para la operación del SIAF
+                                                                 A                                          0
+                                                                        P                                   90
+2.5 Cobertura de los pagos
+                                         %          30         2009    P(a)                                 90     46.7%      OGTI – MEF.
+electrónicos del sector público
+                                                                        A                                   58
+                                                                        P           95
+2.6 Porcentaje del total de cuentas
+                                         %           0         2010    P(a)         95                             94.7%      DGTP – MEF.
+bancarias incorporadas en la CUT
+                                                                        A           90      -       -      90%
+                                                                        P          100
+2.7 Porcentaje de asientos
+                                         %           0         2009    P(a)        100                              0%        DGCP – MEF.
+contables automatizados
+                                                                        A          0.10    0.10    0.10    0.10
+2.8 Oportunidad de los estados                                          P           15
+financieros      (tiempos      de                                      P(a)        15
+preparación y envío al MEF de los
+                                        días        30         2009                                                 0%        DGCP – MEF.
+estados financieros intermedios y
+anuales)                                                                   A       30      30      30       30
+C3. Institucionalización de instrumentos de gestión presupuestaria para mejorar la calidad del gasto
+2.9 Cobertura de PpR comparado                                                                                                Dirección de
+                                        %          13   2009     P             38                                  100%
+con el total del gasto no financiero                                                                                          Calidad del
+                                                                      16
+"
+"                                          Unidad de     Línea de             Metas                                      % de
+                                                                    Año                 2014    2015    2016    2017
+     Indicadores de impacto y                                                                                                      Medios de
+            resultados                                                                                                            verificación
+                                           Medida         Base             y alcance                                   alcance
+ni previsional del presupuesto del                                                                                               Gasto Público
+gobierno general                                                           P(a)                38                                – MEF.
+                                                                               A       58.2    66.6    70.9    71.6
+            Fuente: Convergencia.
+            */ M = millones.
+                                Tabla 5. Contribución de los productos al logro de los resultados
+                                           P            A
+     PMR          Indicadores            (EOP)        (EOP)                                      Productos asociados
+     C1. Modernización de los procesos y sistemas de gestión financiera pública
+            Calidad y puntualidad de
+                                                                   Aunque fue llevado a cabo una evaluación PEFA en 2016, el informe no
+            los informes
+                                                                   fue aprobado y hecho disponible por el MEF, por lo tanto, no se pudo
+            presupuestarios del            B+           0%
+      2.1                                                          evaluar estos resultados. A pesar de no contar con la evaluación del PEFA,
+            ejercicio en curso           (2009)       (2017)
+                                                                   el equipo del PCR constató que hubo mejoras en el indicador, pero no fue
+            (indicador 24 del PEFA
+                                                                   posible precisar de acuerdo con la metodología PEFA.
+            2009)
+            Disponibilidad de
+            información sobre los                                  Aunque fue llevado a cabo una evaluación PEFA en 2016, el informe no
+            recursos recibidos por las     C            0%         fue aprobado y hecho disponible por el MEF, por lo tanto, no se pudo
+      2.2
+            unidades de prestación       (2009)       (2017)       evaluar estos resultados. A pesar de no contar con la evaluación del PEFA,
+            de servicios (indicador 23                             el equipo del PCR constató que no hubo cambio en la clasificación.
+            del PEFA 2009)
+            Gestión del saldo y                                    Aunque fue llevado a cabo una evaluación PEFA en 2016, el informe no
+            seguimiento de los                                     fue aprobado por el MEF, por lo tanto, no se pudo evaluar estos resultados.
+                                           B+           0%
+      2.3   atrasos de pagos                                       A pesar de no contar con la evaluación del PEFA, el equipo del PCR
+                                         (2009)       (2017)
+            (indicador 4 del PEFA                                  constató que hubo mejoras en el indicador, pero no fue posible precisar de
+            2009)                                                  acuerdo con la metodología PEFA. mejoras en el indicador.
+     C2. Fortalecimiento de capacidades institucionales para la gestión financiera pública
+                                                                   El resultado no fue alcanzado. Este resultado dependía de la implantación
+            Ahorro en costos de       SL$ 19
+                                                        0          total y completa del nuevo sistema, el cual sería basado en una plataforma
+      2.4   soporte para la operación millones
+                                                      (2017)       web y con esto no se necesitaría más de los aproximadamente 110
+            del SIAF                  (2010)
+                                                                   especialistas que proveen soporte a las Unidades Ejecutoras.
+                                                                   El resultado fue alcanzado parcialmente. La OGTI llevó a cabo un
+                                                                   relevamiento en las bases de datos del SIAF 1 respecto el avance de los
+                                                                   pagos electrónicos en el periodo 2011-2018, el cual presentó un aumento
+                                                                   de 30% a 58%, representando un aumento de 46,7% en relación con la
+            Cobertura de los pagos                                 meta de planificada de 90%. Este resultado está directamente asociado a
+                                          30%          58%
+      2.5   electrónicos del sector                                los productos (P2.1) y (P2.2), que contemplaron la modernización de la
+                                         (2009)       (2017)
+            público                                                DGTP a través de estudios, metodologías y capacitaciones. También se
+                                                                   puede atribuir a que el proyecto contribuyó al aumento de la capacidad de
+                                                                   almacenamiento y procesamiento del MEF, lo que permitió aumentar la
+                                                                   capacidad para realizar pagos electrónicos. Importante mencionar que
+                                                                   este resultado no dependía de la implementación del nuevo sistema SIAF.
+                                                                   El resultado fue parcialmente alcanzado. De acuerdo con información
+                                                                   provista por la Dirección General del Tesoro Público (DGTP), todavía
+            Porcentaje del total de                                existe uno 10% de recursos que son gestionados por fuera de la CUT. Esto
+                                           0%          90%
+      2.6   cuentas bancarias                                      representó un aumento de 94.7%. Este resultado está directamente
+                                         (2010)       (2017)
+            incorporadas en la CUT                                 asociado a los productos (P2.1) y (P2.2), que contemplaron la
+                                                                   modernización de la DGTP a través de estudios, metodologías y
+                                                                   capacitaciones.
+            Porcentaje de asientos       100%           0%         El resultado no fue alcanzado, aunque el SIAF-SP cuente con la capacidad
+      2.7
+            contables automatizados      (2009)       (2017)       de ejecutar los asientos contables de forma automática, esto no es posible
+                                                                          17
+"
+"                                             P        A
+     PMR            Indicadores           (EOP)    (EOP)                                Productos asociados
+                                                             porque la clasificación presupuestaria, el plan de cuentas y los catálogos
+                                                             de bienes y servicios no están armonizaos, por lo tanto, para cada
+                                                             transacción realizada es necesarios la intervención de un funcionario con
+                                                             conocimientos contables para informar las cuentas de débito y crédito
+                                                             referentes a la transición realizada.
+            Oportunidad de los
+            estados financieros
+                                                             El resultado no fue alcanzado. Este resultado estaba mayormente
+            (tiempos de preparación       15 días    0%
+      2.8                                                    asociado a la implementación de la contabilidad en línea a ser incorporada
+            y envío al MEF de los         (2009)   (2017)
+                                                             en el nuevo sistema SIAF II (P1.2).
+            estados financieros
+            intermedios y anuales)
+     C3. Institucionalización de instrumentos de gestión presupuestaria para mejorar la calidad del gasto
+                                                             El resultado fue alcanzado. De acuerdo con información provista por la
+                                                             Dirección de Calidad del Gasto Público (DCGP) el presupuesto por
+                                                             resultados ha tenido una tendencia ascendente como porcentaje del
+            Cobertura de PpR                                 presupuesto general, excluyendo pensiones, deuda y reservas de
+            comparado con el total                           contingencia. El alcance de este resultado está asociado a los 4 productos
+            del gasto no financiero ni     38%      100%     del componente III: (P3.1) guía metodológica para promover la
+     2.9
+            previsional del               (2009)   (2017) reestructuración de los programas presupuestarios bajo la lógica insumo-
+            presupuesto del gobierno                         producto; (P3.2) capacitación en gestión presupuestaria y PpR; (P3.3)
+            general                                          estudio de evaluación de sistemas de gestión administrativa; y (P3.4)
+                                                             evaluaciones de diseño, impacto y desempeño realizadas y revisiones
+                                                             metodológicas. Importante mencionar que este resultado no dependía de
+                                                             la implementación del nuevo sistema SIAF.
+            Fuente: Convergencia.
+                 De acuerdo con los cálculos efectuados en el checklist, los resultados fueron clasificados
+                 como insatisfactorios. El objetivo específico 1 obtuvo una clasificación insatisfactoria, el
+                 objetivo específico 2 insatisfactoria y el objetivo específico 3 excelente. La media de los
+                 grados de alcance de 3 objetivos específicos para los indicadores de resultado fue de
+                 42.8% (0%,28% y 100%, respectivamente).
+                                                     Tabla 6. Matriz de productos 2014 – 2017
+                                    Línea               Metas
+Indicadores de        Unidad de                                                                                                 Medios de
+                                       de      Año        y                            % alcance                      Año
+   resultados          medida                                                                                                  verificación
+                                     base              alcance
+Componente I. Modernización de los procesos y sistemas de gestión financiera pública
+1.1                                                   P       1
+Macroproceso                                        P(a)      1
+de
+                                                                                                                               Informe
+programación           Sistemas         0     2010                                        100%                        2014
+                                                                                                                               MEF
+presupuestaria                                        A       1
+informatizado e
+implementado
+1.2                                                   P       1
+Macroproceso                                        P(a)      1
+de      ejecución
+financiera,
+                                                                                                                               Informe
+contabilidad y         Sistemas         0     2010                                         0%8                        2017
+                                                                                                                               MEF
+rendición      de                                     A     0.0
+cuentas,
+informatizado e
+implementado
+1.3 Servidores                                        P     12
+                                                                                                                               Informe
+adquiridos y/o        Servidores        0     2010 P(a)     27                             96%                        2014
+                                                                                                                               MEF
+repotenciados                                         A     26
+                      Softwares         0     2010    P       9                           100%                        2015
+            8   Es importante destacar que, con el Programa, se elaboró el modelo conceptual y la descripción funcional de
+                los procesos de ejecución financiera, contabilidad y rendición de cuentas, pero no llegaron a informatizarse
+                dichos procesos en el nuevo SIAF. Por decisión del Gobierno, algunas de las mejoras identificadas en los
+                procesos fueron implementadas en el sistema existente (SIAF-SP).
+                                                                   18
+"
+"                                                 Tabla 6. Matriz de productos 2014 – 2017
+                                 Línea             Metas
+Indicadores de     Unidad de                                                                                       Medios de
+                                   de     Año        y                         % alcance                     Año
+   resultados       medida                                                                                        verificación
+                                  base            alcance
+1.4 Softwares                                   P(a)    38
+de producción y
+                                                                                                                  Informe
+de manejo de
+                                                 A      38                                                        MEF
+datos
+adquiridos
+1.5 Equipos                                      P     600
+informáticos                                    P(a)   127                                                        Informe
+                    Equipos         0    2010                                    100%                        2014
+adquiridos y                                                                                                      MEF
+                                                 A     144
+operativos
+1.6 Plataforma                                   P       1
+                                                                                                                  Informe
+de e-learning       Sistema         0    2010 P(a)       1                       100%                        2016
+                                                                                                                  MEF
+implementada                                     A       1
+1.7                                              P       1
+Metodologías                                    P(a)     1
+                                                                                                             2017 Informe
+en CMMI y            Estudio        0    2010                                    100%
+                                                                                                                  MEF
+PMMI                                             A       1
+implementadas
+Componente II. Fortalecimiento de capacidades institucionales para la gestión financiera pública
+2.1 Estudios y                                   P      11
+metodologías                                    P(a)     3
+para fortalecer
+                                                                                                                  Informe
+capacidades en      Estudios        0    2010                                    100%                        2015
+                                                                                                                  MEF
+el MEF                                           A       7
+elaboradas y
+aprobadas
+2.2 Cursos a                                     P     290
+funcionarios del                                P(a)     5
+MEF en temas
+específicos de
+manejo
+hacendario           Cursos                                                                                       Informe
+                                    0    2010                                     60%                        2015
+(tesorería,        realizados                                                                                     MEF
+                                                 A       3
+contabilidad,
+deuda pública,
+presupuesto y
+recursos
+públicos)
+2.3 Sistema                                      P       1
+SIGA-MEF con                                    P(a)     0
+despliegue en
+versión web e
+                                                                                                                  Informe
+interfaces con      Sistemas        0    2010                                     0%                         2017
+                                                                                                                  MEF
+el nuevo SIAF                                    A       0
+desarrollado y
+listo para
+operar
+2.4 Estrategia                                   P       1
+para la                                         P(a)     1
+implantación de
+un nuevo
+sistema de
+gestión de
+                                                                                                                  Informe
+planillas de       Estrategia       0    2010                                    100%                        2014
+                                                                                                                  MEF
+nómina y de                                      A       2
+RRHH en los
+pliegos y
+entidades
+públicas
+elaboradas
+Componente III. Institucionalización de instrumentos de gestión presupuestaria para mejorar la calidad del gasto
+3.1 Guía              Guía                       P       3                                                        Informe
+                                    0    2010                                     50%                        2014
+metodológica      metodológica                  P(a)     2                                                        MEF
+                                                             19
+"
+"                                                 Tabla 6. Matriz de productos 2014 – 2017
+                                  Línea            Metas
+Indicadores de       Unidad de                                                                               Medios de
+                                    de   Año         y                      % alcance                 Año
+   resultados          medida                                                                               verificación
+                                   base           alcance
+para promover
+la
+reestructuración
+de los
+programas
+                                                 A        1
+presupuestales
+bajo la lógica
+del insumo-
+producto
+elaborada
+3.2                                              P      390
+Funcionarios                                    P(a)   1,845
+capacitados en
+                    Funcionarios                                                                            Informe
+gestión                              0   2010                                  84%                    2015
+                    capacitados                                                                             MEF
+presupuestaria                                   A     1,541
+y presupuesto
+por resultados
+3.3 Estudio de                                   P        1
+evaluación de                                   P(a)      1
+sistemas de                                                                                                 Informe
+                       Estudio       0   2010                                  100%                   2015
+gestión                                                                                                     MEF
+administrativa                                   A        2
+realizado
+3.4                                              P        4
+Evaluaciones                                    P(a)     14
+de diseño,
+impacto y                                                                                                   Informe
+                    Evaluaciones     0   2010                                  100%                   2015
+desempeño                                                                                                   MEF
+realizadas y                                     A       14
+revisiones
+metodológicas
+     Fuente: Convergencia.
+                La media general de los indicadores de productos de los 3 objetivos específicos es 79.3%,
+                que la clasifica como parcialmente insatisfactoria.
+                Conclusión. La efectividad fue clasificada como Insatisfactoria, de acuerdo con los
+                resultados de los objetivos específicos a continuación:
+                     •    Objetivo específico 1. Aumentar la eficiencia de los procesos e instrumentos de
+                          automatización de la preparación y ejecución financiera – Insatisfactorio.
+                     •    Objetivo específico 2. Fortalecer la capacidad institucional y organizacional del
+                          MEF – Insatisfactorio.
+                     •    Objetivo específico 3. Mejorar el proceso decisorio de asignación de los recursos
+                          públicos – Excelente.
+                c. Análisis contrafactual
+                El diseño original del Programa no contempló evaluaciones de impacto ex ante o ex post.
+                Por esa razón, es importante destacar que no existen en la actualidad evaluaciones de
+                impacto sobre los beneficios del SIAF. Además, la evaluación económica se refiere
+                principalmente a los beneficios de la CUT y la programación de caja. Sin embargo, existe
+                una amplia bibliografía sobre los beneficios de fortalecer las instituciones de finanzas
+                públicas, entre los cuales destacan: Reforming public institutions and strengthening
+                governance (Banco Mundial, 2019), Fiscal institutions and fiscal performance (Poterba,
+                James M. y Jürgen von Hagen, 1999), The devil is in the details: The successes and
+                limitations of bureaucratic reform in India (Dhaliwa, Iqbal l, and Rema Hanna, 2017) y
+                                                             20
+"
+"     Budget institutions and fiscal performance in Latin America (Alesina, A., et al., 1999)9.
+     Estos trabajos afirman que la efectividad y eficiencia de las instituciones de finanzas
+     públicas mejora cuando se eliminan una serie de restricciones a través del fortalecimiento
+     de capacidades de los empleados públicos (2.5, 2.6 y 2.9), el acceso a las tecnologías de
+     información (resultados 2.2, 2.3) y el fortalecimiento de los marcos normativos (2.9).
+     d. Resultados imprevistos
+     El resultado imprevisto más relevante está asociado con el producto (P1.2),
+     macroprocesos de ejecución financiera, contabilidad y rendición de cuentas (SIAF II), el
+     cual permitió el diseño del modelo conceptual y descripción funcional de los procesos, sin
+     embargo, estos no llegaron a implementarse en el nuevo SIAF debido a que el tiempo y
+     los recursos financieros se agotaron. El proyecto solicito dos extensiones que fueron
+     aprobadas por el Banco, pero dado los problemas de gobernanza no se pudo generar
+     consensos sobre los TDRs de este módulo con los OR’s. Por otro lado, los problemas de
+     gobernanza y de cambio de modelos de gestión descritos en este documento llevó a la
+     UE a utilizar fondos asignados para financiar otras actividades y productos, y asignarlos
+     a la finalización del módulo de programación presupuestaria y a financiar las diferentes
+     versiones de TDRs que solicitaban los ORs para aprobar los TDRs de los procesos y el
+     módulo de ejecución presupuestaria. La utilización de otros fondos, llevo a que el Proyecto
+     para el año 2016, no tuvieron suficientes fondos para cumplir con la regla del Banco que
+     indica que todas las licitaciones deben de demostrar que tienen fondos para cubrir su
+     realización. Esta decisión del Banco fue justificada a través de un estudio de costo que el
+     Banco financio en enero 2016.10 Debido a las necesidades de mejora existentes en los
+     procedimientos, el MEF aprovechó las recomendaciones propuestas en las
+     especificaciones técnicas de los procesos que se elaboraron con el Programa e introdujo
+     mejoras en los procedimientos de registro de la información en el sistema existente (SIAF-
+     SP).
+3.3       Eficiencia
+     En la Tabla 7 se detallan los costos del Programa por componente y el aporte del
+     Gobierno. El Programa tuvo un costo total de US$20.362.813,69, de los cuales 81% se
+     cubrió con recursos del préstamo (US$ 16.496.807.70) y 19% con fondos de contrapartida
+     local (US$3.866.055,99). El componente 1 representó el 69% de los recursos del
+     préstamo, debido a que contempló la informatización de los 4 macroprocesos de gestión
+     financiera (programación presupuestaria, ejecución financiera, contabilidad y rendición de
+     cuentas), la implementación del módulo de programación presupuestaria del nuevo SIAF
+     y el fortalecimiento de la infraestructura tecnológica del MEF. Aunque 3 de los 4
+     macroprocesos no llegaron a implementarse en el nuevo SIAF, se logró aprobar el modelo
+     conceptual y descripción funcional de dichos procesos.
+     Es importante destacar que el Programa inició su ejecución en abril de 2011 y en
+     septiembre del mismo año el Gobierno solicitó un cambio en el mecanismo de ejecución,
+     el cual afectó el alcance, tiempo y presupuesto originalmente planificado. En la aprobación
+     del Programa, el Banco y el MEF acordaron un mecanismo de ejecución tradicional,
+     donde la Unidad de Coordinación y Planificación Sectorial (UCPS) sería la entidad
+     responsable de la administración del proyecto ante el Banco. En septiembre de 2011, a
+     solicitud del Gobierno y en el marco de una misión de administración, se creó el EE
+     compuesto por especialistas externos funcionales, tecnológicos y administrativos,
+     dedicados exclusivamente a la gestión integral del Programa. Pese a que el EE tomó
+     decisiones importantes, no fue capaz de llevar a cabo la ejecución del Programa conforme
+     a lo planificado.
+9
+    También merecen ser mencionados Arenas de Mesa, 2016 y Finan et al., 2017.
+10
+   “Costos de implementación del macroproceso de Ejecución Fiscal y Rendición de Cuentas, la cual fue
+   realizada en mayo de 2016, por el consultor Marcelo López
+                                                       21
+"
+"         En febrero de 2016, la evaluación intermedia del Programa identificó factores críticos
+         negativos (se había consumido 81% del tiempo y 65% de los recursos del Programa, con
+         un valor ganado de apenas 44%) e informó que para terminar el proyecto conforme a lo
+         planificado era necesario ampliar el tiempo de ejecución y los recursos financieros. Con
+         base en dicha evaluación, el Banco tomó la decisión de no autorizar nuevos compromisos
+         financieros y desembolsar únicamente los recursos ya comprometidos.
+                                          Tabla 7. Costos del Programa (US$)
+                                     Componentes                                  Aporte del Banco    Aporte Local
+            Componente 1. Modernización de los procesos y sistemas de                      11.432.932        2,937,736
+            gestión financiera pública (A)
+            Componente 2. Fortalecimiento de capacidades                                    1.458.035          137,295
+            institucionales para la gestión financiera pública (A)
+            Componente 3. Institucionalización de instrumentos de                           2.587.210            79,942
+            gestión presupuestaria para mejorar la calidad del gasto (A)
+            Ejecución administrativa y financiera del programa (A)                          1.018.631          707,760
+                             Costos totales por fuente de financiamiento                   16.496.808        3,862,733
+                                                  Costo total del Programa                                  20.359,541
+           Fuente: WLMS.
+         El Programa incluyó en su diseño original una evaluación económica ex ante, la cual
+         consideró en su análisis el resultado (R2.4) - ahorro en los costos de soporte para la
+         operación del SIAF. Esta evaluación ex ante estimó que, en el séptimo año a partir del
+         inicio en la ejecución del Programa, los beneficios estarían generando una TIR de 23%
+         con un valor presente neto (VPN) de aproximadamente US$ 6 millones, utilizando una
+         tasa de descuento de 11%.
+         Debido a que el producto (P1.2) - macroprocesos de ejecución financiera, contabilidad y
+         rendición de cuentas - no fue implementado, el equipo del PCR realizó una nueva
+         evaluación económica expost utilizando el indicador aumento de la cobertura de los pagos
+         electrónicos (R2.5). Con base en información provista por un artículo publicado en el Wall
+         Street Journal denominado “U.S. Companies Cling to Writing Paper Checks”, se calculó
+         el ahorro para el gobierno por cada cheque transformado en electrónico. Conforme la
+         Tabla 8 a continuación, se estimó que el gobierno puede generar un ahorro de US$1.2675
+         por cheque.
+                                Tabla 8 - Calculo del Ahorro con el pago electrónico (US$)
+                                                                                                         Costos de pagos
+                                                              Costos de los cheques físicos
+                                                                                                            electrónico
+                                                                                   Costo                              Costo
+                                                              Costo promedia                    Costo
+Costos de trabajo                                 N. horas                       promedio             N. horas      promedio
+                                                                   1 hora                       anual
+                                                                                 mensual                            mensual
+Producción de cheques (+archivos de copia)           41              15             615         7380    20.5          307.5
+Preparación de correos                                8              15             120         1440      0              0
+Conciliación de cheques                               4              15              60          720      0              0
+Responder a cheques/pagos perdidos                    8              15             120         1440      4             60
+Control / Supervisión CFO                             8              15             120         1440      4             60
+Otros                                                 4              15              60          720      2             30
+                                                                                   Costo                              Costo
+                                                                                                Costo  Costo
+Costos de envío                                   Cantidad     Costo unitario    promedio                           promedio
+                                                                                                anual unitario
+                                                                                 mensual                            mensual
+Envío postal                                        1000            0.47            470         5640      0              0
+                                                                                   Costo                              Costo
+                                                                                                Costo  Costo
+Costos de materiales                              Cantidad     Costo unitario    promedio                           promedio
+                                                                                                anual unitario
+                                                                                 mensual                            mensual
+Cheques físicos                                     1000            0.08             80          960      0              0
+Sobres                                              1000            0.05             50          600      0              0
+Fotocopia del cheque                                1000            0.03             30          360      0              0
+                                                                                   Costo                              Costo
+                                                                                                Costo
+                                                  Cantidad                       promedio                           promedio
+                                                                                                anual
+                                                                                 mensual                            mensual
+Costos bancarios                                    1000                            810         9720                   810
+Costo Promedio Mensual                                                             2.535                             1.2675
+Fuente: Propia
+                                                               22
+"
+"           Con base en este ahorro, se relevó la información sobre la evolución de los cheques
+           electrónicos emitidos por el SIAF de Perú entre 2009-2018, conforme Tabla 9 a
+           continuación, y se estimó el beneficio económico generado en un horizonte de 20 años a
+           partir del inicio del proyecto. Se consideró de forma bastante conservadora que la
+           atribución del beneficio al proyecto fue de apenas 33.333%. Conclusión - con el aumento
+           de los pagos electrónicos, al final de 20 años, el proyecto producirá una Tasa Interna de
+           Retorno (TIR) de 8%, lo que hace la clasificación de la eficiencia del proyecto de
+           parcialmente insatisfactoria.
+                                                             Tabla 9- Análisis Económico Exost (US$)
+                                                                  Tasa Interna de Retorno = 12%
+                                                                     Cálculo del Retorno                          Evolución Pagos electrónicos
+                           Benefícios Pagos Costos del                             Valor     Tasa
+              Año                                          Valor       Valor     Presente Interna de     Pagos
+                             Electrónicos    Proyecto                                                                Diferencia   Acumulado    Benefício
+                                                         Corriente   Presente      Neto     Retorno Electronicos
+                                                                                  (VPN)      (TIR)
+          2009      0                     0            0           0          0          0
+          2010      1                     0            0           0          0          0
+          2011      2                     0      92,250      92,250     73,541           0               2,278,921
+          2012      3                     0   1,527,000   1,527,000 1,086,888      932,123        0%     2,279,450
+          2013      4              187,735    6,077,725   5,889,990 3,743,195 3,596,455           0%     2,720,834       441,384       441,384    187,735
+          2014      5              413,284    6,162,033   5,748,749 3,261,995 5,669,511           0%     3,251,121       530,287       971,671    413,284
+          2015      6              633,562    3,936,810   3,303,248 1,673,528 6,619,116           0%     3,769,017       517,896     1,489,567    633,562
+          2016      7            1,209,270    1,912,060     702,790    317,906 6,780,177          0%     5,122,562     1,353,545     2,843,112  1,209,270
+          2017      8            1,743,966      962,948    -781,017   -315,440 6,637,488          0%     6,379,683     1,257,121     4,100,233  1,743,966
+          2018      9            2,355,508             0 -2,355,508   -849,420 6,294,422          0%     7,817,479     1,437,796     5,538,029  2,355,508
+          2019      10           2,432,612             0 -2,432,612   -783,236 6,011,979        -22%     7,998,758       181,279     5,719,308  2,432,612
+          2020      11           2,511,504             0 -2,511,504   -721,997 5,779,515        -14%     8,184,240       185,482     5,904,790  2,511,504
+          2021      12           2,592,225             0 -2,592,225   -665,360 5,588,240         -8%     8,374,023       189,783     6,094,573  2,592,225
+          2022      13           2,674,818             0 -2,674,818   -612,999 5,430,899         -4%     8,568,207       194,184     6,288,757  2,674,818
+          2023      14           2,759,326             0 -2,759,326   -564,613 5,301,504         -1%     8,766,895       198,687     6,487,445  2,759,326
+          2024      15           2,845,794             0 -2,845,794   -519,916 5,195,119          1%     8,970,189       203,294     6,690,739  2,845,794
+          2025      16           2,934,267             0 -2,934,267   -478,643 5,107,673          3%     9,178,198       208,009     6,898,748  2,934,267
+          2026      17           3,024,792               -3,024,792   -440,544 5,035,810          5%     9,391,030       212,832     7,111,580  3,024,792
+          2027      18           3,117,416               -3,117,416   -405,387 4,976,768          6%     9,608,797       217,767     7,329,347  3,117,416
+          2028      19           3,212,187               -3,212,187   -372,957 4,928,269          7%     9,831,615       222,817     7,552,165  3,212,187
+          2029      20           3,496,552               -3,496,552   -362,476 4,886,183          8%   10,059,599        668,569     8,220,734  3,496,552
+         Acumulado              11,487,442   20,670,826   9,183,384 7,486,960                        Ahorro por Cheque                   1.276
+         Fuente: Calculos Própios                                                                    Atri buci ón                 0.333333333
+       3.4        Sostenibilidad
+           a. Aspectos generales de la sostenibilidad
+           En la Tabla 10 a continuación se analizan los riesgos de sostenibilidad asociados a los 9
+           resultados del Programa.
+                  Resultados alcanzados                                                       Sostenibilidad y Mitigación
+1.1 Calidad y puntualidad de los informes                               No alcanzado.
+presupuestarios del ejercicio en curso (Indicador 24 del
+PEFA 2009)
+1.2 Disponibilidad de información sobre los recursos                    No alcanzado.
+recibidos por las unidades de prestación de servicios
+(Indicador 23 del PEFA 2009)
+1.3 Gestión del saldo y seguimiento de los atrasos de                   No alcanzado.
+pagos (Indicador 4 del PEFA 2009)
+                                                                          23
+"
+"                 Resultados alcanzados                                          Sostenibilidad y Mitigación
+2.1 Ahorro en costos de soporte para la operación del        No alcanzado.
+SIAF
+2.2 Cobertura de los pagos electrónicos del sector           Este resultado fue parcialmente alcanzado; sin embargo, existe una
+público                                                      probabilidad muy alta que continúe mejorando. La OGIP informó que
+                                                             están en discusión alternativas de pagos para substituir los cheques
+                                                             en papel.
+2.3 Porcentaje del total de cuentas bancarias                Alcanzado parcialmente. 90% de los recursos del presupuesto del
+incorporadas en la CUT                                       gobierno central y subnacional son gestionado a través de la CUT.
+                                                             Los recursos que no se encuentran en la CUT son principalmente de
+                                                             las regalías del canon mineros recibos por los gobiernos
+                                                             subnacionales. Es baja la probabilidad de que ocurra deterioro en los
+                                                             avances de la CUT.
+2.4 Porcentaje de asientos contables automatizados           No alcanzado.
+2.5 Oportunidad de los estados financieros (tiempos de       No alcanzado
+preparación y envío al MEF de los estados financieros
+intermedios y anuales)
+3.1 Cobertura de PpR comparado con el total del gasto        Esta actividad está institucionalizada y la tendencia es que se
+no financiero ni previsional del presupuesto del gobierno    incremente a nivel de todo el gobierno general.
+general
+           b. Salvaguardias ambientales y sociales
+           Por sus características de desarrollo de sistemas y fortalecimiento institucional, la
+           operación fue calificada como C, de conformidad con la Política OP-703 de Medio
+           Ambiente y de Cumplimiento de Salvaguardias. Por tal razón, no fue necesario elaborar
+           un plan para mitigar y monitorear el impacto ambiental de la operación.
+           En cuanto a los riesgos de sostenibilidad de los resultados del proyecto, de acuerdo con
+           la Tabla 10, el equipo de proyecto considera que la clasificación es excelente, debido a
+           que de los 3 resultados alcanzados todos tienen baja probabilidad de deterioro.
+                                       Tabla 11. Clasificación de la sostenibilidad (peso 20%)
+                                         De los 3 resultados alcanzados (1 totalmente y 2 parcialmente) todos
+                   Parcialmente
+                                         tienen baja probabilidad de deterioro. Los 6 otros resultados no fueron         4
+                  Insatisfactoria
+                                         alcanzados.
+       3.5      Clasificación total
+                                                         Tabla 12. Clasificación total
+                                              Criterios centrales
+                                                                                                      Total
+                  Relevancia           Efectividad          Eficiencia        Sostenibilidad
+                                                           Parcialmente                           Parcialmente
+                 Satisfactoria        Insatisfactoria                            Excelente
+                                                          Insatisfactoria                           no exitosa
+        IV.      CRITERIOS NO CENTRALES
+       4.1      Desempeño del Banco
+       El Banco enfrentó dos retos importantes para la gestión del proyecto: (i). El cambio en el
+       esquema de ejecución en 2011, acordado con el Banco, con la sustitución de la Unidad de
+       Coordinación por un Equipo Ejecutor (EE) reportando directamente al Comité SIAFI, ha hecho
+       que este EE tuviera gran poder de decisión en temas técnicos y en contratación de
+       consultores, en vista de que como el comité no era técnico, aprobaba todas las decisiones
+       del EE. Esto disminuyó considerablemente la participación del Banco en las decisiones
+       técnica del proyecto; y (ii) Con la intensificación en 2014 de los temas referentes a la
+       tecnología de información referente principalmente al desarrollo e implementación de los
+       productos (P1.1) y (P1.2), obligó al Banco a tener que buscar apoyo tecnológico con
+       consultores especializados para poder garantizar que el diseño y cálculos de los costos de
+       cada producto a ser licitado estaban siendo realizados de forma correcta.
+                                                               24
+"
+" En este contexto, en el periodo 2011-2104, la supervisión del Banco se llevó a cabo a través
+ de misiones de administración tradicionales, en las cuales en 2012 ya se percibía que los
+ problemas de gobernanza y de conocimiento tecnológico podrían tener impactos en el
+ alcance de los objetivos de desarrollo del proyecto. A pesar de esto, los acuerdos firmados
+ en estas misiones no tuvieron el éxito esperado para mitigar los eminentes problemas.
+ En mediados de 2014, en vista de que ya no se tenía la visión precisa de que los fondos y
+ tiempos remanecientes serían suficientes para concluir el proyecto, el Banco financia una
+ consultoría (William Inafuku, Víctor Shiguiyama y Jesús Farfán), que constató que se habían
+ utilizado fondos de otros productos para financiar varias versiones del módulo de
+ programación presupuestaria, lo que perjudicó, por ejemplo, el desarrollo e implementación
+ de los macroprocesos presupuestarios. En 2016, el Banco financió una nueva consultoría
+ (consultor Marcelo López) para llevar a cabo una estimación de costos para la
+ implementación del macroproceso de Ejecución Fiscal y Rendición de Cuentas, la cual calculó
+ que serían necesarios US$ 9.6 millones y un periodo de ejecución de 24 meses.
+ Adicionalmente, en el periodo 2014-2016, el Banco con fondos del presupuesto de
+ administración de proyectos y otros fondos de FMM, contrata a un tecnólogo para realizar
+ una evaluación técnica de todos los productos tecnológicos; sin embargo, debido a los
+ problemas de gobernanza que se agravaban, el rol del consultor fue limitado. Asimismo, a
+ solicitud del MEF, el Banco con fondos de la operación, contrata otro consultor especializado
+ (Mauro Fridman) que genera un reporte sobre las diferentes opciones para proseguir con el
+ proyecto.11 En esta última etapa del proyecto, el Banco logra un dialogo fluido a nivel de las
+ autoridades del MEF, y con base en este estudio el gobierno decide replantear el modelo
+ conceptual del SIAF en Perú. Con esto, el MEF vuelve a centrarse en los temas funcionales
+ y entender que la tecnología es un complemento de la modernización. Así, se logra también
+ incorporar al diseño el tema de modernización organizacional y sus implicaciones de
+ interoperabilidad.
+ Con base en consultas realizadas por el equipo a cargo del PCR a los funcionarios públicos
+ y funcionarios del Banco involucrados en la implementación del Programa, se constató que
+ el desempeño del Banco fue moderadamente insatisfactorio por las siguientes razones:
+ (i) con respecto a la identificación, preparación y aprobación del Programa, el desempeño del
+ Banco se clasifica como satisfactorio, debido a que se cumplió sin mayores dificultades con
+ las diferentes etapas hasta el arranque de la ejecución de la operación; y (ii) con respecto a
+ la supervisión, el desempeño del Banco se clasifica como moderadamente insatisfactorio,
+ dado que, a pesar de haber señalado oportunamente al ejecutor los riesgos que implicaba el
+ cambio en el mecanismo de ejecución del proyecto que se produjo en 2011, no logró ser
+ escuchado en la medida necesaria para ayudar a prevenir sus consecuencias. Sumado a
+ esto, si bien la decisión de fortalecer la supervisión de la ejecución del proyecto a través de
+ la contratación de expertos externos en tecnología y en sistemas informáticos fue muy
+ acertada, se tomó recién en el cuarto de los cinco años de extensión inicialmente previstos
+ para la ejecución de la operación.
+ Si bien, en base a la evaluación de medio término del Programa, que demostraba que el
+ Proyecto tenía un alto porcentaje de ejecución financiera de alrededor 70%, un valor ganado
+ menor alrededor del 40%, en el penúltimo año de la ejecución del Proyecto, el Banco tomó
+ la decisión de no autorizar nuevos compromisos financieros y desembolsar únicamente los
+ recursos ya comprometidos; la decisión fue tomada de forma tardía, ya que se habían
+ consumido buena parte de los recursos y tiempo del Programa.
+11
+    Descripciones definidas en informe del consultor Mauro Fridman - \"Evaluación Situacional del Proyecto
+   \"Modernización del Sistema de Administración Financiera Pública para Mejorar la Programación, Ejecución y
+   Rendición de Cuentas de los Recursos Públicos\"- Contrato de Préstamo N° 2445/0C-PE y la Formulación de una
+   Propuesta de Estrategia que permita la Continuidad del Proyecto - Consultor Funcional
+                                                       25
+"
+"        4.1       Desempeño del Organismo Ejecutor
+            Inicialmente, el Banco y el MEF acordaron un mecanismo de ejecución tradicional, donde
+            la Unidad de Coordinación y Planificación Sectorial (UCPS) sería la entidad responsable
+            de la administración del proyecto ante el Banco. Además, el Programa contempló el Comité
+            de Coordinación de la Administración Financiera del Sector Público (SAFI) para integrar
+            las acciones de los Órganos Rectores (ORs) del MEF, así como para la aprobación de los
+            planes operativos anuales (POA). La ejecución fue llevada a cabo por un Equipo Ejecutor
+            (EE), compuesto 100% por consultores externos, al cual se le otorgaron responsabilidades
+            y poder de decisión que trascendía su capacidad y alcance, principalmente por la ausencia
+            de representantes de los ORs en su conformación para llevar a cabo la ejecución del
+            Programa / reforma conforme a lo planificado. Esta decisión debilitó la gobernanza del
+            Programa. Además, el EE no contó con un Plan Estratégico, ni con un Plan de Acción
+            Global para la gestión de las actividades, lo que consumió gran parte de los recursos del
+            proyecto en consultorías y no logró implementar el principal producto (SIAF-SP). Esto
+            dificultó el logro de 6 de los 9 resultados previstos. Por estas razones, se considera que el
+            desempeño del Organismo Ejecutor (OE) fue insatisfactorio.
+         V.          HALLAZGOS Y RECOMENDACIONES
+        5.1       Dimensiones 1 a 5
+        La Tabla 12 a continuación presenta los hallazgos y recomendaciones referentes al diseño e
+        implementación de la operación evaluada. Estos se agrupan según las cinco dimensiones
+        especificadas en las directrices de PCR.
+                                            Tabla 13. Hallazgos y recomendaciones
+         Hallazgos                                                      Recomendaciones
+Dimensión 1. Técnica y sectorial
+                                 Uno de los hallazgos en el ámbito técnico que llaman la atención, corresponden a la falta de
+                                 claridad en lo que respecta al dimensionamiento del SIAF-II, si bien hay un presupuesto estimado,
+                                 no es claro cómo se realizó el análisis del tamaño del sistema. Incluso en las etapas tardías del
+                                 proyecto se hizo una solicitud de estimación de costos de implementación del macroproceso de
+El diseño de un proyecto de
+                                 Ejecución Fiscal y Rendición de Cuentas, la cual fue realizada en mayo de 2016, por el consultor
+reforma          institucional
+                                 Marcelo López a petición del Banco. Dicha estimación determinó un costo estimado de desarrollo
+requiere     un       equilibrio
+                                 de US$9.6 millones y un periodo de ejecución de 24 meses. De hecho, el informe solicitado a los
+adecuado        entre        las
+                                 consultores William Inafuku, Víctor Shiguiyama y Jesús Farfán en 201412, muestra serias
+acciones de mejora de los
+                                 deficiencias respecto al dimensionamiento inicial.
+procedimientos (negocio) y
+                                 Según lo muestra el estudio Modelo de Análisis Costos-Beneficio para Sistemas Integrados de
+su automatización.
+                                 Administración Financiera (SIAF)13, la varianza de costos de inversión de este tipo de
+                                 plataformas, expresado en millones de dólares es muy alta, es por ello que resulta muy relevante
+                                 que exista un proceso de dimensionamiento más preciso, que lo que existió en este caso.
+        12 Reporte de Evaluación de Avance de Proyecto, William Inafuku, Víctor Shiguiyama y Jesús Farfán, 2014, el
+           cual utiliza métricas del especialista Steve McConnel, descritas en su publicación, Software Estimation:
+           Demystifying the Black Art: The Black Art Demystified, Steve McConnel, 2006
+        13 Modelo de Ana´lisis Costos-Beneficio para Sistemas Integrados de Administración Financiera (SIAF) Alejandro
+           Barros, BID # IDB-DP-198, 2011
+                                                                   26
+"
+"                                                <$4                                            14
+                                               $4-8                                                              21
+                                             $ 8 - 12                4
+                                            $ 12 - 16             3
+                                            $ 16 - 20                4
+                                          > $ 20 MM               3
+                                 Fuente: Modelo de Análisis Costos-Beneficio para Sistemas Integrados de Administración
+                                 Financiera (SIAF), BID, 2011
+                                 Sin embargo cuando se analiza el Programa completo, se lograron resultados importantes en la
+                                 mejora de las finanzas públicas, entre los cuales se puede mencionar: (i) la ampliación de la
+                                 cobertura de la CUT; (ii) la adopción de las Normas Internacionales Contables para el Sector
+                                 Público (NICSP); (iii) la mejora de la calidad y oportunidad de la información necesaria para la
+                                 rendición de cuentas; (iv) el vínculo de la planificación con la ejecución financiera (PpR); y (v) la
+                                 mejora de la funcionalidad de las herramientas informatizadas, especialmente en la formulación
+                                 presupuestaria. Por lo anterior, es recomendable que en caso de que se concrete una nueva
+                                 operación, se logre equilibrar en la fase de ejecución las actividades referentes al fortalecimiento
+                                 de los procedimientos con las actividades de automatización. Algunas mejoras de procedimientos
+                                 no dependen en un primer momento de su automatización, como es el caso de la mejora de la
+                                 clasificación presupuestaria, del plan de cuentas, de la programación de caja, del alcance de la
+                                 CUT, las normativas, la capacitación, así como una serie de actividades que pueden ser
+                                 realizadas previo a la automatización. Las lecciones aprendidas son: (i) es importante contar con
+                                 un dimensionamiento del monto del proyecto basado en mejores prácticas de modernización
+                                 integral en las áreas funcionales, desarrollo, implementación del software que incluya el periodo
+                                 de tiempo en el cual se va introduciendo el nuevo modelo y que por tanto interopere con el modelo
+                                 a ser sustituido para asegurar continuidad en las funciones del Ministerio de Economía y
+                                 Finanzas; y (ii).la mejora de los procedimientos es clave para apalancar una reforma. La
+                                 automatización también es importante, pero no es capaz por si sola de promover una reforma.
+                                 Por lo tanto, se recomienda que, en proyectos de reforma de esta naturaleza la estrategia de
+                                 ejecución guarde un equilibrio adecuado entre la mejora de los procedimientos y la
+                                 automatización.
+                                 El Programa pudo haber logrado una mejor clasificación de efectividad sino fuera por los
+                                 problemas identificados en su lógica vertical conforme fue detallado en las secciones anteriores.
+Cuando la lógica vertical de Por lo tanto, se recomienda en proyectos futuros plantear un número reducido de resultados por
+un proyecto no está bien cada componente, que todos los productos que se incluyan estén debidamente asociados al
+planteada puede afectar la alcance de los resultados previstos, y guardar un equilibrio adecuado entre productos y
+clasificación      de       la resultados. Como fue mencionado, 6 de los 9 resultados del Programa no se alcanzaron debido
+efectividad.                     a que dependían de un único producto, el cual no fue implementado en su totalidad (1.2 -
+                                 macroprocesos de ejecución financiera, contabilidad y rendición de cuentas, informatizados e
+                                 implementados)14.
+                                 Este fue lo que ocurrió con la medición de las metas de todos los indicadores del objetivo
+                                 específico 1 del proyecto, el cual se utilizó 3 indicadores de la metodología PEFA. De acuerdo
+No tener gobernabilidad en
+                                 con la teoría de indicadores SMART (Simples, Medible, Alcanzable, Realístico y Tiempo
+la medición de las metas de
+                                 determinado), los indicadores PEFA no son simples de medirse. Requieren un equipo de
+los indicadores o no contar
+                                 especialistas que conozcan la metodología PEFA, así como tienen que ser especialistas en el
+con indicadores SMART
+                                 tema que está siendo evaluado. Además, algunos indicadores son de percepción, por lo tanto,
+puede                  afectar
+                                 pueden variar de clasificación entre diferentes evaluadores. Aunque el PEFA 2016 fue realizado,
+negativamente el resultado
+                                 el gobierno de Perú nunca lo aprobó, muy probablemente por no estar de acuerdo con los
+del proyecto
+                                 resultados de la evaluación. Estos factores contribuyen para la afirmación de que la utilización de
+                                 indicadores no SMART pueden afectar negativamente el resultado del proyecto.
+Dimensión 2. Organización y gestión
+Contar         con       ORs En la fase de ejecución el Programa asignó alrededor de 12 especialistas para apoyar a cada uno
+         14 Con el Programa se elaboró el modelo conceptual y la descripción funcional de los procesos de ejecución
+            financiera, contabilidad y rendición de cuentas, pero no llegaron a informatizarse dichos procesos en el nuevo
+            SIAF. Por decisión del Gobierno, algunas de las mejoras identificadas en los procesos fueron implementadas
+            en el sistema existente (SIAF-SP).
+                                                                   27
+"
+"comprometidos (ownership)        de los ORs en la identificación de las mejoras de los procedimientos de sus áreas, sin embargo,
+con las acciones llevadas a      no se logró que los ORs se apoderasen de las propuestas realizadas por estos especialistas. La
+cabo para la modernización       lección aprendida es que las propuestas de mejoras de los procedimientos deben venir
+de los procedimientos de         principalmente de los ORs. Los especialistas deben apoyar a desarrollar estas propuestas de
+sus áreas funcionales es         acuerdo con las mejores prácticas internacionales. Durante esta evaluación se constató que la
+clave para que se pueda          experiencia de la mayoría de los especialistas que apoyaron a los ORs era en el desarrollo del
+implementar una reforma          SIAF-SP, por lo tanto, existía una carencia de conocimiento de otras experiencias internacionales
+institucional.                   que pudieran orientar a los ORs en relación con las mejores prácticas. Por lo tanto, en proyectos
+                                 de reforma de esta naturaleza se recomienda lo siguiente: contratar especialistas con sólida
+                                 experiencia internacional, asegurar que los ORs participen activamente en el proyecto y cuenten
+                                 con asistencia técnica calificada, y asegurar que el Banco cuente con consultores que apoyen al
+                                 jefe de equipo en temas clave referentes a la estrategia, procedimientos e informatización de
+                                 acuerdo con las mejores prácticas internacionales.
+                                 El EC no contó con un Plan Estratégico y un Plan de Acción Global para la gestión de las
+                                 actividades llevadas a cabo por los 65 consultores externos contratados para alcanzar los
+                                 productos y resultados claves del Programa. De acuerdo con la Oficina de Gestión de Tecnología
+                                 de la Información (OGTI), estos consultores estaban asignados exclusivamente al desarrollo del
+Desarrollar instrumentos de
+                                 modelo conceptual y de la plataforma tecnológica. Los consultores, para programar las
+planificación previo a la
+                                 aplicaciones, serían provistos por la empresa que fuera seleccionada para esta tarea. La lección
+ejecución de una reforma
+                                 aprendida es que una reforma de esta magnitud debe ser precedida de un Plan Estratégico
+institucional es primordial
+                                 detallado, incluyendo las actividades, cronograma (tiempos) y recursos requeridos (humanos y
+para asegurar su éxito y el
+                                 logísticos). El elevado número de consultores para desarrollar únicamente el modelo conceptual
+uso     eficiente    de    los
+                                 fue consecuencia de la ausencia de una estrategia clara para alcanzar los resultados y objetivos
+recursos invertidos.
+                                 previstos con el Programa. La recomendación sigue los mismos principios del hallazgo anterior,
+                                 orientada a que los ORs y el Banco cuenten con asistencia técnica calificada en temas clave
+                                 referentes a la estrategia, procedimientos e informatización de acuerdo con las mejores prácticas
+                                 internacionales.
+Dimensión 3. Procesos públicos y actores
+                                 El factor crítico negativo más relevante durante la ejecución del Programa fue la débil gobernanza
+                                 durante la ejecución. El Programa contó con un EE conformado por consultores externos, al cual
+                                 le fueron otorgadas responsabilidades y poder de decisión pese a que no incluía en su
+                                 conformación a ningún funcionario público de los ORs vinculados a la operación. Adicionalmente,
+                                 el EE y los especialistas del Banco involucrados directamente en la ejecución de la operación no
+                                 contaron con asesoría técnica calificada con experiencia internacional relevante para implementar
+                                 una reforma institucional de esta magnitud15. Por tal razón, se recomienda que el Banco contrate
+La gobernanza de un
+                                 consultores que apoyen de forma más cercana a los especialistas, de preferencia a tiempo
+proyecto es un punto clave
+                                 completo, y ser más crítico con respecto a la institucionalidad requerida para la gestión de los
+para su éxito.
+                                 proyectos y la implementación de los productos, evaluando la contratación de firmas con equipos
+                                 que cuenten con experiencia calificada sobre la contratación de grandes números de consultores
+                                 individuales. En el caso de la actual operación ninguno de los dos factores fue considerado. Es
+                                 importante resaltar que con base en la evaluación de medio término, el Banco tomó la decisión
+                                 de no autorizar nuevos compromisos financieros y desembolsar únicamente los recursos ya
+                                 comprometidos. La decisión del Banco fue acertada, aunque se tomó cuando ya se habían
+                                 consumido buena parte de los recursos y tiempo del Programa.
+                                 Hubo una reacción negativa por parte de los equipos de los ORs a los cambios propuestos por
+                                 los especialistas del EE. La lección aprendida es que una reforma de esta magnitud debe ser
+                                 acompañada de un programa de gestión del cambio, para minimizar la reacción de los ORs a los
+                                 cambios de procedimientos y sistemas informatizados. Un ejemplo es que en el Programa
+                                 evaluado hubo 4 propuestas para la modernización de los procedimientos de formulación
+La resistencia al cambio por
+                                 (preparación) del presupuesto, incluyendo su automatización. La cuarta versión fue aceptada
+parte de los ORs puede
+                                 porque no incorporaba cambios en los procedimientos, sin embargo, la aplicación informatizada
+perjudicar y retrasar el logro
+                                 estaba orientada a web. Adicionalmente, el modelo conceptual para modernizar la ejecución
+de        los      resultados
+                                 presupuestaria no fue totalmente aprobado por los ORs. Es importante destacar que, aunque el
+planificados.
+                                 sistema no fue implementado, algunos aspectos de mejora recomendados en el modelo
+                                 conceptual se incorporaron en el SIAF-SP, contribuyendo a mejorar la gestión de las finanzas
+                                 públicas. Por lo tanto, se recomienda que los proyectos de reforma que implican cambios
+                                 sustantivos incluyan en su estrategia y plan de ejecución un programa amplio de gestión del
+                                 cambio.
+Uno de los factores clave Llevar a cabo una reforma institucional que involucre diferentes ORs es complejo. En el caso del
+para el éxito de una reforma Programa evaluado, la reforma no tuvo un campeón de peso que tomara decisiones oportunas
+institucional amplia es la ante dificultades de orden institucional, técnico y político, especialmente cuando la reforma
+participación       de      un abarcaba áreas importantes como presupuesto, tesorería, contabilidad, deuda y TI. La lección
+campeón que pueda tomar aprendida es que los proyectos de reforma de esta naturaleza deben contar con un liderazgo
+         15  Por ejemplo, el jefe del EE era un doctor en medicina con experiencia en ejecución de proyectos de salud. Los
+             demás miembros del equipo eran todos consultores externos no vinculados a los ORs involucrados.
+                                                                    28
+"
+"decisiones oportunas en          claro desde su inicio. Es decir, un campeón que tome decisiones que permitan cumplir con el
+temas técnicos y políticos.      alcance de las actividades previstas en los plazos y con los recursos establecidos. La
+                                 recomendación es que este tema sea considerado con gran prioridad en el caso de concretarse
+                                 una nueva operación. Es importante destacar que el SIAF-SP, a pesar de la situación adversa en
+                                 la cual fue concebido, contó con el liderazgo pleno de uno de los viceministros del MEF en su
+                                 preparación e implementación.
+Consultores           externos,
+                                 En la experiencia de proyectos del Banco, en la medida en que los integrantes de los EEs son de
+independientemente de su
+                                 planta (o pertenecen a los ORs), la probabilidad de que las acciones se implementen
+grado       de    calificación,
+                                 adecuadamente y en los tiempos planificados es mayor. En el caso del Programa evaluado, con
+pueden ser capaces de
+                                 excepción de los integrantes del comité SAFI, todos los demás participantes, incluyendo el jefe
+desarrollar soluciones para
+                                 del EE, eran externos al MEF (contratados con recursos del Programa). A pesar de que el tema
+los problemas identificados
+                                 ya fue abordado en las lecciones aprendidas anteriores, es importante enfatizarlo a fin de tomar
+por los proyectos, pero no
+                                 consideraciones oportunas con respecto a la gobernanza y el liderazgo en proyectos de reforma
+son         capaces          de
+                                 futuros. La recomendación específica es que el jefe del EE debe ser un funcionario de planta
+implementarlas         sin    la
+                                 seleccionado por los ORs, y los demás integrantes del EE personas de confianza de los ORs.
+participación de los ORs.
+Dimensión 4. Fiduciaria
+                                 El Programa inició su ejecución en abril de 2011. Inicialmente, el Banco y el MEF acordaron un
+                                 mecanismo de ejecución tradicional, donde la Unidad de Coordinación y Planificación Sectorial
+                                 (UCPS) sería la entidad responsable de la administración del proyecto ante el Banco. Además, el
+                                 Programa contempló el comité SAFI para integrar las acciones de los órganos rectores del MEF
+                                 (presupuesto, tesorería, contabilidad, deuda y TI), así como para la aprobación de los planes
+                                 operativos anuales (POA). En septiembre de 2011, en el marco de una misión de administración,
+                                 se creó el EE compuesto por especialistas externos funcionales, tecnológicos y administrativos,
+                                 dedicados exclusivamente a la gestión integral del Programa. Por esta razón, se procedió a
+                                 modificar el Anexo Único, numeral II, Descripción del Proyecto, para incluir la figura del EE, que
+                                 tuvo como objetivo conducir la ejecución y el seguimiento de las actividades del POA 2012
+Cambios en las reglas de aprobado por el comité SAFI. A pesar de que para la toma de esta decisión el Banco contó con
+los      mecanismos          de el apoyo de un especialista externo internacional, con base en la experiencia durante la ejecución
+ejecución de un proyecto se puede concluir que se otorgó demasiado poder de decisión a un equipo externo de consultores
+pueden         derivar       en sin la requerida competencia y mandato para llevar a cabo estas funciones. El EE tomó decisiones
+problemas en la ejecución.       importantes, sin embargo, no fue capaz de llevar a cabo la ejecución del Programa conforme a lo
+                                 planificado. En febrero de 2016, la evaluación intermedia del Programa identificó factores críticos
+                                 negativos e informó que para terminar el proyecto conforme a lo planificado era necesario ampliar
+                                 el tiempo de ejecución y los recursos financieros. Con base en dicha evaluación, el Banco tomó
+                                 la decisión de no autorizar nuevos compromisos financieros y desembolsar únicamente los
+                                 recursos ya comprometidos. La lección aprendida es que el Banco debe analizar con mayor
+                                 profundidad y cautela cualquier cambio solicitado en las reglas de los mecanismos de ejecución
+                                 acordados. De haberse seguido el mecanismo de ejecución inicialmente acordado, el Programa
+                                 pudo haber logrado un mejor desempeño. La recomendación es que, en proyectos de reforma de
+                                 esta naturaleza, los líderes a cargo de la toma de decisiones, y los equipos ejecutores deben ser
+                                 mayoritariamente de planta y tener mandato para implementar reformas.
+Dimensión 5. Riesgos en la gestión
+No considerar temas de El Programa presentó problemas de falta de gobernanza, liderazgo, estrategia, planificación,
+gobernanza,          liderazgo, apropiación y asistencia técnica calificada, así como de resistencia a los cambios. En
+estrategia,      planificación, consecuencia, el primer problema que surgió estuvo asociado a la no aceptación en los cambios
+gestión del cambio y propuestos en los procedimientos y automatización de la formulación presupuestaria (10% del
+asistencia técnica en los valor ganado del proyecto). El EE cometió el error de dedicar la mayor parte del tiempo (81%) y
+proyectos       de      reforma recursos (65%) a solucionar este problema, restando importancia a las demás actividades
+institucional puede poner prioritarias que contemplaba el Programa. En consecuencia, se obtuvo un valor ganado de
+en riesgo la sostenibilidad apenas 44%. La recomendación es que todas las lecciones aprendidas mencionadas
+de        los       resultados anteriormente deben ser consideradas en el diseño y en la ejecución de programas de reforma
+alcanzados.                      futuros.
+                                                                   29
+"

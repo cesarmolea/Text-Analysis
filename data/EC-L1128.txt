@@ -1,0 +1,1537 @@
+"outlist[[i]]"
+"Calificaciones del desempeño del proyecto en los PMR:
+    No.    PMR Fecha                          Etapa de PCR                            Desembolsos
+                                                                                      reales (millones
+                                                                                      de USD)
+    1      2014                                                  Satisfactorio        15,0
+    2      2015                                                  Satisfactorio        13,0
+    3      2016                                                  Satisfactorio        0
+    4      2017                                                  Satisfactorio        1,95
+    5      2018                                                  Satisfactorio        0
+METODOLOGÍA DE ANÁLISIS ECONÓMICO EX POST: ANÁLISIS COSTO BENEFICIO
+METODOLOGÍA DE EVALUACIÓN EX POST: SE REALIZO UNA EVALUACIÓN DE IMPACTO, CON METODOLOGÍA DE
+DIFERENCIAS EN DIFERENCIAS.
+CLASIFICACIÓN DE EFECTIVIDAD DE DESARROLLO: MUY EXITOSO.
+PERSONAL DEL BANCO
+                        POSICIONES             EN PCR                    EN LA APROBACIÓN
+               VICEPRESIDENTE VPS              ANA MARÍA RODRÍGUEZ-      SANTIAGO LEVY
+                                               ORTIZ
+               VICEPRESIDENTE VPC              ALEXANDRE ROSA            ROBERTO VELLUTINI
+               GERENTE DE PAÍS                 RAFAEL DE LA CRUZ         CAROLA ÁLVAREZ
+               GERENTE SECTORIAL               AGUSTÍN AGUERRE           ALEXANDRE ROSA
+               JEFE DE DIVISIÓN                ARIEL YÉPEZ               LEANDRO ALVES
+               REPRESENTANTE DE PAÍS           FERNANDO QUEVEDO          MORGAN DOYLE
+               JEDE DE EQUIPO DEL              CARLOS ECHEVERRÍA         JESÚS TEJEDA
+               PROYECTO
+               JEFE DE EQUIPO DEL PCR          CARLOS ECHEVERRÍA          -
+Tiempo y costo del personal
+ Ciclo de proyecto de etapa            # de semanas de personal         USD (incluidos los gastos de
+                                                                        viaje y asesoría)
+ Preparación                            9,6                              34.376
+ Supervisión                            54,2                             300.385
+ Total                                  63,8                             334.762
+DECLARACIÓN DE LOS OBJETIVOS DE DESARROLLO DEL PROYECTO / PROGRAMA:
+Contribuir a mejorar la calidad de vida de la población a través del acceso al servicio eléctrico y de
+calidad en viviendas Urbano-Marginal (UM) y rural del Ecuador. Los objetivos específicos del programa
+son: (i) incrementar la capacidad institucional de las Empresas Eléctricas Distribuidoras (EED), del
+Ministerio de Electricidad y Energía Renovable (MEER) y del Consejo Nacional de Electricidad
+(CONELEC), en diseño, propuesta, ejecución, monitoreo y evaluación de proyectos de Electrificación
+Rural (ER) y UM; y (ii) contribuir a la implementación de proyectos sostenibles en zonas de difícil acceso
+geográfico en el país.
+                                                     4
+"
+"I.    INTRODUCCIÓN
+A.         Antecedentes
+El Fondo de Electrificación Rural y Urbano-Marginal del Ecuador (FERUM) es una iniciativa del
+Gobierno de Ecuador (GdE)1, el cual se diseñó considerando a la población ecuatoriana de
+escasos recursos que habita en zonas rurales o urbano-marginales (UM), en las cuales no se
+cuenta con servicio de energía eléctrica o este es obtenido informalmente y con escasa calidad2.
+El indicador “cobertura eléctrica nacional”, que a diciembre de 2017 alcanza el 97.33%,
+representa unas 130.000 viviendas aún sin servicio eléctrico3. Destacando que el aumento de la
+condición “sin servicio eléctrico”, depende del crecimiento informal de viviendas en barrios
+urbano-marginales y en zonas rurales, mientras su disminución estará asociada a la capacidad
+del Estado Ecuatoriano de invertir en expansión del sistema eléctrico nacional hacia estas
+comunidades. Consecuentemente, que el indicador de cobertura eléctrica aumente en el país,
+es evidencia en cuanto a que el nivel de avance de la electrificación de estas viviendas es
+superior al crecimiento de la informalidad habitacional4. Por otra parte, la decisión del país de
+continuar con la mejora del indicador de cobertura eléctrica está reflejada en la planificación
+decenal de inversiones que periódicamente elabora el Ministerio de Energía y Recursos
+Naturales No Renovables (MERNNR). Lo cual se refleja en el Plan Maestro de Electricidad
+(PME), actualmente vigente para el período 2016/2025 y que proyecta un nivel de cobertura del
+97.81% hacia el año 2025, asociando el presupuesto necesario en el capítulo “Expansión y
+Mejora de la Distribución” de tal PME5. En general, en los casos de comunidades sin servicio en
+sectores rurales (próximos a redes eléctricas y/o aislados), representantes de estas familias se
+acercan a las respectivas empresas distribuidoras6 para registrar la solicitud de servicio7. Por el
+contrario, las comunidades que habitan barrios sin redes eléctricas normalizadas, ubicadas en el
+entorno urbano marginal, están identificadas por las empresas distribuidoras y forman parte de
+los usuarios conectados informalmente a las redes existentes.
+Hasta el año 2008, el FERUM se financiaba con recursos provenientes del cobro del
+10% adicional para la categoría comercial e industrial por consumo eléctrico. Sin embargo, desde
+julio de 2008, su avance se financia con recursos del Presupuesto General del Estado y con
+préstamos de la banca multilateral.
+1    Previo a su denominación como FERUM en 1985, las obras de electrificación rural se financiaron mediante el
+     Fondo de Desarrollo para la Electrificación Rural (FER), vigente desde 1975.
+2    Algunas comunidades, en particular en zonas urbano-marginales, cuentan con energía eléctrica obtenida de forma
+     irregular, por medio de redes informales y sin medición por parte de la empresa eléctrica, lo que se traduce en
+     sucesivas fallas, que implican interrupciones del suministro eléctrico y en un bajo nivel de voltaje entregado en
+     cada vivienda, lo que, además del peligro que tales redes implican, deriva en un mal funcionamiento de los
+     artefactos eléctricos conectados.
+3    MERNNR / Informe Programa de Electrificación Rural (PER) 2019/2021.
+4    En 1970 el indicador nacional de cobertura alcanzaba únicamente el 51%, lo que representaba unas
+     600.000 viviendas sin servicio eléctrico público – OLADE/BID- Cobertura Eléctrica en América Latina y el Caribe
+5    6.4.1 Lineamientos y Estrategias - 6.4.1.2 Incrementar la Cobertura del Servicio de Energía Eléctrica: 1. Ejecutar
+     proyectos para la dotación del servicio eléctrico con extensión de redes especialmente en los sectores rural y
+     urbano marginal; 2. Ejecutar proyectos de energía renovable para la dotación del servicio de energía eléctrica en
+     sitios en los que no es factible el acceso al sistema de red convencional.
+6    La entidad reguladora, por medio de la Resolución N° CONELEC-008/08, expone el Procedimiento para
+     Presentar, Calificar y Aprobar los Proyectos FERUM. La cartera preseleccionada con tales parámetros es luego
+     analizada en cuanto a eficiencia económica, según contenidos del Estudio de Sostenibilidad de los proyectos
+     FERUM, conceptualmente descrito en el titulo 2.4 Sostenibilidad.
+7    En cuanto a gestión técnica y comercial, el MERNNR se apoya en 10 empresas distribuidoras, de las cuales la
+     Corporación Eléctrica Nacional (CNEL) cuenta con 11 Unidades de Negocio con zonas de atención geográficas
+     diferentes, situadas principalmente en la región costa del país. Por tanto, el Programa FERUM es operativamente
+     gestionado por 20 entidades, las cuales participan en las etapas de postulación de los proyectos y luego en su
+     ejecución, según cartera informada por el MERNNR.
+                                                            5
+"
+" En 2009, además del impacto de la crisis financiera mundial, el país enfrentó racionamiento en
+ la provisión de servicio eléctrico, debido en parte a la disminución de caudales para generación
+ hidráulica, lo cual generó condiciones de incertidumbre en cuanto a disponer oportunamente de
+ recursos para responder al objetivo de cobertura planteado en el Plan Maestro de Electricidad
+ 2012-2021 (PME), por lo que en el año 2011 el GdE solicitó al banco financiamiento por
+ US$40 millones para el apoyo a la expansión del “Programa de Electrificación Rural y Urbano
+ Marginal del Ecuador” (Proyecto EC-L1087 - Contrato 2608/OC-EC, cerrado en 2014).
+ El desarrollo de dicho programa aportó a la consecución de la meta de cobertura nacional,
+ establecida en 97% para el año 20138, consiguiendo llegar al 96.93%9 en dicho año. Sin
+ embargo, la información desagregada por zonas geográficas mostraba que, a diciembre de 2013,
+ aún existían provincias con índices de electrificación menores o próximas al 90%10.
+ Con base en la experiencia y resultados alcanzados con el Proyecto EC-L1087, el GdE,
+ consideró oportuno continuar la expansión del nivel de cobertura con el esquema de
+ financiamiento convenido con el BID, buscando asegurar recursos para dar continuidad al
+ programa, a modo de garantizar la consecución de los objetivos previstos en el respectivo PME
+ 2013-2022.
+ El actual financiamiento se subscribe con fecha 28 de marzo de 2014 (contrato 3087/OC-EC).
+ Ambos programas (EC-L1087 y EC-L1128) tienen un enfoque social, en línea con el Objetivo 1
+ del PND 2009/2013, en cuanto a “favorecer la igualdad, cohesión e integración social y territorial
+ en la diversidad”, y fueron financiados por el Banco considerando los impactos esperados en
+ temas que van más allá del aumento en la electrificación, tales como educación, ingresos,
+ seguridad y percepción de mejora en la calidad de vida, a ser monitoreados y evaluados mediante
+ una evaluación de impacto (EI).
+ II.   CRITERIOS CENTRALES. RENDIMIENTO DEL PROYECTO
+2.1        Relevancia
+ a. Alineación con las necesidades de desarrollo del país
+ El Programa de Electrificación Rural y Urbano Marginal II, tiene como objetivo contribuir a mejorar
+ la calidad de vida de la población a través del acceso al servicio eléctrico y de calidad en
+ viviendas urbano-marginales y rurales del Ecuador, con los objetivos específicos de:
+ (i) incrementar la capacidad institucional de las empresas eléctricas distribuidoras, del Ministerio
+ responsable del sector y del Consejo Nacional de Electricidad, en diseño, propuesta, ejecución,
+ monitoreo y evaluación de proyectos de electrificación rural y UM; y (ii) contribuir a la
+ implementación de proyectos sostenibles en zonas de difícil acceso geográfico en el país. El
+ programa, dado su carácter social, estableció como resultados esperados el aumento en el
+ número de nuevas viviendas atendidas, tanto en zonas aisladas de difícil acceso, como en zonas
+ rurales y urbano marginales con provisión de servicio eléctrico conectado a la red, esperando un
+ impacto en el aumento de la electrificación a nivel nacional y mejoramiento de indicadores en
+ educación, seguridad, y calidad de vida. El diseño de la operación se alineó con el Plan de
+ Desarrollo del País 2009/2013 - Política 11.5.e “Fortalecer y ampliar la cobertura de
+ infraestructura básica y de servicios públicos para extender las capacidades y oportunidades
+ económicas - Mejorar y ampliar la cobertura del sistema eléctrico, promoviendo el
+ aprovechamiento sustentable de los recursos renovables”. La referida Política se fundamenta en
+ 8    El Plan Maestro de Electrificación en esa época era emitido por el Consejo Nacional de Electricidad (CONELEC,
+      actualmente ARCONEL Agencia de Regulación y Control de Electricidad).
+ 9    ARCONEL, Estadística multianual del sector eléctrico ecuatoriano- 2005/2014.
+ 10   ARCONEL, Cobertura-Electrica-2007-2016.
+                                                           6
+"
+"el Art. 314 de la Constitución Política de 2008, el cual estipula que “El Estado será responsable
+de la provisión de los servicios públicos de agua potable y de riego, saneamiento, energía
+eléctrica, telecomunicaciones, vialidad, infraestructuras portuarias y aeroportuarias, y los demás
+que determine la ley”. Así mismo, en la actualización del Plan de Desarrollo del País (Plan
+Nacional del Buen Vivir 2013-2017), el programa se alinea con la política 10.9 “Impulsar las
+condiciones de competitividad y productividad sistémica necesarias para viabilizar la
+transformación de la matriz productiva y la consolidación de estructuras más equitativas de
+generación y distribución de la riqueza” que en su numeral a) prevé “ampliar y mejorar la
+provisión, acceso, calidad y eficiencia de los servicios públicos de agua potable, riego y drenaje,
+saneamiento, energía eléctrica, telecomunicaciones, gas natural y el servicio postal”.
+Además, en noviembre de 2017, el GdE presentó el Plan Nacional de Desarrollo 2017-2021 –
+“Plan Toda Una Vida”, que incluye entre los Objetivos Nacionales de Desarrollo el
+Objetivo 1: Garantizar una vida digna con iguales oportunidades para todas las personas -
+Política 1.8: “Garantizar el acceso a una vivienda adecuada y digna, con pertinencia cultural y a
+un entorno seguro, que incluya la provisión y calidad de los bienes y servicios públicos vinculados
+al hábitat: suelo, energía, movilidad, transporte, agua y saneamiento, calidad ambiental, espacio
+público seguro y recreación”.
+El desarrollo del programa forma parte de las políticas de estado y está garantizado en el
+Mandato Constituyente No. 15, Artículo 3, el cual destaca que “El Fondo de Electrificación Rural
+y Urbano Marginal -FERUM-, se financiará con recursos del Presupuesto General del Estado,
+por lo que, a partir de la expedición del presente Mandato, el Ministerio de Finanzas entregará al
+Fondo de Solidaridad, los recursos necesarios”.
+La relevancia del programa de electrificación, que beneficia a familias de escasos recursos que
+habitan en sectores rurales y UM, forma parte de la legislación y de los planes de desarrollo
+nacionales, y del sector eléctrico, condición que está presente antes de la formulación de este
+financiamiento y permanece vigente luego de finalizado el Proyecto, lo cual se evidencia,
+también, en los siguientes instrumentos de ley y de políticas ministeriales:
+•   Ley de Régimen del Sector Eléctrico (vigencia 1996 – 2015); Art. 62.- Electrificación rural y
+    urbano marginal, El Estado promoverá los proyectos de desarrollo de electrificación rural y
+    urbano - marginal, y las obras de electrificación destinadas a la provisión de agua potable,
+    preferentemente en las poblaciones ubicadas en las provincias fronterizas, en la Amazonía y
+    Galápagos.
+•   Agencia de Regulación y Control de Electricidad (ARCONEL – previamente denominada
+    Consejo Nacional de Electricidad, CONELEC) - Plan Maestro de Electrificación 2012-2021.
+    “El programa de electrificación y energización, que atiende a los sectores rurales y urbano-
+    marginales -FERUM-, es un programa social con fundamento técnico, de alta prioridad, como
+    puntal para la incorporación de nuevos servicios básicos, cuyo objetivo es mejorar la calidad
+    de vida de estos sectores de la población.
+•   Ley Orgánica del Servicio Público De Energía Eléctrica – LOSPEE (vigencia 2015 a la fecha);
+    Artículo 63. Programa de Energización Rural. Programa de Energización Rural. El Estado
+    promoverá y financiará, de manera prioritaria, los proyectos de desarrollo de la electrificación
+    rural, especialmente en zonas aisladas de los sistemas de distribución.
+•   Plan Maestro de Electricidad 2016-2025 - Plan de Expansión de la Distribución: 6.4.1.2
+    Incrementar la Cobertura del Servicio de Energía Eléctrica. “Ejecutar proyectos para la
+    dotación del servicio eléctrico con extensión de redes especialmente en los sectores rural y
+    urbano marginal. Ejecutar proyectos de energía renovable para la dotación del servicio de
+    energía eléctrica en sitios en los que no es factible el acceso al sistema de red convencional”.
+                                                  7
+"
+"b. Alineación estratégica del BID con el País
+El programa es consistente con la Estrategia del BID con Ecuador 2012-2017 (EBP, GN-2680-2),
+siendo energía uno de los sectores priorizados, y se alinea con: (i) el objetivo estratégico de crear
+una estrategia energética de largo plazo que promueva un marco energético sostenible, facilite
+el adecuado suministro de energía y mejore el acceso a la energía eléctrica; (ii) los resultados
+esperados de (a) aumento de la cobertura eléctrica, y (b) eficiencia energética aumentada; y
+(iii) los indicadores de seguimiento: (a) porcentaje de la población con acceso a energía eléctrica
+en zonas urbanas, (b) porcentaje de la población con acceso a energía en zonas rurales, y
+(c) porcentaje de pérdidas eléctricas en distribución.
+Además, el programa es consistente con los lineamientos de la EBP en cuanto a: (i) contribuir al
+desarrollo económico inclusivo y sostenible de Ecuador apoyando los esfuerzos que realiza el
+país por superar las restricciones de largo plazo al crecimiento económico y las barreras
+estructurales a la salida de la pobreza, identificando apoyo en diferentes sectores de la
+economía, entre los cuales se destaca el ámbito de la energía (lineamiento 3.1 EBP); y (ii) apoyar
+la generación y transmisión de conocimientos hacia el país, así como el fortalecimiento
+institucional, la asistencia técnica y el talento humano.
+El programa también es consistente con lineamientos específicos de la estrategia para el sector
+energía, que asocian, entre otros aspectos: (i) existencia de espacio para mejorar en cobertura
+del servicio eléctrico (lineamiento 3.4 EBP); y (ii) apoyo del Banco para promover el incremento
+y diversificación sostenible en la capacidad de generación, la confiabilidad del sistema, la
+eficiencia energética y el incremento de la cobertura del servicio eléctrico, por medio de
+financiamiento a proyectos de electrificación rural y urbano marginal (lineamiento 3.6 EBP).
+Asimismo, el programa se alinea con Estrategia del BID con el País 2018-2021 (GN-2924), dado
+que las inversiones incluidas en el mismo contribuyen al objetivo estratégico de avanzar en la
+reforma energética ecuatoriana y se alinean a las siguientes áreas prioritarias: (i) fortalecimiento
+institucional; y (ii) acceso a servicios públicos de calidad. El programa contribuye específicamente
+con las siguientes propuestas de acción que apoyan: (i) las inversiones necesarias para avanzar
+con la reforma energética; y (ii) el mejoramiento del bienestar de la población rural, mediante la
+provisión de bienes y servicios públicos.
+c. Relevancia del diseño
+El programa se diseñó considerando que, en el año 2010, Ecuador contaba con
+14.483.499 habitantes y 3.748.919 viviendas de las cuales 196.000 no contaban con servicio
+eléctrico11, lo que asocia un porcentaje total de cobertura eléctrica de 94,7%, siendo las zonas
+geográficamente alejadas de los centros urbanos, las de menor cobertura. Sin embargo, dado
+que la población carente de servicio (5.3%)12 se concentraba tanto en zonas rurales como en
+zonas urbano-marginales, se hizo necesario aplicar estrategias de implementación
+diferenciadas, debido a las marcadas particularidades, en cuanto a consumo medio y densidad
+poblacional por km2, en ambos contextos13. Además, fue necesario capacitar a las instituciones
+11     INEC-Censo 2010 – “No tiene luz eléctrica”.
+12    Según clasificación de viviendas sin servicio eléctrico informadas en el Censo 2010 (INEC), un 51%
+      correspondería a falta de cobertura en parroquias rurales (incluye centros poblados y comunidades dispersas).
+13    Por ejemplo: (i) consumo promedio de los proyectos FERUM 2011 por cliente es de 109-kWh, con un límite
+      superior de 193-kWh, a diferencia del consumo promedio de la empresa eléctrica de Quito, 154- kWh, con 93%
+      de los usuarios con un límite superior a los 500-kWh; (ii) la región sierra y la región costa, altamente urbanas,
+      presentan densidades poblacionales de 91,3 y 93,2, habitantes por km2 respectivamente. Las áreas rurales
+      presentan densidades poblacionales cercanas a 3-4 habitantes por km2, cómo es e l caso de las regiones insular
+      y amazónica; y (iii) El costo promedio en O&M de los proyectos FERUM en 2010 era de 2,822 US$/año para
+      extensión de red y de US$5,16/mes para sistemas aislados.
+                                                           8
+"
+"del sector (incluyendo, como se ha indicado, la implementación de metodologías para el diseño
+y selección de proyectos que incluyan criterios de elegibilidad, rentabilidad y sostenibilidad) a fin
+de priorizar de mejor manera, la implementación de proyectos de electrificación rural y urbano
+marginal.
+Para medir los resultados propuestos del programa, que contribuyen con el objetivo general en
+cuanto al aumento del nivel de cobertura eléctrica en sectores rurales y UM, se establecieron
+indicadores mediante los cuales se determina: (i) a nivel de impacto, el porcentaje de cobertura
+eléctrica del país; y (ii) a nivel de resultados, el número de viviendas atendidas, tanto con
+proyectos de extensión de red, como en sistemas aislados. El objetivo general del proyecto,
+además, responde a necesidades previstas en los planes de desarrollo del país, y se alinea a las
+prioridades de apoyo contenidas en las EBPs con Ecuador, los cuales se determinan como
+factores relevantes del programa financiado con esta operación.
+La Matriz de Indicadores del programa, plasma la lógica vertical de diseño, el cual en su definición
+de componentes se corresponde con las áreas de apoyo identificadas para el sector energía en
+las EBPs, en cuanto a fortalecimiento institucional y aumento de la cobertura del servicio
+eléctrico. Asimismo, los indicadores de resultados de esta operación están alineados con los
+indicadores incluidos en el préstamo anterior (Proyecto EC-L1087 - Contrato 2608/OC-EC,
+cerrado en 2014) en cuanto a la continuidad en el uso de metodologías para el diseño de
+proyectos de electrificación rural y su contribución al incremento de la electrificación del país.
+La lógica vertical del diseño del programa responde a las necesidades de desarrollo planteadas
+en cuanto a mejorar la calidad de vida de la población, a través del acceso y/o mejoramiento a
+la provisión de servicio eléctrico. La secuencia de resultados, mostrada en la figura 1, da cuenta
+de la vinculación entre productos a desarrollar, resultados previstos e impactos provocados con
+su ejecución, en línea con los objetivos de desarrollo de la operación.
+                                                  9
+"
+"                       Figura No. 1 – Lógica vertical del diseño del programa
+La cadena de efectos entre productos, resultados e impacto, se fundamenta en la lógica vertical
+descrita en figura anterior que demuestra la relevancia del diseño, en donde: (i) inicialmente, se
+prioriza la cartera de proyectos que conformarían la base de obras a financiar; (ii) se ejecuta, con
+financiamiento de la operación, la cartera de proyectos seleccionada, previamente filtrada según
+criterios de sostenibilidad; (iii) la construcción de los proyectos genera los resultados previstos
+en cantidad de Viviendas Sin Servicio (Vss), Viviendas Con Servicio Mejorado (Vcsm) y viviendas
+sin servicio en zonas aisladas; y (iv) se genera el aumento en la cobertura nacional y el
+mejoramiento de las condiciones de vida de las familias beneficiadas como impacto del
+programa.
+Para cumplir los objetivos del programa, se establecieron los siguientes componentes:
+Componente I. Fortalecimiento institucional en la selección y diseño de proyectos de
+Electrificación Rural (ER) y UM. Con este Componente se dispuso financiamiento por
+US$1 millón para: (i) capacitación al personal de las Empresas Eléctricas Distribuidoras (EED)
+en selección y diseño de proyectos de ER con carácter sostenible y; (ii) apoyo en la
+conceptualización y preparación de nuevos proyectos de ER sostenible aprobados por el MEER,
+CONELEC (actual ARCONEL), y SENPLADES. Así mismo, se financió la adquisición de
+equipamiento informático, instrumentos y otros equipos para una de las unidades ejecutoras
+dedicada a la ER con energía renovable.
+                                                   10
+"
+"Componente II. Financiamiento de proyectos FERUM por US$29 millones. Con este
+Componente se asignó financiamiento para la ejecución de la cartera de proyectos FERUM
+priorizada, con lo que se contribuye, específicamente, al aumento de la cobertura de servicio
+eléctrico en Ecuador. Este Componente se ejecutó a través de los siguientes subcomponentes:
+Subcomponente II.a - Electrificación rural con extensión de red, con una asignación de
+US$26 millones. Este subcomponente representa el 86% de los recursos del programa y se
+utilizó para financiar proyectos con extensión de redes en zonas UM y rurales. Para la selección
+de los proyectos a financiar con el préstamo, se realizó una priorización a partir de la cartera de
+1.228 proyectos FERUM (con un costo de US$61,3 millones) presentada por el MEER, que
+incluía 2.871 Vcsm y 23.838 Vss, de los cuales, se seleccionaron proyectos considerando los
+criterios económico-financieros antes mencionados.
+De acuerdo con los arreglos de ejecución previstos, la construcción de estos proyectos se llevó
+a cabo por las EED. El proceso de construcción de las líneas de distribución para conexión de
+nuevos suministros o mejoras del servicio en suministros con medidor es realizado por etapas e
+incluye excavaciones, instalación de postes, montaje de estructuras de media y baja tensión
+armadas, tendido de conductores, instalación de transformadores y equipos conectados,
+alumbrado público instalado, acometidas, medidores y finalmente energización de la red. Este
+proceso se licita y adjudica en forma de procesos llave en mano que incluyen uno o más
+proyectos, y su ejecución es monitoreada a través de fiscalizadores de obras independientes,
+además del seguimiento técnico y ambiental que lleva a cabo la respectiva EED con su propio
+personal técnico.
+Subcomponente II.b - Electrificación rural sin extensión de red. Para la ejecución de este
+subcomponente se asignaron US$3 millones, o el 10% de los recursos del programa, con el
+objeto de financiar proyectos de ER en sectores en los que, por aislamiento territorial, no era
+factible la expansión de la red eléctrica existente, optando por el uso de soluciones vía paneles
+solares fotovoltaicos, tecnologías de bajo impacto ambiental que garantizan una adecuada
+provisión del servicio eléctrico de forma sostenible. Las obras ejecutadas con este tipo de
+solución fueron priorizadas por el MEER desde una cartera que incluye 241 proyectos, logrando
+financiarse 36 obras que incluyen 810 viviendas ubicadas en las provincias de Orellana,
+Sucumbíos, Pastaza, Zamora Chinchipe y Loja. De igual modo que en el caso de soluciones que
+involucran redes de distribución, descritas en el párrafo anterior, estas obras se ejecutaron a
+través de un proceso de licitación pública nacional, en donde las empresas contratistas,
+aportaron mano de obra de montaje del equipamiento adquirido por el Organismo Ejecutor (OE),
+consistente en paneles fotovoltaicos, baterías para acumulación de la energía disponible,
+regulador de carga de la batería, inversor de corriente para conexión de artefactos que funcionan
+con corriente alterna, acometidas y medidores (en soluciones que incluyen micro-redes de
+distribución local, tanto materiales como mano de obra agregan postes y tendido de la red).
+La Tabla 1 muestra los resultados previstos y alcanzados al final del programa, los cuales están
+separados en función a su alineación y contribución a los tres objetivos de la operación. Por otro
+lado, la Tabla 1.b hace lo mismo para tres indicadores adicionales.
+                                                 11
+"
+"              Tabla 1. Matriz de Indicadores del Programa alineados a los tres Objetivos de la Operación.
+                               En aprobación                         En elegibilidad + 60 días                   Al terminar el proyecto (PCR)               Comentarios
+                                         Línea                                      Línea
+  Indicadores                                                                                                                     Línea
+                                           de      Meta15        Unidad de            de                        Unidad de
+                   Unidad de Medida                                                            Meta (P)                             de          (A)
+                                        Base14      (P)           Medida             Base                         Medida
+                                                                                                                                   Base
+                                        (2014)                                     (2014)
+ Objetivo general de Desarrollo: El objetivo general del Programa es contribuir a mejorar la calidad de vida de la población a través del acceso al servicio eléctrico y de
+ calidad en viviendas UM y rurales del Ecuador.
+ Indicadores de Impacto
+                  Percepción (% de                           Percepción (% de                               Percepción (% de                          La percepción solo se
+   Mejora en
+                  personas que se                            personas que se                                personas que se                           captura para la jefa de
+   Percepción                            -4,2%      7%                              -4,2%          7%                               0%         7,3%
+                  sienten seguras en                         sienten seguras                                sienten seguras                           hogar, o conyugue del
+ de Seguridad
+                  sus hogares)                               en sus hogares)                                en sus hogares)                           jefe de hogar.
+                                                             Percepción (% de                               Percepción (% de
+                  Percepción (% de                           personas que                                   personas que
+                  personas que                               consideran                                     consideran
+ Cambio de
+                  consideran mejoró                          mejoró su                                      mejoró su                                 La percepción solo se
+ hábito /
+                  su situación            0%        4%       situación                0%           4%       situación               0%          0%    captura para el/la
+ calidad de
+                  económica                                  económica                                      económica                                 jefe/a de hogar.
+ vida
+                  durante los                                durante los                                    durante los
+                  últimos 12 meses)                          últimos 12                                     últimos 12
+                                                             meses)                                         meses)
+                                                                                                                                                      Existe un consenso en
+                                                                                                                                                      la literatura de que es
+                                                             Aumento del                                    Aumento del                               más “fiable/estable”
+                  Aumento del
+ Mejora en                                                   ingreso                                        ingreso                                   medir incrementos en
+                  ingreso económico       0%       9.8%                               0%         9.8%                               0%       12.07%
+ Ingreso                                                     económico en el                                económico en el                           gastos del hogar como
+                  en el hogar (%)
+                                                             hogar (%)                                      hogar (%)                                 un proxy de
+                                                                                                                                                      incrementos en
+                                                                                                                                                      ingresos.
+                                               En aprobación                           En elegibilidad + 60 días            Al terminar el proyecto (PCR)         Comentarios
+          Indicadores                               Línea de                                     Línea de                   Unidad         Línea
+                                    Unidad de                                 Unidad de
+                                                      Base        Meta (P)                         Base        Meta (P)        de        de Base      (A)
+                                     Medida                                      Medida
+                                                     (2013)                                       (2013)                    Medida        (2013)
+Objetivo específico de Desarrollo 1: incrementar la capacidad institucional de las EED, del MEER y del CONELEC (actual ARCONEL), en diseño, propuesta, ejecución,
+monitoreo y evaluación de proyectos de ER y UM
+Indicadores de Resultados
+Componente I – Fortalecimiento institucional en la selección y diseño de proyectos de ER y UM
+                                                                                                                                                                Las 20 EED
+                                                                                                                                                                recibieron
+Número de EED utilizando la
+                                                                                                                                                                capacitación
+metodología económica-
+                                       Numero           0            10         Numero               0            20        Numero            0       20        sobre la
+financiera en el diseño de
+                                                                                                                                                                metodología y
+proyectos FERUM
+                                                                                                                                                                la han puesto
+                                                                                                                                                                en práctica.
+              14    Los indicadores de impacto se calculan con las encuestas de línea de base y de seguimiento de la Evaluación de
+                    Impacto (EI).
+              15    Para el presente PCR, se realizó una actualización de las líneas de base y metas. Para valores de línea de base
+                    se utilizó información de la encuesta de EI recolectada después de la aprobación de esta operación; así como
+                    indicado en la MR aprobada. Para las metas, los valores se basan en una revisión exhaustiva de la literatura sobre
+                    indicadores similares, véase el resumen de estudios revisados en el siguiente link.
+                                                                                     12
+"
+"                                                  En aprobación                           En elegibilidad + 60 días            Al terminar el proyecto (PCR)       Comentarios
+           Indicadores                                  Línea de                                     Línea de                  Unidad        Línea
+                                       Unidad de                                  Unidad de
+                                                          Base       Meta (P)                          Base      Meta (P)         de       de Base       (A)
+                                        Medida                                      Medida
+                                                         (2013)                                       (2013)                   Medida       (2013)
+Objetivo específico de Desarrollo 2: contribuir a la implementación de proyectos sostenibles en zonas de difícil acceso geográfico en el país
+Componente 2 – Financiamiento de proyectos FERUM
+Número de Vss atendidas                Viviendas            0         15.583       Viviendas             0         15.857     Viviendas        0       13.101    No obstante, la
+                                                                                                                                                                 meta de Vss no
+                                                                                                                                                                 se completó, se
+                                                                                                                                                                 superó la meta
+                                                                                                                                                                 global de
+Número de Vcsm atendidas               Viviendas            0          1.812       Viviendas             0          1.812     Viviendas        0        6.386    viviendas con
+                                                                                                                                                                 prestación
+                                                                                                                                                                 servicio
+                                                                                                                                                                 eléctrico.
+                                                                                                                                                                 Se excedió la
+Número de nuevas viviendas
+                                                                                                                                                                 meta, logrando
+atendidas en zonas aisladas
+                                                                                                                                                                 la
+de difícil acceso geográfico en        Viviendas            0           836        Viviendas             0           836      Viviendas        0         841
+                                                                                                                                                                 incorporación
+el país con servicio eléctrico
+                                                                                                                                                                 de viviendas
+sostenible
+                                                                                                                                                                 adicionales
+                                    Tabla 1.b Indicadores adicionales a los tres objetivos de la operación.
+                                 En aprobación                En elegibilidad + 60 días             Al terminar el proyecto (PCR)                      Comentarios
+Indicadores              Unidad      Línea de               Unidad     Línea de
+                                                 Meta17                             Meta         Unidad de          Línea de
+                            de        Base16                  de         Base                                                      (A)
+                                                   (P)                                (P)         Medida              Base
+                         Medida       (2014)                Medida      (2014)
+Indicadores de Impacto
+                                                                                                                                         Ver subsección de Selección y Calidad
+                                                                                                                                         de indicadores para una explicación
+                  Cobertura
+Acceso a la                                                                                                                              sobre las particularidades de este
+                  eléctrica en el      95.4      97.318        %         97.04      97.82             %               97.04      97.33
+energía                                                                                                                                  indicador, el cual no captura de forma
+                  país (%)
+                                                                                                                                         apropiada el alcance real de esta
+                                                                                                                                         operación.
+                  Tiempo de los                                                               Tiempo de los
+                  niños                                                                       niños
+                  dedicado a las                                                              dedicado a las
+                  tareas/lectura                            min/día   Encuesta
+                                         0        9.15                               9.15     tareas/lectura            0           0    Estos dos indicadores no se alinean
+                  en       zonas                                         de LB
+                                                                                              en         zonas                           con ninguno de los tres objetivos de la
+ Mejora en        rurales                                                                     rurales                                    operación; sin embargo, se agregaron
+ Educación        (min/día)                                                                   (min/día)                                  para testear la hipótesis de que el
+                  Tiempo de los                                                                Tiempo de los                             acceso a electricidad incrementa el
+                  adultos                                                                          adultos                               tiempo en lectura.
+                                                                      Encuesta
+                  dedicado a la          0         8.4      min/día                   8.4      dedicado a la            0           0
+                                                                         de LB
+                  lectura                                                                       lectura (min
+                  (minutos/días)                                                                    /días)
+               16     Los indicadores de impacto se calculan con las encuestas de línea de base y de seguimiento de la Evaluación de
+                      Impacto (EI).
+               17     Para el presente PCR, se realizó una actualización de las líneas de base y metas. Para valores de línea de base
+                      se utilizó información de la encuesta de EI recolectada después de la aprobación de esta operación; así se indicó
+                      en la MR aprobada. Para las metas, los valores se basan en una revisión exhaustiva de la literatura sobre
+                      indicadores similares, véase el resumen de estudios revisados en el siguiente link. De este modo, las metas
+                      actualizadas, comparables a los indicadores presentados en este PCR, se presentan en la Tabla 2.
+               18     Este valor fue establecido, basado en proyecciones de cobertura eléctrica de CONELEC durante el diseño del
+                      programa, tomando en cuenta la ejecución de otros programas de Gobierno que contribuyen al aumento de la
+                      cobertura eléctrica en el país.
+                                                                                        13
+"
+"2.2       Efectividad
+ El grado de consecución de los objetivos declarados para el programa, detallados a continuación,
+ se respalda en la Tabla 2. Matriz de Resultados Logrados.
+ Cabe destacar que, tanto los indicadores propuestos, como el nivel de las metas, están
+ correctamente alineados con los objetivos declarados en la propuesta de préstamo, lo cual se
+ constata con el grado de consecución de los mismos sin desvíos significativos en los Productos
+ y Resultados incidentes, concentrados en el Componente II (ver Tabla 2. Matriz de Resultados
+ logrados)19.
+ a. Declaración de objetivos de desarrollo del proyecto.
+ Objetivos y Componentes.
+ El objetivo general del programa es contribuir a mejorar la calidad de vida de la población a través
+ del acceso al servicio eléctrico y de calidad en viviendas UM y rurales del Ecuador. Los objetivos
+ específicos previstos son: (i) incrementar la capacidad institucional de las EED, del MEER y del
+ CONELEC (actual ARCONEL), en diseño, propuesta, ejecución, monitoreo y evaluación de
+ proyectos de ER y UM; y (ii) contribuir a la implementación de proyectos sostenibles en zonas de
+ difícil acceso geográfico en el país. El programa incluye dos componentes:
+ Componente I: “Fortalecimiento institucional en la selección y diseño de proyectos de ER
+ y UM”, el cual financió: (i) cursos de capacitación a MEER, CONELEC (ARCONEL) y EED en el
+ diseño y selección de proyectos sostenibles, de los cuales se realizaron 6 talleres, superando la
+ meta original de 4, con foco en la socialización de la metodología para la evaluación de la
+ sostenibilidad de los proyectos del Programa FERUM, tanto para extensión de redes, como para
+ sistemas aislados, siendo 20 empresas eléctricas de distribución las beneficiadas con estas
+ capacitaciones; (ii) cartera de nuevos proyectos FERUM filtrados por la metodología y aprobados
+ por el MEER, con cuya ejecución se apoyó la conformación de carteras de proyectos para
+ electrificación de comunidades, carentes del servicio. En total, fueron 5 EED las que generaron
+ cartera de proyectos, superando la meta original de 3, en donde se realizaron estudios y diseños
+ para un total de 313 proyectos FERUM. Los estudios financiados forman parte de nuevas
+ operaciones de financiamiento con organismos multilaterales y/o financiamiento con aporte
+ local20; y (iii) unidades de ER en las EED reforzadas, para lo cual se financiaron actividades que
+ permitieron equipar las unidades de ER de 3 EED, mediante la provisión de instrumentos,
+ software, estudios y equipos.
+ Componente II: “Financiamiento de proyectos FERUM”, incluyó recursos para: (i) proyectos
+ FERUM con extensión de red ejecutados, que consistió en el desarrollo de 706 obras de
+ electrificación de las comunidades cubiertas por el programa, superando la meta inicial de
+ 644 proyectos. Las obras financiadas por el programa fueron previamente priorizadas por la
+ metodología de sostenibilidad establecida en el Componente I, en donde los proyectos se basan
+ en la interconexión al sistema de distribución existente, y cuya implementación ha originado los
+ resultados diseñados, consistentes en número de viviendas sin servicio y con servicio mejorado
+ atendidas, con impacto en aumento de la cobertura eléctrica y en mejoras sociales; y
+ (ii) proyectos ER sin extensión de red ejecutados, con el cual se financió el desarrollo de 36 obras
+ de electrificación en comunidades aisladas, superando la meta original de 35, en donde la
+ solución se basa en la opción de conexión eléctrica a fuentes de generación de energía en base
+ 19   Los cambios informados en el “Cuadro N°2, Cambios en la Matriz de Indicadores” corresponden a redefinición
+      de alcances y no afectan la lógica vertical de diseño de la Operación.
+ 20   El OE informa que con este producto se han elaborado proyectos para conformación de la cartera del Programa
+      EC-L1223, lo cual se alinea con el objetivo del Producto.
+                                                            14
+"
+"a paneles solares fotovoltaicos, fuentes que, según el grado de concentración de los hogares,
+pueden servir a una o más viviendas, y cuya implementación ha cumplido con los resultados
+diseñados, en cuanto al número de nuevas viviendas atendidas en zonas aisladas de difícil
+acceso geográfico en el país21, con el consiguiente impacto en aumento de la cobertura eléctrica
+y en mejoras sociales, según lo previsto.
+Cambios en la Matriz de Resultados
+Luego de la elegibilidad del programa, el GdE solicitó ajustes en la Matriz de Resultados, los
+cuales se observan en la Tabla 2, los cuales se pretendió alinear con el PME 2013/2022 (el
+vigente en su momento), en donde a nivel de Impacto y Resultados, estos cambios redundan en
+mayores exigencias, mientras en Productos, tales cambios asocian menores expectativas, aun
+cuando los cambios a nivel de Productos radican básicamente en el Componente I –
+Fortalecimiento Institucional en la selección y diseño de proyectos de ER y UM; esto por cuanto,
+los cambios en Productos del Componente II, se refieren solo a la unidad de medida y por ende
+no inciden en la relación causa/efecto diseñada para los objetivos en resultados e impacto. En
+cualquier caso, los cambios a la baja, solicitados durante el taller de arranque de la operación,
+en la meta de Productos, finalmente se revierten, de forma que las metas de los Productos
+alcanzadas al final del programa, supera las expectativas originales.
+Comentario particular amerita el cambio realizado en el nivel de Impacto esperado en cobertura
+eléctrica en el país. Mientras el cambio del valor de la línea de base corresponde a una
+actualización de cifras inicialmente asumidas22, el cambio que redefine el nivel de cobertura hacia
+el año 2018 y que pasa de 97.3 % a 97.82%, no es consistente con las expectativas de evolución
+previstas por el MEER en la planificación decenal, en la que, tanto en el PME 2013/2022 como
+en el PME 2016/2025, se esperan cifras muy menores, hacia el año 2018, las que más bien se
+acercan al valor alcanzado en 2017, que corresponde al 97.33%.
+                       Cuadro 1. MERNNR - Proyección de cobertura eléctrica
+                                                                        % Cobertura Nacional
+                       PME               % Cobertura Nacional - Año
+                                                                              Final PME
+                   2013/2022                     97,11 - 2018               97,93 - 2022
+                   2016/2025                     97,43 - 2018               97,81 - 2025
+21  Corresponde a viviendas de comunidades que habitan en la Región Amazónica del País.
+22  Según Informe de Cobertura Eléctrica emitido por ARCONEL 2007/2016
+                                                       15
+"
+"                                                                  Cuadro 2. Cambios en la Matriz de Indicadores
+                Nombre del indicador                            Valor Línea  Meta     Meta formalmente                                                                Fecha del cambio     Fecha de cambio
+Indicador                                    Tipo de cambio                                                                  Razón del cambio
+                       cambiado                                  de base    Original revisada (si aplica)                                                            acordado con el OE  acordado con el BID
+PRODUCTOS
+                                                                                                          Durante la preparación del Programa se propuso
+                                                                                                          realizar 1 curso por cada año de implementación (4 en
+                                                                                                          total). Durante el taller de arranque, se solicitó la
+              1.1 Cursos de                                                                                                                                          5 agosto 2014
+                                                                                                          reducción de la meta con el fin de agrupar,                                     26 septiembre 2014
+              capacitación a MEER,      Se disminuyó de 4 a 3
+                                                                                                          inicialmente por zona geográfica y por tecnología, con                         Fecha de ingreso del
+              CONELEC, EED en           la cantidad de cursos        0          4              3                                                                     Fecha del taller de
+                                                                                                          lo cual se ejecutó una capacitación con empresas de                            cambio del indicador
+              diseño y selección de     prevista                                                                                                                     arranque del
+                                                                                                          la sierra, otro con EED de la costa y un taller con                                en el sistema
+              proyectos sostenibles                                                                                                                                  programa
+                                                                                                          manejo de software. Posteriormente se identificó la
+                                                                                                          necesidad de realizar talleres y cursos adicionales
+                                                                                                          realizando un total de 6 cursos de capacitación
+                                                                                                          El producto se diseñó para apoyar la preparación de
+                                                                                                          estudios en 3 etapas. Sin embargo, luego de la
+                                        Se disminuyó de 3 a 2                                             elegibilidad se observó que no habiendo a esa fecha
+Componente I  1.2 Cartera de nuevos                                                                                                                                  5 agosto 2014
+                                        la cartera de proyectos                                           expectativas      de     financiamiento      de     nuevas                      26 septiembre 2014
+              proyectos FERUM
+                                        filtrados y se                                                    operaciones para obras FERUM, esta meta se bajó a                              Fecha de ingreso del
+              filtrados por la                                       0          3              2                                                                     Fecha del taller de
+                                        redistribuyó el año de                                            2. Finalmente, la apertura de nuevos financiamientos                           cambio del indicador
+              metodología y aprobados                                                                                                                                arranque del
+                                        ejecución de este                                                 para nuevas obras FERUM, derivaron en la necesidad                                 en el sistema
+              por el MEER.                                                                                                                                           programa
+                                        producto
+                                                                                                          de ampliar a 5 el número de carteras de proyectos que
+                                                                                                          finalmente fueron financiadas con el Proyecto.
+                                        Se modificó el nombre                                             Durante la elegibilidad del Programa, el Gobierno
+                                        del indicador, pasando                                            solicitó el cambio del indicador y la programación de      5 agosto 2014
+                                                                                                                                                                                          26 septiembre 2014
+                                        de “unidades                                                      la meta, dado que, de acuerdo a un análisis sobre la
+              1.3 Unidades de ER en                                                                                                                                                      Fecha de ingreso del
+                                        constituidas” a              0         10              3          composición de las unidades de ER en las distintas         Fecha del taller de
+              las EED reforzadas                                                                                                                                                         cambio del indicador
+                                        “unidades reforzadas”,                                            EED, se estimó más efectivo desarrollar las                arranque del
+                                                                                                                                                                                             en el sistema
+                                        identificando una                                                 capacidades de 3 unidades existentes mediante su           programa
+                                        nueva meta.                                                       reforzamiento.
+                                        Se cambió la unidad de
+              2.1 Proyectos FERUM       medida de la meta,
+              con extensión de Red      pasando de miles de          0      26.000           644
+              ejecutados                dólares a cantidad de                                             Durante el taller de arranque, dado que el ejecutor en     5 agosto 2014
+                                                                                                                                                                                          26 septiembre 2014
+                                        proyectos a realizar.                                             dicho momento contaba con una cartera de
+Componente II                                                                                                                                                                            Fecha de ingreso del
+                                                                                                          proyectos, se solicitó el cambio para posibilitar un       Fecha del taller de
+                                        Se cambió la unidad de                                                                                                                           cambio del indicador
+                                                                                                          control de avances del Producto, según desarrollo          arranque del
+              2.2 Proyectos FERUM       medida de la meta,                                                                                                                                   en el sistema
+                                                                                                          físico en obra.                                            programa
+              sin extensión de Red      pasando de miles de          0       3.000            35
+              ejecutados                dólares a cantidad de
+                                        proyectos a realizar.
+RESULTADOS
+              Número de EED             Se reconsideró el                                                                                                            5 agosto 2014
+                                                                                                                                                                                          26 septiembre 2014
+              utilizando la metodología número de EED a
+                                                                                                          Dado que las 20 EED ejecutan proyectos de                                      Fecha de ingreso del
+Componente I  económica-financiera en   beneficiarse de este         0         10             20                                                                     Fecha del taller de
+                                                                                                          electrificación rural, se solicitó el ajuste en la meta.                       cambio del indicador
+              el diseño de proyectos    producto, pasando de                                                                                                         arranque del
+                                                                                                                                                                                             en el sistema
+              FERUM                     10 a 20.                                                                                                                     programa
+              II-1 Número de Viviendas  La meta del                                                       Luego de la elegibilidad, la meta se ajusta producto
+Componente II sin Servicio (Vss)        componente pasa de           0      15.583          15.857        de la información contenida en la cartera de
+              atendidas                 15.583 a 15.857                                                   proyectos durante el taller de arranque.
+IMPACTO
+                                        El valor de línea base
+                                        en 2014 pasa de 95.4%                                             Actualización de la línea base 2014 y meta 2018,
+              Cobertura eléctrica en el
+Impacto                                 a 97.04% y el valor de     95.4      97.3           97.82         según metas establecidas por el gobierno en el PMR
+              país
+                                        meta final pasa de                                                vigente.
+                                        97.3% a 97.82%
+                                                                                                16
+"
+"b. Resultados logrados
+El principal cambio en la Tabla 2 es la actualización de las metas, P(a), de 5 de los 6 los indicadores de impacto bajo Mejora en
+Educación, Mejora en Percepción de Seguridad, Cambio de hábito/calidad de vida y Mejora en el Ingreso. Es importante aclarar por
+qué se cambiaron estas metas. Cuando la operación se diseñó en 2013, no se tenía información para los valores de línea de base y
+sus respectivas metas para estos cinco indicadores. Durante el proceso de aprobación en ese mismo año, la MR indico que los
+valores de línea de base para estos indicadores se actualizarían después de aplicar una encuesta de hogares para la evaluación de
+impacto (EI), la cual se aplicó en el 2014. Por otro lado, la MR también indico que las metas incluidas para estos indicadores se
+basaron en “experiencias internacionales previas de proyectos de Electrificación Rural” (Anexo II de la Propuesta de Préstamo). Sin
+embargo, el equipo propone un cambio en dichas metas, ya que no se sabía, ex ante, los valores de línea de base de estos indicadores.
+En otras palabras, las metas incluidas en la MR aprobada no son informativas sin un valor de línea de base que sirva de referencia
+para determinar claramente las mejoras en los indicadores. Es por esto por lo que, tanto los valores de línea de base, como los
+valores de las metas tuvieron que ser actualizados basados en datos reales de la EI (para valores de línea de base) y una exhaustiva
+revisión de la literatura (para las metas) para identificar de forma apropiada el impacto de esta intervención en estos indicadores.
+En el siguiente link, se encuentra un documento que detalla cómo se determinaron los valores de línea de base y los valores de las
+metas para estos 5 indicadores. En términos generales, para los valores de línea de base, se realizó una regresión multivariable con
+los datos de línea de base para determinar si existían diferencias en los valores de los indicadores de impacto entre Tratados y
+Controles; no se encontró diferencia entre estos, por lo cual el valor de línea de base de estos indicadores es 0. Por otro lado, para
+las metas, se hizo una revisión exhaustiva de la literatura—se revisaron 51 estudios—enfocada en intervenciones similares que miden
+el impacto en los cinco indicadores usados en la MR a nivel de impacto. Para cada indicador, se identificó cual es el impacto promedio
+basado en esta evidencia empírica. De esta forma, se logró definir apropiadamente los valores de línea base y metas, las cuales se
+comparan con los logros alcanzados usando los resultados de la EI, la cual se basa en un modelo de Efectos Fijos usando datos
+panel para 1,590 hogares. Esto significa que, para estos 5 indicadores de impacto, los logros alcanzados se obtienen midiendo el
+ratio de los valores alcanzados (A) y de las metas actualizadas (P(a)), [A/P(a)].
+                                                                     17
+"
+"                                                        Tabla 2. Matriz de Impactos y Resultados logrados
+                                                         Unidad     Valor de       Año de
+                                                                                             Metas y alcance         %
+                   Impacto / Indicador                     de       Línea de      línea de                                             Medios de verificación
+                                                                                                   real          Alcanzado
+                                                         Medida      base 23        base
+1 - Acceso a la energía
+                                                                                             P        97.82
+Cobertura eléctrica en el país                             %          97.04         2014     P(a)     97.82         37%    Reporte de Estadísticas Multianuales.
+                                                                                             A        97.33
+2 - Mejora en Educación
+                                                                                             P           60
+Tiempo de los niños dedicado a las tareas/lectura en                                                                       Encuestas de hogares en línea de base (LB,
+                                                        min / día       0           2014     P(a)       9.15        0%
+zonas rurales (min/día)                                                                                                    2014) y seguimiento (A, 2016) respectivamente.
+                                                                                             A            0
+                                                                                             P           45
+Tiempo de los adultos dedicado a la lectura                                                                                Encuestas de hogares en línea de base (LB,
+                                                        min / día       0           2014     P(a)        8.4        0%
+(minutos/días)                                                                                                             2014) y seguimiento (A, 2016) respectivamente.
+                                                                                             A            0
+3 - Mejora en Percepción de Seguridad
+                                                                                             P           70
+Percepción (% de personas que se sienten seguras en                                                                        Encuestas de hogares en línea de base (LB,
+                                                           %         -4.2%          2014     P(a)         7        103%
+sus hogares - Mujeres)                                                                                                     2014) y seguimiento (A, 2016) respectivamente.
+                                                                                             A           7.3
+4 - Cambio de hábito / calidad de vida
+                                                                                             P           70
+Percepción (% de personas que consideran mejoró su                                                                         Encuestas de hogares en línea de base (LB,
+                                                           %           0%           2014     P(a)         4         0%
+situación económica durante los últimos 12 meses)                                                                          2014) y seguimiento (A, 2016) respectivamente.
+                                                                                             A            0
+5 - Mejora en Ingreso
+                                                                                             P           20
+                                                                                                                           Encuestas de hogares en línea de base (LB,
+Aumento del ingreso económico en el hogar (%)              %           0%           2014     P(a)        9.8       123%
+                                                                                                                           2014) y seguimiento (A, 2016) respectivamente.
+                                                                                             A        12.07
+   23   Para el presente PCR, se realizó una actualización de las líneas de base y metas. Para valores de línea de base se utilizó información de la encuesta de EI
+        recolectada después de la aprobación de esta operación; así como indicado en la MR aprobada. Para las metas, los valores se basan en una revisión exhaustiva
+        de la literatura sobre indicadores similares, véase el resumen de estudios revisados en el siguiente link.
+                                                                                     18
+"
+"                                                                             Año de
+                                         Unidad de          Valor de                    Metas y alcance        %
+         Resultados / Indicador                                             línea de                                                Medios de verificación
+                                          Medida         Línea de base                        real        Alcanzado
+                                                                              base
+Componente I. Fortalecimiento institucional en la selección y diseño de proyectos de ER y UM
+I.1 - Número de EED utilizando la                                                      P             20                              Informe PMR - UGP
+metodología económica-financiera en el       N°                0              2013     P(a)          20      100%
+diseño de proyectos FERUM                                                              A             20
+Componente II. Financiamiento a proyectos FERUM
+                                                                                       P           15.857
+II.1 - Número de Vss atendidas           Viviendas             0              2013     P(a)        15.857     83%                    Informe PMR - UGP
+                                                                                       A           13.101
+                                                                                       P           1.812
+II.2 - Número de Vcms atendidas          Viviendas             0              2013     P(a)        1.812     352%                    Informe PMR - UGP
+                                                                                       A           6.386
+II.3 - Número de nuevas viviendas                                                      P            836
+atendidas en zonas aisladas de difícil                                                 P(a)         836                              Informe PMR - UGP
+                                         Viviendas             0              2013                           101%
+acceso geográfico en el país con
+servicio eléctrico sostenible                                                          A            841
+                                                           Valor de         Año de
+                                        Unidad de                                      Metas y alcance         %
+                Productos                                  Línea de        línea de                                                Medios de verificación
+                                          Medida                                             real         Alcanzado
+                                                             base             base
+Componente I. Fortalecimiento institucional en la selección y diseño de proyectos de ER y UM
+1.1 Cursos de capacitación a MEER,                                                    P              3
+CONELEC, EED en diseño y selección           N°                0              2013    P(a)           6      100%    Informe PMR – UGP; MR Convergencia
+de proyectos sostenibles                                                              A              6
+1.2 Cartera de nuevos proyectos                                                       P              2
+FERUM filtrados por la metodología y         N°                0              2013    P(a)           3      166%    Informe PMR – UGP; MR Convergencia
+aprobados por el MEER                                                                 A              5
+                                                                                      P              3
+1.3 Unidades de ER en las EED
+                                          Proceso              0              2013    P(a)           3      100%    Informe PMR – UGP; MR Convergencia
+reforzadas
+                                                                                      A              3
+Componente II. Financiamiento de proyectos FERUM
+                                                                                      P             644
+2.1 Proyectos FERUM con extensión
+                                         Proyecto              0              2013    P(a)          715      99%    Informe PMR – UGP; MR Convergencia
+de Red ejecutados
+                                                                                      A             706
+                                                                                      P             35
+2.2 Proyectos de Electrificación Rural
+                                         Proyecto              0              2013    P(a)          35      103%    Informe PMR – UGP; MR Convergencia
+sin extensión de Red ejecutados
+                                                                                      A             36
+                                                                                       19
+"
+"Descripción y Calificación de Resultados
+El objetivo general del programa fue contribuir a mejorar la calidad de vida de la población a
+través del acceso al servicio eléctrico y de calidad en viviendas UM y rurales del Ecuador. Los
+objetivos específicos fueron dos: (i) incrementar la capacidad institucional de las EED, del MEER
+y del CONELEC (actual ARCONEL), en diseño, propuesta, ejecución, monitoreo y evaluación de
+proyectos de ER y UM; y (ii) contribuir a la implementación de proyectos sostenibles en zonas de
+difícil acceso geográfico en el país.
+Las guías del PCR indican que las operaciones se evalúen en relación con los objetivos de
+desarrollo y los resultados y productos asociados que el proyecto se proponía lograr. Para medir
+el logro de la operación, entonces, se deben analizar los logros alcanzados de cada objetivo por
+separado.
+Los tres objetivos de este programa están estrechamente interrelacionados: el fortalecimiento
+institucional provisto por el Componente I mejoró la capacidad de las entidades del sector en
+evaluar, diseñar, ejecutar y monitorear nuevos proyectos de ER y UM, mientras que este
+fortalecimiento se debió ver reflejado en una exitosa implementación del Componente II, el cual
+implementó los proyectos de ER y UM. Como se puede observar, los dos objetivos específicos
+se alinean directamente con cada uno de los 2 componentes: el Componente I se alinea con el
+objetivo específico #1, mientras que el Componente II se alinea con el objetivo específico #2. El
+logro de estos dos Componentes contribuye al objetivo general de la operación de mejorar la
+calidad de vida de la población a través del acceso al servicio eléctrico, y de mejor calidad, en
+viviendas UM y rurales del Ecuador.
+Con base en la secuencia del objetivo general y los dos objetivos específicos y respectivos
+indicadores contenidos en la Matriz de Resultados (MR) del programa (POD - Anexo II -
+EC-L1128), a continuación, se describen en contexto y se califica el grado de cumplimiento de
+las metas de cada uno de estos objetivos y sus respectivos indicadores de Impacto y Resultado.
+Esto se hace para cada componente, ya que cada uno de estos se alinea directamente con cada
+uno de los 2 objetivos específicos. Se enfatiza que todos los indicadores de la MR fueron medidos
+con apoyo en los medios de verificación señalados en la Tabla 2. Matriz de Resultados logrados.
+Esta discusión se complementa con resultados de la EI, la cual midió el efecto de esta
+intervención en indicadores adicionales a los de la MR relacionados a acceso a electricidad,
+calidad del servicio y sus impactos en la mejora de la calidad de vida de la población beneficiada.
+Primera Parte: logros alcanzados por Componente
+Productos Componente I – Fortalecimiento institucional en la selección y diseño de proyectos
+de ER y UM. El componente incluye tres Productos (promedio de 122% de metas alcanzadas) y
+un Resultado (100% de logro planificado), cuyas metas se cumplieron plenamente o se
+superaron, como se aprecia en la respectiva Tabla 2. Matriz de Resultados logrados, pudiendo
+destacar en particular los siguientes aspectos:
+1. Subcomponente I.1.- Capacitación a las EED en el diseño y Operación y Mantenimiento
+     (O&M) de proyectos ER y UM. Bajo este subcomponente se realizaron capacitaciones a las
+     EED en diseño y O&M de proyectos ER y UM, habiendo inicialmente previsto para ejecución
+     de este producto 4 cursos de capacitación, finalmente se realizaron 6, incluyendo: (i) taller de
+     difusión de resultados financieros y técnicos del Programa FERUM BID I, que incluyó al
+     personal que interviene en la ejecución y seguimiento del programa FERUM, centrado en el
+     siguiente temario: (a) metodología de eficiencia técnica – económica del programa,
+     (b) resultados de la auditoria externa de término del programa, y (c) resultados obtenidos
+                                                 20
+"
+"   durante la ejecución del programa ex-ante y ex-post; (ii) taller de uso de herramientas de
+   simulación para diseño de proyectos de energía renovable; dictado en 2 fases, el cual estuvo
+   orientado a los funcionarios de las EED, responsables de la electrificación rural en zonas
+   aisladas, en el uso del software HOMER Pro, el mismo que actualmente permite a las EED
+   realizar análisis y diseño de sistemas de generación con uso de energías renovables;
+   (iii) capacitación en diseño y selección de proyectos sostenibles, la cual contó con la
+   participación de los funcionarios técnicos y financieros de las 20 EED, ARCONEL y MEER,
+   cuya finalidad fue socializar la “Metodología para Evaluación de la Sostenibilidad de los
+   Proyectos del Programa FERUM con extensión de redes y sin extensión de red (sistemas
+   aislados)”; (iv) capacitación en sistemas de protecciones eléctricas para zonas rurales,
+   orientado a mejorar las condiciones del servicio eléctrico en las zonas rurales, la cual se
+   realizó en particular para el personal técnico de la Empresa Eléctrica Quito, ARCONEL y
+   MEER; y (v) capacitación en la aplicación del sistema informático CYMDIST, destinado al
+   personal técnico de las 20 EED y del MEER para manejo de software CYMDIST 8.0, con un
+   nivel de conocimiento intermedio.
+   Cabe recalcar que el contenido técnico impartido en estos talleres de capacitación
+   contribuyeron a la creación y aplicación de una metodología integral para filtrar proyectos
+   FERUM implementados por el Componente II. Esta metodología integral es capturada en el
+   indicador de resultado de Número de EED utilizando la metodología económica-financiera en
+   el diseño de proyectos FERUM.
+2. Subcomponente I.2.- Cartera de nuevos proyectos FERUM filtrados por la metodología
+   desarrollada en el Subcomponente I.1 y aprobados por el MEER. Con este subcomponente
+   se financió el desarrollo de estudios para nuevas obras FERUM, bajo modalidad
+   costo/eficiente, con lo cual las EED pudieron conformar cinco carteras de proyectos. Esta
+   ampliación se relaciona con antecedentes de solicitudes que las EED reciben, respecto de
+   necesidades de electrificación y que, para su atención en cuanto a ejecución de obras, se
+   requieren estudios previos. Los estudios financiados con este subcomponente corresponden
+   a proyectos para 313 comunidades, los que conforman 5 carteras. La ejecución de las obras
+   incluidas en estos estudios forma parte de nuevas operaciones de financiamiento con
+   organismos multilaterales y/o financiamientos con recursos propios del GdE.
+3. Subcomponente I.3.- Unidades de ER en las EED fortalecidas. A modo de incentivar el uso
+   de energías renovables no convencionales24, el programa destinó US$3 millones para el
+   desarrollo de Proyectos de electrificación rural sin extensión de red, soluciones que, en este
+   caso, se basan en fuentes de generación en sitio, a base de paneles solares fotovoltaicos.
+   En apoyo a esta iniciativa, el diseño original del programa incluyó recursos para constituir
+   diez unidades de ER en las EED, sin embargo, luego de la elegibilidad del programa, y en
+   base a un análisis realizado se comprobó que, debido a la heterogeneidad en la gestión de
+   proyectos de ER, no era necesario constituir las unidades de ER. En cambio, el reforzamiento
+   de unidades de ER mediante la adquisición de equipos y software, así como el desarrollo de
+   capacidades mediante capacitación y estudios, era más apropiado para la realidad del sector.
+   De esa cuenta, se realizaron las siguientes actividades: (i) adquisición de equipos
+   (informáticos, de medición, hardware y herramientas varias); (ii) adquisición de software
+   especializado para evaluar condiciones técnicas operativas de la red, en el entorno de obras
+   FERUM; y (iii) desarrollo de estudios de “Sistemas de Protecciones Eléctricas para Zonas
+   Rurales”, para analizar el estado de calibración de las protecciones en los alimentadores que
+   abastecen de energía a zonas rurales de una EED.
+24 PME – 2013/2022 -Objetivos Específicos: Desarrollar la infraestructura del parque generador del país,
+   considerando especialmente las fuentes renovables de energía eléctrica.
+                                                     21
+"
+"Resultados Componente I. El Componente I, asocia resultados correspondientes a “Número de
+EED utilizando la metodología económica-financiera en el diseño de proyectos FERUM”, con
+meta original 10. Sin embargo, como se ha indicado, esta meta fue replanteada luego de la
+elegibilidad del programa, quedando en 20, de los cuales se logró un 100% de esta meta
+planificada. Tal redefinición se fundamenta también, en que, en el presente financiamiento,19 de
+las 20 EED que prestan el servicio eléctrico en Ecuador, están incluidas en el desarrollo de los
+Productos del presente programa.
+Productos Componente II – Financiamiento de proyectos FERUM. El Componente II involucra
+el 90% del financiamiento y está conformado por dos Productos (promedio de 101% de metas
+alcanzadas) y tres Resultados (promedio de 179% de logros alcanzados). Constituye la base en
+la cual se sustenta el programa y las metas previstas se cumplieron plenamente o se superaron,
+como se aprecia en la respectiva Tabla 2. Matriz de Resultados logrados y como se fundamenta
+también a continuación:
+Subcomponente II.1.- Proyectos FERUM con extensión de Red ejecutados. En este Producto
+se agrupan los proyectos que benefician a 706 comunidades de las 715 previstas. Cada proyecto
+incluye la instalación de redes de distribución de energía eléctrica, construidas según normas
+estandarizadas por el MEER y su ejecución en campo fue apoyada por las respectivas EED
+(19 empresas en este programa), quienes realizaron los procesos de licitación, adjudicación,
+desarrollo, puesta en servicio y liquidación, en modalidad “llave en mano”25 y contando, además,
+con servicios contratados de Fiscalización. Tales comunidades, se ubican tanto en sectores
+rurales como en el entorno UM de las ciudades, lo cual establece una diferencia en la cantidad
+de beneficiarios por cada comunidad.
+Subcomponente II.2.- Proyectos de Electrificación Rural sin extensión de red ejecutados26. La
+ejecución de los proyectos incluidos en este Producto benefició a 36 comunidades de las
+35 originalmente planificadas. En este caso y debido a que tales comunidades habitan en
+sectores alejados de centros urbanos, sin accesos viales y dado que la conexión a la red
+existente del sistema de distribución no es viable, la solución técnica para proveer de servicio
+eléctrico a las familias que conforman estas comunidades, se basa en generación con fuentes
+de energía renovable, específicamente mediante empleo de paneles solares fotovoltaicos.
+Dependiendo del grado de concentración de las viviendas en cada comunidad y del nivel de
+consumo previsto, el sistema solar fotovoltaico se diseña: (i) de forma independiente para cada
+familia;(ii) conformando pequeñas extensiones de red eléctrica (micro redes) o; (iii) aplicando
+ambas soluciones en la misma comunidad.
+Resultados Componente II. En relación con los resultados establecidos para este componente,
+al considerar el número total de viviendas atendidas (al combinar el número de viviendas sin
+servicio y con servicio mejorado), se alcanzó un 110% de las metas previstas, según se aprecia
+en la respectiva Tabla 2. Matriz de Resultados logrados. Destacando que la meta alcanzada,
+revisada de forma independiente para cada indicador, es de: 83% para Viviendas sin servicio
+(Vss) atendidas; 352% para Viviendas con mejor servicio (Vcms) atendidas y 101% para
+viviendas atendidas en zonas aisladas. Cabe señalar, que el resultado de viviendas atendidas
+en zonas aisladas corresponde al exclusivo efecto del desarrollo de obras correspondientes al
+Producto “Proyectos ER sin extensión de red ejecutados” y, por tanto, el análisis del grado de
+consecución de la meta debería ser separado (101%). Sin embargo, los resultados para Vss
+atendidas y Vcms atendidas corresponden, ambos, a efectos de ejecución de las obras incluidas
+25  En el cual se contrata el diseño, adquisición y construcción en un único contrato.
+26  Las Comunidades que forman parte de este Producto se ubican principalmente en la región amazónica del País,
+    específicamente en las provincias de Pastaza, Orellana, Zamora Chinchipe, Sucumbíos y Loja.
+                                                          22
+"
+"en el Producto “Proyectos FERUM con extensión de red ejecutados” y por ende es válida su
+asociación (110%)27.
+En función a esta evidencia, se concluye que esta operación alcanzó y superó las metas de sus
+dos objetivos específicos de desarrollo: en promedio, se alcanzó el 114% de las metas
+planificadas para productos28, y se alcanzó el 159% de las metas planificadas a nivel de
+resultados29.
+Habiendo determinado el logro de los dos objetivos específicos, a continuación, se presentan los
+logros alcanzados para el objetivo general de contribuir a mejorar la calidad de vida de la
+población a través del acceso al servicio eléctrico y de calidad en viviendas UM y rurales
+del Ecuador.
+Como indicado en párrafos anteriores, la evaluación de impacto verificó la efectividad de la
+operación a fin de validar las dos avenidas que llevan a esta mejora en la calidad de vida de la
+población beneficiada: (i) incremento en el acceso al servicio eléctrico; y (ii) incremento a servicio
+eléctrico de calidad. En la muestra analizada el porcentaje de hogares con acceso a electricidad
+pasó de 69% a 87% y los hogares con acceso informal a la red eléctrica pasaron del 62% a 25%.
+Por otro lado, la EI también verificó mejoras en la calidad del servicio eléctrico: en promedio, esta
+operación redujo el número de interrupciones de servicio por mes (1/mes) para los hogares
+beneficiados en comparación al grupo de control; y en promedio, los hogares beneficiados por
+este programa vieron una reducción de fallas de voltaje de 4.3 días/mes, en comparación al grupo
+de control. Esto provee evidencia adicional de que esta operación mejoró el acceso al servicio
+eléctrico, y la calidad del suministro de este.
+En términos del efecto de esta operación en la mejora en la calidad de vida de la población
+beneficiada por el FERUM, la MR incluye tres indicadores, todos a nivel de impacto y evaluados
+en la EI:
+    1. Aumento del ingreso económico en el hogar (%): se logró un incremento de
+         12.07% en comparación al grupo de control, lo cual representa 123% de la meta
+         planificada.
+    2. Percepción de personas que consideran mejoró su situación económica durante
+         los últimos 12 meses (%): La EI no encontró un impacto en este indicador, sin embargo,
+         el modelo de efectos fijos muestra evidencia de que los hogares participantes en el
+         programa si percibieron una mejora en su calidad de vida respecto al resto del país (7.4%
+         en comparación al grupo de control). La EI también encontró un impacto positivo en la
+         percepción de seguridad (mujeres) en la calle: un 19.5% más de mujeres beneficiadas
+         por el programa, en comparación a las mujeres jefas de hogar/conyugues del grupo de
+         control. Se debe recalcar que la EI también encontró un impacto positivo en los siguientes
+         indicadores de mejoras en la calidad de vida de los hogares: (i) menos interrupciones de
+         servicio y menos fallas de voltaje; (ii) más uso de aparatos eléctricos para iluminación y
+         equipos; (iii) más tiempo viendo televisión y participando en actividades sociales de
+         noche.
+27 Esta condición sugiere que, en siguientes operaciones, este resultado se puede transformar en uno (Viviendas
+    atendidas), para el Producto “Proyectos FERUM con extensión de Red ejecutados”. Desde el punto de vista
+    Comercial, sí se debe llevar la contabilidad de los casos atendidos en calidad de Vcms, por cuanto se trata de un
+    cliente al que, con la intervención del programa, se le están modificando sus datos, por ejemplo, para facturación.
+28  Alternativamente, se logró el 100% de productos asumiendo un logro máximo de 100% por producto (para
+    aquellos con valores de más del 100%).
+29  Alternativamente, se logró el 95.75% de resultados asumiendo un logro máximo de 100% por resultado (para
+    aquellos con valores de más del 100%).
+                                                           23
+"
+"    3. Percepción de personas que se sienten seguras en sus hogares – Mujeres (%): se
+        logró un incremento de 7,3% en comparación al grupo de control, lo cual representa un
+        103% de la meta planificada. Cabe mencionar que las jefas/conyugues del hogar,
+        también reportaron sentirse mas seguras en la calle, a raíz de que sus comunidades
+        incrementaran y mejoraran su acceso a electricidad: en promedio, un 19.5% más de
+        jefas/conyugues del hogar de familias beneficiadas se sienten más seguras en la calle,
+        en comparación a las jefas/conyugues de hogares del grupo de control.
+Como se puede apreciar, esta operación también supero 2 de las 3 metas planificadas para los
+indicadores de impacto relacionados al objetivo general de mejorar la calidad de vida de la
+población beneficiada por esta operación.
+c. Análisis contrafactual
+Dada la naturaleza de esta operación, que tiene una orientación social al focalizarse en zonas
+de difícil acceso (rurales y urbano marginales, y rurales aisladas de difícil acceso) para mejorar
+la calidad de vida de la población de estas zonas, es evidente que, en ausencia de esta
+intervención por parte del Gobierno, las actividades, productos, y proyectos financiados por esta
+operación no las hubiese realizado el sector privado, y las mismas comunidades no hubiesen
+tenido la capacidad de financiar e implementar este tipo de proyectos.
+Por ejemplo, en ausencia de esta operación, los talleres de capacitación para las EED en el
+diseño y Operación y Mantenimiento (O&M) de proyectos ER y UM, no se hubiese podido
+desarrollar la metodología integral económica-financiera para el diseño de los proyectos FERUM.
+Los diferentes elementos que componen esta metodología no solo se enfocan en la parte
+económica y financiera, sino que también se incorporan elementos técnicos de ingeniería que
+consideran las características y necesidades específicas de cada una de estas tres zonas
+focalizadas.
+Para las viviendas con mejor servicio (Vcms), la misma lógica aplica: dado que la provisión del
+servicio eléctrico es responsabilidad del Estado, en ausencia de esta intervención, no existe otra
+entidad privada o pública que pueda mejorar la provisión del servicio eléctrico en estas zonas
+marginales.
+Finalmente, por la parte de las viviendas sin servicio (Vss y zonas aisladas de difícil acceso),
+estas representan el “ultimo” rezago nacional en términos de cobertura. Cabe mencionar que,
+particularmente para las zonas aisladas y de difícil acceso, dados los bajos niveles de densidad
+poblacional, y dado que estas comunidades están muy lejos de las redes de distribución, en
+ausencia de esta intervención, estos hogares seguirán usando las mismas fuentes de energía
+que vienen usando por décadas: generadores, baterías, querosene, velas, leña, entre otros.
+Dada esta breve descripción del posible contrafactual para los cuatro indicadores de resultado,
+se puede concluir que el porcentaje de logros primordialmente atribuible a esta intervención.
+La muestra final se encuentra compuesta por aproximadamente 1.590 hogares presentes en
+línea de base y de seguimiento. Aproximadamente 60% son considerados tratados. En el 2014,
+hogares sin acceso a la red representaron aproximadamente 40% y 35% en controles y tratados
+respectivamente. En el 2016, el grupo de control estaba compuesto por aproximadamente 38%
+de hogares sin acceso y el remanente de hogares con acceso irregular.
+                                                24
+"
+"Impacto en el mejoramiento de condiciones socio-económicas en las comunidades
+beneficiadas con el programa.
+Se realizó una EI para el componente II.1 del proyecto, cuyos efectos fueron evaluados usando
+la estrategia de doble-diferencias sobre la base de un panel balanceado30 de hogares, de tratados
+y controles31. Dicho panel fue conformado por encuestas de línea de base y de línea de
+seguimiento efectuadas en grupos de control y tratamiento en los años 2014 y 2016. Detalles
+sobre la selección de ambos grupos y el muestreo efectuado se encuentra disponible en el
+informe de Evaluación de Impacto. Es importante destacar que el diseño de evaluación
+prospectiva permitió cuantificar la efectividad de la intervención, evaluando la cadena lógica de
+productos, resultados e impactos constituyendo evidencia empírica y conocimiento operacional
+única en la literatura y en el Banco. Las variables analizadas incluyen los indicadores de impacto
+incluidos en la MR, así como indicadores de acceso y calidad, los cuales complementan los
+resultados alcanzados descritos en la sección anterior. Tambien se mide el consumo de
+electricidad en el hogar, uso de tiempo de los niños y las jefas de hogar/cónyuges, percepción
+de seguridad de las jefas de hogar/cónyuges, empleo y adopción de eficiencia energética.
+Los resultados indican que el FERUM es efectivo en mejorar la calidad y confiabilidad de servicios
+eléctricos (medido por número de interrupciones y fallas de voltaje reportadas por los usuarios),
+conduciendo a cambios de comportamiento y de percepción en los beneficiarios, con
+connotaciones de genero significativas (por ejemplo, acceso a medios de comunicación). En
+general, la EI muestra que la provisión de servicios eléctricos de calidad constituye una
+infraestructura de base sobre la cual el hogar accede a mejor información, participa en la vida
+pública, incrementa su sensación de seguridad, y mejora sus condiciones económicas32. La EI
+también sugiere que servicios de calidad representan una condición necesaria para la adopción
+de artículos de mayor eficiencia energética, los cuales son más sensibles ante fallas en el
+suministro eléctrico.
+Específicamente, la intervención redujo el número promedio de interrupciones en 1 vez por mes,
+y el número de inestabilidades de voltaje en 4 veces por mes, aproximadamente 30% y 50%
+menos que el grupo de control. Como consecuencia del programa (que incluye ampliación de
+acceso y mejora de calidad de servicio), el consumo de electricidad, en iluminación y uso de
+equipos eléctricos, se incrementó en 87% en comparación al grupo de control. De acuerdo con
+los resultados de esta EI, este creciente uso del servicio eléctrico mejorado parece ser reflejo de
+un mayor acceso a medios de comunicación y culturales. Ello ocurre mediante el cambio
+conductual en el uso del tiempo en los miembros del hogar, particularmente las mujeres y los
+niños. Con base en el módulo de uso de tiempo de la encuesta realizada, las cónyuges dedican
+24 minutos adicionales al día a ver televisión, mientras que niñas y niños miran 47 minutos diarios
+adicionales de televisión. Mayor acceso a medios de comunicación puede considerarse deseable
+desde el punto de vista de política pública, ya que hay evidencia de que en algunos casos facilita
+una mayor exposición a modelos de conducta e informaciones que han mostrado tener un
+impacto positivo en la reducción de las tasas de natalidad adolescente 33.
+30  Hogares entrevistados, tanto en línea de base, como en línea final.
+31  Asumiendo que condicional en observables y efectos fijos, los grupos de control y tratamiento son comparables,
+    y que diferencias entre grupos se comportan de forma similar en el tiempo. Estos supuestos son evaluados
+    empíricamente en la evaluación de impacto.
+32  Ver por ejemplo La Ferrara, E., Chong, A. and Duryea, S. 2012. Soap operas and fertility: Evidence from Brazil.
+    American Economic Journal: Applied Economics, 4(4), pp.1-31.
+33  Ver La Ferrara et al (2012), Fetzer, T., Pardo, O. and Shanghavi, A., 2018. More than an urban legend: the short-
+    and long-run effects of unplanned fertility shocks. Journal of Population Economics, pp.1-52.
+                                                          25
+"
+"Por otro lado, el mayor acceso y mayor confiabilidad del servicio eléctrico también incrementa la
+percepción de seguridad, tal que un 20% adicional de jefas de hogar o cónyuges reportan sentirse
+seguras en la calle en comparación a las jefas de hogar del grupo de control, y un 8% adicional
+reportan sentirse seguras dentro de la vivienda. Los resultados de la EI muestran incrementos
+en la adopción de eficiencia energética, asociados a la intervención, presumiblemente debido a
+mejoras en la calidad y confiabilidad del servicio y en el nuevo servicio medido y cobrado por las
+empresas de distribución. Hogares beneficiarios incrementan su tenencia de focos LED y/o CFL
+en 13% en comparación al grupo de control, desplazando el uso de focos incandescentes.
+Asimismo, el FERUM se encuentra asociado a incrementos en los ingresos del hogar del orden
+de 12% en ingresos monetarios. De forma consistente con este incremento, los hogares
+beneficiarios incrementan su consumo en alimentos, pero el mismo es más pronunciado (en torno
+al 10%) en el caso de perecibles como pescados, carnes y lácteos.
+Cabe indicar que el presente análisis no encontró efectos en algunos eslabones relevantes de la
+cadena causal. Por ejemplo, generación de nuevos negocios que expliquen el incremento en
+ingresos. Tampoco se detectó incremento en el tiempo dedicado a la lectura por parte de
+adultos/niños, ni mejoras sistemáticas en la asistencia escolar. En términos de salud, no se
+detectaron reducciones en enfermedades respiratorias. Esto puede ser resultado del periodo
+relativamente corto de evaluación (menor a dos años) y de limitaciones en las posibilidades de
+levantamiento de información mediante encuestas de hogares. Téngase en cuenta también que
+más de la mitad de la muestra en línea de base contaba con servicio eléctrico de forma irregular,
+reduciendo la variabilidad de forma significativa para detectar, por ejemplo, cambios en
+enfermedades respiratorias las cuales suelen obedecer principalmente al uso de combustibles
+contaminantes al interior del hogar. De ello se deriva, la necesidad de impulsar esfuerzos
+evaluativos que permitan dimensionar adecuadamente las ganancias socioeconómicas de largo
+plazo de los proyectos de provisión de electricidad.
+Para mayor información, discusión de los resultados, evidencia, citas y detalles técnicos, ver el
+documento de Evaluación de Impacto.
+d. Resultados imprevistos
+La condición de vivienda sin servicio (Vss) asocia un domicilio que no cuenta con suministro
+eléctrico normalizado y por tanto tampoco cuenta con medidor. Sin embargo, un porcentaje
+mayoritario de estas Vss forman parte de la población urbano marginal de las ciudades y ello
+permite que cuenten con electricidad tomada informalmente desde las redes de distribución
+próximas a estas urbanizaciones. Esta anomalía tiene efecto, tanto en la calidad del servicio de
+las familias normalmente conectadas a la red, como en las pérdidas comerciales de la empresa
+distribuidora. Si bien el desarrollo del programa ataca ambos temas, dada la magnitud del efecto
+y la solidez del dimensionamiento, en este apartado se abordará sólo el resultado no previsto en
+términos de pérdidas de energía34.
+La referida condición de uso informal de la electricidad que se observa en parte de las
+comunidades favorecidas con las obras incluidas en el Componente II-a “Proyectos FERUM con
+extensión de Red”, no fue identificada en la información al momento del diseño de la operación.
+Sin embargo, reportes primarios de avance físico del programa, permitieron establecer que el
+34  Ecuador ha reducido en 10 puntos porcentuales las pérdidas de energía en el periodo 2007 - 2016, lo que significa
+    un ahorro al país de 1.200 millones de dólares acumulados (pasando de 22.2% a 12.2% - MEER Informe
+    Rendición de Cuentas 2014)
+                                                       26
+"
+"55% de las 13.101 viviendas sin servicio beneficiadas35, cuentan con redes informales
+conectadas directamente a la red pública existente en las proximidades. La valorización que, en
+cuanto a mayores ingresos, implica la normalización del servicio eléctrico a estas viviendas que
+acceden informalmente al servicio eléctrico y que forman parte de las comunidades tratadas con
+este financiamiento, totaliza cerca de 660 mil dólares anuales a nivel general, mientras que las
+compras de energía de las distribuidoras se reducen en unos 500 mil dólares anuales, totalizando
+un beneficio neto anual por reducción de estas pérdidas comerciales por US$ 1.16 millones (Ref.
+Evaluación E&F del programa).
+ 2.3     Eficiencia
+Uno de los hallazgos de la EI realizada en el marco del programa fue identificar que un 55% de
+las viviendas sin servicio regular de electricidad, excepto en zonas aisladas, tenían acceso a las
+redes de distribución y sus altos niveles de consumo no registrado venían incrementando las
+pérdidas comerciales de las distribuidoras. Si bien este aspecto no había sido considerado en
+las evaluaciones económicas de costo-beneficio previas al proyecto, sí ha sido considerado en
+la evaluación ex post, por su efecto inmediato en reducir las compras de energía asociadas con
+el cambio de los niveles de consumo de este grupo de viviendas, que se reduce al entrar en un
+régimen de lectura y facturación regular.
+La Evaluación Económica Ex Post considerando, además, los registros de consumos reales de
+los clientes beneficiados luego de ejecutados los proyectos, y en ella se concluye que el
+programa resulta económicamente rentable, al considerar la totalidad de los proyectos,
+obteniéndose un VANE de US$10,6 millones, con una TIRE de 18,2%.
+                                   Cuadro 3. Comparación de indicadores
+                         Indicador                      Evaluación Ex Ante Evaluación Ex Post
+                         Inversión
+                                                                26,0               29,2
+                  (millones US$, sin IVA)
+                         Proyectos
+                                                                 736               742
+                             (#)
+                       Beneficiarios
+                                                               18.782            20.328
+                      (Total viviendas)
+                             Vcs
+                                                           2.542 (13,5%)      6.386 (31,4%)
+                (Viviendas con Suministro)
+                             Vss
+                                                          16.240 (86,5%)     13,942 (68,6%)
+                 (Viviendas sin suministro)
+             VAN Económico millones US$)                        70,6               10,6
+                    TIR Económica (%)                          52,0%              18,2%
+Las razones principales de las diferencias entre las evaluaciones ex ante y ex post, son:
+    •    La cantidad de viviendas sin suministro de aquella simulación fue de 16,240 y
+         representaban un 86.5% de beneficiarios, mientras que los proyectos efectivamente
+         ejecutados, con una inversión muy similar, conectaron y/o regularizaron el servicio de
+         13.942 viviendas sin servicio que representaban un 68,6% de los beneficiarios. Con ello,
+         las nuevas cuentas a facturar se redujeron en un 14%.
+    •    Un 55% de las viviendas sin suministro regular estaban consumiendo energía de la red
+         sin facturar, por lo que no se refleja en ellas un incremento de beneficio económico. De
+35
+    No incluye 841 viviendas sin servicio ubicadas en zonas aisladas.
+                                                         27
+"
+"          esta forma, el excedente del consumidor se reduce en semejante proporción respecto de
+          la Evaluación Ex Ante.
+      •   La evaluación Ex Ante consideró como premisa que un 100% de los clientes beneficiados
+          con el programa FERUM se adherirían al Programa de Sustitución de GLP, favoreciendo
+          aún más los niveles de consumo y facturación esperados. Sin embargo, a 2017 las metas
+          de dicho programa a nivel nacional han alcanzado al 14% de lo esperado para esa fecha.
+Los resultados económicos resultan más sensibles a 3 parámetros de la evaluación ex post,
+según se muestra en el Cuadro 4, como resultado de una variación típica de +/- 15% entorno del
+valor esperado de cada uno.
+                            Cuadro 4. Resultados Análisis Sensibilidad Ex Post
+                                                                             VANE (millones
+                         Parámetro                         Variación                                 <U+F044>VANE (%)
+                                                                                   US$)
+            Vss con acceso informal a la red.                +15%                  7.73                -26.9%
+                                                              -15%                13.42                +26.9%
+            Tarifa Residencial (cargo variable)              +15%                 13.04                +23.3%
+                                                              -15%                 8.11                -23.3%
+            Elasticidad Precio de la Demanda                 +15%                  8.96                -15.3%
+                                                              -15%                12.76                +20.7%
+El anexo que contiene la Evaluación Económica Ex Post, incluye los beneficios y costos
+considerados en el análisis, así como los supuestos y fuentes de información utilizados.
+En cuanto a la eficiencia en el uso de los recursos destinados para el programa, el Cuadro 5
+muestra los costos promedio de los proyectos, con extensión de red, y aislados financiados por
+el Proyecto.
+                            Cuadro 5. Costos promedio de proyectos (sin IVA)
+                                           Costo promedio           Costo Promedio              Eficiencia en
+                 Tipo de proyecto              en diseño                ejecutado                  costos
+                                            (US$/vivienda)           (US$/vivienda)                  (%)
+               Con extensión de red                1.469                   1.341                    108.7
+               Sin extensión de red
+                                                   3.589                   3.626                     99.0
+               (aislados)
+                                             Tabla 3. Costos del proyecto36
+  Componente I Fortalecimiento Institucional en la Selección y Diseño de proyectos de ER y UM
+        Producto                     2014              2015                2016        2017           2018      Costo
+  Cursos de               P                           30,000.00       40,000.00       30,000.00                100,000.00
+  capacitación a
+  MEER, CONELEC,          P(a)                        30,000.00       30,000.00       30,000.00           0.00  28,980.00
+  EED en diseño y
+  selección de
+  proyectos sostenibles   A                                 0.00            0.00      28,980.00           0.00  28,980.00
+36 Este cuadro de costos excluye el IVA pagado con recursos de aporte de contrapartida local en los componentes I y
+II que suma el valor de US$3.519.591. Este monto se registra en el estado de inversiones acumuladas del informe de
+Estados Financieros Auditados del programa y aporta a la inversión total de US$33.932.881 indicada en la sección de
+Información Básica del Proyecto.
+                                                                28
+"
+"Cartera de nuevos
+                       P                        50,000.00                  50,000.00                 100,000.00
+proyectos FERUM
+filtrados por la
+metodología y          P(a)                     50,000.00     75,001.52    20,772.22   194,720.86    514,902.34
+aprobados por el
+MEER                   A                        74,998.48     54,229.30   190,953.70   202,229.14    522,410.62
+                       P                       500,000.00    300,000.00                              800,000.00
+Unidades de ER en
+                       P(a)                    500,000.00                 455,097.70    99,662.35    219,662.35
+las EED reforzadas
+                       A                             0.00          0.00   120,000.00    93,184.30    213,184.30
+Componente II Financiamiento a Proyectos FERUM
+       Producto                   2014          2015           2016         2017         2018         Costo
+                        P     4,000,000.00  16,000,000.00  6,000,000.00                           26,000,000.00
+Proyectos FERUM
+con extensión de       P(a)   4,000,000.00  12,706,143.09  7,044,868.97 1,966,937.46   786,210.34 26,236,455.31
+Red ejecutados
+                        A     6,293,856.91  12,361,274.12  5,377,931.51 1,417,182.43   685,964.03 26,136,209.00
+                        P                                  1,100,000.00 1,100,000.00   800,000.00  3,000,000.00
+Proyectos
+Electrificación Rural
+                       P(a)                                1,500,000.00 2,633,634.82 1,601,570.70  3,000,000.00
+sin extensión de Red
+ejecutados
+                        A                            0.00    366,365.18 1,032,064.12 1,650,787.70  3,049,217.00
+      Otros costos                2014          2015           2016         2017         2018         Costo
+Monitoreo y
+seguimiento del         P        34,800.00      45,000.00     35,000.00    35,200.00                 150,000.00
+Programa
+Monitoreo y
+seguimiento del        P(a)      34,800.00      46,000.00     34,000.00    20,000.00         0.00     59,755.00
+Programa
+                        A        34,800.00      19,140.00      5,815.00         0.00         0.00     59,755.00
+Equipo Técnico del
+                        P        39,101.60     100,000.00    140,000.00   150,000.00   170,898.40    600,000.00
+Programa (ETP)
+Equipo Técnico del
+                       P(a)      39,101.60     100,000.00    140,000.00    25,000.00    45,000.00    333,750.12
+Programa (ETP)
+                        A        39,101.60      96,958.46    107,809.03    44,881.03     3,503.69    292,253.81
+Evaluaciones
+intermedia y final      P                                     30,000.00    38,250.00    31,750.00    100,000.00
+del Programa
+Evaluaciones           P(a)                                   30,000.00    50,000.00   120,000.00    120,000.00
+intermedia y final del
+Programa                A                            0.00          0.00         0.00         0.00          0.00
+                        P                       28,250.00     50,000.00    50,000.00    21,750.00    150,000.00
+Auditoría Externa
+(Financiera-
+Operacional y
+                       P(a)                     28,250.00     31,160.00    20,520.00    20,000.00    113,340.00
+Socioambiental)
+                        A                       47,090.00     28,250.00    18,000.00    17,942.40    111,282.40
+          Total                   2014          2015           2016         2017         2018         Costo
+                        P     4,073,901.60  16,753,250.00  7,695,000.00 1,453,450.00 1,024,398.40 31,000,000.00
+Costo Total            P(a)   4,073,901.60  13,460,393.09  8,885,030.49 5,221,962.20 2,867,164.25 34,508,451.63
+                        A     6,367,758.51  12,599,461.06  5,940,400.02 2,852,061.28 2,653,611.26 30,413,292.13
+                                                         29
+"
+"  2.4    Sostenibilidad
+  a. Aspectos generales de sostenibilidad
+Para cumplimiento del objetivo general del programa, en cuanto a contribuir a mejorar la calidad
+de vida de la población a través del acceso al servicio eléctrico y de calidad en viviendas ubicadas
+en sectores urbano marginales y rurales del Ecuador, el proyecto incluye financiamiento de obras
+eléctricas, consistentes en; i) incorporación de redes aéreas de distribución, para el caso de
+comunidades ubicadas en las proximidades de líneas existentes y; ii) instalación de fuentes de
+energía a base de paneles fotovoltaicos en comunidades alejadas de la red de energía existente.
+En ambos casos, con los recursos dispuestos con este financiamiento, se financia sólo parte de
+las necesidades presentadas por las comunidades a las respectivas empresas distribuidoras. Tal
+condición asocia un proceso, primero de calificación y luego de selección, basado en los
+parámetros y conceptos contenidos en la Regulación N°008/2008 del Consejo Nacional de
+Electricidad-CONELEC (actual ARCONEL), que básicamente selecciona las comunidades
+favorecidas según nivel de cobertura de la respectiva EED y costo por vivienda de menor a
+mayor, hasta agotar el presupuesto disponible en el período.
+En mayo de 2011 entre el GdE y el BID se formalizó el contrato para el financiamiento de obras
+FERUM, contenidas en el Programa EC-L1087, el cual agregó la necesidad de aplicar una
+metodología de eficiencia económica al proceso de selección de comunidades beneficiadas,
+definido por la citada regulación37, basada en un análisis económico-financiero de la cartera,
+considerando una TIRE>12% y una inversión limitada a US$2.000/vivienda. A su vez, se
+consideró que el conjunto de proyectos cumpliera la condición de sostenibilidad, es decir, que el
+Valor Presente de la facturación sea mayor o igual que el Valor Presente de los costos de O&M.
+De forma similar, en Anexo Único del Contrato del Programa de Electrificación Rural y Urbano-
+Marginal del Ecuador II, para el Componente II: Financiamiento de proyectos del Programa de
+Electrificación Rural y Urbano-Marginal del Ecuador (FERUM), se destaca que “este componente
+financiará la cartera de proyectos FERUM que contribuya al aumento de forma sostenible de la
+cobertura en Ecuador, siguiendo las metodologías de selección de proyectos adoptada a través
+del Programa 2608/OC-EC. Se seleccionarán proyectos que en su conjunto cumplan con los
+criterios de sostenibilidad: (i) Tasa Interna de Retorno Económico (TIRE) mayor o igual al 12%;
+y (ii) que el Valor Presente (VP) de facturación sea igual o mayor al VP de los Costos de
+Operación y Mantenimiento (O&M)”. En cumplimiento de estas condiciones, en junio de 2015 el
+MERNNR emitió el Informe de Sostenibilidad de los Proyectos del Programa FERUM-EC-L1128,
+destacando que:
+•    La inversión por cliente en proyectos de electrificación con red, en forma conjunta, alcanza
+     un valor de inversión referencial medio de US$1.341. De acuerdo al análisis de sostenibilidad,
+     el conjunto inicial de 657 proyectos presenta una facturación que sobrepasa los costos de
+     operación y mantenimiento, estableciendo que la Cartera en su conjunto es sostenible en el
+     tiempo correspondiente a su vida útil.
+•    La inversión por cliente en proyectos de electrificación sin red, en forma conjunta, alcanza un
+     valor de inversión referencial medio de USD 3.626. De acuerdo al análisis de sostenibilidad,
+     el conjunto inicial de 46 proyectos presenta una facturación que no supera los costos de
+     operación y mantenimiento, estableciendo que la cartera en su conjunto es sostenible en el
+     tiempo correspondiente a su vida útil, compensando la diferencia de costos, con la facturación
+     en exceso de los proyectos de electrificación rural con red.
+37   Con TIRE; 12% y Costo/Vivienda US$ 2.000
+                                                 30
+"
+"Dado que el tipo de obras financiadas con este programa consisten en la construcción y
+remodelación de redes eléctricas para distribución de electricidad en comunidades localizadas
+en sectores rurales y urbano marginales, la continuidad de los resultados mostrados en la Tabla
+4, se proyecta en correspondencia con los años de vida útil de alimentadores primarios del
+sistema de distribución38. De modo que, el presente análisis se remite a la sostenibilidad de los
+resultados obtenidos en el Componente II - Financiamiento de proyectos FERUM, considerando
+que el desarrollo de los productos que lo conforman (Proyectos FERUM con y sin extensión de
+red ejecutados) representan el 97% del financiamiento y en su desarrollo se emplean equipos y
+materiales, sujetos a vida útil.
+La sostenibilidad financiera, necesaria para cubrir: (i) los costos de la energía eléctrica requerida
+para el abastecimiento de las viviendas en tales comunidades; y (ii) los costos de operación,
+administración y mantenimiento de las redes de distribución, se ha destacado en el punto 2.3,
+anterior y está documentada en el informe de evaluación económica financiera ex post.
+Desde el punto de vista técnico, la sostenibilidad de los resultados obtenidos (Tabla 2) se asocian
+a la conservación en el tiempo de la infraestructura incorporada para la prestación del servicio
+eléctrico, lo cual depende de la normativa de construcción aplicada y de las actividades
+planificadas de mantenimiento de las obras construidas.
+En el caso de las obras incluidas en los proyectos FERUM con extensión de red, estas cuentan
+con estándares normativos nacionales contenidos en el catálogo digital del MEER y la calidad de
+la mano de obra para el montaje de equipos y materiales es debidamente fiscalizada, tanto por
+profesionales contratados para esa labor, como por supervisores de la respectiva EED.
+Asimismo, en cumplimiento de la cláusula 4.02.- Mantenimiento, del Contrato de Préstamo No.
+3087/OC-EC, el OE supervisa que las respectivas EED, planifiquen y ejecuten el debido
+manteniendo de las obras ejecutadas con el programa, lo cual se verifica con el Plan Anual de
+Mantenimiento aplicado.
+Por otra parte, los proyectos en comunidades en zonas aisladas, identificados como proyectos
+de electrificación rural sin extensión de red, incluyen soluciones para la prestación de electricidad
+a estos hogares mediante el uso de paneles solares fotovoltaicos. Los equipos y componentes
+son de uso común en el país y su adquisición se apoyó en especificaciones técnicas basadas en
+estándares vigentes, mientras que su recepción fue supervisada por profesionales del MEER.
+De igual modo, el montaje de estas unidades, que fue realizado por empresas contratistas,
+estuvo supervisado por las EED y fiscalizado por consultores externos. El sostenimiento técnico
+de su operación es asegurado por medio de procedimientos operativos emitidos por las
+respectivas EED39. El diseño de la Operación incluyó también, en el Componente “I.1.-
+Capacitación a las EED en el diseño y Operación y Mantenimiento (O&M) de proyectos ER y
+UM”, recursos con los cuales se realizaron capacitaciones a las empresas en uso del software
+HOME Pro, mismo que permitirá a las EED realizar análisis y diseño de nuevas necesidades en
+cuanto a soluciones de cobertura eléctrica con sistemas de generación en base a energías
+renovables.
+Finalmente, los estudios técnicos y socioambientales financiados con el Componente I de este
+préstamo conformaron una cartera de proyectos que se incluyeron en nuevas operaciones de
+financiamiento con organismos multilaterales y/o financiamientos con recursos propios del GdE,
+incluyendo el préstamo EC-L1223 financiado por el Banco.
+38  Período que corresponde a la vida útil media de los componentes de la red de distribución - Regulación
+    CONELEC-009/00.
+39  Ref. Area ER-EEASA-Procedimiento OyM Sistemas Aislados.
+                                                   31
+"
+"  b. Salvaguardas ambientales y sociales
+  El programa fue clasificado socio-ambientalmente como Categoría B conforme a los impactos y
+  riesgos socioambientales identificados bajo la política OP-703. Según consta en la Propuesta
+  de Préstamo, aun cuando, según el Informe de Gestión Ambiental y Social (IGAS) de la
+  operación, los proyectos contemplados en esta operación seguramente serían clasificados
+  según la legislación nacional vigente del Ministerio del Ambiente (MAE) en la Categoría A40,
+  condición que es confirmada por el OE, destacando que “Los proyectos FERUM, no producen
+  impactos ambientales significativos y son socialmente aceptables, para los cuales se ha
+  elaborado una Ficha Ambiental y un Plan de Manejo Ambiental básico, que es usado como
+  instrumento de gestión, cuya utilización permite un buen manejo ambiental y social de cada uno
+  de los proyectos contemplados. La ejecución de los proyectos, son coordinados con las
+  comunidades, en lo que a la participación comunitaria se refiere41”. Asimismo, previo a la
+  implementación de los proyectos se realizaron actos de difusión con la comunidad.
+III. Criterios no centrales
+3.1      Desempeño del Banco
+El desempeño del Banco se ha analizado considerando las siguientes dimensiones:
+Calidad del Diseño. El Proyecto se preparó con la experiencia previa del Programa de
+Electrificación Rural y Urbano Marginal del Ecuador (Proyecto EC-L1087, Contrato de Préstamo
+2608/OC-EC) y de operaciones similares financiadas por el Banco en la región. En consecuencia,
+el diseño tuvo una calidad adecuada y facilitó el cumplimiento de los objetivos planteados. Como
+parte del diseño del Proyecto, se consideró la capacitación del Ejecutor y de entidades
+relacionadas (CONELEC y EED), lo que permitió una ejecución eficiente y que la gestión
+fiduciaria, incluida la aplicación de Sistemas Financieros Nacionales, facilite la ejecución del
+Proyecto. Es importante destacar la iniciativa del Banco en cuanto al constante apoyo al ejecutor,
+tanto antes de la firma del contrato, como durante la ejecución del mismo, mediante la realización
+de reuniones y talleres con todo el personal involucrado de las diferentes especialidades,
+manteniendo capacitaciones constantes sobre las políticas de adquisiciones del Banco, con
+especial énfasis en acuerdo de documentos de licitación para obras, bienes y servicios diferentes
+a consultoría para métodos de licitación pública y comparaciones de precios, y en casos,
+inclusive, estableciendo pautas para el reconocimiento de gastos retroactivos.
+El Plan de Gestión Ambiental y Social incluyó todos los aspectos relevantes y fue implementado
+exitosamente. Por otro lado, el Análisis de Riesgos permitió el monitoreo e identificación de
+acciones de mitigación oportunas. Adicionalmente, el Sistema de Monitoreo y Evaluación
+diseñado para el Proyecto fue adecuado y contó con el apoyo especializado del Banco.
+Finalmente, la inclusión de estudios permitió que el Ejecutor tenga la posibilidad de dar
+continuidad al Programa FERUM mediante futuras operaciones con el Banco.
+Calidad de Supervisión. La ejecución del Proyecto mostró una estrecha coordinación técnica,
+operativa y fiduciaria entre la UEP y el Banco, para solventar los diferentes retos de ejecución
+con flexibilidad y oportunidad. Por ejemplo, la eficiencia en la ejecución permitió liberar recursos
+que, con la no objeción del Banco, permitieron la inclusión de proyectos adicionales al programa
+40   Esta clasificación correspondería a la categoría C de la Política OP-703.
+41   La Gestión Social y Ambiental es realizada por el personal del área ambiental de la EED.
+                                                          32
+"
+"y la superación de las metas previstas en el avance de los productos. Además, el Banco analizó
+un conjunto de proyectos elegibles para reconocimiento retroactivo de recursos del préstamo,
+amparados en un acuerdo entre el GdE y el Banco para el uso del Sistema Nacional de
+Contratación Pública, lo cual permitió la efectiva justificación de los saldos finales del programa.
+Finalmente, cabe mencionar que durante la ejecución se realizó un constante seguimiento a las
+asignaciones presupuestarias y para apoyar al ejecutor en los trámites internos que permitiera
+lograr las asignaciones necesarias y las autorizaciones requeridas para iniciar los procesos de
+contratación.
+3.2     Desempeño del Prestatario
+La experiencia anterior del Organismo Ejecutor con la ejecución del Programa FERUM I
+(2608/OC-EC) y otros proyectos para distribución eléctrica, permitió que desde el inicio de la
+ejecución del Programa FERUM II exista el compromiso de la Institución y del Gobierno, así como
+el empoderamiento de las empresas distribuidoras. Es así como el programa cumplió condiciones
+previas y obtuvo la Elegibilidad a 116 días de la efectividad del Contrato de Préstamo, es decir,
+con una anticipación de 14 días al plazo máximo para obtener la calificación satisfactoria en esta
+fase para el 2014. Durante la ejecución del FERUM se estableció una Gerencia del Programa
+soportada por profesionales competentes que, posteriormente, fueron fortalecidos por el
+programa con habilidades gerenciales y técnicas, capacidad de coordinación interinstitucional y
+para tomar decisiones oportunas, que enfrentó los retos y resolvió oportunamente los problemas
+que se presentaron. Se debe destacar el empoderamiento y compromiso que demostró el equipo
+de gestión para que todas las funciones fiduciarias se desarrollaran de manera eficiente y
+eficazmente durante la ejecución del Proyecto, sin demorarse en los circuitos administrativos
+internos.
+Igualmente, es de mencionar el liderazgo de la Subsecretaría de Distribución y Comercialización
+de Electricidad del MEER, los perfiles profesionales y competentes del personal clave, así como
+la continuidad del equipo de gestión, tanto en la unidad de ejecución como en las EED. La
+capacidad para tomar decisiones oportunas permitió que este equipo superara las metas a nivel
+de productos previstos en el programa, siempre con apertura para mejorar los procesos y
+aumentar la eficiencia en la gestión fiduciaria.
+El Ejecutor manejó correctamente las múltiples relaciones interinstitucionales y coordinación
+requeridas para la ejecución, tanto interna como externamente, con actores públicos (EED,
+SENPLADES, MEF) y privados (beneficiarios, empresas privadas).
+Las adquisiciones del Proyecto se realizaron siguiendo las normas del Banco y el Sistema
+Nacional de Contratación Pública, y los Estados Financieros Auditados finales se presentaron
+sin salvedades. Además, el programa ha cerrado con una calificación satisfactoria de desempeño
+de Salvaguardas Ambientales.
+                                                 33
+"
+"  IV. Hallazgos y recomendaciones
+   4.1     Dimensiones 1 a 5
+                                    Tabla 4. Hallazgos y recomendaciones
+                   Hallazgos                                           Recomendaciones
+Dimensión 1: Técnica Sectorial
+El indicador de impacto: “Cobertura eléctrica
+en el país (%)”, dado que no está alineado
+con los objetivos de la operación, y además,
+debido a la forma en que se define el            Se recomienda que, para préstamos que se enfoquen en la
+indicador, el mismo no es: (i) medible (M),      provisión de infraestructura que permita la electrificación rural,
+porque la línea de base y las metas son          incluyendo la urbano-marginal, el objetivo se enmarque en el
+definidas basadas en proyecciones y no en        aumento en la provisión de servicio eléctrico en áreas no
+datos concretos o finales en las dos etapas      atendidas. Adicionalmente, se sugiere que las metas se
+del tiempo; (ii) alcanzable (A), porque no
+                                                 establezcan en relación a áreas o zonas geográficas
+puede contribuir de forma significativa a la
+cobertura nacional; y (iii) relevante (R),       específicas en la medida de lo posible.
+porque hay otros factores que afectan de
+forma significativa su valor final;
+A nivel de Resultados y para tener
+consistencia con los indicadores a nivel de
+Productos, se observa que no agrega valor        Unificar a Nivel de Resultados el Indicador Vss con el de Vcs
+separar Vss de Vcs. Por ejemplo, se ha           mediante el Indicador “Viviendas Atendidas” el cual podrá
+encontrado que más del 50% de las viviendas      distinguir viviendas conectadas al SND de viviendas en zonas
+clasificadas en el programa como sin servicio    aisladas
+(Vss) cuentan con suministro informal de
+energía eléctrica.
+                                                 Para facilitar la estimación de aportes a disminución de
+                                                 pérdidas de energía en la etapa de preparación de la
+A nivel de Productos no se identifican las Vss   evaluación E&F, es necesario agregar en Bases de Datos de
+conectadas informalmente a la red                cada Proyecto, la condición de Vss conectada o no
+                                                 informalmente a las redes de energía existentes en las
+                                                 inmediaciones de la zona del Proyecto
+                                                 Antes del inicio de las Obras, es necesario que las EE
+En sectores UM no se cuenta con macro-           consideren medición de la energía que ingresa a la zona del
+medición de la energía en el punto de entrada    proyecto. Esto a fin de estimar el nivel de pérdidas de energía
+a la zona del Proyecto                           disminuido en los escenarios antes y después de realizadas
+                                                 las obras FERUM, en la respectiva Comunidad.
+                                                 En los sectores UM atendidos por el programa, es
+Las EE no cuentan con procesos de Gestión        recomendable que las EE incluyan procesos de Gestión
+Social en las Comunidades UM, en las etapas      Social con la Comunidad beneficiada, a fin de facilitar las
+de preparación, ejecución y operación de las     acciones en sus diferentes etapas de desarrollo, incluida la
+obras FERUM realizadas.                          fase de mantenimiento de la red, a modo de complementar las
+                                                 actividades para sostenimiento de las inversiones.
+Se observó falta de uniformidad en la            Se debe apoyar al proceso de estandarización y
+aplicación de la normativa de construcción de    homologación de especificaciones técnicas para aplicación de
+proyectos eléctricos y falta de homologación     las EED en los proyectos eléctricos, además de incorporar
+de especificaciones técnicas.                    aspectos de resiliencia ante desastres.
+                                                       34
+"
+"La ejecución de proyectos con energía
+renovable en zonas aisladas se vio             Por la experiencia adquirida en la ejecución de proyectos con
+demorada debido la adquisición separada de     extensión de red, se recomienda adoptar la estrategia de
+los equipos y de mano de obra para
+                                               adquisiciones para equipos y construcción, tipo llave en mano,
+instalación. Esto fue consecuencia de la falta
+de experiencia en la construcción de           para proyectos con energía renovable en zonas aisladas.
+proyectos de esta naturaleza.
+Diseño de Evaluación de Impacto
+                                               La experiencia en esta operación enfatiza la relevancia de
+                                               definir indicadores de impacto que se alineen con el diseño de
+                                               evaluación propuesto y de acuerdo con las mejores prácticas.
+                                               Ello con el objeto de reflejar y aproximar del modo más
+                                               consistente posible los impactos de la intervención. Esta
+                                               recomendación es particularmente relevante en el caso de
+                                               evaluaciones de impacto no-experimentales, donde la
+                                               diferencia simple de ratios puede estar lejos de aproximar los
+                                               beneficios de una intervención, y por el contrario puede
+                                               encontrarse cargado de “confounder factors”.
+Construcción de indicadores y metas            También es importante establecer metas de acuerdo a la
+                                               evidencia empírica disponible, y documentar adecuadamente
+                                               el cálculo de dichas metas. En particular se recomienda ser
+                                               conservador en el establecimiento de metas por dos razones:
+                                               (i) estudios pueden estar sujetos a sesgos de publicación, por
+                                               tanto pueden tender a sobre-estimar impactos, y (ii) en el caso
+                                               de electrificación rural, en los países en donde la cobertura es
+                                               muy alta, resulta difícil implementar evaluaciones en periodos
+                                               suficientemente largos para capturar (mayores) efectos de
+                                               largo plazo. Por último, cabe mencionar que las metas,
+                                               basadas en la literatura, deben encontrarse expresadas de
+                                               forma consistente con los indicadores planteados.
+Dimensiones fiduciarias
+El cierre financiero del programa implicó una
+serie de ajustes y transacciones debido a los  Se recomienda realizar un evento de capacitación
+problemas en la conciliación de recursos       personalizado que incluya a todos los especialistas
+entre los estados financieros auditados, el
+                                               financieros de la entidad ejecutora involucrados en proyectos
+sistema de gestión financiera del Banco
+(LMS) y el reporte de monitoreo del            financiados por el Banco.
+programa (PMR).
+Tras la revisión ex post de procesos de        Se debe considerar las recomendaciones del informe de
+adquisición se encontraron oportunidades de    revisión ex post de estos procesos para el uso del Sistema
+mejora en el uso del sistema nacional de       Nacional de Contratación Pública (SNCP), así como aplicar
+contratación pública, derivado de dificultades las lecciones aprendidas en futuros proyectos de préstamo
+de gestión y demoras en los procesos.          que apliquen el SNCP.
+                                               Continuar con este tipo de talleres de capacitación con todos
+                                               los involucrados, donde se repasen políticas, se actualicen
+Capacitaciones fiduciarias/adquisiciones al    documentos de adquisición (pliegos), se compartan
+arranque de los proyectos y a principio de
+                                               experiencias, se discutan problemáticas, se propongan
+cada año.
+                                               formas eficientes de comunicación y se lleguen acuerdos
+                                               integrales de ejecución de los proyectos.
+                                                      35
+"

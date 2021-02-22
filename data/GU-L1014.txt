@@ -1,0 +1,1941 @@
+"outlist[[i]]"
+"                          INFORMACIÓN BÁSICA DEL PROYECTO
+NÚMERO (S) DE PROYECTO:GU-L1014
+TÍTULO: ESTABLECIMIENTO CATASTRAL Y CONSOLIDACIÓN DE LA CERTEZA JURÍDICA EN ÁREAS
+PROTEGIDAS
+INSTRUMENTO DE PRÉSTAMO: INVERSIÓN
+PAÍS: GUATEMALA
+PRESTATARIO: REPÚBLICA DE GUATEMALA
+PRÉSTAMO (S): 2149/BL-GU
+SECTOR / SUBSECTOR: MEDIO AMBIENTE Y DESASTRES NATURALES
+FECHA DE APROBACIÓN POR EL DIRECTORIO: 17 DE JUNIO DE 2009
+FECHA DE EFECTIVIDAD DEL CONTRATO DE PRÉSTAMO: 14 DE DICIEMBRE DE 2011
+FECHA DE ELEGIBILIDAD PARA EL PRIMER DESEMBOLSO: 29 DE FEBRERO DE 2012
+MONTO (S) DEL PRÉSTAMO
+CANTIDAD ORIGINAL: US$ 22.000.000.00
+CANTIDAD CANCELADA: US$922.518,52
+CANTIDAD ACTUAL: US$21.077.481,48
+PARI PASSU: 0.00%
+COSTO TOTAL DEL PROYECTO: US$ 21.077.481,48
+MESES EN EJECUCIÓN
+DE APROBACIÓN: 102 MESES
+DE LA EFECTIVIDAD DEL CONTRATO: 72 MESES
+PERIODOS DE DESEMBOLSOS
+FECHA ORIGINAL DEL DESEMBOLSO FINAL: 14 DE DICIEMBRE DE 2017
+FECHA ACTUAL DEL DESEMBOLSO FINAL: 14 DE DICIEMBRE DE 2017
+EXTENSIÓN ACUMULATIVA (MESES): 0 MESES
+EXTENSIONES ESPECIALES (MESES): 0 MESES
+DESEMBOLSOS
+CANTIDAD TOTAL DE DESEMBOLSOS HASTA LA FECHA: 6
+GRÁFICO DE DESEMBOLSOS
+                                         iv
+"
+"                                               2149/BL-GU
+                                               Desembolsos
+                                   $7,500,000.00
+                                                                $3,845,000.00
+                   $2,795,000.00            $3,500,000.00
+                                                                                 $2,150,500.00
+                                                                                           $2,209,500.00
+              2012            2013            2014          2015            2016            2017
+CORRESPONDE A 10 DESEMBOLSOS DURANTE LA EJECUCION DEL PROGRAMA
+REDIRECCIONAMIENTO. ¿TIENE ESTE PROYECTO?
+FONDOS RECIBIDOS DE OTRO PROYECTO [ NO] ¿CUÁL? [ NÚMERO DEL PROYECTO]
+FONDOS ENVIADOS A OTRO PROYECTO [ NO] ¿CUÁL? [ NÚMERO DEL PROYECTO]
+Calificaciones del desempeño del proyecto en los PMR:
+  No. PMR Fecha                             Etapa de                                       Desembolsos
+                                            PMR                                            reales (millones
+                                                                                           de USD)
+  1      ENERO - DICIEMBRE                          2          INSATISFACTORIO                     0.0
+         2011
+    7    ENERO DICIEMBRE                            2            SATISFACTORIO              2.3894.445,19
+         2017
+METODOLOGÍA DE ANÁLISIS ECONÓMICO EX POST:
+METODOLOGÍA DE EVALUACIÓN EX POST:
+CLASIFICACIÓN DE EFECTIVIDAD DE DESARROLLO: Parcialmente No exitoso
+PERSONAL DEL BANCO
+                        POSICIONES              EN PCR                    EN LA APROBACIÓN
+                  VICEPRESIDENTE VPS ANA MARIA                             SANTIAGO LEVY
+                                                RODRÍGUEZ-ORTIZ,
+                                                VICE PRESIDENT
+                  VICEPRESIDENTE                ALEXANDRE MEIRA            ROBERTO VELLUTINI
+                  VPC                           DA ROSA
+                  GERENTE DE PAÍS               VERÓNICA ZAVALA            GINA MONTIEL
+                                                       v
+"
+"                 GERENTE SECTORIAL       JUAN PABLO               ALEXANDRE MEIRA
+                                         BONILLA
+                 JEFE DE DIVISIÓN        PEDRO V. MARTEL          HECTOR MALARIN
+                 REPRESENTANTE DE        CARLOS MELO              JUAN JOSÉ TACCONE
+                 PAÍS
+                 JEDE DE EQUIPO DEL      CÉSAR BUSTAMANTE         LEONARDO CORRAL
+                 PROYECTO
+                 JEFE DE EQUIPO DEL      CÉSAR BUSTAMANTE         LEONARDO CORRAL
+                 PCR
+Tiempo y costo (directo) del personal
+ Ciclo de proyecto de etapa # de semanas de personal              USD (incluidos los gastos
+                                                                  de viaje y asesoría)
+ Preparación                                  32,40                         146.178,45
+ Supervisión                                 161,03                         501.612,47
+ Total                                       193,43                         647.790,92
+DECLARACIÓN DE LOS OBJETIVOS DE DESARROLLO DEL PROYECTO / PROGRAMA:
+El propósito del Programa es el establecimiento del catastro físico de las Áreas Protegidas
+(AP) que permitirá proporcionar la certeza jurídica y geográfica de las áreas de gestión nacional
+que conforman el Sistema Guatemalteco de Áreas Protegidas (SIGAP), contribuyendo así a la
+administración efectiva del SIGAP para el beneficio de todos los habitantes del país.
+                                                vi
+"
+"                                       I.   RESUMEN EJECUTIVO
+Uno de los recursos más importantes en Guatemala es la tierra y sus formas de propiedad, sin
+embargo, la tenencia y acreditación tiene problemas debido principalmente a la poca
+confiabilidad de la información catastral disponible, la falta de documentación legal, la falta de
+coordinación entre las instituciones de administración de tierras y mecanismos de resolución de
+conflicto, entre otros. Este problema es particularmente visible en las áreas rurales, en donde se
+estima que el 40% de las parcelas rurales no están registradas. Los problemas de la tierra ocupan
+un lugar destacado en los Acuerdos de Paz en Guatemala del 1996 solicitando el establecimiento
+de un marco legal e institucional para garantizar la seguridad de la tenencia de la tierra y un
+registro catastral.
+Guatemala hace unos años recién inició el trabajo de mejorar la seguridad de tenencia de la
+tierra, inicialmente con el apoyo del Banco Mundial, con los Proyectos de Administración de
+Tierras (PAT) I y II catastrando y regularizando predios en unos 53 municipios. Con el Programa
+de Establecimiento Catastral y Consolidación de la certeza jurídica en Áreas
+Protegidas (GU-L1014), el BID amplía, a partir del 2012, los recursos disponibles al Registro de
+información Catastral - el RIC – conjuntamente con el CONAP, para complementar el trabajo
+catastral que venía financiando el Banco Mundial, enfocándose en las áreas protegidas (AP) del
+país, en particular en la Reserva de la Biosfera Maya del Petén, en la Sierra de las Minas, y por
+los volcanes del Altiplano Guatemalteco.
+Es importante destacar que en Guatemala, el 32% del territorio guatemalteco está protegido
+como área natural en una nación de 16,6 millones de ciudadanos, en poco más de 108.000 km2
+de territorio. Este porcentaje de protección es mucho más alto que en el resto de América Latina,
+pero a pesar de ello la deforestación en Guatemala continúa siendo alta, incluso dentro de las
+AP, las cuales están sometidas a múltiples presiones por actividades humanas formales,
+informales y hasta ilegales.
+Relevancia. El programa tuvo el objetivo de proporcionar la certeza jurídica y geográfica a las
+áreas naturales protegidas de gestión nacional que conforman el Sistema Guatemalteco de
+Áreas Protegidas (SIGAP), contribuyendo así a la administración efectiva del SIGAP para el
+beneficio de todos los habitantes del país, a través de: (i) realizar el catastro de áreas protegidas;
+(ii) consolidar la certeza jurídica de las áreas protegidas; y (iii) brindar el soporte técnico,
+coordinación interinstitucional y uso de la información catastral y registral al RIC como entidad
+ejecutora.
+Los resultados y los componentes del Programa se encontraron alineados con los objetivos y
+planes nacionales de Guatemala enmarcados en la estrategia de catastro y regularización del
+derecho de propiedad general del país, que se derivó de los Acuerdos de Paz (1996) y se
+consolidó en el 2005 con la aprobación de la Ley del Registro de Información Catastral y la
+creación del RIC. El Programa también formó parte integral del programa guatemalteco Vamos
+Guatemala, que incluyó tres pilares: (i) Guate Solidario (Social); (ii) Guate Crece/Compite
+(Económico); y (iii) Guate Verde (Ambiente).
+La operación propuesta se alineó con los objetivos de la Estrategia de País (GN-2355-1), vigente
+al momento de su aprobación. Específicamente, con el objetivo de mejorar las condiciones para
+producir eficientemente. Asimismo, el Programa apoyó el elemento transversal de la Estrategia
+de fortalecimiento de la gobernabilidad al permitir a los pobladores de las AP proteger sus
+derechos y al Estado ejercer sus competencias constitucionales.
+                                                  1
+"
+"Con relación a la Actualización de la Estrategia Institucional, el Programa se enmarca bajo los
+temas transversales de Sostenibilidad Ambiental y Cambio Climático; contribuye a los
+indicadores de contexto regional de: Proporción de zonas terrestres y marinas protegidas (%); y
+a los indicadores de desarrollo de países: beneficiarios de una mejor gestión y uso sostenible del
+capital natural. En consideración de lo señalado anteriormente la relevancia de la operación se
+califica como Satisfactoria.
+Efectividad. El programa desembolsó el 96% del préstamo y fue en su momento (2017) el único
+proyecto del BID en Guatemala que logró completarse dentro del periodo original de
+desembolsos, un logro particularmente difícil considerando que se perdieron 18 meses de
+ejecución entre 2013 y 2015, cuando se politizó la gestión del RIC. Tras análisis legal por el RIC
+de cada una de las 92 AP, fue necesario eliminar 16 de ellas, por no contar con declaratoria legal,
+por asignación incorrecta de categoría de área protegida, por inclusión de cerros con categoría
+de volcán asignada por CONAP sin llenar los requerimientos de INSIVUMEH, por conflictos
+sociales (1 AP) o por áreas de reserva que se ubican dentro de áreas protegidas a trabajar. De
+las 76 AP restantes, 56 fueron llevadas hasta su culminación en el proceso catastral y de registro,
+contando con procuración legal.
+Específicamente, fueron delimitadas 68 de las 92 AP originalmente planeadas; fueron
+demarcados 2.983,20 km lineales de los 5.675,80 km planeados; y fueron catastrados
+25.793,91 km cuadrados de los 32.522 km2 programados, con lo cual el índice de avance físico
+fue del 79%. Finalmente, la consolidación de la certeza jurídica también contempló la realización
+de anotaciones registrales de uso de tierra, de los títulos inscritos de aproximadamente
+5.478 predios privados ubicados en las áreas protegidas, de una estimación originalmente
+previsto de aproximativamente 15.000 predios, aunque estas no fueron identificadas como un
+indicador.
+A pesar de que en el diseño del programa en el 2009 no se contempló una evaluación de impacto
+para medir las atribuciones directas del programa al objetivo; como parte de la elaboración de
+este informe, se preparó una evaluación de impacto conjuntamente con investigadores del
+Department of Earth and Environment de Boston University. La Evaluación de Impacto (EI) tuvo
+el objetivo de estimar los cambios en deforestación y degradación en las AP beneficiarias
+atribuibles al Programa, como parte de lo que pudo haber sido el indicador más idóneo de
+impacto durante el diseño.
+Los resultados del análisis de heterogeneidad sobre diferentes tipos de AP sugieren que después
+del tratamiento hubo leves aumentos en la deforestación evitada y la degradación de los bosques
+en aquellas áreas protegidas donde hay un mejor cumplimiento de la ley, donde los beneficios
+de conservación son mejor percibidos y capturados por las comunidades locales, y donde los
+administradores de los parques tienen buena relación con la comunidad local. Se aprecia que las
+AP con estas condiciones, típicamente reciben un número significativo de turistas, y los
+pobladores locales pueden directamente percibir el beneficio de mantener las AP con
+bosque. Similarmente, para AP que fueron tratadas al comienzo del Programa (en el 2012 o
+2013), se detectó una menor deforestación y degradación. Esto sugiere que los efectos del
+programa en la cobertura forestal pueden tomar un poco de tiempo en manifestarse, por lo que
+sería ideal replicar este análisis cuando haya transcurrido mayor tiempo desde la finalización del
+Programa.
+En resumen, los objetivos de desarrollo del programa fueron alcanzados en lo general, sus
+alcances y la atribución de las actividades a los resultados e impactos es justificada por la
+                                                 2
+"
+"evaluación final y la evaluación de impacto realizadas al final del programa. Bajo este escenario,
+la calificación total en cuanto a la efectividad de logro del objetivo declarado de desarrollo
+(Proporcionar la Certeza jurídica y geográfica a las AP de gestión nacional que conforman el
+SIGAP) se considera Parcialmente Insatisfactoria.
+Eficiencia. El programa logró el levantamiento catastral de 44.269 predios a un costo de
+US$12.854.284. Esto es equivalente a un costo por predio levantado de US$290. El
+“Implementation Completion and Results Report” del Programa de Administración de Tierras II
+del Banco Mundial reporta que logró el levantamiento catastral de 274,536 predios a un costo
+real de $339.013.997 Quetzales. Utilizando la tasa de cambio del reporte de US$1 = GTQ 7,65,
+esto es equivalente a un costo por predio catastrado por el proyecto del Banco Mundial con el
+RIC de US$161/predio.
+El mismo reporte calcula el costo por predio bajo el escenario sin proyecto, es decir el
+levantamiento catastral por demanda (en lugar del levantamiento masivo). El análisis encuentra
+que, bajo la alternativa sin proyecto, el costo unitario sería 3,7 veces mayor, o US$595,7/predio.
+Tomando en consideración el análisis de costo efectividad indicado en el documento, los
+indicadores del PMR y estos antecedentes que afectaron la ejecución en consideración, se
+estima que la Eficiencia del programa fue Satisfactoria
+Sostenibilidad. Durante el diseño de la operación se llevó a cabo un taller de identificación de
+riesgos que contribuyeron a la sostenibilidad del programa. Estos riesgos de baja o media
+probabilidad de ocurrencia se mitigaron con diferentes actividades y en general la mayor parte
+de los riesgos identificados no se materializaron durante la ejecución, sin embargo, uno de estos
+riesgos estratégicos (ser el RIC una institución joven con poca experiencia previa al
+proyecto -dos años-)sí afectaron la ejecución del programa debido a influencias políticas
+mencionadas antes y que llevaron a un retraso en algunas de las actividades del programa. Se
+materializó un riesgo importante durante la ejecución del Programa que resultó en un retraso en
+la ejecución del programa, si bien RIC es una institución fuerte, si se podrían prever algunos
+riesgos no mitigados que pudieran afectar la sostenibilidad del Programa en el futuro. Por lo
+tanto, la sostenibilidad del Programa y su grado de cumplimiento con las políticas del Banco se
+califica como Parcialmente Insatisfactoria.
+Hallazgos. Los hallazgos y las recomendaciones se pueden ver enlistadas en la Tabla V.1 al
+final del documento.
+                                                  3
+"
+"                                            II. INTRODUCCIÓN
+La tierra es uno de los recursos más importantes en Guatemala, sin embargo, su tenencia es a
+menudo insegura. Esto debido principalmente a la poca confiabilidad de la información catastral
+disponible (descripción geográfica exacta de una parcela), la falta de documentación legal
+(certeza del legítimo propietario), la falta de coordinación entre las instituciones de administración
+de tierras y mecanismos de resolución de conflicto entre otros. Este problema es particularmente
+visible en las áreas rurales, en donde se estima que el 40% de las parcelas rurales no están
+registradas. Los problemas de la tierra ocupan un lugar destacado en los Acuerdos de Paz en
+Guatemala, específicamente, el Acuerdo Social y Agrario de 1996 que solicitó el establecimiento
+de un marco legal e institucional para garantizar la seguridad de la tenencia de la tierra y un
+registro catastral descentralizado, multiusuario, eficiente y financieramente sostenible basado en
+el catastro.
+Con el apoyo del Banco Mundial, en 1998 Guatemala inició el trabajo de mejorar la seguridad de
+tenencia de la tierra con la aprobación del Proyecto de Administración de Tierras (PAT) I y
+posteriormente una fase II, aprobada en el 2006. Estos proyectos apoyaron la creación del
+Registro de Información Catastral (RIC), bajo la Ley del Registro de Información Catastral (RIC)
+de 2005 la cual se constituyó como una institución del Estado autónoma y de servicio, con
+personalidad jurídica, patrimonio y recursos propios, responsable de realizar un catastro nacional
+consolidado. Las dos fases del PAT permitieron catastrar y regularizar tierras en 12 municipios
+del Petén (33% del territorio nacional) en una primera fase; y en otros 41 municipios durante la
+fase II que concluyó en el 2015, sin embargo, ambos proyectos no incluyeron actividades de
+catastro en Áreas Naturales Protegidas (AP).
+Para complementar el trabajo de catastro y seguridad de tenencia enfocado en áreas urbanas y
+rurales del país, y en consideración de que aproximadamente el 32% del territorio pertenece a
+alguna categoría de Área Protegida (AP), el país solicitó el apoyo del BID para complementar las
+acciones que venía llevando a cabo en materia de seguridad de la tenencia y administración de
+la tierra. Esto se lograría mediante el establecimiento de un catastro físico de las AP del país que
+permitiera proporcionar certeza jurídica y geográfica de las áreas que conforman el Sistema
+Guatemalteco de Áreas Protegidas (SIGAP), y así avanzar en la cobertura del territorio nacional.
+Este trabajo se consideraba importante debido a la falta de definición de los límites físicos de la
+mayoría de las AP y los múltiples tipos de tenencia de tierra dentro de las mismas, tierras
+privadas, estatales, comunales, frecuentemente sobrepuestas e invadidas.
+El préstamo No. 2149 / BL-GU fue aprobado en el 2009 por un monto total de US$22 millones;
+alcanzó elegibilidad en el 2012, luego de un largo periodo de gestiones para lograr la ratificación
+legislativa; y cerró en diciembre del 2017, habiendo desembolsado el 96% de sus recursos. El
+Programa buscó dar certeza a la tenencia de la tierra dentro de las áreas protegidas de
+Guatemala en atención a los objetivos de los Acuerdos de Paz y con la esperanza de mejorar las
+condiciones para un mejor manejo de las AP. Para esto las actividades incluyeron la delimitación
+y demarcación de hasta 92 áreas protegidas, añadiendo parcelas dentro de ellas al catastro
+nacional y realizando análisis legales para determinar la propiedad de la tierra y contribuir a la
+administración efectiva del SIGAP, la clarificación de los límites de las AP y los derechos de uso
+de la tierra dentro de las AP, con el fin de otorgar mayor legitimidad para velar por el respeto de
+los límites de AP y el uso del territorio a su interior conforme disposiciones legales. Uno de los
+propósitos fue reducir la deforestación y la degradación forestal al interior de las AP.
+La preparación de este informe utilizó como insumos claves: la Propuesta de Préstamo del
+GU-L1014; los informes semestrales de avance del préstamo; el PMR de la operación; el Informe
+                                                    4
+"
+"de Evaluación Final del Programa, finalizado en Noviembre 2017; y el informe final de la
+evaluación de impacto del Programa, que evalúa, con métodos no-experimentales de
+emparejamiento y de estimaciones de panel con efectos fijos, el impacto de las intervenciones
+del Programa en la deforestación y degradación de AP.
+                        III. CRITERIOS CENTRALES. RENDIMIENTO DEL PROYECTO.
+III.1    Relevancia
+Como se mencionó en la sección anterior, la tierra es uno de los recursos más importantes en
+Guatemala, sin embargo, su tenencia es insegura debido a la poca confiabilidad de la información
+catastral disponible, la falta de documentación legal, la falta de coordinación entre las
+instituciones de administración de tierras y mecanismos de resolución de conflicto entre otros. A
+pesar de que Guatemala ha realizado importantes esfuerzos para proteger su riqueza natural,
+cultural e histórica a través de la creación de áreas naturales protegidas (AP) y parques
+nacionales, la falta de derechos de propiedad claros sobre la tierra ha ocasionado una sobre
+explotación de dichos recursos y con ellos una cada vez mayor degradación de los bosques. En
+este contexto, el programa apoyó el fortalecimiento de los mecanismos de seguridad en la
+tenencia de la tierra brindando certeza espacial y jurídica, específicamente a las AP del país,
+para proteger a los habitantes y sus bosques de la degradación en el largo plazo.
+Específicamente, el programa tuvo el objetivo de proporcionar la certeza jurídica y geográfica a
+las áreas naturales protegidas de gestión nacional que conforman el Sistema Guatemalteco de
+Áreas Protegidas (SIGAP), contribuyendo así a la administración efectiva del SIGAP para el
+beneficio de todos los habitantes del país, a través de: (i) realizar el catastro de áreas protegidas;
+(ii) consolidar la certeza jurídica de las áreas protegidas; y (iii) brindar el soporte técnico,
+coordinación interinstitucional y uso de la información catastral y registral al RIC como entidad
+ejecutora.
+En esta sección se destaca la coherencia de los objetivos y actividades del Programa con las
+realidades y necesidades del país y con la estrategia del Banco en Guatemala, incluyendo el
+análisis de la lógica vertical, con la explicación de las relaciones entre productos, resultados e
+impactos del programa y su consistencia y relevancia con las políticas y estrategias nacionales
+a su inicio y conclusión.
+         a. Alineación con las necesidades de desarrollo del país
+Los resultados y los componentes del Programa se encontraron alineados con los objetivos y
+planes nacionales de Guatemala enmarcados en la estrategia de catastro y regularización del
+derecho de propiedad general del país, que se derivó de los Acuerdos de Paz (1996) y se
+consolidó en el 2005 con la aprobación de la Ley del Registro de Información Catastral y la
+creación del RIC. El Programa también formó parte integral del programa guatemalteco Vamos
+Guatemala, que incluyó tres pilares: (i) Guate Solidario (Social); (ii) Guate Crece/Compite
+(Económico); y (iii) Guate Verde (Ambiente).
+Con relación a este último pilar, la inseguridad de la tenencia de la tierra contribuye a la
+deforestación y la degradación forestal en el país (GCI 2018). El cambio en el uso de la tierra es
+uno de los principales impulsores de la pérdida de biodiversidad y da como resultado la
+disminución de importantes servicios ecosistémicos. La conservación de los bosques tropicales
+protege importantes sumideros de carbono y recursos hídricos (Houghton, Byers y Nassikas
+2015; Foley et al., 2009). Por el contrario, descuidar la protección de los bosques tropicales
+                                                  5
+"
+"contribuye hasta un estimado del 17% de las emisiones globales de CO2 a través de la
+deforestación y la degradación forestal (Van Der Werf et al., 2009).
+Incrementar la seguridad de la tenencia de la tierra, particularmente en áreas rurales, es
+fundamental para el crecimiento y desarrollo de Guatemala, dado que la falta de derechos
+seguros sobre la tierra obstruye la inversión y promueve conflictos (Besley y Ghatak 2009; Lawry
+et al. 2017). La incertidumbre y la inseguridad de la tenencia de la tierra han sido un problema
+estructural en Guatemala durante muchos años (GCI, 2018).
+De esta forma el programa ha contribuido al saneamiento y catastro de las AP legalmente
+establecidas. El saneamiento de las tierras, especialmente aquellas en la zona de influencia de
+las AP fue un compromiso resultante de los Acuerdos de Paz firme y duradera de 1996 y están
+incluidos en los planes de gobierno y del RIC hasta el día de hoy. El CONAP también ha
+priorizado el saneamiento de las AP a través de un proceso de diálogo y concertación con los
+diferentes actores involucrados en la protección de los recursos naturales.
+Cabe señalar que con el programa se enfocó en las AP lo cual representa el 32% del territorio
+de Guatemala protegido como área natural (Banco Mundial, 2017). Este porcentaje de protección
+es mucho más alto que en el resto de América Latina y el Caribe en general, donde el 23,1% de
+la tierra está protegida (Banco Mundial, 2017). Guatemala es un país altamente diverso desde el
+punto de vista biológico, ubicándose en el puesto 18 en el mundo por biodiversidad (Butler 2016).
+A pesar de la alta proporción de áreas protegidas, la deforestación en Guatemala continúa siendo
+alta, contribuyendo con 44.093.388 toneladas de CO2 equivalentes por año a las emisiones
+globales y amenazando a cientos de especies (GIMBUT, 2018; IUCN, 2018).
+         b. Alineación estratégica
+La operación propuesta se alineó con los objetivos de la Estrategia de País (GN-2355-1), vigente
+al momento de su aprobación. Específicamente, con el objetivo de mejorar las condiciones para
+producir eficientemente. Asimismo, el Programa apoyó el elemento transversal de la Estrategia
+de fortalecimiento de la gobernabilidad al permitir a los pobladores de las AP proteger sus
+derechos y al Estado ejercer sus competencias constitucionales.
+Con relación a la Actualización de la Estrategia Institucional, el Programa se enmarca bajo los
+temas transversales de Sostenibilidad Ambiental y Cambio Climático; contribuye a los
+indicadores de contexto regional de: Proporción de zonas terrestres y marinas protegidas (%); y
+a los indicadores de desarrollo de países: beneficiarios de una mejor gestión y uso sostenible del
+capital natural.
+La EBP 2017–2020 concentra sus esfuerzos en tres Pilares: (i) Mejora de la gestión pública y la
+transparencia; (ii) Reducción de la pobreza y la desigualdad; y (iii) Desarrollo del sector privado.
+La EBP indica que se dará especial atención a las poblaciones rurales e indígenas, incorporando
+medidas de pertinencia cultural e igualdad de género, según corresponda; así como a la inclusión
+de medidas de adaptación al cambio climático bajo un abordaje multisectorial. Si bien el
+Programa tiene elementos para ajustarse dentro de esta EBP, a través de la mejora de los
+derechos de propiedad de AP que facilitan una mejor gestión pública del territorio rural, lo cual
+es una condición necesaria para facilitar el desarrollo del sector privado, así como la protección
+de los servicios ecosistémicos provistos por las AP que es esencial para la adaptación al cambio
+climático, se considera que no está alineada desde su inicio, debido a que se esperaba que el
+proyecto concluiría su ejecución bajo la EBP anterior.
+                                                  6
+"
+"Por lo anterior, el Programa fue consistente tanto en sus objetivos como en su diseño con la
+estrategia institucional del Banco y las prioridades de desarrollo de Guatemala, en el momento
+de su aprobación.
+          c. Relevancia del diseño
+A pesar de los esfuerzos por parte del Gobierno de proteger la riqueza natural del país, la
+sobre-utilización de recursos en las AP ha ido creciendo y la degradación de su riqueza natural
+ha ido en aumento. Como se mencionó antes, algunos de los factores que han contribuido a esta
+situación han sido la falta de derechos de propiedad sobre la tierra debido a que la información
+catastral y legal es poco confiable o inexistente. Por lo anterior, el Programa se enfocó en
+gestionar los procesos de certeza jurídica y espacial de las AP que conforman el SIGAP,
+conforme a los criterios estipulados en la Ley del RIC promulgada en el 2005.
+Los principales retos en términos de proteger la riqueza natural del país que trató el programa
+fueron:
+Componente 1. Establecimiento de catastro en áreas protegidas. Desde la creación de las
+primeras áreas protegidas en Guatemala (1955) y con la creación del SIGAP (a finales de los
+años 80), este mecanismo de conservación de espacios naturales y de apoyo a los procesos de
+ordenamiento territorial se ha venido implementando técnica, jurídica y socialmente; sin embargo,
+todavía encuentra serios desafíos para asegurar mayor efectividad en el manejo de las AP. Entre
+estos se identifican los siguientes: (i) traslapes de límites entre tierras del estado y privadas;
+(ii) falta de certeza jurídica a grupos humanos asentados en áreas protegidas previa creación de
+éstas; (iii) falta de medición y regularización de las áreas protegidas y las fincas privadas
+ubicadas dentro y a su alrededor; (iv) falta de esclarecimiento de límites de áreas protegidas (por
+ejemplo la mayoría de volcanes); y (vi) escasa delimitación física de las áreas protegidas lo cual
+ha llevado a que históricamente la mayoría de conflictos tienen lugar en el Departamento de
+Petén, los cuales se han agravado en los últimos años por la usurpación de tierras dentro de las
+áreas protegidas, etc.
+Componente 2. Consolidación de la certeza jurídica de las áreas protegidas. El Instituto
+Nacional de Transformación Agraria (INTA) y posteriormente la Unidad Técnico – Jurídica de la
+Comisión Institucional para el Desarrollo y Fortalecimiento de la Propiedad de la Tierra
+(UTJ-Protierra) impulsaron diferentes proyectos de catastro en el país durante algunos años.
+Fueron en el Petén en donde se localizaron las primeras iniciativas que dieron énfasis a las áreas
+protegidas que administra el CONAP. Esos proyectos de catastro, aunque se hicieron en Zonas
+de Amortiguamientos, no fueron suficientes, ya que era necesaria la validación catastral de todos
+los predios, así como completar las fases que determina la normativa vigente. Le correspondería
+al CONAP continuar y completar la procuración legal del proceso registral; sin embargo, este no
+contó con la capacidad técnica y financiera para realizarlo, por lo que era necesario apoyarlo
+para estos trabajos y el RIC era el mejor vehículo dado que contaba con los recursos técnicos y
+materiales para llevar a cabo dicho trabajo.
+Componente 3. Soporte técnico, coordinación interinstitucional y uso de la información
+catastral y registral. Si bien RIC es un organismo autónomo establecido por Ley para llevar a
+cabo los procesos catastrales del país y había llevado a cabo procesos catastrales urbanos, este
+no contaba con la experiencia de catastro en AP, ni con todas las facultades legales para llevar
+a cabo todo el proceso catastral y registral, por lo que fue necesario dotarlo de los instrumentos
+técnicos, de sistemas y de coordinación interinstitucional para poder llevar a cabo las actividades
+                                                  7
+"
+"del programa. Se consideró que dado que no existía un sistema de monitoreo e información de
+catastro, tenencia y uso de la tierra en áreas protegidas, las entidades involucradas en la
+ejecución del mismo lideradas por el RIC, debían disponer de información asociada a la
+demarcación, catastro y registro en las áreas protegidas del SIGAP bajo un solo sistema y así se
+previó en el programa.
+A continuación, se realiza el análisis de la Lógica Vertical (LV) del Programa, presentada en la
+Figura III.1, el cual evalúa la validez de la relación entre sus productos, resultados e impactos,
+así como la consistencia y relevancia con los objetivos de desarrollo del Programa. Se debe
+destacar que la Matriz de Resultados (MR) original, que consta en el Anexo II de la Propuesta de
+Préstamo GU-L1014, capturaba la LV general del Programa; sin embargo, faltó precisar más
+algunos indicadores de productos y resultados y faltó incluir un indicador de impactó para poder
+capturar y evaluar la teoría de cambio entera del Programa. Si bien la matriz de resultados no
+incluye indicadores del impacto en la deforestación1, la certeza espacial y jurídica de la AP, al
+mejorar la seguridad de tenencia de estas, podría incidir positivamente en desacelerar la tasa de
+deforestación. En efecto, un reciente meta análisis (Robinson et al 20142) concluye que hay
+evidencia de que AP están asociadas con resultados positivos en cuanto a deforestación y que
+la seguridad de tenencia está asociada con menor deforestación, independientemente de la
+forma de tenencia.
+Tanto la realidad de la situación en campo con relación a la presencia de predios regulares e
+irregulares3 dentro de las AP, así como la determinación de los limites geoespaciales de las AP
+(los instrumentos legales de declaración de las AP no cuentan con coordenadas claras sobre sus
+límites), eran parte integral del trabajo a ser realizado por el Programa. Por lo tanto, a priori,
+resultaba imposible definir cuantas AP finalmente podrían alcanzar su seguridad espacial y
+jurídica. Con esta consideración se optó por definir el indicador asociado como: 92 AP de gestión
+nacional con certeza espacial y jurídica. Es decir, hasta 92 AP con demarcación física y registro
+de sus límites, incluyendo límites de zonificación interna; registradas en el RGP a nombre del
+Estado y adscritas al administrador correspondiente
+Componente 1. Establecimiento de catastro en áreas protegidas: Actividades bajo este
+componente se dirigieron hacia establecer el catastro físico de 92 áreas protegidas de SIGAP
+que se encuentran bajo la gestión nacional y que no habían sido catastradas. El proceso de
+establecimiento de catastro en áreas protegidas consistió de cuatro fases básicas secuenciales:
+a) actividades previas de base de datos de monitoreo de territorios de áreas protegidas; b) áreas
+protegidas catastradas que conforman el SIGAP y cuentan con información para el monitoreo de
+conflictos; c) áreas protegidas con delimitación y demarcación física de límites; d) establecimiento
+catastral del área con procuración legal.
+1 La deforestación en Guatemala continua alta, contribuyendo 44,093,388 ton. de CO2 equivalente por año (GIMBUT,
+   2018; IUCN, 2018).
+2 Robinson, Brian E., Margaret B. Holland, and Lisa Naughton-Treves. 2014. “Does Secure Land Tenure Save Forests?
+   A Meta-Analysis of the Relationship between Land Tenure and Tropical Deforestation.” Global Environmental
+   Change 29. Elsevier Ltd: 281–93. https://doi.org/10.1016/j.gloenvcha.2013.05.012.
+3  La legislación emitida hace referencia a la creación áreas de protección con la finalidad de hacer un uso sostenible
+   de los recursos naturales que son de interés nacional. Bajo esta premisa la tenencia de la tierra no necesariamente
+   tiene que ser estatal. Cada área protegida tiene una conformación diferente respecto a la tenencia de tierra, la cual
+   puede ser nacional (estatal), municipal (gobierno local), privada, comunal o cualquier otra forma legalmente
+   reconocida. La legislación de áreas protegidas, por tanto, regula el uso de la tierra más no el tipo de tenencia de la
+   tierra.
+                                                           8
+"
+"Las actividades para atender la problemática incluyeron entre otras cosas: la realización de
+diagnósticos territoriales para conocer el estado de los territorios; la realización de diagnósticos
+registrales; y la ejecución de un programa de comunicación social para evitar conflictos sociales4.
+El programa también previó para la fase de demarcación física y zonificación actividades como:
+(i) identificación de los límites físicos de las áreas protegidas; (ii) amojonamiento de los límites y
+la determinación de los límites de las zonas de manejo dentro de la área protegida;
+(iii) determinación de las incongruencias entre límites legales y los límites físicos; (iv) inscripción
+de los límites físicos establecidos y las incongruencias físico-legales existentes con el CONAP;
+(v) realización de las acciones legales para las correcciones de limites; y (vi) divulgación de la
+información. Aunque las actividades del componente se ejecutaron en su mayoría (excepto el
+monitoreo sistematizado de conflictos), hubiera sido importante no duplicar el indicador de
+procuración legal de este componente, ya que el Componente 2 tiene como objetivo llevar a cabo
+todas las actividades de procuración legal. Por otro lado, la inclusión de un indicador de impacto
+que pueda medir el impacto directo del programa en las AP, como grado de deforestación o
+pérdida o mejora de cobertura forestal habría permitido fortalecer la lógica vertical del programa.
+Sin embargo, se debe reconocer que mediciones remotas de cobertura forestal estaban en su
+infancia al momento de diseño del programa y su disponibilidad y costo resultaban prohibitivas.
+Componente 2 Consolidación de la certeza jurídica de las áreas protegidas. Bajo este
+componente que presentaba el reto de ofrecer la certeza jurídica de las áreas naturales que
+administra el CONAP y si bien había algunas mediciones de los predios en zonas de
+amortiguamiento, era necesaria la validación catastral de los predios, así como en cada uno de
+los predios irregulares, de acuerdo a las normativas del país. Para lo anterior, se diseñaron
+actividades que condujeran a la procuración legal para el registro, como la inscripción y
+adscripción de predios nacionales a favor del Estado y al ente administrador y realizar las
+anotaciones registrales de uso de tierras ubicadas en las áreas protegidas ante el registro general
+de la propiedad y la Dirección de bienes de la nación. En este componente únicamente se diseñó
+un indicador que incluyó diversas actividades que estaban entrelazadas y que no focalizaron bien
+los alcances del componente y como se mencionó en el componente anterior, se duplicó en algún
+sentido el indicador de este componente con uno de los productos del Componente 1. Por lo
+tanto la teoría de cambio quedó incompleta para este componente.
+Componente 3. Soporte técnico, coordinación interinstitucional y uso de la información
+catastral y registral. Bajo este componente que tuvo como objetivo fortalecer las funciones de
+generación y administración de la información de catastro y registro en áreas protegidas del
+SIGAP. Este componente buscó atender los problemas de gestión de las entidades involucradas
+en el proyecto, la cual no era eficiente ni efectiva para disponer de información asociadas a la
+demarcación, catastro, y registro en las áreas protegidas del SIGAP. Con el proyecto, se buscó
+generar una base de datos que sirviera como sistema de monitoreo e información de catastro y
+registro, tenencia y uso de la tierra en áreas protegidas. Algunas actividades específicas fueron
+llevar a cabo diversos convenios interinstitucionales entre diferentes agencias del Gobierno, crear
+unidades de apoyo técnico en instituciones socias, diseñar y construir las bases de datos
+georreferenciadas con información de catastro, registro de tenencia y uso de la tierra en áreas
+protegidas, el desarrollo de aplicativos tecnológicos para monitorear sitios arqueológicos y
+4  El programa no incluyo reasentamiento de personas. Por lo tanto, no fue necesario elaborar planes de
+   reasentamiento. El programa incluyo como parte de su implementación (recogido en los manuales operativos) la
+   elaboración de diagnósticos territoriales que incluyeron un mapa de conflictividad de cada AP y una estrategia de
+   comunicación social relacionada a cada AP. Es importante recalcar que dada la importancia de contar con
+   información actualizada sobre estos aspectos antes de arrancar las labores de catastro, etc. no se considera viable
+   o recomendable realizar estos análisis como parte de la preparación. Estos pasos son necesarios realizarlos como
+   parte de la ejecución de la operación en cada AP antes de iniciar las labores de catastro. Los manuales operativos
+   del programa contemplan estos aspectos.
+                                                           9
+"
+"lugares ceremoniales indígenas, la delimitación de reservas territoriales del Estado, regularizar
+tierras a favor de comunidades y llevar a cabo los dictámenes técnico jurídicos sobre procesos
+catastrales, etc.
+Administración y seguimiento. Esta actividad tuvo el objetivo de fortalecer la capacidad
+institucional del RIC para la gestión técnica, administrativa y financiera del programa. Dado que
+fue un programa complejo con la participación de diversas instituciones durante la ejecución del
+programa se requería de una unidad técnico-administrativa que fuera eficaz y eficiente para
+coordinar y gerenciar todas las actividades del programa y para ellos se creó una unidad de
+coordinación del programa que aplicara las normas y procedimientos del Banco y de toda índole
+del programa y un sistema de seguimiento de la operación del programa.
+Con base en las actividades de los tres componentes y la administración y seguimiento, el
+Programa buscó crear áreas protegidas que conforman el SIGAP con un nivel de certeza jurídica
+y espacial. Aunque parece conceptualmente razonable vincular los productos y resultados de la
+operación a este impacto dentro de la lógica vertical global del Programa, hay que destacar que
+el indicador seleccionado de impacto presenta una medida asociada a resultados de uno de los
+componentes y no atribuible a todos los componentes del programa. Es decir, habría sido más
+adecuado elegir un indicador más directamente vinculado a los resultados de la operación, como
+grado de deforestación o pérdida o mejora de la cobertura forestal, para poder medir el éxito final
+(o no) del programa.
+En resumen, los objetivos de desarrollo del Programa en su lógica vertical demostraron una
+alineación con las necesidades de desarrollo de país, así como con la Estrategia de País e
+Institucional del Banco, y las prioridades del país desde la aprobación hasta el cierre de la
+operación. Si bien la matriz de resultados no incluyó en su diseño indicadores de impacto en la
+deforestación5 o cambios en la cobertura forestal; la certeza espacial y jurídica de las áreas
+protegidas, podría tener algún efecto, debido a que al mejorar la seguridad de tenencia de dichas
+áreas podría incidir positivamente en desacelerar la tasa de deforestación. Un reciente
+metaanálisis (Robinson et al 20146) concluye que hay evidencia de que las Áreas Protegidas
+están asociadas con resultados positivos en cuanto a deforestación y que la seguridad de
+tenencia está relacionada con menor deforestación, independientemente de la forma de tenencia.
+En consideración de lo señalado anteriormente la relevancia de la operación se califica como
+Satisfactoria.
+III.2     Efectividad
+La sección de efectividad presenta los logros del programa en relación con los objetivos de
+desarrollo y resultados específicos expresados en la Matriz de Resultados que consta en la
+propuesta de préstamo, dados los productos entregados.
+          a. Descripción de los objetivos de desarrollo del proyecto.
+El objetivo de desarrollo del Programa fue proporcionar la certeza jurídica y geográfica a las
+áreas protegidas (AP) legalmente declaradas que conforman el Sistema Guatemalteco de Áreas
+Protegidas (SIGAP), contribuyendo así a la administración efectiva del SIGAP para el beneficio
+de todos los habitantes de Guatemala.
+5  La deforestación en Guatemala continua alta, contribuyendo 44,093,388 ton. de CO2 equivalente por año (GIMBUT,
+   2018; IUCN, 2018).
+6 Robinson, Brian E., Margaret B. Holland, and Lisa Naughton-Treves. 2014. “Does Secure Land Tenure Save Forests?
+   A Meta-Analysis of the Relationship between Land Tenure and Tropical Deforestation.” Global Environmental
+   Change 29. Elsevier Ltd: 281–93.
+                                                         10
+"
+"            b. Resultados logrados
+Como ya se señaló en la sección anterior, a pesar de la consideración de ciertos aspectos en la
+definición del indicador de impacto, durante la ejecución se llevaron a cabo la producción de
+productos y resultados. En la Tabla III.1, se presentan los cambios en la Matriz de resultados
+realizados durante la ejecución del programa. A su vez, la Tabla III.2 presenta la Matriz de
+Resultados alcanzados al momento del cierre.
+                                                       Figura III.1. Teoría del Cambio
+                                Establecimiento catastral y consolidación de la certeza jurídica en áreas protegidas
+   Objetivo: El propósito del Programa es el establecimiento del catastro físico de las Áreas Protegidas (AP) que permitirá proporcionar la certeza
+  jurídica y geográfica de las áreas de gestión nacional que conforman el Sistema Guatemalteco de Áreas Protegidas (SIGAP), contribuyendo así a
+                                 la administración efectiva del SIGAP para el beneficio de todos los habitantes del país.
+    INSUMOS                               ACTIVIDADES                                       PRODUCTOS                 RESULTADOS        IMPACTOS
+                                                         Componente 1: Catastro en áreas protegidas
+                     C1.1: Diagnóstico territorial, registral y ejecución del      Base de datos de monitoreo
+                     programa de comunicación social.                                         de conflictos
+                     C.1.2: Georreferenciación de los límites; levantamiento
+                     de información catastral de todos los predios ubicados
+                                                                                 Áreas protegidas catastradas
+                     dentro del área protegida; medición de los límites de
+                     cada predio en relación a los límites del área protegida.                                            92 áreas
+                     C1.3: Realización del análisis catastral y jurídico de                                            protegidas del
+                     cada predio; planos catastrales y su integración a la                                               SIGAP que
+                     base de datos del RIC; definición de las anotaciones               Áreas protegidas con            cuenten con
+                     registrales que efectúen los títulos de propiedades                  procuración legal           establecimiento
+                     privadas; y la mediación de conflictos entre propietarios                                            catastral
+                     y que resulten del proceso de catastro.
+ Financiamiento      C1.4: Identificación de los límites físicos de las áreas
+                                                                                  Áreas protegidas delimitadas
+                     protegidas, amojonamiento de los límites y la
+   de servicios
+                     determinación de los límites de las zonas.
+     técnicos                                                                    Áreas protegidas demarcadas
+ especializados                                       Componente 2: Consolidación de la certeza jurídica
+                                                                                                                      Reducción de la
+                     C2.1: Procuración de servicios legales para asegurar la                                           conflictividad
+                                                                                        Áreas protegidas cuentan
+                     consolidación de la certeza jurídica de las áreas                                                social resultado
+                                                                                   con proceso de procuración
+                     protegidas mediante la inscripción en el Registro                                                      de la
+                                                                                        legal para el registro,
+                     General de la Propiedad de las 92 áreas protegidas a                                             implementación
+                                                                                  adscripción y anotaciones al
+                     nombre del Estado y adscritas al administrador                                                     del proceso         Áreas
+                                                                                          final del proyecto.
+                     correspondiente.                                                                                   catastral son    protegidas
+                                                                                                                      atendidos por el   de gestión
+                                                                                                                          proyecto         nacional
+                         Componente 3: Soporte técnico, coordinación interinstitucional y uso de la información catastral y registral   con certeza
+                                                                                                                                          espacial y
+                                                                                 Convenios interinstitucionales                            jurídica
+                                                                                     suscritos en el marco del
+                                                                                                proyecto
+                     C3.1: Servicios de consultoría especializada.                Diseñar y construir las bases
+                                                                                 de datos georreferenciada en
+                                                                                 materia de catastro y registro,
+                                                                                  tenencia y uso de la tierra en
+                                                                                           áreas protegidas
+                                                                                         Unidades de apoyo
+                                                                                   implementadas y con apoyo
+                                                                                      técnico en instituciones
+                                                                                  sociales del proyecto a partir       Se consolida la
+                                                                                           del segundo año            certeza jurídica
+                                                                                                                        de 92 áreas
+                                                                                     Desarrollo de aplicativos
+ Financiamiento                                                                                                        protegidas de
+                                                                                             tecnológicos.
+ y equipamiento                                                                                                      gestión nacional.
+                                                                                 Sitios arqueológicos y lugares
+                     C3.2: Contratación de personal incremental,
+                                                                                     ceremoniales indígenas
+                     adquisición de bienes, equipamiento y gastos
+                                                                                         verificados (IDAEH)
+                     operativos
+                                                                                     Delimitación de reservas
+                                                                                       territoriales del estado
+                                                                                  Tierras regularizadas a favor
+                                                                                           de comunidades
+                                                                                           (FONTIERRAS)
+                                                                                  Dictámenes técnico-jurídicos
+                                                                                      sobre proceso catastral
+                                                                                               (CONAP)
+                                                                              11
+"
+"Componente 1. Catastro en áreas protegidas.
+Este componente que tuvo como objetivo el establecimiento del catastro en áreas protegidas
+realizó los siguientes productos con los resultados citados.
+Es importante iniciar destacando que el logro del establecimiento catastral en las 92 AP del
+Programa estuvo en función del avance en el número de AP delimitadas, al avance en la
+demarcación de las AP y el avance en el catastro de AP. Al respecto, los indicadores del marco
+de resultado inicial del programa estaban diseñados en función de 92 áreas protegidas,
+delimitadas, demarcadas y catastradas, pero no tomaban en cuenta el tamaño de dichas áreas.
+En el 2014, como parte de la evaluación de medio término (26 de junio de 2014, referencia
+CID/CGU-1555/2014) y tras una revisión exhaustiva de la planificación del préstamo en base a
+la metodología PM4R7 impulsado por, y con el apoyo técnico del BID, validado por SPD, se
+acordó formalmente cambiar la redacción de varios productos, y las unidades de medida de
+indicadores, de manera que midieran con más precisión el avance de la operación, reflejado en
+los PMRs del 2015 en adelante. Con ello, los indicadores fueron cambiados para que se mida
+el avance en longitudes (km) de demarcación, en km2 las superficies catastradas y número de
+predios inscritos, lo cual permitió un seguimiento más riguroso de la operación y asegurar que
+los porcentajes logrados demostraran el avance real alcanzado. Cabe resaltar que el total de
+Km delimitados y demarcados comprendía el total de las 92 AP. Así también, el número de
+predios catastrados constituía el total de predios en las 92 AP en los nuevos ajustes.
+Además, tras el análisis legal por el RIC, validado por CONAP, de las 92 áreas protegidas
+originalmente planteadas en el SIGAP y asignadas al préstamo, sólo quedaron 76 factibles,
+reduciendo el objetivo final posible del préstamo de 92 a 76 AP. El resumen de este análisis fue
+consignado en el informe del RIC de febrero del 2015 intitulado “Informe sobre áreas protegidas
+se darán por finalizadas en el marco del Programa Establecimiento Catastral y Consolidación de
+la Certeza Jurídica en Areas Protegidas”. Las 16 AP no catastradas lo fueron por no contar con:
+Declaratoria Legal (4 AP); asignación incorrecta de categoría de área protegida (4 AP); inclusión
+de cerros con categoría de volcán asignada por CONAP sin llenar los requerimientos de
+INSIVUMEH (3 AP); conflictos sociales (1 AP), y áreas de reserva que se ubican dentro de áreas
+protegidas a trabajar (4 AP).
+En este contexto, aunque se haya analizado legalmente las 92 AP originalmente previstas en el
+contrato de préstamo, hay 16 de ellas imposibilitadas de realizar el proceso catastral, por las
+razones mencionadas arriba, limitando el resultado final potencial del Programa a 76 AP.
+Dentro de este componente se tuvieron los siguientes productos con sus resultados:
+           1.1 Base de datos de monitoreo
+a. Definición del producto
+     Mediante este producto se buscó contar con una base de datos georreferenciada, de los
+     resultados del proceso de delimitación y del proceso catastral de los predios ubicados total o
+     parcialmente dentro de las áreas protegidas incluyendo las comunidades y habitantes.
+b. Metodología
+     La unidad de medida fue el número de bases de datos georreferenciados que se encuentran
+     establecidas y operando como parte del Programa. Su medición se efectuó anualmente y
+     estuvo a cargo del especialista en seguimiento y evaluación del Programa.
+7 Project Management for Results. Metodologia del BID de Gestión de Proyecto, en base al PMI.
+                                                       12
+"
+"c. Relevancia del producto
+   Este producto es relevante porque contribuye a la mejor administración y monitoreo de las
+   áreas protegidas.
+d. Resultado obtenido
+   De acuerdo con los datos obtenidos, se llevó a cabo la base de datos georreferenciados de
+   áreas protegidas como se había planeado, sin embargo, un indicador del proceso catastral
+   era la atención efectiva de la conflictividad social a raíz del proceso. Al respecto, el indicador
+   asociado de monitoreo de conflictos no fue sistematizado y no se cuenta con información
+   verificable para reportar el alcance de esta actividad, a pesar de que si se llevó a cabo la
+   base de datos. Considerando esto, el avance físico fue considerado como de 100%, ya que
+   se finalizó la base de datos, que era el producto, pero con un faltante en el indicador de
+   conflictos.
+       1.2 Áreas protegidas catastradas
+a. Definición del producto
+   Mediante este producto se buscó evaluar el avance de las operaciones técnicas, para la
+   identificación de los predios que se encontraron total o parcialmente dentro de las áreas
+   protegidas.
+b. Metodología
+   La unidad de medida fue el número de kilómetros cuadrados de áreas protegidas catastradas.
+   Este número se dividió dentro de la meta total del Programa, que fue de 32.522 km2, para
+   obtener el porcentaje acumulado de avance. Su medición se efectuó mensualmente y estuvo
+   a cargo del especialista en seguimiento y evaluación del Programa.
+c. Relevancia del producto
+   Este producto es relevante porque contribuye a resolver el problema de falta de derechos
+   claros de propiedad sobre las áreas protegidas.
+d. Resultado obtenido
+   De acuerdo con los datos obtenidos, fueron catastrados 25.793,91 km2 de los
+   32.522 programados, con lo cual el índice de avance físico fue de 79%.
+       1.3 Áreas protegidas con procuración legal
+a. Definición del producto
+   Por medio de este producto se buscó evaluar el avance en el proceso de consolidación de la
+   certeza jurídica de las áreas protegidas, que sin embargo se traslapa con el indicador del
+   Componente 2.
+b. Metodología
+   La unidad de medida fue el número de áreas protegidas con procuración legal. Su medición
+   se efectuó mensualmente y estuvo a cargo del especialista en seguimiento y evaluación del
+   Programa.
+c. Relevancia del producto
+   Este producto es relevante porque la certeza jurídica permitirá una administración más
+   efectiva de las áreas protegidas, así como el resguardo de los recursos naturales.
+d. Resultado obtenido
+   De acuerdo con los datos del Programa, 56 áreas protegidas contaban con procuración legal.
+   Sobre la meta de 92 áreas protegidas, el índice de avance físico logrado fue de 60%.
+                                                 13
+"
+"        1.4 Áreas protegidas delimitadas
+a. Definición del producto
+    Mediante este producto se buscó evaluar el avance en el proceso de recopilación,
+    investigación y análisis de información documental y de campo, para identificar la ubicación
+    espacial de vértices, el perímetro de las áreas protegidas y su zonificación interna. Este
+    proceso permite establecer el número de áreas protegidas que pasa a la etapa de
+    demarcación, dando así continuidad al proceso catastral.
+b. Metodología
+    La unidad de medida fue el número de áreas protegidas con propuesta técnica de delimitación
+    avalada por el CONAP. Este número de áreas fue dividido dentro de la meta total del
+    Programa, que fue de 92, para obtener el porcentaje acumulado de avance. Su medición se
+    efectuó mensualmente y estuvo a cargo del especialista en seguimiento y evaluación del
+    Programa.
+c. Relevancia del producto
+    La relevancia de este producto radica en que permite establecer el número de áreas
+    protegidas que pasa a la etapa de demarcación, dando así continuidad al proceso catastral.
+d. Resultado obtenido
+    De acuerdo con los datos del Programa, fueron delimitadas 68 de las 92 áreas protegidas
+    planificadas, con lo cual el índice de avance físico de este producto fue de 74%.
+Es importante resaltar que los estudios de delimitación consumieron gran cantidad de tiempo y
+recursos, pero también evidenciaron la inviabilidad de la inclusión de ciertas áreas protegidas en
+el Programa. Del total de 92 áreas originalmente planeadas, 16 no fueron atendidas debido a
+que tuvieron impedimentos legales, sociales o institucionales, para desarrollar las actividades
+conducentes a obtener los resultados del Programa. De estas, el programa únicamente pudo
+atender la delimitación de 68 áreas protegidas durante la ejecución.
+El principal beneficio de la delimitación fue la determinación de la certeza espacial de las áreas
+protegidas. Con la implementación del Programa se logró una depuración del listado de áreas
+protegidas con declaratoria contenidas en el SIGAP, logrando la oficialización de sus límites, ya
+que varias de ellas carecían de instrumento legal o administrativo que fundamentara sus
+polígonos.
+        1.5 Áreas protegidas demarcadas
+a. Definición del producto
+    Mediante este producto se buscó evaluar el avance en el proceso de materialización física
+    de los vértices y perímetro de las áreas protegidas.
+b. Metodología
+    La unidad de medida fue el número de kilómetros de áreas protegidas demarcadas. Este
+    número se dividió dentro de la meta total del Programa, que fue de 5.675,80 km, para obtener
+    el porcentaje acumulado de avance. Su medición se efectuó mensualmente y estuvo a cargo
+    del especialista en seguimiento y evaluación del Programa.
+c. Relevancia del producto
+    Este producto es relevante porque con la demarcación se busca un mejor manejo de las
+    áreas protegidas, así como el resguardo de los recursos naturales.
+d. Resultado obtenido
+    De acuerdo con los datos del Programa, fueron demarcados 2.983,20 km de los
+    5.675,80 planificados, con lo cual que se obtuvo un índice de avance físico de 52%.
+                                                  14
+"
+"La demarcación permitió la materialización física de los vértices y perímetros de las AP. La
+demarcación de las áreas protegidas ayudó a los pobladores locales a identificar en dónde son
+los límites del área protegida y permitieron a las autoridades señalar a un marcador físico como
+evidencia del estatus protegido de las áreas en la aplicación de la ley.
+ Para varias de las áreas protegidas, el Programa ayudó a identificar los casos en los que existen
+desfases entre las coordenadas establecidas en los documentos legales de declaratoria y la
+ubicación física (en campo) de los límites del territorio. Para los casos en que no fue posible
+resolver los desfases existentes, los informes de delimitación establecen las magnitudes de tales
+desfases.
+Componente 2. Consolidación de la certeza jurídica de las áreas protegidas.
+Este componente comprendió la procuración de servicios legales para asegurar la consolidación
+de la certeza jurídica de las áreas protegidas. Este componente únicamente consistió de un
+producto y el logro y cumplimiento de su producto se presenta a continuación.
+         2.1 Áreas protegidas con procuración legal
+a. Definición del producto
+     Por medio de este producto se buscó evaluar el avance en el proceso de consolidación de la
+     certeza jurídica de las áreas protegidas, mediante la inscripción en el RGP de los predios
+     nacionales que se encontraban dentro de las 92 áreas protegidas legalmente declaradas, a
+     nombre de la Nación y adscritas al administrador legal correspondiente.
+ b. Metodología
+     La unidad de medida fue el número de áreas protegidas con procuración legal. Su medición
+     se efectuó mensualmente y estuvo a cargo del especialista en seguimiento y evaluación del
+     Programa.
+c. Relevancia del producto
+     Este producto es relevante porque la certeza jurídica permitirá una administración más
+     efectiva de las áreas protegidas, así como el resguardo de los recursos naturales.
+d. Resultado obtenido
+     De acuerdo con los datos del Programa, 56 áreas protegidas contaban con procuración legal.
+     Sobre la meta de 92 áreas protegidas, el índice de avance físico logrado fue de 60%.
+De las 92 AP, 56 contaron con procuración legal, es decir un avance del 60%. La consolidación
+de la certeza jurídica también contempló la realización de anotaciones registrales de uso de
+tierra, de los títulos inscritos de aproximadamente 5.478 predios privados ubicados en las áreas
+protegidas, aunque estas no fueron identificadas como un indicador.
+Componente 3. Soporte técnico, coordinación interinstitucional y uso de la información
+catastral y registral.
+Por medio de este componente, el Programa buscó proveer soporte técnico a instituciones
+gubernamentales socias, para asegurar la coordinación y colaboración interinstitucional
+necesaria para lograr los resultados esperados. Los productos relacionados con este
+componente se presentan a continuación, incluyendo sus logros y cumplimientos.
+                                                 15
+"
+"        3.1 Convenios interinstitucionales suscritos en el marco del Programa
+a. Definición del producto
+   Mediante este producto se buscó evaluar la cantidad de convenios interinstitucionales
+   suscritos entre el RIC y otras instituciones gubernamentales socias, como parte de la
+   implementación del Programa.
+b. Metodología
+   La unidad de medida fue el número de convenios suscritos. Este número fue dividido dentro
+   de la meta total del Programa, que fue de ocho, para obtener el porcentaje acumulado de
+   avance. Su medición se efectuó mensualmente y estuvo a cargo del especialista en
+   seguimiento y evaluación del Programa.
+c. Relevancia del producto
+   La relevancia de este producto radica en que permite establecer el número de convenios
+   interinstitucionales suscritos, para la administración efectiva de las áreas protegidas.
+d. Resultado obtenido
+   De acuerdo con los datos obtenidos, fueron suscritos nueve convenios de los ocho
+   planificados, con lo cual el índice de avance físico de este producto fue de 113%.
+        3.2 Unidades de apoyo implementadas y con apoyo técnico en instituciones socias
+        del proyecto a partir del segundo año
+a. Definición del producto
+   Mediante este producto se buscó establecer la cantidad de unidades de apoyo que fueron
+   implementadas en instituciones socias, que fueron favorecidas con personal incremental
+   especializado y dedicado a las actividades del Programa.
+b. Metodología
+   La unidad de medida fue el número de unidades de apoyo implementadas en instituciones
+   socias. Este número fue dividido dentro de la meta total del Programa, que fue de siete, para
+   obtener el porcentaje acumulado de avance. Su medición se efectuó mensualmente y estuvo
+   a cargo del especialista en seguimiento y evaluación del Programa.
+c. Relevancia del producto
+   La relevancia de este producto radica en que permite establecer el número de unidades de
+   apoyo implementadas en instituciones socias, para la adecuada implementación del
+   Programa.
+d. Resultado obtenido
+   De acuerdo con los datos obtenidos, fueron implementadas 8 unidades de apoyo, sobre las
+   siete planificadas, con lo cual el índice de avance físico de este producto fue de 114%.
+        3.3 Diseñar y construir las bases de datos georeferenciadas en materia de catastro
+        y registro, tenencia y uso de la tierra en áreas protegidas.
+a. Definición del producto
+   Mediante este producto se buscó fortalecer las funciones de generación y administración de
+   la información de catastro y registro en áreas protegidas del SIGAP.
+b. Metodología
+   La unidad de medida fue establecer una base de datos para el monitoreo e información de
+   catastro y registro, tenencia y uso de la tierra.
+c. Relevancia del producto
+   La relevancia de este producto radica en que permite monitorear la información asociada a
+   la demarcación, catastro y registro en las áreas protegidas del SIGAP.
+                                                 16
+"
+"d. Resultado obtenido
+   De acuerdo con la información del RIC, esta base de datos fue implementada y utilizada como
+   mecanismo de monitoreo de la información catastral y registral. La unidad de medida fue una
+   base de datos y se llevó a cabo, con lo cual el índice de avance físico de este producto fue
+   de 100%.
+       3.4 Desarrollo de aplicativos tecnológicos
+a. Definición del producto
+   Este producto consistió en la elaboración y provisión de soporte técnico a las instituciones
+   gubernamentales socias, tales como establecimiento de bases de datos sobre la tenencia y
+   uso de la tierra, de un sistema de información georreferenciado interconectado entre el RIC,
+   el CONAP, el RGP y la Dirección de Bienes del Estado, diseño y puesta en operación del
+   sistema de información geográfica, licenciamiento en software, etc.
+b. Metodología
+   La unidad de medida fue el número de aplicativos desarrollados, tanto para el RIC como para
+   las instituciones gubernamentales socias. Este número de aplicativos fue dividido dentro de
+   la meta total del Programa, que fue de 84, para obtener el porcentaje acumulado de avance.
+   Su medición se efectuó mensualmente y estuvo a cargo del especialista en seguimiento y
+   evaluación del Programa.
+c. Relevancia del producto
+   La relevancia de este producto radica en que permite asegurar la coordinación y colaboración
+   interinstitucional, necesaria para lograr los resultados esperados.
+d. Resultado obtenido
+   De acuerdo con los datos del Programa, fueron desarrollados 38 de los 84 aplicativos
+   planificados, con lo cual el índice de avance físico de este producto fue de 45%.
+       3.5 Sitios arqueológicos y lugares ceremoniales indígenas verificados (IDAEH)
+a. Definición del producto
+   Con este producto se busca verificar los sitios arqueológicos y los sitios ceremoniales
+   presentes en el área del Programa. Por tales, se entenderá: Sitio arqueológico (SA): lugar o
+   paraje cultural-natural vinculado con acontecimientos o recuerdos pasados, a tradiciones
+   populares, creaciones culturales o de la naturaleza y a obras del ser humano, que posean
+   valor histórico, arqueológico, paleontológico o antropológico. Sitio ceremonial (SC): lugar
+   tradicional para uso ceremonial.
+b. Metodología
+   Las unidades de medida fueron los sitios y su medición fue mensual por parte del IDAEH.
+   Para ello se utilizaron como medios de verificación los shapes e informes técnicos de la
+   unidad enlace, así como los oficios de entrega del IDAEH al DIGEPACUNAT y las
+   notificaciones al RIC de números de registro asignados por DIGEPACUNAT.
+c. Relevancia del producto
+   La relevancia de este indicador radica en que permite medir la forma en que el Programa
+   aporta a la conservación del patrimonio cultural de la nación.
+d. Resultado obtenido
+   Se identificaron y geo-referenciaron 902 sitios arqueológicos y sitios ceremoniales en el área
+   del Programa, los cuales también fueron incorporados a la base de datos del Departamento
+   de Registro de Bienes Culturales
+                                                 17
+"
+"e. Análisis del resultado
+     Sobre la meta de 812, los 902 sitios arqueológicos y sitios ceremoniales identificados,
+     geo-referenciados e incorporados a la base de datos del Departamento de Registro de Bienes
+     Culturales, representaron un logro de 111%.
+          3.6 Delimitación de reservas territoriales del Estado
+a. Definición del producto
+     Con este producto se buscó evaluar el avance en el proceso de delimitación de las reservas
+     territoriales de dominio del Estado, sobre las áreas terrestres a lo largo de los océanos, en
+     las orillas de los lagos y en las riberas de los ríos navegables, en contribución al cumplimiento
+     al Artículo 122 de la Constitución Política de la República de Guatemala8.
+b. Metodología
+     La unidad de medida fue el número de kilómetros delimitados de las áreas de reserva del
+     Estado. Este número se dividió dentro de la meta total del Programa, que fue de 442 km,
+     para obtener el porcentaje acumulado de avance. Su medición se efectuó mensualmente y
+     estuvo a cargo del especialista en seguimiento y evaluación del Programa, en coordinación
+     con funcionarios de OCRET.
+c. Relevancia del producto
+     La relevancia de este indicador radica en que permite medir la forma en que el Programa
+     aporta a la administración y conservación de las reservas territoriales del Estado.
+d. Resultado obtenido
+     Se delimitaron 483,25 km de reservas territoriales del Estado en el área del Programa, los
+     cuales también fueron incorporados a la base de datos de OCRET. Sobre la meta de 442,
+     los 483,25 km delimitados representaron un índice de avance físico de 109%.
+          3.7 Tierras regularizadas a favor de comunidades (FONTIERRAS)
+a. Definición del producto
+     La regularización es el proceso de análisis, revisión y actualización de expedientes en los
+     que consta la adjudicación y tenencia de tierras entregadas o en proceso de entrega por parte
+     del Estado, por medio de FONTIERRAS9. En el marco del Programa y de este producto, el
+     objetivo de la regularización es que los beneficiarios, cumpliendo con los requisitos legales,
+     puedan formalizar su adjudicación y disponer en propiedad las tierras adquiridas.
+b. Metodología
+     La unidad de medida estuvo constituida por los predios de las comunidades y su medición
+     fue realizada mensualmente por FONTIERRAS, el Registro Público del RIC y el RGP. Los
+     medios de verificación utilizados fueron la base de datos de producción del RIC, el Registro
+     Público del RIC, las consultas electrónicas al RGP y los instrumentos o registros generados
+     por FONTIERRAS para reportar avances y características de los beneficiarios, relacionadas
+     con el traslado de dominio de la tenencia de la tierra a titulares catastrales.
+8 Artículo 122.- Reservas territoriales del Estado. El Estado se reserva el dominio de una faja terrestre de tres
+  kilómetros a lo largo de los océanos, contados a partir de la línea superior de las mareas; de doscientos metros
+  alrededor de las orillas de los lagos; de cien metros a cada lado de las riberas de los ríos navegables; de cincuenta
+  metros alrededor de las fuentes y manantiales donde nazcan las aguas que surtan a las poblaciones. Se exceptúan
+  de las expresadas reservas: a. Los inmuebles situados en zonas urbanas; y b. Los bienes sobre los que existen
+  derechos inscritos en el Registro de la Propiedad, con anterioridad al primero de marzo de mil novecientos cincuenta
+  y seis.
+9 FONTIERRAS solamente tiene injerencia en bienes propiedad de La Nación y así fue considerada la coordinación
+  con esta entidad.
+                                                           18
+"
+"c. Relevancia del producto
+   La relevancia de este indicador radica en que permite dar seguimiento al cumplimiento de la
+   Ley del RIC, Decreto 41-2005, sobre todo en lo pertinente al Título VII Regularización en el
+   Marco del Proceso Catastral.
+d. Resultado obtenido
+   Un total de cinco comunidades sobre un total de cinco identificadas como elegibles para
+   regularización fueron inscritos a favor de titulares catastrales, lo cual significó un logro de
+   100%.
+       3.8 Dictámenes técnico jurídicos sobre proceso catastral (CONAP)
+a. Definición del producto
+   Mediante este producto se buscó evaluar la cantidad de dictámenes técnico jurídicos sobre
+   delimitación, demarcación y proceso catastral, elaborados por el RIC y entregados al CONAP,
+   como parte de la implementación del Programa.
+b. Metodología
+   La unidad de medida fue el número de dictámenes técnico jurídicos elaborados. Este número
+   fue dividido dentro de la meta total del Programa, que fue de 130, para obtener el porcentaje
+   acumulado de avance. Su medición se efectuó mensualmente y estuvo a cargo del
+   especialista en seguimiento y evaluación del Programa, en coordinación con funcionarios de
+   CONAP.
+c. Relevancia del producto
+   La relevancia de este producto radica en que brinda las bases técnicas y jurídicas al Consejo
+   Directivo del CONAP, para aprobar o recomendar modificaciones a los resultados de
+   delimitación, demarcación y el proceso de catastro realizados por el Registro de Información
+   Catastral, para la administración efectiva de las áreas protegidas.
+d. Resultado obtenido
+   De acuerdo con los datos del Programa, fueron elaborados 65 dictámenes de los
+   76 planificadas, con lo cual el índice de avance físico de este producto fue de 85%.
+Administración y Seguimiento.
+En este componente, el Programa buscó fortalecer la capacidad institucional del RIC para la
+gestión técnica, administrativa y financiera del programa.
+a. Definición del producto
+   Con este producto se buscó poner en marcha una unidad técnico-administrativa que fuera
+   responsable de la coordinación y gerencia de todos los proyectos y actividades del programa.
+b. Metodología
+   La unidad de medida fue crear una Unidad de Coordinación del Programa (UCP) que
+   coordinara y gestionara el cumplimiento de normas y procedimientos técnicos,
+   administrativos, financieros y contables para la ejecución adecuadas del programa.
+c. Relevancia del producto
+   La relevancia de este indicador radica en que permite la ejecución del programa coordinado
+   información, gestión y coordinación con diversas instituciones.
+d. Resultado obtenido
+   Se creó la Unidad de Coordinación del programa quien llevó a cabo la ejecución del programa
+   en sus diferentes actividades y componentes.
+e. Análisis del resultado
+   Sobre la meta de crear la Unidad de Coordinación y ejecutar el programa el programa cumplió
+   con la meta.
+                                                 19
+"
+"                            Tabla III.1. Matriz de Resultados (Aprobación, 60 días después de elegibilidad, y cierre)
+                                   Aprobación                    Elegibilidad más 60 días                 Cierre (PCR)
+                          Unidad de Línea Meta (P)           Unidad de     Línea de Meta (P)     Unidad de Línea de Meta (A)
+       Indicadores                                                                                                                   Comentarios
+                           Medida        de                    Medida        base                 Medida        base
+                                        base
+Impacto
+Las áreas protegidas que conforman el SIGAP cuentan con certeza espacial y jurídica
+Áreas protegidas con                                                                                                             El indicador de
+certeza espacial y                                                                                                               impacto es el
+jurídica                                                                                                                         mismo que el
+                        Área protegida    0        92      Área protegida     0          92    Área protegida      0       56
+                                                                                                                                 indicador de
+                                                                                                                                 producto del
+                                                                                                                                 Componente 2
+Resultados
+Áreas protegidas de gestión nacional cuentan con establecimiento catastral
+Áreas protegidas del                                                                                                             Áreas que
+SIGAP cuentan con                                                                                                                obtuvieron el
+catastro                                                                                                                         Dictamen sobre
+                        Área protegida    0        92      Área protegida     0          92    Área protegida      0       62
+                                                                                                                                 proceso Catastral
+                                                                                                                                 por parte de
+                                                                                                                                 CONAP.
+Conflictividad social resultado de la implementación del proceso catastral se reduce
+Número de conflictos                                                                                                             No se cuenta con
+registrados                                                                                                                      reporte alguno de
+                          Conflictos      0        0          Conflictos      0          0       Conflictos        0       0     conflictos
+                                                                                                                                 registrados.
+Se consolida la certeza jurídica de las áreas protegidas del SIGAP
+Áreas protegidas                                                                                                                 Áreas que cuentan
+registradas en el RGP                                                                                                            con proceso de
+                                                                                                                                 procuración legal
+                        Área protegida    1        92      Área protegida     1          92    Área protegida      1       56
+                                                                                                                                 para el registro,
+                                                                                                                                 adscripción y
+                                                                                                                                 anotaciones.
+Productos
+Componente 1: Catastro en áreas protegidas
+Base de datos de
+                        Base de datos     0        1       Base de datos      0          1     Base de datos       0       1
+monitoreo de conflictos
+Áreas protegidas
+                             Km2          0    32.522,39        Km2           0      32.522,39      Km2            0   25.793,91
+catastradas
+                                                                           20
+"
+"                                    Aprobación                 Elegibilidad más 60 días                    Cierre (PCR)
+                           Unidad de Línea Meta (P)        Unidad de     Línea de Meta (P)       Unidad de Línea de Meta (A)
+       Indicadores                                                                                                               Comentarios
+                            Medida       de                  Medida        base                    Medida        base
+                                        base
+Áreas protegidas con         Área
+                                          0       0      Área Protegida     0          0       Área Protegida       0      1
+procuración legal          Protegida
+Áreas protegidas             Área
+                                          0       92     Área Protegida     0          92      Área Protegida       0      68
+delimitadas                Protegida
+Áreas protegidas
+                              Km          0    5.675,80       Km            0       5.675,80         Km             0   2.983,20
+demarcadas
+Componente 2: Consolidación de la certeza jurídica de las áreas protegidas
+Áreas protegidas
+cuentan con proceso
+de procuración legal
+para el registro,        Área protegida   0       92     Área protegida     0          92      Área protegida       0      56
+adscripción y
+anotaciones al final del
+proyecto
+Componente 3: Apoyo técnico, coordinación interinstitucional y uso de la información catastral y registral
+Convenios
+interinstitucionales
+                           Convenio       0       8         Convenio        0          8          Convenio          0      9
+suscritos en el marco
+del proyecto
+Unidades de apoyo
+implementadas y con
+apoyo técnico en
+                           Unidades       0       7         Unidades        0          7          Unidades          0      8
+instituciones socias del
+proyecto a partir del
+segundo año
+Diseñar y Construir las
+bases de datos
+georreferenciada en
+materia de catastro y    Base de Datos    0       0      Base de Datos      0          0       Base de Datos        0      1
+registro, tenencia y uso
+de la tierra en áreas
+protegidas.
+                                                                         21
+"
+"                                   Aprobación           Elegibilidad más 60 días               Cierre (PCR)
+                         Unidad de Línea Meta (P)  Unidad de      Línea de Meta (P)  Unidad de Línea de Meta (A)
+      Indicadores                                                                                                  Comentarios
+                           Medida       de           Medida         base               Medida        base
+                                       base
+Desarrollo de
+                         Aplicativos     0    0    Aplicativos       0          0    Aplicativos        0     38
+aplicativos tecnológicos
+Sitios arqueológicos y
+lugares ceremoniales
+                            Sitios       0    0       Sitios         0          0       Sitios          0    902
+indígenas verificados
+(IDAEH)
+Delimitación de
+reservas territoriales       Km          0    0        Km            0          0        Km             0   483,25
+del estado
+Tierras regularizadas a
+favor de comunidades Comunidades         0    0   Comunidades        0          0   Comunidades         0     5
+(FONTIERRAS)
+Dictámenes
+técnico-jurídicos sobre
+                         Dictámenes      0    0    Dictámenes        0          0    Dictámenes         0     65
+proceso catastral
+(CONAP)
+                                                                  22
+"
+"                                                    Tabla III.2. Matriz de Resultados Alcanzados
+                                                   Valor de
+                                  Unidad de                      Año de línea                               %
+     Impacto / Indicador                           Línea de                       Metas y alcance real               Medios de Verificación
+                                    Medida                         de base                             Alcanzado
+                                                     Base
+Impacto
+Las áreas protegidas que conforman el SIGAP cuentan con certeza espacial y jurídica
+                                                                                  P              92
+Áreas protegidas con certeza                                                                                     Informe final del       RIC    y
+                                Área protegida         0            2009         P (a)           76       74%
+espacial y jurídica                                                                                              Evaluación final
+                                                                                  A              56
+Resultados
+Áreas protegidas de gestión nacional cuentan con establecimiento catastral
+                                                                                  P              92              Áreas que obtuvieron el
+Áreas protegidas del SIGAP
+                                Área protegida         0            2008         P (a)           76      81,5%   Dictamen      sobre    proceso
+cuentan con catastro
+                                                                                  A              62              Catastral por parte de CONAP.
+Conflictividad social resultado de la implementación del proceso catastral se reduce
+Número de conflictos                                                              P              0               No se cuenta con reporte
+registrados                       Conflictos           0            2008         P (a)           0         0%    alguno        de      conflictos
+                                                                                  A              0               registrados.
+Se consolida la certeza jurídica de las áreas protegidas del SIGAP
+                                                                                  P              92              Áreas con proceso de
+Áreas protegidas registradas                                                     P (a)           76              procuración legal para registro,
+                                Área protegida         1            2008                                  74%
+en el RGP                                                                                                        adscripción y anotaciones al
+                                                                                  A              56
+                                                                                                                 final del Proyecto.
+Productos
+Componente 1: Catastro en áreas protegidas
+                                                                                  P              1
+Base de datos de monitoreo
+                                Base de datos          0            2009         P (a)           1       100%    Informe final del RIC
+de conflictos
+                                                                                  A              1
+                                                                                  P          32.522,39
+Áreas protegidas catastradas          Km2              0            2009         P (a)       28.080,21  91,85%   Informe final del RIC
+                                                                                  A          25.793,91
+                                                                                  P              0
+Áreas protegidas con
+                                Área Protegida         0            2009         P (a)           0       100%    Informe final del RIC
+procuración legal
+                                                                                  A              1
+                                                                                  P              92
+Áreas protegidas delimitadas    Área Protegida         0            2009         P(a)            92       74%    Informe final del RIC
+                                                                                  A              68
+                                                                            23
+"
+"                                                 Valor de
+                                  Unidad de                   Año de línea                                     %
+      Impacto / Indicador                        Línea de                       Metas y alcance real                     Medios de Verificación
+                                   Medida                       de base                                    Alcanzado
+                                                   Base
+                                                                                P           5.675,80
+Áreas protegidas
+                                      Km             0            2009         P(a)         3.157,09         94,4%   Informe final del RIC
+demarcadas
+                                                                                A           2.983,20
+Componente 2: Consolidación de la certeza jurídica de las áreas protegidas
+Áreas protegidas cuentan con                                                    P              92
+proceso de procuración legal                                                   P(a)            77
+para el registro, adscripción y Área protegida       0            2009                                       87,5%   Informe final del RIC
+anotaciones al final del                                                        A              56
+proyecto
+Componente 3: Apoyo técnico, coordinación interinstitucional y uso de la información catastral y registral
+Convenios interinstitucionales                                                  P               8
+suscritos en el marco del         Convenio           0            2009         P(a)             9            100%    Informe final del RIC
+proyecto                                                                        A               9
+Unidades de apoyo                                                               P               7
+implementadas y con apoyo                                                      P(a)             8
+técnico en instituciones          Unidades           0            2009                                       100%    Informe final del RIC
+socias del proyecto a partir                                                    A               8
+del segundo año
+Diseñar y Construir las bases                                                   P               0
+de datos georreferenciada en                                                   P(a)             1
+materia de catastro y registro, Base de Datos        0            2009                                       100%    Informe final del RIC
+tenencia y uso de la tierra en                                                  A               1
+áreas protegidas.
+                                                                                P               0
+Desarrollo de aplicativos
+                                  Aplicativos        0            2009         P(a)            38            100%    Informe final del RIC
+tecnológicos
+                                                                                A              38
+Sitios arqueológicos y lugares                                                  P               0
+ceremoniales indígenas              Sitios           0            2009         P(a)            812           111%    Informe final del RIC
+verificados (IDAEH)                                                             A              902
+                                                                                P               0
+Delimitación de reservas
+                                      Km             0            2009         P(a)          441,16          109%    Informe final del RIC
+territoriales del estado
+                                                                                A            483,25
+                                                                         24
+"
+"                                          Valor de
+                               Unidad de           Año de línea                            %
+     Impacto / Indicador                  Línea de                Metas y alcance real           Medios de Verificación
+                                 Medida              de base                           Alcanzado
+                                            Base
+Tierras regularizadas a favor                                     P             0
+de comunidades                Comunidades     0       2009       P(a)           5        100%     Informe final del RIC
+(FONTIERRAS)                                                      A             5
+Dictámenes técnico-jurídicos                                      P             0
+sobre proceso catastral        Dictámenes     0       2009       P(a)           76       81,5%    Informe final del RIC
+(CONAP)                                                           A             65
+                                                              25
+"
+"         c. Análisis de atribución de los resultados
+Evaluación de impacto
+Los resultados logrados en cuanto a la certeza espacial y consolidación jurídica de las AP del
+SIGAP se consideran atribuibles al programa, dado que es improbable que el país y las
+instituciones responsables hubieran llevado a cabo los trabajos necesarios sin el programa. Si
+bien el RIC contaba con el apoyo del programa del Banco Mundial, este no contemplaba la
+realización del catastro en Áreas Protegidas. Por otro lado, el CONAP no tenía la capacidad
+financiera o de ejecución para emprender los trabajos de delimitación y demarcación de AP sin
+el apoyo del programa. Así mismo, si en lugar de realizar el trabajo de catastro en forma masiva
+con el programa, el mismo fuera por demanda de los propietarios, el trabajo hubiera demorado
+significativamente más y a costos muy superiores de los logrados por el programa (ver sección
+de Eficiencia).
+A pesar de que en el diseño del programa en el 2009 no se contempló una evaluación de impacto
+para medir las atribuciones directas del programa al objetivo; como parte de la elaboración de
+este informe, se preparó una evaluación de impacto conjuntamente con investigadores del
+Department of Earth and Environment de Boston University. La Evaluación de Impacto (EI) tuvo
+el objetivo de estimar los cambios en deforestación y degradación en las AP beneficiarias
+atribuibles al Programa, como parte de lo que pudo haber sido el indicador más idóneo de
+impacto durante el diseño.
+Como parte adicional a los trabajos de la evaluación de impacto, se llevaron a cabo entrevistas
+semi-estructuradas con 25 partes interesadas y practicantes en Guatemala, en persona y por
+teléfono entre junio y agosto de 2018. Los entrevistados son profesionales que habían trabajado
+en estrecha colaboración con el proyecto dentro de RIC o CONAP, o quienes fueron directamente
+responsables del manejo de áreas protegidas específicas.
+A continuación, se presenta la teoría de cambio que valida el potencial impacto del programa en
+la deforestación y degradación de AP.
+                                               26
+"
+"                        Figura III.2.: Representación gráfica de la teoría de cambio
+La Figura III.2 presenta la teoría de cambio del programa, donde las actividades de delimitación
+y demarcación de AP realizadas por el programa se espera mejoren la condición y claridad de
+los derechos de propiedad de las AP. Esto se espera se traduzca en un mejor conocimiento de
+los límites de las AP para los gestores y la población local de las AP, eventualmente resultando
+en AP con un mejor manejo, con legitimidad reconocida, con mejor resolución de conflictos y
+menos deforestación. Por el otro lado, las actividades de catastro en AP deben proveer mayor
+seguridad de tenencia, reduciendo la tasa de descuento asociado a la mantención del bosque y
+por ende reduciendo los incentivos para deforestar. Esto está asociado con incentivos para un
+manejo de más largo plazo10.
+Para determinar los impactos del proyecto sobre la deforestación y la degradación forestal en AP
+de Guatemala, se utilizó un nuevo conjunto de datos sobre la deforestación y la degradación de
+los bosques generados por el algoritmo de detección continua de la degradación (CODED),
+desarrollado específicamente para la evaluación de impacto. Los datos de cobertura forestal
+desarrollados cubren la totalidad del territorio nacional y abarcan el periodo del año 2000 al 2017.
+Métodos no experimentales de emparejamiento y de regresiones con efectos fijos y datos de
+panel fueron utilizados para controlar por la selección no aleatoria de las AP beneficiarias del
+programa. Los modelos de efectos fijos y los análisis de emparejamiento estadístico indican que
+las intervenciones del programa hasta ahora han hecho poco para reducir la deforestación y la
+degradación forestal en general. Por ejemplo, el análisis realizado encuentra que la falta de un
+efecto global de la demarcación de las AP puede deberse a su falta de visibilidad. En muchos
+casos, se colocaron marcadores/mojones en áreas que ya habían sido deforestadas, dentro de
+las parcelas de algún propietario. En muchos casos, los propietarios de tierras locales permitieron
+los trabajos del RIC porque sabían que los límites del parque no se cumplen. En áreas que en
+10 Esta teoría de cambio está fundamentada en hallazgos de estudios tales como: Robinson et al (2014) Does secure
+   tenure save forests? A meta-analysis of the relationship between land tenure and tropical deforestation. Global
+   Climate Change 29 (2014) 281-293.
+                                                          27
+"
+"realidad eran polémicas para la colocación de marcadores/mojones, los trabajadores del RIC no
+podían colocar los marcadores en absoluto, y algunas veces eran retirados del área por los
+locales (comunicación personal Edín López). En algunos casos, la colocación de marcadores fue
+difícil debido a que todos los propietarios de tierras fueron exhortados a hacerlo en áreas
+protegidas más densamente habitadas.
+Resultados del análisis de heterogeneidad sobre diferentes tipos de AP sugieren que después
+del tratamiento hubo leves aumentos en la deforestación evitada y la degradación de los bosques
+en aquellas áreas protegidas donde hay un mejor cumplimiento de la ley, donde los beneficios
+de conservación son mejor percibidos y capturados por las comunidades locales, y donde los
+administradores de los parques tienen buena relación con la comunidad local. Se aprecia que las
+AP con estas condiciones, típicamente reciben un número significativo de turistas, y los
+pobladores locales pueden directamente percibir el beneficio de mantener las AP con bosque.
+Similarmente, para AP que fueron tratadas al comienzo del Programa (en el 2012 o 2013), se
+detectó una menor deforestación y degradación. Esto sugiere que los efectos del programa en
+la cobertura forestal pueden tomar un poco de tiempo en manifestarse (ver Project Impact
+Assessment on Deforestation and Forest Degradation).
+         d. Resultados imprevistos
+A continuación, se presenta algunos resultados imprevistos de la actuación del programa que
+parten de algunas de las entrevistas realizadas a actores del proceso de catastro. En la medida
+de lo posible se presenta evidencia que sustenta el resultado.
+En algunos lugares el programa pudo haber tenido un impacto negativo en la cobertura forestal.
+Específicamente, en el Refugio de Vida Silvestre Punta de Manabique (comunicación personal
+de Mauricio Warren y Joselyn Cotto, CONAP Izabal), hubo impactos negativos notables del
+proceso de catastro. Cuando la gente local escuchó que el RIC venía a medir la tierra, se
+anticiparon y cortaron el bosque para establecer dominio y reclamar la propiedad. Esto resalta
+aún más la necesidad de que no siempre las campañas de comunicación estratégica que llevó a
+cabo el RIC fueron exitosas u oportunas.
+La claridad y certeza de las tierras ofrece, asimismo, una oportunidad de ingresar a programas
+de incentivos forestales y de conservación. El programa puede haber influido en la capacidad de
+los propietarios en AP de participar en los programas de incentivos forestales del INAB, como
+PINFOR y PINPEP, que fueron descontinuados en 2015 y se rediseñaron posteriormente como
+el programa Probosque (comunicación personal Marvin Rosales). PINFOR requirió evidencia de
+los derechos de propiedad del Registro de la Propiedad Inmueble (RGP), que es una base de
+datos que alimenta el trabajo del RIC. PINPEP sólo requería prueba de posesión. Probosque, el
+programa más nuevo que está actualmente en vigencia requiere una certificación de propiedad
+del RGP (INAB 2015). Estos programas pueden afectar la calidad y la estabilidad del manejo
+forestal (von Hedemann y Osborne, 2016).
+Algunos administradores de la AP encontraron que los trabajos del programa les facilitaron el
+manejo de las áreas protegidas. Por ejemplo, las brechas, o cortafuegos, que RIC creó en
+algunas de las áreas protegidas para ayudar a demarcar los límites del parque resultan útiles
+para reducir la degradación a partir de los incendios forestales (comunicación personal sobre
+Laguna del Tigre por Vinicio Morales). Según Marvin Rosales, quien maneja los Biotopos Cerro
+Cahuí, San Miguel la Palotada, o \"El Zotz\", Biotopo Laguna del Tigre Río Escondido y Naachtún
+Dos Lagunas, y trabaja en CECON, considera que el programa definitivamente mejoró la
+                                                28
+"
+"administración de varias áreas protegidas. Por ejemplo, Laguna del Tigre Río Escondido tubo
+2-3 km de correcciones hechas a los límites del parque, lo que aumentaba el área bajo
+protección. La delimitación de \"El Zotz\" por RIC les permitió saber dónde estaba realmente el
+límite del parque, porque anteriormente no sabían dónde terminaba Tikal, y que incluía la franja
+de tierra entre las dos áreas protegidas como parte del parque.
+En resumen, los objetivos de desarrollo del programa fueron alcanzados en lo general, sus
+alcances y la atribución de las actividades a los resultados e impactos es justificada por la
+evaluación final y la evaluación de impacto realizadas al final del programa. Bajo este escenario,
+la calificación total en cuanto a la efectividad de logro del objetivo declarado de desarrollo
+(Proporcionar la Certeza jurídica y geográfica a las AP de gestión nacional que conforman el
+SIGAP) se considera parcialmente insatisfactorio.
+III.3      Eficiencia
+Para evaluar si el costo incurrido en el logro de los objetivos del programa fue razonable se
+presenta a continuación un análisis de costo-efectividad para las actividades de catastro del
+programa que abarcaron el 60% del monto desembolsado.
+El programa logró el levantamiento catastral de 44.269 predios (Evaluación Final RIC, 2017) a
+un costo de US$12.854.284. Esto es equivalente a un costo por predio levantado de US$29011.
+El Implementation Completion and Results Report del Programa de Administración de Tierras II
+del                  Banco                 Mundial                 (Banco              Mundial,                  2016
+http://documentos.bancomundial.org/curated/es/263171468191040056/pdf/ICR3658-P087106-
+OUO-9.pdf) reporta que logró el levantamiento catastral de 274.536 predios a un costo real de
+$339.013.997 Quetzales. Utilizando la tasa de cambio reportada en el Reporte de US$1 = GTQ
+7.65, esto es equivalente a un costo por predio catastrado por el proyecto del Banco Mundial con
+el RIC de US$161/predio.
+El mismo reporte calcula el costo por predio bajo el escenario sin proyecto, es decir el
+levantamiento catastral por demanda (en lugar del levantamiento masivo). El análisis encuentra
+que, bajo la alternativa sin proyecto, el costo unitario sería 3,7 veces mayor, o US$595,7/predio.
+Este es el costo relevante para propósitos de establecer la eficiencia del Programa.
+El costo por predio del levantamiento catastral del Programa si bien es superior al costo unitario
+del Banco Mundial, está muy por debajo de la alternativa sin proyecto (en base a la demanda
+individual). Adicionalmente hay que tomar en consideración que el proyecto del Banco Mundial
+reporta tanto el levantamiento catastral en áreas urbanas como rurales, con lo cual es de
+esperarse que dada la logística que implica realizar el levantamiento en Áreas Protegidas, el
+costo unitario del programa sea superior.
+Tomando estos factores bajo consideración se concluye que el costo del levantamiento catastral
+ejecutado por el programa, y que abarcó el 60% del monto desembolsado de este, fue razonable
+y el resultado se logró a no más que el 90% del costo de la alternativa sin proyecto, es decir
+un catastro por demanda en lugar de por forma masiva, de US$597/predio. Con base a este
+resultado, el criterio de eficiencia del programa se califica como Excelente.
+11 La información disponible para el costo de la manera alternativa es US$/predio. Esta es la razón por la cual se
+   utiliza el indicador de costo por predio en lugar de costo por Km 2
+                                                            29
+"
+"Según los indicadores del PMR SPI, y CPI, con excepción del primer año de ejecución (2012), el
+programa paso en Alerta. Los indicadores anuales de SPI(a) y CPI(a) muestran que el programa
+tuvo un buen desempeño en su primer año y sus dos últimos años. A continuación, se presentan
+algunos factores que incidieron en la ejecución del programa.
+Demora en el arranque por ratificación legislativa. El hecho de que pasaron cerca de 3 años
+desde la aprobación de la operación por el Banco hasta la elegibilidad probablemente afecto el
+desempeño. Según Corral y McCarthy (2017)12 el tiempo transcurrido entre aprobación y
+elegibilidad está fuertemente asociado con el desempeño de la operación (CPI, SPI). Dado el
+tiempo transcurrido una parte importante del equipo que participó en la preparación de la
+operación por parte del RIC, CONAP y RGP ya no estaba presente a la hora del arranque, con
+lo que se afectó la memoria institucional relativa al programa. De igual forma los acuerdos que
+se alcanzaron con las diferentes entidades claves, como el CONAP y el RGP, así como el
+entusiasmo y motivación para con el programa disminuyeron.
+Conflictividad agraria en áreas protegidas. Las actividades relacionadas con la demarcación
+de las áreas protegidas y al proceso de levantamiento catastral se vieron afectadas por la
+conflictividad agraria existente desde hace décadas en algunas áreas de atención. Esto se dio
+especialmente en Petén, por los desalojos realizados en la comunidad de Laguna Larga, ubicada
+en las cercanías del Parque Nacional Laguna del Tigre, por casos judicializados desde antes de
+la existencia del Programa. Esta situación predispuso a todas las comunidades existentes en las
+áreas protegidas vecinas, quienes rechazaron el proceso de demarcación y levantamiento
+catastral, a pesar de que el RIC siguiendo los manuales operativos del programa siguieron los
+protocolos de información y consulta con las comunidades de las zonas mencionadas.
+Dificultad de obtención de avales por parte del CONAP. Para apoyar la consecución de la
+certeza espacial y jurídica de las tierras ubicadas dentro de las áreas protegidas, se elaboran
+propuestas de delimitación y demarcación de las áreas protegidas contempladas dentro del
+programa, ya que algunas carecían del establecimiento de límites legales por medio de
+coordenadas. Dichas propuestas deben ser avaladas por el CONAP, pero los procesos
+complejos dentro de dicha institución demoraron su obtención. Para superar esta dificultad, se
+coordinaron reuniones de alto nivel, para fortalecer el enlace RIC-CONAP que garantizara el
+avance de estos productos. Sin embargo, la obtención de los avales fue siempre un obstáculo
+para el cumplimiento de las metas del Programa.
+Dificultad institucional para atender regiones que no han sido declaradas zonas en
+proceso catastral. El SIGAP se ubica en todo el territorio nacional, mientras que el RIC ha
+declarado zonas en proceso catastral a 68 de los 340 municipios de la República. Por lo tanto,
+no cuenta con infraestructura institucional para atender las áreas protegidas que están ubicadas
+fuera de estos municipios declarados, por lo que la atención de dichas áreas requería una
+logística más compleja que conlleva la coordinación con entidades que tienen presencia en la
+zona. Para mitigar este efecto, se contrató personal para fortalecer la unidad técnica RIC-CONAP
+en las regiones no declaradas como zonas en proceso catastral, así como la coordinación con
+entidades con presencia en el área.
+Alta incidencia de actividades ilícitas en las áreas de trabajo. Por parte de las instituciones
+responsables de la seguridad ciudadana, se identificaron regiones en donde se realizan
+12  Corral, L., Nancy McCarthy (2017). Organizational efficiency or bureaucratic quagmire: Do quality at entry
+   assessments improve project performance? IDB Working Paper Series No. IDB-WP-787.
+                                                     30
+"
+"     actividades ilícitas, las cuales tenían lugar en áreas protegidas parte del territorio a cubrir por el
+     programa. Derivado de la complejidad del caso, el proceso catastral se vio afectado en el
+     cumplimiento de las metas en los plazos establecidos. La mitigación de este efecto estuvo
+     relacionada con la coordinación de reuniones de alto nivel, para fortalecer el enlace RIC-CONAP
+     que garantizara el avance de estos productos.
+     Falta de reconocimiento de las áreas protegidas. Existen áreas protegidas, como parques
+     nacionales y zonas de veda definitiva, que fueron creadas hace más de 50 años. Estas no
+     contaban con un límite definido y tampoco habían tenido presencia institucional del CONAP, por
+     lo cual las personas que las habitan o tienen propiedades dentro de ellas, no aceptan que estas
+     sean parte de un área protegida y no colaboran con el proceso de delimitación, demarcación y
+     levantamiento catastral. Para mitigar este efecto, se coordinaron reuniones de alto nivel, para
+     atender a propietarios y comunidades, lo cual no obtuvo el éxito deseado, pues en varias de
+     estas áreas no se pudo realizar la demarcación y el proceso catastral.
+     Politización en el RIC. La politización del cargo de Director General, asociada a los cambios
+     durante el gobierno del Partido Patriota (2012–2015) tuvieron una incidencia directa sobre los
+     costos y la ejecución del préstamo, castigando el ritmo de ejecución durante 18 meses.
+     Adicionalmente, durante este período, la salida de técnicos competentes generó problemas en
+     el manejo de las gestiones del RIC con el programa lo cual afectó el ritmo de ejecución durante
+     año y medio.
+     Sin embargo, a partir de octubre 2015, con el reemplazo del coordinador de la UE y el cambio de
+     dirección en el RIC, a la Unidad Ejecutora volvió a contratar a técnicos profesionales y
+     comprometidos, y la ejecución retomó un ritmo acelerado con buenos resultados. Lo más
+     significativo fue que este fue el único programa del BID en Guatemala que logró cerrar su
+     ejecución dentro del periodo original de ejecución.
+     Tomando el análisis de costo efectividad, los indicadores del PMR y estos antecedentes que
+     afectaron la ejecución en consideración, se estima que la Eficiencia del programa fue
+     Satisfactoria
+                 Tabla III.3. Índices de Rendimientos de Costos y de Cronograma del Programa
+                    2012             2013               2014            2015          2016         2017
+      SPI(a)        1,33               0,3               0,58           0,76           0,92         0,92
+      CPI(a)        1,14              0,33               0,79           0,72           0,96         0,96
+                                             Tabla III.4. Costos del proyecto
+   1 Component: Catastro en áreas protegidas                                                             Component
+                                                                                                       Revised Cost
+                                                                                                      18.296.445,11
+        Output
+                             2012           2013           2014        2015       2016      2017          Cost
+      Definition
+                    P       80.000,00    250.000,00     150.000,00    80.000,00  80.000,00               640.000,00
+1.1 Base de                 80.000,00    250.000,00                                   0,00      0,00      66.300,00
+    datos de
+                   P(a)
+    monitoreo de
+    conflictos
+                            19.800,00      46.500,00                       0,00       0,00                66.300,00
+                    A
+                    P      320.000,00    490.000,00     290.000,00   396.000,00 142.000,00             1.638.000,00
+                                                              31
+"
+"         Output
+                           2012            2013            2014          2015        2016         2017         Cost
+       Definition
+1.2 Areas                320.000,00      490.000,00 6.249.828,00 3.816.401,38 1.236.899,00 1.220.314,80 13.189.525,78
+     protegidas     P(a)
+     catastradas
+                     A    94.375,00 3.726.319,00 3.478.277,62 3.806.385,36         863.854,00   885.073,43 12.854.284,41
+                     P                                                                                              0,00
+1.3 Areas                                                 88.630,00    132.945,00   19.528,00         0,00          0,00
+     protegidas
+     con            P(a)
+     procuracion
+     legal
+                     A                                         0,00           0,00       0,00                       0,00
+                     P   187.000,00      340.000,00     200.000,00      10.000,00                             737.000,00
+1.4 Areas                187.000,00      180.000,00     357.300,00                  56.131,00    82.282,31  1.232.307,73
+     protegidas     P(a)
+     delimitadas
+                     A   697.449,00                     238.851,64     153.907,60   59.817,18    53.301,26  1.203.326,68
+                     P   300.000,00 4.400.000,00 3.150.000,00 2.664.000,00 2.427.000,00                    12.941.000,00
+1.5 Areas                300.000,00 3.800.000,00        220.398,90     345.098,17  633.126,00 1.115.252,00  3.159.446,91
+     protegidas     P(a)
+     demarcadas
+                     A   312.500,00      610.021,00       82.660,74    665.865,04  373.148,13   830.629,38  2.874.824,29
+    2 Component: Consolidación de la certeza jurídica de las áreas protegidas                                Component
+                                                                                                            Revised Cost
+                                                                                                              140.290,00
+         Output
+                           2012            2013             2014         2015       2016          2017         Cost
+       Definition
+                     P          0,00             0,00    232.000,00 236.000,00     180.000,00   180.000,00    828.000,00
+2.1   Áreas                     0,00             0,00                               19.528,00   100.000,00    133.956,56
+      protegidas
+      cuentan con
+      proceso de
+      procuración
+      legal para el
+                    P(a)
+      registro,
+      adscripción
+      y
+      anotaciones
+      al final del
+      proyecto
+                     A                           0,00           0,00    20.762,00   13.194,56   172.882,13    206.838,69
+                                                              32
+"
+"  3    Component: Apoyo técnico, coordinación interinstitucional y uso de la información catastral y registral   Component
+                                                                                                                Revised Cost
+                                                                                                                2.339.768,71
+    Output Definition                2012         2013         2014           2015        2016            2017          Cost
+                            P         0,00  80.000,00     70.000,00     70.000,00    60.000,00       36.000,00     316.000,00
+3.1 Convenios                         0,00  50.000,00                                      0,00            0,00     61.029,47
+    interinstitucionales
+                           P(a)
+    suscritos en el
+    marco del proyecto
+                            A   13.850,00 47.179,47             0,00           0,00        0,00                     61.029,47
+                            P   97.000,00 200.000,00 300.000,00        400.000,00 400.000,00       200.000,00    1.597.000,00
+3.2 Unidades de apoyo           97.000,00 252.000,00                                       0,00    116.148,00    1.105.223,53
+    implementadas y
+    con apoyo técnico
+    en instituciones       P(a)
+    socias del proyecto a
+    partir del segundo
+    año
+                            A   24.929,00 964.146,53            0,00           0,00        0,00                    989.075,53
+                            P                                                                                            0,00
+3.3 Diseñar y Construir                                                                    0,00      27.900,00      81.366,00
+    las bases de datos
+    georeferenciada en
+    materia de catastro y P(a)
+    registro, tenencia y
+    uso de la tierra en
+    áreas protegidas.
+                            A               53.466,00           0,00           0,00        0,00            0,00     53.466,00
+                            P                                                                                            0,00
+3.4 Desarrollo de                                        554.500,00    277.250,00    43.313,00       52.551,87     423.113,65
+    aplicativos            P(a)
+    tecnologicos
+                            A                            265.376,86     79.091,00    26.093,92       49.480,49     420.042,27
+                            P                                                                                            0,00
+3.5 Sitios arqueologicos                                  56.202,00                  16.500,00       19.104,77     129.626,48
+    y lugares
+    ceremoniales           P(a)
+    idigenas verificados
+    (IDAEH)
+                            A                             36.896,55     56.250,00    17.375,16       17.992,83     128.514,54
+                            P                                                                                            0,00
+3.6 Delimitacion de                                       29.250,00      4.875,00    15.000,00       15.929,81      64.934,03
+    reservas territoriales P(a)
+    del estado
+                            A                             16.988,15     17.500,00    14.516,07       14.993,85      63.998,07
+                            P                                                                                            0,00
+3.7 Tierras regularizadas                                 35.786,00     35.790,00          0,00            0,00     34.557,07
+    a favor de
+                           P(a)
+    comunidades
+    (FONTIERRAS)
+                            A                             10.557,07     24.000,00          0,00                     34.557,07
+                            P                                                                                            0,00
+3.8 Dictámenes tecnico-                                   57.750,00     57.750,00    63.391,00     249.556,26      419.583,07
+    juridicos sobre
+                           P(a)
+    proceso catastral
+    (CONAP)
+                            A                             34.068,37     69.750,00    66.208,44     155.225,05      325.251,86
+                                                             33
+"
+"  Other Cost                2012         2013           2014          2015         2016          2017           Cost
+                   P       220.000,00   419.000,00     500.000,00    561.000,00  630.000,00    470.000,00    2.800.000,00
+Administración             220.000,00   419.000,00     324.225,00    303.600,00  411.500,00    400.000,00    1.892.704,72
+                  P(a)
+y seguimiento
+                   A       348.425,00   537.585,00     198.911,73    243.147,00  164.635,99     96.144,09    1.588.848,81
+     Total                  2012          2013          2014           2015        2016          2017          Cost
+                   P     1.204.000,00 6.179.000,00   4.892.000,00  4.417.000,00 3.919.000,00   886.000,00  21.497.000,00
+Total Cost        P(a)   1.204.000,00 5.441.000,00   7.973.869,90  4.973.709,55 2.514.916,00 3.399.039,82  21.993.675,00
+                   A     1.511.328,00 5.985.217,00   4.362.589,00  5.136.658,00 1.598.843,00 2.482.846,48  21.077.481,48
+           III.4  Sostenibilidad
+                  a. Aspectos generales de sostenibilidad
+         Durante el diseño de la operación se llevó a cabo un taller de identificación de riesgos que
+         contribuyeron a la sostenibilidad del programa. Estos riesgos de baja o media probabilidad de
+         ocurrencia se mitigaron con diferentes actividades y en general la mayor parte de los riesgos
+         identificados no se materializaron durante la ejecución, sin embargo, uno de estos riesgos
+         estratégicos (ser el RIC una institución joven con poca experiencia previa al proyecto -dos años-)
+         sí afectaron la ejecución del programa debido a influencias políticas mencionadas antes y que
+         llevaron a un retraso en algunas de las actividades del programa.
+         Hacia la sostenibilidad a futuro, tanto del objetivo de desarrollo del programa y los resultados se
+         concluye que estos se verían afectados si el RIC dejara inconclusos los trabajos catastrales en
+         el área del Proyecto o dejara de actualizar la información catastral a futuro o dejará de funcionar
+         por la terminación del programa del BID y careciera del presupuesto suficiente para continuar
+         con su trabajo.
+         Respecto a la insuficiencia presupuestal, por ejemplo, estimaciones realizadas en el contexto del
+         Proyecto de Administración de Tierras II del Banco Mundial (Banco Mundial ICRR 2016) indican
+         que la oficina del RIC en Petén con ventanilla para ofrecer servicios catastrales cubre
+         aproximadamente un 25% de sus costos recurrentes con los ingresos percibidos por los servicios
+         catastrales. Esto resulta insuficiente por si solo para dar sostenibilidad financiera y operativa al
+         proceso catastral por lo que de no existir presupuestos adicionales, el RIC difícilmente podría
+         solventar su operación.
+         Por otro lado, el RIC entrego al RGP 11.462 expedientes sobre los predios levantados para que
+         dicho organismo realice las anotaciones respectivas sobre la ubicación del predio privado en AP.
+         Al final del Programa, el RGP había logrado la inscripción de tan solo 5.478 predios. La capacidad
+         del RGP está sobre extendida de por si, por lo que queda en duda si pueda por si solo atender
+         este atraso en tiempo y forma.
+         En cuanto al posible impacto que el Programa pueda tener sobre la deforestación o degradación
+         dentro de las AP, este depende de si la claridad de la tenencia de la tierra y los límites de las AP
+         se traducen en mejor cumplimiento de las leyes y en mejores prácticas de manejo de áreas
+         forestales. En entrevistas a administradores de las AP, el tema recurrente es que el
+         financiamiento era un gran obstáculo para su capacidad de hacer cumplir las restricciones de
+         uso del parque. Esto se traduce en que existe tan solo un guarda parque por cada 7.200 ha de
+         tierras de áreas protegidas, y solo Q24 (alrededor de US$3) se gastan por hectárea
+         (comunicación personal, Minor García). Esto significa que a pesar de que puedan tener más
+         claridad sobre dónde se encuentran las áreas protegidas, todavía no tienen la capacidad de
+                                                           34
+"
+"hacer cumplir la ley y evitar que personas invadan las AP o realicen actividades que no son
+permitidas. Esta falta de presencia del estado y capacidad de hacer cumplir la ley significa que
+las comunidades locales y los propietarios de tierras en AP deben defender las tierras con sus
+propios medios. Debido a que los invasores de tierras solo tienden a respetar las tierras de
+personas que han limpiado la tierra (deforestado) o cortado líneas de propiedad (brechas), la
+ausencia de capacidad de cumplimiento puede llevar a las personas que ya viven en áreas
+protegidas a deforestar más de lo que lo harían (Clark 2000; Rodriguez Solorzano y
+Fleischman 2018).
+En la Tabla III.5 se analizan otros riesgos institucionales para la sostenibilidad del programa,
+incluyendo la identificación de acciones de mitigación implementadas durante la ejecución que
+deben contribuir a la sostenibilidad del programa.
+         b. Salvaguardas ambientales y sociales
+De conformidad con la Política de Salvaguardas y Medio Ambiente (OP703) y la OP-765, el
+programa fue calificado como categoría C dado que la operación no reviste impactos ambientales
+y sociales negativos. El proyecto propuesto representa beneficios ambientales y sociales
+positivos al contribuir, mediante la certeza espacial y jurídica de las AP a la conservación y
+manejo sostenible del patrimonio natural y cultural del país, debido a que la realización del
+catastro y registro de las áreas protegidas, representa el fortalecimiento tanto jurídico como
+operacional de dichas áreas. De tal manera que el Estado al tener certeza de la verdadera
+dimensión y ubicación espacial de sus áreas protegidas, brindara el soporte necesario para la
+protección, preservación y fortalecimiento de dichas áreas, previniendo y solucionando procesos
+de invasión y deforestación que se dan en los límites no determinados de dichas áreas.
+El principal riesgo que se identificó durante el diseño fue la potencialidad de conflictos que se
+pudiera generar durante la demarcación de los límites y que pudiera manifestarse por un
+deficiente manejo de los temas de participación, consulta y resolución de conflictos. La estrategia
+para el análisis ambiental y social se enfocó en la aplicación del Manual de Operaciones del RIC
+durante el proceso, en especial lo concerniente a las etapas de Diagnóstico Territorial, que dieron
+la línea base socio-ambiental de las áreas protegidas, con énfasis especial en lo referente a la
+presencia de tierras de comunidades indígenas dentro de las áreas o de alguna área dentro de
+estas de las cuales las comunidades indígenas les den uso alguno. Un producto relevante del
+diagnóstico territorial es el mapa de conflictividad que representa el principal insumo para el
+diseño y planeación del plan de comunicación y gestión social para cada área, el cual desarrolló
+las acciones pertinentes en materia de participación, comunicación y apoyo en las áreas a
+catastrar. Otro punto importante que se manejó fue el tema de potencial conflictividad y se hizo
+mediante el componente de Resolución de conflictos antes descrito.
+El manejo del tema de comunidades indígenas se manejó con la inclusión dentro del Reglamento
+Operativo del RIC del PPI, (Plan de Participación Indígena), que es de obligatorio cumplimiento
+para todas las áreas y que fue elaborado para el RIC con el apoyo del Banco Mundial.
+Se materializó un riesgo importante durante la ejecución del Programa que resultó en un retraso
+en la ejecución del programa, si bien RIC es una institución fuerte, si se podrían prever algunos
+riesgos no mitigados que pudieran afectar la sostenibilidad del Programa en el futuro. Por lo
+tanto, la sostenibilidad del Programa y su grado de cumplimiento con las políticas del Banco se
+califica como parcialmente insatisfactorio.
+                                                35
+"
+"                                                  Tabla III.5. Análisis de la Sostenibilidad del Programa
+Componente/                                                                                     Impacto en
+                                                                              Probabilidad de               Logros que contribuirán a la sostenibilidad de los
+    Logro            Riesgo                 Factor de probabilidad                                el logro
+                                                                                 ocurrencia                               resultados del Programa
+  alcanzado                                                                                      alcanzado
+              Pérdidas por         No disponen de un código de conducta       Bajo             Medio       Diseñar el código de conducta (ética). Formalizar
+              actos                (ética) o instructivo equivalente.                                      procedimientos de inducción del personal al código de
+              fraudulentos, con    No está prevista la inducción del                                       conducta.
+              justificación por    personal al código de conducta.                                         Formalizar procedimientos para que los empleado y
+              parte de los         No está previsto que los empleados                                      entendimiento del código de conducta en el momento
+              infractores, de que  certifiquen el conocimiento y                                           de su ingreso.
+              desconocen las       entendimiento del código de conducta                                    Certificar procedimientos para que los empleados
+              políticas de la      en el momento de su ingreso y por lo                                    declaren la existencia o inexistencia de conflictos de
+              Entidad en tales     menos una vez cada año.                                                 interés al momento de su ingreso y por lo menos una
+              materias                                                                                     vez cada año.
+              Por ser una          El marco legal institucional induce a que  Medio            Medio       Estimular la práctica de autoevaluaciones, por parte
+              institución joven (y se genere una cultura organizacional y                                  de la Alta Gerencia y del personal que participa en los
+              que surgió a la      administración con alta dependencia de                                  procesos, promoviendo un alto grado de adhesión a
+              vida institucional   los niveles la Dirección Ejecutiva.                                     normas y procedimiento de control, asegurando un
+              arrastrando                                                                                  alto grado de transparencia y efectividad en la Entidad
+              procesos iniciados                                                                           (ambiente de control).
+              por proyectos, aún                                                                           Fortalecer una cultura organizacional orientada a
+              está en proceso                                                                              otorgar autonomía en la toma de decisiones (según
+   Riesgos
+              de transición                                                                                las disposiciones legales del país) a las diferentes
+ estratégicos
+              hacia la                                                                                     dependencias de la institución.
+              consolidación y
+              búsqueda del
+              mejoramiento
+              continuo.
+              Posibilidad de       No se han previsto procedimientos          Alto             Alto        Implementar un proceso de administración de riesgos
+              pérdidas e           (oportunidad, responsables, técnicas,                                   basado en la identificación de los factores de riesgo
+              incremento de        formulación y verificación de acciones,                                 principales inherentes a las distintas funciones que
+              riesgo de            informes, etc.) relacionados con la                                     deben ser desarrolladas por la Entidad.
+              reputación ante el   identificación y análisis de los riesgos                                El plan de Auditoría Interna debe incluir una
+              eventual             AR, tanto internos como externos, para                                  evaluación de la efectividad del proceso de
+              incumplimiento de    desarrollar los componentes y ejecutar                                  administración de riesgos.
+              metas y objetivos    las actividades de la Entidad.                                          Revisar el diseño y/o diseñar actividades de control
+              por falta de un      No disponen de informes                                                 con base en los resultados de los análisis de riesgos.
+              proceso de           representativos de que la metodología
+              administración de    de AR funciona en la práctica y
+              riesgos.             contribuye a la gestión oportuna del
+                                   riesgo
+                                                                              36
+"
+"Componente/                                                                             Impacto en
+                                                                       Probabilidad de              Logros que contribuirán a la sostenibilidad de los
+   Logro          Riesgo                Factor de probabilidad                            el logro
+                                                                         ocurrencia                               resultados del Programa
+ alcanzado                                                                               alcanzado
+            El Sistema de      No se ha formalizado la responsabilidad Bajo            Medio       Estimular la práctica de autoevaluaciones, por parte
+            Control Interno no y acciones relacionados con la                                      de la Alta Gerencia y del personal que participa en los
+            se alimente con    recepción, evaluación y trámite de las                              procesos, promoviendo un alto grado de adhesión a
+            los aportes de los iniciativas de los empleados, con                                   normas y procedimientos de control, asegurando un
+            funcionarios       relación al SCI.                                                    alto grado de transparencia y efectividad en la
+            directamente                                                                           Entidad.
+            involucrados en la
+            ejecución de las
+            actividades.
+                                                                       37
+"
+"                                       IV. CRITERIOS NO CENTRALES
+IV.1 Desempeño del Banco
+El Banco tuvo un desempeño parcialmente satisfactorio durante el diseño y ejecución del
+programa, ya que el diseño del programa respondió a la necesidad identificada de realizar el
+catastro en AP como complemento a las actividades de catastro en zonas urbanas y rurales que
+el RIC venía llevando a cabo previamente con el financiamiento del Banco Mundial. El catastro
+de todo el territorio nacional le permitiría al país resolver problemas de tenencia de la tierra de
+largo plazo y atender los compromisos de los Acuerdos de Paz. El equipo del Banco incorporó
+las lecciones aprendidas de la experiencia piloto en cuatro AP, así como de otros proyectos de
+administración de tierras en la región en el diseño de esta.
+A pesar de lo anterior, al analizar ahora conceptos del diseño encontramos que hubo algunas
+deficiencias. Se consideró el producto del Componente 2 como indicador de producto y como
+indicador de impacto. No hubo un indicador de impacto que midiera el posible efecto del
+programa en la mejora en la disminución de degradación o deforestación, por ejemplo, que
+aunque se evaluó con una evaluación de impacto final, esto no fue incluido en el diseño original
+del programa.
+Adicionalmente, la propuesta de implementación del programa se basaba en el avance del
+Programa de Administración de Tierras (PAT) y la cobertura de municipios declarados en proceso
+catastral. En particular, el diseño del proyecto confió en la expansión de la actuación del RIC a
+todos los municipios del país a través del PAT y cuando esta expansión no se dio en la práctica,
+el programa tuvo que actuar en municipios donde existen AP, pero donde el RIC no contaba con
+presencia y en donde no se había declarado a municipios en “proceso catastral”, lo que
+incrementó substancialmente las dificultades de llevar a cabo el catastro en AP.
+Adicionalmente, si bien el marco de resultados tenía lógica vertical, la estructuración de los
+indicadores y sus unidades de medida discretas (número de AP), afectó las calificaciones el
+desempeño del proyecto en los sistemas del Banco ya que el avance físico por ejemplo no tomó
+en cuenta el tamaño del AP o las dificultades para lograr aprobaciones de otras dependencias
+de Gobierno. Es decir, el culminar el trabajo en una AP pequeña tenía el mismo valor que el
+culminar el trabajo en AP mucho más extensas, como las AP del Peten.
+Las metas del programa también resultaron muy ambiciosas, al tratar de cubrir a todas las AP
+del SIGAP, que al momento de la aprobación se contabilizaban en 92. Esto especialmente si se
+toma en consideración que el trabajo del programa consistía parcialmente en analizar la situación
+de cada AP para preparar un plan de catastro individual, con lo cual a priori resultaba imposible
+conocer con mayor precisión cuantas AP realmente podrían ser atendidas por el programa.
+Otro aspecto fue que el Banco apoyó al RIC en la revisión del diseño y realizó el control de
+calidad requerido. Se hicieron los análisis de capacidad institucional y de ejecución a través de
+la metodología SECI. Se identificó como riesgo la coordinación entre el RIC y el RGP, así como
+los costos asociados de registro y actualización. Sin embargo, la coordinación entre el RIC y el
+CONAP y entre el RIC y los municipios no fue incluida como riesgo, lo que terminó siendo un
+obstáculo para el alcance de las metas.
+                                                  38
+"
+"IV.2 Desempeño del Ejecutor
+El RIC, como entidad ejecutora del programa cumplió de forma parcialmente satisfactoria la
+ejecución del préstamo ya que cumplió con la mayor parte de los productos y terminó la ejecución
+en el plazo original estipulado en el contrato, siendo el único programa en la cartera del BID en
+Guatemala (al 2017) que logró concluir en el plazo original sin extensiones de plazo.
+Lo anterior no significó que no tuviera problemas durante la ejecución, ya que por ejemplo, al
+iniciar el programa asignó un equipo competente que ejecutó de forma satisfactoria. Sin embargo,
+con el cambio de Gobierno en el año 2012 se cambió también a todos los consultores asignados
+al proyecto, lo que generó retrasos y complicaciones para reiniciar las actividades. El nuevo
+personal, tenía poca experiencia y se evidenció una alta rotación en la Unidad Coordinadora del
+Proyecto (UCP). El RIC también se vio afectado por la ingobernabilidad política del año 2015,
+que resultó en más cambios de personal y consultores, incluyendo los contratados para el
+proyecto. Un nuevo equipo se hizo cargo del proyecto a finales de 2015, que logró recuperar
+parte del tiempo perdido y finalizar la ejecución de forma satisfactoria.
+El proyecto no tuvo contrapartida local, pero la asignación de espacio presupuestario fue una
+dificultad para el inicio de actividades del programa. El comité consultivo del RIC no fue efectivo
+para facilitar la aprobación de documentos por parte del CONAP en muchas ocasiones, pero si
+fue efectivo para coordinar actividades en los municipios. El RIC y el Gobierno de Guatemala
+estuvieron avanzando con recursos públicos, con el catastro y titulación de las zonas rurales, sin
+embargo, estos avances a veces fueron lentos, por las restricciones presupuestarias y de
+coordinación con otras agencias de Gobierno en algunas ocasiones.
+                                     V. HALLAZGOS Y RECOMENDACIONES
+ V.1     Dimensiones 1 a 5
+                                                  39
+"
+"                                                 Tabla V.1. Hallazgos y recomendaciones
+                    Hallazgos                                                              Recomendaciones
+Dimensión 1: Técnico-Sectorial
+Hallazgo #1 Se introdujo como indicador de         Recomendación # 1. El diseño del proyecto debió considerar un indicador de impacto
+impacto “áreas protegidas con certeza espacial     contextualizado en el proyecto, como por ejemplo reducción en la degradación o
+y jurídica” cuando ese es un indicador de          deforestación.
+producto del Componente 2
+Hallazgo #2 No se incluyó una evaluación de        Recomendación # 2. Se debería incluir una evaluación de impacto en el diseño de la
+impacto.                                           operación para medir las atribuciones del programa.
+Hallazgo # 3 El diseño del programa fue            Recomendación # 3 En el diseño se deben establecer metas basadas en información
+adecuado para hacer frente a los problemas         comprobable, oficial y que cubra ciertos filtros de calidad. Sin embargo, se debe reconocer
+encontrados, debido a que es importante            que la realidad en campo solo se entiende y conoce una vez se realiza el levantamiento
+proporcionar certeza jurídica y geográfica a las   catastral. Es difícil contar con toda la información durante el diseño de la operación, inclusive
+áreas protegidas, en un medio donde no             de ser factible contar con dicha información, la misma se vería rápidamente desactualizada.
+existen derechos de propiedad claros sobre la      es por esto que los programas de catastro incluyen manuales operativos que dictan los
+tierra, sin embargo, se establecieron metas        procesos que deben ser seguidos. el proyecto con el RIC contó con estos manuales
+ambiciosas en algunos casos sin conocer la         elaborados con base en experiencias piloto en AP y la propia experiencia del RIC en la
+calidad de la información disponible y la          implantación del proyecto con el Banco Mundial
+complejidad de coordinar con diferentes
+entidades con ámbitos diversos, etc.               Recomendación # 4. El diseño debe considerar los riesgos de trabajar un proyecto ejecutado
+                                                   con un organismo ejecutor, RIC, pero que tiene complejidades de coordinación entre
+                                                   instituciones directa e indirectamente relacionadas con el proyecto. Una posible solución es
+                                                   firmar convenios de cooperación entre las instituciones participantes para buscar un mayor
+                                                   compromiso de cumplimiento.
+Hallazgo # 4. El catastro tiene buena              Recomendación # 5 priorizar el catastro de las áreas protegidas en zonas de proceso
+aceptación tanto con autoridades municipales       catastral y que incluya a todo el municipio y no sólo las AP.
+como con propietarios. Sin embargo, las
+autoridades municipales requieren el catastro
+para todo el municipio y no solo para las áreas
+protegidas, como estaba contemplado en el
+Programa. Además, se ha determinado que se
+facilita la medición en las áreas protegidas,
+cuando el trabajo de catastro ya ha sido
+efectuado en los municipios fuera de ellas
+                                                                          40
+"
+"                     Hallazgos                                                          Recomendaciones
+Hallazgo # 5 Si bien en el diseño del Programa    Recomendación # 6. En futuras operaciones, se considere también a los propietarios de
+se consideraron los involucrados                  pequeñas parcelas y de grandes fincas, a los invasores de tierras nacionales ubicadas en
+institucionales, el análisis no incluyó a los     áreas protegidas, a las personas vinculadas a actividades ilícitas ya que ellos también
+beneficiarios indirectos, considerando que        invaden AP.
+estos pueden clasificarse en diferentes grupos.
+Hallazgo # 6. El dialogo con comunidades y        Recomendación # 7 Es necesario que el CONAP establezca un dialogo con autoridades
+propietarios ha permitido avanzar con las         municipales, propietarios y comunidades, con la finalidad de readecuar la categorización de
+acciones de demarcación y levantamiento           las áreas protegidas, tomando en cuenta los requerimientos de conservación de los
+catastral                                         recursos, así como las necesidades de sobrevivencia de la población.
+Hallazgo # 7. El desconocimiento de muchos        Recomendación # 8 Todo proyecto debe implementar un proceso adecuado de divulgación y
+actores sobre las actividades y objetivos del     socialización con todos los actores involucrados en tiempos adecuados.
+proyecto pueden conllevar conflictos, los cuales
+podrían mitigarse si los procesos de
+socialización se implementan con suficiente
+tiempo de antelación al trabajo de campo, por
+lo que resultan ser parte medular de la
+sostenibilidad socio-ambiental del
+establecimiento catastral.
+Dimensión 2: Organizativa y Administrativa
+Hallazgo # 8. Durante la ejecución hubo mucha     Recomendación # 9 las contrataciones de personal para este tipo de programas deben
+rotación de consultores lo que llevó a detener la obedecer a criterios de conocimiento técnico y experiencia en campo. Para ello una opción
+ejecución por algunos meses. Los consultores      es establecer una base de datos con posible personal a contratar sobre la base de la
+contratados en algunos casos no tenían las        evaluación de su desempeño en Programas previos o bien, la contratación de firmas
+competencias técnicas requeridas.                 consultoras especializadas.
+Hallazgo # 9. En muchas áreas el apoyo al
+personal de campo no fue suficiente. El ingreso   Recomendación #10. Las actividades de campo deben contar con suficiente personal y
+a algunos puntos para delimitar y demarcar        equipo apropiado por parte de las empresas contratadas y las instituciones involucradas.
+implicaba atravesar junglas, bosques y terrenos
+en donde no existían senderos. El personal
+subcontratado por las empresas consultoras no
+fue equipado de manera apropiada y muchos
+de ellos no contaban con el equipo ni con el
+apoyo logístico necesario para ingresar a áreas
+sumamente remotas y complicadas.
+                                                                      41
+"
+"                    Hallazgos                                                          Recomendaciones
+Dimensión: Procesos y Actores Públicos
+Hallazgo # 10 El RIC resultó ser una institución Recomendación # 11 Supervisar que el RIC no pierda su capacidad de ejecución,
+estable, con capacidad de ejecución y            especialmente en el manejo financiero, así como de planificación, administración de bienes y
+fortalezas especialmente en los aspectos de      control externo. Procurar que no se pierda el recurso humano que ha ganado mucha
+manejo financiero, de planificación,             experiencia con el Programa.
+administración de bienes y control externo. Sin
+embargo, mostró algunas deficiencias en el
+área de políticas y procedimientos de
+administración de personal.
+Hallazgo # 11 Se considera que el esquema        Recomendación # 12 Velar porque los esquemas de ejecución interinstitucional sean
+para la ejecución interinstitucional fue bien    funcionales no solamente en su diseño, sino también durante la ejecución del programa. Es
+diseñado y estructurado. Sin embargo, en la      recomendable que, desde el diseño del proyecto, se establezcan las responsabilidades y se
+                                                 asignen los recursos a las entidades participantes, para el buen cumplimiento de las metas
+práctica no se logró realizar de la mejor
+                                                 del Programa.
+manera, debido a que había productos finales
+sujetos a la aprobación de una entidad ajena y
+no tenían la misma prioridad para todos los
+actores interinstitucionales.
+Dimensión: Fiduciarios
+Hallazgo # 12 El manejo administrativo,          Recomendación # 13 Se recomienda capacitar más a la entidad ejecutora en los procesos
+financiero y de adquisiciones fue adecuado,      del Banco (fiduciarios) y que el BID no modifiqué tan continuamente sus procesos que
+con base en lo establecido en el Contrato de     complican a las entidades ejecutoras.
+Préstamo y las políticas y procedimientos del
+BID.
+Hallazgo # 13 Si bien se desarrollaron diversos  Recomendación # 14 Al diseñar actividades que involucran a diversas agencias de
+aplicativos tecnológicos, estos sólo             Gobierno, es importante que se establezca una firma de convenios de cooperación
+representaron el 34% del total debido a que se   institucional, en donde se definan tiempos, responsables, costos, fechas, etc. de tal forma
+tenían que coordinar diversas agencias de        que no cumplirlos implique el no cumplimiento legal y no sólo el faltar a un acuerdo de buena
+Gobierno lo cual fue difícil de conseguir.       fe.
+                                                                      42
+"
+"                                            REFERENCIAS
+Banco Mundial, Data, Guatemala, 2017.
+Besley, T. and M. Ghatak (2009). \"Property Rights and Economic Development.\" Handbook of
+    Development Economics 5(3): 4525-4595
+Butler, Rhett A. 2016. “The Top 10 Most Biodiverse Countries in the World.” Mongabay, 2016.
+https://news.mongabay.com/2016/05/top-10-biodiverse-countries/.
+Central Intelligence Agency, The World Factbook, Guatemala.
+Corral, L., Nancy McCarthy (2017). Organizational efficiency or bureaucratic quagmire: Do quality
+        at entry assessments improve project performance? IDB Working Paper Series No. IDB-
+        WP-787.
+Foley, Jonathan A, Ruth Defries, Gregory P Asner, Carol Barford, Gordon Bonan, Stephen R
+        Carpenter, F Stuart Chapin, et al. 2009. “Global Consequences of Land Use” 570
+        (2005). https://doi.org/10.1126/science.1111772.
+GCI. 2018. “Evaluación Preliminar de Los Factores Causantes Del Uso de La Tierra, Causas y
+        Agentes de Deforestación y Degradación de Bosques En Guatemala.”
+GIMBUT, IUCN (2018). La deforestación en Guatemala continua alta, contribuyendo 44,093,388
+        ton. de CO2 equivalente por año.
+Houghton, Brett Byers and Alexander A. Nassikas. A role for tropical forests in stabilizing
+        atmospheric       CO2.      Nature     Climate   Change      5,    1022–1023      (2015)
+        doi:10.1038/nclimate2869. Publicado el 25 de noviembre 2015.
+Lawry, S., Cyrus S., Hall, R., Leopold A., Hornby, D., & Mtero, F. (2017). “The impact of land
+        propertyrights interventions on investment and agricultural productivity in developing
+        countries: a systematicreview” Journal of Development Effectiveness, 9:1, 61-81, DOI:
+        10.1080/19439342.2016.1160947
+Le Saout, Soizic Michael Hoffmann, Yichuan Shi, Adrian Hughes, Cyril Bernard, Thomas M.
+        Brooks, Bastian Bertzky, Stuart H. M. Butchart, Simon N. Stuart, Tim Badman, Ana S. L.
+        Rodrigues. “Protected Areas and Effective Biodiversity Conservation”, Science 342: 803 -
+        805, online 14 de noviembre de 2013.
+Rodriguez-Solorzano, C. 2014. Unintended outcomes of farmers’ adaptation to climate variability:
+        deforestation and conservation in Calakmul and Maya biosphere reserves. Ecology and
+        Society 19(2): 53. http://dx.doi.org/10.5751/ES-06509-190253
+Robinson, Brian E., Margaret B. Holland, and Lisa Naughton-Treves. 2014. “Does Secure Land
+        Tenure Save Forests? A Meta-Analysis of the Relationship between Land Tenure and
+        Tropical Deforestation.” Global Environmental Change 29. Elsevier Ltd: 281–93.
+        https://doi.org/10.1016/j.gloenvcha.2013.05.012.
+                                                  43
+"
+"Von Hedemann y Osborne. State Forestry Incentives and Community Stewardship: A Political
+      Ecology of Payments and Compensation for Ecosystem Services in Guatemala’s
+      Highlands in Journal of Latin American Geography. 2016
+Van der Werf, G. R. et al. 2009. CO2 emissions from forest loss. Nature Geoscience 2: 737-738.
+                                             44
+"

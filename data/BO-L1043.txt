@@ -1,0 +1,759 @@
+"outlist[[i]]"
+"                                       I.     INTRODUCCIÓN
+El Proyecto Múltiple Misicuni (PMM) tiene por objetivo incrementar el abastecimiento de agua
+potable y agua para riego al valle de Cochabamba y generar energía eléctrica para el Sistema
+Interconectado Nacional (SIN). Cochabamba es una región de Bolivia que ha venido enfrentando
+un creciente problema de escasez de agua tanto para consumo de su población como para la
+agricultura. Por otra parte, el país ha venido necesitando aumentar su capacidad de generación
+para hacer frente a la creciente demanda eléctrica. El PMM ha contribuido a satisfacer estas
+necesidades.
+El PMM consiste en el represamiento y trasvase de las aguas del río Misicuni que se encuentra
+a unos 3.700 metros sobre el nivel del mar (msnm) hacia el valle de Cochabamba ubicado a unos
+2.700 msnm. La canalización se realiza por un túnel de unos 20 kilómetros (km) de longitud a
+través de una zona montañosa en dirección contraria al flujo del río Misicuni. Este túnel se
+conecta a una tubería de presión que conduce el agua en una caída de aproximadamente
+1.000 metros (m) hasta una casa de máquinas donde se genera energía eléctrica. El proyecto
+prevé para el futuro la construcción de túneles adicionales para aprovechar las aguas de los ríos
+Viscachas y Putucuni. Dada la magnitud de las inversiones de estos túneles no se espera su
+ejecución en el corto plazo.
+El proyecto incluyó la construcción de una represa de relleno de grava y cara de concreto de
+120 m de altura, una tubería de presión, la planta de generación eléctrica y obras
+complementarias. Un túnel de 20 Km de longitud (2,2 m a 2,6 m de diámetro) conecta el embalse
+con la tubería de presión (el túnel fue completado en 2005 con apoyo financiero del Gobierno de
+la República de Italia y la Corporación Andina de Fomento-CAF). La represa incluyó
+financiamiento del Tesoro General de la Nación, la Prefectura de Cochabamba y la CAF. La
+construcción de la represa, ejecutada por la Empresa Misicuni, se encuentra operativa desde el
+2017 (restan completar algunas obras tales como el vertedero).
+El préstamo del Banco Interamericano de Desarrollo (BID) (2238/BL-BO) tuvo por objeto financiar
+el componente hidroeléctrico del PMM cuyo costo fue estimado en US$114,1 millones, incluía
+extensión del túnel, una tubería de presión, una central de generación con 80 Megawatts (MW)
+de capacidad instalada, obras de transmisión eléctrica y obras complementarias. El BID tenía
+previsto contribuir con US$101 millones y el resto con contrapartida local. La ejecución del
+componente hidroeléctrico estuvo a cargo de la empresa eléctrica estatal, Empresa Nacional de
+Electricidad (ENDE). La ejecución de este componente se consideró fundamental para viabilizar
+el PMM, ya que permite el traslado de un volumen considerable de agua, desde la presa, hasta
+el valle de Cochabamba.
+El componente hidroeléctrico del PMM, denominado Proyecto Hidroeléctrico Misicuni (PHM),
+consistió en el aprovechamiento de las aguas de la represa, que provee un caudal medio anual
+estimado en 3,2 m cúbicos/seg. (m3/seg). El PHM incluye: (i) extensión del túnel existente en
+700 m en la zona de El Calio; (ii) tubería de conducción forzada de acero de 1,6 m de diámetro
+y 4,938 m de longitud; (iii) casa de máquinas situada en Molle a 2.740 msnm; (iv) embalse de
+compensación de 7 Hectáreas (ha) ubicado próximo a la planta de generación; y (v) una
+subestación y Línea de Transmisión (LT). Desde este embalse, el proyecto tenía previsto derivar
+unos 2 m3/seg. de agua hacia una planta potabilizadora para proveer al Servicio Municipal de
+Agua Potable y Alcantarillado (SEMAPA), y a otros municipios a fin de ampliar y mejorar el
+servicio de agua potable a la población, y 1 m3/seg. de riego para servir a unas 2.600 ha de
+tierras agrícolas.
+El proyecto tenía previsto una capacidad instalada inicial de 80 MW con dos unidades de 40 MW,
+que iban a ser incrementados a 120 MW con la incorporación de una tercera unidad de 40 MW
+una vez se completaran los túneles adicionales para captar las aguas de los ríos Viscachas y
+                                                -3-
+"
+" Putucuni (el proyecto de estos túneles aún no se ha iniciado). Sin embargo, cuando se licitaron
+ los dos equipos se negoció con la firma ganadora de la licitación la tercera unidad obteniéndose
+ un precio competitivo para esta unidad adicional por lo cual se decidió su compra e instalación.
+ La tercera unidad contribuyó a un incremento en la capacidad instalada para todo el sistema,
+ muy útil para el horario de punta, y significó además mayores ingresos para ENDE puesto que
+ puede recibir una remuneración mayor por la potencia correspondiente a esta unidad.
+ El PHM contribuyó a: (i) incrementar la capacidad instalada de generación hidroeléctrica;
+ (ii) mejorar la matriz energética incrementando la capacidad instalada de Energía
+ Renovable (ER) y desplazando generación con plantas térmicas que operan a gas natural;
+ (iii) reducir las emisiones de Dióxido de Carbono (CO2) a la atmósfera, disminuyendo la emisión
+ de gases de efecto invernadero; y (iv) liberar gas natural para exportación.
+ Ejecución del PHM. El préstamo del BID fue aprobado en noviembre de 2009. El Contrato de
+ Préstamo con el BID fue firmado en mayo de 2010 y la elegibilidad para el primer desembolso
+ se alcanzó en diciembre de 2010. Originalmente el plazo de ejecución del proyecto se estimó en
+ cinco años. Sin embargo, se registraron diversos retrasos por lo cual la conclusión y comienzo
+ de operación del proyecto fue en setiembre 2017 acumulando un retraso de dos años y cuatro
+ meses.
+ El costo total del proyecto se incrementó de US$114,1 millones a US$141.2 millones. De esta
+ diferencia, US$6.0 millones correspondieron a la adquisición y montaje de la tercera unidad
+ (turbina-generador), que permitió incrementar el alcance del proyecto; y aproximadamente
+ US$21 millones correspondieron a sobrecostos, debido fundamentalmente a los retrasos en la
+ ejecución de distintos componentes de las obras contempladas desde el diseño de la operación.
+ El monto de la contribución del BID se mantuvo en US$101.0 millones. Los costos adicionales
+ fueron cubiertos con recursos de contrapartida.
+ El resultado de la ejecución del proyecto puede considerarse satisfactorio especialmente si se
+ considera la complejidad del proyecto y los numerosos desafíos que se tuvieron que enfrentar
+ durante su construcción.
+                     II.   CRITERIOS CENTRALES. RENDIMIENTO DEL PROYECTO
+2.1       Relevancia
+                   a. Alineación con las Necesidades de Desarrollo del País
+ El PMM se desarrolló con el fin de incrementar el abastecimiento de agua potable y agua para
+ riego en el valle de Cochabamba, y generar energía eléctrica para el SIN. El proyecto buscaba
+ satisfacer las necesidades de la región de Cochabamba en cuanto al creciente problema de
+ escasez de agua tanto para consumo de su población como para la agricultura. Por otro lado, el
+ PMM a través de su componente hidroeléctrico, financiado por el préstamo 2238/BL-BO, también
+ buscaba atender las necesidades del país de aumentar su capacidad de generación para hacer
+ frente a la creciente demanda eléctrica. En la última década, la población de la región de
+ Cochabamba creció de 1,255,882 habitantes (2008) a 1,514,346 habitantes (2017). Por su parte,
+ la demanda eléctrica del SIN creció de 5.1 Gigavatios-hora (GWh) (2007) a 8.6 GWh (2017)
+ registrando un ritmo de crecimiento del 6% anual en promedio.
+ El proyecto también se alinea acorde a las necesidades actuales del país consistente con las
+ Políticas de Desarrollo del Estado Boliviano que destaca la importancia del acceso al agua para
+ toda la población como asimismo de la energía como factor clave para el desarrollo económico
+ y social del país.
+                                                 -4-
+"
+"La matriz del sector eléctrico en el 2008 era la siguiente: generación térmica 56%
+(fundamentalmente a gas), generación hidroeléctrica 44% y energías alternativas (renovables no
+convencionales) 0.0%. La capacidad instalada era de 1,285 MW y la demanda máxima registrada
+era de 895 MW.
+En el 2017 la matriz alcanzada fue la siguiente: generación térmica 74,5% (fundamentalmente a
+gas), generación hidroeléctrica 25.5% y energías alternativas (renovables no convencionales).
+La capacidad instalada era de 2,245.1 MW y la demanda máxima registrada era de 1,458.5 MW.
+En este período se incrementó 956.6 MW de potencia.
+La ejecución del PMM y de su componente hidroeléctrico han sido totalmente consistentes con
+las necesidades del país, y también hacia el futuro, como lo establece el Plan Eléctrico del Estado
+Plurinacional de Bolivia 2025, que destaca la necesidad de diversificar la estructura de la
+generación de energía eléctrica del país. El PHM está contribuyendo a incrementar la capacidad
+de ER a la matriz eléctrica. La capacidad instalada de energía hidroeléctrica pasó de 481 MW
+(2008) a 619 MW (2017) reflejándose el impacto de los 120 MW del PHM. El PHM fue el primer
+proyecto hidroeléctrico en cerca de dos décadas en el país, lo que ayudó a generar capacidad
+técnica local para la ejecución de este tipo de proyectos.
+El proyecto contribuye a la Agenda Patriótica 2025 y al plan de Plan Nacional de Desarrollo
+Económico y Social 2016-2020 (PDES) que articula las metas, resultados y acciones sectoriales
+para el mediano plazo, con los pilares de la Agenda Patriótica 2025. Para el sector eléctrico, el
+PDES establece las siguientes líneas de acción: (i) soberanía energética, a través de un
+suministro de electricidad seguro, continuo y confiable; (ii) universalización energética, mediante
+el incremento de la cobertura del servicio básico de electricidad a la población; (iii) eficiencia
+energética e incremento de la participación de las ER y las Energías Renovables No
+Convencionales (ERNC); (iv) integración energética a través de la exportación de los excedentes
+de electricidad; y (v) la seguridad energética, mediante la consolidación de la función protagónica
+del Estado en el desarrollo y planificación de la industria eléctrica.
+El PHM también contribuye a los objetivos del Gobierno de Bolivia para cubrir el crecimiento de
+la demanda, reducir emisiones de CO2 y lograr el acceso universal a la electricidad. El gobierno
+está impulsando un cambio en la matriz energética incorporando al 2020 una potencia de
+1.858 MW de ER y ERNC al parque generador.
+Asimismo, a través de la Contribución Prevista Determinada Nacionalmente del Estado
+Plurinacional de Bolivia para el Acuerdo Climático de París 2015, el país se comprometió, entre
+otros a: (i) incrementar la participación de ER a 79% al 2030 respecto al 39% del 2010; y
+(ii) incrementar la participación de las ERNC y otras energías (vapor ciclo combinado) del 2% el
+2010 al 9% el 2030 en el total del sistema eléctrico, que implica un incremento de 1.228 MW al
+año 2030 respecto a 31 MW de 2010.
+                b. Alineación Estratégica
+La Estrategia del BID para Bolivia para el período 2006-2010 (Documento GN-2485-2) que
+priorizaba los temas de pobreza, exclusión social y acceso a los servicios básicos de la población,
+identificando áreas de acción tales como la provisión de agua potable, apoyo a infraestructura
+productiva y la disponibilidad de insumos energéticos. El PHM fue consistente con estos
+lineamientos ya que contribuiría a proveer agua potable y de riego para el valle de Cochabamba,
+y energía eléctrica para el SIN. El incremento de la disponibilidad de agua contribuyó a mitigar
+uno de los factores más importantes que dificultan el desarrollo económico, social y cultural de
+Cochabamba.
+                                                 -5-
+"
+"Durante su ejecución, el proyecto mantuvo su alineamiento con la Estrategia del Banco con el
+País para 2011-2015 (GN2631-1) y sus objetivos estratégicos de incrementar la energía
+generada con fuentes de ER, y de extender la cobertura de agua y saneamiento básico; y con la
+Estrategia del Banco con el País para 2016-2020 (GN-2843) en cuanto al objetivo estratégico de
+mejorar la provisión de bienes y servicios públicos de calidad.
+El proyecto es consistente con los objetivos prioritarios del Noveno Aumento General de Capital
+(GCI-9) de apoyar a países pequeños y vulnerables y de contribuir a la mitigación y adaptación
+al cambio climático. Bajo estas mismas consideraciones, el programa es consistente con la
+Actualización de la Estrategia Institucional 2010-2020 (AB-3008) y se alinea con el desafío de
+desarrollo de productividad e innovación, y con las áreas transversales de cambio climático y
+sostenibilidad ambiental. Adicionalmente, el programa está alineado con el Marco de Resultados
+Corporativos (CRF) 2016-2019 (GN-2727-6) a través de los indicadores de reducción de
+emisiones, y generación proveniente de fuentes de ER.
+                c. Relevancia del Diseño
+El objetivo del PMM fue abastecer de agua potable y agua para riego al valle de Cochabamba, y
+al mismo tiempo, generar energía eléctrica para el SIN, mediante el aprovechamiento de las
+aguas de la cuenca del río Misicuni.
+El objetivo específico del Proyecto Hidroeléctrico de Energía Renovable Misicuni (PHM), que
+forma parte del PMM, fue agregar una capacidad instalada de generación de 80 MW al SIN y
+producir anualmente 217 GWh de energía eléctrica.
+El BID financió el PHM que contribuyó a: (i) incrementar la capacidad instalada de generación al
+SIN para hacer frente a la creciente necesidad de electricidad, especialmente en las horas de
+mayor demanda; y (ii) mejorar la matriz energética incrementando la participación de ER.
+El proyecto comprendió dos componentes. El primero incluyó las obras de infraestructura y el
+segundo la ingeniería, supervisión, mitigación ambiental y social, y otros costos indirectos.
+Componente I - Obras de Infraestructura:
+    a. Extensión y blindaje del túnel de baja presión: construcción de 727 m faltantes del tramo
+        final del túnel de aducción y blindaje con hormigón de este tramo más 692 m que están
+        sin blindar;
+    b. Chimenea de equilibrio: la cual consiste en un pozo vertical de 150 m de altura a partir
+        del túnel de baja presión, con 2,60 m de diámetro;
+    c. Válvula de seguridad: de tipo mariposa para el cierre del conducto forzado;
+    d. Conducto forzado: con anclajes de hormigón, de longitud de 4,938 m y diámetro de
+        1,60 m, el cual operaría con un caudal de 9,8 m3/seg. y con una velocidad de
+        aproximadamente 4,8 m/seg.;
+    e. Casa de máquinas: ubicada a 2.740 msnm y albergará tres generadores acoplados a
+        turbinas tipo Pelton, de 40 MW cada una (inicialmente se preveía solo la instalación de
+        dos de ellas, pero la casa de máquinas estaba diseñada para tres unidades)
+                                                -6-
+"
+"    f.  Embalse de compensación impermeabilizado: ubicado aguas abajo de la casa de
+        máquinas, almacenará el agua turbinada con una capacidad de 300.0000 m3, tiene 7 ha
+        de extensión y una profundidad máxima de 9 m;
+    g. Subestación y LT: para conectar la central al SIN a través de una línea de 230-kilovoltios
+        (kV), 50 km de longitud (15 km dedicados al proyecto y 35 km forman parte de la futura
+        línea que une a Cochabamba con La Paz).
+Componente II – Otros Costos. Este componente cubre los costos de ingeniería y
+supervisión de las obras, contingencias, costos de compensación y mitigación de
+impactos ambientales y sociales:
+El crecimiento de la demanda estimada (ver Sección 2.1) para el siguiente quinquenio al
+momento de aprobación del préstamo BID era del 6% anual. El crecimiento real registrado superó
+dicha estimación ratificando la necesidad de incrementar la capacidad de generación para hacer
+frente a la demanda eléctrica del país. La ejecución del proyecto hidroeléctrico como parte del
+proyecto múltiple ha sido la solución adecuada para contribuir a incrementar la capacidad de
+generación en el sistema eléctrico del país.
+Si bien el objetivo central del PHM es la generación de energía eléctrica, el mismo viabiliza los
+componentes de agua potable y riego, por lo que la lógica vertical del diseño desemboca en
+indicadores de resultado para capturar el pleno alcance del PMM. El indicador asociado a la
+mejora de productividad agrícola reconoce que el valor por hectárea de la tierra rural es igual a
+los beneficios descontados que se esperan de la producción agrícola. Dado que el riego
+incrementa dicha producción (por ejemplo, al permitir dos o tres cosechas por año, en lugar de
+una dependiente de la lluvia), el incremento en el valor por ha gracias a la disponibilidad de riego
+es adecuado y consistente con la lógica vertical de la intervención
+                                               -7-
+"
+"                                                            Tabla 1. Matriz de Resultados
+                              En aprobación                     En elegibilidad + 60 días        Al terminar el proyecto (PCR)
+   Indicadores                                                                                                                           Comentarios
+                                                              Unidad       Línea                                 Línea
+                  Unidad de     Línea de                                                         Unidad de
+                                              Meta (P)          de           de     Meta (P)                       de        (A)
+                    Medida        Base                                                            Medida
+                                                              Medida        Base                                  Base
+Objetivo específico de Desarrollo 1. Generar energía eléctrica para el SIN, mediante el aprovechamiento de las aguas de la cuenca del río Misicuni
+Resultados        Capacidad de generación de energía eléctrica incrementada
+                                                                                                                                   La generación es menor
+                                                                                                                                   dado que no se cuenta
+                                                                                                                                   con infraestructura para
+                                                                                                                                   potabilizar el agua para
+Generación                                                                                                                         consumo y transportar a
+eléctrica por      GWh/año          0           217.2        GWh/año          0       217.2      GWh/año            0       63.7   riego. Sin embargo, dado
+año.                                                                                                                               que la generación a
+                                                                                                                                   octubre 2018 marcó
+                                                                                                                                   19.5GWh, se espera que
+                                                                                                                                   la generación a 12
+                                                                                                                                   meses alcance 234GWh.
+Objetivo específico de Desarrollo 2. Abastecer de agua potable (y agua para riego al valle de Cochabamba
+Resultados        Acceso a agua potable incrementado
+                                                                                                                                   El volumen es menor
+Volumen                                                                                                                            dado que no se cuenta
+regulado para                                                                                                                      con infraestructura para
+                     m³/día      12.960        264.600         m³/día      12.960    264.600      m³/día         12.960    78,624
+riego y agua                                                                                                                       potabilizar el agua para
+potable.                                                                                                                           consumo y transportar a
+                                                                                                                                   riego
+Valor de las                                                                                                                       Promedio del costo
+tierras             US$/m2          5            10           US$/m2          5         10        US$/m2            5        41    US$/m2 a 20 y 1000 m
+beneficiadas.                                                                                                                      del proyecto
+                                                                             -8-
+"
+"2.2       Efectividad
+ Para efectos de comparación de la eficacia en cuanto a la implementación final del proyecto, es
+ necesario efectuar una comparación entre los objetivos planteados al inicio y los resultados que
+ se obtuvieron con el proyecto concluido y en operación.
+                     a. Declaración de Objetivos de Desarrollo del Proyecto
+ El objetivo del PMM fue abastecer de agua potable y agua para riego al valle de Cochabamba, y
+ al mismo tiempo generar energía eléctrica para el SIN, mediante el aprovechamiento de las
+ aguas de la cuenca del río Misicuni.
+ El objetivo específico del PHM que forma parte del PMM, fue agregar una capacidad instalada
+ de generación de 80 MW al SIN y producir anualmente 217 GWh de energía eléctrica. El
+ préstamo BID objeto de este PCR fue el apoyo al proyecto hidroeléctrico.
+                     b. Resultados Logrados
+ Generación eléctrica. El proyecto hidroeléctrico tenía por objetivo agregar 80 MW de capacidad
+ instalada al sistema y generar 217 GWh de energía por año.
+ Capacidad instalada. Aprovechando una circunstancia que surgió durante la ejecución
+ (licitación llave en mano declarada desierta, posterior licitación de los equipos en un paquete
+ separado y la oferta de la tercera unidad a un costo muy competitivo), en vez de las dos unidades
+ de 40 MW que estaban previstas originalmente (80 MW), se decidió la incorporación de una
+ tercera unidad totalizando una capacidad instalada de 120 MW. Tanto la presa como el túnel,
+ tubería de presión, como las obras civiles y los equipamientos auxiliares de la central estaban
+ diseñados considerando una siguiente fase para la instalación de la tercera unidad cuando se
+ completaran los túneles adicionales para captar agua de los ríos Viscachas y Putucuni (a la fecha
+ estos túneles aún no han sido construidos). Por ello, la inversión adicional requerida fue
+ básicamente de la tercera unidad.
+ En consecuencia, el proyecto cumplió y excedió la meta prevista de incrementar la capacidad
+ instalada de 80 MW a 120 MW con un costo marginal (US$6 millones por la tercera unidad sobre
+ un costo total originalmente presupuestado de US$114 millones).
+ Energía generada. La central hidroeléctrica comenzó a operar en setiembre de 2017. La energía
+ generada en un año aún no ha alcanzado la meta debido a los retrasos en las obras de agua
+ potable y riego. En rigor, la central tiene todas las condiciones para generar energía de acuerdo
+ a la meta establecida, ya que cuenta con el recurso hídrico y el equipamiento necesario, pero no
+ está operando al máximo de su capacidad de diseño para no desperdiciar el agua turbinada. La
+ central viene operando de tal forma de que el volumen de agua turbinada por día sea equivalente
+ a la capacidad de procesamiento diaria de agua potable y de canalización de agua para riego.
+ En los últimos meses del 2017 y a partir de octubre de 2018, se viene turbinando volúmenes por
+ encima de dicha capacidad de procesamiento por la disponibilidad del recurso hídrico en la presa
+ por estar en época de lluvias (de octubre a marzo, en Cochabamba), lo cual obliga a desviar
+ agua ya turbinada al río que atraviesa próximo al embalse compensador de la central. En el mes
+ de octubre 2018 se ha alcanzado a generar 19.5 GWh/mes1, resultado que si se extrapola a 12
+ meses alcanzaría a 234 GWh/año (vs 217 GWh/año establecido como meta en la Matriz de
+ Resultados). En ese marco, el resultado alcanzado por el proyecto puede ser considerado
+ satisfactorio.
+ 1  Dato oficial del CNDC.
+                                                  -9-
+"
+"Suministro de agua potable y para riego: La meta prevista era de poner a disposición un
+caudal de 3 m3/seg (2 m3/seg. para agua potable y 1 m3/seg. para riego). El PHM a través de la
+tubería de presión y el embalse de regulación ya tienen la capacidad para proveer dichos
+volúmenes de agua. Sin embargo, no se ha podido incrementar el volumen en dichas
+proporciones por el retraso en las respectivas obras de procesamiento y distribución de agua
+potable y de riego. Si se considera el suministro de agua potable y riego hasta el consumidor
+final los resultados alcanzados hasta la fecha son insatisfactorios debido a la falta de conclusión
+de las obras de distribución de agua y los canales de riego. Sin embargo, si se considera que el
+proyecto hidroeléctrico completado y en operación tiene toda la capacidad para poner a
+disposición el volumen de agua en las compuertas del embalse de compensación de acuerdo al
+diseño, se podría decir que también esta meta es satisfactoria.
+Mejora de productividad agrícola. Según encuestas, realizadas por ENDE, el valor promedio
+por metro cuadrado (m2) de las tierras a ser beneficiadas con riego se ha incrementado de
+aproximadamente US$5 a US$41, superando la meta original. Se estima que el incremento del
+valor de la tierra se ha debido a la expansión poblacional y de la mancha urbana hacia estas
+tierras y también a la ejecución del PMM, aunque es difícil desglosar el impacto de cada uno de
+esos factores. Los valores alcanzados de aumento promedio del valor de la tierra fueron del
+300% vs 150% que se esperaba al comienzo de la ejecución del proyecto.
+                                              - 10 -
+"
+"                                                                         Tabla 2. Matriz de Resultados Logrados
+                                                                             Valor de        Año de
+                                                               Unidad de                                   Metas y
+                  Resultado/Indicador                                        Línea de       línea de                  % Alcanzado           Medios de Verificación
+                                                                Medida                                 Alcance Real
+                                                                               Base           Base
+ Capacidad de generación de energía eléctrica incrementada
+                                                                                                      P       217,20
+ Generación eléctrica por año                                  GWh/año           0            2012    P(a)    217,20      30%     Comité Nacional de Despacho de carga
+                                                                                                      A       63.7
+ Acceso a agua potable incrementado
+                                                                                                      P       264.600
+ Volumen regulado para riego y agua potable                      m³/día       12.690          2012    P(a)    264.600     30%     Departamento de Operaciones de ENDE
+                                                                                                      A       78.624
+                                                                                                      P       10
+ Valor de las tierras beneficiadas                              US$/m2           5            2012    P(a)    10         420%     Informe ENDE
+                                                                                                      A       41
+                                                                             Valor de       Año de
+                                                               Unidad de                                   Metas y
+                        Producto                                             Línea de      Línea de                   % Alcanzado           Medios de Verificación
+                                                                Medida                                  Alcance Real
+                                                                               Base           Base
+                                                                                                      P       1
+ Casa de máquinas construida y equipada                            %             0            2012    P(a)    1       100%         Despacho de energía al Sistema
+                                                                                                      A       1
+                                                                                                      P       18
+                                                                                                                                   Despacho de energía al Sistema y
+ Líneas de transmisión construidas                                 km            0            2012    P(a)    13      100%
+                                                                                                                                   optimización en el trazo final
+                                                                                                      A       13
+                                                                                                      P       1
+ Embalse de compensación construido                                %             0            2012    P(a)    1       100%
+                                                                                                      A       1
+                                                                                                      P       15
+ Caminos de acceso construidos                                     km            0            2011    P(a)    17.25   87%
+                                                                                                      A       17.25
+                                                                                                      P       1
+ Subestación construida y puesta en marcha                         %             0            2012    P(a)    1       100%
+                                                                                                      A       1
+                                                                                                      P       706
+ Excavación y blindaje del túnel concluidos                         m            0            2012    P(a)    706     100%
+                                                                                                      A       706
+                                                                                                      P       1
+ Válvula de seguridad instalada y funcionando                      %             0            2012    P(a)    1       100%
+                                                                                                      A       1
+                                                                                                      P       150
+ Chimenea de equilibrio concluida                                   m            0            2012    P(a)    150     100%
+                                                                                                      A       150
+                                                                                                      P       4,938
+ Tubería forzada instalada                                          m            0            2012    P(a)    4,938   100%         Despacho de energía al sistema
+                                                                                                      A       4,938
+Donde: P = Planificado; P (a) = Objetivo anual revisado; A = real.
+Donde: P = Planificado; P (a) = Objetivo anual revisado; A = real.
+                                                                                           - 11 -
+"
+"                 c. Análisis Contrafactual
+En el diseño de la operación no se consideró el desarrollo de una evaluación de impacto. Dado
+que se trata de un proyecto con características únicas, no se consideró factible analizar un
+escenario contrafactual sin el PMM. Sin embargo, dada la naturaleza del proyecto es razonable
+atribuir directamente al PHM tanto el aumento en el caudal regulado de agua disponible en el
+valle de Cochabamba, como el aumento de la capacidad de generación eléctrica. El cambio en
+el valor de la tierra tiene otros factores que podrían haber incidido en los cambios observados.
+Con respecto a la diversificación de la matriz energética, el ingreso del PHM al sistema
+incrementó la capacidad hidroeléctrica, que por definición es ER, en aproximadamente al 20%.
+Asimismo, debido a sus costos menores frente a la alternativa térmica y al ser una central con
+caudal regulado (diferente a las centrales de paso que no tienen la capacidad de retener agua
+para generar en las horas pico), le permite operar en cualquier hora del día especialmente en las
+horas de mayor demanda. Estos dos factores hacen prever que la PHM desplace a la generación
+térmica. La capacidad desplazada pasará a ser parte de la reserva del sistema.
+Si no se hubiera desarrollado el PHM, a la fecha, considerando la generación anual (63 GWh),
+se debería haber despachado energía térmica equivalente con base en gas natural, lo cual
+hubiera implicado la emisión de 36,000 Ton de CO2. Dado que la generación de la central a
+octubre de 2018 marcó 19.5 GWh, se espera que a ese ritmo de generación se mitigue 130,000
+Ton de CO2
+                 d. Resultados Imprevistos
+El resultado imprevisto relevante está relacionado con la decisión de la empresa de aprovechar
+la coyuntura existente para instalar una tercera turbina, incrementando en un 50% más la
+capacidad instalada de la central (de 80 MW a 120 MW). Este incremento en la potencia posibilita
+la generación de ingresos por potencia disponible lo cual mejora los balances financieros del
+proyecto. Los beneficios plenos de este aumento de la capacidad instalada podrán ser
+efectivizados cuando se completen las obras de los túneles para utilizar el agua de los ríos
+Putucuni y Viscachas. Por otro lado, al ser el primer proyecto hidroeléctrico ejecutado en Bolivia
+en mucho tiempo, el PHM ayudo a crear capacidad técnica, la cual ahora esta siendo empleada
+para el desarrollo de otros proyectos.
+ 2.3     Eficiencia
+El Proyecto Hidroeléctrico Misicuni, objeto del préstamo BID 2238/BL-BO, fue planteado
+originalmente para ser licitado con un Contrato Llave en Mano principal que abarcaba la mayor
+parte de las obras del proyecto incluyendo las obras civiles, extensión de túnel, suministro y
+montaje de la tubería de presión, suministro y montaje de los equipos de generación, y puesta
+en marcha de la planta. Este contrato principal se complementaba con obras menores de acceso,
+la estación transformadora y la LT para conectar al SIN, contrato de la firma supervisora y
+consultorías técnicas.
+Este planteo era el adecuado al momento de la estructuración de la operación ya que ENDE
+estaba en pleno proceso de transformación y fortalecimiento. El Contrato Llave en Mano iba a
+asegurar una buena coordinación y ejecución de las distintas partes del proyecto (obras civiles
+de superficie, obras civiles subterráneas, tubería de presión, suministro y montaje de turbinas y
+generadores, y puesta en operación) bajo un solo contratista lo cual iba a facilitar su supervisión
+y seguimiento.
+                                                 - 12 -
+"
+"Sin embargo, los precios ofertados para el Contrato Llave en Mano resultaron sustancialmente
+superiores a lo presupuestado, alcanzando a US$170 millones la oferta de menor costo frente a
+un presupuesto de US$101 millones (este monto excluye las obras de transmisión y
+subestaciones, y supervisión de las obras que se realizaron a través de otros contratos). Los
+contratos llave en mano implican una fuerte responsabilidad para el contratista incluyendo pagos
+de penalidades importantes por retrasos lo cual generalmente se reflejan en los precios ofrecidos.
+Ante esta situación, se decidió abandonar el esquema de Contrato Llave en Mano y distribuir su
+alcance en cuatro contratos: obras civiles de superficie; obras civiles subterráneas (túnel) que
+implican un conocimiento y experiencia técnica diferente; suministro y montaje de la tubería de
+presión; y suministro y montaje de las turbinas y generadores y demás equipos de la central.
+Esto iba a repercutir favorablemente en los costos, pero iba a incrementar los desafíos en la
+coordinación de estos contratos. Durante este período ENDE fue fortaleciendo el equipo técnico
+de la unidad ejecutora para poder administrar y monitorear este conjunto de contratos, recibiendo
+también un fuerte apoyo técnico del Banco.
+Los desafíos durante la construcción, especialmente los diversos eventos no previstos que
+surgieron durante la ejecución tales como la declaratoria de insolvencia del proveedor de los
+equipos principales (uno de los cuatro contratos nuevos que reemplazó el Contrato Llave en
+Mano), la estructura geológica que se encontró en tramos de la extensión del túnel que implicó
+mayores costos y mayor plazo de ejecución, la necesidad de rescindir el contrato de la firma
+supervisora original que no venía cumpliendo satisfactoriamente sus tareas, tuvieron sus
+implicancias en tiempos de ejecución, y consiguientemente en los costos.
+Costo del Proyecto. El costo total del proyecto se incrementó de US$114,1 millones a
+US$141.2 millones.
+                                  Presupuesto     Presupuesto         Presupuesto
+               Fuente              Original del   Adicional de          Total del       Pari Passu %
+                                  Proyecto US$   Contraparte US$     Proyecto US$
+        BID                          101,000,000                         101,000,000          72%
+        Contraparte ENDE              13,100,000       26,774,219          39,874,219         28%
+        Total                        114,100,000       26,774,219        140,874,219         100%
+Detalles Costo Final. Los costos finales del proyecto se presentan a continuación:
+                                                                                Total Inversiones al cierre
+                                                      Presupuesto original
+               Categoría de inversión                                                  del proyecto
+                                                         US$ (millones)
+                                                                                      US$ (millones)
+  Obras de infraestructura                                   88.50                        105.89
+  Extensión Túnel Chimenea                                   10.70                         12.50
+  Tubería de presión válvula de seguridad                    29.20                         49.17
+  Obras civiles, casa de máquinas y obras
+                                                              5.60                         11.07
+  complementarias
+  Equipamiento, turbinas y generadores                       27.40                         24.09
+  Embalse de compensación                                     5.40                          8.45
+  Subestación y Líneas de Transmisión                        10.20                          0.61
+  Otros costos                                               13.50                         21.42
+  Mitigación impacto ambiental y social                       3.20                          1.44
+  Ingeniería y supervisión de obras                           6.40                          9.12
+  Auditoría, administración y otros                           3.90                         10.86
+  Contingencias                                              12.10                         13.55
+                                                   - 13 -
+"
+"   Contingencias                                                12.10                        13.55
+   Total                                                       114.10                       140.87
+Para evaluar la eficiencia en la asignación de recursos económicos, se efectuó un análisis ex
+post de costo-efectividad que compara el costo final del proyecto con respecto al costo de la
+alternativa a analizada durante el diseño de la operación.
+Previo a la aprobación del financiamiento, se realizó un análisis comparando el costo de
+generación de 217,2 GW/h al año vía generación térmica o hidroeléctrica. Las conclusiones
+reflejadas en dicho informe fueron2:
+            •    El Valor Presente del costo total de la alternativa hidroeléctrica, descontado hasta
+                 el 1 de enero de 2010 y expresado en numerario de eficiencia a precios de frontera,
+                 asciende a US$ 79,7 millones. El correspondiente valor para la central térmica es
+                 de US$ 142.2 millones. Por consiguiente, la alternativa hidroeléctrica resulta
+                 preferible a la térmica en US$ 62,5 millones.
+            •    La alternativa hidroeléctrica se mantiene preferible a la térmica aun cuando el
+                 precio del gas disminuya hasta 5.0 US$/MMBTU. En este caso la diferencia en
+                 VPE es de US$ 38,7 millones.
+            •    Crecimientos importantes del costo de inversión de la alternativa hidroeléctrica no
+                 modifican la preferencia de esta alternativa. Si aumenta su costo 40% la diferencia
+                 a favor de la hidroeléctrica es aun de US$43,2 millones.
+            •    El incremento en la responsabilidad del costo de la presa de almacenamiento
+                 tampoco afecta la preferencia. Un aumento de esta responsabilidad de 20,6% al
+                 29,6% se refleja en un menor valor del VPE de la hidroeléctrica respecto a la
+                 térmica de aun US$ 58,6 millones.
+            •    Los resultados son insensibles a incrementos elevados del costo de Operación y
+                 Mantenimiento (O&M) de la hidroeléctrica.
+Una vez concluido el proyecto, se obtuvo que su costo total se incrementó de US$114,1 millones
+a US$141.2 millones. De la diferencia, US$6.0 millones correspondieron a la adquisición y
+montaje de la tercera unidad que permitió incrementar el alcance del proyecto; y US$21 millones
+que correspondieron a sobrecostos en las obras originalmente planeadas para el proyecto,
+debido fundamentalmente a los retrasos en la ejecución de distintos componentes. Este
+sobrecosto representó aproximadamente 20% del costo del proyecto, que pasó de US$114,1
+millones a US$135,1 millones. Este desvío en los costos si bien es una cifra importante, resultó
+en una cifra sustancialmente inferior a la que se hubiera alcanzado si se continuaba con el
+esquema del Contrato Llave en Mano, cuya oferta de menor precio fue de US$170 millones,
+monto al que se debería sumar el costo del resto de los otros contratos (obras de acceso, LT y
+subestación, supervisión y consultorías).
+Las principales causas de los retrasos y de los mayores costos se pueden resumir en los
+siguientes hitos del proyecto.
+Declaratoria Desierta del Contrato Llave en Mano: La licitación de este contrato que constituía
+la columna vertebral de este proyecto fue declarado desierta porque el menor costo ofrecido fue
+2 (Fuente: BID, División de Energía. Proyecto Hidroeléctrico de Energía Renovable Misicuni. Análisis Económico.
+   Octubre 2009.
+                                                     - 14 -
+"
+"sustancialmente superior al presupuestado (70% por encima del costo estimado) (diciembre
+2011). Una de las principales causas en los sobrecostos de las ofertas llave en mano fue que el
+pliego dirigía a subcontrataciones de provisión de bienes y de servicios especializados, por lo
+que los oferentes asociaron las subcontrataciones a riesgos, los cuales se reflejaron en los
+sobrecostos.
+Licitación Cuatro Paquetes de Contratos: Ante la declaración desierta del Contrato Llave en
+Mano, se decidió licitar cuatro paquetes de contratos en sustitución del mismo (fueron licitados
+durante el primer semestre 2012, adjudicados y firmados durante el primer y segundo semestres
+de 2012).
+Incorporación de la Tercera Unidad de Generación: La oferta de menor costo para el suministro
+y montaje de los equipos incluyó una oferta muy ventajosa para la tercera unidad (US$6 millones)
+por lo cual se decidió adquirir esta unidad adicional de generación (julio 2012).
+Declaratoria de Insolvencia del Proveedor del Equipamiento Principal. El proveedor de las
+turbinas y generadores que constituyen el equipamiento principal de la central fue declarada
+insolvente y se rescindió su contrato (correspondiente a uno de los cuatro nuevos contratos)
+(octubre 2013).
+Sustitución de Firma Supervisora. Debido a problemas con la firma supervisora originalmente
+contratada se rescindió su contrato (abril 2015) y se licitó y contrató una nueva firma supervisora
+(firmado en noviembre 2015).
+El retraso de la puesta en operación de la central eléctrica (dos años y cuatro meses) a cargo de
+la empresa estatal de energía (ENDE) coincidió con el retraso en las obras de la presa de Misicuni
+a cargo de la Empresa Misicuni. El paripasu original (89% BID, 11% contrapartida) se modificó
+finalizando como el 72% como aporte BID y 28% correspondiente al aporte local
+En síntesis, el proyecto se completó con un sobrecosto del orden del 20% del presupuesto
+original (sin considerar la tercera unidad ya que está fue una ampliación de capacidad y no un
+sobrecosto). El sobrecosto incurrido, si bien significativo, se podría justificar por lo siguiente: a) El
+costo final resultó sustancialmente inferior al costo que hubiera resultado de aceptarse la mejor
+oferta del contrato llave en mano (el sobrecosto hubiera sido superior al 70% al presupuesto
+inicial, o 50% sobre el costo efectivamente incurrido); y b) el desvío incurrido se puede considerar
+razonable considerando la magnitud y naturaleza de los problemas que tuvo que enfrentar el
+proyecto muchas de ellas no atribuibles a la gestión del proyecto. Los sobrecostos se debieron
+fundamentalmente a los retrasos en el avance de los distintos componentes del proyecto que
+fueron afectando el cronograma integral tales como los que surgieron de la declaratoria de
+insolvencia del proveedor de los equipos, problemas geológicos identificados en la excavación
+del túnel, los problemas que fueron surgiendo durante el montaje de la tubería de presión y la
+decisión de sustituir a la firma supervisora3.
+A pesar de los sobrecostos, al comparar el proyecto con la alternativa de generación térmica,
+cuyo costo estimado en el 2010 fue de US$ 142.2 millones, para la generación de 80 MW a partir
+de gas natural al que se le debe sumar el costo operativo de las plantas térmicas (costo del gas),
+3  El promedio de sobrecostos en los proyectos hidroeléctricos en la región está en el orden el 20%. Ver Informe de
+   Auditoria Financiera al 31 de diciembre de 2017.
+                                                      - 15 -
+"
+"permite concluir que inclusive sin actualizar el costo de la alternativa térmica al presente, la
+solución más costo efectiva es la generación con el PHM.
+ 2.4    Sostenibilidad
+                a. Aspectos Generales de Sostenibilidad
+En cuanto a la administración del proyecto, ENDE suscribió un contrato de O&M del PHM con la
+empresa Hidroeléctrica ENDE CORANI, la cual es una empresa subsidiaria de ENDE
+Corporación con más de 50 años de experiencia en el manejo de centrales hidroeléctricas.
+La sostenibilidad del proyecto deviene del entorno donde va a operar el PHM, para lo cual se
+analizan los siguientes aspectos básicos que incidirán directa o indirectamente en la operación
+del proyecto.
+Sector eléctrico. La estructura del sector eléctrico en el Estado Plurinacional de Bolivia está
+dividida en tres actividades: generación, transmisión y distribución. Con los procesos de
+nacionalización encarados por el Estado Plurinacional, prácticamente es el Estado el que
+administra el 80% del Sector eléctrico nacional, existen instituciones que regulan el mercado
+eléctrico nacional dependientes del Estado en el marco regulatorio de la Ley de electricidad
+Nº 1604.
+El Reglamento de Precios y Tarifas es el instrumento que permite garantizar el retorno de la
+inversión y el reconocimiento de gastos de O&M para las centrales hidráulicas. El ente regulador
+AE es el encargado de actualizar cada 6 meses de manera oficial los precios que se reconocerán
+a la central Misicuni.
+Mercado. Según la proyección del CNDC, la demanda de potencia se incrementa anualmente
+en promedio de 6%, de manera tal que la demanda al 2017 de 1.552 MW se incrementará para
+el año 2025 a 2.620 MW, por lo que requerirá de implementar proyectos adicionales para
+satisfacer el incremento de la demanda eléctrica nacional, la incorporación del PHM es oportuna
+y necesaria para el país.
+Aspectos operativos. La corporación ENDE como organismo ejecutor, está delegando la
+operación del PHM a su filial CORANI S.A. Esta empresa tiene amplia experiencia en la
+administración y operación de Hidroeléctricas. Actualmente opera las Hidroeléctricas Corani,
+Santa Isabel y San José I, así como el parque eólico Qollpana, con lo que se garantiza la correcta
+administración del PHM.
+Aspectos financieros. Con la implementación de la tercera unidad, el PHM ha incrementado su
+capacidad de generación de recursos financieros, por potencia disponible y por generación.
+La potencia disponible es aquella que la empresa tiene lista para generar e inyectar al SIN, el
+CNDC planifica el ingreso de estas empresas generadoras, priorizando el costo marginal de
+operación, es decir ingresan las más eficientes económicamente, en este aspecto tienen
+preferencia las hidroeléctricas de caudal regulado (como PMM) por su confiabilidad y su
+disponibilidad horaria, en segundo lugar, ingresan las generadoras térmicas. Por tanto, sólo por
+potencia disponible, el PMM puede generar ingresos por disponer unidades listas para ingresar
+a generar como potencia disponible, aunque no genere necesariamente energía.
+                                              - 16 -
+"
+"El otro ingreso financiero corresponde a la energía generada, en el caso de Misicuni inicialmente
+planificada una operación para 5 horas, mientras la red de agua no se concrete, el PMM puede
+trabajar en un 50% de horas de generación, posteriormente generaría según lo planificado. En
+la actualidad este corresponde al principal riesgo para la sostenibilidad de los resultados del
+proyecto. Dado el incremento poblacional y la demanda de agua potable se espera que se avance
+y se completen las obras de la red de agua.
+Actualmente, de los tres tramos que estuvieron planificados para la dotación de agua potable, el
+BID, la gobernación de Cochabamba y la Agencia Francesa de Desarrollo, vienen trabajando en
+diseño y licitaciones de todos los tramos bajo el siguiente detalle: (i) Tramo I Tiquipaya – Sacaba.
+Se encuentra en licitación para la dotación de 314 Litros por segundo (Lps); (ii) Tramo II
+Colcapirhua – Cochabamba. En licitación para la dotación de 560 Lps; y (iii) Tramo II Quillacollo
+– Vinto. En diseño para la dotación de 370 Lps4.
+                 b. Salvaguardas Ambientales y Sociales
+Los partes del Proyecto financiado por el BID están finalizados y en operación. El equipo
+ambiental y social del ENDE mantuvo buena gestión del proyecto el proceso de construcción a
+pesar de las improvistos retrasos, cambios y complicaciones durante la ejecución. Durante la
+construcción de las obras, ENDE implementó un sistema de comunicación comunitario que
+funcionó bien para informar a las comunidades afectadas sobre actividades del proyecto y para
+recibir quejas por parte de estas. Lo anterior generó buenas relaciones con la comunidad durante
+la obra. ENDE también culminó el reasentamiento de cuatro familias ubicadas obras abajo cerca
+de la casa de máquinas, y ejecutó un plan de compensación de vida para esas familias. En
+reuniones regulares con esas familias ellos demostraron satisfacción con el proceso de
+reasentamiento. El proyecto también cumplió con su Plan de Restauración de áreas afectadas y
+siguen con el monitoreo de la revegetación en esas áreas con mucho éxito y una elevación en la
+biodiversidad en esas áreas en comparación a otros lugares cercanos y no afectados. Asimismo,
+el BID financió con una operación complementaria, que apoyó obras en el área del embalse, a
+fin de mejorar el manejo de la cuenca de Misicuni, y proveer de medios de subsistencia a las
+comunidades afectadas por el embalse (BO-L1053) – dicha operación fue ejecutada de forma
+exitosa.
+Un componente del proyecto no financiado por el BID, pero clave para la operación del proyecto,
+es el vertedero ubicado al lado de la presa Misicuni y el cual aún no ha sido finalizado. Esto dado
+a las fuertes lluvias, diferentes retrasos en las obras conectadas a la presa e instabilidad de los
+taludes que la bordean, la construcción del vertedero ha sufrido grandes retrasos y actualmente
+se estima que sea culminada a mediados de 2019. De igual manera, aún se encuentra en
+desarrollo y puesta en operación de un sistema de alerta para las comunidades ubicadas aguas
+abajo de la presa. El BID debe seguir con la supervisión del proyecto hasta que las tres cosas
+escritas arriba están corregidas.
+                                 III.    CRITERIOS NO CENTRALES
+3.1      Desempeño del Banco
+La gestión del Banco en la operación se desarrolló en dos etapas: en la preparación y aprobación
+del préstamo y seguimiento al desarrollo del proyecto. Las siguientes conclusiones provienen de
+conversaciones con el personal de la Unidad Ejecutora del Proyecto (UEP).
+4  Ver Anexo Técnico.
+                                                - 17 -
+"
+"El apoyo del Banco a ENDE durante la preparación y hasta la aprobación del préstamo del BID
+fue fundamental. El BID apoyó activamente con especialistas sectoriales y consultores en las
+áreas de economía, finanzas, medio ambiente, social y técnico. Cuando se comenzó con la
+preparación de la operación (2008) ENDE se encontraba en etapa de reorganización
+empresarial, por lo que no contaba con suficiente plantel de profesionales capacitados para
+preparar la operación. El Banco aprobó una cooperación técnica no reembolsable para la
+contratación de especialistas técnicos que apoyaron a ENDE, especialmente en las áreas
+técnicas, ambiental y social, y análisis económico. El equipo técnico del Banco. junto a los
+consultores, contribuyeron en la actualización de estudios técnicos, estudios de impacto
+ambiental y social, planes de gestión ambiental y social, preparación de pliegos de licitación y
+otros documentos necesarios para la presentación del proyecto en el Directorio del BID. El apoyo
+del Banco fue fundamental para alcanzar este hito.
+Durante el desarrollo del proyecto permanentemente el Banco colaboro y ofreció opciones ante
+situaciones que se presentaban a ENDE por parte de la ejecución del proyecto, velando la
+continuidad de la ejecución. Asimismo, ante las consultas efectuadas, el Banco respondió con
+prontitud, ofreciendo la posibilidad de contratar mediante cooperación técnica no reembolsable
+varios especialistas técnicos que coadyuve a la ejecución del proyecto.
+El rol del Banco fue esencial para el proyecto, no solo por el financiamiento otorgado sino por la
+flexibilidad y apoyo en las modificaciones de las modalidades de contratación, por ejemplo, el
+cambio de modalidad de contratación de llave en mano a múltiples contratos de obras y bienes.
+El apoyo del banco fue permanente, incluyendo acompañamiento técnico de sus especialistas y
+consultores durante todo el proceso de ejecución.
+3.2       Desempeño del Prestatario
+La unidad ejecutora del proyecto enfrentó desafíos para gestionar el proyecto especialmente en
+el comienzo de su ejecución, ya que ENDE estaba en pleno proceso de transformación con un
+plantel de recursos humanos en conformación y capacitación. La unidad se fue fortaleciendo con
+la incorporación y capacitación de personal, incluyendo el conocimiento sobre los requerimientos
+del BID en los procesos de adquisiciones y presentación de informes, entre otros. La rotación del
+personal también fue un desafío que tuvo que enfrentar la unidad ejecutora, ya que tuvo
+implicancias en la gestión del proyecto hasta que el nuevo personal se capacitara
+suficientemente. La experiencia de unidad ejecutora del proyecto fue muy positiva ya que sirvió
+de base para el desarrollo y consolidación de la gerencia de generación de ENDE.
+                                               - 18 -
+"
+"3.3       Calificación General
+                                                            Resumen
+           I. Efectividad en el Desarrollo - Criterios Centrales
+                        Calificación general recomendada:                        Parcialmente Exitoso
+                                                                                          Peso
+           1. Relevancia                                             4.00                 20%
+           2. Efectividad                                            2.00                 40%
+                   % de resultados alcanzados                       53.3%
+           3. Eficiencia                                             4.00                 20%
+           4. Sostenabilidad                                         4.00                 20%
+           II. Efectividad en el Desarrollo - Criterios No
+           Centrales
+           Desempeño Del Banco                                            Satisfactorio
+           Desempeño Del Prestatario                                      Satisfactorio
+La calificación general recomendaba por la lista de verificación del PCR es “Parcialmente
+Exitoso”; sin embargo, el equipo del proyecto considera que la calificación general final de la
+operación debe ser “Exitosa”. Dado que en el mes de octubre 2018 se ha alcanzado a generar
+19.5 GWh/mes5, resultado que si se extrapola a 12 meses alcanzaría a 234 GWh/año (vs 217
+GWh/año establecido como meta en la Matriz de Resultados).
+                                   IV.     HALLAZGOS Y RECOMENDACIONES
+  4.1     Dimensiones
+Diseño del proyecto: Las dimensiones que se desarrollaron abarcaron los aspectos: técnico y
+sectorial, organizativos y administrativos, así como dimensiones relacionadas con los procesos
+y actores públicos, y aspectos fiduciarios.
+5 Dato oficial del CNDC.
+                                                         - 19 -
+"
+"                                                                Tabla 4. Hallazgos y Recomendaciones
+                                    Hallazgos                                                                              Recomendaciones
+Dimensión 1: Técnico - Sectorial
+Hallazgo #1. El proyecto originalmente tenía previsto instalar una capacidad de
+generación de 80 MW (instalación de 40 MW x 2), y una fase siguiente para
+agregar otros 40 MW cuando se completen las obras de los túneles para los ríos        Recomendación #1. Cuando un proyecto está diseñado en fases puede ser
+Putucuni y Viscachas. Sin embargo, aprovechando una coyuntura que surgió              conveniente licitar solicitando opciones de oferta a los fines de aprovechar posibles
+durante la ejecución (declaración desierta de contrato llave en mano, la decisión     ventajas que podrían ofrecer los proveedores (en este caso se pidió una oferta por 2
+de dividir esta licitación en 4 paquetes, y recibir una oferta ventajosa para una     unidades de 40 MW y posteriormente otra oferta para una unidad adicional de 40 MW).
+unidad adicional de 40 MW) se decidió la incorporación de la tercera unidad para
+completar 120 MW.
+                                                                                      Recomendación #2. Las firmas supervisoras cumplen un rol clave en la ejecución de
+                                                                                      los proyectos de infraestructura, especialmente cuando se trata de monitorear y
+Hallazgo #2. La firma supervisora inicialmente contratada no se desempeñó a la        supervisar múltiples frentes de trabajo que requieren conocimiento y experiencia en
+altura necesaria considerando la magnitud y complejidad del proyecto. En              diversas disciplinas técnicas. En este proyecto fueron obras civiles subterráneas
+consecuencia, el contrato tuvo que ser rescindido y sustituido por otra firma         (túneles), obras civiles de superficie (casa de máquinas, embalse compensador),
+supervisora. La nueva firma contratada se desempeñó en forma adecuada                 equipamiento eléctrico y electromecánico, y obras hidráulicas (tubería de presión). Si la
+completando su labor en forma satisfactoria.                                          firma supervisora no puede cumplir con su trabajo en forma adecuada, es importante
+                                                                                      discutir y decidir su sustitución en forma oportuna para minimizar los impactos adversos
+                                                                                      en el proyecto.
+                                                                                      Recomendación #3. Es importante realizar consultas públicas previas a la ejecución de
+Hallazgo #3. Aunque no fueron significativos, el proyecto tuvo reclamos de las        los proyectos para socializar los posibles impactos ambientales y sociales, anticipando
+comunidades locales especialmente por temas sociales. Sin embargo, los                las medidas de mitigación que se tienen previsto tomar. Durante la ejecución es
+problemas fueron atendidos y solucionados en forma adecuada con el apoyo de           importante contar con un equipo especializado que pueda atender y resolver los
+los especialistas de la unidad ejecutora.                                             reclamos de las comunidades en forma adecuada y oportuna lo cual contribuirá a
+                                                                                      minimizar los potenciales conflictos y reclamos.
+Dimensión 3: Dimensiones Relacionadas con los Procesos/Actores Públicos
+                                                                                      Recomendación #4. En los proyectos complejos con múltiples ejecutores,
+Hallazgo #4. La ejecución de las obras de la central hidroeléctrica (financiada por   independientes uno del otro, es importante no escatimar esfuerzos en la coordinación,
+el Banco, a cargo de ENDE) y de la presa (no financiada por el Banco, a cargo de      incluyendo un fluido intercambio de información y frecuentes reuniones de coordinación.
+la Empresa Misicuni) tuvieron ritmos diferentes en sus avances, enfrentando cada      Este esfuerzo puede redundar en mutuo beneficio de los ejecutores, en especial porque
+una de ellas sus propios problemas en las distintas etapas de la construcción.        puede contribuir a identificar potenciales problemas en forma temprana y minimizar los
+                                                                                      impactos de los problemas a través de medidas consensuadas.
+Dimensión 4: Fiduciarias
+                                                                                    - 20 -
+"
+"Hallazgo #5. Este planteo inicial de utilizar un contrato llave en mano fue adecuado
+al momento de la estructuración e inicio de la operación ya que ENDE estaba en
+pleno proceso de transformación y fortalecimiento y no contaba con el personal         Recomendación #5. En caso de decidir por un contrato llave en mano es importante
+necesario para monitorear múltiples contratos. Sin embargo, los contratos llave en     discutir y analizar los riesgos que se trasladarán al contratista y los que asumirá el
+mano implican una fuerte responsabilidad para el contratista incluyendo pagos de       contratante, así como definir un nivel adecuado de las condiciones del pliego que se
+penalidades importantes por retrasos lo cual se reflejan en los precios ofrecidos.     vaya a licitar (temas técnicos, geológicos, socioambientales, entre otros) ya que de ello
+La oferta menor fue 70% superior al presupuesto disponible. Ante esta situación,       dependerán los precios de las ofertas. Asimismo, es necesario considerar el impacto
+se decidió abandonar el esquema llave en mano y se dividió en cuatro contratos.        que este tipo de contratos pueden tener en el presupuesto.
+ENDE fortaleció su unidad ejecutora y actualmente cuenta con una gerencia de
+generación bien capacitada.
+Hallazgo #6. El proyecto se completó con un sobrecosto del orden del 20% del
+presupuesto original (sin considerar la tercera unidad ya que está fue una
+ampliación de capacidad y no un sobrecosto). El sobrecosto incurrido, si bien
+significativo, se podría justificar por lo siguiente: a) El costo final resultó
+sustancialmente inferior al costo que hubiera resultado de aceptarse la mejor
+                                                                                       Recomendación #6. En los proyectos que se ejecutan a través de múltiples contratos
+oferta del contrato llave en mano (el sobrecosto hubiera sido superior al 70% al
+presupuesto inicial, o 50% sobre el costo efectivamente incurrido); y b) el desvío     es sumamente importante el fortalecimiento de la capacidad del equipo de la unidad
+incurrido se puede considerar razonable considerando la magnitud y naturaleza          ejecutora, especialmente del plantel técnico en cada una de sus especialidades, ya que
+de los problemas que tuvo que enfrentar el proyecto muchas de ellas no                 su intervención oportuna es clave para identificar en forma temprana los potenciales
+atribuibles a la gestión del proyecto. Los sobrecostos se debieron                     problemas, reducir los retrasos en los cronogramas de cada uno de los contratos, y por
+fundamentalmente a los retrasos en el avance de los distintos componentes del          consiguiente los eventuales sobrecostos de los proyectos.
+proyecto que fueron afectando el cronograma integral tales como los que
+surgieron de la declaratoria de insolvencia del proveedor de los equipos,
+problemas geológicos identificados en la excavación del túnel, los problemas que
+fueron surgiendo durante el montaje de la tubería de presión y la decisión de
+sustituir a la firma supervisora.
+                                                                                     - 21 -
+"

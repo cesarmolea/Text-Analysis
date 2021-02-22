@@ -1,0 +1,1529 @@
+"outlist[[i]]"
+"                                                                          DESEMBOLSOS REALES
+  NO.   PMR FECHA             ETAPA DE PCR          CALIFICACIÓN
+                                                                                  (USD)
+  1     ENE-DIC-2013          POSTERIOR A ELEG     SATISFACTORIO                          400,000
+  2     ENE-DIC-2014          POSTERIOR A ELEG     SATISFACTORIO                        1,918,181
+  3     ENE-DIC-2015          POSTERIOR A ELEG     SATISFACTORIO                        1,969,933
+  4     ENE-DIC-2016          POSTERIOR A ELEG     SATISFACTORIO                        2,452,061
+  5     ENE-DIC-2017          POSTERIOR A ELEG     SATISFACTORIO                        1,259,825
+                                                                                        8,000,000
+METODOLOGÍA DE ANÁLISIS ECONÓMICO EX POST: ANÁLISIS COSTO-BENEFICIO (ACB). LA METODOLOGÍA DEL
+ACB SE FOCALIZA EN EL AUMENTO DE LOS BENEFICIOS DE AQUELLAS EMPRESAS SOBREVIVIENTES APOYADAS
+MEDIANTE LAS AYUDAS FINANCIERAS DEL PROGRAMA. EL ACB NO INCORPORA EXTERNALIDADES NI ASUME
+EFECTO ALGUNO SOBRE LA TASA DE SOBREVIVENCIA DE LAS EMPRESAS LA QUE SE ASUME IGUAL CON Y SIN
+PROGRAMA. EL PRINCIPAL BENEFICIO DEL PROGRAMA ES EL CRECIMIENTO DIFERENCIAL DE LOS BENEFICIOS DE
+LAS EMPRESAS SOBREVIVIENTES CON RESPECTO AL GRUPO DE CONTROL. ESTE BENEFICIO DIFERENCIAL SE
+ENCUENTRA ANCLADO EN LOS RESULTADOS DE LA EVALUACIÓN DE IMPACTO
+METODOLOGÍA DE EVALUACIÓN EX POST: DIFERENCIA EN DIFERENCIA CON EMPAREJAMIENTO ESTADÍSTICO. LA
+EI SE BASA SOBRE AQUELLAS EMPRESAS QUE CONSTITUYEN LAS TRES PRIMERAS COHORTES DEL PROGRAMA
+(2013-2015) Y QUE POR ENDE YA HABÍAN CONCLUIDO CON SUS PROYECTOS DE INVERSIÓN APOYADOS. PARA
+ESTAS EMPRESAS SE OBTUVO UN GRUPO DE CONTROL DE EMPRESAS NO APOYADAS IDÉNTICAS EN LA LÍNEA BASE
+(2013) MEDIANTE EMPAREJAMIENTO ESTADÍSTICO. LUEGO LOS PRINCIPALES INDICADORES DE IMPACTO FUERON
+EL CRECIMIENTO DE LAS INVERSIONES EN INNOVACIÓN, LAS VENTAS Y EL EMPLEO DE LAS EMPRESAS DE AMBOS
+GRUPOS ENTRE 2015-2013. LA MUESTRA DE CONTROLES FUE PONDERADA POR EL RESPECTIVO PS.
+CLASIFICACIÓN DE EFECTIVIDAD DE DESARROLLO: ALTAMENTE EXITOSO
+PERSONAL DEL BANCO
+  POSICIONES                                EN PCR                    EN LA APROBACIÓN
+  VICEPRESIDENTE VPS                 ANA MARIA RODRIGUEZ                SANTIAGO LEVY
+  VICEPRESIDENTE VPC                  ALEXANDRE DA ROSA               ROBERTO VELLUTINI
+  GERENTE DE PAÍS                       JOSE LUIS LUPPO                JOSE LUIS KUPPO
+  GERENTE SECTORIAL                      JUAN KETTERER               ANA MARIA RODRIGUEZ
+  JEFE DE DIVISIÓN                       GONZALO RIVAS                  FLORA PAINTER
+  REPRESENTANTE DE PAÍS                  MORGAN DOYLE                    TRACY BETTS
+  JEDE DE EQUIPO DEL PROYECTO           GUSTAVO CRESPI                 PABLO ANGELELLI
+  JEFE DE EQUIPO DEL PCR                GUSTAVO CRESPI                 PABLO ANGELELLI
+TIEMPO Y COSTO DEL PERSONAL
+                                                                   USD (INCLUIDOS LOS GASTOS DE
+  CICLO DE PROYECTO DE ETAPA        # DE SEMANAS DE PERSONAL
+                                                                         VIAJE Y ASESORÍA)
+  PREPARACIÓN                                  28,47                        149.593,64
+  SUPERVISIÓN                                  66,51                        359.164,24
+  TOTAL                                        94,98                        508.757,88
+DECLARACIÓN DE LOS OBJETIVOS DE DESARROLLO DEL PROYECTO / PROGRAMA:
+EL OBJETIVO GENERAL DEL PROGRAMA ES CONTRIBUIR A INCREMENTAR LA INVERSIÓN PRIVADA EN ACTIVIDADES
+DE INNOVACIÓN. EL OBJETIVO ESPECÍFICO ES AUMENTAR LA CANTIDAD DE NUEVOS EMPRENDIMIENTOS
+INNOVADORES Y EXITOSOS EN URUGUAY.
+                                                 v
+"
+"I.       RESUMEN EJECUTIVO
+El Programa de Apoyo a Futuros Empresarios (PAFE) (UR-L1071;2775/OC-UR) fue el primer
+programa financiado por el BID, con garantía soberana, que buscaba estimular el desarrollo del
+emprendimiento innovador en un país de la región. El mismo construye sobre un conjunto de
+iniciativas piloto previas financiadas por el FOMIN en Uruguay desde el 2001, como también
+líneas piloto de capital semilla ejecutadas por la Agencia Nacional de Investigación e Innovación
+(ANII) desde el 2008 en el marco del Programa de Desarrollo Tecnológico II
+(UR-L1030;2004/OC-UR). Sobre la base de esta experiencia previa, hacia el 2012 era claro que
+el ecosistema de emprendimiento innovador del Uruguay se encontraba rezagado respecto a
+otros países de la región y que ese rezago se debía no tanto a factores de entorno tales como el
+marco legal del país, su infraestructura o el ambiente macroeconómico, sino a factores
+específicos que hacían al desarrollo del ecosistema y que impactaban tanto en una baja cultura
+pro emprendimiento innovador como también en la existencia de una serie de carencias en las
+capacidades del ecosistema para proveer tanto de servicios financieros como no financieros a
+los nuevos emprendimientos. Es decir, el ecosistema se encontraba hacia el 2012 en una
+situación de “equilibrio malo” generado por un problema de coordinación entre la oferta y
+demanda de servicios (financieros y no financieros) de desarrollo del ecosistema, característica
+de mercados poco profundos (“Thin Markets”, Mordezki, 2012).
+En este contexto, hacia el 2012 las autoridades comenzaron a cuestionarse la necesidad de
+contar con un programa que atendiese las necesidades de desarrollo del ecosistema
+emprendedor innovador en forma más integral. Sobre esta base, el Ministerio de Economía y
+Finanzas (MEF) solicitó apoyo al BID para el financiamiento de un programa, destinado a
+incrementar la inversión en innovación en nuevas empresas mediante acciones de estímulo a la
+cultura del emprendimiento por oportunidad, la creación de una plataforma nacional de
+incubación de emprendimientos gestionada por el sector privado, el fortalecimiento de las líneas
+de financiamiento semilla, el desarrollo de redes de inversionistas ángeles y la atracción de
+emprendedores del exterior. El Programa, que se alineaba con las prioridades del Banco, tanto
+en términos de Estrategia País como de Marco Sectorial Corporativo, fue aprobado en
+septiembre del 2012 y declarado elegible en marzo del 2013.
+El Programa fue implementado entre 2013 y fines de 2017, de manera satisfactoria y en los
+plazos originalmente previstos, superó el impacto previsto en materia de crecimiento de la
+inversión en innovación en empresas nuevas y superó las metas de resultados en 4 de los 5
+indicadores de resultados previstos. Solamente en el caso de un indicador de resultados la meta
+no fue alcanzada. El logro de estos resultados, que el análisis de efectividad muestra que pueden
+atribuirse total o parcialmente al programa, implicó también que la inversión en el programa fue
+eficiente tal como lo demuestra el análisis costo-beneficio ex post realizado a partir de los niveles
+de ejecución alcanzados.
+También se generaron lecciones aprendidas en términos del diseño e implementación de
+programas de apoyo al emprendimiento innovador las cuales se han internalizado en la nueva
+operación Programa de Innovación Empresarial y Emprendimiento (PIIE) – UR-L1142;
+4329/OC-UR-, aprobada en octubre del 2017 y que reforma, da sostenibilidad y expande la
+cobertura de las acciones del PAFE. Uruguay presenta en el 2018 un ecosistema de
+emprendimiento innovador más desarrollado con unas 6 incubadores de nuevas empresas, las
+que generan un flujo de 100 nuevas ideas de negocio con potencial innovador por año, con
+4 fondos de inversión ángel en operación y unas 65 organizaciones intermedias con acciones
+específicas de estímulo a la cultura emprendedora.
+                                                  1
+"
+"II.       INTRODUCCIÓN
+El Programa de Apoyo a Futuros Empresarios (PAFE) (UR-L1071; 2775/OC-UR), fue diseñado
+en el año 2012 para fortalecer la promoción del emprendimiento como parte de las políticas de
+apoyo a la innovación, dando continuidad al soporte del Banco a las nuevas herramientas de la
+Agencia Nacional de Investigación e Innovación (ANII). ANII es una persona jurídica de derecho
+público no estatal creada por Ley 18.084 en el año 2008. Tiene por misión ejecutar los
+lineamientos político-estratégicos del Estado en materia de investigación e innovación
+promoviendo, articulando y fortaleciendo las capacidades del Sistema Nacional de Innovación
+(SNI). ANII está gobernada por un directorio de cinco miembros que representan al sector
+público, a la academia y al sector productivo, uno de los cuales actúa como presidente. La
+Gerencia General de ANII está a cargo de un Secretario Ejecutivo que reporta al Directorio, y
+debajo del cual funcionan dos áreas gerenciales (operaciones y administración y finanzas) y
+cuatro unidades transversales (tecnologías de información, evaluación y monitoreo, cooperación
+y comunicación). ANII tiene un equipo de 60 profesionales permanentes, un presupuesto anual
+de US$40 millones y una ejecución del 94%1. Al momento del diseño del PAFE, ANII contaba
+con un presupuesto de US$28,5 millones con una ejecución del 84%.
+Tal como lo demuestra la evidencia acumulada tanto en países desarrollados como en vías de
+desarrollo (GEDI, 2016), la creación de nuevas empresas, o actividad emprendedora, es
+importante para la innovación, la competitividad y el crecimiento de los países, y requiere de
+acciones de promoción específicas en el marco de sus políticas públicas de apoyo a la
+innovación. Estas acciones buscan dar respuesta a fallas de mercado que impiden o reducen la
+disposición de las personas y las empresas para invertir en nuevos emprendimientos (BID, 2014).
+Para el caso de Uruguay, si bien se venían implementando acciones de fomento al
+emprendedurismo desde hacía más de una década con apoyo del BID2, al momento del diseño
+del PAFE la actividad emprendedora presentaba problemas de cantidad y de calidad. En
+términos de cantidad, el Global Entrepreneurship Monitor (GEM), situaba al país en una fase de
+desarrollo basada en la eficiencia, con una posición intermedia de actividad emprendedora3
+(definida como el porcentaje de personas adultas que son emprendedoras o dueñas-gerentes de
+nuevos negocios). En lo que respecta a la calidad, los problemas principales se situaban con
+relación al crecimiento, internacionalización e innovación empresariales, presentando Uruguay
+valores significativamente menores a otros países de la región, como muestra el siguiente
+cuadro:
+1 El Banco ha trabajado intensamente con ANII desde su creación. En efecto, desde 2009 la agencia ha ejecutado los
+programas          PDT-II       (UR-L1030;       2004/OC-UR);        PAFE      (UR-L1071;        2775/OC-UR);         IDP
+(UR- L1096;3315/OC- UR;3316/CH-UR) y PIIE (UR-L1142, 4329/OC-UR). Los dos últimos en ejecución. ANII es
+actualmente la agencia de innovación de referencia de la región y preside la Red Latinoamericana de Agencias de
+Innovación (ReLAI) apoyada por el Banco a través del Bien Publico Regional (RG-T3310).
+2 Las dos acciones más relevantes fueron la creación de la incubadora Ingenio en 2001, la primera incubadora del
+país (ATN/ME-7423-UR) y el Programa Emprender (ATN/ME-10146-UR), que crea la Red y el Fondo Emprender en
+2006. Posteriormente se destaca el Programa de Desarrollo Tecnológico II (UR-L1030;2004/OC-UR) que implementó
+a nivel piloto un programa de capital semilla denominado Emprendedores Innovadores. Ver más detalle en sección
+I.A de la Propuesta de Préstamo aprobada.
+3 Porter et al., (2002) clasifica a los países según tres posibles fases de desarrollo, basados en: factores, eficiencia e
+innovación.
+                                                             2
+"
+"              Figura II-1 Indicadores de emprendimiento (Año 2011 o último disponible al diseño)
+  Indicador                                                             Uruguay     Chile    Colombia        Perú
+  Porcentaje de la población de 18 a 64 años que es
+  emprendedor/a o dueño/a-gerente/a de un nuevo negocio                   16.7       23.7       21.4         22.9
+  (Tasa de Emprendimiento Anual – TEA).
+  Porcentaje de la TEA que espera emplear al menos 5
+                                                                          31.0       40.0       46.0         26.0
+  personas en el futuro.
+  Porcentaje de la TEA que indica que sus productos o
+                                                                          30.0       90.0       72.0         79.0
+  servicios son nuevos al menos para algunos de sus clientes.
+                              Fuente: GEM, disponible en www.gemconsortium.org
+También se identificaban otros problemas de calidad de la actividad emprendedora, como ser el
+hecho de que solo el 3% de las empresas tenía más de 20 empleados lo cual indicaba que la
+mayoría de las empresas no lograba transformarse en firmas de mediana escala, o la existencia
+de una débil conducta innovadora manifestada en una inversión en innovación del 1,6% de las
+ventas en las empresas uruguayas, versus cifras entre 3,6 y 5,6% en países europeos como
+Francia o Suecia (Ver Propuesta de Préstamo aprobada, párrafo 1.4).
+En este contexto, el Programa se propuso contribuir a incrementar la inversión privada en
+actividades de innovación4 en nuevas empresas, y aumentar la cantidad de nuevos
+emprendimientos innovadores y exitosos en Uruguay. De esta forma se esperaba dar respuesta
+a algunos de los factores específicos que se sabe afectan la cantidad y la calidad de los nuevos
+emprendimientos en una economía, y que habían sido identificados como débiles en el país,
+entre ellos: valores culturales, falta de servicios especializados de entrenamiento y apoyo al
+emprendimiento, falta de financiamiento para nuevas empresas, y débiles redes de inversionistas
+ángeles. En este sentido, las acciones del Programa se organizaron en los siguientes
+componentes:
+Componente 1. Apoyo a la cultura de emprendimiento (US$1,0 millones). El objetivo del
+componente fue fomentar la cultura emprendedora, la coordinación y especialización de la Red
+de Apoyo a Futuros Empresarios (RAFE, ex Red Emprender) y la instalación a mediano plazo de
+una política de emprendimiento. A través de este componente se previó financiar: (i) acciones de
+sensibilización y comunicación para dar a conocer el programa y para despertar vocaciones
+emprendedoras; (ii) proyectos de fomento y apoyo a potenciales emprendedores, a llevar a cabo
+por las instituciones de la RAFE; (iii) la elaboración de un plan de acción integral que en función
+de las lecciones aprendidas en el programa ayude a instalar a mediano plazo una política de
+emprendimiento; y (iv) servicios de consultoría para gestionar la RAFE.
+Componente 2. Apoyo al desarrollo inicial de emprendimientos (US$6,6 millones). El
+objetivo del componente fue fortalecer las capacidades de apoyo y financiamiento de nuevos
+emprendimientos. A través de este componente se previó financiar las siguientes actividades:
+(i) la generación y fortalecimiento de capacidades de incubación; (ii) la atracción de
+emprendedores hacia Uruguay; (iii) la entrega de aportes no reembolsables para hacer viable y
+acelerar el desarrollo inicial de nuevas empresas; y (iv) aportes no reembolsables a instituciones
+dedicadas a movilizar financiamiento privado y proveer apoyo experto a nuevas empresas.
+4 Por inversión en actividades de innovación se refiere a los presupuestos que las empresas dedican a llevar a cabo
+actividades de investigación y desarrollo (tanto internas como internas), la adquisición de software y hardware,
+equipamiento, entrenamiento y capacitación y la adquisición de licencias y know-how orientadas a la introducción de
+un nuevo o significativamente mejorado producto, proceso productivo, modelo organizacional o de mercadeo en el
+mercado (OCDE, 1997).
+                                                           3
+"
+"En términos operativos, la propuesta de préstamo fue aprobada en setiembre de 2012 por el
+Directorio del Banco, el contrato de préstamo fue firmado en diciembre del mismo año, y la
+operación fue declarada elegible en marzo de 2013 gracias a la eficiencia y compromiso de una
+Unidad Ejecutora (UE) con vasta experiencia de trabajo con organismos multilaterales incluido el
+BID. El programa se ejecutó en un periodo de 64 meses tal como estaba establecido en el diseño,
+sin requerir extensiones de ningún tipo. Al mismo tiempo, las calificaciones del Banco al
+desempeño del programa durante la fase de ejecución resultaron ser siempre satisfactorias.
+III.     CRITERIOS CENTRALES. DESEMPEÑO DEL PROYECTO
+3.1      Relevancia
+El programa posee una clara relevancia tanto interna como externa en la medida en que – como
+se detalla en las siguientes secciones – se alinea adecuadamente a las necesidades y
+prioridades de desarrollo del país al momento del diseño; y posee una lógica vertical sólida que
+plantea respuestas pertinentes a los problemas identificados.
+                  a. Alineación con las necesidades de desarrollo del país
+A pesar de la importancia de los ecosistemas de emprendimiento como dinamizadores de los
+procesos de crecimiento, al momento del diseño del programa este ecosistema en el caso de
+Uruguay se encontraba en una fase embrionaria5. En efecto, tal como se desprende de la Figura
+I-1, el desarrollo de este ecosistema se encontraba rezagado con respecto a otros países de la
+región. Al mismo tiempo otra característica de Uruguay era que las empresas que al final lograban
+establecerse mostraban una muy baja inversión en innovación.
+En términos generales, los factores que afectan la cantidad y calidad de los nuevos
+emprendimientos de una economía pueden agruparse entre tres grandes categorías: (i) básicos,
+tales como la calidad de las instituciones, la estabilidad macroeconómica, la educación y la
+infraestructura; (ii) potenciadores, que incluyen el funcionamiento de los mercados de bienes,
+trabajo y financieros así como la calidad de la educación técnica y superior y (iii) específicos,
+que incluyen entre otros valores culturales; servicios especializados de entrenamiento y
+disponibilidad de financiamiento para nuevas empresas6.
+Al momento del diseño del programa, Uruguay mostraba un buen desempeño macroeconómico,
+con bajo desempleo y se ubicaba, según diversos indicadores internacionales, entre los dos
+mejores países de la región en términos de las fortalezas de sus instituciones públicas y el
+respeto de la ley. Al mismo tiempo mostraba mejoras importantes en indicadores relacionados al
+funcionamiento de sus mercados y la apertura de negocios (Doing Business 2012). Dado esto el
+programa se focalizó en aquellos condicionantes específicos del ecosistema emprendedor.
+Los desafíos mencionados en materia de la falta de una masa crítica de empresas innovadoras
+aparecían al momento del diseño ya recogidos entre las prioridades de la política pública. En
+particular, en el Plan Estratégico Nacional de Ciencia, Tecnología e Innovación (PENCTI),
+aprobado en el 2010, se planteaba como uno de sus objetivos es incrementar la competitividad
+de los sectores productivos en el escenario de la globalización indicando como sub-objetivos:
+(i) contribuir a transformar la estructura productiva vía la diversificación y el valor agregado; y
+(ii) estimular la innovación en PyMES insertas en clústeres dinámicos.
+En respuesta a estas problemáticas, el programa proveyó continuidad y consolidó intervenciones
+previas del Banco de apoyo al ecosistema emprendedor del Uruguay incorporando un conjunto
+5 Thurikm R, and S. Wennekere (2004): Entrepreneurship, small business and economic growth, Journal of Small
+  Business Enterprise Development, 11(1): 140-140.
+6 Ver Propuesta de Préstamo, párrafo 1.5 y ss.
+                                                    4
+"
+"de lecciones generadas a partir de una serie de programas piloto previamente financiados por el
+Fondo Multilateral de Inversiones (FOMIN) y el mismo BID. Desde comienzos de la década
+pasada el Banco había apoyado varias iniciativas de fomento al emprendimiento en Uruguay a
+través de FOMIN. Las dos más relevantes fueron la creación de la incubadora Ingenio en 2001,
+la primera incubadora del país (ATN/ME-7423-UR), con foco en empresas de software, y el
+Programa Emprender (ATN/ME-10146-UR), que crea la Red y el Fondo Emprender en 2006, el
+cual fue el primer intento de crear un fondo de capital de riesgo orientado a las etapas tempranas
+de nuevas empresas innovadoras, sin embargo su desarrollo estuvo fuertemente obstaculizado
+por la falta de un flujo mínimo de nuevas empresas innovadoras en condiciones de recibir
+financiamiento.
+Como respuesta a esta situación el Programa de Desarrollo Tecnológico II (UR-L1030;
+2004/OC-UR), iniciado en 2009, implementó a nivel piloto la primera línea de apoyo semilla a
+emprendedores innovadores en el marco de ANII. En el periodo 2009-2013 se financiaron 70
+nuevas empresas. Una evaluación de impacto de las empresas apoyadas por este programa,
+usando técnicas cuasi experimentales, encontró que el apoyo “aumenta la inversión en
+innovación neta del valor pagado por la ANII” (ANII, 2015) (Impactos en los Instrumentos de
+Promoción de la Innovación Empresarial: La experiencia de ANII en Uruguay). Otra evaluación
+relacionada mostró que si bien la intervención fue efectiva en inducir el surgimiento y
+supervivencia de nuevas empresas innovadoras, no lo fue para estimular su crecimiento
+identificando una brecha de financiamiento temprano para estas empresas (BID, 2016)
+(Evaluación del Programa de Jóvenes Emprendedores (ANII)), como así también se identificaron
+falencias respecto a la red de servicios de apoyo a nuevas empresas la cual seguía constituida
+por una sola incubadora focalizada en empresas de software (Ingenio). El programa también
+internalizó en su diseño las lecciones de estas intervenciones previas y construyó sobre este
+aprendizaje.
+                b. Alineación estratégica
+El programa se encuentra alineado con la Estrategia de país con Uruguay 2011-2015 (EBP -
+GN-2626 ), específicamente con los objetivos del área de trabajo del sector ciencia y tecnología
+asociados con la promoción de la inversión privada en I+D y la creación de centros regionales
+para atender necesidades de servicios técnicos de las empresas (ver 3.13.i y 3.13.iv), y está
+incluido en el Informe sobre el Programa de Operaciones de 2012 (GN-2661-4), en el cual se
+destaca su contribución a las metas del GCI-9 asociadas con países pequeños y vulnerables y
+financiamiento de micro, pequeña y mediana empresa productiva.
+El programa se encuentra alineado con la nueva Estrategia del BID con Uruguay
+(2016-2020) (GN-2836) bajo el área estratégica de fomento a la innovación y el objetivo
+estratégico de promover la innovación empresarial. También está alineado con la Actualización
+de la Estrategia Institucional (2010-2020) (AB-3008) con el desafío de aumento de la
+productividad e innovación. El programa se encuentra alineado con los indicadores del Marco de
+Resultados Corporativo (CRF) 2016-2019 (GN-2727-6) de micro, pequeñas y medianas
+empresas financiadas y micro, pequeñas y medianas empresas con apoyo no financiero.
+Finalmente, se enmarca en los lineamientos del Marco Sectorial de Innovación, Ciencia y
+Tecnología (GN-2791-3) y está alineada con el área prioritaria de la Estrategia Sectorial sobre
+las Instituciones para el Crecimiento y el Bienestar Social (GN-2587-2) referida a fortalecimiento
+de las capacidades institucionales para implementar políticas de innovación.
+                c. Relevancia del diseño
+La lógica vertical del programa se amparaba en el diagnóstico realizado focalizando en aquellos
+factores específicos que afectaban el desarrollo del ecosistema emprendedor innovador en
+Uruguay. En particular el programa planteaba intervenir en dos líneas: (a) mejorar la cultura de
+                                                 5
+"
+"emprendimiento en el país y (b) perfeccionar los esquemas de apoyo al desarrollo inicial del
+emprendimiento. Estas dos líneas de acción se justificaban en base al siguiente diagnóstico:
+En materia de valores culturales dos estudios del Banco de principio de la década pasada
+señalaban que la escasa valoración social de los empresarios - ya sea en términos de estatus
+social, ser una opción de carrera deseable o simplemente presencia en los medios de
+comunicación - era una de las barreras para una mayor actividad emprendedora7. Si bien este
+escenario había empezado a cambiar como consecuencia de las intervenciones del FOMIN
+arriba mencionadas, al momento del diseño los indicadores del GEM todavía mostraban brechas
+significativas con respecto a otros países de la región. Para abordar estos desafíos el programa
+planteó una serie de productos y actividades relacionadas con la realización de talleres de
+sensibilización y capacitación de interesados en emprender, talleres de ideación, concursos de
+ideas y planes de negocios, etc.
+En materia del perfeccionamiento de los esquemas de apoyo al desarrollo inicial de
+emprendimientos, es parte del argumento que en sus etapas iniciales una nueva empresa
+enfrenta no solamente problemas de acceso al financiamiento para diseñar y probar prototipos
+sino también que requiere de un conjunto de servicios de apoyo no financieros de calidad tales
+como capacitación, mentoría y consultoría. En los estadios embrionarios del ecosistema
+emprendedor esta oferta de servicios está muy subdesarrollada y por ende se genera una
+fenomenal falla de coordinación (BID, 2014). En el momento del diseño del programa existían
+unas 15 organizaciones orientadas a la provisión de estos servicios en Uruguay nucleadas en la
+Red Emprender. Sin embargo, un análisis demostraba que el 70% de estas organizaciones se
+focalizaban en las actividades más tempranas de la cadena de valor de apoyo al emprendimiento
+(capacitación, ideación) y prácticamente ninguna de ellas tenía capacidades para atender las
+fases de puesta en marcha y crecimiento inicial de las empresas (incubación, mentorías, etc).
+Esto generaba un cuello de botella entre la generación de ideas y su posterior incubación,
+solamente muy pocas ideas podían incubarse debido al bajo de desarrollo de la cadena en esta
+etapa.
+Sin embargo, el diseño también identificaba otras limitaciones adicionales a las antes
+mencionadas. En primer lugar, el ecosistema uruguayo, aun en esta etapa inicial, era demasiado
+cerrado en el sentido que tenía pocas vinculaciones con organizaciones y potenciales
+emprendedores de otros países. Esta limitación resultaba ser particularmente grave teniendo en
+cuenta que el reducido tamaño del país conspiraba contra la generación de un flujo suficiente de
+proyectos que generase interés por fondos de inversión (junto con el acceso a financiamiento y
+al capital humano, el reducido tamaño del mercado es una de las restricciones más importante
+al comportamiento innovador de las empresas, EAI 2012). En particular, el país tiene una
+diáspora importante de uruguayos calificados en el exterior en países desarrollados tales como
+Estados Unidos, España, Francia e Israel a los cuales se podría atraer para que escalen sus
+empresas en el país. Por otro lado, la falta de inversores en etapa temprana, sobre todo en la
+fase semilla, tal como lo demuestra la experiencia del Fondo Emprender, requiere en estas
+etapas iniciales del financiamiento público para complementar el esfuerzo privado de inversión
+de los emprendedores y redes de inversionistas ángeles. Para abordar estos desafíos el
+programa planteó el despliegue de una red de servicios de incubación, acompañada por una
+línea de financiamiento semilla y el apoyo a la gestión de redes de inversionistas ángeles
+focalizadas en etapas tempranas. El despliegue de estos servicios también debería alcanzar el
+interior del país ya que otro desbalance del ecosistema al momento del diseño era la
+concentración de casi la totalidad de sus actores en Montevideo.
+7 BID (2004). Nota temática de competitividad de Uruguay. Kanits, H (2005), Empresarialidad y contexto emprendedor
+  en Uruguay.
+                                                        6
+"
+"La Figura 1, describe la Lógica vertical del diseño. En primer lugar, el programa se planteó
+financiar hasta 40 proyectos de fomento presentados por instituciones de la RAFE (ex Red
+Emprender) (financiando actividades tales como eventos de concientización, concursos de
+ideación, planes de negocios, etc.). En este contexto también se buscó capacitar y sensibilizar
+en emprendimiento a unas 10.000 personas y fomentar el trabajo colaborativo de las instituciones
+de la Red. Con estas actividades se buscaba incrementar la tasa de actividad emprendedora de
+la economía en términos de la creación de nuevas empresas por oportunidad, el aumento de la
+tasa de actividad emprendedora de mujeres donde el país enfrentaba un déficit importante y una
+mejora en la percepción social sobre la carrera del emprendedor como algo deseable de seguir.
+En forma paralela el programa planteó el despliegue de servicios de incubación a partir de la
+instalación de 2 incubadoras multipropósitos (Sinergia, y Da Vinci), 2 incubadoras en foco en
+emprendimientos bio-tecnológicos (Biospinn y Kehlm8) y 1 incubadora multipropósito en el
+interior del país (Gepian9). Las que se deberían sumar a la incubadora Ingenio, especializada en
+software. Estas organizaciones deberían incubar por lo menos 82 startups. Al mismo tiempo el
+programa se planteó atraer 20 emprendedores del exterior, apoyar con capital semilla la puesta
+en marcha de 108 proyectos y apoyar a la gestión de dos fondos de inversión. Mediante estas
+intervenciones se buscaba generar por lo menos 50 nuevas empresas exitosas y al mismo tiempo
+apalancar inversión privada adicional de por lo menos US$1 millón de dólares a las empresas
+apoyadas. Finalmente, estos resultados deberían tener como impacto un aumento en un 5% en
+la inversión en innovación por parte de empresas jóvenes.
+8 Localizada en el departamento de Canelones.
+9 Localizada en el departamento de Salto.
+                                                7
+"
+"                                        Figura 1. Lógica Vertical del Diseño
+                                                                                                 Impacto
+                                                              Resultados
+          Productos / Actividades                                                          (Indicadores de
+                                                    (indicadores de resultados)
+                                                                                                impacto)
+                                                      #1 – Apoyo a la cultura de
+                                                            emprendimiento
+                                                  Porcentaje de la población de 18
+        40 proyectos de fomento del                       a 64 años que está
+     emprendimiento financiados a las                 emprendiendo o es dueño-
+       instituciones de la Red RAFE.              gerente de un nuevo negocio por
+                                                  oportunidad incrementado en un
+                                                                  5%.
+                                                     Porcentaje de mujeres en la
+     10.000 personas sensibilizadas y              población de 18 y 64 años que
+        capacitadas para emprender.                está emprendiendo o es dueño
+                                                    gerente de un nuevo negocio
+                                                       incrementado en un 5%.
+                                                                                              Mejora de la
+                                                  Porcentaje de la población entre            inversión en
+                                                  18 y 64 años que considera que             innovación en
+        5 reuniones de la Red RAFE                   el emprendedurismo es una           empresas de menos
+                  realizadas.                        opción de carrera deseable                de 5 años.
+                                                       incrementado en un 5%.
+                                                                                            Inversión anual
+                                                                                           declarada por las
+                                                                                         empresas en la EAI
+                                                   #2 – Apoyo al desarrollo inicial              de ANII,
+                                                         de emprendimientos              incrementada en un
+                                                                                                   5%
+  82 empresas admitidas en incubadoras
+         apoyadas por el programa.
+                                                    50 nuevas empresas exitosas
+    20 proyectos de emprendedores del               creadas y/o aceleradas por el
+   exterior apoyados para su instalación                       programa.
+                 en Uruguay.
+                                                     USD 1.000.000 de Inversión
+   108 proyectos de puesta en marcha y                 privada movilizada por el
+    despegue empresarial financiados.                       programa hacia
+                                                           emprendimientos.
+   2 proyectos de apoyo a la gestión de
+      fondos de inversión financiados.
+                          Fuente: Elaboración propia a partir de documentos del Programa
+Es decir, cambios a nivel de cultura emprendedora estimulados por las actividades del
+componente 1 deberían generar un aumento en la demanda por ideas de emprendimiento
+innovador, las cuales, luego del proceso de selección respectivo, debería ser apoyadas por los
+servicios de financiamiento e incubación desplegados por el componente 2. Siendo el impacto
+final un aumento en la inversión en innovación por parte de empresas menores a 5 años. A partir
+de esta lógica, el programa procuró incidir, como consecuencia de sus intervenciones, en las
+cifras a nivel nacional relacionadas al desarrollo de la cultura del emprendimiento, y al incremento
+                                                            8
+"
+"de la actividad emprendedora, mediante los indicadores de resultado que se detallan en la tabla
+1.
+La tabla describe la línea de base y metas planificadas de la matriz de resultados tanto en el
+momento del diseño como luego de los 60 días posteriores a la elegibilidad como también al
+término del proyecto. Previo al inicio de la ejecución del programa, y en el marco de las
+actividades de apoyo al arranque, se realizó una revisión de la Matriz de Resultados no
+realizándose cambios en ese momento. En el enlace obligatorio 2 (y en el enlace opcional 1) se
+muestran los cambios realizados entre la matriz aprobada con la propuesta de préstamo y la
+vigente en el Progress Monitoring Report (PMR) final. Cabe mencionar que en ningún caso se
+modificaron las variables de análisis de los indicadores de resultados, los cambios a la matriz se
+hicieron a nivel de algunos productos y al avance financiero, en la mayoría de los casos debido
+a errores menores tanto en el reporte del organismo ejecutor como en la carga de la información
+reportada por parte de los equipos del banco.
+                                                  9
+"
+"                      Tabla 1. Matriz de resultados (aprobación @, 60 días después de alcanzar la elegibilidad y @ exit)
+                                                                   En aprobación             En elegibilidad + 60 días    Al terminar el proyecto (PCR)
+Indicadores                                                 Unidad     Línea               Unidad                          Unidad      Línea             Comentarios
+                                                                                  Meta                Línea        Meta                           Meta
+                                                              de         de                  de                               de          de
+                                                                                   (P)               de Base        (P)                             (P)
+                                                            Medida     Base                Medida                          Medida      Base
+Objetivo de Desarrollo: Contribuir a incrementar la inversión privada en actividades de innovación
+Impactos
+Inversión en innovación en empresas de menos de 5            Miles     1.009.    1.059.     Miles     1.009.      1.059.  Miles de     1.009.    1.059.7     Sin
+años.                                                        de $       300       765       de $        300        765         $         300        65    comentarios
+Resultado # 1 - Apoyo a la cultura de emprendimiento.
+1. Porcentaje de la población de 18 a 64 años que
+                                                                                                                                                             Sin
+está emprendiendo o es dueño-gerente de un nuevo              %         8.72      9.15       %         8.72        9.15       %         8.72       9.15
+                                                                                                                                                          comentarios
+negocio por oportunidad.
+2. Porcentaje de mujeres en la población de 18 y 64
+                                                                                                                                                             Sin
+años que está emprendiendo o es dueño gerente de              %         8.12      8.52       %         8.12        8.52       %         8.12       8.52
+                                                                                                                                                          comentarios
+un nuevo negocio.
+3. Porcentaje de la población entre 18 y 64 años que
+                                                                                                                                                             Sin
+considera que el emprendedurismo es una opción de             %        67.13     70.50       %        67.13       70.50       %        67.13      70.50
+                                                                                                                                                          comentarios
+carrera deseable.
+Resultado # 2 - Apoyo al desarrollo inicial de emprendimientos.
+4. Nuevas empresas exitosas creadas y/o aceleradas         Empres                          Empres                         Empresa                            Sin
+                                                                         0         50                     0         50                     0        50
+por el programa.                                              as                             as                                s                          comentarios
+5. Inversión privada movilizada por el programa hacia                               1                                                                1       Sin
+                                                             USD         0                  USD           0      1 millón   USD            0
+emprendimientos.                                                                 millón                                                           millón  comentarios
+                                                               P es también equivalente al P(a) @ exit.
+                                                                                       10
+"
+"3.2       Eficacia
+Los siguientes apartados describen la efectividad alcanzada por el programa a partir de los
+objetivos planeados, identificándose los resultados alcanzados, los elementos y evidencias que
+permiten atribuir los mismos a las acciones del programa, así como otros resultados no previstos
+originalmente.
+                   a. Declaración de objetivos de desarrollo del proyecto.
+El objetivo general del programa fue contribuir a incrementar la inversión privada en actividades
+de innovación. El objetivo específico fue aumentar la cantidad de nuevos emprendimientos
+innovadores y exitosos en Uruguay. El programa procuró apoyar al gobierno a construir un nuevo
+marco estratégico de apoyo al emprendimiento que incluyera acciones para atender las
+debilidades identificadas en cuanto a aquellos factores específicos que limitan la creación y
+consolidación de nuevos emprendimientos de calidad en Uruguay.
+En particular, a través del Componente 1 del programa se desarrollaron acciones para atender
+los siguientes desafíos: (i) seguir mejorando los valores culturales que alientan el
+emprendimiento; (ii) construir un plan de acción integral que ayude a instalar una política de
+emprendimiento en el país; y (iii) lograr una mayor coordinación y especialización de las
+instituciones que forman parte de la Red RAFE.
+Por otra parte, a través del Componente 2 se pretendió enfrentar los siguientes desafíos:
+(i) generar capacidades de apoyo al emprendimiento en las fases de puesta en marcha y
+consolidación, especialmente a través de la creación de incubadoras de empresas; (ii) mejorar
+la cobertura geográfica de los servicios de apoyo a los emprendedores; (iii) promover y apoyar
+la instalación en el país de emprendedores del exterior; y (iv) financiar las etapas tempranas de
+creación y consolidación de nuevas empresas.
+Finalmente, al ser liderado por la Agencia Nacional de Investigación e Innovación (ANII), el
+programa buscó apoyar la generación de capacidades en esta agencia para liderar acciones de
+fomento al emprendimiento innovador en Uruguay.
+                   b. Resultados logrados
+Los resultados esperados por el programa fueron logrados sustantivamente, en la medida en
+que, como se describe en los siguientes párrafos, las evaluaciones muestran que el programa
+contribuyó al aumento de la inversión en innovación en empresas jóvenes, a una mejora en la
+cultura emprendedora y a la consolidación de nuevas empresas innovadoras exitosas.
+Con respecto al indicador del impacto del programa, se esperaba promover el crecimiento de la
+inversión en innovación por parte de empresas de menos de 5 años, y el indicador elegido
+esperaba visualizar en los resultados de la Encuesta de Actividades de Innovación (EAI)10, un
+crecimiento de un 5% sobre la línea de base. En efecto, en la matriz de resultados original se
+planteaba un valor de línea de base de 1.009.300 miles de pesos, con la correspondiente meta
+de US$1.059.765 esperada para el 2017. Es importante aclarar que las EAIs en el caso de
+Uruguay se toman cada tres años; La línea de base corresponde a la EAI 2007-2009. Teniendo
+en cuenta que el programa se declaró elegible en el 2013, el rezago entre la línea de base y la
+fecha de comienzo de ejecución obedece a que la subsiguiente EAI, la 2010-2012, solamente
+estuvo disponible en el 2014. Posteriormente, en el 2017, se divulgó la EAI 2013-2015, que se
+corresponde con los tres primeros años de ejecución del programa. La EAI 2016-2018 solamente
+estará disponible en el 202011. Es decir, en estricto rigor la información de este indicador al final
+10 Las EAI son encuestas oficiales del sistema estadístico nacional del cual ANII forma parte. Las EAIs son tomadas
+   en intervalos cada tres años por el Instituto Nacional de Estadísticas (INE) y son de respuestas obligatorias.
+11 Esta información será levantada en el marco del programa PIIE (UR-L1152; 4329/OC-UR).
+                                                           11
+"
+"del proyecto no se encuentra todavía disponible. Sin embargo, la evidencia que se describe a
+continuación nos permite inferir que es altamente probable que esta meta se alcance.
+La información correspondiente al indicador de inversión en actividades de innovación en
+empresas de menos de 5 años reportada en la EAI 2013-2015, que corresponde a los tres
+primeros años de ejecución del programa, asciende a 2.318.550 miles de pesos lo cual
+representa un crecimiento del 230% con respecto a la línea de base del 2007-2009. Sin embargo,
+naturalmente no todo este crecimiento se debe al programa. En efecto, según la EAI 2010-2012
+este mismo indicador reporta una cifra de US$2.080.907 que resulta ser del 206% por encima de
+la línea de base original12. Es decir, buena parte del crecimiento del indicador ya había acontecido
+antes que el programa comenzase a ejecutarse. Sin embargo, igualmente existe un crecimiento
+adicional del 11% en el indicador entre la EAI 2010-2012 y la EAI 2013-2015 que sí podría estar
+relacionado con el programa, siendo este crecimiento el doble de lo que se esperaba en el diseño
+original (que asume un crecimiento del 5% sobre la línea de base) en un periodo de tiempo menor
+(2013-2015, cuando la meta se esperaba cumplir durante 2013-2017). Es importante resaltar que
+en el 2019 se levantará la EAI 2016-2018 y se podrá tener información actualizada para el periodo
+2015-2017.
+Para el caso del Componente 1 – Apoyo a la cultura de emprendimiento, los indicadores de
+resultados previstos en la Matriz de Resultados se asociaron al crecimiento del: (i) porcentaje de
+la población de 16-64 años que está emprendiendo o es dueño-gerente de un nuevo negocio por
+oportunidad; (ii) porcentaje de mujeres en la población de 18 a 64 años que está emprendiendo
+o es dueño-gerente de un nuevo negocio; y (iii) porcentaje de la población entre 18 y 64 años
+que considera que el emprendedurismo es una opción de carrea deseable. Los indicadores son
+provistos por el GEM. Es importante aclarar que el GEM 2017 recalculó toda la serie para el caso
+de Uruguay. Si bien los cambios son menores, se aplicó la tasa de crecimiento del indicador
+según la nueva serie a la línea de base origina de forma de preservar el diseño original de la
+matriz de resultados. En notas al pie para cada indicador se profundiza aclarando como este
+ajuste se llevó a cabo.
+Para el indicador 1 “porcentaje de la población de 16-64 años que está emprendiendo o es dueño-
+gerente de un nuevo negocio por oportunidad”, los datos del GEM muestran que los resultados
+fueron ampliamente alcanzados. El Programa se propuso incrementar un 5% el valor, lo cual
+implicaba pasar de 8,72% a 9,15%, y se alcanzó un 12,18% lo que representa un incremento de
+casi el 40%13.
+Con respecto al indicador 2 “porcentaje de mujeres en la población de 18 a 64 años que está
+emprendiendo o es dueño-gerente de un nuevo negocio”, la meta también fue alcanzada toda
+12 Buena parte del crecimiento de este indicador entre las dos encuestas durante el periodo anterior a la ejecución del
+proyecto obedece a cambios metodológicos en la EAI que mejoraron sustancialmente la calidad de la información
+recogida al preguntar con más detalle y con una mejor discriminación las inversiones en actividades de innovación
+llevadas a cabo por las empresas, como también a una mejor cobertura en la submuestra de empresas jóvenes en
+particular de los sectores de servicios. Dados estos cambios metodológicos es que en realidad sería más adecuado
+tomar la línea de base del 2010-2012 para evaluar la efectividad del programa, línea de base que además se encuentra
+más cercana a la fecha de inicio de ejecución del programa. Sin embargo, en el presente informe se decidió mantener
+la línea de base original para asegurar la consistencia de la información con los valores reportados en la matriz al
+momento de la aprobación de la operación.
+13 El GEM recalculó toda la serie en el 2017. Los valores son los provistos por el IEEM de la Universidad de Montevideo
+(UM) quien lleva a cabo la encuesta GEM en Uruguay. Los cambios en todo caso son menores, según la nueva serie
+la línea de base del indicador 1 (definido en esta nota como Pn) debería haber sido 8,16 y no 8,72. La meta alcanzada
+(A) se calculó aplicando a la línea de base original (definida en esta nota como Po) la tasa de crecimiento del indicador
+según la nueva serie. Es decir, el valor alcanzado reportado como (A) resulta de calcular PoX(An/Pn). Si bien los
+cambios son marginales, se procedió de esta forma para mantener consistencia con la matriz original.
+                                                             12
+"
+"vez que mientras se planteaba también un incremento del 5%, con una meta de 8,52%, se logró
+de acuerdo con el GEM un resultado de 10,60% que representa un incremento de 30%14.
+Finalmente, con respecto indicador 3 “porcentaje de la población entre 18 y 64 años que
+considera que el emprendedurismo es una opción de carrea deseable”, el resultado esperado no
+fue alcanzado. Se esperaba un incremento también del 5% en esta dimensión, lo cual implicaba
+pasar de un 67,13% a un valor de 70,50%, y el último GEM muestra un valor de 54,34% para
+este indicador lo que representa una reducción respecto a la línea de base15. Este último dato
+podría interpretarse como que la intención emprendedora está disminuyendo y que las
+intervenciones en este componente no han tenido la capacidad de revertir esta tendencia. Sin
+embargo, es importante enfatizar que existe un problema relevante con este indicador. El
+indicador hace solamente referencia al emprendedurismo como opción de carrera deseable sin
+considerar que existen diferentes tipos de emprendedurismo: por necesidad y por oportunidad.
+Dado que en países en desarrollo el emprendedurismo por necesidad siempre domina a aquel
+que es por oportunidad, bien podría estar pasando que la caída en el indicador se encuentra
+afectado por una reducción en el emprendedurismo por necesidad como una opción de carrea
+deseable – lo cual de hecho es algo positivo – y que este cambio es el que aparece dominando
+la tendencia. Dado que el programa no se plantea ninguna intervención especifica en materia de
+emprendimiento por necesidad, creemos que este indicador no tiene el grado suficiente de
+especificidad y/o detalle para evaluar la performance del programa. Como tal, haber considerado
+este indicador claramente fue un error de diseño.
+En resumen, con la salvedad de los problemas del último indicador, tomando los resultados de
+los tres indicadores en conjunto se tiene que existe un crecimiento claro en la tasa de creación
+de empresas por oportunidad y en materia de emprendimiento femenino, aunque el conjunto total
+de individuos que valoran al emprendimiento en general como una opción de carrera se ha
+reducido. Es decir, estarían emprendiendo más personas, pero dentro de un pool de posibles
+emprendedores más reducido. Sin embargo, es importante resaltar que la metodología del GEM
+se basa en encuestas de opinión que capturan percepciones más que hechos concretos siendo
+que muchas veces estas percepciones son afectadas por factores de entorno no necesariamente
+relacionados con el programa. En este sentido, se recomienda procurar en adelante la utilización
+de otros indicadores que sean más específicos y basados en datos más objetivos sobre las
+variables que se esperan modificar.
+Para el caso del Componente 2 – Apoyo al desarrollo inicial de emprendimientos, los resultados
+se asociaban a: (i) nuevas empresas exitosas y/o creadas y aceleradas por el programa y
+(ii) inversión privada movilizada por el programa hacia emprendimientos.
+Los resultados al cierre del programa muestran que para el caso del indicador 4 “nuevas
+empresas exitosas y/o creadas y aceleradas por el programa “, la meta se alcanzó por cuanto se
+esperaba alcanzar 50 nuevas empresas exitosas, y se consiguieron 5516. Es importante resaltar
+que este indicador tal como se define en el diseño original es sumamente exigente por cuanto
+14 El GEM recalculó toda la serie en el 2017. Los valores son los provistos por el IEEM de la Universidad de Montevideo
+(UM) quien lleva a cabo la encuesta GEM en Uruguay. Los cambios en todo caso son menores. Según la nueva serie
+la línea de base del indicador debería haber sido 8,69 y no 8,12. La meta alcanzada (A) se calculó aplicando a la línea
+de base original la tasa de crecimiento del indicador según la nueva serie. Si bien los cambios son marginales, se
+procedió de esta forma para mantener consistencia con la matriz original.
+15 El GEM recalculó toda la serie en el 2017. Los valores son los provistos por el IEEM de la Universidad de Montevideo
+(UM) quien lleva a cabo la encuesta GEM en Uruguay. Los cambios en todo caso son menores. Según la nueva serie
+la línea de base del indicador debería haber sido 64,77 y no 67,13. La meta se calculó aplicando a la línea de base
+original la tasa de crecimiento del indicador según la nueva serie. Si bien los cambios son marginales, se procedió de
+esta forma para mantener consistencia con la matriz original.
+16 El indicador se construye a partir de sistema de gestión y monitoreo de proyectos de ANII y se valida en la EAI
+levantada por el Instituto Nacional de Estadísticas (INE).
+                                                           13
+"
+"entiende que una empresa exitosa es aquella que invierte en innovación, genera ventas por lo
+menos por US$30.000 y emplea a lo menos 4 empleados. Esto deja por fuera, por ejemplo, a
+aquellas empresas que logran valorizar su propiedad intelectual y resultan luego vendidas a
+empresas establecidas y que por definición no cumplen los indicadores anteriores por más que
+resultaron claramente exitosas (el emprendimiento original desaparece y por más que la empresa
+continúe existiendo con otra razón social, resulta difícil trazarla desde un punto de vista
+estadístico), por cual el resultado podría bien haber sido más favorable.
+Con respecto al indicador 5 “inversión privada movilizada por el programa hacia
+emprendimientos”, los resultados esperados han sido alcanzados (y superados) en cuanto
+mientras la meta era lograr la movilización de US$1.000.000, se logró movilizar US$3.500.000
+considerando tanto la inversión privada del mismo emprendedor como también lo de los
+inversionistas ángeles en los emprendimientos invertidos.
+La Tabla 2 resume tantos los valores previstos, así como los alcanzados para cada caso. En el
+caso del indicador de impacto, con las salvedades indicadas más arriba, y de 3 de los 5
+indicadores de resultados se obtuvieron logros muy por encima de las metas preestablecidas
+durante el diseño. En términos generales esto podría deberse a dos factores. En primer lugar,
+que las metas planteadas originalmente resultaron ser poco realistas o muy conservadoras y esto
+hace que el proyecto aparezca más exitoso de lo que fue; O, en segundo lugar, que el proyecto
+fue en realidad excepcional respecto a experiencias anteriores. Lo más probable es que la
+explicación sea una combinación de ambos factores. Al momento del diseño, si bien se contaba
+con la experiencia previa del FOMIN y ANII en intervenciones piloto en el ecosistema, en la
+mayoría de los casos estos pilotos “testeaban” intervenciones puntuales (asistencia técnica,
+incubación, inversión, etc.) pero nunca en forma integral o sistémica implementando diversas
+intervenciones en simultaneo. Los resultados de estas intervenciones previas en general fueron
+mediocres y esto motivó al equipo de diseño a fijar metas de resultados relativamente
+conservadoras (del tipo un crecimiento del 5% fijo a todos los indicadores). Tampoco existía al
+momento del diseño literatura de evaluación de impacto de programas de apoyo al
+emprendimiento por oportunidad lo suficientemente desarrollada como para validar las metas
+que se establecieron. por otro lado, el programa bien puede haber logrado resultados superiores
+con respecto a las metas debido a su visión sistémica (es decir trabajando sobre la cultura del
+emprendimiento, sobre las capacidades de los emprendedores y sobre su financiamiento en
+simultaneo), además de operar en un contexto de un ecosistema más maduro que el que existía
+cuando se implementaron las intervenciones previas.
+                                                 14
+"
+"                                                          Tabla 2. Matriz de Resultados logrados
+                                                       Unidad de      Valor Línea    Año línea                            Logro (0-    Medios de
+                 Impacto/Indicador                                                                Metas y alcance real
+                                                         Medida           base         base                                100%)       verificación
+  Impacto: Inversión en innovación en empresas de menos de 5 años.
+                                                                                                  P         1.059.765
+  Inversión en innovación en empresas de                                                                                    100%    EAI 2013-2015 vs
+                                                       Miles de $      1.009.300       2012      P(a)       1.059.765
+  menos de 5 años.                                                                                                        (25,94)*   EAI 2007-2009.
+                                                                                                  A         2.318.550
+                                                         Unidad de      Valor Línea   Año línea       Metas y alcance     Logro (0-     Medios de
+                Resultado/Indicador
+                                                          Medida           base          base                real          100%)       verificación
+  Resultado # 1 - Apoyo a la cultura de emprendimiento.
+  1. Porcentaje de la población de 18 a 64                                                         P            9.15
+  años que está emprendiendo o es                                                                                           100%
+                                                              %             8.72         2010      P(a)         9.15                 Reportes GEM.
+  dueño- gerente de un nuevo negocio por                                                                                   (8,04)
+  oportunidad.                                                                                     A           12.18
+                                                                                                   P            8.52
+  2. Porcentaje de mujeres en la población de
+                                                                                                                            100%
+  18 y 64 años que está emprendiendo o es                     %             8.12         2010      P(a)         8.52                 Reportes GEM.
+                                                                                                                           (6,20)
+  dueño gerente de un nuevo negocio.
+                                                                                                   A           10.60
+                                                                                                   P           70.50
+  3. Porcentaje de la población entre 18 y 64
+                                                                                                                              0
+  años que considera que el emprendedurismo                   %            67.13         2010      P(a)        70.50                 Reportes GEM.
+                                                                                                                           (-3,79)
+  es una opción de carrera deseable.
+                                                                                                   A           54.34
+  Resultado # 2 - Apoyo al desarrollo inicial de emprendimientos.
+                                                                                                   P              50
+  4. Nuevas empresas exitosas creadas y/o                                                                                   100%
+                                                         Empresas             0            0       P(a)           50                GESPRO (ANII)
+  aceleradas por el programa.                                                                                               (1,1)
+                                                                                                   A              55
+                                                                                                   P               1
+  5. Inversión privada movilizada por el                                                                                    100%
+                                                         Mill USD             0            0       P(a)            1                GESPRO (ANII)
+  programa hacia emprendimientos.                                                                                           (3,5)
+                                                                                                   A             3.5
+(*) Indicador obtenido de aplicar las fórmulas de la Directrices de Informe de Terminación de Proyectos del BID (pg. 18).
+                                                                                 15
+"
+"En relación con los productos previstos, tal como se muestra en la Tabla 3, la situación se
+considera muy satisfactoria, siendo que en promedio el nivel de cumplimiento es del 110%, y que
+se cumplieron totalmente 6 de los 7 productos previstos, mientras que el producto remanente
+logro una ejecución del 98%.
+Para el caso del componente 1 - Apoyo a la cultura de emprendimiento, se previeron 3 productos,
+y en los 3 se alcanzaron o superaron las metas previstas. El producto 1.1 Número de proyectos
+de fomento del emprendimiento financiados a las instituciones de la Red Emprender (ahora
+conocida como RAFE), preveía inicialmente financiar 40 proyectos y posteriormente actualizó
+dicha meta a 81 proyectos, y logró financiar 108 proyectos lo que significa un 133% de logro. El
+producto 1.2 Personas sensibilizadas y capacitadas para emprender, preveía inicialmente
+alcanzar las 10.000 personas, y actualizó luego su expectativa a 17.392. Y, finalmente consiguió
+alcanzar a 21.624 personas, lo que representa un 124% de logro. El producto 1.3 Número de
+reuniones de la Red Emprender realizadas, se proponía inicialmente la realización de 5 reuniones
+en el período de ejecución del programa, meta que fue luego actualizada a 6, y ésta fue la
+cantidad de reuniones de la red efectivamente realizadas. Como parte de este componente 1 son
+destacables los siguientes productos intermedios. Se puso en marcha un plan estratégico para
+la RAFE, la cual además implementó 4 campañas de comunicación. Se implementaron 6
+concursos de ideas de negocios durante los cuales se evaluaron 582 ideas y 322 planes de
+negocios. Durante la ejecución del programa, la membresía de organizaciones intermedias en la
+RAFE subió a 68 en el 2017.
+El componente 2 Apoyo al desarrollo inicial de emprendimientos, se previeron 4 productos, de
+los cuales 3 fueron alcanzados totalmente y uno parcialmente. El producto 2.1 Número de
+empresas admitidas en incubadoras apoyadas por el programa, previó inicialmente la admisión
+de 82 empresas, meta que fue luego actualizada a 128, y la cantidad de empresas finalmente
+admitidas fue de 155 (121% de logro). De la misma forma, el producto 2.2 Número de proyectos
+de emprendedores del exterior apoyados para su instalación en Uruguay, previó el apoyo a 20
+proyectos, y luego actualizó su meta a 21, que fue la cantidad efectivamente apoyada. Para el
+caso del producto 2.3 Número de proyectos de puesta en marcha y despegue empresarial
+financiados, el programa previó inicialmente financiar 108 proyectos, meta que luego fue
+incrementada a 211, y se logró financiar finalmente 206 proyecto de este tipo, alcanzándose un
+98% de logro. Finalmente, con relación al producto 2.4 Número de proyectos de apoyo a la
+gestión de fondos de inversión financiados, se previó inicialmente financiar 4 proyectos, y se
+actualizó la meta a 6 que fue la cantidad financiada. Un producto intermedio importante en este
+componente fue el apoyo a 6 incubadoras de empresas.
+                                               16
+"
+"                                                Tabla 3. Matriz de Productos Alcanzados
+                                                                                      Línea                  Metas y
+                                                                      Unidad de                 Año                        %       Medio de
+                        Producto/Indicador                                              de                Resultados
+                                                                        Medida                 de LB                   Alcanzado  Verificación
+                                                                                      Base                Alcanzados
+C.1. Apoyo a la cultura de emprendimiento
+                                                                                                         P         40
+1.1 Número de proyectos de fomento del emprendimiento
+                                                                        Informe          0     2013     P(a)       81    133%    GESPRO
+financiados a las instituciones de la Red Emprender.
+                                                                                                         A        108
+                                                                                                         P      10,000
+1.2 Personas sensibilizadas y capacitadas para emprender               Personas          0     2013     P(a)    17,392   124%    GESPRO
+                                                                                                         A      21,624
+                                                                                                         P          5
+1.3 Número de reuniones de la Red Emprender realizadas.               Reuniones          0     2013     P(a)        6    100%    GESPRO
+                                                                                                         A          6
+C.2 Apoyo al desarrollo inicial de emprendimientos
+                                                                                                         P         82
+2.1 Número de empresas admitidas en incubadoras apoyadas                                                P(a)      128
+                                                                      Empresas           0     2013                      121%    GESPRO
+por el programa.
+                                                                                                         A        155
+                                                                                                         P         20
+2.2 Número de proyectos de emprendedores del exterior                 Proyectos
+                                                                                         0     2013     P(a)       21    100%    GESPRO
+apoyados para su instalación en Uruguay.                             financiados
+                                                                                                         A         21
+                                                                                                         P        108
+2.3 Número de proyectos de puesta en marcha y despegue                Proyectos
+                                                                                         0     2013     P(a)      211     98%    GESPRO
+empresarial financiados.                                             financiados
+                                                                                                         A        206
+                                                                                                         P          4
+2.4 Número de proyectos de apoyo a la gestión de fondos de            Proyectos
+                                                                                         0     2013     P(a)        6    100%    GESPRO
+inversión financiados.                                               financiados
+                                                                                                         A          6
+                                          Donde: P = Planificado; P (a) = Objetivo anual revisado; A = real.
+                                                                          17
+"
+"Además de los resultados reportados en los indicadores mencionados, otro resultado importante
+de mencionar es la evolución y el crecimiento de la Red RAFE y la incorporación de instituciones
+intermedias participantes de la red (que pasó a 68 organizaciones en 2017) lo que permitió
+generar una dinámica virtuosa a partir de la cual muchas actividades anteriormente incentivadas
+a través de fondos públicos comenzaron a ser financiadas y ejecutadas por las propias
+instituciones de la Red. Tal es el caso por ejemplo de concursos de ideas de negocios y de planes
+de negocios. Esto genera un incremento imprevisto en la cantidad de fondos invertidos en el país
+en este tipo de apoyos, y la disminución de la presión sobre los fondos públicos que deben ser
+dedicados a las mismas y los que pueden ser reasignados a otras actividades.
+Otro resultado relevante fue el fuerte posicionamiento de ANII como actor central de las
+interrelaciones del ecosistema emprendedor. En efecto, un análisis de redes sociales hecho con
+motivo de la evaluación intermedia del programa encuentra que ANII es la institución más
+relevante del ecosistema en diversos indicadores, pero en particular en aquellos que se refieren
+con la derivación de emprendedores (poner en contacto emprendedores con incubadoras e
+inversiones) y, sorprendentemente, en lo que se refiere a la transferencia de conocimiento, lo
+cual resalta el alto nivel técnico del personal de la agencia (Aboal, 2015).
+                 c. Análisis contrafactual
+Para el análisis de la atribución de resultados y poder comprobar la vinculación de las acciones
+del programa con el logro de los objetivos de desarrollo del proyecto, fue necesario verificar si
+los recursos destinados al programa aumentaron la inversión en innovación en empresas de
+menos de 5 años en Uruguay, mediante la realización de una Evaluación de Impacto17. La
+evaluación se propuso indagar sobre los efectos de las intervenciones del Programa en términos
+de crecimiento de la inversión en innovación entre otras variables, utilizando técnicas
+cuasi- experimentales, con una combinación de diferencia en diferencia con propensity score
+matching (PSM) en la línea de base (Abadie, 2005). Los resultados de la evaluación sugieren
+que el programa ha sido efectivo en incrementar la inversión privada en innovación de las
+empresas participantes. En efecto, la inversión total en actividades de innovación creció un 72%
+con respecto al grupo de control. Tomando la diferencia en los valores en dólares corrientes entre
+lo alcanzando (A) y lo reportado la EAI 2010-2012 esto implica una inversión adicional de
+US$4millones en el agregado. ¿Cuánto de esto puede atribuirse a las empresas apoyadas por
+el programa? Si se considera que el incremento de la inversión en innovación a nivel de empresa
+tratada promedio es del equivalente a US$37.371 según la evaluación de impacto y teniendo en
+cuenta que en periodo 2013-2015 se apoyaron 70 empresas, esto da un acumulado de
+US$2,7 millones. Es decir, una parte significativa del incremento agregado de la inversión en
+innovación reportada en la EAI 2015-2013 puede ser atribuida a las empresas apoyadas por el
+programa. Estos resultados sobre la inversión son consistentes con los obtenidos de la aplicación
+de técnicas cuasi-experimentales de evaluación de impacto en programas de estímulo a la
+innovación empresarial en la región y que se encuentran referenciados en BID (2014), capítulo
+3.
+Para el caso del componente 1, la evaluación procuró contestar las siguientes preguntas: ¿las
+intervenciones del programa han incrementado la tasa de actividad emprendedora del Uruguay
+y la percepción del emprendimiento como una alternativa de trabajo deseable? Para ello,
+utilizando la metodología del control sintético, la evaluación de impacto tuvo por objetivo estimar
+el efecto a nivel de país de las políticas de apoyo al emprendedurismo, usando como grupo de
+control un promedio ponderado de las tendencias de las mismas variables por parte de países
+de la región que no habían implementado programas de apoyo al ecosistema emprendedor. Los
+17 Crespi, Gustavo (BID, 2018). Evaluación de Impacto del Programa de Apoyo a Futuros Empresarios (PAFE
+2775/OC-UR).
+                                                    18
+"
+"ponderadores son calculados de forma tal que un promedio ponderado de las tendencias de las
+variables de resultados del grupo de control previas al programa sea similar a la tendencia de las
+mismas variables en Uruguay. Para la elaboración del algoritmo se utilizaron las bases de GEM
+2017 (Aboal, et.al. 2017). Los resultados muestran que existen resultados positivos a nivel del
+estímulo de la actividad emprendedora pero no existe efecto alguno sobre los indicadores
+relacionados con la valoración social del emprendedurismo (por ejemplo, el emprendedurismo
+como opción de carrea deseable). Tal vez, este último captura aspectos más estructurales que
+requieren periodos más largos de cambios que los de la actividad emprendedora o bien que se
+requieren otro tipo de intervenciones para alcanzar algún logro en esta dimensión, aunque acá
+aplican las mismas consideraciones sobre este indicador relacionadas anteriormente sobre su
+limitada especificidad. Los efectos positivos se encuentran en general 2 o 3 años luego de la
+intervención. Cabe aclarar que no existen según nuestro conocimiento evaluaciones del impacto
+macro de estas intervenciones sobre el ecosistema emprendedor de forma que no es posible
+determinar a priori si estos hallazgos son consistentes con resultados similares en otros
+contextos.
+Para el caso del componente 2, la evaluación se propuso indagar sobre los efectos de las
+intervenciones del Programa en la creación de empresas exitosas en términos de crecimiento de
+la inversión neta del subsidio, ventas, empleo y exportaciones, utilizando las mismas técnicas
+cuasi-experimentales, con una combinación de diferencia en diferencia con propensity score
+matching (PSM) (Abadie, 2005). Los resultados de la evaluación sugieren que el programa ha
+sido efectivo en incrementar las ventas de las empresas beneficiarias por encima de las de
+control en un 48% siendo este resultado estadísticamente significativo18. Sin embargo, aunque
+se observan crecimientos diferenciales positivos en materia de ocupación y exportaciones, estos
+resultados no resultaron ser estadísticamente significativos. La evaluación también determinó la
+probabilidad que una empresa apoyada sea exitosa, en los términos definidos más arriba
+encontrándose un efecto del 27% y estadísticamente significativo. Aplicando este resultado al
+total de empresas apoyadas se tiene que el programa terminó generando 55 empresas exitosas,
+un valor levemente por encima del esperado durante el diseño19. Finalmente, en términos de
+inversión neta del subsidio, los resultados sugieren un crecimiento diferencial del 70% para las
+empresas apoyadas respecto a las empresas del grupo de control. Este hallazgo insinúa la
+existencia de efectos de apalancamiento de la inversión privada en innovación en nuevas
+empresas. En efecto sobre la base de una empresa participante típica se observa un crecimiento
+de la inversión en innovación atribuible al programa de US$37.371, mientras que el subsidio
+público recibido en promedio asciende a US$20.000. Es decir, existen US$17.371 adicionales de
+inversión proveniente tanto de los mismos emprendedores como de inversionistas ángeles que
+deciden invertir en las empresas apoyadas. Si se extrapola esta cifra al total de empresas
+apoyadas se tiene un acumulado de US$3,5 millones cifra que resulta una contribución
+significativa sobre la base de que se esperaba movilizar US$1 millón.
+18 Este indicador es clave para el análisis económico del proyecto.
+19 También se llevaron a cabo estudios de casos de algunas de estas empresas. Mas específicamente, se estudiaron
+los casos de ZONA CAMPING (que desarrolla una tecnología de control de acceso a eventos), ARAVANLABS (que
+desarrolla reactivos para la detección de microorganismos nocivos para la salud), COOK (emprendimiento que
+desarrolla kits para la selección de alimentos frescos), PINK LADY (emprendimiento que produce aceites sensoriales),
+PINCER GAMES (emprendimiento que desarrolla una plataforma multi-juegos que opera actualmente en Corea),
+UNICORN GAMES (emprendimiento que combina juegos físicos con realidad aumentada). Otros casos relevantes
+son GENE LIVES (que desarrolla aplicaciones de genómica basadas bio-informática), RIZOMA (que desarrollar
+sensores para el control del almacenaje de cereales) y LOOG GUITARS (que desarrolla un nuevo tipo de guitarras
+para niños que se comercializa en USA). Para más detalles ver ANII (2017). Informe de Evaluación de Emprendedores
+Innovadores. Documento de Trabajo 13.
+                                                            19
+"
+"Es importante destacar que estos resultados se encuentran en línea con otros en contextos
+similares tales como Peru (Goni, 2018 encuentra un crecimiento en las ventas de las empresas
+apoyadas por Starup Perú) y Chile (Gonzalez-Uribe y Laetherbee, 2016 encuentran un
+crecimiento diferencial en las empresas apoyadas por el programa Startup Chile tanto en lo que
+se refiere al crecimiento de las ventas como al crecimiento de las inversiones por parte de las
+empresas participantes en el programa). Al mismo tiempo los resultados sobre el crecimiento de
+las ventas resultan consistentes con lo obtenidos por la evaluación intermedia del programa que
+encuentra un crecimiento del 33% en la primera dos cohortes de beneficiaros del programa
+usando técnicas de emparejamiento estadístico solamente (Aboal, 2015). Finalmente, los
+resultados son también similares, aunque más conservadores, a los de la EI llevada a cabo por
+la Unidad de Monitoreo y Evaluación de ANII20. Es importante resaltar que los resultados de la
+evaluación de impacto del programa solamente se refieren a las cohortes 2013-2015. Una
+evaluación adicional será llevada a cabo, incorporando todas las cohortes, en el marco del nuevo
+Programa de Innovación Empresarial y Emprendimiento (UR-L1142; 4329/OC-UR) en el 2019.
+3.3      Eficiencia
+El análisis de eficiencia se realiza contemplando por un lado los costos totales del programa, con
+el flujo descontado de beneficios que el mismo genera en las empresas. Los costos sociales
+incrementales del programa están asociados tanto al perfil de inversión del proyecto (costos
+directos) como también a los costos incrementales correspondientes a la inversión adicional de
+las empresas, así como a los costos adicionales (como, por ejemplo, costos operativos o de
+mantenimiento) implicados por la ejecución del proyecto, pero no cubiertos por el perfil de
+inversión. El costo directo total del programa fue de 8 millones de US$ financiados de manera
+total por el Banco. En la Tabla 4 se presenta la información de costos previstos y reales para
+cada uno de los productos.
+En el caso del componente 1, los costos directos fueron para financiar inversiones en proyectos
+de fomento al emprendimiento ejecutados por las instituciones de la RAFE. En esta linea se
+financiaron proyectos que buscaban movilizar a traves de diversos eventos y talleres el
+ecosistema emprendedor del pais. Por lo mismo se financiaron en total 108 proyectos por un
+costo de US$422.938. Una segunda actividad de este componente fue la sensibilizacion y
+capacitacion de individuos en aspectos tan variados tales como gestionar una nueva empresa,
+abrir una empresa, planificacion estrategica a aspectos mas generales tales como enfrentar el
+estigma del fracaso o el liderazgo emprezarial. En esta actividad se capacitaron 21.624 individuos
+con un costo total del US$288.650. Finalmente, la tercera actividad de este componente se
+refiere al apoyo operativo de la RAFE. Esto comprende diversas actividades que incluyen el
+apoyo a la gestion de la red, su plan estrategico y eventos y talleres. En total esta actividad
+implico un desembolso de US$352.271.
+20 ANII (2017). Informe de Evaluación. Emprendedores Innovadores. Documento de Trabajo No 13. Montevideo,
+Uruguay.
+                                                    20
+"
+"                                   Tabla 4. Costos Totales Directos del Proyecto
+                            Producto                            2013     2014      2015      2016      2017      Costo
+  1 C.1. Apoyo a la cultura de emprendimiento
+                                                          P     64,400    64,400    64,400    64,400    44,000   301,600
+    Número de proyectos de fomento del emprendimiento
+1.1                                                      P(a)   64,400    64,400   105,600         0     7,801   412,435
+    financiados a las instituciones de la Red Emprender.
+                                                          A     50,987    66,702   191,024    95,921    18,304   422,938
+                                                          P     57,785    63,001    59,458    57,628    62,128   300,000
+1.2 Personas sensibilizadas y capacitadas para emprender P(a)   57,785    63,001    45,000    45,000     7,019   281,452
+                                                          A     27,276   165,991    45,037    36,130    14,216   288,650
+                                                          P    110,532   102,480   102,480    84,508         0   400,000
+1.3 Número de reuniones de la Red Emprender realizadas. P(a) 110,532     102,480    72,000    72,000    69,506   355,121
+                                                          A     74,502    74,313    75,675    61,125    66,656   352,271
+  2 C.2 Apoyo al desarrollo inicial de emprendimientos
+                                                          P    101,730   388,560   521,230   238,080   450,400 1,700,000
+    Número de empresas admitidas en incubadoras
+2.1                                                      P(a)  101,730   388,560   394,000   394,000   157,101 1,663,785
+    apoyadas por el programa.
+                                                          A    113,705   368,478   517,248   507,253   141,983 1,648,667
+                                                          P     71,810   251,890   270,390   270,390   335,520 1,200,000
+    Número de proyectos de emprendedores del exterior
+2.2                                                      P(a)   71,810   251,890   354,000   354,000    53,375   942,807
+    apoyados para su instalación en Uruguay.
+                                                          A     24,720   147,977   464,088   252,647    33,419   922,851
+                                                          P    412,500   577,500   632,500   632,500   745,000 3,000,000
+    Número de proyectos de puesta en marcha y despegue
+2.3                                                      P(a)  412,500   577,500   809,000   809,000   411,257 3,899,721
+    empresarial financiados.
+                                                          A     69,314   325,989 1,033,851 2,059,310   443,117 3,931,581
+                                                          P     25,000    75,000   100,000   100,000   100,000   400,000
+    Número de proyectos de apoyo a la gestión de fondos
+2.4                                                      P(a)   25,000    75,000    79,430    79,430    27,970   349,470
+    de inversión financiados.
+                                                          A          0   112,200    93,150   116,150         0   321,500
+    Otros Costos
+                                                          P     40,000    40,000   138,000    40,000   142,000   400,000
+    Administración, Monitoreo y Evaluación               P(a)   40,000    40,000   150,000    48,814    12,831   106,598
+                                                          A      3,995     3,995    28,703    57,075    17,774   111,542
+                                                          P    883,757 1,562,831 1,888,458 1,487,506 1,879,048 7,701,600
+    Costos Totales                                       P(a) 883,757 1,562,831 2,009,030 1,802,244    746,860 8,011,391
+                                                          A    364,499 1,265,645 2,448,776 3,185,611   735,469 8,000,000
+  Para el componente 2 los principales costos corresponden a inversiones en incubadoras de
+  nuevas empresas. En este caso se financiaron durante el programa 5 incubadoras de empresas
+  (Sinergia, Da Vinci, Kehm, BioSpin e Ingenio) con financiamiento basal. En estas incubadoras se
+  incubaron un total de 155 nuevas empresas por un costo de US$1.648.667. Una segunda
+  actividad financiada por este componente fue la atracción de emprendedores del exterior
+  (Softlanding). Esta actividad fue ejecutada por la incubadora Ingenio mediante la cual se
+  apoyaron 21 proyectos por un costo total de US$922.851. La tercera actividad de este
+  componente fue el financiamiento de capital semilla a los proyectos de startups. Esta actividad
+  fue ejecutada con ANII en colaboración con la red incubadoras. En total se financiaron 208
+  proyectos de puesta en marcha y despegue de nuevas empresas por un costo de US$3.931.581.
+  Finalmente, la cuarta actividad de este componente fue el apoyo a la gestión de fondos de
+  inversión (subsidio al management fee). En este caso, para recibir el subsidio los gestores de los
+  fondos se tenían que comprometer a metas de inversión en startups. En total se apoyaron
+  6 proyectos de gestión de fondos por un costo total de US$321.500. Adicionalmente se tuvieron
+  costos de administracion y monitoreo por US$111.542. Ademas de costos incrementales por
+                                                              21
+"
+"aumento de inversion privada apalancada por el proyecto por US$3.500.000. Por ende los costos
+totales de inversion tanto directos como indirectos ascendieron a US$11.500.000.
+La identificacion de los beneficios esta directa y estrechamente vinculada a los resultados e
+impactos esperados del programa y los indicadores a utilizar para la estimacion de los beneficios
+economicos sociales incrementales del proyecto guardan correspondencia exacta tanto en lineas
+de base como en metas alcanzadas tras la ejecucion del programa. Es importante tener en
+cuenta que la ejecución del programa sigue un modelo de selección tipo embudo en donde los
+primeros tratados del programa son personas individuales que están evaluando poner en marcha
+una idea de negocio, terminando, luego de un proceso de selección intenso, con la conformación
+y desarrollo de una nueva empresa (ver Figura 2). Como se desprende de la Figura 2, no tiene
+ningún sentido llevar a cabo un análisis económico por componente por cuanto el principal
+resultado del componente 1 es la generación de “pipeline” en términos de nuevas ideas de
+negocios las cuales resultan luego escaladas por las actividades del componente 2. En este
+sentido, los beneficios del programa son función del incremento en la producción – medido por
+el aumento de la facturación – de proyectos individuales de financiamiento a emprendedores
+innovadores. Este es considerado el principal beneficio del programa. Este incremento en
+producción es consecuencia del incremento en el esfuerzo innovador (en el corto plazo) y de la
+mayor productividad (en el mediano plazo) de las firmas beneficiarias. Ambos se combinan para
+determinar el incremento en la producción. La identificación y estimación de estos beneficios se
+realiza para la empresa típica beneficiaria del programa y el problema de la atribución se aborda
+a partir de los resultados de la evaluación de impacto del programa.
+                                 Figura 2. Secuencia de Tratamiento
+El objetivo de una startup es desarrollar y comercializar nuevos productos, servicios y
+tecnologías. Los beneficios asociados a un programa de apoyo al emprendimiento innovador que
+establezca nuevas empresas pueden estar asociados tanto al crecimiento de estas firmas como
+al crecimiento de su tasa de sobrevivencia. Si el programa es efectivo en crear nuevas empresas
+el valor económico asociado al mismo se debería valorar de acuerdo con el beneficio social
+                                                 22
+"
+"esperado obtenido por las empresas creadas durante su ciclo de vida esperado comparado con
+el escenario sin programa. Cuando, además, el programa contribuye a incrementar la tasa de
+sobrevivencia de la startup, entonces el valor de programa es valorado como el incremento en el
+beneficio social esperado obtenido por las startups que sobreviven más que el escenario sin
+programa. Para llevar a la práctica esta estimación se requieren los siguientes parámetros:
+(a) determinar la cantidad de startups creada por el programa a lo largo de su existencia año por
+año; (b) estimar el beneficio generado por cada startup, lo que a su vez requiere generar dos
+parámetros adicionales: ingresos incrementales por ventas de las empresas y el margen de
+beneficio sobre ventas o mark-up. Para poder calibrar el beneficio de la firma representativa se
+parte del incremento de las ventas estimado a partir de la evaluación de impacto y se multiplica
+este incremento por el margen y la tasa de sobrevivencia. Se asume, por falta de información,
+que el programa no afecta ni el margen de beneficios, ni la probabilidad de supervivencia. La
+información sobre el margen se obtiene de datos agregados para empresas similares provistos
+por la autoridad impositiva de Uruguay (DGI), mientras que la información sobre la tasa sobrevida
+se obtiene del GESPRO de ANII. La tabla 5 resume los principales supuestos del Análisis Costo
+Beneficio (ACB).
+                         Cuadro 1. Supuestos Análisis Costo – Beneficio.
+     Supuestos                                                           Fuente     Parametros
+     Efecto tratamiento promedio programas ANII                      ATT (Anexo 1)      0.72
+     Gasto en AI sin proyecto                                              $           51904
+     Gasto en AI con Proyecto                                              $           89275
+     Aumento gasto en AI con - sin proyecto                                $          37371
+     Subsidio semilla promedio ANII                                  $ (Cuadro 1)     20000
+     Aumento de gasto en AI neto subsidio                                             17371
+     Efecto tratamiento promedio programas ANII                      ATT (Anexo 1)      0.48
+     Ventas sin proyecto                                                   $           76351
+     Ventas con proyecto                                                   $          113000
+     Aumento ventas con - sin proyecto                                     $          36649
+     Tasa de crecimiento del PIB                                           %           4.5%
+     Margen Bruto Emprendimiento                                           %            0.30
+     Tasa de descuento                                                     %            0.12
+     Sobrevida emprendimiento anio 1                                      ANII          1.00
+     Sobrevida emprendimiento anio 2                                      ANII          1.00
+     Sobrevida emprendimiento anio 3-20                                   ANII          0.54
+El análisis contempló la estimación de los beneficios económicos por beneficiario, y luego los
+escaló a nivel de programa, multiplicándolos por el número de beneficiarios, e indicó que, en un
+escenario conservador, se registra un retorno económico esperado de 22%, consistente con un
+Valor Actual Neto (VAN) de US$5,9 millones para el programa. Hay que tener en cuenta que el
+100% de las inversiones han sido incorporadas entre los costos del proyecto, incluyendo tanto
+los costos del sector público como los costos incrementales provenientes de inversionistas
+privados en los emprendimientos apoyados netos del subsidio aportado por ANII.
+Finalmente, se llevó a cabo un análisis de sensibilidad para identificar aquellos parámetros claves
+para el desempeño del programa. Para ello se llevó a cabo una simulación de Montecarlo en la
+cual se asignan probabilidades de ocurrencia a variaciones de cada parámetro dentro de ciertos
+rangos. Esta simulación permite combinar variaciones simultáneas en uno, dos, algunos o todos
+los parámetros y calcular valores esperados tras el reconocimiento de la probabilidad conjunta
+de tales eventos. Los resultados de 2.500 eventos simulados para todo el proyecto en su conjunto
+                                                23
+"
+"permiten resaltar dos aspectos importantes. Primero, el soporte de la distribución del VAN cae
+en su gran mayoría en el dominio positivo y sólo existe una fracción menor de eventos simulados
+que hacen el VAN negativo (menos del 17% de los casos). Segundo, los parámetros cuya
+variación incide con mayor importancia sobre las variaciones del VAN son el impacto del
+programa en el crecimiento de las ventas de los emprendimientos apoyados (correlación de 0.61
+con el VAN), seguido por la tasa de descuento (correlación de -0.49 con el VAN), el crecimiento
+del PIB (correlación de 0.33 con el VAN), el margen de ganancias de los emprendimientos
+(correlación de 0.27 con el VAN), la tasa de sobrevida de los emprendimientos (correlación del
+0.23 con el VAN) y el impacto del programa en la inversión en innovación de las empresas
+apoyadas (correlación de -0.19 con el VAN). La pérdida esperada es de US$450.000 mientras
+que la ganancia esperada de US$6.091.145.
+3.1      Sostenibilidad
+                 a. Aspectos generales de sostenibilidad
+A continuación, se analizan los temas más relevantes para la sostenibilidad de los resultados
+alcanzados por el Programa. En primer lugar, es importante visualizar la continuidad y
+perfeccionamiento de los instrumentos de promoción tanto de la actividad emprendedora como
+de la innovación, que se vienen manteniendo y en algunos casos fortaleciendo. La tabla 6
+muestra la evolución de algunos de los instrumentos incluidos en el programa:
+                 Cuadro 2. Sostenibilidad de las intervenciones del Programa en PMR
+                                           2009-2012         2013-2017       2018 en adelante
+                                                                             PIEE
+                                             PDT II            PAFE
+               Instrumento                                                (UR-L1142;
+                                          (UR-L1030;        (UR-L1071,                   ANDE
+                                                                           4329/OC-
+                                        2004/OC-UR)       2775/OC-UR)
+                                                                              UR)
+  Fomento a instituciones de
+                                                                 X                         X
+  emprendimiento
+  Capacitación y sensibilización                                 X                         X
+  Campañas de comunicación                                       X                         X
+  Apoyo a ideas de negocio                                       X                         X
+  Apoyo a planes de negocio                                      X                         X
+  Actividades de promoción de la red de
+                                                                 X                         X
+  emprendedores
+  Fortalecimiento de capacidades de
+                                                                 X             X
+  incubación
+  Apoyo a la innovación en empresas                              X             X
+  Apoyo a emprendimientos del exterior                           X
+  Apoyo a la puesta en marcha y
+                                               X                 X             X           X
+  despegue empresarial
+  Apoyo a la gestión de fondos de
+                                                                 X             X
+  inversión
+En primer lugar, se destaca que antes del programa, la única herramienta de apoyo al ecosistema
+emprendedor era el programa de capital semilla Emprendedores Innovadores financiado en el
+marco del programa PDT-II (UR-L1030; 2004/OC-UR) Con la aprobación del programa PAFE
+(UR-L1071;2775/OC-UR) se desplegaron una serie de instrumentos nuevos de apoyo al
+ecosistema emprendedor. Concluido el programa, varios de estos programas han tenido
+continuidad a través de diversos mecanismos. Los instrumentos de apoyo a la cultura
+emprendedora, implementados por la RAFE fueron absorbidos por la Agencia Nacional de
+Desarrollo (ANDE). La racionalidad para esta decisión radica en que con su expansión la RAFE
+incorpora una mezcla más heterogénea de instituciones de apoyo cubriendo tanto
+                                                24
+"
+"organizaciones focalizadas en el emprendimiento innovador como también organizaciones con
+un alcance mayor incorporando emprendimientos con valor diferencial e inclusive por necesidad.
+Dado esto, teniendo en cuenta el alcance más transversal de ANDE, hace sentido que esta
+agencia tomase la continuidad de la RAFE. Por otro lado, en lo que hace los instrumentos de
+apoyo a incubadoras y financiamiento directo a nuevos emprendimientos, los mismos han tenido
+continuidad a través del nuevo Programa de Innovación Empresarial y Emprendimiento (PIIE)
+(UR-L1142;4329/OC-UR). Finalmente, como se mencionó anteriormente se dio continuidad a la
+línea de capital de semilla de ANDE para atender a aquellos emprendimientos que, aunque no
+alcanzan el mérito innovador definido por ANII igualmente poseen potencial de valor diferencial.
+En materia de financiamiento es importante resaltar que la operación PIIE es la primera dentro
+de una línea CCLIP por US$100 millones a diez años que fue aprobada al mismo tiempo. El PIIE,
+el primer tramo de la CCLIP incrementa en a lo menos un 50% el financiamiento disponible para
+los próximos 5 años para el emprendimiento innovador. El presupuesto estimado de ANII para
+los próximos 10 años se estima en US$400 millones con lo cual la línea CCLIP será un 25% de
+este financiamiento, lo cual también implica una importante movilización de recursos nacionales.
+Otros aspectos importantes que hacen también la sostenibilidad del programa y que son
+parcialmente un resultado de las lecciones aprendidas del trabajo rutinario con los
+emprendedores apoyados son el reciente envío al parlamento de la propuesta de Ley de
+Emprendimiento, la ley de Incentivos Tributarios a la I+D y el decreto presidencial de Compras
+Públicas de Innovación. El proyecto de Ley de Emprendimiento que establece una serie de
+modificaciones a los procedimientos regulares para la creación de una empresa facilitando
+fuertemente este proceso y estableciendo la figura de la Sociedad Simplificada por Acciones lo
+cual permitirá mejorar considerablemente el marco regulatorio de estas nuevas empresas. Esto
+debería aumentar considerable el pipeline de nuevas empresas innovadoras en el país. El
+proyecto de Ley de Incentivos Tributarios a la I+D establece una seria de reformas en los
+incentivos fiscales existentes de forma que las nuevas empresas puedan también beneficiarse
+de estos instrumentos (por ejemplo, un cambio importante es que el crédito fiscal generado a
+partir de una inversión en I+D empresarial pueda ser convertido en certificados de crédito fiscal
+para uso no solamente contra el pago del impuestos a la renta de actividades empresariales –
+IRAE –, sino también para el pago de contribuciones a la previsión social e impuestos indirectos,
+lo cual incrementa el atractivo de esta herramienta para las Startups). Finalmente, el decreto
+presidencial de Compra Pública de Innovación establece una serie de regulaciones hasta ahora
+inexistentes en el régimen nacional de compras estatales con el objeto de facilitar la participación
+de las nuevas empresas que proveen soluciones innovadoras al estado en las licitaciones
+públicas. En particular entre estas reformas se destacan la regulación de la figura del diálogo
+técnico (mecanismo de interacción cliente público – vendedor), la creación de la contratación por
+compa publica innovadora integrada que establece en el país (y por vez primera en la región) la
+buena práctica internacional que permite que empresas que resultan adjudicatarias de contratos
+de prototipaje (lo que se conoce como compra publica pre-comercial) puedan, en el caso de que
+se cumplan determinadas condiciones de transparencia y libre competencia, ser adjudicadas en
+forma directa de la compra a escala de la solución. Otra reforma importante del régimen es la
+regulación de los derechos de propiedad intelectual a favor del emprendedor. Se espera de estas
+reformas, en las que participo activamente el equipo del Banco del PAFE y de FMP, que se pueda
+facilitar el acceso de las nuevas empresas innovadoras al mercado público.
+Por otra parte, es necesario también visualizar qué pasa con los proyectos apoyados luego de
+finalizado el período de trabajo con ANII, como forma de analizar la sostenibilidad de los efectos
+en términos de promover la cultura emprendedora. El Informe de evaluación de emprendedores
+innovadores de ANII, expresa que la tasa de éxito del instrumento para ANII es de 59%. Siendo
+que, al finalizar el Programa, un 34% de los emprendimientos apoyados estaban desarrollando
+la idea original en la empresa creada para el proyecto ANII o en otra empresa. Un 2% son casos
+                                                25
+"
+"de emprendedores que habían vendido su empresa, y el restante 23% logró mantenerse en la
+actividad emprendedora con un proyecto diferente al original, ya sea en la misma empresa o
+creando otra diferente. Desde esta perspectiva, el emprendimiento beneficiado por el instrumento
+pudo haber servido de plataforma de aprendizaje para encarar con mejores chances un nuevo
+intento emprendedor21.
+La misma fuente identifica además una tasa de supervivencia del 54% de las empresas, siendo
+que cada año adicional en el mercado incrementa la probabilidad de sobrevivir como así también
+el efecto de obtener un segundo subsidio. Finalmente, según datos de monitoreo de ANII, al
+menos 10 de las empresas beneficiadas inicialmente por instrumentos de capital semilla, están
+siendo beneficiarias de proyectos de apoyo a la innovación, en algunos casos inclusive con más
+de un proyecto por empresa. Esta es una señal que varias de estas empresas han logrado
+conformar equipos internos para implementar en forma continua una estrategia de innovación.
+                   b. Salvaguardas ambientales y sociales
+De acuerdo con la Política de Medio Ambiente y Cumplimiento de Salvaguardias (OP-703) esta
+operación fue clasificada como Categoría “C”. Las actividades que financió el programa fueron
+principalmente asistencia técnica y proyectos de apoyo a instituciones y emprendedores, por lo
+que se considera que no existieron impactos ambientales y sociales negativos. El ROP incluyó
+un capítulo para orientar el análisis ambiental y social de los proyectos financiados según los
+criterios de evaluación de impacto ambiental que aplica la legislación nacional. Estas
+consideraciones se siguieron estrictamente durante la ejecución.
+Lo anterior se relaciona con que en términos de sectores de actividad un 33% de los
+emprendimientos corresponde a sectores de tecnologías de información y comunicación; un
+23% corresponde a actividades dentro de la industria manufacturera; un 13% a otras actividades
+de servicios, un 8% a artes, entretenimiento y recreación; un 8% a actividades profesionales,
+científicas y técnicas; un 5% a enseñanza; un 3% a actividades administrativas y servicios de
+apoyo; un 2% a servicios sociales y relacionados con la salud humana; 2% a la construcción,
+1% a actividades financieras y de seguros y 1% a transporte y almacenamiento. En términos
+generales, se puede decir que la mayoría de los emprendimientos innovadores se concentran en
+sectores intensivos en conocimiento (62%) en los que existen oportunidades para empresas
+nacientes. Por otro lado, una clasificación según la tecnología base del emprendimiento indica
+que un 75% de los mismo corresponde a aplicaciones de tecnologías de información y
+comunicación. Es decir, aun en sectores tradicionales tales como manufactura o transporte, el
+foco del emprendimiento es en el desarrollo de soluciones digitales. Por todo lo anterior, no se
+espera que los emprendimientos apoyados tengan impacto negativo alguno sobre el medio
+ambiente22.
+En conclusión y sobre la base de la evidencia anteriormente presentada sobre la relevancia,
+efectividad, eficiencia y sostenibilidad del programa se considera que el mismo ha sido altamente
+satisfactorio en el logro de su objetivo de desarrollo.
+IV.      CRITERIOS NO CENTRALES
+4.1      Desempeño del Banco
+El Banco ha mantenido un intercambio permanente con la UE y con las autoridades de ANII y
+del Ecosistema emprendedor, tanto en relación con aspectos técnicos como fiduciarios. Esto ha
+21 ANII 2017, Informe de evaluación de emprendedores innovadores.
+22 ANII 2017, Informe de evaluación de emprendedores innovadores.
+                                                       26
+"
+"ocurrido tanto durante el proceso de preparación de la operación, como durante la ejecución e
+incluso durante el cierre.
+Adicionalmente, cabe mencionar que el Banco proporcionó asesoramiento técnico especializado
+de diferente índole durante el período de ejecución, dentro del cual se destaca el financiamiento
+de estudios especializados, y el apoyo a la realización de la evaluación intermedia del Programa
+con participación de expertos de la división.
+En este sentido se considera que el acompañamiento brindado por el Banco permitió asegurar
+la calidad del diseño de la operación, y el acompañamiento permanente durante la ejecución
+permitió mitigar riesgos y resolver inconvenientes para logro de los resultados previstos.
+4.2     Desempeño del Prestatario
+Se considera que el desempeño del prestatario ha sido Muy Satisfactorio en la medida que ANII
+ha demostrado capacidad de ejecución para llevar adelante con eficiencia las inversiones
+acordadas con el Banco.
+En particular, en lo que respecta a aspectos organizativos, la UE contó durante todo el proceso
+con el personal necesario, el cual contaba con la capacidad técnica adecuada para resolver de
+manera oportuna las problemáticas de la implementación. Finalmente, en términos contractuales
+la UE ha cumplido a satisfacción del Banco con la entrega oportuna de la documentación relativa
+a las cláusulas contractuales de Informes de Progreso, Semestral, Planes Operativos Anuales,
+entre otros.
+En materia de ejecución, el prestatario ha mostrado una ejecución satisfactoria en todos los
+indicadores de desempeño monitoreados en el PMR, tal como muestra la tabla 7.
+                 Cuadro 3. Indicadores de desempeño del Programa en PMR
+ Indicador                                            Valor para el Proyecto Calificación
+ Cost Performance Index-CPI                                    1.34          SATISFACTORY
+ Cost Performance Index (annual)-CPI(a)                        1.34          SATISFACTORY
+ Schedule Performance Index-SPI                                1.44          SATISFACTORY
+ Schedule Performance Index (annual) - SPI(a)                  1.54          SATISFACTORY
+V.      HALLAZGOS Y RECOMENDACIONES
+El Programa de Apoyo a Futuros Empresarios (PAFE), permitió dar continuidad a políticas de
+apoyo a la actividad emprendedora en Uruguay, y a la creación y consolidación de instrumentos
+que mejoran las condiciones para emprender. Al haber cumplido mayormente sus metas en
+términos de resultados, y totalmente en términos de productos, el PAFE contribuyó a su objetivo
+principal de incrementar la inversión privada en actividades de innovación.
+El proceso de evaluación y cierre de este Programa ha sido posterior a la preparación de una
+nueva operación de apoyo a la ANII, por lo que aquí se detallarán tanto hallazgos específicos
+para la reflexión sobre los resultados alcanzados por este programa, como hallazgos y
+recomendaciones que ya han sido considerados para el diseño de la nueva operación
+(UR-L1142;4329/OC-UR).
+5.1     Dimensión técnico-sectorial
+Hallazgo #1. La evolución y el crecimiento de la Red RAFE, permitió el surgimiento de
+financiamiento de actividades por las propias instituciones. El número de instituciones
+intermedias participantes de la red subió significativamente desde el diseño del PAFE, contando
+                                                 27
+"
+"hoy con al menos 68 instituciones de diferentes características. Como consecuencia, muchas
+actividades anteriormente incentivadas a través de fondos públicos comenzaron a ser
+financiados y ejecutados por las propias instituciones de la Red. Tal es el caso por ejemplo de
+concursos de idea de negocio y de planes de negocio. A partir de este hallazgo se entiende
+pertinente dejar sentada la recomendación de considerar el apoyo a las redes de actividad
+emprendedora con fondos públicos, como acciones de apalancamiento o \"leverage\" con cierto
+grado de transitoriedad, dado que las mismas no necesariamente deben continuar siendo
+financiadas con estos fondos.
+Hallazgo #2. La evolución de la Red RAFE, y heterogeneidad en el perfil de las instituciones
+redundó en cambios en la institucionalidad. El crecimiento ya mencionado de la Red RAFE en
+términos de cantidad de instituciones participantes fue inorgánico, y se identificó la existencia de
+diversos perfiles en términos de que tipos de emprendimiento apoyan (innovación vs
+emprendimiento por necesidad), lo que determinó la necesidad de analizar cuál era el mejor lugar
+institucional para albergar la gestión de los recursos de apoyo al trabajo en red. Como resultado
+de este análisis se decidió pasar a la órbita de la Agencia Nacional de Desarrollo (ANDE) la
+responsabilidad de gestionar y mantener activa la Red, en virtud de que la ANDE tiene una
+competencia más amplia en relación con el tipo de emprendimiento a apoyar. La ANII sigue
+participando, pero no con un rol de liderazgo. A partir de esta experiencia, surge la
+recomendación de analizar periódicamente la pertinencia del anclaje institucional de las acciones
+de apoyo a redes pensando siempre en los destinatarios y por tanto el facilitar lo más posible el
+acceso a los beneficios existentes en cada contexto.
+Hallazgo #3. Los posibles efectos de las intervenciones sobre el deseo o intención de “ser
+emprendedor” pueden requerir de otro tipo de herramientas diferentes a aquellas contempladas
+en el componente 1 del programa. Probablemente intervenciones más a largo plazo en materia
+de educación-formación emprendedora puede ser necesarias para generar algún cambio en la
+cultura o bien intervenciones de entorno más masivas que las que contempló originalmente el
+programa. Relacionado a este hallazgo también se destaca la necesidad de reflexionar sobre la
+desventaja de tener un indicador de medición de resultados basado en respuestas subjetivas o
+percepciones y además medido sin el nivel de especificidad suficiente como para extraer
+conclusiones solidas sobre los resultados del programa. Se recomienda para intervenciones que
+apuntan a cambios culturales no utilizar indicadores subjetivos de resultados y privilegiar
+indicadores micro relacionados con el tiempo de cambio sobre el cual se busca incidir
+(emprendimiento por oportunidad). Por ejemplo, si el componente 1 incluye actividades de
+sensibilización, se deberían identificar y seguir a los participantes de estas actividades y
+determinar el porcentaje de estos que inicia una nueva empresa.
+Hallazgo #4. El apoyo a incubación de tecnologías de Información y Comunicación (TICs)
+evolucionó más rápido que el de otros sectores. Las actividades de apoyo a incubadoras
+funcionaron bien en términos generales, pero se destacó el mejor funcionamiento en los casos
+de incubadoras vinculadas al sector de las tecnologías de la información y la comunicación. Lo
+que se pudo observar, es que en el caso de incubadoras vinculadas a otros sectores como el
+farmacéutico o el de biotecnología, las incubadoras requieren ofrecer apoyo técnico y académico
+de alta especialización y complejidad, y que tanto las incubadoras como los emprendimientos
+incubados en estos sectores requieren la realización de inversiones mayores en infraestructura
+y equipamiento, las que demandan mayores plazos y mayor volumen de recursos disponibles.
+En base a ello, se recomienda que, en el diseño de instrumentos de apoyo a la incubación, se
+incorpore cierta especificidad en el apoyo a incubadoras de sectores de mayores requerimientos
+y prevean recursos diferenciales en estos casos.
+Hallazgo #5. La efectividad de la incubación fue clara en crecimiento de número de empresas y
+en gestión de recursos públicos, y menos evidente en términos de internacionalización. Esta
+                                                 28
+"
+"constatación fue analizada, y se identificó que responde, al menos en parte, a que el esquema
+de incentivos utilizado para remunerar a las incubadoras preveía que a las mismas se les pagaran
+sus honorarios contra el cumplimiento de metas relacionadas con productos (talleres, empresas
+incubadas, etc), y no existieron pagos de ningún tipo vinculados a resultados. En pro de mejorar
+la efectividad de las actividades de incubación en el futuro, se recomienda que, en los programas
+de apoyo a los procesos de incubación, sea incluido el mecanismo de financiamiento combinado,
+con un pago base por producto, y un incremental por resultados.
+Hallazgo #6. La iniciativa de Softlanding se enfrentó a restricciones propias del clima de negocios
+de Uruguay. El PAFE se propuso testear la puesta en funcionamiento de intervenciones para
+atraer emprendimientos del exterior, también llamadas de “softlanding”. Dicha línea fue
+implementada, sin lograr el alcance esperado en términos de radicación permanente en el país.
+Del análisis realizado se identifican principalmente dos factores. Por un lado, los emprendedores
+y los emprendimientos encontraron una serie de dificultades relativas las condiciones para hacer
+negocios en Uruguay (“doing business”) que se relacionan con aspectos como plazos y
+complejidades para obtener documento de identidad, para apertura de cuentas bancarias, para
+conseguir garantías de alquiler, entre otras. Por otra parte, se identificó la existencia de
+instrumentos similares en países cercanos como Brasil, Chile y México con ecosistemas de
+negocios más desarrollados que generaron un flujo importante de los potenciales beneficiarios
+hacia dichos mercados. En otras palabras, Uruguay no logró ser suficientemente competitivo
+para retener a estos emprendimientos. En virtud de lo ambicioso y complejo de este tipo de
+intervenciones, se recomienda que se tenga presente en el diseño, que su implementación
+requiere de una propuesta país, que contemple los aspectos del “doing business” y no puede ser
+implementada solamente por una agencia de innovación como ANII.
+Hallazgo #7. Pasar de subsidio a la gestión de fondos de inversión a coinversión basada en
+proyecto parece ser el camino para garantizar un mayor seguimiento y aprendizaje de los
+resultados de las inversiones. El instrumento que subsidia la gestión de fondos de inversión ha
+demostrado efectividad en términos de los resultados de inversión privada alcanzados, pero no
+ha permitido un mayor aprendizaje sobre la evolución de aquellas empresas invertidas por los
+fondos. Para avanzar en este sentido, se ha identificado la necesidad, e incluido en la nueva
+operación del Banco (UR-L1142;4329/OC-UR), de reemplazar el subsidio a la gestión de fondos
+por el uso de instrumentos de coinversión que permite a la ANII no solo trabajar con fondos de
+inversión sino también con los mismos emprendimientos apoyados generando un mayor espacio
+de aprendizaje y una mejor trazabilidad en el uso de los recursos. Para generar mayor
+aprendizaje en la región se recomienda para otros proyectos y contextos analizar las condiciones
+para modificar instrumentos hacia el formato de coinversión.
+5.2     Dimensiones organizacionales y de gestión
+Hallazgo #8. No siempre tener una Unidad Ejecutora a medida del Banco es la mejor solución.
+En el caso de la ANII, inicialmente se contaba con roles específicos para la gestión y seguimiento
+de los proyectos del PAFE y luego se optó por integrar la gestión con el resto de las actividades
+de las diferentes gerencias de línea de la agencia. Esta unificación de los equipos permitió
+generar sinergias entre los instrumentos de emprendimiento y los de innovación, así como como
+la posibilidad de crear un proceso de pasaje de un tipo de instrumento a otro, casi natural para
+el beneficiario. A partir de esta experiencia, se recomienda analizar en todos los casos la
+pertinencia de contar con unidades ejecutoras específicas por programa siendo mejor el que
+estos programas sean ejecutados por la línea gerencial regular del organismo ejecutor en la
+medida que tenga las capacidades técnicas y fiduciarias adecuadas.
+Hallazgo #9. Fortalecimiento de capacidades internas de evaluación. El programa PAFE tuvo
+una evaluación intermedia externa y una evaluación final realizada de manera interna por la
+                                                 29
+"
+"Unidad de Evaluación y Monitoreo de la Agencia. La internalización de evaluación dentro de la
+institución ha fortalecido las capacidades técnicas del equipo, así como ha permitido que los
+resultados, recomendaciones y hallazgos sean apropiados con mayor efectividad. La evaluación
+final realizada fue presentada en diferentes instancias dentro de la Agencia, así como en talleres
+del ecosistema emprendedor nacionales e internacionales que permitieron difundir el trabajo
+realizado.
+5.3      Dimensión de procesos públicos
+Hallazgo #10. La creación de la Agencia Nacional de Desarrollo (ANDE) generó una potencial
+superposición con la Agencia Nacional de Investigación e Innovación (ANII). La promoción de la
+actividad empresarial es una actividad que habitualmente se genera desde diferentes organismos
+públicos, de acuerdo con las características y necesidades del sector. En pro de unificar algunos
+criterios y realizar economía de escala, el Estado Uruguayo creó la Agencia Nacional de
+Desarrollo (ANDE) como institución de referencia en la temática. Al momento de la creación de
+esta se identificó el riesgo de superposición de algunas actividades lo que llevó a la realización
+de coordinaciones que tuvieron buenos resultados. Entre ellos, el acuerdo sobre el
+funcionamiento de la RAFE bajo la órbita de la ANDE desde 2017 y la implementación de una
+ventanilla única de emprendimientos incubados ANII-ANDE y de validación de ideas de negocios
+a partir del 2018. La recomendación es aprovechar la suma de esfuerzos sin descuidar los
+anclajes institucionales.
+Hallazgo #11. Las nuevas empresas enfrentan cuellos de botella para alcanzar clientes del
+sector público. Se ha identificado que las reglas de mercado para las compras estatales en
+términos de requerimientos de antigüedad empresarial, trámites para registro de proveedores,
+etc., genera barreras de entrada a los proveedores nuevos. En virtud de ello se recomienda
+asesorar a las instituciones de supervisión de compras públicas, para la revisión de los requisitos
+exigibles a los nuevos proveedores, de manera de no generar cuellos de botella y barreras al
+ingreso mediante la incorporación de prácticas de compras públicas de innovación. Al mismo
+tiempo se recomienda que las incubadores incorporen capacidades para asesorar a las
+empresas incubadas en estos procesos de adquisiciones públicas.
+5.4      Dimensión fiduciaria
+Hallazgo #12. Los programas de innovación requieren formatos de contratación específicos que
+no siempre están contemplados en las políticas de adquisiciones del Banco. En ese sentido es
+importante clarificar la consistencia entre las condiciones de exclusión de ciertas adquisiciones
+que exige el banco y la necesidad de aplicar las reglas de derecho privado para las compras por
+parte de los emprendedores. En este sentido es importante elaborar guías para que los
+emprendedores tengan claridad de qué tipo de gastos pueden ser luego reconocidos y
+reintegrados o reconocidos por el Banco y cuáles no.
+Hallazgo #13. El PAFE operó bajo un modelo de préstamo de inversión que gatillaba
+desembolsos sobre la base un criterio de justificación de gastos del 80%. Esto limitaba la
+planificación de financiera ya que la existencia de muchos gastos pequeños generaba costos de
+transacciones elevados; A esto se agregaba que el PAFE entra dentro del cupo presupuestal
+que en el caso de estar agotado exige de la agencia usar fondos propios para mantener la regular
+ejecución del programa; Esto implica que bajo esta figura es importante tener ejecutores con
+capacidad financiera propia para absorber los desfasajes financieros entre ejecución y
+desembolsos; Estos desfasajes son aún más relevantes en por ejemplo, programas orientados
+por demanda donde las solicitudes de financiamiento por parte de los beneficiarios responden a
+condicionamientos del ciclo marco económico.
+                                                 30
+"
+"                              Tabla 5. Hallazgos y recomendaciones
+Hallazgos                                    Recomendaciones
+Dimensión técnico – sectorial
+#1. Evolución y crecimiento de la Red        Considerar el apoyo a las redes de actividad
+RAFE, permitió surgimiento de                emprendedora con fondos públicos, como acciones de
+financiamiento de actividades por las        apalancamiento o \"leverage\" con cierto grado de
+propias instituciones.                       transitoriedad.
+#2. Evolución de la Red RAFE, y
+heterogeneidad en el perfil de las           Analizar periódicamente la pertinencia del anclaje
+instituciones redundó en cambios en la       institucional de las acciones de apoyo a redes
+institucionalidad.
+                                             Desarrollar intervenciones a largo plazo basadas en
+                                             modificaciones de educación o formación emprendedora
+#3. Los posibles efectos de las
+                                             y/o intervenciones de alcance masivo basadas en redes
+intervenciones sobre el deseo o intención
+                                             sociales que puedan generar un cambio cultural (por
+de “ser emprendedor” no parece ser
+                                             ejemplo, un reality del emprendedor). Al mismo tiempo
+adecuadamente medible con datos
+                                             tratar de medir el impacto de estos cambios a nivel
+anuales.
+                                             micro de la población intervenida más que mediante el
+                                             uso de encuestas de percepción agregadas.
+                                             Que, en el diseño de instrumentos de apoyo a la
+#4. Apoyo a incubación de TICs fue más       incubación, se incorpore cierta especificidad en el apoyo
+rápido que el de otros sectores.             a incubadoras de sectores de mayores requerimientos y
+                                             prevean recursos diferenciales en estos casos.
+#5. La efectividad de la incubación fue
+                                             Que, en los programas de apoyo a los procesos de
+clara en crecimiento de número de
+                                             incubación, sea incluido el mecanismo de
+empresas y en gestión de recursos
+                                             financiamiento combinado, con un pago base por
+públicos, y menos evidente en términos de
+                                             producto, y un incremental por resultados.
+internacionalización.
+                                             La implementación requiere de una propuesta país, que
+#6. La iniciativa de Softanding se enfrentó
+                                             contemple los aspectos del “doing Business” y no puede
+a restricciones del “doing Business de
+                                             ser implementada solamente por una agencia de
+Uruguay.
+                                             innovación como ANII.
+#7. Pasar de subsidio a la gestión de
+fondos de inversión a coinversión parece     Para otros proyectos y contextos, analizar las
+ser el camino para garantizar un mayor       condiciones para modificar instrumentos hacia el
+aprendizaje y mejor trazabilidad de los      formato de coinversión.
+recursos públicos.
+Dimensiones organizacionales y de gestión
+#8. No siempre tener una UE a medida del     Analizar en todos los casos la pertinencia de contar con
+Banco es la mejor solución.                  unidades ejecutoras específicas.
+                                             Fomentar en la medida de lo posible el desarrollo de
+#9. Fortalecimiento de capacidades
+                                             capacidades de evaluación propias de los organismos.
+internas de evaluación.
+                                                  31
+"
+"Dimensión de procesos públicos
+#10. La creación de la Agencia Nacional de    Potenciar y promover la sumatoria de esfuerzos de
+Desarrollo (ANDE) generó una potencial        diferentes organismos, sin descuidar el anclaje
+superposición con la Agencia Nacional de      institucional de cada actividad para promover la
+Investigación e Innovación (ANII).            eficiencia y reducir los riesgos de superposición.
+                                              Identificar acciones específicas para conocimiento y
+                                              comprensión de las características de las compras
+#11 Las nuevas empresas enfrentan             estatales por parte de los startups.
+cuellos de botella para alcanzar clientes del Asesorar a las instituciones de supervisión de compras
+sector público.                               públicas, para la revisión de los requisitos exigibles a los
+                                              proveedores, de manera de no generar cuellos de
+                                              botella y barreras al ingreso.
+Dimensión fiduciaria
+#12. Los programas de innovación
+requieren formatos de contratación
+                                              Documentar en las políticas del Banco buenas prácticas
+específicos que no siempre están
+                                              de adquisiciones para programas de este tipo.
+contemplados en las políticas de
+adquisiciones del Banco.
+#13. En el caso de programas de inversión     Es importante contar con ejecutores con capacidad
+se puede dificultar la planificación          financiera propia para amortiguar desfasajes entre
+financiera cuando la ejecución es por         ejecución y desembolsos si afectar la dinámica de
+demanda de las empresas.                      convocatorias del programa.
+                                                   32
+"
+"BIBLIOGRAFÍA
+Abadie, A. (2005). “Semiparametric Difference-in-Differences Estimators”. Review of Economic
+Studies 72(1):1-19.
+Aboal, Diego (2017). Entrepreneurship policies and their impact on Country Level
+Entrepreneurship Indicators in Latin America. CINVE
+Aboal, Diego; Perera, Marcelo; Rivas, Gonzalo, et al (2016). Evaluación intermedia del Programa
+de Apoyo a Futuros Empresarios. CINVE
+BID (2014). Repensando el Desarrollo Productivo. Políticas e Instituciones sólidas para la
+Transformación Productiva.
+BID (2015). Nota temática de competitividad de Uruguay.
+Bukstein, D., Hernández, E., Monteiro, L., Peralta, M. and M. Vaz (2017); “Informe de Evaluación:
+Emprendedores Innovadores,” Documento de trabajo N. 13, Agencia Nacional de Investigación
+e Innovación del Uruguay, ANII.
+Crespi, Gustavo (2018). Análisis económico ex post. BID
+Crespi, Gustavo (2018). Evaluación de Impacto. BID
+Global Entrepreneurship and Development Institute (2016), 2016. GEDI Index.
+Goni Pacchioni, Edwin (2018). Entrepreneurs, entrepreneurshhips and ecosystems: an
+assessment of the effectiveness of Peruvian start-ups programs. BID.
+Gonzalez-Uribe, Juanita y Michael Leatherbee (2016). The Effects of Business Accelerator on
+Venture Performance: Evidence from Start-Up Chile. Monografia.
+Kanits, Hugo (2005) Empresarialidad y contexto emprendedor en Uruguay.PRODEM
+Kantis Hugo (2013).         Evaluación    externa    del   Programa   de     Apoyo    a  Futuros
+Empresarios.PRODEM
+Kantis, Hugo (2017). Evaluación de la plataforma de incubadoras de negocios uruguayas.
+PRODEM
+Nuñez, Inti (2017). Informe final Consultoría para el diseño de instrumentos de apoyo al
+emprendimiento innovador. Universidad de Concepción.
+OCDE (1997). Medición de las Actividades Científicas y Tecnológicas. Directrices propuestas
+para recabar e interpretar datos de la innovación tecnológica: Manual de Oslo”. Paris.
+Porter, Michel (2002). Competitiveness and the Role of Regions. Institute for Strategy and
+Competitiveness, Harvard Business School, The Center For Houston’s Future Houston, Texas
+November.
+Start-Up Chile (2017). Economic Impact.Corfo
+The World Bank (2012), Doing Business in a More Transparent World, DC.
+Thurikm R, and S. Wennekere (2004): Entrepreneurship, small business and economic growth,
+Journal of Small Business Enterprise Development, 11(1): 140-140.
+                                                33
+"

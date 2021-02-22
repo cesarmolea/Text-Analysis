@@ -1,0 +1,1457 @@
+"outlist[[i]]"
+"                          INFORMACIÓN BÁSICA DEL PROYECTO
+NÚMERO (S) DE PROYECTO:               NI-L1054
+TÍTULO:                               MEJORAMIENTO DE LA SALUD FAMILIAR Y COMUNITARIA EN
+                                      MUNICIPIOS DE ALTA VULNERABILIDAD SOCIAL
+INSTRUMENTO DE PRÉSTAMO:              INVERSIÓN
+PAÍS:                                 NICARAGUA
+PRESTATARIO:                          REPÚBLICA DE NICARAGUA
+PRÉSTAMO (S):                         2527/BL-NI
+SECTOR / SUBSECTOR:                   SALUD
+FECHA DE APROBACIÓN DIRECTORIO:       11 DE MAYO 2011
+FECHA DE EFECTIVIDAD CONTRATO DE PRÉSTAMO: 28 DE JULIO 2011
+FECHA DE ELEGIBILIDAD PRIMER DESEMBOLSO:     27 DE ENERO 2012
+MONTO PRÉSTAMO (S)
+MONTO ORIGINAL:                       US$20.000.000,00
+MONTO ACTUAL:                         US$20.000.000,00
+PARI PASU:                            31% - 69%
+COSTO TOTAL DEL PROYECTO:             US$64.905.000,00
+MESES DE EJECUCIÓN
+DESDE APROBACIÓN:                     76 MESES
+DESDE EFECTIVIDAD DEL CONTRATO:       74 MESES
+PERIODOS DE DESEMBOLSO
+FECHA ORIGINAL DE DESEMBOLSO FINAL: 28 DE ENERO DE 2017
+FECHA ACTUAL DE DESEMBOLSO FINAL:     30 DE SEPTIEMBRE DE 2017
+EXTENSIÓN ACUMULATIVA (MESES):        8 MESES
+EXTENSIÓN ESPECIAL (MESES):           NA
+DESEMBOLSOS
+CANTIDAD TOTAL DE DESEMBOLSOS HASTA LA FECHA: 20.000.000,00
+GRÁFICO DE DESEMBOLSOS:
+REDIRECCIONAMIENTO. ¿TIENE ESTE PROYECTO?
+FONDOS RECIBIDOS DE OTRO PROYECTO [NO] ¿CUÁL? [NA]
+FONDOS ENVIADOS A OTRO PROYECTO [ NO] ¿CUÁL? [NA]
+                                               iv
+"
+"Calificaciones del desempeño del proyecto en los PMR:
+                                         Etapa de                        Desembolsos reales
+       No.           PMR Fecha                      Desempeño
+                                           PMR                      acumulados (millones de USD)
+       1      Enero – Diciembre 2012        N/A     Satisfactorio                         3.672.500
+       2      Enero – Diciembre 2013         2      Satisfactorio                         7.872.500
+       3      Enero – Diciembre 2014         2      Satisfactorio                        12.372.500
+       4      Enero – Diciembre 2015         2      Satisfactorio                        16.672.500
+       5      Enero – Diciembre 2016         3      Satisfactorio                        20.000.000
+       6      Enero – Diciembre 2017         3      Satisfactorio                        20.000.000
+       7      Enero – Diciembre 2018         3      Satisfactorio                        20.000.000
+METODOLOGÍA DE ANÁLISIS ECONÓMICO EX POST: Análisis de costo-efectividad.
+METODOLOGÍA DE EVALUACIÓN EX POST: Análisis de contrafactual basado en revisión de literatura y
+análisis de impacto con indicadores próximos, y efectos fijos.
+CLASIFICACIÓN DE EFECTIVIDAD DE DESARROLLO: Altamente satisfactorio.
+PERSONAL DEL BANCO
+                 POSICIONES           EN PCR                               EN LA APROBACIÓN
+        VICEPRESIDENTE VPS             ANA MARÍA RODRÍGUEZ ORTIZ       SANTIAGO LEVY
+        VICEPRESIDENTE VPC             ALEJANDRE MEIRA DA ROSA         ROBERTO VELLUTINI
+        GERENTE DE PAÍS                VERÓNICA ZAVALA                 GINA MONTIEL
+        GERENTE SECTORIAL              MARCELO CABROL                  KEI KAWABATA
+        JEFE DE DIVISIÓN               FERDINANDO REGALÍA              FERDINANDO REGALÍA
+        REPRESENTANTE DE PAÍS          BAUDOUIN DUQUESNE               MIRNA LIÉVANO
+        JEDE DE EQUIPO DEL PROYECTO    EMMANUELLE S.MONIN              EMMANUELLE S.MONIN
+        JEFE DE EQUIPO DEL PCR         EMMANUELLE S.MONIN
+Tiempo y costo (directo) del personal
+                                                                        USD (incluidos los gastos
+          Ciclo de proyecto de etapa      # de semanas de personal
+                                                                           de viaje y asesoría)
+       Preparación                                                25                     114.773,47
+       Supervisión                                                63                     292.037,24
+                         Total                                    88                     406.810,71
+DECLARACIÓN DE LOS OBJETIVOS DE DESARROLLO DEL PROYECTO / PROGRAMA:
+El objetivo del programa es incrementar el uso de un conjunto de atenciones de salud materno-infantiles
+de buena calidad bajo el Modelo de Atención de Salud Familiar y Comunitaria (MOSAFC) en las
+poblaciones más vulnerables. Su fin es mejorar el estado de salud de esas poblaciones y reducir la
+desigualdad, contribuyendo al logro de los Objetivos de Desarrollo del Milenio (ODM) en cuanto a reducir
+la mortalidad infantil y materna.
+Al proveer financiamiento per cápita y bajo especificaciones de calidad de un conjunto de servicios de
+reconocida efectividad, y al propiciar capacitaciones y la dotación de equipos básicos en los municipios
+beneficiarios, se espera que aumente el uso y la cobertura de estos servicios, y resulte en una mejora
+de la calidad de la atención del binomio madre-hijo. Ello proveerá las condiciones para una disminución
+de la morbilidad materna e infantil severa, impactando en el mediano plazo en la disminución de la tasa
+de embarazos, especialmente en adolescentes, y de la mortalidad materna y neonatal.
+                                                    v
+"
+"  I.    INTRODUCCIÓN
+  El presente documento, contiene el Informe de Terminación de Proyecto, o PCR, por su sigla en
+  inglés, de la operación NI-L1054, “Programa de Mejoramiento de la Salud Familiar y Comunitario
+  en municipios de alta vulnerabilidad social”, (“Programa de Mejoramiento”), el que ha sido
+  elaborado con base a la metodología establecida por el Banco.
+  Los indicadores de salud materna e infantil de Nicaragua reflejan avances durante los 10 a
+  15 años anteriores al momento del desarrollo de la Propuesta de Préstamo del Programa de
+  Mejoramiento, y a la vez desigualdades importantes: según el perfil socioeconómico y la
+  residencia de las personas. La mortalidad materna a nivel nacional ha disminuido de más de
+  160 por 100.000 nacidos vivos (NV)1 en 1990, a 66 muertes por 100.000 NV en 2008 (según
+  reportó el Ministerio de Salud, MINSA). La mortalidad infantil ha mostrado también una gran
+  reducción de 42% NV en 1998 hasta 29% NV en 2006, pero no así la mortalidad neonatal que
+  se sitúa en 16 por 1.000 NV en 2006, sin cambios desde 2001, por lo que las muertes infantiles
+  se concentran en el período neonatal (73%)2. Detrás de los avances generales, la desigualdad
+  se manifiesta dado que los indicadores de embarazo adolescente, mortalidad neonatal e infantil,
+  y fecundidad, mejoran al transitar hacia los quintiles de bienestar menos pobres (ver gráfico
+  1.1 abajo).
+                                          Gráfico 1.1. Desigualdades en Salud
+                Fuente: ENDESA 2006-2007
+1    Comisión Económica para América Latina y el Caribe (CEPAL), Avance Regional ODM5, 2005.
+2    Instituto Nacional de Información para el Desarrollo (INIDE), Encuesta Demográfica y de Salud 2006/07 (ENDESA).
+                                                              1
+"
+"                                  Gráfico 1.2. Mapa – Muertes Maternas 2004 a 2006
+                                                                 RAAN
+                                                   Matagalpa
+  Geográficamente, las áreas de mayor pobreza y dispersión, como la Costa Caribe y la zona
+  Central-Norte (ver gráfico 1.2., arriba), que también concentran la mayor parte de la población
+  indígena y afrodescendiente, presentan los indicadores más desfavorables, lo cual indica que la
+  mortalidad materna y mortalidad infantil están en gran parte condicionadas por las desigualdades
+  en el acceso a los servicios de salud. Más del 70%3 de las muertes maternas registradas por el
+  MINSA, entre 2005 y 2008, provienen del área rural. Los departamentos de Jinotega, Matagalpa
+  y la Región Autónoma del Atlántico Norte (RAAN)4 son las tres áreas en las cuales ocurre el
+  mayor número de muertes maternas, dan cuenta del 42% de las muertes maternas del país, con
+  solamente el 22% de su población.
+  Los datos epidemiológicos del País identifican de forma consistente entre los factores de riesgo
+  de salud materna y de sobrevivencia del niño/a hasta un año: la fecundidad alta, la fecundidad
+  precoz y el bajo uso de servicios, especialmente controles prenatales (CPN), atención del parto
+  en establecimientos de salud (ES) y por personal calificado, y control puerperal. El 59% de las
+  muertes maternas son por causa obstétrica directa5, y en el grupo de adolescentes, que da
+  cuenta de alrededor del 20% de la mortalidad materna, el 71% de las muertes son ocasionadas
+  por estas mismas causas, evidenciando el mayor riesgo de salud de un embarazo para ese grupo
+  etareo y para sus bebés. El riesgo de muerte neonatal es cinco veces más alto si se compara a
+  madres menores de 18 años y nulíparas, frente a las de 20 a 34 años y con espacio intergenésico
+  mayor de 18 meses.
+  Basado en esta información, y en el contexto de la formulación del programa, el MINSA y el
+  Banco ratificaron la necesidad de aumentar el uso de servicios de planificación familiar, y de
+  atención al embarazo, parto y puerperio, con intervenciones por el lado de la oferta: mejorando
+  el acceso a los servicios y su calidad. Asimismo, se identificaron obstáculos por el lado de la
+  demanda de los servicios (falta de búsqueda oportuna de atención – sobre la cual influye la
+  calidad mencionada anteriormente; y falta de adopción de conductas saludables: evitando
+  embarazos precoces y/o múltiples y tardíos). La promoción de la atención por parte del personal
+  de salud y la mejora de la pertinencia de los servicios a través de la capacitación del personal
+  fueron incluidos en el diseño del programa.
+3    MINSA/OPS: Exclusión Social en Salud. 2008.
+4    Durante la ejecución del programa, el SILAIS del Atlántico Norte se dividió en dos: SILAIS de Bilwí y SILAIS de
+     Las Minas, y la Región RAAN cambió de nombre a “Región Autónoma de la Costa Caribe Norte”, RACCN.
+5    Las complicaciones obstétricas más frecuentes son, en este orden, la hemorragia post parto, la preeclampsia y
+     eclampsia y la sepsis puerperal; son las principales causas de muerte materna y están entre las “causas obstétricas
+     directas”. Datos: MINSA, Estrategia Nacional de Salud Sexual y Reproductiva (ENSSR), 2008.
+                                                             2
+"
+"  El Programa de Mejoramiento es el primero de una cartera de operaciones a ser formulado bajo
+  las políticas que el MINSA articuló a partir del 2008, esencialmente en los tres documentos del
+  Modelo de Salud Familiar y Comunitario, o MOSAFC: (i) Marco Conceptual del Modelo;
+  (ii) Manual de Organización y Funcionamiento del Sector; y (iii) Desarrollo Prospectivo de la Red
+  de Servicios; los tres documentos fueron publicados en su versión vigente durante la formulación
+  de este programa. El mapa a continuación y el gráfico en el Anexo A, elaborados en 2015, ilustran
+  la complementariedad de los programas bajo el MOSAFC – en morado figuran los 22 municipios
+  priorizados bajo el Programa de Mejoramiento. El anexo detalla como las intervenciones del
+  programa fueron complementadas con intervenciones de fomento directo de la demanda en las
+  operaciones preparadas inmediatamente después del mismo: Programa de Redes Integradas de
+  Salud-2, o RIS-2 – formulado en 2012; y Programa de la Iniciativa Salud Mesoamérica (operación
+  I, formulada en 2012, y II, formulada en 2014). A través del programa RIS, además, se impulsaba
+  el fortalecimiento del MOSAFC en cuanto a gestión en red integrada y al incremento de la
+  capacidad resolutiva de redes, mediante la ampliación o rehabilitación de dicha red en las
+  mismas áreas priorizadas por el Programa de Mejoramiento, con énfasis en establecimientos
+  que garanticen el acceso a la atención primaria y servicios esenciales, en especial, los cuidados
+  obstétricos y neonatales de emergencia.
+            Gráfico 1.3. Mapa de Focalización de la Cartera de Salud del Banco en Nicaragua 2011-2017
+                   Fuente: BID, Propuesta de Préstamo NI-L1095, 2015.
+  El programa fue focalizado en 22 municipios de los SILAIS de Jinotega, Matagalpa y RAAN6,
+  priorizados por la alta mortalidad y morbilidad materno e infantiles; así como por sus altos índices
+  de pobreza extrema, como lo muestra el cuadro a continuación.
+6     Ver nota 4: Durante la ejecución del programa, el SILAIS del Atlántico Norte se dividió en dos: SILAIS de Bilwí y
+      SILAIS de Las Minas, y la Región RAAN cambió de nombre a “Región Autónoma de la Costa Caribe Norte”, RACCN.
+                                                            3
+"
+"                          Gráfico 1.4. Cuadro de focalización del programa de Mejoramiento
+      Promedio entre los municipios        Pobreza            Embarazadas     Nacimientos     Promedio primeras
+      priorizados de los SILAIS            Extrema (NBI)      con 4o. CPN     en ES           consultas/hab.
+      RAAN                                          72,0%            40,0%           64,0%                   0,99
+      Jinotega                                      54,0%            47,0%           64,0%                   0,66
+      Matagalpa                                     56,0%            64,0%           44,0%                   0,59
+      Referencia: Nacional                          14,9%            66,0%           74,9%                   1,30
+       Fuente: BID, Estudio Económico, Programa de Mejoramiento de la Salud Familiar y Comunitaria en Municipios de
+       Alta Vulnerabilidad Social, 2011. Los datos provienen de la Encuesta de Medición de Niveles de Vida (2009), en
+       cuanto a pobreza y del Censo de 2005, los datos de salud son del año 2010 y provienen de la Oficina Nacional
+       de Estadísticas del MINSA. Enlace opcional 2.
+  El costo del programa fue de US$64.905.000 de los cuales US$20.000.000 de financiamiento del
+  Banco y US$44.905.000 de contrapartida, tal como establecido en el Contrato de Préstamo
+  2527/BL-NI suscrito en junio de 2011. Con el objetivo general de aumentar el uso de un conjunto
+  de atenciones de salud materno-infantiles de buena calidad, el programa buscó específicamente
+  apoyar la provisión de atenciones, estableciendo un mecanismo de financiamiento per cápita y
+  bajo especificaciones de calidad de este conjunto de servicios, y complementariamente mejorar
+  la capacidad del MINSA para la provisión de estas atenciones en cuanto a la capacidad del
+  personal y dotación de equipos básicos.
+  El programa fue organizado en dos componentes sustantivos y un tercero operativo; el
+  Componente 1, de extensión de la cobertura de servicios materno-infantiles en los 22 municipios
+  priorizados de los SILAIS de la RAAN, Jinotega y Matagalpa, con una inversión de
+  US$14.400.000 que representó el 72% del total del presupuesto; y de la que se ejecutaron
+  US$13,7 millones (95,5%); esta inversión constó de un monto equivalente a un per cápita anual
+  de US$26 por MEF y de US$33 por niño menor de cinco años, financiando este per cápita el
+  23% de costo total de dichas atenciones según el costeo realizado para la formulación(cuya
+  metodología basada en la función de producción de los servicios se detalla en el enlace
+  electrónico 2); las atenciones son de promoción, prevención, atención ambulatoria de primer nivel
+  y atención especializada requeridas según las normas de: planificación familiar, atención del
+  embarazo, parto y puerperio (sin riesgo y atención a complicaciones), atención del recién nacido,
+  y atención integral a las enfermedades más prevalentes de la infancia (“AIEPI”); el
+  Componente 2, de fortalecimiento de la capacidad resolutiva materno-infantil en los
+  22 municipios por un monto de US$3.696.050 que representaría el 18% del total del programa,
+  que logró ejecutar US$3,6 millones (97%) y que estaba orientado a aumentar la capacidad
+  resolutiva de la red, lo cual significa mejorar la capacidad de los recursos humanos disponibles,
+  mejorar la dotación de equipamiento y materiales – supliendo necesidades que no estarían
+  subsanadas en el componente 1, o sea, que no estén cubiertas como parte del costo recurrente
+  contemplado en el costeo del primer componente. El Componente 3 de gestión, supervisión y
+  evaluación por un monto de US$1.263.950, representaría un 6,3% del total del programa y que
+  logró ejecutar US$1,0 millones (80%)7. Incluyó la auditoría técnica de la extensión de cobertura
+  (o evaluación de desempeño) así como la evaluación reflexiva del programa. La evaluación
+  reflexiva se centró en valorar el cumplimiento de la Matriz de Resultados y analizar los factores
+  que explican el desempeño del programa. Debido a que la efectividad de las intervenciones
+  seleccionadas ha sido ampliamente comprobada en contextos comparables al de Nicaragua8 y
+7   La diferencia se refiere a gastos administrativos por un monto de US$1,710,872 (3,4%).
+8   Véase, Disease Control Priorities for Developing Countries-2, http://www.dcp2.org y Programa CHOICE de la OMS,
+    www.who.int/choice - base de revisión de evidencias utilizadas al momento del diseño.
+                                                             4
+"
+"   la dificultad de identificar grupos aún de comparación en un contexto de política de extensión
+   masiva de la cobertura, se acordó, en el momento del diseño, no realizar una evaluación
+   experimental. Para el cierre del programa, el Banco realizó una evaluación de impacto ex post,
+   con datos administrativos, que permitieron construir indicadores próximos de los de impacto y
+   resultados, y realizar un análisis de efectos fijos, además de una revisión de literatura actualizada
+   sobre la efectividad de las intervenciones9.
+   Los servicios incluidos en el Componente 1 (detallados en el enlace opcional 1 de este PCR) se
+   dirigen a dos poblaciones meta generales: las mujeres en edad fértil o MEF, entre las cuales
+   mujeres adolescentes (15-19 años) y en edad fértil y adultas (20-49 años), y los niños y las niñas
+   menores de cinco años.
+                                   Gráfico 1.5. Cuadro de Población Meta del Programa
+                                                                               Años
+                    Población
+                                                  2011          2012           2013           2014          2015
+      Población Total                            1,060,006    1,085,029       1,110,579     1,137,698      1,163,883
+      Mujeres en Edad Fértil                       266,284      274,928         283,535       292,129        300,734
+                Mujeres adolescentes               158,949      160,970         162,455       163,786        165,376
+      Niños menores de un año                       30,312        30,791         31,248        31,681         32,079
+      Niños entre 1 y 4 años                       128,818      130,842         132,778       134,604        136,287
+              Fuente: Anexo Técnico de la Propuesta de Préstamo NI-L1054, con base en los datos del INIDE.
+   Para documentar los servicios prestados y beneficiarios alcanzados, se utilizaron seis atenciones
+   (reflejadas en el respectivo indicador de producción de servicios), entre el centenar de posibles
+   atenciones incluidas en el conjunto. El MINSA reportó mes a mes números absolutos de
+   personas atendidas con estas seis atenciones “trazadoras”, en cada municipio, como soporte de
+   las solicitudes de desembolso en cuanto al Componente 1. Como cada atención es única10 en el
+   ciclo preconcepción-embarazo-perinatal-infancia, cada atención corresponde a una persona
+   diferente en un año dado. Los indicadores fueron:
+        (i)       Número de mujeres en edad fértil captadas con método de planificación familiar;
+        (ii)      Número de primeros CPN precoces;
+        (iii)     Número de NV atendidos en los antiguos centros de salud con cama y/o hospitales
+                  primarios y/o establecimiento de salud (ES) de mayor resolución;
+        (iv)      Número de mujeres con atención de puerperio mediato;
+        (v)       Número de niños/as menores de 1 año con tercera dosis de pentavalente; y
+        (vi)      Número de niños/as de 1 a 4 años con segunda visita de vigilancia y promoción de
+                  crecimiento y desarrollo (VPCD) en el año calendario.
+   Dichos indicadores permitirían dar seguimiento al enfoque del programa: reducir mortalidad
+   materna, neonatal y en la niñez, como parte del subconjunto de atenciones previstas por el
+   MOSAFC. En la sección siguiente, las tablas 2.2 y 2.3 presentan los indicadores por tipo,
+   incluyendo los valores de línea de base y la meta esperada, así como el resultado final alcanzado.
+9     Ver Enlace opcional 4 de este PCR.
+10    Es decir, refleja una atención que puede darse una sola vez: e.g., captación es incorporación por primera vez en el
+      programa de Planificación Familiar o a la atención prenatal; etc.
+                                                             5
+"
+"          II. CRITERIOS CENTRALES. RENDIMIENTO DEL PROYECTO
+II.1      Relevancia
+                  a. Alineación con las necesidades de desarrollo del país
+ Como indicado en la sección introductoria, en 2008, el MINSA de Nicaragua, como respuesta
+ institucional a los problemas de salud del país, estableció el MOSAFC, el cual está dirigido a la
+ promoción de la salud y prevención de enfermedades desde las comunidades, la
+ dispensarización de las familias y la extensión de cobertura de servicios de salud gratuitos,
+ dirigidos principalmente a los grupos vulnerables en zonas de difícil acceso y pobreza, con el
+ objetivo de reducir brechas en salud. Bajo el marco de políticas que constituye el MOSAFC, el
+ MINSA inició en 2011 la implementación de una serie de operaciones con el apoyo del Banco,
+ con el objetivo general de mejorar el estado de salud y bienestar de las poblaciones más
+ vulnerables mediante el apoyo a la ampliación de las coberturas en áreas desfavorecidas y
+ mejoras en la calidad y capacidad resolutiva de los servicios de atención de salud.
+ La primera de estas operaciones fue el “Programa de Mejoramiento de la Salud Familiar y
+ Comunitaria en municipios de alta vulnerabilidad social (NI-L1054)”, aprobada en 2011 y que
+ alcanzó elegibilidad en 2012. Sus objetivos específicos son: (i) incrementar el uso de un conjunto
+ de atenciones en salud materno-infantiles de buena calidad bajo el MOSAFC; y (ii) mejorar la
+ calidad de la atención y la capacidad resolutiva de los ES. También en etapa de cierre se
+ encuentra la operación aprobada en 2012, “Programa Redes Integradas de Salud (NI-L1068)”,
+ que tiene como objetivo específico mejorar el acceso y la calidad a los servicios de salud, así
+ como la calidad de la atención. Finalmente, en 2013 se aprobó el “Programa de Fortalecimiento
+ de la Salud Comunitaria y Extensión de Servicios de Salud y Nutrición en la Comunidades del
+ Corredor Seco de Nicaragua (NI-L1081)” que estableció como objetivos específicos: (i) aumentar
+ la asignación del personal asistencia del primer nivel, en especial en perfiles técnicos y de
+ enfermería, así como a la ampliación de la red comunitaria activa; y (ii) mejorar el acceso a
+ servicios comunitarios de salud y nutrición en niños menores de dos años y MEF en los
+ municipios priorizados.
+ La propuesta del Programa de Mejoramiento se alinea con las necesidades de mejoría de la
+ salud de los más vulnerables, prioridad identificada para el desarrollo del país, del punto de vista
+ de la equidad y del desarrollo productivo. Los indicadores señalados en la sección I. reflejan tanto
+ las necesidades de salud de la población más vulnerable, como su concentración en las áreas
+ que el programa focalizó (las de mayor concentración de pobreza y otros indicadores – en
+ particular de salud, deteriorados). Así, el programa priorizó el mejorar el estado de salud en los
+ temas más relevantes como manifestación de la desigualdad: la salud materno-infantil; y en las
+ zonas de mayores retos y rezagos: el Caribe Norte y el Centro-Norte del País. La propuesta de
+ préstamo apoya la extensión de un conjunto de servicios por ciclo de vida, desde la planificación
+ familiar, la salud materna, atención al recién nacido y niños menores de cinco años,
+ principalmente mediante estrategias de extensión de cobertura, recibiendo el MINSA un
+ financiamiento por persona atendida en municipios focalizados.
+ El objetivo general de mejorar el estado de salud y bienestar de las poblaciones más vulnerables
+ ha estado alineado con las prioridades y estrategias del País –desde su formulación y ejecución,
+ hasta su finalización. En particular, el Plan Nacional de Desarrollo Humano (PNDH) 2009-2016
+ incluyó la Política Nacional de Salud, que priorizó la atención a grupos vulnerables: menores de
+ cinco años, adolescentes y mujeres; población que vive en zonas secas, en municipios que
+ concentran población en extrema pobreza y en la Costa Caribe. El PNDH y la Política Nacional
+ de Salud focalizan las poblaciones más vulnerables (incluyendo áreas geográficas de
+ concentración de la pobreza) y destacan los principios de gratuidad y universalidad
+                                                   6
+"
+"   (sin contradicción con la focalización, que la operativiza, al cerrar las brechas de cobertura
+   atendiendo a los más pobres), promoviendo acciones fundamentadas en la atención primaria, y,
+   además de la extensión de cobertura de servicios básicos de salud, realizando acciones de
+   promoción y prevención, buscando una amplia movilización y participación comunitaria. El diseño
+   del programa para extender cobertura a través de transferencias al propio sistema de salud, para
+   fortalecer la capacidad institucional y sin intermediación con actores no institucionales, fue
+   característico de este programa en contraste con otros que implican desarrollar mecanismos de
+   compra de servicios.
+   Asimismo, las tres operaciones indicadas mantuvieron relevancia a lo largo de su vida, ya que
+   los Ejes del Programa Nacional de Desarrollo Humano 2018-2021 del Gobierno establecen como
+   prioridad la continuación del Modelo de Salud Familiar y Comunitario, las estrategias de
+   fortalecimiento para mejorar la calidad de la atención en salud en los municipios; y seguir
+   reduciendo la mortalidad infantil y materna, desarrollando las estrategias comunitarias,
+   fortaleciendo las casas maternas y mejorando la calidad de los servicios.
+                   b. Alineación estratégica
+   La Estrategia de País con Nicaragua 2008-2012 (GN-2499), destaca como lineamiento
+   estratégico el desarrollo de un sistema para el bienestar social y la mejora, gestión y cobertura
+   de los servicios sociales básicos. El Programa de Mejoramiento contribuye al lineamiento de
+   “mejora de la calidad de los servicios de salud y cobertura en forma sostenible a la población
+   más vulnerable”, específicamente al indicador de cobertura de partos institucionales.
+   Este Programa de Mejoramiento fue el primero de tres operaciones en el sector de salud
+   actualmente en proceso de cierre y que consolidaron gradualmente un programa sectorial
+   consistente, de apoyo focalizado a las políticas nacionales (ver Anexo A que presenta un gráfico
+   de la lógica programática de la cartera de Nicaragua). El programa de Mejoramiento se centró
+   en fortalecer la capacidad de extender un conjunto de servicios costo-efectivos para incidir sobre
+   los indicadores más relevantes para mejorar el estado de salud de los más vulnerables y por ello
+   la equidad. Complementario a esto, el Programa de Redes Integrales de Salud (NI-L1068)
+   (aprobado en el 2012), financia el fortalecimiento de las redes de servicios del MINSA en términos
+   de gestión, práctica clínica e inversión en infraestructura y equipamiento en los mismos
+   SILAIS/municipios, con énfasis en unidades de primer nivel de atención que ofrecen Cuidados
+   Obstétricos de Emergencia (COEm), permitiendo mejorar el acceso en la atención adecuada del
+   parto y recién nacido en unidades con ese nivel de resolución y por personal calificado, dado que
+   RIS incluye además la capacitación masiva en protocolos de atención y mecanismos de gestión
+   tendientes a favorecer la continuidad de la atención. La Operación NI-G100111 con recursos de
+   la Iniciativa Salud Mesoamérica, formulada entre 2011 y 2012, llegó a complementar con las
+   intervenciones por el lado de la demanda, y apoyo al MINSA para consolidar intervenciones
+   comunitarias, articuladas con el primer nivel de atención.
+   En 2013 se aprobó el “Programa de Fortalecimiento de la Salud Comunitaria y Extensión de
+   Servicios de Salud y Nutrición en la Comunidades del Corredor Seco de Nicaragua (NI-L1081)”
+   (elegible en octubre de 2014) para: (i) aumentar la asignación del personal asistencia del primer
+   nivel, en especial en perfiles técnicos y de enfermería, así como a la ampliación de la red
+   comunitaria activa; y (ii) mejorar el acceso a servicios comunitarios de salud y nutrición en niños
+   menores de dos años y MEF en los municipios priorizados.
+   Ésta y las otras operaciones complementarias mantuvieron consistencia con la Estrategia de
+   País del Banco con Nicaragua 2012-2017 (GN-2683), destacando la reducción de la desnutrición
+11    Primera Operación de la Iniciativa de Salud Mesoamérica en Nicaragua (NI-G1001).
+                                                           7
+"
+"   crónica infantil en menores de tres años y la reducción de la mortalidad neonatal, en especial en
+   el área rural pobre, como metas prioritarias. Las operaciones apoyaron la extensión de los
+   servicios comunitarios integrales de salud y nutrición, con énfasis en los primeros 1.000 días,
+   contribuyendo a disminuir la desnutrición crónica, morbididad y mortalidad materna e infantil.
+   El Programa de Mejoramiento, fue formulado en línea con el Noveno Aumento de Capital, GCI-9,
+   y se enmarcó en la política social favorable a la igualdad y la productividad establecida como
+   mandato del GCI-9. La misma política está enfocada en la promoción de la igualdad a través de
+   la ampliación del acceso a servicios básicos de salud y nutrición, y a la salud preventiva. Los
+   resultados esperados del programa sostendrían directamente las metas de desarrollo regional
+   del GCI-9 de reducción de la mortalidad materna e infantil, contribuirían al indicador de personas
+   (indígenas y no indígenas) que se benefician de un paquete básico de servicios de
+   salud. También, contribuyó a la prioridad dada al apoyo a los países pequeños y de menor
+   desarrollo relativo.
+   De igual manera, la selección de intervenciones integrales y costo efectivas, así como el apoyo
+   a aspectos de salud comunitaria y red integrada basada en la Atención Primara a la Salud (APS),
+   según enfatiza el MOSAFC, son plenamente consistentes con el Marco Sectorial de Salud y
+   Nutrición (GN-2735-3) formulado posteriormente al programa.
+   Finalmente, el Programa de Mejoramiento y operaciones complementarias también se alinearon
+   con la actualización de la Estrategia Institucional del BID para 2016-2019 (UIS por sus siglas en
+   inglés) 2010-2020 (AB3008), ya que los dos objetivos generales del GCI-9 –específicamente
+   crecimiento sostenible y reducción de la pobreza y la desigualdad- continúan vigentes. En ella,
+   se establecen tres grandes retos del desarrollo: (i) exclusión social y desigualdad; (ii) bajos
+   niveles de productividad e innovación; y (iii) integración económica regional rezagada.
+                     c. Relevancia del diseño
+                  12
+   El programa fue formulado basado en varias hipótesis respecto de la situación de salud materna
+   y neonatal del País, los matices regionales y por grupos especiales de población. Las hipótesis
+   fueron fundamentadas en la información estadística-epidemiológica del País13, y teorías basada
+   en evidencia, que describen los procesos relacionados con la salud, particularmente la salud
+   materno-infantil, tanto por el lado de la oferta de servicios como de la demanda. El análisis
+   permitió focalizar el programa en las zonas indicadas: RACCN – entonces RAAN-, Jinotega y
+   Matagalpa y establecer las intervenciones basado en su efectividad, según la literatura, para
+   abordar las problemáticas de salud identificadas. El poco avance de la transición epidemiológica
+   en las áreas de menor desarrollo y donde más se manifiesta la desigualdad justificó el enfoque
+   materno-infantil del programa.
+   En cuanto a focalización, los Sistemas Locales de Atención Integral en Salud14 (SILAIS) de la
+   RAAN, Jinotega y Matagalpa, priorizados bajo el programa, son los que ostentaban una situación
+   de salud de su población más desfavorable, y hacían frente a los mayores déficits de recursos
+   por habitante, contando con 0,75 médicos por 10.000 habitantes (RAAN) y 2,41 (Matagalpa)
+12    En el enlace opcional 3 se propone un análisis consolidado de la relevancia y alineación de los tres programas
+      complementarios indicados en la introducción, y cuyos períodos de ejecución se traslaparon, los tres actualmente
+      cerrando su evaluación.
+13    La fuente de los datos fue la Oficina Nacional de Estadísticas del MINSA, datos reflejados en su ENSSR, divulgada
+      en 2009-2010; también la ENDESA que había sido recolectada en 2006-07 y cuyo informe final fue divulgado en
+      2009, sustentó el diagnóstico de las necesidades del país. Finalmente, se utilizó documentación compartida por el
+      MINSA sobre la “Situación de Mortalidad Materna, Perinatal y Neonatal” (abril 2008, actualizado en marzo 2009)
+      que sustentó su “Plan de reducción de mortalidad perinatal y neonatal” (octubre 2008), documentación que refleja
+      el análisis de situación del MINSA basado en los datos oficiales de estadísticas vitales, epidemiológicos y
+      producción de servicios.
+14    Los SILAIS son la delegación del MINSA en el ámbito del departamento correspondiente.
+                                                              8
+"
+"   contra 4,3 en el país, por lo que el acceso a una atención adecuada del parto se ve limitado por
+   la capacidad resolutiva de la red.
+   Las teorías que sustentan el diseño son las de maternidad segura, con los pilares de planificación
+   familiar y de acceso a COEm, más adelante complementado como cuidados obstétricos y
+   neonatales; la teoría de las tres demoras, que relaciona la mortalidad materna con procesos del
+   lado de la demanda y la oferta, teoría que también fue aplicada posteriormente a otras
+   problemáticas de salud donde la valoración de atenciones preventivas, el conocimiento de
+   señales de peligro y la búsqueda oportuna de atención son críticas (como es el caso de la
+   mortalidad neonatal y la mortalidad infantil). El Anexo técnico de la propuesta de préstamo
+   desarrolló ese marco teórico y las referencias académicas que lo sustentan.
+   Por la oferta, se analizó y priorizó incidir sobre la disponibilidad de oferta y calidad de la atención,
+   esta última, entendida como el apego en el proceso de atención a protocolos basados en
+   evidencia: el perfil y capacidad de quién atiende, los alcances del proceso de atención, la
+   disponibilidad de insumos, etc., la oportunidad de la atención, su continuidad, y su pertinencia
+   respecto de las costumbres y preferencias de los usuarios. Por el lado de la demanda de estos
+   servicios, se priorizó incidir sobre la búsqueda oportuna de atención – sobre la cual influye la
+   calidad mencionada anteriormente - y sobre la adopción de conductas saludables por las propias
+   poblaciones, como son el evitar embarazos precoces y/o múltiples y tardíos – lo cual está
+   directamente alineado con el análisis epidemiológico citado en la sección I above.
+   Específicamente, el programa se alineó con la estrategia de ampliación de los cuidados
+   obstétricos, luego cuidados obstétricos y neonatales, de emergencia (de atención a
+   complicaciones) y, posteriormente aún, de ampliación de cuidados esenciales (que incluyen los
+   de emergencia y los de carácter preventivo, prestados en el primer nivel de atención). Así, para
+   disminuir la ocurrencia de muertes maternas obstétricas, la ENSSR hace énfasis en ampliar la
+   oferta de COEm15 en los ES habilitados para atender el parto, puesto que la mayoría de las
+   complicaciones del parto no son previsibles. El programa reflejó esa evolución desde una
+   estrategia de clasificación del riesgo obstétrico, al momento de la atención prenatal, priorizando
+   la atención de las embarazadas de “alto riesgo obstétrico”, o ARO, hacia el garantizar el acceso
+   a los COEm a todas las mujeres, con énfasis en el área rural, independientemente de su
+   clasificación de riesgo obstétrico. En el 2006, tres de cada cuatro SILAIS16 no cumplían con el
+   estándar internacional de contar por cada 500.000 habitantes con al menos un ES que ofreciera
+   COEm completos y cuatro que ofrecieran COEm básicos (ver nota 15), influyendo en que
+   solamente el 35,6% de las complicaciones obstétricas fueran atendidas en ES con esa capacidad
+   resolutiva. De ahí que el indicador trazador de la ampliación de cobertura del parto institucional
+   califica “Nacimientos atendidos en establecimiento que ofrece COEm”. También esa estrategia
+   se encontraba alineada con la situación del país, puesto que el descenso inicial de la mortalidad
+   materna logrado por ampliación de la cobertura de CPN, a finales de los años 1990 e inicios de
+   los años 2000, llegaba a su límite puesto que las muertes maternas, aunque mucho menos
+   numerosas que en 1990, ocurrían en una proporción muy significativa en mujeres quienes habían
+   cumplido con la norma de atención prenatal17.
+15    Ibid. Los COEm consisten en antibióticos parenterales, oxitócicos parenterales, anticonvulsivantes parenterales,
+      extracción manual de placenta, extracción de productos retenidos del embarazo (COEm básicos), y transfusión de
+      sangre y cesárea (COEm completos).
+16    Fondo de Población de Naciones Unidas (UNFPA-MINSA), Evaluación de COEm, 2006.
+17    Por ejemplo, en 2007 el 36% de las muertes maternas ocurrieron entre mujeres que habían recibido cuatro o más
+      CPN. La auditoría del desempeño realizada para el programa de Mejoramiento de la Salud Materno-Infantil
+      (1607/SF-NI, NI-L1001) confirma esa lección, sobre calidad y continuidad de la atención perinatal, ya que observó
+      un incremento importante en la cobertura de CPN y del parto institucional entre 2005 y 2008, pero también la
+                                                            9
+"
+"   Para reducir la mortalidad materna e infantil además de aumentar coberturas se debe mejorar la
+   calidad de la atención perinatal, incluyendo su continuidad. El MINSA consideró18 que el 90% de
+   las muertes por causas obstétricas directas ocurridas en hospitales en el 2007, eran evitables
+   dada la condición clínica de las pacientes al momento de su ingreso al ES, e indica que el
+   personal de salud aplica los protocolos de forma deficiente19.
+   Se identificaron los factores que influyen sobre el uso de los servicios de salud por el lado de la
+   demanda, relacionados con los costos indirectos y de oportunidad de acceder a los servicios, o
+   con aspectos de calidad o socioculturales20, con la información de la ENDESA. Estas limitaciones
+   al acceso son de carácter geográficos y de cultura, y explican en parte la baja utilización de los
+   servicios. Así, en 2006-07, la cobertura de CPN se encuentra por debajo de la media del país21
+   en la mitad de los municipios de los tres SILAIS citados. El 57,4%22 de las mujeres indígenas
+   miskitas no fueron atendidas en su parto por personal de salud, comparado con el 26,3% a nivel
+   nacional. La capacidad de la mujer de decidir sobre su salud sexual y reproductiva es relevante,
+   donde patrones patriarcales redundan en un menor uso de los servicios de salud institucionales.
+   La lógica vertical del programa, por tanto, partió del fin de mejorar la salud de las poblaciones
+   más vulnerables, donde las mortalidades materna y neonatal presentan la mayor prioridad, e
+   identificó un objetivo general de incrementar el uso de un conjunto de atenciones de salud
+   materno-infantiles de buena calidad bajo el MOSAFC en territorios priorizados por su alta
+   vulnerabilidad. La selección de las intervenciones del conjunto responde a la evidencia sobre la
+   costo efectividad de las mismas, por lo que aumentar el uso de estas atenciones contribuiría a
+   una disminución de la morbilidad materna e infantil severa, impactando en el mediano plazo en
+   la disminución de la tasa de embarazos, especialmente de adolescentes y de la mortalidad
+   materna y neonatal. Mientras la focalización respondió a las brechas territoriales identificadas en
+   los indicadores de impacto y de resultado. Se desagregó el objetivo de aumento del uso en dos
+   objetivos específicos y complementarios: (i) apoyar la extensión de cobertura de un
+   conjunto de servicios de reconocida efectividad, mediante un financiamiento per cápita y bajo
+   especificaciones de calidad; y (ii) mejorar la capacidad resolutiva de la red y calidad de la
+   atención al propiciar capacitaciones, la dotación de equipos básicos en los municipios
+   beneficiarios, y al fortalecer el sistema de registro de atenciones.
+   Las intervenciones se distribuyeron en tres componentes. Por un lado, la entrega del
+   financiamiento incremental para la atención (a través del Componente 1), y, por otro lado, las
+   intervenciones en el Componente 3, para asegurar la viabilidad los servicios y por tanto los
+   desembolsos del primer Componente, buscaban incidir sobre la disponibilidad y gestión de las
+   atenciones de buena calidad y están por tanto directamente relacionadas con el resultado de
+   extensión de cobertura. Se trata de la mejoría en los sistemas de registro de la producción, y
+   de auditoría técnica– que certifica la cobertura reportada por el MINSA y valora la calidad de los
+      persistencia de elevadas tasas de hemorragias postparto y asfixia neonatal, causas de muerte materna e infantil
+      respectivamente, para las cuales los CPN deben identificar factores de riesgo, pero más importante para las cuales
+      los protocolos de atención establecen medidas de prevención y manejo – en especial dado que no todas son
+      prevenibles ni previsibles.
+18    Ibid nota 15.
+19    En 2009 en la RAAN, Jinotega y Matagalpa solamente entre el 31% y el 46% de las Historias Clínicas Perinatales
+      Básicas (HCPB) fueron llenadas en cumplimiento de los estándares. (GESAWORLD)
+20    El 16,9% de mujeres que dieron a luz en casa invoca la falta de dinero (4,4%) o de transporte (12,5%); el
+      12,4% invoca el maltrato en el hospital y el 17,2% la falta de privacidad; el 9,9% indica que quería familiares
+      presentes, y el 4,6% que en casa “se pueden practicar costumbres”.
+21    Ibid nota 2.
+22    UNFPA, Plan de Acción del Programa del País 2002-2012.
+                                                           10
+"
+"   servicios prestados bajo el primer componente (cumplimiento de protocolo y satisfacción de los
+   usuarios).
+   El Componente 2 está más directamente relacionado con el segundo objetivo específico, con la
+   mejora de la capacidad de los establecimientos de salud y del personal. Se vio reflejado en
+   la adecuación de las salas del parto habilitadas en las unidades de salud que atienden partos,
+   con base en la Norma de Humanización del Parto Institucional, (Norma 042), donde se establece
+   “…que el parto sea atendido en la posición que la mujer solicita, en especial cuando es vertical.
+   Permitir el acompañamiento, respeto por las costumbres y tradiciones durante el parto”, además
+   de generar condiciones en las casas maternas para albergar a mujeres procedentes de
+   comunidades alejadas para esperar el momento del parto, lo cual contribuyó a una mejor
+   aceptación y utilización de estos servicios por la población, condición necesaria para el aumento
+   de la demanda de atención del parto institucional por personal capacitado, aportando al indicador
+   de impacto 223 y al indicador de resultado 324.
+23    Mortalidad materna trianual en los municipios priorizados.
+24    Tasa de nacimientos vivos en centros de salud con cama o establecimientos de mayor resolución.
+                                                             11
+"
+"Gráfico 2.1. Lógica vertical del Programa
+                    12
+"
+"                                                   Gráfico 2.2.: Matriz de resultados. Aprobación y final del proyecto
+                                                                                                                        Al terminar el proyecto
+                                                                       En aprobación       En elegibilidad + 60 días
+                                                                                                                                 (PCR)
+                           Indicadores                          Unidad       Línea         Unidad    Línea             Unidad     Línea             Comentarios
+                                                                                     Meta                       Meta
+                                                                   de          de             de       de                 de        de       (A)
+                                                                                      (P)                        (P)
+                                                                Medida       Base          Medida     Base             Medida     Base
+     Impactos
+   Indicador #1                                                                                                                                        nacimientos
+                                                                                                                                                    con madre <20
+   Tasa de nacimientos en adolescentes en los                       %         28.5   25.4      %      28.5      25.4       %       28.5     26.6     años / total de
+   municipios priorizados.                                                                                                                             nacimientos
+                                                                                                                                                            *100
+   Indicador #2                                                                                                                                           muertes
+                                                                                                                                                    materna de tres
+                                                                 Por cien                  Por cien                    Por cien                            años /
+                                                                   mil                        mil                         mil
+    Mortalidad materna    trianual25 en los municipios           nacidos      132    116   nacidos    132       116    nacidos     132     66.42       nacimientos
+   priorizados.                                                   vivos                      vivos                       vivos                      vivos del mismo
+                                                                                                                                                          período
+                                                                                                                                                         *100.000
+   Indicador #3                                                                                                                                        muertes en
+                                                                                                                                                    menores de 28
+                                                                 Por mil                    Por mil                     Por mil
+   Mortalidad neonatal (MN) en los municipios                    nacidos       18    14.4  nacidos     18       14.4   nacidos      18       15      días o menos /
+   priorizados.                                                                                                                                        nacimientos
+                                                                                                                                                          *1.000
+   Objetivo específico de Desarrollo 1:
+   Incrementar el uso de un conjunto de atenciones de salud materno-infantiles de buena calidad, bajo el MOSAFC
+     Resultados
+   Indicador #1                                                                                                                                       Mujeres que
+                                                                                                                                                     inician uso de
+                                                                                                                                                        método de
+   Porcentaje de MEF captadas con método de                         %         16.9   20.4      %      16.9      20.4       %       16.9     25.9     planificación /
+   planificación familiar.                                                                                                                            total de MEF
+                                                                                                                                                            *100
+   Indicador #2                                                                                                                                      NÑ<1 año con
+                                                                                                                                                     tercera dosis /
+   Cobertura de niños menores de un año con tercera                %           86    94.5                                 %         86      98.1    total de NÑ < 1
+                                                                                              %        86       94.5
+   dosis de pentavalente                                                                                                                                 año *100
+                                                                                                                                                       26
+   Indicador #3                                                                                                                                          Egreso de
+                                                                                                                                                       menores de
+   Tasa de hospitalización por diarrea en menores de               %          4.7     3.1     %        4.7       3.1      %         4.7      9.3     cinco años por
+   cinco años                                                                                                                                        diarrea / Total
+                                                                                                                                                     de egresos de
+25 Se considera un período de tres años ya que el evento de muerte materna es poco frecuente (en términos relativos) y por tanto puede presentar alta variabilidad
+   en períodos cortos.
+26 Definición corroborada por el MINSA. La MR contenía un error.
+                                                                                   13
+"
+"                                                                                                                                Al terminar el proyecto
+                                                                     En aprobación              En elegibilidad + 60 días
+                                                                                                                                         (PCR)
+                         Indicadores                           Unidad       Línea              Unidad     Línea               Unidad      Línea             Comentarios
+                                                                                     Meta                           Meta
+                                                                  de         de                   de        de                    de        de       (A)
+                                                                                      (P)                             (P)
+                                                               Medida       Base               Medida     Base                Medida      Base
+                                                                                                                                                              menores de
+                                                                                                                                                            cinco años *100
+   Objetivo específico de Desarrollo 2:
+    Mejorar la capacidad resolutiva de los ES, a través de la capacitación y dotación de equipos básicos en los municipios priorizados
+     Resultados
+   Indicador #1                                                                                                                                               egresos de
+                                                                                                                                                                   CM
+                                                                                                                                                             relacionados
+    Porcentaje de mujeres embarazadas que utilizan la                %      12.8      24.2        %       12.8       24.2         %       12.8      57,8        a parto /
+   casa materna.                                                                                                                                                 partos
+                                                                                                                                                               atendidos
+                                                                                                                                                                  *100
+   Indicador #2                                                                                                                                               parturienta
+                                                                                                                                                            con vigilancia
+                                                                                                                                                                 según
+                                                                                                                                                               norma27 /
+    Porcentaje de parturientas que se le vigiló el trabajo           %        40       73         %         40         73         %         40      ND
+                                                                                                                                                                 partos
+   de parto.
+                                                                                                                                                               atendidos
+                                                                                                                                                            institucionalm
+                                                                                                                                                               ente *100
+   Indicador 3                                                                                                                                                egresos de
+                                                                                                                                                                   CM
+                                                                                                                                                             relacionados
+    Tasa de nacimientos vivos en centros de salud con                %        40       73         %         40         73         %        55.8     85.3        a parto /
+   cama o establecimientos de mayor resolución                                                                                                                   partos
+                                                                                                                                                               atendidos
+                                                                                                                                                                  *100
+   * Esta operación es anterior a la regla de ajuste de la MR durante los 60 días posteriores a la Elegibilidad. La información de \"Elegibilidad + 60 días\" se señala
+   en gris, pues no presenta diferencia con la de \"En Aprobación\".
+27 Ej.: expediente clínico registra el uso del partograma, con vigilancia de presión arterial, frecuencia cardíaca, dilatación, frecuencia cardíaca del bebé, entre otros.
+                                                                                   14
+"
+"II.2      Eficacia
+                 a. Declaración de objetivos de desarrollo del proyecto.
+ Con el fin de mejorar el estado de salud de las poblaciones más vulnerables, contribuyendo al
+ logro de los ODM en cuanto a reducir la mortalidad infantil y materna y así reducir la desigualdad,
+ el programa tuvo como objetivo de incrementar el uso de un conjunto de atenciones de salud
+ materno-infantiles de buena calidad bajo el MOSAFC en territorios priorizados por su alta
+ vulnerabilidad. Lo anterior contribuiría a una disminución de la morbilidad materna e infantil
+ severa, impactando en el mediano plazo en la disminución de la tasa de embarazos,
+ especialmente de adolescentes y de la mortalidad materna y neonatal.
+ Los objetivos específicos fueron:
+   i.  aumentar la cobertura de un conjunto de servicios de reconocida efectividad, mediante un
+       financiamiento per cápita y bajo especificaciones de calidad;
+  ii.  mejorar la capacidad resolutiva de la red y calidad de la atención al propiciar
+       capacitaciones, la dotación de equipos básicos en los municipios beneficiarios, y al
+       fortalecer el sistema de registro de atenciones.
+                 b. Resultados logrados
+ En general no solamente este programa logró los resultados planteados sino también hay
+ evidencia de impactos significativos. Se lograron tanto resultados vinculados con aumentar el
+ uso de servicios esenciales como en cuanto a mejorar la capacidad resolutiva y la calidad de la
+ atención. El aumento del uso se logró gracias a la puesta en marcha de un mecanismo innovador
+ de transferencia al MINSA por persona atendida, aplicando indicadores trazadores de la atención
+ materno-infantil. La atribución de cambios respecto de la capacidad resolutiva es compleja de
+ demostrar, dado el diseño expresamente integrado de esta operación con el programa RIS-2
+ (ampliación de la red unidades con capacidad para atender complicaciones obstétricas y
+ neonatales, ampliación de la red de casas maternas, su avituallamiento e intervenciones por el
+ lado de la demanda) y las operaciones de ISM (intervenciones de promoción y fomento de la
+ demanda en la comunidad, incentivos a la demanda).
+ Los tres indicadores de impacto muestran avances decisivos, con un cumplimiento parcial
+ (64,5% de la meta de reducción del embarazo adolescente), cercano a la meta en el caso de la
+ mortalidad neonatal (83%) o mucho mayor al esperado, en el caso del a mortalidad materna
+ (410%). La tendencia en todos los indicadores de impacto es positiva, aunque haya variabilidad
+ en el grado de cumplimiento de la meta.
+ Entre los resultados esperados, no se logró reducir la tasa de hospitalización por diarrea de
+ menores de cinco años. Lo anterior puede deberse a varios factores: cuando el acceso a
+ hospitales mejora, como fue el caso para el ámbito y período del programa, en un primer
+ momento típicamente aumenta la tasa de hospitalización ya que niños con complicaciones de
+ enfermedad diarreica y que anteriormente no tenían acceso a este servicio (la hospitalización) lo
+ usan una vez disponible. La tasa de hospitalización tiende a disminuir, en un contexto de mayor
+ acceso a hospitales, solamente cuando los efectos de mejorar la atención primaria (parte de este
+ programa) y el determinante social del acceso a agua y saneamiento (más allá de este programa)
+ se materializan, y estos efectos toman más tiempo en reflejarse que el efecto contrario de
+ ampliación del acceso a hospitalización. Adicionalmente, los Informes de Gestión del MINSA
+ para el 2014 y el 2015 refieren que a pesar de la introducción de la vacuna contra el rotavirus (en
+ 2007 en la norma, pero logrando coberturas crecientes de 2009 en adelante), el efecto de
+ fenómenos relacionados al cambio climático (períodos alternados de inundaciones y sequías) se
+ tradujo en un aumento de brotes de dengue, leptospirosis y rotavirus en todo el período del
+                                                  15
+"
+"programa, incluido el año 2017 de medición final. Estos brotes, combinados con la mayor
+disponibilidad de camas hospitalarias, habrían producido una mayor tasa de hospitalización de
+los niños por diarrea.
+El indicador de resultados de vigilancia del trabajo de parto quedó sin datos al final del programa.
+El dato de línea de base provino de una auditoría técnica del programa por resultados
+implementado entre 2005 y 2009. Este programa y su Auditoría Técnica informaron el diseño del
+Programa de Mejoramiento, no obstante, la Auditoría Técnica del Programa de Mejoramiento,
+por razones de costos, no incluyó la observación de la atención, y la revisión de criterios de
+calidad en expediente se limitó a los indicadores trazadores del primer componente, entre los
+cuales NO se encontró la vigilancia del trabajo de parto. Los alcances de la evaluación final
+(reflexiva) no permitieron generar el dato (por falta de recursos).
+No se modificaron los indicadores de impacto ni de resultado durante la vida del programa;
+se realizaron únicamente modificaciones a indicadores de producto del Componente 2
+(2 indicadores) y 3 (1 indicador), misma que fue justificada en el sistema PMR en su momento.
+Cabe precisar que los cambios de indicadores de producto no modificaron el alcance de las
+actividades financiadas, más bien buscaron unidades de medida más claras de entender para
+quienes no conocieran del contexto específico del programa. Así, se pasó de “Planes bianuales
+de mejora de la capacidad resolutiva – medidos por % de avance” a “Unidades de Salud y casas
+maternas de los 22 municipios priorizados, beneficiadas con equipamiento básico durante el
+período reportado”; las actividades específicas eran las mismas, de dotación complementaria de
+equipamiento básico para las unidades de salud del ámbito del programa.
+                                                 16
+"
+"                                                           Gráfico 2.3: Matriz de Resultados logrados
+                                                                       Valor de
+                                                      Unidad de                                                              Metas y
+                `Impacto/Indicador                                     Línea de           Año de línea de base                                % Alcanzado29
+                                                        Medida                                                            alcance real28
+                                                                         base
+  Estado de Salud de las poblaciones más vulnerables
+  Maternidad segura:                                                                                                     P          25,4
+  Tasa de embarazos en adolescentes                        %              28,5             promedio 2007-2009                                      64,5
+                                                                                                                         A          26,5
+  Maternidad segura:                                                                                                     P         116,0
+                                                    por 100.000 NV        132              promedio 2007-2009                                      410
+  Mortalidad materna trianual                                                                                            A          66,4
+  Salud del niño /la niña:                                                                                               P          14,4
+                                                           ‰               18              promedio 2007-2009                                      83,3
+  Mortalidad Neonatal                                                                                                    A            15
+                                                                                                 Valor de        Año de
+                                                                                 Unidad de                                  Metas y alcance
+                              `Resultado/Indicador                                               Línea de       línea de                        % Alcanzado
+                                                                                   Medida                                        real
+                                                                                                   base           base
+  Objetivo específico #1: Aumentar la cobertura del conjunto de atenciones
+  Indicador #1                                                                                                             P             20,4
+  Porcentaje de mujeres en edad fértil captadas con método de planificación           %            16,9           2009     P(a)          20,4        257
+  familiar                                                                                                                 A             25,9
+  Indicador #2                                                                                                             P             24,2
+                                                                                      %            12,8           2009     P(a)          24,2        100
+  Porcentaje de mujeres embarazadas que utilizan la casa materna
+                                                                                                                           A             24,2
+  Indicador #3                                                                                                             P             94,5
+                                                                                      %             86            2009     P(a)          94,5        142
+  Cobertura de niños menores de un año con tercera dosis de pentavalente
+                                                                                                                           A             98,1
+  Objetivo específico #2: Mejorar la capacidad resolutiva de la red y calidad de la atención
+  Indicador #4                                                                                                             P             73,0
+                                                                                      %             86            2009     P(a)          73,0         0
+  Porcentaje de parturientas que se le vigiló el trabajo de parto.
+                                                                                                                           A             N/D
+  Indicador #5                                                                                                             P             69,5
+  Tasa de nacimientos vivos en centros de salud con cama o                            %            55,8           2009     P(a)          69,5        215
+  establecimientos de mayor resolución                                                                                     A             85,3
+28  En todos los casos, el dato del alcanzado es para el año 2017, año de “End of project” y de la evaluación final.
+29  El cálculo del porcentaje alcanzado se realizó conforme la guía para la preparación de PCR, así: Tasa de embarazos en adolescentes: Reducción esperada: de
+    28,5 a 25,4, es decir, 3,1 puntos porcentuales. Reducción lograda: 2 puntos porcentuales. % alcanzado: 2/3.1*100 = 64,5% Reducción de mortalidad materna
+    esperada: 132- 116 = reducción de 16 muertes x 100.000 NV. Reducción lograda: 132-66.4 = 65,6 muertes menos. % de meta alcanzada: 65.6/16*100=410%.
+                                                                                 17
+"
+"                                                                                      Valor de      Año de
+                                                                       Unidad de                                Metas y alcance
+                          `Resultado/Indicador                                        Línea de     línea de                         % Alcanzado
+                                                                         Medida                                       real
+                                                                                        base         base
+Indicador #6                                                                                                    P            3,1
+                                                                        % <5años         4,7         2009       P(a)         3,1           0
+Tasa de hospitalización por diarrea en menores de cinco años
+                                                                                                                A            9,3
+                                                                                  Valor de    Año de
+                                                                   Unidad de                              Metas y alcance
+                                Producto                                          Línea de línea de                              % Alcanzado
+                                                                     Medida                                     real
+                                                                                    base       base
+Componente 1: Extensión de cobertura de servicios materno-infantiles en 22 municipios de los SILAIS de la RAAN, Jinotega y Matagalpa.
+Producto 1:                                                         # mujeres                                P       60.710
+                                                                   beneficiaria    40,500      2009        P(a)      69.431            143
+# de mujeres en edad fértil en los 22 municipios captadas para PF        s                                   A       69.431
+Producto 2:                                                         # mujeres                                P       25.532
+                                                                   beneficiaria    14,610      2009        P(a)      17.884             70
+# de primeros CPN precoces                                               s                                   A       17.849
+Producto 3:                                                            # de                                  P       26.777
+# de NV atendidos en los antiguos centros de salud con cama y/o ES beneficiario    17,454      2009        P(a)      24.146             71
+de mayor resolución.                                                     s                                   A       24.146
+Producto 4:                                                                                                  P       17.785
+                                                                     Mujeres
+                                                                                    9,580      2009        P(a)      25.281            227
+# de mujeres con atención de puerperio mediato                      puérperas
+                                                                                                             A       25.281
+Producto 5:                                                           Niños                                  P       30.277
+                                                                   menores de      25,664      2009        P(a)      31.900            134
+# de niños/as menores de 1 año con tercera dosis de pentavalente.     1 año                                  A       31.900
+Producto 6:                                                                                                  P       67.544
+                                                                   Niños de 1
+# de niños/as de 1 a 4 años con segunda visita de VPCD en el año                   42,266      2009        P(a)      90.797            191
+                                                                     a 4 años
+calendario.                                                                                                  A       90.797
+Componente 2: Fortalecimiento de la capacidad resolutiva materno-infantil en los 22 municipios.
+Producto 1:                                                                                                  P          865
+Personal de salud de los cuatro SILAIS capacitados en atención del # personas         0        2007        P(a)       3.234            365
+embarazo, parto, puerperio y sus complicaciones                                                              A        3.168
+Producto 2:                                                                                                  P          100
+                                                                     # temas          0        2007                                     19
+                                                                                                           P(a)          21
+                                                                       18
+"
+"                                                                                     Valor de  Año de
+                                                                          Unidad de                    Metas y alcance
+                                 Producto                                            Línea de línea de                   % Alcanzado
+                                                                            Medida                           real
+                                                                                       base     base
+ Temáticas de promoción de la salud perinatal y del niño con                                              A           19
+ pertinencia cultural implementadas en los cuatro SILAIS.
+ Producto 3:                                                                                              P        1.145
+ Personal de salud capacitado en la mejora del registro de la atención al # personas    0       2007    P(a)         924        75
+ embarazo, parto y puerperio y de vacunación y atención al niño.                                          A          858
+ Producto 4*: *creado en el año 2 de ejecución en sustitución del             # de                        P           35
+ siguiente                                                                 unidades
+                                                                          de salud y    0               P(a)          40       100
+ Unidades de Salud y casas maternas de los 22 municipios priorizados,        casas
+ beneficiadas con equipamiento básico durante el período reportado.                                       A           40
+                                                                           maternas
+ Producto 5*: *desactivado en el año 2 de ejecución                                                       P           66
+ Plan de acción quinquenal para cerrar brechas de equipamiento básico          %        0               P(a)           0       NA
+ en las unidades de salud de los 22 municipios implementado                                               A            0
+ Componente 3: Gestión, Supervisión y Evaluación.
+ Producto 1:                                                                                              P           10
+                                                                          # informes    0               P(a)          13       140
+ Informes de la auditoría técnica y de evaluación concluidos
+                                                                                                          A           14
+ Producto 2: *desactivado en el año 2 de ejecución                                                        P            3
+                                                                          # informes    0               P(a)           3       100
+ Informes de Auditoria de Estados Financieros del Programa
+                                                                                                          A            3
+ Producto 3:                                                                                              P            2
+                                                                          # informes    0               P(a)           1        50
+ Informe evaluación intermedia y final.
+                                                                                                          A            1
+ Producto 4:                                                                                              P           40
+ Personal de salud de los 22 municipios priorizados, cuatro SILAIS y                                    P(a)          80
+ nivel central capacitados en mejoría del registro de información en      # personas    0                                      100
+ salud y/o uso de sistema de información durante el período reportado.                                    A           40
+P = Planificado; P (a) = meta anual revisada; A = Real alcanzado.
+                                                                              19
+"
+"                     c. Análisis contrafactual
+   No se programó realizar una evaluación con diseño experimental para este programa, dado que
+   la selección aleatoria de grupos de control o la identificación ex ante de grupos de comparación
+   hubiera sido compleja en el contexto de la política nacional de acceso universal a la salud,
+   centrada precisamente en las atenciones del programa. Asimismo, el programa promovió
+   prestaciones cuyo costo efectividad cuenta con amplia evidencia en contextos similares al de
+   Nicaragua, por lo que documentar el nivel alcanzado al final del programa pareció la solución
+   más viable política y económicamente al momento del diseño. El análisis contrafactual realizado
+   para este cierre30 estima la contribución del programa a los logros observados en la tabla anterior,
+   utilizando como base la evidencia internacional actualizada en el sector, así como un análisis de
+   impacto sobre un conjunto de indicadores (de impacto y resultados) asociados al programa.
+   Los déficits en la disponibilidad de servicios y capacidad de atención de los sistemas de salud se
+   consideran entre las causas principales de los retrasos en el logro de objetivos clave de los
+   Objetivos de Desarrollo Sostenible (ODS) relacionados con la salud, incluyendo la mortalidad y
+   morbilidad materna e infantil31. Entre las áreas esenciales de enfoque para el fortalecimiento de
+   los sistemas de salud identificados por la Organización Mundial de la Salud (OMS) se encuentran
+   el tipo de intervenciones implementadas por el programa, incluyendo la entrega de servicios, el
+   fortalecimiento de la fuerza laboral, los sistemas de información, y la disponibilidad de medicina,
+   vacunas, y tecnología. La literatura destaca la costo-efectividad de intervenciones como la
+   extensión de cobertura de inmunizaciones, en la cual se lograron buenos resultados por este
+   programa32. También se cuenta con una literatura creciente que documenta la efectividad de los
+   modelos de pago por desempeño e incentivos a la demanda. Entre los esquemas financieros
+   apoyados por el programa están las transferencias a las direcciones del MINSA en los territorios
+   (municipios) por embarazada/puérpera y por niños menores de cinco años efectivamente
+   atendidos con las atenciones trazadoras del conjunto materno-infantil, y para los cuales el pago
+   dependió de una auditoría técnica que verificó el cumplimiento de estándares en algunas
+   dimensiones de calidad (oportunidad de la atención, cumplimiento de protocolos, aplicación de
+   pruebas e insumos). Por el lado de la demanda, se incentivó la atención por personal médico en
+   momentos clave del embarazo, con vales de transporte a mujeres embarazadas– (en la
+   operación de ISM anidada en este programa y el programa hermano de RIS). Lo anterior apunta
+   a que los resultados documentados en cuanto a aumentar el uso de servicios, y a mejorar la
+   capacidad resolutiva, contribuyeron probablemente a los impactos identificados que podrían ser
+   atribuibles al programa.
+   Para cuantificar los efectos causales del proyecto, se utilizaron indicadores próximos (“proxys”)
+   disponibles en los sistemas de información de salud del país, aplicando la estrategia de efectos
+   fijos. Dado que los proyectos de Mejoramiento (NI-L1054) y RIS-2 (NI-L1068) se implementaron
+   de manera simultánea en el subconjunto de municipios focalizados por este Programa de
+   Mejoramiento y tuvieron los mismos objetivos sanitarios, los análisis de impacto se enfocan en
+   los efectos promedios del paquete de intervenciones implementadas en cada municipio por estos
+30    Ver enlace opcional 3. Análisis de Efectividad y Eficiencia.
+31    Reich MR, Takemi K. G8 and strengthening of health systems: follow-up to the Toyako summit. The Lancet.
+      2009;373(9662):508-15. DOI: 10.1016/S0140-6736(08)61899-1; Lewin S, Lavis JN, Oxman AD, Bastías G, Chopra
+      M, Ciapponi A, et al. Supporting the delivery of cost-effective interventions in primary health-care systems in low-
+      income and middle-income countries: an overview of systematic reviews. The Lancet. 2008;372(9642):928-39.
+      DOI:10.1016/S0140-6736(08)61403-8.
+32
+      La OMS estima que las vacunas previnieron al menos 10 millones de muertes entre 2010 y 2015 y protegieron a
+      millones más de enfermedades como neumonía, diarrea, sarampión, polio, y tos ferina. World Health Organization.
+      The power of vaccines: still not fully utilized. Ten years in public health 2007-2017. 2017:81-90.
+                                                                20
+"
+"   dos préstamos. Se presenta el análisis específico y completo del proyecto de Mejoramiento en
+   el enlace opcional 3.
+   El objetivo general de los proyectos fue de mejorar los indicadores de mortalidad y morbilidad
+   infantil y materna mediante la expansión y mejora de los servicios esenciales de salud. Como
+   indicadores finales de impacto disponibles en el sistema de información de salud del país se
+   cuenta con la tasa de mortalidad infantil, neonatal y materna, y el porcentaje de nacimientos en
+   adolescentes como proxy para el embarazo en jóvenes. Se observó una reducción
+   estadísticamente significativa de 1.117 muertes infantiles por 1.000 nacimientos, y de
+   0.745 muertes neonatales por 1.000 nacimientos33. Estos impactos representan una reducción
+   del 7,5% y 7,2% respectivamente, relativo a las tasas de mortalidad en el periodo basal en los
+   municipios de intervención. La tasa de mortalidad materna se vio reducida por las intervenciones
+   de los programas en 32.134 muertes por 100.000 nacimientos, una reducción del 44,5% relativo
+   a la línea base. Y por último el porcentaje de nacimientos entre adolescentes bajó en 2 puntos
+   porcentuales, una reducción de 7,8% relativo a la línea base, donde 25,6% de los nacimientos
+   fueron por madres adolescentes. Estos resultados sugieren que las intervenciones realizadas
+   conjuntamente por los programas de Mejoramiento y RIS-2 para fortalecer el sistema de salud y
+   expandir cobertura fueron efectivas para alcanzar sus objetivos de mejorar el resultado final de
+   reducción en mortalidad materna e infantil.
+   En cuanto a indicadores intermedios de resultados, se analizó la cobertura de servicios,
+   encontrando aumentos estadísticamente significativos en los municipios de tratamiento para:
+   (i) embarazadas con al menos cuatro CPN (aumento de 26%); (ii) nacimientos institucionales
+   (o partos, o nacidos en los ES con capacidad para atender el parto34, aumento de 8,4%, llegando
+   a coberturas que rebasan el 85% en municipios rurales); (iii) puérperas con control mediato
+   (es decir, durante los 10 días posteriores al parto, aumento de 49%); (iv) número de niños que
+   recibieron dosis de vacuna contra el sarampión (MMR35, por su sigla en inglés-, aumento de
+   13,5% relativo a la línea de base); y (v) niños de 1 a 4 años que asistieron al menos dos controles
+   de VPCD, que son visitas preventivas centradas en el crecimiento, hitos de desarrollo,
+   vacunación, y desparasitación (aumento de 127,2% relativo a la línea base).
+   Estos resultados sugieren que las intervenciones realizadas por los programas tuvieron éxito en
+   cumplir su objetivo de aumentar la utilización de los servicios esenciales de salud, al menos los
+   relacionados al embarazo y parto, que son sumamente importantes para reducir las
+   complicaciones en el embarazo y, en el largo plazo, la mortalidad neonatal, infantil, y materna, y
+   en el uso de servicios por parte de los niños, particularmente los controles de crecimiento y
+   desarrollo y la vacunación de MMR, que sirven un rol importante en la salud de niños.
+   Finalmente, el análisis de atribución, detallado en el anexo, concluye que sumando los análisis
+   de impacto a la evidencia disponible en la literatura y a la teoría de cambio del proyecto descrito
+   en este PCR, se establece una contribución plausible, aunque no una atribución causal, hacia la
+   mayoría de los indicadores de resultado, y en el caso de la cobertura de partos institucionales y
+   de captación de mujeres en edad fértil con planificación familiar, también se evidencia una
+   atribución causal hacia la reducción de la mortalidad materna.
+33    Los indicadores de tasa de mortalidad infantil y tasas de mortalidad neonatal se computan con nacimientos totales,
+      y no NV, dado la ausencia de esta información en los datos disponibles para el análisis.
+34    Se tomaron en cuenta CS y establecimientos de mayor complejidad: hospitales primarios, departamentales y
+      regionales, de acuerdo con la norma de habilitación (norma 080) y a las normas de atención del embarazo, parto y
+      puerperio tanto sin complicaciones como complicados.
+35    MMR es acrónimo de Measles, Mumps and Rubela, ya que la vacuna combina protección contra Sarampión,
+      Paperas y Rubéola.
+                                                              21
+"
+"                      d. Resultados imprevistos
+   Este programa aportó recursos como contrapartida para la Iniciativa Salud Mesoamérica, en
+   actividades de salud materno-infantil, y las operaciones de dicha iniciativa fueron “anidadas”
+   dentro del mismo, enfocadas en el nivel comunitario. Lo anterior fue formalizado posteriormente
+   al diseño del programa con montos mayores y un alcance de las intervenciones más amplio y
+   que permitió integrar las operaciones de esta iniciativa regional bajo este programa y el de Redes
+   Integradas de Salud-2, de conformidad a la lógica programática que se construyó con las
+   operaciones de la cartera de salud en Nicaragua. Se realizó lo siguiente:
+       i.    Fortalecimiento de la supervisión por el nivel regional (SILAIS) y local (Dirección de Salud
+             en el Municipio) de las estrategias comunitarias: Entrega comunitaria de anticonceptivos,
+             plan de parto, vales de transporte a embarazadas, vales para casas maternas, acuerdos
+             sociales comunitarios – un mecanismo para estructurar la participación de comités
+             comunitarios en la promoción y vigilancia de la salud. La supervisión incluyó desarrollar
+             una metodología de “encuentros comunitarios”, donde las direcciones locales generan
+             aprendizajes con la red comunitaria de salud.
+      ii.    Financiamiento de vales de transporte y alojamiento a las mujeres originarias de
+             comunidades alejadas, para la atención de control prenatal y atención del parto
+             institucional.
+     iii.    Mejora en la capacidad de gestión y administración de las casas maternas entregando
+             una revisión del Manual Operativo de funcionamiento de estas, supervisando además la
+             aplicación de dicho manual con recursos de este programa.
+     iv.     Compra y distribución de canastillas a mujeres albergadas en la casa materna que tenía
+             su parto en ES.
+   Dos temas adicionales de fortalecimiento fueron agregados al diseño original y aportaron
+   resultados adicionales no previstos: en primer lugar, se fortaleció la planificación local y en especial
+   la gestión de insumos. El programa impulsó la implementación del sistema Galeno36, utilizando
+   como eje para la implementación del sistema los indicadores comprometidos en el programa
+   relacionados con equipos e insumos, y dejando instalados en las unidades de salud los Comité de
+   Uso Racional de Insumos Médicos (CURIM) al igual que el sistema Galeno operando.
+   En segundo lugar, se implementaron interconsultas por telemedicina que fortalecieron la calidad
+   de la atención en los hospitales primarios y generales beneficiados por el programa, conectándolos
+   con especialistas en el Nivel Central del Ministerio y Hospitales de referencia nacional (hospital de
+   la Mujer Bertha Calderon, hospital del niño Manuel de Jesús Rivera “La Mascota”).
+    II.3     Eficiencia
+   El programa estuvo clasificado al final del proyecto como satisfactorio (mediante el índice de
+   desempeño de costo y del índice de desempeño de cronograma que mide el Banco). Para el
+   cierre de este programa, el Banco analizó su costo-efectividad37, dados los resultados
+   observados y comparando con otros estudios que analizan paquetes de servicios enfocados en
+   la reducción de la mortalidad materna y neonatal. Se observa que las medidas de
+   costo efectividad se encuentran en los rangos obtenidos para intervenciones similares.
+   En particular, una medida que facilita la comparación con la evidencia observada en
+   intervenciones similares es el costo por año de vida ganado. A partir de los datos disponibles
+36    El Sistema Galeno, es un programa informático que permite gestionar y dar seguimiento a los insumos médicos
+      desde su adquisición o compra, ingreso a los almacenes centrales y su proceso de distribución.
+37    Ver Enlace Opcional 3.
+                                                          22
+"
+"   sobre el número total de nacimientos en los municipios priorizados se aproximó el número de
+   vidas de madres y recién nacidos que se pudieron salvar como resultado de la intervención. Con
+   base en esta aproximación se estimó el número de años de vida ganados, que luego se utilizan
+   para estimar el costo por año de vida ganado, que oscila entre US$1.199,7 y US$1.411,4 por
+   año de vida ganado. Según la métrica de la OMS, si el costo es menor a tres veces el PIB per
+   cápita de un país, entonces la intervención es costo-efectiva, y si es menor al PIB per cápita es
+   altamente rentable (Bertram, et al., 2016; Marseille, et al., 2014;). En 2017, el PIB per cápita de
+   Nicaragua fue de US$2,221.8 dólares, lo sugiere que, según este estándar, el programa fue
+   altamente costo-efectivo.
+   El programa tiene una clasificación de satisfactorio según la metodología de desempeño de
+   proyectos utilizada por el banco, la cual mide el avance de la consecución de los productos, a
+   través del índice de desempeño de costo y del índice de desempeño de cronograma
+   (respectivamente CPI y SPI por sus siglas en inglés). Estos índices miden desviaciones en
+   términos de costo y tiempo acumuladas con respecto al plan que se ingresó originalmente.
+   Además, se calculan los índices de SPI(a) y CPI(a) que miden las desviaciones de costo y tiempo
+   respecto de la planificación anual.
+             Gráfico 2.4, Tabla: Índice de rendimiento e índice de rentabilidad de los costos del programa
+                                                                Año de ejecución
+                         2012           2013          2014            2015           2016           2017           2018
+     SPI                 1,05           1,07           1,85           1,70           1,53           1,57            1,57
+     SPI(a)              1,05           1,10           1,24           0,93           0,90           0,97            0,97
+     CPI                 1,41           1,26           2,02           1,81           1,68           1,67            1,67
+     CPI(a)              1,41           1,04           1,25           0,93           0,93           0,98            0,98
+     Indicador de
+                     Satisfactorio  Satisfactorio Satisfactorio   Satisfactorio  Satisfactorio  Satisfactorio  Satisfactorio
+     Desembolso
+     Calificación    Satisfactorio  Satisfactorio Satisfactorio   Satisfactorio  Satisfactorio  Satisfactorio  Satisfactorio
+   En el cuadro 2.5 siguiente, se detallan los costos del proyecto, en general, se observa que los
+   recursos fueron utilizados según se planificó y orientados a actividades directamente
+   relacionadas con la prestación de los servicios y la mejora de su calidad38. El Componente 1
+   ejecutó un 95,4% de los recursos planificados, alcanzando la suma de US$13,7 millones de
+   US$14,4 planificados. El Componente 2 ejecutó un 97% de los recursos planificados, logrando
+   una ejecución de US$3,6 millones de US$3,7 millones planificados. El Componente 3 ejecutó el
+   80% de los recursos planificados, o sea US$1,0 millones de US$1,2 millones planificados.
+   Los recursos no ejecutados del Componente 3 se destinaron a gastos de administración del
+   mismo proyecto, donde también se ejecutaron los remanentes de los Componentes 1 y 2 así
+   como los imprevistos, representando un monto de US$645.000 o 3% del monto total del
+   financiamiento. El único producto que no se ejecutó en el proyecto fue la evaluación intermedia.
+   La contribución de la contrapartida se comportó como se esperaba, lográndose el pari pasu
+   necesario para la adecuada ejecución de las intervenciones, lo cual era una condición misma del
+   diseño del proyecto dado que el Banco financiaba una parte (menos del 25%) del costo directo
+   del conjunto de atenciones de salud. El proyecto tuvo auditorias técnicas y de desempeño que
+   comprobaron que los servicios se brindaron en volumen y alcances acordados, en otras palabras,
+   como no hubo cambio de metas de productos ni físicos, ni financieros, el país contribuyó con el
+   75% del costo de la atención.
+38    Los costos del Componente 1 deben ser analizados de manera integral porque se refieren en su totalidad al per
+      cápita por atenciones prestadas y no a acciones individuales o específicas para cada resultado esperado.
+                                                            23
+"
+"                                                                          Gráfico 2.5, Tabla: Costos del proyecto
+                                                                                                                                                                           Component
+                                                                                                                                                                          Revised Cost
+     1   Component: ExtensiónCobertura Servicios Materno Infantiles 22 Municipios SILAIS RAAN, Jinotega y Matagalpa                                                      13,707,732.12
+                                   Output Definition                                      2012          2013          2014            2015         2016         2017         Cost
+        Mujeres en edad fertil en los 22 municipios captadas para PF            P       744,000.00    760,551.00       814,237.00   815,000.00   826,212.00               3,960,000.00
+ 1.1                                                                          P(a)      744,000.00    760,551.00       130,773.00   150,000.00   150,000.00        0.00     615,586.42
+                                                                                A        82,073.00    124,087.00       131,803.00   133,203.90   144,419.52   33,611.27     649,197.69
+        Primeros controles prenatales precoces realizados en los 22             P       297,000.00    307,500.00       321,500.00   327,000.00   330,000.00               1,583,000.00
+ 1.2    municipios priorizados.                                               P(a)      297,000.00    307,500.00       272,041.00   250,000.00   249,999.98 138,033.00    1,328,788.51
+                                                                                A       204,902.00    251,684.00       251,109.00   237,114.36   245,946.15   33,047.78   1,223,803.29
+        Nacidos vivos atendidos en los antiguos CS con cama y/o                 P       330,000.00    344,000.00       351,400.00   361,600.00   370,000.00               1,757,000.00
+ 1.3    establecimiento de salud de mayor resolución en los 22 municipios     P(a)      330,000.00    344,000.00        94,421.00   125,000.00   109,999.99        0.00     817,674.37
+        priorizados.                                                            A       404,372.00    100,923.00       102,516.00    99,778.70   110,084.67   27,179.96     844,854.33
+        Mujeres atendidas con atención de pueperio mediato en los 22            P       182,000.00    187,000.00       192,000.00   197,000.00   210,000.00                 968,000.00
+ 1.4    municipios priorizados.                                               P(a)      182,000.00    187,000.00        71,207.00    75,000.00    96,394.16        0.00     373,266.10
+                                                                                A        45,833.00     70,536.00        78,712.00    82,540.21    95,644.89   27,277.82     400,543.92
+        Niños/as menores de 1 año que recibieron tercera dosis de               P       107,000.00    109,000.00       110,300.00   112,000.00   113,700.00                 552,000.00
+ 1.5    pentavalente en los 22 municipios priorizados.                        P(a)      107,000.00    109,000.00       126,367.00   125,000.00   160,468.16        0.00     641,425.83
+                                                                                A        99,799.00    157,988.00       124,787.00   127,362.15   131,489.68   22,174.79     663,600.62
+        Niños/as de 1 a 4 años atendidos con segunda visita de VPCD en el       P     1,084,000.00 1,110,000.00      1,124,000.00 1,130,000.00 1,132,000.00               5,580,000.00
+ 1.6    año biológico, en los 22 municipios priorizads.                       P(a)    1,084,000.00 1,110,000.00      2,296,394.00 1,975,000.00 2,136,099.62 113,634.00    9,930,990.89
+                                                                                A     1,530,547.00 1,763,949.00      1,967,469.00 2,381,518.86 2,173,873.03 105,257.94    9,922,614.83
+                                                                                                                                                                         Component
+                                                                                                                                                                        Revised Cost
+    2   Component: Fortalecimiento de la Capacidad Resolutiva materno infantil en los 22 municipios                                                                     3,584,865.38
+                                   Output Definition                                           2012         2013       2014        2015         2016         2017           Cost
+       Personal de salud de los 4 SILAIS capacitado en la atención del               P       75,000.00 136,250.00 136,250.00 136,250.00 136,250.00                        620,000.00
+2.1    embarazo, parto, puerperio y sus complicaciones.                            P(a)      75,000.00    74,000.00 240,475.00     1,400.00    19,135.20    10,256.00     386,798.73
+                                                                                     A       66,155.00    76,063.00 182,367.00    37,150.80    14,806.93     5,842.03     382,384.76
+       Temáticas de promoción de la salud perinatal y del niño con                   P       80,933.00 117,184.00    80,933.00                                            279,050.00
+2.2    pertinencia cultural implementadas en los 4 SILAIS.                         P(a)      80,933.00 104,300.00 357,692.00 524,780.00 176,099.36 137,974.00 1,341,530.80
+                                                                                     A             0.00   61,202.00 771,421.00 211,822.81 159,110.99 154,822.49 1,358,379.29
+       Personal de salud capacitado en la mejora del registro de la                  P       75,000.00 132,500.00 132,500.00 132,500.00 132,500.00                        605,000.00
+2.3    atencion del embarazo, parto y puerperio                                    P(a)      75,000.00 132,500.00    66,000.00 232,898.00      81,930.07    49,000.00     492,036.84
+                                                                                     A             0.00   16,529.00 184,721.00 193,435.23      48,351.61    25,954.85     468,991.69
+       Unidades de salud y casas maternas de los veintidos municipios                P                                                                                           0.00
+2.4    priorizados beneficiadas con equipamiento básico durante el                 P(a)                                         103,000.00     93,727.50    39,341.00     343,922.01
+       período reportado.                                                            A                                     0.00 218,473.37     86,107.64    48,996.92     353,577.93
+       Plan de acción quinquenal para cerrar brechas de equipamiento                 P     156,000.00 509,000.00 509,000.00 509,000.00 509,000.00                       2,192,000.00
+2.5    básico en las Unidades de Salud de los 22 municipios implementado           P(a)    156,000.00     40,000.00 343,096.00         0.00         0.00                1,020,577.00
+                                                                                     A             0.00 689,749.00 330,828.00                       0.00                1,020,577.00
+                                                                                                24
+"
+"                                                                                                                                                                               Component
+                                                                                                                                                                              Revised Cost
+    3    Component: Gestión, Supervisión y evaluación                                                                                                                         1,011,363.22
+                                     Output Definition                                         2012         2013          2014         2015          2016         2017           Cost
+                                                                                       P      103,000.00   126,500.00     78,300.00    59,400.00    123,750.00                  490,950.00
+3.1    Informes de la auditoría técnica y de evaluación concluidos                   P(a)     103,000.00   115,000.00    180,000.00   280,000.00    129,539.50  112,643.00      847,474.91
+                                                                                      A        80,151.00   334,081.00     51,989.00   155,967.62    112,643.29  112,643.30      847,475.21
+                                                                                       P       10,000.00    10,000.00     10,000.00    10,000.00     10,000.00                   50,000.00
+3.1    Informes de Auditoria de Estados Financieros del Programa                     P(a)      10,000.00         0.00          0.00          0.00         0.00                        0.00
+                                                                                      A             0.00                                                                              0.00
+                                                                                       P                                  36,500.00                  36,500.00                   73,000.00
+3.2    Informe de evaluación intermedia y final del Programa                         P(a)                                                    0.00    20,000.00   20,000.00       20,000.00
+                                                                                      A             0.00                       0.00                       0.00   20,016.91       20,016.91
+       Personal de salud de los 22 municipios priorizados, 4 SILAIS y nivel central    P      130,000.00   130,000.00    130,000.00   130,000.00    130,000.00                  650,000.00
+3.3    capacitados en mejoría del registro de información en salud y/o uso de        P(a)     130,000.00   130,000.00    166,900.00    20,648.00          0.00   15,000.00      143,888.31
+       sistema de información durante el período reportado.
+                                                                                      A             0.00    92,800.00     27,409.00     8,679.31          0.00     4,222.22     133,110.53
+                                      Other Cost                                             2012         2013          2014         2015           2016        2017            Cost
+      Costos de Adm inistración                                                     P                                                                                                 0.00
+      Costos de Administración                                                    P(a)                               1,610,748.00   424,996.00    388,244.15   500,746.30    1,382,415.26
+                                                                                    A                                  523,395.00   208,844.03    149,429.93   515,579.02    1,397,247.98
+      Im previstos                                                                  P                                                                                                 0.00
+      Imprevistos                                                                 P(a)                                                     0.00                                       0.00
+                                                                                    A                                        0.00                                     0.00            0.00
+      Costos Financieros                                                            P                                                                                                 0.00
+      Costos Financieros                                                          P(a)                                  32,000.00    39,591.00    233,089.96          0.00     313,624.02
+                                                                                    A                    28,890.00           0.00   223,468.86     61,265.16          0.00     313,624.02
+                                         Total                                               2012         2013          2014         2015           2016        2017            Cost
+                                                                                    P    3,373,933.00 3,979,485.00 4,026,920.00 3,919,750.00 4,059,912.00                   19,360,000.00
+      Total Cost                                                                  P(a) 3,373,933.00 3,413,851.00 5,988,114.00 4,327,313.00 4,044,727.65 1,136,627.30 20,000,000.00
+                                                                                    A    2,513,832.00 3,768,481.00 4,728,526.00 4,319,360.21 3,533,173.49 1,136,627.30 20,000,000.00
+               FDP = Final del Proyecto.
+               Al final del proyecto se identificaron unas variaciones menores de clasificación de gastos en los registros financieros del programa (Estados Financieros a partir
+               del sistema nacional SIGFA) para los primeros años del programa. La ejecución financiera tal como registrada en el PMR está correcta. Estos errores de
+               clasificación no pudieron corregirse, debido al cierre del sistema SIGFA, a los 120 días del final de cada ejercicio presupuestario. Los mismos no afectan el
+               balance del programa ni la elegibilidad de los gastos.
+                                                                                                 25
+"
+"    II.4   Sostenibilidad
+                   a. Aspectos generales de sostenibilidad
+   El programa vino a fortalecer la implementación del MOSAFC, modelo oficial del país, y a reforzar
+   la atención por medio de los Equipos de Salud Familiar y Comunitaria (ESAFC) previstos bajo el
+   modelo, así como de ferias de salud dirigidas a las comunidades alejadas, práctica que se
+   desarrolló más allá de las áreas priorizadas y se mantiene más allá del cierre del programa en
+   toda el área rural del país.
+   En el período previo y hasta el año de cierre del programa (2007-2017), el Gobierno de Nicaragua
+   aumentó de forma sostenida el gasto público en salud, medido como monto en córdobas
+   corrientes, dólares corrientes y también como porcentaje del gasto total del gobierno y porcentaje
+   del Producto Interno Bruto. Así, el gasto público en salud pasó de 3,8% del PIB en el 2008 a
+   6,2% en el 2013 y a 8,5% de PIB en el 2016, de igual forma de US $43,3 gastado por persona
+   en salud al año en 2013, se gastaron US $69,1 en 201639, tendencia que se mantuvo durante
+   2017. Este compromiso presupuestario más allá del programa permite sostener la atención de
+   las poblaciones priorizadas mediante acciones de fortalecimiento como son:
+      •  La consolidación del MOSAFC con la re-sectorización – realizada entre 2015 y 2017, es
+         decir, la reorganización de la atención en el territorio creando mayor número de sectores
+         (que definen el territorio y población a cargo de un equipo de salud, ESAF) en los SILAIS
+         de mayor ruralidad, para que cada sector / ESAF cubra menor distancia y población en las
+         áreas dispersas.
+      •  La re-sectorización se acompañó de la movilización de agentes comunitarios y personal de
+         salud adicional para los ESAF. (ver análisis relacionados con el Componente de
+         optimización del talento humano, bajo el programa de Salud Comunitaria en el Corredor
+         Seco, NI-L1081).
+      •  Se fortaleció la capacidad física (infraestructura y equipamiento) y del personal (formación
+         y capacitación) para la atención del parto y del recién nacido, (tanto con este proyecto como
+         con RIS 1 y 2) en la zona de influencia del proyecto mediante inversiones cuyo efecto
+         persiste más allá del gasto recurrente de atención que apoyó el programa.
+      •  Para canalizar los recursos del primer componente hacia los SILAIS y direcciones
+         municipales, como ejecutores desconcentrados, se aprovechó el instrumento de los
+         “Acuerdos Sociales por la Salud y el Bienestar” – parte integral del modelo de gestión del
+         MOSAFC. Estos acuerdos registran el compromiso del MINSA central, por un lado, y del
+         SILAIS por el otro, (ó del SILAIS y de la Dirección Municipal), asociando metas de
+         producción, cobertura, y otros objetivos de salud, con procesos y presupuestos que serían
+         movilizados para el logro de estas metas. El instrumento si bien no fue exclusivo de los
+         SILAIS y Municipios priorizados en el Programa, la dinámica del acceso a recursos por un
+         mayor desempeño sí puede haber facilitado el desarrollo de capacidades de gestión en
+         estos ejecutores institucionales desconcentrados. El equipo de proyecto junto con colegas
+         de la Oficina de Planificación Estratégica y Efectividad en el Desarrollo (SPD) está
+         desarrollando un análisis de datos secundarios con el fin de comprobar esta hipótesis.
+      •  Desde el año 2015 se fortaleció la estrategia de mejora continua de la calidad en la atención
+         de los servicios de salud (MCC) lo que ha permitido, sin mayor costo, lograr el manejo de
+         los partos y las emergencias obstétricas y neonatales mejor apegado a la norma respectiva
+         – norma que es basada en evidencias reconocidas internacionalmente. Los efectos de esta
+39    Fuente: OMS y CELADE.
+                                                     26
+"
+"       intervención de calidad se pudieron medir de forma independiente (aunque sin
+       contrafactual) en los hospitales primarios y generales del ámbito del programa. Basado en
+       esa evidencia ha de suponerse que la mejor aplicación de la norma de atención, combinada
+       con la mayor cobertura, contribuyó directamente a la reducción las muertes materna y
+       neonatal; capacidades que se mantendrán y consolidarán con el paso del tiempo.
+   •   La estrategia de casas materna se ha consolidado en este periodo de tiempo y actualmente
+       opera con recursos del Tesoro y aportes de los municipios, permitiendo que esta estrategia
+       se mantenga a lo largo del tiempo y facilite el que las poblaciones priorizadas reduzcan las
+       demoras de la atención asociadas con los riesgos del parto.
+Finalmente, al momento de elaboración de este PCR no se cuenta con datos relacionados al
+impacto de la crisis socioeconómica que atraviesa el país y su impacto en la sostenibilidad de
+las inversiones efectuadas en el marco del programa.
+                 b. Salvaguardas ambientales y sociales
+De acuerdo con la Política de Salvaguardias del Medio Ambiente del Banco (OP-703), la
+operación fue ubicada bajo la clasificación “C” (ver Vo. Bo. de la Unidad de Salvaguardas
+Ambientales y Sociales del 10 de septiembre del 2010). En la etapa de diseño no fue identificado
+ningún impacto ambiental negativo, por lo tanto, no fue necesario elaborar un plan para mitigar y
+monitorear el impacto ambiental del programa.
+En cuanto a salvaguardias sociales, el programa benefició a poblaciones indígenas de la zona
+Centro Norte y Caribe Norte del país. La capacidad del MINSA de fomentar una demanda
+suficiente para que el acceso a los servicios redunde en un mayor uso de estos, requirió a la vez
+de un esfuerzo por identificar las barreras de carácter social y cultural que limitan la demanda de
+los servicios. Al mismo tiempo, se buscó mejorar la calidad de la atención en lo que corresponde
+al respeto hacia las usuarias, su cultura y sus preferencias. Así, el programa promovió
+actividades para fomentar la demanda de las usuarias que fueron ajustadas al contexto
+multicultural ya que: la información se brindó en Miskito y Mayagna, no solamente en Castellano;
+y los materiales fueron adaptados respetando la cosmovisión étnica de las poblaciones
+beneficiadas. De igual manera, se trabajó en la sensibilización y capacitación del personal de
+salud sobre estos temas, con la finalidad de promover una atención inclusiva y aceptada por la
+población beneficiaria, y con recursos de este programa y RIS-2 se financió la adecuación cultural
+en la atención del parto humanizado en hospitales primarios de Jinotega, Matagalpa y la RACCN.
+         III. CRITERIOS NO CENTRALES
+III.1    Desempeño del Banco
+El desempeño del Banco fue satisfactorio en cuanto estableció y mantuvo una relación de
+cooperación técnica permanente con el ejecutor para atender consultas tanto de carácter técnico
+como fiduciario, buscando y consensuando con el ejecutor medidas de mitigación en función de
+la continuidad en la implementación. La relación con el ejecutor estuvo centrada en la gestión
+estratégica del programa, en función de cumplir sus objetivos de desarrollo. Así, el Banco
+promovió y acompañó el uso de los instrumentos de la gestión como informes de semestrales de
+monitoreo (bajo estructura del PMR), consistentes con las herramientas de gestión para
+resultados, en especial el PEP, el POA y PA. El Banco desarrolló un análisis de capacidad
+institucional al inicio de la operación para identificar posibles riesgos y determinar ar las medidas
+de mitigación, determinando que el esquema de supervisión fiduciaria contemplara la revisión
+ex post de muchos procesos de adquisiciones y de los desembolsos. A través del análisis de los
+estados financieros auditados y de las visitas fiduciarias de supervisión (semestrales), el Banco
+                                                   27
+"
+"mantuvo un conocimiento constante de la capacidad y aplicación por el ejecutor de las políticas
+fiduciarias.
+III.2   Desempeño del Prestatario
+El desempeño del Ministerio de Salud de Nicaragua, como ejecutor del programa (2012-2017),
+fue satisfactorio, lo cual permitió cumplir de manera eficiente y oportuna tanto con las principales
+cláusulas contractuales establecidas, como con los compromisos técnicos y fiduciarios.
+Desde un punto de vista estratégico, el organismo ejecutor ejerció un liderazgo efectivo y
+oportuno durante toda la implementación del programa, tomándose medidas de ajuste que fueron
+necesarias en el momento oportuno, en constante comunicación con el Banco. Desde el punto
+de vista de la gestión operativa del programa, el organismo ejecutor llevó ordenadamente los
+procesos administrativos y financieros de los cuales era responsable.
+La relación con el Banco fue armoniosa, existiendo una comunicación abierta tanto en la gestión
+administrativa del programa como en el diálogo técnico. Esta colaboración condujo a acordar la
+complementariedad de este programa con RIS-2 y la ISM, donde coincidieron territorios
+beneficiarios, lográndose la sinergia en la realización de acciones complementarias, algunas
+previstas desde el diseño, otras acordadas sobre la marcha, para la mejora de la salud materna
+e infantil, tanto en lo relacionado en procesos de extensión de cobertura como en la mejora
+continua de la calidad por ejemplo a través del abasto de insumos necesarios para la atención,
+así como también en el fortalecimiento en la implementación del MOSAFC en estas zonas
+alejadas, pobres y de difícil acceso.
+La programación presupuestaria y el plan financiero se procesaron en la Dirección General
+Administrativa financiera, en coordinación con las Dirección de Cooperación Externa y la
+Dirección de Planificación y Desarrollo, con quienes se confirmaban las atenciones brindadas
+procedentes de los territorios para realizar las transferencias correspondientes a los pagos por
+atención. En el ámbito financiero, el reporte de ejecución presupuestaria utilizado fue el Sistema
+Integrado de Gestión Financiera y Auditoría (SIGFA), y para el registro contable se usó el
+SIGFAPRO modulo auxiliar del SIGFA, que es el sistema nacional que dirige el Ministerio de
+Hacienda y Crédito Público.
+El adecuado manejo de las partidas de contribución producto de las transferencias realizadas
+por atenciones, permitió realizar los procesos de licitación para compra de material de reposición
+periódica, equipamiento básico para unidades de salud del primer nivel de atención, así como
+reparaciones de equipos menores para la atención en salud.
+La ejecución financiera fue objeto de auditorías financieras anuales, donde de manera
+sistemática se encontraron resultados satisfactorios, lo que redujo los hallazgos del control
+interno, producto del desarrollo de competencias de los recursos en los niveles locales de mejorar
+la gestión administrativa a través de la realización de mecanismos y procedimientos establecidos
+para la ejecución de fondos, en el Contrato, y las normas de control interno del Ministerio.
+El MINSA implementó las recomendaciones del SECI, (informe de análisis de capacidades de
+gestión realizado durante la formulación) lo cual permitió fortalecer sus capacidad para la correcta
+ejecución del proyecto.
+Los criterios para la ejecución del programa se establecieron en el Reglamento Operativo, donde
+se definen los roles de cada una de las direcciones involucradas en la ejecución. El RO establece
+el Plan de Monitoreo y Evaluación que buscaba articular varios instrumentos para garantizar el
+buen seguimiento de la ejecución a partir de la Matriz de Resultados, y los Planes Operativos e
+Informes de Progreso periódicos. El plan además incluía una evaluación del desempeño
+(o auditoría técnica externa) de la extensión del conjunto de servicios, centrada en la certificación
+de los indicadores trazadores del conjunto de extensión de cobertura (ver detalle de estos seis
+                                                  28
+"
+"indicadores en la Introducción). Se comprobaría el grado de exactitud, credibilidad, oportunidad
+y calidad de los datos reportados. La auditoría técnica externa fue realizada por una firma
+consultora y confirmó en todos los períodos la consistencia de los datos reportados por las
+atenciones brindadas, así como la adecuada utilización de los protocolos de atención.
+       IV. Hallazgos y recomendaciones
+ IV.1  Dimensiones 1 a 5
+                                              29
+"
+"                                            Gráfico 4.1: Tabla de Hallazgos y recomendaciones
+                                    Hallazgos                                                            Recomendaciones
+Dimensión Técnico Sectorial
+El programa canalizó las intervenciones principales a través de un
+mecanismo innovador, de transferencia por persona con atenciones
+efectivamente recibidas. La discusión sobre efectividad y costo efectividad     Retomar los resultados del análisis específico sobre el efecto del
+del programa, no necesariamente del mecanismo, indican que sí se lograron       mecanismo de financiación, una vez disponibles, para poner en
+los resultados y con un costo y tiempo dentro de los parámetros analizados      contexto los siguientes hallazgos sobre sistema de información,
+ex ante como asequibles.                                                        monitoreo institucional de los servicios (sectorial), planificación
+El equipo, con apoyo de SPD, está analizando datos relacionados con los         (organización) y divulgación de mecanismos (gestión fiduciaria).
+resultados, dentro y fuera de los municipios de implementación del programa,    Estos hallazagos están relacionados con aspectos específicos de
+esperando poder “aíslar” el efecto de mecanismo de implementación si            este mecanismo y proponen recomendaciones para la aplicación
+resultara que éste haya sido la única variable distinta entre los dos grupos de y constante mejora del mismo mecanismo, sea en el contexto de
+municipios. Con los resultados de este análisis se podrá precisar la            Nicaragua u otros países.
+recomendación sobre el valor del mecanismo de financiamiento.
+Existe un sistema de información y estadísticas del MINSA que en su
+fuente primaria recopila la producción de servicios y estadísticas vitales. Sin
+embargo, la información de los expedientes y las hojas de registro diarios no
+es digitalizada en su integralidad (como datos nominales). Los reportes que
+se generan y remiten, ya con soporte digital, reflejan información agregada.
+Asimismo, el último censo que se llevó a cabo en el país fue en el 2005 y       Priorizar el desarrollo de un sistema automatizado de información
+proyecciones a partir de dicho censo determinan los denominadores de los        en salud que aproveche las fuentes de datos nominales de los
+grupos etarios meta, para la estimación de coberturas.                          instrumentos primarios de registro de la atención (Hoja de
+                                                                                Registro Diario de las Atenciones, Expediente Clínico, Libro del
+Así, el sistema actualmente no puede generar reportes directos de cobertura.    Programa Ampliado de Inmunizaciones, entre otros).
+Por ejemplo, se sabe cuántas son las dosis de una vacuna aplicada, pero no
+se puede dar seguimiento a cuál niño le hace falta una dosis de una vacuna      Crear reportes que faciliten la búsqueda de pacientes que tenían
+para cumplir con su esquema. El contar con un sistema nominal y digitalizado,   que acudir a una atención y no lo han hecho (inasistentes) y
+permitiría (o facilitaría) el seguimiento del trabajo del nivel comunitario. En seguimiento a la atención de poblaciones móviles (migrantes
+ausencia de esa información, cada equipo municipal (encargado del               internos/ estacionales ej. por cosecha).
+seguimiento) debe de recoger y explotar la información de registros primarios
+una vez más de forma manual.                                                    Crear reportes automáticos de coberturas y otros indicadores de
+                                                                                desempeño para fortalecer la gestión de la atención y la
+El modelo de financiamiento de este proyecto requería un reporte agregado       eficiencia del gasto público en salud.
+de atenciones trazadoras (ejemplo: niños con tercera dosis de vacuna
+pentavalente, mujeres atendidas con visita de puerperio mediato, etc.) contra
+el cual se hacia la transferencia de recursos financieros. El diseño del
+proyecto incluyó auditorias técnicas (requisito fiduciario) para cotejar los
+reportes agregados con los registros primarios de las personas atendidas y
+                                                                          30
+"
+"                                   Hallazgos                                                             Recomendaciones
+así verificar volumen de atenciones. Se utilizaron las fuentes de información:
+Hoja de Registro Diario de las Atenciones, Expediente Clínico, Libro del
+Programa Ampliado de Inmunizaciones.
+                                                                                 De forma complementaria al desarrollo de un sistema de
+                                                                                 información digital y nominalizado, se debe fortalecer los
+                                                                                 mecanismos internos de monitoreo y seguimiento de la
+                                                                                 información tanto de productividad (registro de atenciones) como
+                                                                                 de estadísticas de salud.
+Mecanismos institucionales de monitoreo y seguimiento. Por no contar
+con un sistema de información digital y nominalizado las auditorías técnicas
+                                                                                 Para maximizar el análisis (es decir, que la información alimente
+externas requirieron de un esfuerzo muy grande (en tiempo y costos) para
+                                                                                 la gestión de los servicios) desde el nivel regional, sistematizar el
+certificar el volumen de atención.
+                                                                                 reporte y el análisis de los informes mensuales requeridos de las
+En Nicaragua se contó con una experiencia de programa basado en
+                                                                                 direcciones locales, y que recogen tanto las atenciones
+resultados, el programa de Fortalecimiento de la Salud Materno-Infantil,
+                                                                                 brindadas (a partir de los registros primarios mencionados), como
+(NI-L1001 y contrato 1607/SF-NI) entre 2005 y 2009. En este programa las
+                                                                                 indicadores de estado de salud. Con esa información, se podría
+auditorias técnicas sí incluían aspectos de análisis cualitativos y de mejora de
+                                                                                 documentar sistemáticamente el desempeño de los servicios y
+la gestión de los servicios (en otras palabras, fueron “auditorias
+                                                                                 mejorar su organización (sectorización, censos gerenciales,
+capacitantes”). En este proyecto, el Ministerio no priorizó esa actividad en las
+                                                                                 procesos de capacitación, etc.).
+auditorias técnicas por el aumento de costo que esto implicaría. No se explota
+la información que el sistema tiene y por tanto, se deben hacer esfuerzos
+                                                                                 Con estos mecanismos y un sistema automatizado que
+adicionales (auditorias técnicas) para confirmar datos.
+                                                                                 mantenga como su base la información nominal, se podría contar
+                                                                                 con mayor eficiencia y generar ahorros por ejemplo al reducir el
+                                                                                 tiempo y costo de auditorías externas de cobertura, enfocándolas
+                                                                                 en auditar el uso del sistema y una muestra menor de registros
+                                                                                 primarios revisados exhaustivamente en campo.
+Innovaciones en la prestación de servicios. En este programa se apoyó la
+implementación de la telemedicina, conectando a los Centros de Salud,
+Hospitales Primarios y Hospitales con el Hospital de la Mujer (Bertha
+Calderón) y el Hospital del Niño (Manuel de Jesús Rivera) en Managua.
+Asimismo, este Programa y el de RIS-2 apoyaron la adaptación cultural de         Documentar de forma rigurosa la implantación de ambas
+las salas de parto de varios centros de salud y hospitales primarios para poder  innovaciones, por ejemplo con métodos cualitativos y de
+atender el parto en libre posición.                                              sistematización de experiencias, de forma de poder generar
+Anecdoticamente, se ha observado una buena aceptación por los usuarios           recomendaciones para sus ampliación y/o sostenibilidad.
+internos y finales (beneficiarios) de ambas innovaciones, que, en otros
+contextos, cuentan con evidencia de su efectividad para mejorar la calidad de
+los servicios, mejorando el acceso a recursos humanos mejor calificados o
+bien en la dimensión de pertinencia de los servicios para los usuarios.
+                                                                          31
+"
+"                                    Hallazgos                                                         Recomendaciones
+No obstante, la información para analizar de manera sistemática la
+efectividad de ambas intervenciones de este proyecto es limitada.
+Atención a determinantes de la salud. El mejoramiento de la salud y
+nutrición, especialmente en relacion con enfermedades transmisibles, está     Es recomendable analizar la viabilidad de articular las
+condicionado a la atencion de llamados “ determinantes sociales de la salud”, intervenciones que atienden los determinantes más directos de
+específicamente, el acceso a agua potable y cobertura de saneamiento, que     la salud, como es el acceso al agua y saneamiento. Lo anterior
+no están bajo el mandato institucional directo del Ministerio de Salud. Al no puede ser dentro de un programa multisectorial – como se intentó
+tener control sobre este factor, el MINSA no puede asegurar el alcance de los realizar con el programa NI-L1143), o estableciendo mecanismos
+resultados sobre enfermedades transmisibles (y nutrición), lo cual debe ser   explícitos de articulación entre instituciones y programas (como
+identificado como un riesgo importante desde el diseño del proyecto y         se realiza entre NI-L1143 y NI-L1145).
+conllevar a la identificación de medidas de mitigación.
+Dimensión: Organización y gestión
+Planificación de procesos operativos. El MINSA ha avanzado en asegurar
+el abastecimiento de insumos por contar con mejoras en el ciclo de gestión
+de insumos (desde planificación hasta dispensación). Sin embargo, la
+planificación de las capacitaciones de recursos humanos y mantenimiento o
+reposición del equipamiento no cuenta con procesos sistematizados. Las
+                                                                              Mejorar los procesos de planificación para contar con información
+necesidades de capacitación y equipamiento deben ser documentadas de
+                                                                              que permita elaborar planes de capacitación y de mantenimiento
+forma sistemática, tomando de referencia, en primer lugar, la norma de
+                                                                              y/o reposición del equipamiento.
+habilitación que establece el perfil mínimo requerido de los prestadores en
+cuanto a equipamiento, infraestructura y asignación y capacidad del recurso
+                                                                              En futuras intervenciones que el país desee impulsar, se
+humano. Basado en este análisis se debe planificar las intervenciones de
+                                                                              recomienda incluir como parte del diseño (o como condición de
+fortalecimiento.
+                                                                              elegibilidad) los mecanismos para planificar las intervenciones de
+Al no tener estos procesos sistematizados oportunamente, y al no haber
+                                                                              fortalecimiento, basado en la medición y documentación de las
+preparado los planes de capacitación estandarizados que estaban
+                                                                              brechas existentes al inicio de cada ciclo de gestión (plan anual
+contemplados en el diseño de la operación, las capacitaciones del personal y
+                                                                              o plurianual).
+dotación de equipos se dieron más tarde que el inicio de la atención. En este
+sentido, el proyecto podría haber contado con mejores resultados al darse las
+sinergias entre la disponibilidad de financiamiento para personal e insumos
+(atención en el primer componente) junto con la mejora de capacidades
+(capacitaciones y equipamiento del segundo componente).
+Dimensión: Gestión fiduciaria
+Divulgación de mecanismos y procesos operativos. El programa introdujo
+un mecanismo nuevo de financiamiento (financiamiento capitado) que da
+                                                                              Establecer mecanismos de divulgación y capacitación expresos,
+seguimiento al registro de personas atendidas, no así a la compra de insumos
+                                                                              para la aplicación de nuevos modelos. Actualizar la comunicación
+o gastos de personal.
+                                                                              y capacitación a lo largo de la ejecución en respuesta a la
+                                                                              rotación regular del personal.
+La aplicación de un mecanismo de financiamiento capitado requiere una
+capacidad de gestión administrativa financiera alta. La dirección
+                                                                       32
+"
+"                                    Hallazgos                                     Recomendaciones
+administrativa financiera estaba acostumbrada a documentar, y liquidar ante
+el Banco gastos de insumos (gastos elegibles y facturas).
+El mecanismo de implementación contemplaba solicitar los desembolsos
+contra registro de atención y registrar el uso de recursos por gasto elegible
+para fines de auditoria. El registro y clasificación de gastos, planificación del
+abastecimiento y de la compra o reposición de activos, incluyendo los créditos
+presupuestarios correspondientes, era necesario para cerrar estados
+financieros, y requirió mucha articulación entre las áreas de planificación,
+servicios y el área administrativa financiera.
+Al inicio de la ejecución, si bien las direcciones técnicas (división general de
+planificación y dirección general de servicios de salud) tenían claridad que el
+nuevo modelo implicaba el dar seguimiento a personas atendidas, la
+dirección financiera experimentó algunas dificultades en apropiarse del
+modelo de financiamiento y mecanismos de implementación. Si bien se
+preparó un reglamento operativo y manuales de implementación
+(conjuntamente con todas las áreas) la inducción de todas ciertas áreas fue
+insuficiente.
+                                                                           33
+"
+"Anexo A:
+                             Gráfico Lógica programática de la Cartera de Salud en Nicaragua 2011-2015
+Adaptado de NI-L1095 - Teoría de Cambio, Anexo a la Propuesta de Préstamo. Leyenda.
+                                                                          34
+"
+"Anexo B
+  Análisis de relevancia del diseño de las tres operaciones de Mejoramiento (NI-L1054), RIS-2
+                                 (NI-L1068) y Corredor Seco (NI-L1081)
+La lógica vertical de las operaciones estuvo sustentada en el diagnóstico de tres problemáticas que
+afectan cobertura y calidad de la atención de salud –principalmente en comunidades vulnerables que
+registraban niveles elevados de pobreza y exclusión social. En primer lugar, la situación de los
+indicadores de salud como la mortalidad materna y neonatal, que, a pesar de mostrar reducciones
+importantes, se encontraban por encima de la meta establecida en los Objetivos de Desarrollo del
+Milenio. En segundo lugar, las brechas de acceso a los servicios de salud, ya que datos de la cobertura
+mostraban que las zonas rurales no solo tenían un acceso considerablemente menor, sino que también
+tenían una mayor incidencia de la pobreza. En tercer lugar, la deficiente calidad en la atención y de los
+servicios de salud.
+Para responder a esta problemática y mejorar el estado de salud y bienestar de las poblaciones más
+vulnerables, los Programas implementados buscaron fortalecer un conjunto de atenciones de salud de
+buena calidad en territorios priorizados por su alta vulnerabilidad a través de: (i) mejoras en la
+capacidad de los ES y del personal, en especial en perfiles técnicos y de enfermería; (ii) apoyo a los
+equipos del MINSA en los territorios para implementar las estrategias comunitarias; (iii) fortalecimiento
+de la gestión institucional; y (iv) fortalecimiento del sistema de registros y del uso de la información
+epidemiológica para mejorar la atención comunitaria.
+La cadena causal definida al momento del diseño de las operaciones mantuvo relevancia a lo largo de
+toda la fase de ejecución. Al momento del diseño, se planteó que para mejorar la cobertura y calidad
+de las atenciones en los servicios de salud era necesario formular acciones simultáneas para abordar
+la problemática descrita anteriormente. La cadena causal propuesta al momento del diseño de las
+operaciones consideró que, al mejorar la calidad de la atención y la capacidad resolutiva de los ES en
+las zonas priorizadas, las operaciones generarían resultados positivos en el estado de salud y
+bienestar de las poblaciones más vulnerables.
+                                                     35
+"

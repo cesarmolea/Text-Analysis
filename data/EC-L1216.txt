@@ -1,0 +1,1440 @@
+"outlist[[i]]"
+"PERSONAL DEL BANCO
+                          POSICIONES           EN PCR                             EN LA APROBACIÓN
+                VICEPRESIDENTE VPS             Ana María Rodríguez-Ortiz, a.i.    Santiago Levy Algazi
+                VICEPRESIDENTE VPC             Alexandre Meira da Rosa            Alexandre Meira da Rosa
+                GERENTE DE PAÍS                Rafael de la Cruz                  Carola Álvarez
+                GERENTE SECTORIAL              Juan Antonio Ketterer, a.i.        Ana María Rodríguez-Ortiz
+                JEFE DE DIVISIÓN               Juan Antonio Ketterer              Juan Antonio Ketterer
+                REPRESENTANTE DE PAÍS          Fernando Quevedo                   Carlos Melo
+                JEFE DE EQUIPO DEL PROYECTO    Juan José Durante                  Juan José Durante
+                JEFE DE EQUIPO DEL PCR         Juan José Durante                  Juan José Durante
+TIEMPO Y COSTO (DIRECTO) DEL PERSONAL
+  Ciclo de proyecto de etapa          # de semanas de personal             USD (incluidos los gastos de
+                                                                           viaje y asesoría)
+  Preparación                                        23                                 $53,766.52
+  Supervisión                                       100                                $320,908.53
+  Total                                             123                                $374,675.05
+DECLARACIÓN DE LOS OBJETIVOS DE DESARROLLO DEL PROYECTO:
+Otorgar al Prestatario un financiamiento contingente con el objetivo de ayudar a amortiguar el
+impacto que un desastre natural severo o catastrófico podría llegar a tener sobre las finanzas
+públicas del país, a través de un aumento de la disponibilidad, estabilidad y eficiencia de
+financiamiento contingente para la atención de las emergencias ocasionadas por este tipo de
+eventos.
+                                                    -v-
+"
+" I.       Introducción
+El Banco Interamericano de Desarrollo (BID) aprobó el Préstamo Contingente para
+Emergencias por Desastres Naturales para Ecuador (EC-X1008) el 1 de febrero de 2012,
+por un monto de US$100 millones. En agosto de 2014, la República de Ecuador solicitó
+al Banco el incremento del monto del préstamo EC-X1008 por US$200 millones
+adicionales, con el fin de que el monto total de financiamiento ascienda a US$300
+millones. Atendiendo esta solicitud, se reformuló el préstamo EC-X1008 y el 18 de
+diciembre de 2014 el Directorio Ejecutivo del BID aprobó el nuevo préstamo reformulado
+EC-X1014. La República de Ecuador y el Banco firmaron el 16 de junio de 2015 el contrato
+de préstamo de la operación reformulada EC-X1014 correspondiente al Préstamo
+Contingente para Emergencias por Desastres Naturales.
+Dada la naturaleza contingente del préstamo, que se explica y desarrolla en las siguientes
+secciones, los desembolsos están sujetos a la ocurrencia de desastres naturales severos
+o catastróficos que cumplan con los requisitos de elegibilidad establecidos por el Banco
+y acordados con el país. En abril de 2016, Ecuador sufrió un terremoto que fue declarado
+elegible por la totalidad de la cobertura de US$300 millones proporcionada por el
+préstamo contingente EC-X1014, según los parámetros de elegibilidad previamente
+establecidos entre el Banco y el país. Por consiguiente, los recursos del préstamo se
+pusieron a disposición del país y, a solicitud del prestatario, fueron desembolsados
+US$160 millones bajo la operación EC-L1216 (3670/OC-EC), a la cual corresponde el
+presente Informe de Terminación de Proyecto (PCR por sus siglas en inglés).
+Teniendo en cuenta que este PCR es el primero que realiza el Banco para este tipo de
+operaciones y que los préstamos contingentes para emergencias por desastres naturales
+tienen características particulares, a continuación, se incluye información relevante para
+contextualizar adecuadamente este informe.
+Gestión Financiera del Riesgo de Desastres
+La región de América Latina y el Caribe está altamente expuesta a amenazas naturales.
+El impacto social y económico de estos eventos ha sido históricamente alto y está
+mostrando una tendencia cada vez mayor. La frecuencia de los desastres naturales en la
+región aumentó considerablemente, habiéndose triplicado el número de eventos
+registrados en los últimos 50 años. Los desastres naturales incrementaron 41%, de 650 a
+915 eventos, entre los periodos de 1986-2000 y 2001-2015. Por otro lado, los
+daños se han duplicado en el mismo periodo, pasando de US$61.000 millones a
+US$124.000 millones2.
+La gestión financiera de los riesgos de desastres es un desafío clave de la política pública
+para los gobiernos de la región, particularmente aquellos que enfrentan exposiciones
+significativas a dichos riesgos y que tienen una capacidad limitada para gestionar los
+impactos financieros3. El BID promueve y apoya el desarrollo de estrategias efectivas
+2   BID. 2016. Operational Review, August 2016. Oficina de Planificación Estratégica y Efectividad en el
+    Desarrollo. Washington, DC: Banco Interamericano de Desarrollo.
+3   Andersen, T., Marcel, M., Collich, G., Focke, K., and Durante, J.J. 2010. “Natural Disasters Financial
+    Risk Management Technical and Policy Underpinnings for the Use of Disaster-Linked Financial
+                                                      -1-
+"
+"para la gestión financiera del riesgo de desastres en sus países miembros.
+Recientemente, la OECD recomendó a los países miembros y no miembros reforzar sus
+esfuerzos para diseñar e implementar estas estrategias4 señalando que son
+fundamentales para lograr los objetivos del Marco de Sendai para la Reducción del
+Riesgo de Desastres5 y los objetivos del Acuerdo de París sobre el Cambio Climático6.
+Estas estrategias de financiamiento del riesgo de desastres deben ser un componente
+central de un enfoque integral para la gestión del riesgo de desastres que incluya,
+además, la identificación de riesgos y evaluación de vulnerabilidades, la prevención y
+reducción de riesgos y la respuesta ante desastres. En este sentido, desde 2005, en el
+marco del Plan de Acción para mejorar la Gestión del Riesgo de Desastres 2005-2008
+(GN-2339-1), el Banco trabajó en el desarrollo de un enfoque integral para la gestión del
+riesgo. Finalmente, en 2008 se aprobó y comenzó a desarrollar operacionalmente el
+componente financiero de este enfoque7.
+Este componente financiero tiene como objetivo apoyar a los países prestatarios a
+desarrollar estrategias financieras a través del diseño y puesta en práctica de programas
+de financiamiento y transferencia de los riesgos de desastres naturales (PFTRDN).
+Dichos programas incluyen una combinación de mecanismos e instrumentos financieros
+que mejoren la planificación preventiva y provean una cobertura más amplia, estable y
+eficiente del riesgo de erogaciones financieras públicas extraordinarias. En el diseño de
+los PFTRDN se recomienda la utilización de recursos presupuestarios directos o a través
+de la creación de fondos de reserva para cubrir las erogaciones públicas resultantes de
+desastres de alta recurrencia y menor magnitud. Adicionalmente, para aquellos desastres
+con una menor probabilidad de ocurrencia y de magnitud severa o catastrófica, que
+generan gastos extraordinarios mucho más elevados, se promueve un financiamiento
+mediante instrumentos de deuda contingente a largo plazo e instrumentos de
+transferencia de riesgo, como seguros y bonos catástrofe (cat bonds), por resultar
+económicamente más eficiente.
+Facilidad de Crédito Contingente para Emergencias por Desastres Naturales
+Bajo el marco antes expuesto se creó la Facilidad de Crédito Contingente para
+Emergencias por Desastres Naturales (CCF, por sus siglas en inglés), establecida por el
+Banco en 2009 (GN-2502-2). A finales de 2012, se aprobaron modificaciones a la CCF
+(GN-2667-2) que, entre otros, ampliaron los límites de financiamiento por país de la
+Facilidad de US$100 millones hasta US$300 millones o 2% del Producto Interno Bruto
+(PIB), lo que resulte menor.
+La CCF es una de las principales herramientas del Banco para apoyar a los países
+miembros prestatarios a mejorar la gestión financiera del riesgo de desastres naturales.
+A través de la CCF, los países de la región tienen acceso inmediato a recursos financieros
+para enfrentar gastos fiscales extraordinarios derivados de desastres naturales de
+magnitud severa o catastrófica. Esta rápida disponibilidad de recursos también ayuda a
+   Instruments in Latin America and the Caribbean”. Technical Notes No. IDB-TN-175. Washington, DC:
+   Inter-American Development Bank.
+4  OECD. 2017.“OECD Recommendation on Disaster Risk Financing Strategies”. Paris: Organisation for
+   Economic Cooperation and Development.
+5
+   Naciones Unidas. 2015. Marco de Sendai para la Reducción del Riesgo de Desastres 2015-2030.
+6  Naciones Unidas. 2015. Acuerdo de Paris sobre el Cambio Climático.
+7  BID. 2008. Gestión integrada del riesgo de desastres y enfoque financiero (GN-2354-7).
+                                                   -2-
+"
+"los países a mitigar el impacto que los desastres naturales de gran magnitud tienen en el
+desarrollo económico como resultado de la brecha de liquidez que enfrentan los
+gobiernos debido a la combinación de mayores gastos, ingresos más bajos, reducción de
+la actividad económica producida por el desastre y restricciones en el acceso a recursos
+de crédito.
+Para permitir el rápido desembolso de los recursos necesarios para hacer frente a una
+emergencia causada por un desastre natural de gran magnitud, los préstamos
+estructurados bajo la CCF incluyen una solución innovadora basada en la construcción
+de disparadores paramétricos para calcular la correlación entre la magnitud del desastre
+y la población afectada por el mismo, así como el nivel de cobertura financiera que se le
+proporcionará al país en cuestión8.
+Por otro lado, la CCF establece que los países son elegibles para recibir financiamiento
+a través de la misma, siempre y cuando tengan en vigencia un Programa de gestión
+integral del riesgo de desastres naturales (PGIRDN) satisfactorio para el Banco. El
+PGIRDN asegura la alineación de las intervenciones del Banco con sus políticas de
+gestión de riesgos de desastres que establecen un planteamiento integral de la gestión y
+que promueven medidas y acciones preventivas, de reducción de riesgos y de
+planificación financiera ex ante9.
+Descripción de la operación
+El préstamo contingente EC-X1014 aprobado por el Banco proporciona al Ecuador una
+cobertura financiera de US$300 millones en caso de sismos, inundaciones por
+precipitaciones torrenciales y asociadas al Fenómeno El Niño y lahares ocasionados por
+erupciones volcánicas.
+La operación, al igual que todos los préstamos contingentes otorgados bajo la CCF,
+presenta características específicas dirigidas principalmente: (i) a permitir un acceso
+rápido a recursos financieros líquidos para atender oportunamente los gastos asociados
+a emergencias por desastres naturales; y (ii) a que el financiamiento contemple
+condiciones apropiadas para apoyar al país en el momento crítico que supone una
+emergencia ocasionada por un evento severo o catastrófico, en donde las finanzas
+públicas se ven afectadas debido a una combinación de necesidad de recursos
+adicionales para la atención de gastos extraordinarios con caídas imprevistas de ingresos
+por disminución de la actividad económica.
+Con la finalidad de atender las precitadas características, el préstamo contingente
+EC-X1014 presenta términos y condiciones financieras particulares 10 que aplican
+8  Esta solución permite evaluar el impacto financiero del desastre en días, evitando semanas, o meses, que
+   generalmente toman las evaluaciones de daños ex post. Este modelo paramétrico fue desarrollado por el
+   Equipo del Banco, en colaboración con la Administración Nacional Oceánica y Atmosférica (NOAA), la
+   Administración Nacional de Aeronáutica y del Espacio (NASA) y el Servicio Geológico de los Estados
+   Unidos (USGS), además de otras instituciones nacionales e internacionales de reconocido prestigio.
+9  BID. 2007. Política sobre Gestión del Riesgo de Desastres (OP-704; GN-2354-5).
+10 Entre los cuales cabe mencionar: (i) el período de amortización y el período de gracia son contados a
+   partir de la fecha de cada desembolso; (ii) la comisión de crédito sólo se cobrará en el caso que
+   efectivamente se realice un desembolso de recursos provenientes del programa regular de préstamos; y
+   (iii) el plazo de disponibilidad de los recursos para solicitar desembolsos es 5 años, prorrogable, hasta por
+   5 años adicionales.
+                                                        -3-
+"
+"únicamente a préstamos aprobados bajo la CCF. Operativamente, la aplicación de estas
+condiciones especiales implica que cada uno de los desembolsos del préstamo
+contingente sea tratado como una operación individual. Así es el caso de la operación
+EC-L1216, que constituye el primer desembolso del préstamo contingente EC-X1014.
+Por otro lado, es importante notar que para poder realizar el desembolso de los recursos
+del préstamo EC-L1216 se tuvieron que cumplir condiciones especiales establecidas en
+el contrato del préstamo EC-X1014, entre las que cabe destacar que el Banco haya
+verificado la ocurrencia de un evento elegible según los parámetros definidos en el
+Reglamento Operativo y que el PGIRDN, previamente acordado con el Banco, se
+encuentre en ejecución de forma satisfactoria11.
+Finalmente, el país optó por utilizar la opción que provee el préstamo contingente para
+que los recursos puedan ser desembolsados alternativamente de fondos provenientes
+del programa regular de préstamos, de los saldos disponibles y no desembolsados de
+préstamos ya aprobados e identificados en la Lista de Redireccionamiento Automático
+(LRA)12.
+Descripción del evento
+El 16 de abril de 2016 ocurrió un fuerte sismo de magnitud 7,8 en la escala de Richter en
+el norte de la región costera de la República del Ecuador. El epicentro de dicho sismo se
+ubicó frente al cantón Pedernales en la provincia de Manabí, a 20 km de profundidad. Fue
+perceptible en la mayoría de las zonas del oeste del país y seguido de seis réplicas de
+magnitud seis o mayor en los días siguientes13. Las ciudades más afectadas incluyen
+Pedernales, Portoviejo y Manta en la provincia de Manabí, Muisne en la provincia de
+Esmeraldas y Guayaquil en la provincia de Guayas. Específicamente, algunos cantones
+de las provincias de Manabí, Esmeraldas y Santo Domingo fueron considerablemente
+afectados. La Secretaría Nacional de Planificación y Desarrollo presentó la evaluación de
+impacto post desastre para cuantificar los daños por el terremoto14. Este análisis fue
+realizado en conjunto con expertos de la Comisión Económica para América Latina y el
+Caribe (CEPAL), el BID y otros 12 organismos internacionales y multilaterales, así como
+de entidades locales. Las pérdidas fueron significativas en términos humanitarios
+resultando 663 personas fallecidas, 4.859 heridos y aproximadamente 80.000 personas
+evacuadas/desplazadas de sus hogares.
+En cuanto al impacto económico, la infraestructura pública y privada sufrió daños
+importantes entre los que se destacan casi 30.000 viviendas afectadas, 83 km de vías
+deterioradas y otros impactos sobre la infraestructura de uso público (agua y
+11 Son también condiciones especiales previas a cada desembolso que el prestatario haya presentado,
+   dentro del plazo de 90 días de ocurrido un evento elegible, una solicitud de desembolso indicando el
+   monto requerido, y si el desembolso se solicita con cargo total o parcial a recursos del financiamiento de
+   los préstamos identificados en la LRA.
+12 La LRA es un mecanismo de fondeo alternativo exclusivo de la CCF (GN-2502-2, ¶4.11). La LRA incluye
+   los préstamos de inversión del Banco con el país vigentes y con saldos disponibles sin desembolsar,
+   cuyos saldos remanentes podrán ser redireccionados automáticamente, a discreción del país, en caso de
+   producirse un desastre natural elegible. En consulta con el prestatario, la LRA se actualiza periódicamente
+   para incluir nuevos préstamos aprobados.
+13 Instituto Geofísico de la Escuela Politécnica Nacional (IG-EPN). 2016. Informe Sísmico Especial No 17.
+   Quito.
+14 Secretaría Nacional de Planificación y Desarrollo (SENPLADES). 2016. “Evaluación de los costos de
+   reconstrucción. Sismo en Ecuador. Abril de 2016”. Quito.
+                                                    -4-
+"
+"saneamiento, escuelas y centros de salud, entre otros). Se estimaron los costos de
+rehabilitación y reconstrucción en aproximadamente de US$3.344 millones, de los cuales
+67% corresponden al sector público (US$2.253 millones) y el resto al sector privado
+(US$1.091 millones). Esto incluye los costos de reconstrucción de la infraestructura
+pública que fueron calculados en US$862 millones, comprendiendo los rubros de agua y
+saneamiento (US$269 millones), vialidad (US$244 millones), electricidad
+(US$196 millones) y telecomunicaciones (US$153 millones). Mientras que a nivel país
+se ha estimado un impacto de 0,7% del PIB nacional; a nivel de las provincias afectadas
+los estudios citan una caída del PIB regional del 9,8% (basadas en el peso económico de
+los principales segmentos alcanzados). Se destaca la reducción de 21.823 empleos e
+impactos sensibles en algunos sectores económicos (exclusivamente en el sector
+camaronero se calculó una merma de exportaciones por US$35 millones).
+Ante esta situación, el Gobierno de Ecuador envió una solicitud de verificación de
+elegibilidad del evento, a la cual el Banco respondió informando que el evento era elegible
+para desembolsos bajo el préstamo EC-X1014. El informe de verificación de elegibilidad
+preparado por el Banco presentó el análisis realizado utilizando la metodología
+establecida en el Reglamento Operativo del préstamo, concluyendo que el país podía
+acceder a la totalidad de la cobertura de US$300 millones provista por el préstamo
+contingente15.
+Objetivo, alcance y estructura del PCR
+El presente PCR busca describir y documentar la ejecución, resultados e impactos de la
+operación EC-L1216. Este informe recoge los principales resultados obtenidos durante el
+periodo comprendido entre el 16 de abril y el 13 de octubre de 2016, al haberse dispuesto
+el 100% de los recursos desembolsados.
+La discusión en cada una de las secciones centrales del PCR (Relevancia, Eficacia,
+Eficiencia y Sostenibilidad) se realiza: (i) en función de los indicadores de la Matriz de
+Resultados (MR) aprobada; y (ii) en función del diseño de la intervención, los logros
+alcanzados, gastos realizados, y lecciones aprendidas durante la implementación de la
+operación.
+II.       CRITERIOS CENTRALES. RENDIMIENTO DEL PROYECTO
+         2.1       Relevancia
+El diseño fue realizado conforme a las condiciones de elegibilidad del país para acceder
+a la Facilidad de Crédito Contingente para Emergencias por Desastres Naturales (CCF).
+15  El Reglamento Operativo del préstamo EC-X1014, en su Anexo I “Términos y Condiciones de la
+    Cobertura” establece los siguientes criterios y disparadores paramétricos para determinar la elegibilidad
+    de los eventos geofísicos elegibles para desembolsos: “Los eventos elegibles para cobertura son los
+    movimientos sísmicos que ocurran durante el periodo de vigencia de la cobertura del préstamo y que,
+    según los informes del Prompt Assessment of Global Earthquakes for Response (PAGER), de la United
+    States Geological Survey (USGS) publicados dentro de un periodo de 72 horas inmediatamente después
+    de ocurrido el evento se reporten como de una intensidad VI o superior en la Escala de Intensidad
+    Modificada de Mercalli (Modified Mercalli Intensity Scale, MMI), y que haya afectado al menos al 2% de la
+    población del país dentro del área de manifestación del evento”.
+                                                      -5-
+"
+"                    a.    Alineación con las necesidades de desarrollo del país
+Para evaluar si los objetivos y el diseño del proyecto fueron consistentes con las
+necesidades de desarrollo del país, es importante entender primero la problemática que
+el proyecto buscó corregir y la solución planteada.
+Problemática y justificación
+Ecuador es un país altamente expuesto y vulnerable a la ocurrencia de desastres
+naturales. Cerca del 96% de la población vive en regiones costeras y montañosas que
+están expuestas a riesgos sísmicos, volcánicos, y de inundaciones ocasionadas
+principalmente por el Fenómeno de El Niño16.
+El país reúne condiciones geográficas, morfológicas, geológicas, hídricas y climáticas que
+lo exponen a una gran variedad de amenazas de origen natural. Debido a que Ecuador
+se sitúa en una de las zonas de más alta complejidad tectónica, las placas de Nazca y
+Sudamérica generan una alta actividad sísmica y volcánica. Por otro lado, el país se
+encuentra en la zona de convergencia intertropical, lo que genera amenazas de origen
+hidrometeorológico, como inundaciones, tormentas y sequías17.
+El 72,2% de su PIB se genera en áreas expuestas a dos o más amenazas naturales. Esta
+elevada exposición, junto a diversos factores socioeconómicos y demográficos, como los
+patrones de concentración y crecimiento poblacional, exacerban la vulnerabilidad y los
+efectos del cambio climático, e incrementan los riesgos de desastres. Solo en la última
+década, se reportaron 24 desastres naturales en el territorio nacional, de los cuales 10
+correspondían a inundaciones severas, 3 a actividades volcánicas, 3 a terremotos, y 2 a
+sequías.
+La ocurrencia de eventos recientes evidenció el potencial impacto económico y social de
+los desastres naturales en Ecuador. Por ejemplo, las inundaciones ocasionadas por el
+Fenómeno de El Niño en el episodio de 1997-1998 generaron daños por US$783 millones
+(2,8% del PIB) y afectaron a 89.000 personas. El sismo de 1987, por su magnitud
+(6,9 escala Richter), dejó un saldo de 150.000 personas afectadas y US$1.500 millones
+en daños materiales (11% del PIB). Las inundaciones de enero de 2008 también
+impactaron severamente al país, tanto en afectación humana (290.000 personas) como
+en pérdidas económicas (2,4% del PIB).
+Dada la problemática, el país realizó avances importantes en el marco de política y de
+gestión del riesgo de desastres. Por ejemplo, se introdujo la temática del riesgo de
+desastres a la Constitución de 2008 y al Plan Nacional del Buen Vivir 2013-2017, a fin
+promover esfuerzos de reducción del riesgo. En la identificación del riesgo, el país mostró
+16 Global Facility for Disaster Reduction and Recovery (GFDRR). 2014. “Disaster Risk Management in Latin
+   America and the Caribbean Region: GFDRR Country Notes Ecuador”, No. 70121. Washington, DC: The
+   World Bank.
+17 Banco Interamericano de Desarrollo (BID). 2012. “Indicadores de Riesgo de Desastre y de Gestión de
+   Riesgos Programa para América Latina y el Caribe Ecuador”. División de Medio Ambiente, Desarrollo
+   Rural y Gestión del Riesgo de Desastres (INE/RND) Nota técnica # IDB-TN-795. Washington, DC:
+   Banco Interamericano de Desarrollo. Geo Ecuador. 2008. “Informe sobre el estado del medio ambiente”.
+   FLACSO, MAE, PNUMA. http://documents.worldbank.org/curated/en/621711468175150317/Natural-
+   disaster-hotspots-A-global-risk-analysis.
+                                                    -6-
+"
+"un avance significativo en el monitoreo de amenazas sísmicas, mediante la ampliación y
+modernización de la Red Sísmica Nacional, y la microzonificación sísmica de las ciudades
+más importantes del país. En cuanto a la reducción de riesgos, el gobierno canalizó más
+de US$120 millones para inversiones en reducción de riesgos entre 2010 y 2014. Con
+respecto a la respuesta a las emergencias por desastres, se implementó el Sistema
+Integral de Seguridad ECU 911 en todo el territorio nacional.
+A pesar de los avances logrados, la ocurrencia de un desastre natural de magnitud severa
+o catastrófica constituye un importante pasivo fiscal contingente. En efecto, un estudio
+elaborado por el Banco18 indica que, ante un evento extremo con un período de
+recurrencia de 100 años, las pérdidas probables para el país alcanzarían alrededor del
+7% del PIB. Asimismo, el informe indica que en el caso de eventos extremos con una
+recurrencia igual o mayor a 500 años el sector público no tendría la capacidad financiera
+para afrontar los gastos extraordinarios para atender las fases de emergencia,
+rehabilitación, ni reposición de la infraestructura pública.
+Así, la ocurrencia de un desastre de magnitud catastrófica podría afectar severamente a
+las finanzas públicas por una combinación de necesidad de recursos adicionales para la
+atención de gastos extraordinarios y caídas imprevistas de ingresos por disminución de
+la actividad económica. La evidencia en la literatura es clara en este tema. Benson y Clay
+(2003) observan que los desastres naturales resultan en gastos públicos adicionales no
+planificados, y en algunos casos se recurre a la reasignación de recursos financieros ya
+comprometidos para cubrir los costos de reparación y rehabilitación y para proveer apoyo
+a las víctimas. Asimismo, Alejos (2017), usando datos panel de 168 países, encuentra
+que la ocurrencia de shocks climáticos extremos está asociada con un incremento en el
+déficit presupuestario de entre 0,4% y 0,9% del PIB. Bajo esta línea, la evidencia indica
+que la economía sufre una contracción debido a los costos directos por pérdidas de vidas,
+daños a la infraestructura, y una contracción de producción inmediata (Gerling, 2017).
+Por el lado de los ingresos públicos, estos disminuyen debido a la contracción económica
+que lleva a una reducción en las recaudaciones (Benson y Clay, 2003). Esta combinación
+de mayores gastos extraordinarios y menores recaudaciones conlleva a la necesidad de
+conseguir financiamiento externo para amortiguar el impacto en las cuentas fiscales del
+país, ocasionado al mismo tiempo un incremento en la deuda externa (Koetsier, 2017).
+En este contexto, la disponibilidad de una cobertura financiera ex ante para la etapa de
+emergencia en casos de desastres de gran magnitud reduce parcialmente el riesgo de
+peores escenarios de impacto del desastre sobre las cuentas públicas al disponer
+rápidamente de financiamiento eficiente para enfrentar los costos de atención de las
+emergencias. Esto ha sido verificado en estudios realizados por el Banco19 y otros
+organismos multilaterales, como el FMI20. Por lo tanto, resultaba fundamental que el
+Gobierno de Ecuador tomase medidas para mejorar su gestión financiera del riesgo de
+desastres naturales y fortalecer su resiliencia fiscal.
+El diseño del proyecto
+Dada la problemática descrita previamente, una solución efectiva era el uso de un
+mecanismo de protección financiera que le permitiese al país solventar los gastos
+18
+   Ecuador: Indicadores de Riesgo de Desastres y de Gestión de Riesgos. BID, 2010.
+19 Disaster Risk Management. Freeman et al., 2003.
+20 Natural Disasters: Mitigating Impact, Managing Risks. Laframboise y Loko, 2012.
+                                                   -7-
+"
+"públicos extraordinarios por emergencias ocasionadas por desastres naturales. El Banco
+optó por brindarle al país una cobertura financiera ex ante mediante un préstamo de
+inversión estructurado bajo la CCF. Dicho préstamo tiene el único objetivo de ayudar a
+amortiguar el impacto que un desastre natural severo o catastrófico podría llegar a tener
+sobre las finanzas públicas de Ecuador, a través de un aumento de la disponibilidad,
+estabilidad y eficiencia de financiamiento contingente para la atención de las emergencias
+ocasionadas por este tipo de eventos.
+El proyecto propuesto consistió en un único componente de US$300 millones para
+estructurar una cobertura financiera ex ante estable, eficiente y de rápido acceso para
+solventar los gastos públicos extraordinarios. Además, para acceder a la cobertura
+provista por el proyecto, se requería la ejecución satisfactoria por parte del país de un
+Programa de Gestión Integral del Riesgo de Desastres Naturales (PGIRDN) que, si bien
+no formaba parte del objetivo, buscaba fortalecer la gestión integral del riesgo de
+desastres del país mediante la promoción de mejoras en los siguientes cinco ejes
+estratégicos: (i) marco institucional y de políticas; (ii) identificación del riesgo;
+(iii) reducción de riesgos; (iv) manejo de desastres; y (v) gestión financiera de riesgos.
+El PGIRDN incluye una matriz de metas generales y actividades conducentes a que el
+país logre mejoras en los cinco ejes estratégicos mencionados. Dichas metas y
+actividades son monitoreadas mediante indicadores de progreso establecidos y
+acordados anualmente entre el Banco y el país. Por lo tanto, el proyecto no sólo atiende
+la necesidad del país de fortalecer su gestión financiera de riesgos de desastres, sino
+también promueve el desarrollo en otras áreas de la temática.
+Alineación
+El proyecto ha demostrado tener un alto grado de consistencia con las necesidades y
+prioridades de desarrollo del país. A nivel de objetivo, queda verificado que el objetivo del
+proyecto atendió las necesidades y prioridades del país. Ecuador es un país altamente
+expuesto y vulnerable a los desastres naturales. La ocurrencia de un evento de magnitud
+severa o catastrófica como el terremoto de Manabí de 2016 desbordó la capacidad
+financiera del gobierno para afrontar los gastos públicos extraordinarios ocasionados por
+la emergencia. La cobertura financiera ex ante que brindó el préstamo contingente del
+BID no sólo cumplió con su objetivo de amortiguar el impacto sobre las finanzas públicas
+del país, sino también permitió al gobierno desplegar una respuesta efectiva a la
+emergencia. A nivel de diseño, el proyecto no sólo consideró la necesidad del país de
+fortalecer su gestión financiera de riesgos, sino también remarcó la importancia de
+mejorar en otras áreas de la gestión integral del riesgo de desastres, promoviendo
+acciones específicas mediante la ejecución del PGIRDN.
+                b.   Alineación estratégica
+El objetivo de este proyecto fue consistente con la Estrategia de País del Banco con
+Ecuador para el periodo 2012-2017 (GN-2680-2), en particular con el objetivo estratégico
+de reducir la vulnerabilidad social y ambiental ante procesos naturales antrópicos y
+generadores de riesgos del sector de gestión de riesgos de desastres naturales. El
+Cuadro 1 muestra parte de la matriz de resultados de la Estrategia de País del Banco con
+Ecuador que contiene la información complementaria sobre el objetivo mencionado.
+Como se observa, el indicador de seguimiento para dicho objetivo es el Índice del Gestión
+de Riesgos (IGR), que mide de manera cualitativa, respecto a niveles preestablecidos o
+                                             -8-
+"
+"deseables, el desempeño obtenido por un país en las siguientes cuatro áreas
+(componentes) de esta temática: (i) identificación del riesgo; (ii) reducción del riesgo;
+(iii) manejo de desastres; y (iv) gobernabilidad y protección financiera. Cabe notar que
+existe una estrecha relación entre los ejes del PGIRDN y los componentes del IGR.
+   Cuadro 1: Matriz de Resultados de la Estrategia de País del Banco con Ecuador (2012-2017)
+    Objetivo estratégico            Resultado             Indicador de         Línea          Línea
+            del BID                  esperado             seguimiento        Base 2011     Final 2017
+  Reducir la vulnerabilidad
+  social y ambiental ante       Gestión del riesgo      Valor del Índice
+  procesos naturales            de desastres            del Gestión de       26,75/100      38,26/100
+  antrópicos y                  mejorada                Riesgos (IGR)
+  generadores de riesgos
+El proyecto, al contemplar un único componente de US$300 millones para estructurar una
+cobertura financiera ex ante para el país, contribuyó directamente con el cuarto
+componente del IGR. Asimismo, el proyecto también estuvo alineado con el objetivo
+estratégico del BID mediante el PGIRDN, puesto que su ejecución exitosa implica que el
+país logró un avance significativo en los indicadores de progreso de cada uno de los ejes
+estratégicos.
+                   c.   Relevancia del diseño
+En primer lugar, se analiza la relevancia del diseño del proyecto, resaltando la estrecha
+relación entre elementos esenciales del proyecto y las realidades del país y sus
+necesidades de desarrollo. En la segunda parte, se evalúa la lógica vertical del proyecto,
+tal como está reflejada en la matriz de resultados.
+Elementos del proyecto
+Los préstamos contingentes para emergencias por desastres naturales otorgados bajo la
+CCF son concebidos bajo un enfoque financiero de gestión del riesgo de desastres que
+distingue diferentes capas de riesgos21. El enfoque diferencia los eventos frecuentes y de
+bajo impacto de aquellos con baja frecuencia y de magnitud severa o catastrófica, y
+resalta la complementariedad de los diferentes instrumentos financieros de retención y
+trasferencia de riesgos que el país podría utilizar para lograr una estrategia financiera
+efectiva (véase el Gráfico 1). Esto permite incorporar las realidades de los países y sus
+necesidades de desarrollo. Por ejemplo, en el caso de Ecuador, el préstamo contingente
+solo cubre eventos severos o catastróficos porque es un instrumento efectivo para esta
+capa de riesgos. Al mismo tiempo, el Banco reconoce que el proyecto por sí solo no puede
+atender todas las necesidades del país y debe ser complementado con otros
+instrumentos, tales como provisiones presupuestarias, fondos de reservas y seguros o
+bonos.
+21   Este enfoque de GRD es reconocido por la comunidad académica y las instituciones de desarrollo. Ver
+     Linnerooth-Bayer y Hochrainer-Stigler (2014), y Cummins y Mahul (2008).
+                                                     -9-
+"
+"      Gráfico 1: Estrategia financiera y capas de riesgo de desastres e instrumentos
+Fuente: IDB (2009)
+Un segundo elemento para resaltar es el requerimiento de la existencia del PGIRDN para
+acceder y mantener la cobertura ex ante del préstamo. Si bien el objetivo del proyecto es
+fortalecer la gestión financiera de desastres del país mediante una cobertura financiera
+ex ante que amortigüe el impacto de los desastres sobre las finanzas públicas; el proyecto
+tiene en cuenta que las realidades y necesidades del país son más amplias en esta
+temática. Por ello, para acceder a la cobertura del préstamo y luego mantenerla, se exige
+la ejecución del PGIRDN de manera satisfactoria al Banco; lo cual tiene un alcance
+integral de la gestión del riesgo de desastres.
+Finalmente, un tercer elemento del proyecto son los aspectos operativos contemplados
+para brindar un acceso rápido de los recursos del préstamo, así como para salvaguardar
+el uso adecuado de los mismos.
+    •    Determinación de la elegibilidad del evento. Al producirse un evento que podría
+         considerarse elegible dentro de los parámetros establecidos en el Modelo de
+         Cobertura del Reglamento Operativo del proyecto, el prestatario debe enviar al
+         Banco una Solicitud de Verificación de Elegibilidad del evento22. El equipo de
+         proyecto analiza los disparadores específicos de tipo, magnitud y población
+         afectada y prepara el Informe de Verificación de Elegibilidad. En este informe se
+         concluye si el evento es elegible y se determina, además, el monto máximo de
+         cobertura correspondiente al evento en cuestión de la que podría disponer el país.
+    •    Condiciones especiales previas a cada desembolso. Para que la cobertura
+         correspondiente al evento elegible pueda desembolsarse, es necesario que, entre
+         otras condiciones, el PGIRDN esté siendo ejecutado de forma satisfactoria al
+         Banco. Conforme lo establecido en el documento GN-2502-3, el proceso de
+         verificación de cumplimiento de condiciones y otorgamiento de elegibilidad total
+22 Teniendo en cuenta que el plazo máximo para realizar un desembolso es de 90 días calendario a partir
+   de la ocurrencia del evento.
+                                               - 10 -
+"
+"        para el desembolso no debe exceder el plazo de diez (10) días hábiles en total
+        para permitir al Banco realizar el desembolso en un plazo máximo de cinco
+        (5) días hábiles, contados a partir de la fecha del otorgamiento de elegibilidad total
+        para el desembolso.
+    •   Ejecución. Los recursos del préstamo deben ser destinados a financiar gastos
+        públicos de carácter extraordinario para la adquisición de bienes o la contratación
+        de obras o servicios que ocurran durante la emergencia. Los gastos elegibles
+        deben ser incurridos y pagados en un período de 180 días calendario a partir de
+        que se haya suscitado un evento elegible.
+    •   Justificación de gastos. En un plazo de 365 días calendario contados a partir de
+        la fecha de ocurrencia de un evento elegible, el prestatario debe presentar un
+        informe escrito consolidado del uso adecuado de los recursos.
+    •   Auditoría. El Banco puede verificar la idoneidad de los gastos declarados como
+        elegibles mediante auditorías externas independientes que podrán realizarse
+        dentro de un plazo de dos años contados a partir de la fecha en que se realice
+        cada desembolso.
+Lógica vertical
+La consistencia del diseño de la operación con la estrategia institucional del Banco y las
+necesidades y prioridades de desarrollo es reflejada en la matriz de resultados del
+proyecto y sintetizada en el Gráfico 2.
+                           Gráfico 2: Lógica vertical del proyecto
+Como se puede observar, el proyecto contempla un único producto que es una cobertura
+financiera ex ante por US$300 millones. A diferencia de un préstamo de inversión
+tradicional, los préstamos otorgados bajo la CCF no incluyen la adquisición de bienes o
+servicios como productos en su matriz de resultados. Esto se debe a que la naturaleza
+                                             - 11 -
+"
+"contingente de estos proyectos imposibilita conocer, ex ante, los bienes o servicios que
+se financiarán luego de la ocurrencia de un evento elegible.
+La lógica vertical del proyecto indica que una vez ocurrido un evento (potencialmente)
+elegible, el Banco realiza dos verificaciones importantes: (i) el prestatario solicita al Banco
+la verificación de la elegibilidad del desastre y el Banco determina la elegibilidad, según
+tipo de evento, magnitud y población afectada, y calcula el monto máximo de desembolso;
+y (ii) el prestatario debe estar avanzando con la ejecución del PGIRDN de manera
+satisfactoria al Banco23. Luego de estas dos verificaciones el siguiente eslabón de la
+cadena causal es el primer resultado (esperado) del proyecto: la disponibilidad de una
+cobertura financiera efectiva para la atención de gastos públicos extraordinarios
+durante emergencias por desastres naturales.
+Cabe notar que si bien el monto máximo disponible para el país es de US$300 millones
+provenientes de los recursos del préstamo EC-X1014, el monto desembolsado depende
+de varios factores. Primero, el Modelo de Cobertura especifica fórmulas y criterios claros
+y transparentes, en función de la magnitud del evento y la población afectada, para el
+cálculo del monto de cobertura máxima elegible (Anexo II del Reglamento Operativo).
+Segundo, el monto desembolsado depende de la cantidad solicitada por el prestatario.
+Además, el monto del desembolso puede provenir de dos fuentes: (i) de recursos del
+programa regular de préstamos del Banco; y/o (ii) de los saldos sin desembolsar de
+préstamos vigentes con el Banco que estén incluidos en la LRA y disponibles a la fecha
+de la solicitud.
+Siguiendo la lógica vertical del proyecto, el segundo resultado (esperado) es la eficiencia
+de la cobertura financiera en términos de costo financiero y rapidez en el acceso a
+los recursos. En caso de que haya ocurrido un evento elegible y que el país haya
+solicitado un desembolso, el Banco verifica si los recursos brindados al país para cubrir
+gastos públicos extraordinarios son eficientes. La eficiencia es medida mediante dos
+criterios: (i) la rapidez en el acceso a los recursos, medida como el número de días
+calendario trascurridos desde la fecha de solicitud de verificación enviada por el país al
+Banco hasta la fecha de disponibilidad de los recursos del préstamo; y (ii) el costo
+financiero por unidad de gasto extraordinario de emergencia financiado con los recursos
+del préstamo, en comparación al costo financiero de la deuda pública comercial externa de
+largo plazo del Ecuador al momento de realizar el desembolso.
+Finalmente, la cadena causal capturada en la matriz de resultados del proyecto culmina
+con el indicador de impacto de “cobertura financiera ex ante en relación con el gasto
+máximo probable durante emergencias por desastres naturales de magnitud
+catastrófica”24. En caso de ocurrir un evento elegible, el indicador de impacto pasaría a
+medir la cobertura financiera efectiva, es decir, el ratio entre el monto de cobertura
+efectiva y los gastos públicos realizados durante emergencias.
+A partir de la lógica vertical del proyecto, se desprende que existe un alto grado de
+consistencia entre el diseño de la operación y la estrategia institucional del Banco y las
+23  Esto queda documentado periódicamente mediante las ayudas memoria de las misiones anuales de
+    verificación de cumplimiento de los indicadores establecidos al efecto entre el país y el Banco. Para un
+    resumen más completo sobre la secuencia de eventos, verificaciones, y procesos para desembolsos bajo
+    la CCF, favor ver el Gráfico A1 en el anexo 1.
+24  El gasto por emergencia máximo probable toma como base la ocurrencia de un evento con recurrencia
+    de 1 en 100 años que afectaría al 8 o más de la población del país.
+                                                    - 12 -
+"
+"necesidades y prioridades de desarrollo del país. La cobertura financiera ex ante provista
+por el proyecto atiende las realidades y necesidades de desarrollo de Ecuador. Ésta
+ayuda a amortiguar el impacto de desastres naturales sobre las finanzas públicas, y los
+recursos brindados son costo-eficientes y de rápido acceso. Incluso ante la ausencia de
+eventos severos o catastróficos, la cobertura es beneficiosa para el país puesto que no
+incurre en costos de servicio financiero, lo cual permite al país destinar más recursos del
+presupuesto público para cubrir eventos no elegibles de mayor frecuencia y de menor
+impacto.
+Calidad de los indicadores
+La matriz de resultados del presente proyecto difiere de las de préstamos de inversión
+regulares. Debido a la naturaleza contingente de los préstamos otorgados bajo la CCF,
+los indicadores de resultado e impacto contemplan dos escenarios: (i) no ocurrencia de
+eventos elegibles; y (ii) ocurrencia de eventos elegibles y desembolso de recursos. Este
+aspecto particular, si bien fue tomado en cuenta durante el diseño del proyecto, dificulta
+la interpretación de los indicadores. En ese sentido, resulta importante reexaminar los
+indicadores existentes y analizar la posibilidad de adicionar nuevos, a fin de evaluar de
+mejor forma el alcance y performance de estos préstamos contingentes. Cabe resaltar
+que IFD/CMF ha venido trabajando cercanamente con SPD/SDV para mejorar los
+indicadores de resultado e impacto.
+                                            - 13 -
+"
+"   Tabla 1. Matriz de resultados (aprobación @, 60 días después de alcanzar la elegibilidad y @ exit)
+                                                                                                             Al terminar el
+                                         En aprobación             En elegibilidad + 60 días
+                                                                                                           proyecto (PCR)
+         Indicadores              Unidad     Línea                 Unidad       Línea                   Unidad      Línea                      Comentarios
+                                     de       de     Meta (P)         de         de      Meta (P)          de         de     (A)
+                                  Medida     Base                  Medida       Base                    Medida      Base
+Objetivo específico de Desarrollo: Amortiguar el impacto de un desastre natural severo o catastrófico en las finanzas públicas del Ecuador.
+Impactos
+I.1: Cobertura financiera ex                                                                                                        La cobertura financiera ex ante
+ante en relación al gasto                                                                                                           efectiva fue de 44%. El monto de
+máximo probable durante                                                                                                             la cobertura desembolsa al país
+emergencias por desastres                                                                                                           fue de US$160 millones. Los
+naturales de magnitud                 %       5%        16%            %         5%        16%              %        5%      44% gastos públicos por emergencias
+catastrófica                                                                                                                        fueron de US$362.8 millones
+                                                                                                                                    (Secretaría Técnica del Comité de
+                                                                                                                                    Reconstrucción y Reactivación
+                                                                                                                                    Productiva)
+Resultados
+R.1: Monto de cobertura
+                                  Millones                         Millones                             Millones                    Ecuador tuvo a su disposición los
+financiera contingente                        100       300                      100        300                      100     300
+                                  de US$                           de US$                               de US$                      US$300 millones.
+disponible para el país.
+R.2: Diferencial del spread
+                                                                                                                                    El diferencial siempre estuvo por
+sobre LIBOR del préstamo                              Igual o                             Igual o
+                                  Puntos                           Puntos                               Puntos                      encima de la meta de 200 puntos
+BID y del spread de la deuda                  683    superior a                  683    superior a                   683     840
+                                  básicos                          básicos                              básicos                     básicos establecida en la matriz
+externa comercial soberana de                           200                                 200
+                                                                                                                                    de resultados.
+Ecuador a largo plazo.
+R.3: Costo del financiamiento
+en el caso de ocurrir un evento                                                                                                     Se comparó los costos financieros
+elegible: diferencial del spread                                                                                                    del préstamo BID y la deuda
+                                 Diferencial         Reducción Diferencial              Reducción Diferencial
+sobre LIBOR del préstamo                      N/A                                N/A                                1002     824 soberana de Ecuador en los
+                                 de costos           del costo    de costos              del costo     de costos
+BID y del spread de la deuda                                                                                                        meses inmediatamente anteriores
+externa comercial soberana de                                                                                                       y posteriores al terremoto.
+Ecuador a largo plazo.
+                                                                                                                                    El país envió la solicitud de
+                                                                                                                                    verificación el 18 de abril y el
+R.4: Rapidez en el acceso a
+                                                                                                                                    desembolso se hizo efectivo el 22
+los recursos en el caso de          Días       90        20         Días          90         20           Días        90       5
+                                                                                                                                    de abril. Por lo tanto, el país tuvo
+ocurrir un evento elegible.
+                                                                                                                                    acceso a los recursos en 5 días
+                                                                                                                                    calendarios.
+                                                                             - 14 -
+"
+"        2.2      Eficacia
+En la presente sección se analizará en qué medida el proyecto alcanzó los objetivos y
+resultados especificados en la matriz de resultados. A su vez, se evaluará la validez de
+los vínculos anticipados en la lógica vertical del proyecto.
+                 a. Declaración de objetivos
+El objetivo de la presente operación fue ayudar a amortiguar el impacto que un desastre
+natural severo o catastrófico podría generar en las finanzas públicas del país, a través del
+incremento de la disponibilidad, estabilidad y eficiencia de financiamiento contingente
+para la atención de las emergencias ocasionadas por el desastre en cuestión.
+                 b.  Resultados logrados
+En esta subsección se desarrollarán los resultados logrados en dos partes. En la primera
+parte se analizarán los logros alcanzados en función al objetivo específico del proyecto,
+así como los respectivos indicadores de impacto y resultados de la matriz de resultados.
+En la segunda parte se presentarán los resultados no directamente vinculados a la matriz
+de resultados.
+Resultados alcanzados en función de la matriz de resultados del proyecto
+El Plan de Monitoreo y Evaluación del proyecto indica que la evaluación del proyecto debe
+estructurarse de la siguiente manera: la evaluación cuando no ocurra ningún evento
+elegible, y la evaluación del desempeño ante la ocurrencia de un desastre natural elegible
+que dé lugar a un desembolso de los recursos del préstamo. Por lo tanto, los resultados
+alcanzados deben ser analizados en el contexto de que ocurrió un evento elegible y se
+desembolsó recursos al país.
+La matriz de resultados logrados después del terremoto de 2016 (Tabla 2) sintetiza los
+principales objetivos y logros del presente proyecto. A nivel de producto, el proyecto
+brindó al Ecuador una cobertura financiera por hasta US$300 millones cuando ocurrió el
+evento, de modo que cumplió con el 100% de los productos propuestos. Sin embargo,
+cabe notar que el monto desembolsado para cubrir gastos públicos extraordinarios fue de
+US$160 millones, que fue el monto total solicitado por el Gobierno Ecuatoriano.
+A nivel de resultados, se observa que el proyecto cumplió con las metas propuestas. Del
+indicador de disponibilidad y estabilidad, Ecuador tuvo a su disposición la totalidad de la
+cobertura financiera (US$300 millones) una vez verificada la elegibilidad del evento. Sin
+embargo, el país optó por solicitar recursos por sólo US$160 millones. Con respecto a los
+indicadores de eficiencia, se observa que el proyecto cumplió también con las metas
+propuestas. En primer lugar, el proyecto brindó al país un rápido acceso a los recursos
+para cubrir sus gastos públicos extraordinarios por emergencias. Una vez transcurrido el
+evento, el Banco, a solicitud de Ecuador, verificó la elegibilidad del evento y desembolsó
+los fondos de una manera eficaz y eficiente, permitiendo que el gobierno desplegara una
+respuesta efectiva al terremoto, tanto en asistencia humanitaria como en la rehabilitación
+de servicios básicos. Entre la solicitud para la verificación de elegibilidad y el desembolso
+de los recursos solicitados, solo transcurrieron 5 días calendarios, que es mucho menor
+que la meta propuesta de 20 días. La importancia de este logro sin precedentes en la
+capacidad de respuesta del Banco ante desastres naturales se puede apreciar
+                                             - 15 -
+"
+"claramente en el Monthly Operational Review (MOR) de agosto de 2016 preparado por
+SPD, donde, en un análisis de la respuesta del Banco a desastres naturales desde el
+inicio de sus operaciones hasta 2015, se concluye que “Despite the increase in “reactive”
+operations, the Bank did not improve its response time for operations approved through
+2015. Although there is significant year-to-year variation, on average the elapsed time
+from the event to the first disbursement was 111 days for CTEs, 322 days for IRF projects,
+and 212 days for the “Other” instruments.
+Asimismo, el proyecto cumplió también con la meta de proporcionar al país una cobertura
+financiera que sea costo-eficiente. Este resultado se refleja en el ahorro financiero que
+significó para el país financiarse con los recursos del préstamo contingente, en lugar de
+otras fuentes alternativas como la emisión de deuda comercial soberana en el mercado
+internacional. El diferencial del costo financiero (tasa de interés) de ambos instrumentos
+fue de 840 puntos básicos cuando se realizó el desembolso, ubicándose por encima de
+la meta propuesta (igual o superior a 200) y la línea base (683).
+Si bien el proyecto cumplió con las metas propuestas a nivel de resultados, es importante
+explicar sobre la adicionalidad que planteó el proyecto sobre el costo de financiamiento
+del país por haber accedido a los recursos del préstamo contingente. Dicha adicionalidad
+era capturada por el indicador de costo del financiamiento en el caso de ocurrir un evento
+elegible. Sobre la base de fundamentos teóricos y empíricos, la idea era capturar un
+aumento en el diferencial de costo entre el préstamo BID y la deuda soberana de Ecuador
+luego del terremoto, puesto que las finanzas públicas tenderían a deteriorarse por una
+combinación de necesidad de recursos adicionales para la atención de gastos públicos
+extraordinarios y caídas imprevistas de ingresos por disminución de la actividad
+económica. Bajo esa hipótesis, el costo de financiamiento externo del país, aproximado
+por el rendimiento de los bonos soberanos a largo plazo, aumentaba en respuesta al
+deterioro fiscal; mientras que el costo del préstamo contingente se mantenía estable.
+El diferencial de costo en el mes inmediatamente anterior al terremoto (marzo de 2016)
+fue de 1002 puntos básicos, indicando que el costo del préstamo BID era sustancialmente
+menor que el costo de financiarse en el mercado internacional. Un mes posterior al evento
+(mayo 2016), el diferencial de costo descendió a 824 puntos básicos, mostrando que, si
+bien el préstamo BID seguía siendo la opción más eficiente, el efecto no fue como la
+teoría predecía: las condiciones de financiamiento externo de Ecuador habían mejorado
+luego del evento. Hay posiblemente dos factores que explican dicho efecto no esperado.
+Primero, debido a que Ecuador es un país exportador neto de petróleo, se evidencia una
+relación estrecha entre el costo de financiamiento externo de Ecuador y el precio del
+petróleo. El Gráfico 3 muestra precisamente que el rendimiento de los bonos soberanos
+a largo plazo (10 años) del país y el precio del petróleo se mueven en tándem. Así, el
+cambio del diferencial de costo probablemente fue influenciado por la volatilidad del precio
+del petróleo en los meses anteriores (caída) y posteriores (recuperación) al terremoto. De
+hecho, si se sustrajera el efecto del precio del petróleo del rendimiento, el diferencial de
+costo habría permanecido relativamente estable. Segundo, se podría interpretar que la
+existencia de una cobertura financiera ex ante por sí misma invalida las expectativas de
+que las finanzas públicas vayan a debilitarse por la ocurrencia de un desastre severo. De
+ser el caso, no se podría esperar que el costo de financiamiento externo del país aumente
+luego del terremoto.
+                                             - 16 -
+"
+"                      Gráfico 3: Relación entre rendimiento de los bonos soberanos de Ecuador
+                                                y el precio del petróleo
+       120                                                  0                                             15
+                               Precio del petróleo                                                                              Rendimiento de bonos
+       110                     (US$/barril)                                                               14                    observado
+                                                            2
+       100                     Rendimiento de bonos de                                                    13
+             90                Ecuador (10 años)            4                                             12
+                                                                 Tasa de interés        Tasa de interés
+             80                                             6                                             11
+US$/barril
+             70                                                                                           10
+                                                            8
+             60                                                                                            9
+             50                                             10                                             8
+             40                                             12                                             7
+             30                                                                                            6
+                                                            14
+             20                     Correlación: -0.66                                                     5   Rendimiento de bonos (neto
+                                                                                                               del precio del petróleo)
+             10                                             16                                             4
+               2014     2015   2016       2017       2018                                                  Jun-14    Jun-15     Jun-16      Jun-17     Jun-18
+         Fuente: Elaboración propia con datos de Thomson Reuters
+         Es importante notar que este hallazgo implica que el préstamo BID siguió siendo la opción
+         más eficiente. En efecto, el proyecto superó sus metas iniciales: permitió al país disponer
+         de los recursos del préstamo en cinco (5) días calendario y brindó un ahorro financiero
+         mayor de lo esperado.
+         A nivel de impacto, la meta propuesta era brindar al país una cobertura financiera ex ante
+         de 16% con relación al gasto máximo probable durante emergencias. Dicha meta asumía
+         la no ocurrencia de un evento severo o catastrófico. Pero una vez ocurrido uno, como el
+         terremoto de 2016, lo relevante era la cobertura financiera efectiva, es decir, el ratio entre
+         el monto de cobertura efectiva y los gastos públicos realizados durante emergencias. En
+         el caso de Ecuador, la cobertura financiera efectiva alcanzó un 44%, lo cual representa
+         un 354% de la meta inicial.
+         Finalmente, en vista del cumplimiento satisfactorio de los productos, y la superación de
+         las metas a nivel de resultado e impacto, se concluye que la operación contribuyó de
+         manera significativa al objetivo de la operación de “ayudar a amortiguar el impacto que
+         un desastre natural severo o catastrófico podría llegar a tener sobre las finanzas públicas
+         del país”.
+                                                                                   - 17 -
+"
+"Tabla 2: Matriz de Resultados logrados después del evento
+                                                         Unidad    Valor de      Año de      Metas y
+                                                                                                                %
+ Indicador                                                  de     Línea de     línea de     alcance                          Medios de verificación
+                                                                                                           Alcanzado
+                                                         Medida       base         base        real
+ Impacto: Amortiguar el impacto de un desastre natural severo o catastrófico en las finanzas públicas del Ecuador.
+                                                                                          P       16%                     Ministerio de Economía y Finanzas
+ Cobertura financiera efectiva en relación al gasto                                                                       de Ecuador (MINFIN) y Secretaría
+ máximo probable durante emergencias por                     %         5%          2014   P(a)    16%         354%        Técnica del Comité de
+ desastres naturales de magnitud catastrófica.                                            A       44%                     Reconstrucción y Reactivación
+                                                                                                                          Productiva
+ Resultado #1: Disponibilidad y estabilidad: aumento de la cobertura financiera contingente del país para la atención de gastos públicos
+ extraordinarios durante emergencias por desastres naturales severos y/o catastróficos.
+                                                                                          P      300
+ Monto de cobertura financiera contingente               Millones
+                                                                       100         2014   P(a) 300            100%        MINFIN
+ disponible para el país                                 de US$
+                                                                                          A      300
+ Resultado #2: Eficiencia: Que la cobertura disponible sea eficiente, en relación al coste financiero y a la rapidez en el acceso a los recursos.
+ Diferencial del spread sobre LIBOR del préstamo                                          P      >=200
+                                                          Puntos                                                          Thomson Reuters y Departamento
+ BID y del spread de la deuda externa comercial                        683         2014   P(a) >=200          100%
+                                                         básicos                                                          de Finanzas del Banco (FIN)
+ soberana de Ecuador a largo plazo.                                                       A      840
+ Costo del financiamiento en el caso de ocurrir un                                        P      1002
+ evento elegible: diferencial del spread sobre LIBOR      Puntos   Diferencial                                            Thomson Reuters y Departamento
+                                                                                   2014   P(a) 1002            0%
+ del préstamo BID y del spread de la deuda externa       básicos   de costos                                              de Finanzas del Banco (FIN)
+ comercial soberana de Ecuador a largo plazo.                                             A      824
+                                                                                          P      20
+ Rapidez en el acceso a los recursos en el caso de
+                                                           Días        90          2014   P(a) 20             121%        MINFIN y BID
+ ocurrir un evento elegible
+                                                                                          A      5
+ Producto: Financiamiento contingente del Banco para atención de gastos públicos extraordinarios durante emergencias causadas por desastres
+ naturales severos o catastróficos (Componente único)
+                                                                                          P      300
+                                                         Millones
+ Cobertura financiera disponible (EC-X1014)                            100         2014   P(a) 300            100%        BID
+                                                         de US$
+                                                                                          A      300
+                                                                                          P      160
+                                                         Millones
+ Cobertura financiera desembolsada (EC-L1216)                          160         2016   P(a) 160            100%        BID
+                                                         de US$
+                                                                                          A      160
+Donde: P = Planificado; P (a) = Objetivo anual revisado; A = real.
+                                                                            - 18 -
+"
+"Logros alcanzados no relacionados a la matriz de resultados
+La implementación de la CCF en Ecuador generó un impacto positivo en tres aspectos
+fundamentales:
+En primer lugar, se logró mejorar e influenciar la estrategia de planificación financiera del
+Gobierno de Ecuador frente a eventos de magnitud catastrófica. De tener una estrategia
+históricamente reactiva en materia financiera, caracterizada por buscar financiamiento y
+asistencia internacional con posterioridad a la ocurrencia de un desastre, se logró migrar
+hacia una estrategia preventiva, basada en la planificación y financiamiento anticipado a
+ciertos eventos. Dicho cambio es de vital importancia debido a los alcances que se puede
+tener en el mejoramiento del margen de maniobra, reducción en los tiempos de respuesta
+durante todo el proceso, mayor control en la etapa de reestructuración, entre otros
+aspectos.
+En segundo lugar, se demostró la eficiencia de la implementación del diseño paramétrico
+del préstamo contingente, al capturar correctamente la relación entre la intensidad del
+terremoto y las pérdidas que éste generó. De esta manera se hizo posible la estimación
+de las pérdidas y el monto máximo de desembolso de forma rápida y objetiva, eliminando
+la discrecionalidad. Como resultado, el desembolso de los recursos se realizó al quinto
+día de ocurrido el terremoto.
+En tercer lugar, se estableció una estrategia de acompañamiento multisectorial y
+fiduciaria al Gobierno de Ecuador para asegurar la ejecución eficiente de los recursos
+desembolsados. Los principales resultados obtenidos con las instituciones involucradas
+se detallan a continuación:
+    1) Ministerio Coordinador de Seguridad y Ministerio de Inclusión Económica y
+         Social, en atención humanitaria de emergencia. Se establecieron y equiparon
+         28 albergues en los cuales se logró atender a 11.511 personas damnificadas.
+         Asimismo, más de 30.000 beneficiarios recibieron bonos de acogida y alquiler. El
+         monto total elegible25 ascendió a US$17.715.922,09.
+    2) Ministerio de Educación. 412.637 estudiantes fueron beneficiados con la
+         instalación de 25 unidades educativas provisionales y con la rehabilitación de más
+         de 700 unidades educativas damnificadas. Ello permitió dar inicio al año escolar
+         con un retraso de tan sólo 60 días en las zonas más afectadas. El monto total
+         elegible ascendió a US$44.108.217,56.
+    3) Ministerio de Salud. Se adquirieron 2 unidades médicas móviles y se
+         rehabilitaron 20 centros de atención hospitalaria. En adición a ello, se adquirió
+         equipamiento médico, sets de aseo y ayudas técnicas que permitieron atender a
+         más de 650,000 pacientes. El monto total elegible ascendió a US$7.042.770,73.
+    4) Ministerio de Transporte. Se financió el restablecimiento de la conectividad vial
+         y la remoción de escombros; 60 kilómetros de vías y 9 puentes fueron
+         rehabilitados. Con la finalidad de permitir las tareas de rescate, rehabilitación y
+         reconstrucción 10.160 edificios fueron derrumbados con más de 7 millones de
+25 Monto que cumplió lo establecido en el Contrato de Préstamo y fue considerado dentro del financiamiento.
+                                                    - 19 -
+"
+"        metros cúbicos de material removido y desalojado. El monto total elegible
+        ascendió a US$62.438.929,27.
+    5) Ministerio de Electricidad y Energía Renovable. Se logró el restablecimiento
+        del 90% del servicio eléctrico sólo 6 días después de ocurrido el terremoto.
+        Asimismo, se repararon 134 kilómetros de líneas de subtransmisión y
+        16 subestaciones. El monto total elegible ascendió a US$6.182.265,19.
+    6) Secretaría Nacional del Agua y la Empresa Pública Ecuador Estratégico. En
+        Agua Potable y Saneamiento se logró la rehabilitación de 6 sistemas de agua
+        potable con más de 370.000 beneficiarios y 6 sistemas de saneamiento con más
+        de 100.000 beneficiarios. Se adquirieron además 12 plantas de tratamiento de
+        aguas residuales, 5 plantas potabilizadoras, 11 tanqueros, 4 hidro succionadores
+        además de biodigestores y kits de insumos químicos de potabilización. El monto
+        total elegible ascendió a US$12.256.141,51.
+    7) Ministerio del Interior, Ministerio de Defensa y el Sistema ECU-911. Se apoyó
+        a la Fuerza Pública en labores de socorro y seguridad, entre las cuales se
+        destacan la adquisición de equipamiento y prendas de protección para 8.000
+        servidores militares y policiales que atendieron la emergencia. Se financió además
+        el mantenimiento de vehículos y alimentación para el personal policial y militar que
+        se desplegó a la zona además de la rehabilitación de 5 Centros del Servicio
+        Integrado de Seguridad. El monto total elegible ascendió a US$10.255.753,64.
+                 c.  Análisis contrafactual
+En general, las evaluaciones de impacto son factibles para proyectos u operaciones que
+tienen los siguientes elementos: (i) criterios claros de focalización y de elegibilidad a nivel
+de comunidades, hogares, empresas, o individuos, y un horizonte temporal claro del
+proyecto y sus actividades; (ii) un presupuesto claro; y (iii) una definición clara del grupo
+de tratamiento y control, así como de los resultados e impactos esperados. Para dichos
+proyectos es factible diseñar una evaluación de impacto prospectiva o retrospectiva,
+usando métodos experimentales o cuasiexperimentales, ya que se podría definir, ex ante
+o ex post, un grupo de beneficiarios y un grupo de unidades elegibles que no reciben el
+tratamiento, pero que pueden servir de grupo de comparación (controles).
+Debido a la condición contingente de los préstamos otorgados bajo la CCF, es imposible
+diseñar una evaluación de impacto prospectiva. La unidad de tratamiento (beneficiarios)
+no puede ser definida ex ante, ni tampoco el momento en que se realizará la intervención
+durante el periodo de cobertura. Asimismo, el Plan de Monitoreo y Evaluación de este
+proyecto, que fue aprobado por el Directorio del Banco, indica claramente que no es
+posible comparar situaciones entre países ni fenómenos, puesto que cada desastre
+natural se manifiesta de forma única e irrepetible. La comparación debe centrarse en las
+diferentes formas de enfrentar financieramente la emergencia por un desastre natural, y
+las ventajas que se obtienen al contar con una cobertura financiera ex ante. Por lo tanto,
+el contrafactual en este caso sería que el país hubiese optado por otra alternativa de
+financiamiento de sus gastos. Como se demostró en la subsección anterior, la cobertura
+financiera provista por el Banco fue claramente eficiente en términos del costo y la rapidez
+en el acceso a los recursos.
+                                             - 20 -
+"
+"               d.   Resultados imprevistos
+Considerando que esta es la primera operación bajo la CCF que se desembolsa en el
+Banco, resulta pertinente resaltar las lecciones aprendidas en la ejecución de la presente
+operación. Se presentarán cinco resultados no previstos que pueden beneficiar a futuras
+operaciones bajo la CCF, ante la ocurrencia de un evento catastrófico.
+Resultados no previstos
+1. La eficaz respuesta del Banco permitió que la institución se posicione
+   estratégicamente en el proceso de coordinación con el gobierno de Ecuador. Al ser la
+   primera y principal institución en desembolsar los recursos necesarios para la etapa
+   de emergencia, inmediatamente después de ocurrido el terremoto, el BID lideró el
+   diálogo entre las partes y facilitó la coordinación intersectorial entre las agencias
+   públicas (OVE, 2018). Como parte de la coordinación interinstitucional, cabe notar
+   también el involucramiento en la ejecución de los proyectos a los gobiernos
+   seccionales, que representan la instancia más descentralizada de la estructura
+   estatal, y sus empresas públicas que incentivó a estas entidades a realizar acciones
+   complementarias vinculadas a los proyectos financiados. Además, se generó una red
+   de cooperación entre las instituciones que podría servir para la implementación de
+   futuros programas.
+   Asimismo, el Banco brindó asesoría técnica oportuna a los principales agentes
+   encargados de tomar decisiones cruciales en el terreno. A manera de ejemplo, se
+   puede destacar el trabajo que el BID y el Ministerio de Economía y Finanzas del
+   Gobierno de Ecuador realizaron conjuntamente para establecer los lineamientos y
+   organización iniciales del Comité de Reconstrucción y Reactivación Productiva, el
+   cual tenía como objetivo ayudar a las zonas afectadas por el terremoto. El
+   acompañamiento cercano del Banco tuvo especial reconocimiento por parte del
+   Gobierno de Ecuador.
+2. Se formalizó una asistencia integral frente a la problemática del terremoto. Es así que
+   la sinergia generada entre el Banco, el Ministerio de Economía y Finanzas de
+   Ecuador, los múltiples organismos ejecutores y la Secretaría Técnica de
+   Reconstrucción, permitió que, bajo un enfoque planificado y estructurado, el Banco
+   ponga a disposición del gobierno de Ecuador cuatro instrumentos complementarios
+   para las etapas de Rehabilitación y Reconstrucción:
+       (i)     La Facilidad de Respuesta Inmediata (3751/OC-EC) por la suma de
+               US$19,7 millones.
+       (ii)    El Programa de Reconstrucción de Infraestructura Eléctrica de las Zonas
+               Afectadas por el Sismo por US$60 millones.
+       (iii)   Cooperación Técnica (ATN/OC-15539-EC), destinada a atender la
+               emergencia, por la suma de US$0,2 millones.
+       (iv)    Cooperación Técnica (ATN/JF-15752-EC) para asegurar la resiliencia de
+               la infraestructura pública y sistemas de servicio luego de ocurrido el
+               terremoto por la suma de US$1,5 millones.
+3. Se crearon capacidades adicionales en los equipos de gestión de proyectos del
+   gobierno de Ecuador para el manejo de operaciones de emergencia, bajo los
+                                            - 21 -
+"
+"    estándares solicitados por el Banco. Paralelamente al proceso interno de aprobación
+    y gestión del desembolso, desde el día 20 de abril de 2016 el Equipo de Proyectos y
+    el Equipo de Representación organizaron múltiples talleres de coordinación con el
+    Ministerio de Economía y Finanzas, la Secretaria Técnica de Gestión de Riesgo y las
+    entidades identificadas para la ejecución de los recursos. Durante estos talleres se
+    capacitó a los funcionarios en los lineamientos de ejecución y guías para el uso y
+    reporte adecuado de estos recursos. Se logró además definir cómo se aplicaría la
+    legislación nacional y procesos internos de adquisición y registro de gastos, bajo la
+    normatividad de excepción para atender la emergencia.
+    Esto último fue de especial relevancia para el rápido diseño y ejecución eficiente de
+    la Facilidad de Respuesta Inmediata (EC-L1218) que se benefició tanto de la
+    priorización de obras, así como de las capacidades y coordinación generadas con las
+    instituciones del Gobierno de Ecuador durante la ejecución de esta operación.
+4. La exitosa ejecución de esta operación permitió al país evidenciar las ventajas de
+    contar con una cobertura financiera para el despegue de una respuesta efectiva a las
+    emergencias ocasionadas por desastres. Es posible que los beneficios brindados por
+    el instrumento del BID hayan motivado al país a firmar contratos con el Banco Mundial
+    y el Banco de Desarrollo de América Latina (CAF) para acceder a nuevas líneas de
+    créditos contingentes para desastres naturales26.
+5. Ante las necesidades apremiantes del país para direccionar recursos a la atención de
+    la emergencia, el prestatario optó por utilizar US$69,9 millones provenientes de
+    préstamos de inversión incluidos en la LRA, lo cual tuvo un impacto positivo en la
+    gestión del portafolio del Banco en el país pues permitió reorganizar la cartera de
+    préstamos.
+         2.3     Eficiencia
+Acorde con lo establecido en el Plan de Monitoreo y Evaluación, cuando haya ocurrido
+un evento elegible que dé lugar a un desembolso se utilizará una metodología de
+costo-efectividad para evaluar la eficiencia de la operación. Dicha metodología compara
+las distintas alternativas de cobertura que Ecuador pudo haber elegido para atender los
+gastos extraordinarios de emergencias para mostrar cómo, dentro de las alternativas de
+financiamiento para emergencias por desastres naturales, el préstamo contingente del
+BID representa una opción más eficiente. En este caso, la comparación es entre los
+parámetros de financiamiento de: (i) el préstamo contingente BID; y (ii) la alternativa más
+factible y similar al préstamo BID con que contaba el país para obtener recursos
+financieros luego del evento: la emisión de deuda comercial externa soberana a 10 años.
+Por lo tanto, la principal cuestión que se evaluará es si los recursos desembolsados al
+país fueron eficientes desde un punto de vista financiero. Es decir, que la cobertura
+financiera provista sea eficiente en términos de: (i) la rapidez en poner a disposición del
+país los recursos para atender los gastos extraordinarios de la emergencia ocasionada
+por el desastre; y (ii) el costo financiero de los recursos desembolsados.
+26 Ecuador: Purchase Under the Rapid Financing Instrument, IMF Country Report No. 16/288
+                                                - 22 -
+"
+"Rapidez en el acceso a los recursos
+Disponer de financiamiento rápido para enfrentar los costos de atención de las
+emergencias puede amortiguar el impacto de los desastres sobre las cuentas públicas.
+Esto ha sido verificado en estudios realizados por el Banco27 y otros organismos
+multilaterales, como el Fondo Monetario Internacional28; los cuales confirman que
+disponer de liquidez en caso de ocurrencia de eventos severos permite a los gobiernos
+brindar una respuesta más rápida y efectiva a las emergencias ocasionadas por
+desastres, ya sea para proporcionar ayuda humanitaria a los afectados como para
+restaurar los servicios básicos. Por ello, la disponibilidad de recursos reduce en última
+instancia el riesgo de peores escenarios de impacto de los desastres sobre la actividad
+económica del país y el bienestar de la población.
+Como se observa en el Tabla 2, la operación permitió al país acceder a los recursos del
+préstamo contingente en cinco (5) días calendario, contados a partir de la solicitud de
+verificación de elegibilidad, y siete (7) días a partir de la ocurrencia del evento en cuestión.
+Comparado con la emisión de deuda soberana externa a 10 años, que sería la alternativa
+comparable, el préstamo contingente BID sería la opción más eficiente bajo este criterio.
+Es cierto que el cronograma de una emisión de bonos soberanos varía dependiendo de
+la complejidad de los términos y condiciones, la jurisdicción legal elegida, si los bonos se
+cotizarán o no, entre otros factores. Una emisión de bonos en el mercado internacional
+de un país cuya economía es emergente, como el caso de Ecuador, puede tomar varios
+meses, pero asumiendo condiciones adecuadas, el tiempo podría reducirse a seis u ocho
+semanas29. Incluso asumiendo un escenario optimista, en el que el país lograse emitir los
+bonos y conseguir los recursos en 20 días (Cuadro 2), el préstamo BID habría sido la
+opción más eficiente.
+                  Cuadro 2: Cronograma de emisión de bonos (escenario optimista)
+    Fases                                                                                        Días
+    Evaluación de las necesidades financieras por parte del gobierno                               2
+    Procedimientos legales y administrativos para autorizar endeudamiento/emisión                  1
+    Fase de prelanzamiento*                                                                        7
+    Fase de lanzamiento*                                                                           5
+    Fase de cierre*                                                                                5
+    Total                                                                                         20
+    * Las actividades de estas fases se detallan en Accessing the International Debt Capital Markets
+Cabe resaltar que, al momento de la ocurrencia del desastre, las finanzas públicas del
+Ecuador estaban fuertemente afectadas por la abrupta caída de los precios del petróleo
+ocurrida entre 2014 y 2015. En 2016, las principales fuentes de financiamiento externo
+consistieron en colocaciones de bonos en los mercados internacionales, deuda bilateral
+(principalmente con la República Popular de China) y desembolsos de multilaterales. El
+financiamiento interno consistió principalmente en financiamiento neto del Banco Central
+del Ecuador (BCE) y acumulación de atrasos con proveedores. En ese contexto, el rápido
+27
+   Disaster Risk Management. Freeman et al., 2003.
+28 Natural Disasters: Mitigating Impact, Managing Risks. Laframboise y Loko, 2012.
+29 Ver Accessing the International Debt Capital Markets, Herbert Smith Freehills.
+                                                   - 23 -
+"
+"acceso a los recursos del préstamo contingente jugó un papel fundamental, ya que
+permitió al Gobierno Ecuatoriano proveer a la población afectada por el desastre la
+asistencia inmediata que de otra forma no le hubiese sido posible proporcionar por
+carecer de la liquidez necesaria para enfrentar los gastos por sí solo.
+Costo financiero
+Para comparar el costo de financiación del préstamo BID con el del costo de emisión de
+bonos soberanos en el mercado internacional, se tomaron los siguientes supuestos:
+(i) fijación de la tasa de interés para el préstamo del BID (estimada por el Departamento
+de Finanzas del BID)30; y (ii) los bonos emitidos con vencimiento de 10 años con un
+esquema de amortización tipo bullet, tomando como base para la tasa de interés la prima
+de riesgo del país en el mercado internacional de deuda soberana cuando ocurrió el
+evento. Además, debido a que ambas opciones de financiamiento tienen distintos
+vencimientos y cronogramas de amortización, se calculó el valor presente neto para poder
+compararlas adecuadamente. Para ello, se aplicó una tasa de descuento del 12% que
+corresponde a la tasa de descuento social que utiliza el Banco.
+i.        Valor presente neto
+En el análisis costo efectividad ex post, se comparó el valor presente neto del costo de
+financiamiento de las alternativas propuestas con que cuenta el país para financiar
+emergencias por desastres naturales, considerando los US$160 millones del préstamo
+contingente desembolsados para el sismo del 16 de abril de 2016. Los resultados
+obtenidos fueron: (i) el valor presente neto del costo total del financiamiento de
+US$160 millones del préstamo contingente, descontado al 12%, es US$67.5 millones;
+(ii) el valor presente neto del coste de emitir deuda soberana por esta misma cantidad y
+descontado a la misma tasa, sería US$144,2 millones31.
+ii.       Ahorro financiero
+En base a los cálculos presentados en el punto (i), el préstamo BID supone un 46,8% del
+costo de emitir deuda. En términos de costo eficacia, el préstamo BID es un 53,2% más
+barato que la alternativa de emisión de bonos soberanos.
+Con este análisis se muestra cómo, dentro de las alternativas de financiamiento ex ante
+para emergencias por desastres naturales, el préstamo contingente BID representa una
+opción más eficiente en términos de costo y disponibilidad de recursos. Cubrir los gastos
+extraordinarios de un desastre severo o catastrófico utilizando otras fuentes de
+financiamiento, como emisión de deuda externa una vez ocurrido el evento, sería más
+costoso para el país.
+Auditoría de aseguramiento razonable para verificación de gastos elegibles
+Complementariamente, y según lo establecido en el contrato de préstamo, durante la
+ejecución y rendición de cuentas del proyecto se verificó que los gastos realizados por
+30  Debido a que la tasa de interés del BID es variable, es necesario fijarla para que sea comparable con el
+    costo (tasa fija) de una emisión de bonos.
+31  El cálculo de los resultados se encuentra en el siguiente enlace electrónico. Cálculo del ahorro financiero
+    de la operación.
+                                                     - 24 -
+"
+"parte del Ministerio de Economía y Finanzas fueron calculados adecuadamente en
+términos de su dimensión y precio. Para ello, se contrató a una firma auditora elegible
+para el BID para llevar a cabo una auditoría externa de aseguramiento razonable para
+verificar la calidad de los gastos presentados por el Ministerio de Economía y Finanzas y
+asegurar que estos cumpliesen con las políticas, características, registros y respaldos
+suficientes para ser declarados elegibles. La auditoría indica que:
+     •  Los conceptos de gastos y los procesos de adquisiciones cumplieron con los
+        lineamientos establecidos en el Contrato de Préstamo EC-X1014.
+     •  Los precios fueron razonables y considerando las circunstancias excepcionales
+        de emergencia no excedieron el 10% de los precios comunes de mercado.
+     •  Los pagos por concepto de gastos ejecutados fueron efectivamente recibidos por
+        los proveedores y contratistas.
+     •  Los pagos fueron pertinentes y legítimos y se registraron debidamente en los
+        sistemas contables del gobierno de Ecuador.
+Para el dimensionamiento de los gastos se realizaron los siguientes procedimientos. En
+el caso del grupo de grandes gastos relacionados con obras de rehabilitación de agua
+potable y saneamiento, transporte, electricidad y educación, el equipo del Banco realizó
+una evaluación técnica previa que validó las necesidades presentadas y la razonabilidad
+de las soluciones propuestas. Para la elegibilidad de todos los costos asociados con estas
+obras, se verificó que las mismas hubieran sido finalizadas y pagadas dentro de los
+180 días calendario después de ocurrido el evento, conforme los plazos previstos en el
+contrato de préstamo.
+En el caso denominado “otros gastos” se revisaron informes de requisición aprobados por
+cada entidad y en el caso correspondiente a equipamiento, otras obras y consumibles, se
+verificó que dichas obras y equipamiento fueron necesarios en respuesta a los efectos
+del terremoto dentro de las zonas afectadas. Adicionalmente, en el caso de los
+consumibles se verificó que se dio un uso adecuado de los mismos para la atención de
+la emergencia y durante el período establecido en el contrato de préstamo. Con respecto
+a los gastos correspondientes a adquisiciones de bienes consumibles que no fueron
+utilizados en su totalidad, se realizó una proyección al universo total por tipo de gasto y
+se los declaró como no elegibles, eliminándolos así del estado de gastos presentado por
+el Ministerio de Economía y Finanzas.
+La conclusión calificada por la firma auditora señaló que los gastos presentados por el
+Ministerio de Economía y Finanzas y que fueron incurridos a través de varias entidades
+por el período comprendido entre el 16 de abril y el 13 de octubre de 2016, son razonables
+en todos los aspectos materiales, conforme a lo establecido en el contrato de préstamo.
+                                 Cuadro 3: Costo del Proyecto
+  Componente 1: Financiamiento contingente del Banco para atención de gastos públicos
+  extraordinarios durante emergencias causadas por desastres naturales severos o catastróficos
+  (Terremoto 2016)
+  Producto                                                        2016        Monto US$
+                                                                  P          160.000.000
+  Cobertura financiera desembolsada (EC-L1216)                    P(a)       160.000.000
+                                                                  A          160.000.000
+                                            - 25 -
+"
+"         2.4     Sostenibilidad
+                 a. Aspectos generales de sostenibilidad
+Durante la etapa de diseño del proyecto, se identificaron riesgos que podrían afectar la
+sostenibilidad del mismo, para los cuales se plantearon una serie de medidas de
+mitigación. Estos riesgos son presentados a continuación, al igual que otros riesgos de
+carácter operativo que podrían también tener un impacto en la sostenibilidad de los
+resultados de la operación.
+Verificación de gastos elegibles. La existencia de errores en la justificación de gastos
+implicaría que ciertos gastos financiados con recursos del préstamo no cumplan con los
+criterios de elegibilidad contractualmente estipulados, el Banco se vea impedido de
+aceptarlos y el país tenga que devolver los recursos desembolsados. Durante la ejecución
+de la operación EC-L1216 se mitigó este riesgo con las siguientes medidas: (i) de
+conformidad con lo establecido en el documento de creación de la CCF (GN-2502-2)
+respecto a la potestad del Banco para realizar auditorías de los gastos financiados con
+recursos del préstamo, la ejecución del proyecto contempló la realización de una auditoría
+externa concurrente de aseguramiento razonable sobre la base de una muestra
+representativa de gastos que permitió asegurar el cumplimiento de las disposiciones
+fiduciarias de adquisiciones y rendición de cuentas del BID y de las estipulaciones
+establecidas en el contrato de préstamo; y (ii) un involucramiento cercano por parte del
+Banco en el proceso de identificación y priorización de gastos a ser financiados con
+recursos del préstamo contingente, para lo cual el Ministerio de Economía y Finanzas
+facilitó el control y análisis de dichos gastos. Como se describe más adelante, el apoyo
+del Banco fue más allá de monitorear el cumplimiento de las disposiciones fiduciarias del
+BID y del contrato de préstamo, y facilitó apoyo técnico y operativo para que la ejecución
+del proyecto sea exitosa y que el proceso de recuperación post desastre sea ordenado y
+planificado. Estas medidas de mitigación han sido suficientes para evitar que se
+materialice este riesgo, con lo cual se espera que la experiencia exitosa con el mecanismo
+de seguimiento, coordinación y dinámica de trabajo conjunto pueda replicarse en caso de
+que ocurra en el país un nuevo evento elegible para desembolsos del préstamo
+contingente EC-X1014 (vigente hasta el 16 de diciembre de 2020).
+Verificación de elegibilidad de los eventos y el modelo de cobertura. El riesgo de
+sostenibilidad asociado a estos procesos tiene varias aristas, una de ellas se refiere a
+que exista un impacto financiero en el país como consecuencia de una emergencia por
+un desastre natural y que éste no sea reflejado adecuadamente en el modelo de
+cobertura, es decir el riesgo de base. Este riesgo está siendo mitigado en el diseño mismo
+de la cobertura que se realiza siguiendo las mejores prácticas e innovaciones en el
+mercado de seguros internacional, para lo cual el Banco ha estado trabajando con actores
+clave tanto en el sector privado como agencias públicas de investigación y reportes de
+información sísmica, meteorológica y volcánica. Otra arista de este riesgo está
+relacionada con la disponibilidad de la fuente de información requerida para aplicar la
+metodología del Banco para determinar la elegibilidad de un evento. A la fecha, se utiliza
+información y reportes producidos por USGS, NASA y NOAA, y no se ha observado
+ningún inconveniente en la disponibilidad de la información necesaria para correr el
+modelo de cobertura. No obstante, se ha venido trabajando con las agencias nacionales
+en Ecuador para explorar fuentes locales e información complementaria. Una tercera
+arista del riesgo tiene que ver con la identificación de nuevos peligros que no estén
+incluidos en la cobertura. En el caso de Ecuador, el préstamo original (EC-X1008) incluía
+                                             - 26 -
+"
+"cobertura para sismos únicamente. En la ampliación y reformulación del préstamo
+(EC-X1014), se agregó la cobertura por inundaciones y posteriormente, mediante
+modificación del Reglamento Operativo, se incluyó también la cobertura por lahares
+ocasionados por erupciones volcánicas del Cotopaxi. Esta evolución demuestra el trabajo
+constante y conjunto del Banco y el país para atender las necesidades de este último.
+Gestión del Riesgo de Desastres. En las últimas décadas, Ecuador ha realizado avances
+importantes en el marco de política de Gestión del Riesgo de Desastres (GRD). La
+Constitución de la República del Ecuador establece la obligación del Estado de proteger
+a la población frente a los efectos negativos de los desastres naturales mediante la
+prevención, mitigación, y la respuesta, adoptando así un enfoque integral. Con este fin,
+crea el Sistema Nacional Descentralizado de Gestión de Riesgos (SNDGR).
+Recientemente, se estableció el Comité del SNDGR como órgano rector y el Servicio
+Nacional de Gestión de Riesgos y Emergencias, como órgano ejecutivo del Sistema. El
+SNDGR contempla unidades de GRD de todas las entidades públicas y privadas en los
+ámbitos local, regional y nacional y las entidades científicas que estudian las amenazas
+y vulnerabilidades. Con apoyo del Banco, se inició durante 2017 la implementación del
+préstamo BID 3913/OC-EC Programa de Fortalecimiento del Sistema Nacional de Alerta
+Temprana (US$15,3 millones) que se focaliza en la atención de las amenazas de
+tsunamis y desbordamiento de represas.
+Estos logros y esfuerzos son importantes para mantener el desempeño del PGIRDN
+satisfactorio para el Banco, que es condición para mantener la cobertura financiera del
+Préstamo Contingente EC-X1014 y evitar una potencial suspensión de la elegibilidad para
+efectuar desembolsos del préstamo. Por otro lado, el Banco continuará realizando el
+monitoreo periódico de los avances en la ejecución del PGIRDN. En este sentido, se
+considera que este riesgo a la sostenibilidad del programa es bajo debido al compromiso
+del país en implementar acciones que promuevan el desarrollo de gestión integral del
+riesgo de desastres y el estrecho diálogo sectorial que mantiene el Banco con el país.
+Monto de cobertura financiera disponible. Debido al desembolso realizado por la
+emergencia del sismo del 16 de abril de 2016, el saldo disponible del Préstamo
+Contingente EC-X1014 es US$140 millones. Ante esta situación, el Ministerio de
+Economía y Finanzas ha solicitado al Banco la reposición a su límite original de US$300
+millones, solicitud que está siendo atendida por el Banco. Igualmente cabe notar que, con
+posterioridad a la ocurrencia del evento, el país ha contratado líneas contingentes con el
+Banco Mundial y la Corporación Andina de Fomento (CAF). Esto evidencia el cambio de
+paradigma en la gestión financiera del riesgo de desastres en el país, pasando de una
+planificación ex post a una gestión proactiva ex ante, el cual ha sido promovido por el
+Banco a través de la aprobación de este préstamo contingente.
+                 b. Salvaguardias ambientales y sociales
+De acuerdo con lo estipulado en la Directiva B.13 de la Política de Medio Ambiente y
+Cumplimiento de Salvaguardias (GN-2208-20, OP-703), esta operación no requirió de
+clasificación para su aprobación. Los recursos del préstamo se utilizaron para financiar
+gastos públicos extraordinarios incurridos durante la fase de atención de la emergencia
+ocasionada por el sismo del 16 de abril de 2016. Por otro lado, de acuerdo con lo previsto
+en la etapa de diseño y preparación del préstamo, se incluyó en el contrato de préstamo
+una lista negativa con el tipo de gastos que no podían ser financiados con recursos del
+                                           - 27 -
+"
+"financiamiento contingente, la misma que fue socializada a las distintas unidades
+ejecutoras del gasto a través de un Instructivo de utilización de recursos. Finalmente, el
+Ministerio de Economía y Finanzas, en calidad de organismo ejecutor, garantizó la
+adherencia a la legislación social y ambiental del país en la utilización de los recursos del
+financiamiento. Consiguientemente, no se identificaron impactos negativos ambientales
+o sociales en la ejecución del préstamo.
+III.    Criterios no centrales
+        3.1     Desempeño del Banco
+El desempeño del Banco se ha analizado considerando dos dimensiones, la calidad del
+diseño y la calidad de la ejecución, aunque muchos de los aspectos analizados responden
+a ambas dimensiones.
+La calidad en el diseño del préstamo permitió alcanzar los objetivos del programa, es
+decir, a través de la aprobación del financiamiento contingente se logró cambiar la
+estrategia financiera del Gobierno del Ecuador (GdE) de una postura reactiva, donde se
+buscaba financiamiento y asistencia internacional con posterioridad a la ocurrencia de un
+desastre, a una estrategia preventiva, basada en la planificación financiera ex ante. Este
+aspecto adquirió especial importancia considerando la situación fiscal del país al
+momento del evento, pues la crisis en el precio del petróleo había afectado
+significativamente a la economía ecuatoriana.
+En cuanto a la Gestión de Riesgos de Desastres, como se señaló anteriormente,
+independientemente de si sucede un evento elegible o no, ya que se requiere que el país
+prestatario cumpla con las metas anuales y de medio plazo del PGIRDN acordado con el
+Banco para acceder al financiamiento contingente, el país, en principio, viene mejorando
+su capacidad de gestionar el riesgo ante desastres naturales de forma integral, lo cual es
+resultado de la calidad en el diseño del instrumento.
+La rápida respuesta del Banco ante la emergencia no tiene precedente. El sismo que
+afectó la zona noroeste de Ecuador ocurrió el sábado 16 de abril de 2016 a las 18:58,
+hora local. Ante la crisis del evento, el Ministerio de Economía y Finanzas y el equipo de
+proyecto se pusieron en contacto ese mismo sábado y para el domingo ya se había
+realizado el análisis preliminar del evento. El lunes 18 de abril llegó al Banco la solicitud
+formal de desembolso de parte del Gobierno de Ecuador. El desembolso se hizo efectivo
+el viernes 22 de abril, lo que convirtió al BID en el único banco multilateral capaz de poner
+recursos financieros a disposición del país para hacer frente a la emergencia casi
+inmediatamente después de ocurrido el desastre. La respuesta del Banco pudo ser tan
+rápida debido a la calidad en el diseño del préstamo, particularmente: (i) el modelo de
+cobertura y metodología de verificación de elegibilidad del evento que gracias a los
+disparadores paramétricos se logró estimar rápidamente el monto de recursos disponibles
+para desembolso ante el terremoto, eliminando la discrecionalidad política y permitiendo
+un desembolso expedito; y (ii) la elaboración de las guías operativas para la ejecución de
+los préstamos contingentes aprobados bajo la CCF que estableció una secuencia clara
+de procesos y responsabilidades internas en el Banco para dar una respuesta pronta al
+país. Gracias a estos trabajos previos no se encontraron inconvenientes en alcanzar un
+desembolso en tiempo récord en el Banco para un proyecto de esta envergadura.
+Igualmente fue destacable el compromiso de los funcionarios del Banco en todas las
+áreas involucradas que dieron prioridad a gestionar el desembolso para el país.
+                                              - 28 -
+"
+"En cuanto a la calidad de ejecución del préstamo contingente, al ser el primero en
+responder, el BID pudo acompañar a las autoridades ecuatorianas brindando:
+    •   Asistencia técnica esencial en diferentes sectores y facilitando la toma de
+        decisiones críticas. Por ejemplo, la asistencia técnica proporcionada para la
+        eliminación adecuada de los desechos y el tratamiento del agua demostró ser
+        crucial para prevenir un mayor impacto en el medio ambiente y la propagación de
+        enfermedades entre la población afectada por el terremoto. El BID también brindó
+        asistencia en la construcción de escuelas y hogares temporales para albergar a
+        las familias que quedaron sin hogar por el desastre.
+    •   Apoyo a la coordinación interinstitucional en la identificación de prioridades
+        sectoriales en la respuesta. El Banco colaboró al Ministerio de Economía y
+        Finanzas para coordinar los requerimientos de financiamiento de las distintas
+        unidades ejecutoras de gasto de emergencia. Se convocaron reuniones con
+        dichas unidades en la que se presentaron necesidades sectoriales y se asignaron
+        recursos a las actividades priorizadas en este proceso.
+    •   Identificación de necesidades y despliegue de financiamiento complementario.
+        En particular cabe notar que no solamente se otorgaron recursos proporcionados
+        para la atención inmediata de la emergencia sino también se apoyó la
+        identificación de préstamos de reconstrucción a mediano plazo financiados por el
+        BID y otros organismos internacionales. Al respecto, el financiamiento
+        complementario otorgado por el BID se realizó bajo un enfoque planificado y
+        estructurado que combinó varios instrumentos además del préstamo contingente,
+        a saber: (a) la Facilidad de Respuesta Inmediata (3751/OC-EC) por
+        US$19,7 millones; (c) el Programa de Reconstrucción de Infraestructura Eléctrica
+        de las Zonas Afectadas por el Sismo (3906/OC-EC) por US$60 millones; y
+        (d) cooperaciones técnicas de emergencia (US$0,2 millones) y de resiliencia
+        financiada a través del Fondo Especial de Japón (ATN/JF-15752-EC)[3]
+        (US$1,5 millones).
+Por otro lado, durante la ejecución de la operación, el equipo del BID mantuvo una
+estrecha y permanente coordinación con el Ministerio de Economía y Finanzas
+proporcionando apoyo desde la sede del BID, la Representación en Ecuador y en campo.
+La ejecución del proyecto fue acompañada de una auditoría externa de aseguramiento
+razonable que permitió seguir de cerca la ejecución de los recursos, velando por el
+cumplimiento de los requerimientos de justificación de gastos por parte del Banco y
+asegurando que la ejecución del gasto se realice dentro de los plazos establecidos
+específicamente para este instrumento de financiamiento (180 días posteriores al evento
+elegible).
+        3.2     Desempeño del Prestatario
+La ejecución en el EDG-MEF estuvo a cargo del Coordinador General con el apoyo de su
+estructura conformada por Especialista en Planificación, Monitoreo y Seguimiento,
+Especialista en Adquisiciones y Especialista Financiero. Esta gestión se consolidó con la
+creación de la Secretaría Técnica de Reconstrucción que fue la entidad creada para
+                                           - 29 -
+"
+"atender la emergencia causada por el terremoto, a la cual se le asignaron como miembros
+a todos los ministerios e instituciones que tenían necesidades de financiamiento de
+gastos por la emergencia. Existieron 18 entidades del estado involucradas de las cuales
+finalmente 11 presentaron gastos que finalmente fueron declarados elegibles. Además,
+se contó con la participación permanente del Ministerio Coordinador de Seguridad.
+La Secretaría Técnica de la Reconstrucción realizó efectivamente la coordinación política
+y estratégica para la atención de la respuesta. El rol de esta secretaria fue destacable por
+el trabajo de campo realizado para estar cerca de las necesidades de la población y
+planificar eficientemente la respuesta a las mismas. El Ministerio de Economía y Finanzas
+realizó eficientemente su labor en el monitoreo permanente de los fondos, incluyendo el
+seguimiento a la elegibilidad de los gastos, auditoría y acompañamiento permanente para
+el cumplimiento de los requisitos de las políticas del BID32. Las demás entidades fueron
+las responsables de la ejecución de los recursos, procesos de contratación y pago, al
+igual que los registros de gastos para la auditoría.
+Se identificaron los siguientes factores principales que contribuyeron a una exitosa
+implementación de la operación:
+     •    El esquema de gestión participativo y permanente entre EDG-MEF, la Secretaría
+          Técnica de Reconstrucción, el Banco y el Ministerio Coordinador de Seguridad
+          que permitió tomar decisiones oportunas y manejar adecuadamente las múltiples
+          relaciones interinstitucionales y de coordinación requeridas para la ejecución.
+     •    El involucramiento en la ejecución de los proyectos a los gobiernos seccionales y
+          sus empresas públicas que facilitó la implementación e incentivó a estas entidades
+          a realizar acciones complementarias vinculadas a los proyectos financiados. Esto
+          también facilitó la obtención de licencias y permisos requeridos para la
+          implementación.
+     •    La solidaridad y compromiso de los funcionarios de todas las instituciones
+          involucradas, más allá de sus responsabilidades y horarios de trabajo regulares,
+          que permitieron avanzar en un ritmo de ejecución muy rápido para atender la
+          emergencia y cumplir los plazos del proyecto.
+Teniendo en cuenta estos aspectos, la ejecución satisfactoria de los recursos del
+préstamo contingente en términos de la rendición de cuentas, el cumplimiento de plazos
+establecidos y objetivos trazados, el desempeño del Prestatario fue excelente.
+IV.       Hallazgos y Recomendaciones
+El 8 de mayo de 2017 se realizó el Taller de Cierre del Proyecto, con la participación del
+Ministerio de Economía y Finanzas, la Secretaría Técnica de Reconstrucción y todas las
+entidades involucradas en la ejecución de la operación. El objetivo de dicho taller fue
+presentar los resultados alcanzados, las acciones para propiciar sostenibilidad, las
+32  El Ministerio de Economía y Finanzas contrató a una firma que realizó una auditoria concurrente que se
+    encargó de verificar la elegibilidad de todos los gastos reportados por las diferentes unidades ejecutoras
+    de gastos relacionados con la emergencia. La auditoría determinó que todos los gastos reportados
+    cumplieron los requisitos del Banco, como ser que tengan adquisiciones y pagos verificables, se hallen
+    documentados, claramente registrados y se considere que sean adecuados en términos de su dimensión
+    y precio.
+                                                      - 30 -
+"
+"     lecciones aprendidas y los mecanismos de seguimiento a los resultados de la operación.
+     Bajo Acuerdos y Próximos Pasos, se acordó que, con base a la información presentada
+     en el taller, se prepararía el Informe de Terminación de Proyecto correspondiente. Bajo
+     esta línea, se acordó que se incluirían las lecciones aprendidas mencionadas en el taller.
+     Por consiguiente, en esta sección de Hallazgos y Recomendaciones se incluyen también
+     las lecciones aprendidas recogidas por parte de los participantes del Taller de Cierre del
+     Proyecto.
+              4.1       Dimensiones 1 a 4
+                        Hallazgos                                                Recomendaciones
+Dimensión 1: Técnico Sectorial
+Hallazgo # 1. Ecuador fue el primer país en recibir           Recomendación # 1. Volcar de forma adecuada en los
+desembolsos de la Facilidad de Crédito Contingente            sistemas del Banco los procedimientos llevados a cabo
+para emergencias por desastres naturales. El diseño del       para el logro del desembolso de los recursos de este
+instrumento, en cuanto al modelo de cobertura y               préstamo para asegurar el mismo o mayor nivel de éxito
+características operativas, fue fundamental para un           del Banco en futuros desembolsos de préstamos
+rápido desembolso de recursos del préstamo                    contingentes. Adicionalmente, respecto al modelo de
+contingente, atendiendo las necesidades del país a            cobertura, se recomienda mantener los disparadores
+tiempo para apoyar la respuesta a la emergencia. Esta         paramétricos diseñados para este tipo de cobertura que
+rápida respuesta del Banco fue reconocida por el país y       permitieron que el desembolso sea expedito.
+contribuyó a consolidar la relación de confianza y
+diálogo con el gobierno.
+Hallazgo # 2. El Banco demostró flexibilidad y                Recomendación # 2. Adoptar este enfoque en el diseño e
+capacidad para responder a las necesidades del país y         implementación de nuevos productos o servicios dirigidos
+las prioridades del gobierno, ofreciendo un set amplio de     a atender las necesidades de desarrollo de los países
+instrumentos para satisfacer la demanda de
+                                                              miembros del BID.
+financiamiento del país, además del financiamiento
+otorgado por el préstamo contingente.
+Hallazgo # 3. El país, con apoyo del Banco, logró             Recomendación # 3. Mantener el diálogo sectorial con los
+establecer un cambio de paradigma en la gestión               países de la región para promover la gestión integral del
+financiera del riesgo de desastres, pasando de una            riesgo de desastres. Igualmente continuar la coordinación
+planificación ex post a una gestión financiera proactiva a    con otros organismos internacionales para identificar
+través de la cobertura financiera del préstamo                intervenciones complementarias en la temática.
+contingente del Banco, que luego fue sumado a otras
+líneas contingentes contratadas con el BM y la CAF
+posterioridad al sismo de abril de 2016.
+Dimensión 2: Organización y gestión
+Hallazgo # 4. La rapidez de la respuesta del Banco al         Recomendación # 4. Aprovechar las lecciones
+país fue facilitada por la existencia de las Guías            aprendidas en la ejecución de esta operación para
+Operativas del instrumento, elaboradas para determinar        actualizar y mejorar las Guías Operativas de la CCF.
+los pasos a seguir ante la ocurrencia de eventos
+potencialmente elegibles para desembolso de recursos
+de préstamos contingentes bajo la CCF.
+Hallazgo # 5. A la luz de la emergencia ocasionada por        Recomendación # 5. Desarrollar herramientas que
+el terremoto, fue diluida la relevancia de la estrategia de   permitan a las Representaciones realizar un análisis
+país como instrumento de programación del Banco. No           expedito de los préstamos que forman parte de la LRA de
+obstante, el préstamo contingente tuvo un impacto             manera que sirva de apoyo a los países en la rápida toma
+positivo en la gestión de la cartera de préstamos con el      de decisiones que supone la respuesta ante un desastre
+país. Se desembolsaron US$69,9 millones provenientes          de gran magnitud.
+de saldos disponibles sin desembolsar de préstamos
+                                                           - 31 -
+"
+"                         Hallazgos                                                  Recomendaciones
+incluidos en la LRA, lo cual permitió reorganizar la
+cartera de préstamos del país con el Banco.
+Dimensión 3: Rol de actores públicos y procesos
+Hallazgo # 6. Existen limitaciones en materia de                Recomendación # 6. Considerar en la implementación del
+coordinación interinstitucional. No obstante, para la           proyecto, acciones de coordinación interinstitucional en
+ejecución del préstamo se realizó una coordinación              etapas tempranas de la ejecución. En el marco de los
+entre las entidades beneficiarias que inició apenas se          indicadores de seguimiento del Préstamo Contingente
+dio el evento y se consolidó a través de la Secretaría          EC-X1014, aún vigente, se plantean compromisos sobre el
+Técnica de Reconstrucción, lo cual fue clave para la            fortalecimiento de la gestión del riesgo de desastres en el
+optimización del uso de los recursos. Además, se                país.
+generó una red de cooperación entre las instituciones
+que podría servir para la implementación de futuros
+programas.
+Dimensión 4: Fiduciaria (adquisiciones: licitaciones, control y supervisión – costos y presupuestos)
+Hallazgo # 7. Dado que el plazo de desembolsos es muy           Recomendación # 7. La contratación de la auditoría
+reducido desde la declaratoria de emergencia, cualquier         externa concurrente de aseguramiento razonable permitió
+retraso en los procesos podría ocasionar que los gastos         mitigar este riesgo y a la vez se agilizó el proceso de
+reportados no cumplan con los requisitos del Banco y            reporte de gastos elegibles.
+sean declarados no elegibles de financiamiento.
+Hallazgo # 8. Dado que son varias las instituciones del         Recomendación # 8. Se sugiere replicar esta buena
+sector público involucradas para atender la emergencia          práctica en otros países.
+e incurrir en gastos de esta naturaleza, es importante
+que el Gobierno haya asignado partidas presupuestarias
+exclusivas para registrar dichos pagos de tales
+características, facilitando el análisis y revisión posterior
+de los mismos.
+                                                             - 32 -
+"
+"                                                          Informe de Terminación de Proyecto
+                      Préstamo Contingente para Emergencias por Desastres Naturales (EC-X1014-EC-L1216; 3670/OC-EC)
+                                                              Efectividad en el Desarrollo
+                                                                        Resumen
+I. Efectividad en el Desarrollo - Criterios Centrales
+                            Calificación general recomendada:                                             Muy Exitoso
+                                                                                                                    Peso
+1. Relevancia                                                                               4.00                    20%
+2. Efectividad                                                                              4.00                    40%
+       % de resultados alcanzados                                                          83.3%
+3. Eficiencia                                                                               4.00                    20%
+4. Sostenabilidad                                                                           4.00                    20%
+II. Efectividad en el Desarrollo - Criterios No Centrales
+Desempeño Del Banco                                                                              Muy satisfactorio
+Desempeño Del Prestatario                                                                        Muy satisfactorio
+"

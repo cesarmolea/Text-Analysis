@@ -1,0 +1,1061 @@
+"outlist[[i]]"
+"I.         INTRODUCCIÓN.
+El Programa de Fortalecimiento del Ministerio de Relaciones Exteriores, Comercio Internacional
+y Culto II (AR-L1078 - “Programa”) fue diseñado sobre la base del siguiente diagnóstico:
+    (i) Existían desafíos para la incipiente Subsecretaría de Desarrollo de Inversiones asociados
+    a: (a) la importancia y mejor manera de diseñar una estrategia de atracción de inversiones
+    con el fin de desarrollar y coordinar sinergias con otros organismos de la Nación y con las
+    provincias; (b) la incorporación en aquel momento del personal de la ex Agencia Nacional de
+    Desarrollo de Inversiones a un régimen laboral y la eventual y adecuada capacitación de los
+    recursos humanos del propio Ministerio para las nuevas tareas que le habían sido
+    encomendadas al MRECIC; y (c) como desarrollar instrumentos de gestión que permitieran
+    una mejor programación y monitoreo de acciones.
+    (ii) A su vez, existían - previo a la ejecución del programa - problemas de segmentación de
+    actividades, duplicaciones y áreas no cubiertas. Se detectó que había una falta de
+    instrumentos de gestión operativos que identificaran productos a ser elaborados por las
+    diferentes áreas, con plazos y costos plasmados en los Planes de Gestión Anual (“PGA”).
+    Un ejemplo de esto fue la falta de coordinación de las actividades en materia de promoción
+    de exportaciones que realizaban la Fundación Exportar y la Subsecretaría de Comercio
+    Internacional y Asuntos Consulares (“SURCI”).
+    Asimismo, se observó una alta rotación en los cargos y funciones, propios de las funciones
+    del servicio exterior, lo cual requería de actualización técnica al personal en materia comercial
+    y de inversiones según los requerimientos de la economía internacional.
+    (iii) Existía también una falta de aplicativos en el MRECIC que posibilitaran un desarrollo pleno
+    de todas sus potencialidades. Un ejemplo de ello fue la falta de un módulo multi-monedas en
+    el sistema de administración financiera -esencial para el procesamiento de transacciones
+    corrientes en este tipo de organismos-. El Ministerio tampoco había logrado aprovechar las
+    oportunidades del desarrollo de la firma electrónica y la firma digital, lo que impactaba en
+    elevados y crecientes costos transaccionales, restringiendo la calidad de los servicios que
+    prestaba.
+En este contexto, la ejecución del Programa estuvo signada por constantes cambios
+institucionales tanto por el lado del prestatario como por el lado del Banco, desde su aprobación
+en abril de 2011 hasta su cierre en agosto de 2017. Diseñado originalmente por la División de
+ICF/ICS con un fuerte foco en el fortalecimiento institucional, el Banco decidió en 2013 que
+pasara a ser ejecutado por TIN/INT por la mayor alineación que tenía el proyecto con las
+competencias sectoriales de la Gerencia de Integración y Comercio. Por el lado del Gobierno,
+también hubo diversos cambios institucionales, incluyendo entre otros, un cambio de Ministerio
+y la creación de una nueva Agencia para la ejecución de algunas de las actividades de promoción
+de exportaciones contempladas en el Préstamo. A pesar de estos cambios, los cuales en algunos
+casos implicaron modificaciones en las líneas de acción propuestas, en términos generales el
+Programa logró cumplir satisfactoriamente con los objetivos y resultados previstos originalmente.
+El Organismo Ejecutor (“OE”) del Programa -Ministerio de Relaciones Exteriores, Comercio
+Internacional y Culto (“MRECIC”)-, orientó la ejecución hacia el alcance de los objetivos de
+desarrollo propuesto en un marco de cambios de contexto, institucionales y de re-priorización de
+objetivos nacionales.
+"
+"Asimismo, adoptó medidas para garantizar que los objetivos e impactos positivos de las
+actividades realizadas fueran sostenibles en el tiempo más allá de la fecha de finalización del
+Programa.
+El presente documento resume las acciones y resultados obtenidos a través de la ejecución del
+Programa, las principales razones por las cuales su ejecución fue exitosa e identifica lecciones
+aprendidas para la ejecución de proyectos similares en el futuro.
+II.     CRITERIOS CENTRALES. RENDIMIENTO DEL PROYECTO.
+2.1     Relevancia.
+a.      Alineación con las necesidades de desarrollo del país.
+La presente operación se alineó con las tres Estrategias de País vigentes durante la vida del
+proyecto. En un comienzo se enmarcó en la segunda línea estratégica de la Estrategia País
+(GN-2570) 2009-2011 (vigente en abril 2011, mes de aprobación del programa, y al que se refiere
+la Propuesta de Préstamo), consistente con el fortalecimiento y modernización del Estado y el
+incremento en la productividad. La operación tuvo como objetivo contribuir a la Estrategia
+fomentando el fortalecimiento y la mejora de la gestión de la política exterior del país.
+Asimismo, la operación mantuvo la consistencia con las actualizaciones posteriores de la
+estrategia: (i) con la Estrategia del País 2012-2015 (GN-2687) se alineó con el objetivo de
+fortalecimiento de sistemas nacionales y desarrollo del sector privado; (ii) finalmente, se alineó
+con el objetivo estratégico de mejorar niveles y perfiles de inserción exportadora de la Estrategia
+del País 2016-2019 (GN-2870) vigente en la actualidad. En este sentido la operación contribuyó
+con el indicador de fortalecimiento de la integración e inserción del sector privado a las cadenas
+de valor -desarrollo empresarial y de clúster en áreas exportadoras y de alto valor agregado.
+El Programa fue diseñado en un contexto en el que el Gobierno Argentino priorizó el
+fortalecimiento y la mejora de la gestión de la política exterior del país, con el objetivo de lograr
+una mejor vinculación con la comunidad internacional.
+La política comercial de Argentina se basaba en una estrategia amplia y simultánea cuyos
+escenarios prioritarios eran: Mercado Común del Sur (“MERCOSUR”), Acuerdo de Libre
+Comercio de las Américas (“NAFTA”), Unión Europea (“UE”), Chile, África, China, Corea-Malasia-
+Tailandia, India y Rusia-Japón.
+Asimismo, la política comercial tenía como objetivo el desarrollo de mercados con foco en: (i) la
+integración de sector público y el sector privado para identificar y conquistar nuevos mercados,
+mejorar la inteligencia comercial de las empresas, crear asociaciones para comercializar los
+productos argentinos y brindar un asesoramiento especializado en la promoción de las
+exportaciones; (ii) la determinación de sectores productivos con ventajas competitivas; (iii) la
+eliminación de falsas dicotomías en el comercio internacional; (iv) el desarrollo de un nuevo
+modelo de gestión que involucre al sector privado, al sector académico y al sector público; y (v) la
+democratización de la información.
+En cuanto a la política comercial externa, el Gobierno Nacional había definido los siguientes ejes
+centrales: (i) imponer un mayor dinamismo al crecimiento de las exportaciones; (ii) lograr una
+mayor diversificación de productos y mercados; (iii) mejorar la composición de las exportaciones
+a través de una mayor participación de productos con mayor valor agregado en las ventas
+externas; y (iv) propender a que los beneficios del comercio exterior se traduzcan en mayores
+niveles de empleo, en especial para las economías regionales y el desarrollo de las Pequeñas y
+Medianas Empresas (“PyMEs”).
+                                                -2-
+"
+"A partir de agosto de 2010 -mediante el Decreto Presidencial No.1187/2010- se disolvió la
+Agencia Nacional de Desarrollo de Inversiones y se transfirieron a la órbita de la Secretaría de
+Comercio y Relaciones Económicas Internacionales del MRECIC, las funciones, el personal y los
+bienes patrimoniales correspondientes. De esta forma, la función en materia de atracción de
+inversiones fue asumida por la Subsecretaría de Desarrollo de Inversiones, la cual paso a tener
+rol de administrador del programa dentro del MRECIC.
+En ese contexto y en función del diagnóstico identificado, el Gobierno y el BID, acordaron el
+diseño del Programa de Fortalecimiento del Ministerio de Relaciones Exteriores, Comercio
+Internacional y Culto II, que permitiría mejorar el desempeño organizacional del MRECIC en las
+áreas de gestión operativa, promoción comercial y atracción de inversiones, para contribuir a
+mejorar el posicionamiento internacional de Argentina en términos de su inserción comercial y
+su capacidad de atraer inversiones. La operación se estructuró siguiendo dos líneas estratégicas:
+(i) mejorar la gestión interna del Ministerio; y (ii) ampliar y mejorar la calidad de los instrumentos
+de promoción de exportaciones y atracción de inversiones.
+b.       Alineación estratégica.
+Los objetivos y resultados del Programa estuvieron alineados con la Estrategia Institucional del
+Banco 2010-2020 y con GCI-9. Asimismo, el Programa se enmarcó en la estrategia del Banco
+de promover la Integración Internacional Competitiva a nivel regional y mundial.
+La Estrategia de Integración Competitiva Mundial y Regional, se propone invertir
+simultáneamente en el software y el hardware de la integración para aumentar la competitividad
+y crear puestos de trabajo en América Latina y el Caribe. El objetivo de la estrategia es ampliar
+y perfeccionar la contribución del Banco a una Integración Competitiva Mundial y Regional de
+América Latina y el Caribe. La prioridad sectorial de esta estrategia es el Comercio e integración,
+que promueve la participación continua en: Negociación e implementación de acuerdos de
+comercio; facilitación del comercio y procedimientos aduaneros; administración y armonización
+de reglamentación de comercio exterior; promoción de exportaciones e inversiones extranjeras;
+corredores de infraestructura regional y bienes públicos regionales.
+El Programa contribuyó en este sentido a los objetivos estratégicos del Banco en materia de
+facilitación del comercio exterior y agilización de trámites aduaneros, mediante la
+implementación de: (i) un sistema de gestión; (ii) un sistema de administración financiera
+multimonedas; (iii) soluciones de videoconferencia; (iv) eventos de promoción comercial; y
+(v) eventos de atracción de inversiones.
+c. Relevancia del diseño & Lógica Vertical.
+El diseño del Programa estuvo orientado a generar las condiciones para mejorar el desempeño
+organizacional del MRECIC en las áreas de gestión operativa, promoción comercial y atracción
+de inversiones.
+Para ello, se diseñó un Programa que contemplara, entre otras cosas: (i) fortalecer la gestión
+operativa del MRECIC; (ii) fortalecer el desempeño del MRECIC en el área de promoción
+comercial; y, (iii) mejorar el desempeño del MRECIC en el área de atracción de inversiones.
+En este sentido, el Programa se estructuró en torno a dos componentes: (i) Componente 1 -
+Fortalecimiento de los sistemas de gestión operativa y de capacidad institucional de la SCREI; y
+(ii) Componente 2 - Fortalecimiento de los instrumentos de promoción comercial y de atracción
+de inversiones.
+                                                   -3-
+"
+"Los cambios de gobierno que se produjeron durante la vida del Programa -2011 y 2015-
+implicaron cambios institucionales y de prioridades de los objetivos nacionales, con impacto
+menor en las líneas de acción propuestas.
+En diciembre de 2011, poco después de que el programa fuera aprobado por el Directorio del
+Banco, el nuevo gobierno decidió modificar la estructura organizacional del MRECIC. Mediante
+el Decreto No. 2085/20111 se trasladaron las funciones de comercio internacional a la órbita del
+Ministerio de Economía y Finanzas Públicas (“MECON”) y permanecieron las funciones de
+promoción comercial en el nuevo Ministerio de Relaciones Exteriores y Culto (“MREC”). Los
+cambios dieron lugar a que diversos organismos del MREC pasaran a participar, en mayor o
+menor medida, del Programa. Estos organismos fueron: (i) la Secretaría de Relaciones
+Económicas Internacionales (“SEREI”); (ii) la Subsecretaría de Integración Económica
+Latinoamericana y Mercosur; (iii) la Subsecretaria de Desarrollo de Inversiones y Promoción
+Comercial; y (iv) la Subsecretaría de Negociaciones Económicas Internacionales. Esto impactó
+en un retraso al programa y recién a fines de noviembre de 2012 fue posible estructurar el nuevo
+marco institucional entre el MECON y el MREC en materia de comercio exterior.
+Asimismo, asociado a las actividades que apoyaría el programa se firmaron convenios anuales
+con la Fundación Exportar a fin de contribuir con actividades asociadas a: (i) la realización de
+actividades y participación en ferias internacionales de promoción de transferencia tecnológica
+para el desarrollo productivo; (ii) el apoyo a los programas de asociativismo para la exportación;
+y (iii) la promoción de acciones comerciales de outsourcing y offshoring. La articulación con la
+Fundación Exportar implicó: (i) la creación de un esquema de coordinación para favorecer la
+coordinación interinstitucional en torno a las estrategias y necesidades de ejecución y el debido
+seguimiento de las actividades llevadas a cabo; (ii) la creación de una metodología para la
+selección de las firmas participantes y ferias comerciales que pudieran ser elegibles para
+financiamiento; y (iii) la elaboración de un reglamento para la contratación de bienes y servicios
+que efectuara la Fundación.
+En diciembre de 2015 el cambio de gobierno volvió a impactar el Programa. Específicamente, la
+articulación con la Fundación Exportar se vio dificultada por la nueva restructuración institucional.
+La nueva Administración Nacional traspasó la Fundación a la órbita del nuevo Ministerio de la
+Producción y amplió la estructura del organismo incorporando la promoción de inversiones.
+Específicamente, esto implicó que las actividades de promoción de exportaciones y atracción de
+inversiones del programa pasaran a la órbita de la nueva Agencia de Inversiones y Comercio
+Internacional (AICI) del Ministerio de Producción. Sin embargo, una vez que se establecieron los
+nuevos mecanismos de coordinación interinstitucional, lo logrado por el programa hasta ese
+momento tuvo continuidad al traspasarse el conocimiento adquirido, las metodologías de trabajo
+y el personal calificado en esta área a la nueva orbita de la AICI.
+En este sentido, -pese a los cambios institucionales mencionados, la lógica vertical de la
+intervención fue sólida y demostró la relevancia de la operación. La lógica vertical mostró un
+vínculo claro entre la cadena causal de la intervención, los objetivos de desarrollo de la operación
+y las necesidades y realidades del país.
+Por lo tanto, solo se realizaron ajustes menores al diseño original para que el mismo se adapte
+al nuevo contexto institucional.
+La lógica vertical del programa en la relación de los productos y su eventual logro de resultados
+era sólida y se mantuvo aún en un contexto de cambios administrativos. Este proyecto era un
+trabajo de fortalecimiento institucional donde los resultados estaban directamente ligados a los
+productos. Sin embargo, sí hubo cambios menores de actividades y ciertos productos
+1
+  Ver Decreto en INFOLEG: http://servicios.infoleg.gob.ar/infolegInternet/anexos/190000-194999/191055/norma.htm
+                                                                -4-
+"
+"desestimados que impactaron sobre algunos resultados (ver Tabla 1 – Columna a comentarios,
+por ende, se considera la relevancia como Satisfactoria).
+                                                             Lógica Vertical del Proyecto
+                                                            RESULTADOS
+                                                                                         OBJETIVOS ESPECÍFICOS
+                                                        (Que se prometió)
+                PRODUCTOS
+                                             Ejecución presupuestaria de SECIN
+ •   Sistema de gestión implementado         Cumplimiento de metas físicas de los
+                                             planes de gestión
+ •   Sistema de Admin. Financiera con modulo
+     multimonedas implementado
+ •   Solución videoconferencia adquirida
+                                             Ahorro por uso de instrucción digital     Fortalecer
+ •   Equipamiento informático provisto                                                 Cancillería en          Contribuir a
+ •   Programa de infraestructura                                                                               mayor
+                                              Volumen de ventas concretadas por
+                                              PYMEs en los eventos
+                                                                                       gestión
+                                                                                       operativa,              participación
+                                               Ca ntidad de emprendedores que                                  PYMEs en
+                                               a s istieron a eventos de promoción     promoción
+                                               comercial y recibieron capacitación                             comex
+ •   Eventos de promoción comercial                                                    comercial y
+ •   Eventos de atracción de inversión
+                                              Índice de Capacidad Institucional de
+                                              de la nueva Subsecretaria (BID)
+                                                                                       atracción de
+                                                                                       inversiones
+                                              Monto de inversión extranjera en
+                                              PYMEs
+                                               Gra do de satisfacción de beneficiarios
+                                               PyMES con l os servicios prestados por
+                                               funcionarios SCREI
+                                              Pres upuesto SCREI asignado a promoción
+                                              comercial
+Adicionalmente, fue necesario otorgar prórrogas para el último desembolso, toda vez que se
+presentaron dificultades para alcanzar los objetivos en el plazo inicialmente establecido. Si bien
+el Programa no logró desembolsar todos los fondos previstos originalmente y, al final hubo una
+cancelación parcial, el saldo pendiente de desembolso no fue significativo habiéndose ejecutado
+y desembolsado 91% de los recursos totales planificados en presupuesto original (según el último
+PMR de la operación).
+Aunque, como se ha descrito, el proyecto estuvo sujeto a retrasos y cambios en su administración
+por cambios gubernamentales, se logró avanzar y trabajar sobre los objetivos previstos,
+cumpliéndose la mayoría de los productos originalmente planificados y alcanzando resultados
+significativos.
+En este sentido, las actividades implementadas en el marco del Componente 1 favorecieron la
+optimización de sus herramientas y sistemas de gestión, administración financiera,
+comunicaciones e inversiones en infraestructura física, a fin de mejorar su eficiencia en la
+prestación de los servicios de apoyo a las áreas sustantivas del MRECIC. Similar situación se
+observa con las actividades implementadas en el marco del Componente 2 que favorecieron el
+fortalecimiento de las capacidades de gestión del MRECIC y ampliar sus instrumentos de
+promoción comercial y atracción de inversiones.
+                                                                              -5-
+"
+"                        Tabla 1. Matriz de Resultados (aprobación @, 60 días después de alcanzar la elegibilidad y @ exit).
+                               En aprobación                 En elegibilidad + 60 días      Al terminar el proyecto (PCR)                  Comentarios
+    Indicadores     Unidad de        Línea de    Meta     Unidad de    Línea de     Meta  Unidad de        Línea de
+                                                                                                                       (A)
+                    Medida             Base       (P)     Medida         Base        (P)  Medida             Base
+   Resultados
+Resultados asociados a objetivo específico: Fortalecer el MRECIC en su gestión operativa y en sus instrumentos de promoción comercial y de atracción de inversiones
+Ejecución
+presupuestaria de
+                             %         88%       95%          %           88%       95%          %           88%      95%
+la SECIN y
+SCREI.
+Cumplimiento de
+metas físicas de
+                             %         80%       90%          %           80%       90%          %           80%      90%
+los Planes de
+Gestión.
+Ahorro por el uso                                                                                                          El sistema de firma digital salió del ámbito de
+de firma digital en                                                                                                        aplicación del Programa pues pasó a
+                            US$
+el proceso de                           0.0       513     US$ miles        0.0       586    US$ miles         0.0      0.0 depender de otro Ministerio. Esto se ve
+                       millones
+instrucción de                                                                                                             reflejado como negativo en el puntaje de
+sumarios.                                                                                                                  efectividad y checklist.
+                                                                                                                           El indicador cambió su denominación a
+                                                                                                                           “Cantidad de empresas, emprendedores o
+                                                                                                                           funcionarios públicos del área del comercio
+    Cantidad de                                                                                                            que asistieron a eventos de promoción
+ empresas PyMES                                                                                                            comercial y recibieron algún tipo de
+   en eventos de      Empresas          650      2576     Empresas        650       2476  Profesionales       650     1308 capacitación en comercio e inversiones”
+     promoción                                                                                                             (Reporte PMR julio-diciembre 2014) pero es
+     comercial.                                                                                                            exactamente la misma medición. Notar que
+                                                                                                                           acá hubo un cambio de meta del POD de
+                                                                                                                           2576 al PMR 2476 correspondiente al PMR
+                                                                                                                           de elegibilidad (2do ciclo 2013).
+Presupuesto del
+SCREI asignado a                                                                                                           Presupuesto       SURCI-MRECIC-Dirección
+                          %             9%       12%          %           9%        12%          %            9%      14%
+la promoción                                                                                                               General de Administración-MRECIC
+comercial.
+Grado de                                                                                                                   Este indicador no se incluyó en el PMR por
+satisfacción de                                                                                                            error de omisión. Este indicador si se
+beneficiarios                                                                                                              reflejaba en el POD y por ende el equipo
+PyMES con los                                                                                                              reporta sobre el mismo con los datos
+                             %         73%       83%          %           73%       83%          %           73%      95%
+servicios                                                                                                                  provistos por el ejecutor al elaborar este
+prestados por                                                                                                              informe. Se incluye también en PCR
+funcionarios                                                                                                               checklist y en el anexo I con la información
+SCREI.                                                                                                                     brindada por la UEP.
+                                                                                   -6-
+"
+"                                                                                              Este indicador no se incluyó en el PMR por
+                                                                                              error de omisión. Este indicador si se
+Volumen de                                                                                    reflejaba en el POD y por ende el equipo
+ventas                                                                                        reporta sobre el mismo con los datos
+concretadas por                                                                               provistos por el ejecutor al elaborar este
+                         US$                    US$
+las PyMES en los                 10.0   32.0             10.0   32.0 US$ millones  10.0  26.0 informe. Este indicador provee evidencia
+                    millones                  millones
+eventos de                                                                                    clave para uno de los logros del proyecto. Se
+promoción                                                                                     incluye también en PCR checklist y en el
+comercial                                                                                     anexo II (Ventas concretadas por las PyMEs
+                                                                                              en los eventos de promoción comercial.) con
+                                                                                              la información brindada por la UEP.
+Índice de
+Capacidad
+Institucional (ICI)
+de la nueva               %     41.75% 67.5%     %      41.75% 67.5%      %       41.75% 79%
+Subsecretaría de
+Desarrollo de
+Inversiones.
+                                                                                              Se suprimió el indicador por cambios
+                                                                                              institucionales: creación de la Secretaría de
+Número de                                                                                     Comercio Exterior en el ámbito del entonces
+provincias                                                                                    Ministerio de Economía que tomó la relación
+adheridas al                                                                                  con las provincias (Reporte PMR julio-
+Programa del         Provincias    0     9   Provincias    0     9    Provincias     0    0   diciembre 2014). Sin embargo, este cambio
+MRECIC de                                                                                     no ocurrió a tiempo de elegibilidad + 60 días
+atracción de                                                                                  (PMR 2do ciclo 2013) y por ende se reporta
+inversiones.                                                                                  como un no-logro aquí y en el checklist y
+                                                                                              afecta negativamente el puntaje de
+                                                                                              efectividad.
+                                                                                              Este indicador no se logró medir, pero se
+                                                                                              sospechaba que sería el caso. Además, para
+                                                                                              elegibilidad +60 días – en el PMR del 2do
+                                                                                              ciclo del 2013, la meta “P” se había fijado en
+Monto de inversión
+                                                                                              “0” por lo mismo. Por ende, aunque el logro
+extranjera en            US$     TBD    2011      0        0             US$         0    0
+                                                                                              no se alcanza a medir y es de “0” la meta a
+PyMES.
+                                                                                              elegibilidad + 60 días también es de “0”
+                                                                                              porque esto ya era previsto.               Por
+                                                                                              consiguiente, no es un no-logro del proyecto.
+                                                                                              (Meta: 0, Logro: 0)
+                                                               -7-
+"
+"2.2       Eficacia.
+a. Declaración de objetivos de desarrollo del Programa.
+El objetivo original de desarrollo del Programa planteado durante el diseño fue “fortalecer el
+desempeño institucional del MRECIC en las áreas de gestión operativa, promoción comercial y
+atracción de inversiones, a fin de contribuir a una mayor participación de las PyMES en las
+actividades de comercio internacional”.
+Para la elaboración de este PCR, de acuerdo a las guías y de acuerdo a la lógica inherente de
+la intervención, se dividió el objetivo general del especifico de la siguiente manera:
+     •    Objetivo General: Contribuir a una mayor participación de PyMES en las actividades de
+          comercio internacional.
+     •    Objetivo Especifico: Fortalecer el MRECIC en su gestión operativa y en sus instrumentos
+          de promoción comercial y de atracción de inversiones.
+     •    Al haber un solo objetivo específico, la totalidad de resultados recaen sobre el mismo (ver
+          figura Lógica Vertical arriba).
+El Programa se estructuró en torno a dos componentes:
+      (i) Componente 1 - Fortalecimiento de los sistemas de gestión operativa y de capacidad
+      institucional de la SCREI.
+      (ii) Componente 2 - Fortalecimiento de los instrumentos de promoción comercial y de
+      atracción de inversiones.
+b. Resultados logrados.
+El Programa alcanzó la mayoría de los resultados esperados pese a las dificultades del contexto
+que impactaron en la ejecución de algunas actividades y el alcance final de algunos indicadores.
+El Programa logró efectos directos en los beneficiarios, principalmente el MRECIC y los
+empresarios y emprendedores nacionales.
+A pesar de no haber desembolsado la totalidad de los recursos del Programa, la ejecución
+satisfactoria permitió alcanzar los objetivos específicos planteados: Fortalecer el MRECIC en su
+gestión operativa y en sus instrumentos de promoción comercial y de atracción de inversiones.
+El único objetivo específico englobaba el fortalecimiento del MRECIC tanto en su gestión
+operativa (Componente 1) como en sus instrumentos de promoción comercial y atracción de
+inversiones (Componente 2).
+En este sentido los indicadores ligados al Componente 1 de fortalecimiento de la gestión
+operativa del MRECIC (los primeros 3 resultados de la Tabla 2) fueron alcanzados en su
+totalidad, a excepción del ahorro en el proceso de instrucción de sumarios por uso de firma digital,
+ya que el sistema de firma digital salió de la órbita del Programa. El no-logro de este tercer
+resultado se refleja en el puntaje de efectividad ya que no se descontinuó a tiempo de elegibilidad
++ 60 días.
+Con respecto al objetivo del Componente 2 del fortalecimiento del MRECIC en materia de
+promoción comercial, el indicador del grado de satisfacción de beneficiarios PyMES con los
+servicios prestados por funcionarios SCREI superó la meta prevista. El resto de los indicadores
+fueron sustancialmente alcanzados. De particular importancia, es el logro del volumen de ventas
+concretadas por PyMES en los eventos de promoción comercial, sumando US$26MM sobre una
+meta de US$32MM.
+                                                   -8-
+"
+"El objetivo de mejorar el desempeño del MRECIC en el área de atracción de inversiones superó
+la meta prevista asociada al indicador de Índice de Capacidad Institucional (“ICI”) de la nueva
+Subsecretaría de Desarrollo de Inversiones.
+La implementación del ICI permitió la evaluación de la capacidad de la nueva Subsecretaria de
+Desarrollo de Inversiones en materia de atracción de inversiones. El ICI releva información in situ
+por medio de entrevistas a actores clave y ponderan factores vinculados a: (i) la vinculación y
+desempeño de instituciones públicas respecto a los servicios e instrumentos de apoyo a los
+sectores productivos, y (ii) aspectos de gestión interna para la atracción de inversiones.
+Durante la implementación del Programa fue desestimado el indicador del número de provincias
+adheridas al Programa del MRECIC de atracción de inversiones, ya que la relación con las
+provincias fue llevada adelante por la Secretaria de Comercio Exterior del Ministerio de Economía
+y Finanzas Públicas (“MECON”). También se desestimó el indicador del monto de inversión
+extranjera en PyMES, por la dificultad de su medición. Para el primero, el no-logro en materia de
+provincias adheridas queda reflejado en el puntaje de efectividad del programa –para el segundo,
+a tiempo de elegibilidad + 60 días se había reflejado con una meta de “0” porque ya se estimaba
+que no se iba a poder medir.
+Asimismo, el Programa alcanzó sustancialmente los productos esperados según la matriz de
+resultados revisada.
+En este sentido, en lo referido al Componente 1, los productos alcanzados fueron:
+(i) Sistemas. Se implementaron tanto el sistema de gestión de resultados como el sistema de
+administración financiera con un módulo multimonedas en el marco de la Secretaría de
+Coordinación y Cooperación Internacional (“SECIN”). Los mismos permitieron mejorar la gestión
+en términos operativos, de presupuesto y administración financiera.
+(ii) Equipamiento. Se adquirieron los siguientes equipos:
+     •   Un equipo de videoconferencia para mejorar la comunicación y coordinación
+         intrainstitucional entre las distintas oficinas descentralizadas del Ministerio. El mismo fue
+         ampliado durante la ejecución del Programa a fin de facilitar su implementación para todo
+         el MREC. Este equipo integral se compone por un Sistema Central, 8 terminales tipo sala
+         de diferentes características y capacidad, y capacitación.
+     •   Equipos Portables.
+     •   Un Administrador para ancho de banda, expansión de almacenamiento y equipo de
+         escritorio.
+     •   Un filer de contingencia y servicio de back-up.
+     •   Cajas ignífugas.
+     •   PC´s Servidores y almacenamiento de datos.
+Con respecto al Componente 2, los productos alcanzados están asociados al desarrollo de ferias
+internacionales de promoción comercial y eventos de atracción de inversiones en términos de
+planificación, organización, disertantes, logística, implementación y análisis de cierre. En el
+marco del Programa se organizaron e implementaron 25 eventos de promoción comercial y 8
+eventos de atracción de inversiones, a través de los cuales se concretaron US$26 millones en
+ventas por parte de las Pymes participantes y se logró que el 95% de las Pymes estuvieran
+satisfechas con los servicios prestados por la SCREI (línea de base: 73$). Adicionalmente, 1308
+empresas, emprendedores o funcionarios públicos del área de comercio que recibieron algún
+tipo de capacitación en comercio e inversiones.
+A continuación, se presenta la matriz de resultados logrados por el Programa.
+                                                    -9-
+"
+"                                                    Tabla 2. Matriz de Resultados Logrados
+                                                      Valor de     Año de
+                                       Unidad de                                  Metas y
+        Resultado/Indicador                           Línea de    línea de                   % Alcanzado             Medios de verificación
+                                         Medida                                 alcance real
+                                                        base        base
+Resultados asociados a objetivo específico: Fortalecer el MRECIC en su gestión operativa y en sus instrumentos de promoción comercial y de
+atracción de inversiones
+                                                                               P      95                    Dirección General de Administración –
+Ejecución presupuestaria de la                                                                              Oficina de Presupuesto del MRECIC.
+                                           %            88%         2009       P(a)   95         100%
+SECIN y SCREI.
+                                                                               A      95
+                                                                               P      90                    Dirección General de Administración –
+Cumplimiento de metas físicas de
+                                           %            80%         2009       P(a)   90         100%       Oficina de Presupuesto del MRECIC.
+los Planes de Gestión.
+                                                                               A      90
+                                                                               P      12                    Presupuesto SURCI-MRECIC-Dirección
+Presupuesto del SCREI asignado a                                                                            General de Administración MRECIC.
+                                           %             9%         2010       P(a)   12         100%
+la promoción comercial
+                                                                               A      14
+Ahorro por el uso de firma digital en                                          P      513                   Dirección General de Administración –
+el proceso de instrucción de           US$ miles         0.0        2009       P(a)   586         0%        Oficina de Presupuesto del MRECIC.
+sumarios                                                                       A      0.0
+Cantidad de empresas,                                                                                       Base de datos de la SCREI.
+emprendedores o funcionarios                                                   P      2476
+públicos del área del comercio que
+asistieron a eventos de promoción     Profesionales      650        2009       P(a)   2476       36%
+comercial y recibieron algún tipo de
+capacitación en comercio e                                                     A      1308
+inversiones.
+Grado de satisfacción de                                                       P      83                    Encuesta de evaluación de PyMES por
+beneficiarios PyMES con los                                                                                 parte de la SREI.
+                                           %            73%         2006       P(a)   83        +100%
+servicios prestados por funcionarios
+SCREI                                                                          A      95
+Volumen de ventas concretadas por                                              P      32.0                  Registro de SURCI y Fundación Exportar
+las PyMES en los eventos de           US$ millones      10.0        2006       P(a)   32.0       73%        en base de datos propia.
+promoción comercial                                                            A      26.0
+                                                                               P      67.5                  Aplicación de la metodología por parte
+Índice de Capacidad Institucional                                                                           del equipo de proyecto del Banco,
+(ICI) de la nueva Subsecretaría de         %           41.75%       2010       P(a)   67.5      +100%       conjuntamente con el Coordinador
+Desarrollo de Inversiones.                                                                                  Técnico del Programa.
+                                                                               A      79
+Número de provincias adheridas al                                                                           Se desestimó el indicador ya que la
+                                                                               P      9
+Programa del MRECIC de atracción                                                                            relación con las provincias fue llevada
+                                       Provincias         0           9        P(a)   9           0%
+de inversiones.                                                                                             adelante por el MECON.
+                                                                               A      0
+                                                                        - 10 -
+"
+"                                           Valor de  Año de
+                                 Unidad de                         Metas y
+      Resultado/Indicador                  Línea de línea de                  % Alcanzado             Medios de verificación
+                                  Medida                         alcance real
+                                             base     base
+                                                                P      0                      No se logró medir este indicador, pero a
+                                                                P(a)   0                     tiempo de elegibilidad + 60 días – 2ndo
+                                                                                             Ciclo PMR 2013 – se había ajustado la
+                                                                                             meta a reflejar una meta de “0” para el
+                                                                                             indicador porque se anticipaba no poder
+                                                                                             observarlo. Por ende, no califica como
+                                                                                             un no-logro y se ha excluido del PCR
+                                                                               N/A (meta
+                                                                                             checklist - dado que la medición del
+Monto de inversión extranjera en                                               ajustada a
+                                   US$       0.00     2011                                   logro fue 0 sobre una meta de 0 y
+PyMES                                                                         cero durante
+                                                                A      0                     tampoco se debe contar a favor como
+                                                                              elegibilidad).
+                                                                                             un logro de 100% en el checklist siendo
+                                                                                             que no se mide y se desestimó a tiempo
+                                                                                             de elegibilidad (al modificarse la meta).
+                                                                                             No se incluyó en el checklist mas que la
+                                                                                             explicación por claridad y dado que el
+                                                                                             indicador no desaparece del PMR, sino
+                                                                                             que su meta fue modificada a 0.
+                                                         - 11 -
+"
+"c. Análisis contrafactual.
+A partir de las entrevistas realizadas a funcionarios de la UEP en el contexto del PCR, se
+desprende que el Programa no hubiese alcanzado un logro sustancial si el OE no hubiese
+contado con la flexibilidad para adaptarse a los cambios de contexto y cambios institucionales
+ocurridos durante el período de ejecución del Programa.
+La Unidad Ejecutora del Programa (“UEP”) implementó el Programa de acuerdo con una
+estrategia clara de alcance de los resultados esperados. En términos de ejecución, se destaca
+la realización de acciones orientadas a fortalecer la coordinación interinstitucional y viabilizar la
+ejecución del Programa, involucrando a todos los actores participantes.
+Este proyecto toma un carácter algo distinto a otros programas más típicos del Banco, al tratarse
+de un programa de fortalecimiento institucional y enfocarse específica y únicamente en esta
+dimensión. Ya que se trabajó directamente para fortalecer el ejecutor y el nivel de resultados
+estaba estrechamente vinculado a las actividades de la UEP. Se considera entonces apropiado
+un análisis de atribución teórica, siendo que en la mayoría los indicadores de resultado seguían
+de manera directa un producto.
+Específicamente, para los primeros dos indicadores de resultado –Ejecución presupuestaria de
+la SECIN y SCREI y Cumplimiento de Metas Físicas de Planes de Gestión– hubiese sido
+imposible alcanzar su logro sin los sistemas que el Programa financiaba dentro de sus productos,
+como el de multimonedas.
+Además, el Programa nace en el contexto en que el país empezaba a buscar fortalecer su
+comercio exterior y fue este programa que ponía la pauta dentro de la UEP e impartía
+conocimiento y mejores prácticas internacionales. Gracias a esta mayor focalización que tenía
+raíz en el programa en sí y a los mejores sistemas para su gestión se logra el tercer resultado
+del presupuesto del SCREI asignado a la promoción comercial.
+El cuarto resultado de ahorro por el uso de la firma digital en proceso de instrucción de sumarios
+no fue logrado ya que se desestimaron las actividades relacionadas a ello por cambios en la
+prioridad del gobierno y esto se refleja como un no-logro en el puntaje de efectividad.
+Por último, los resultados asociados a las actividades de promoción comercial y atracción de
+inversiones se lograron en su totalidad, con excepción de uno. La cantidad de empresas y
+funcionarios que asistieron a eventos de promoción comercial y recibieron algún tipo de
+capacitación comercial en los mismos fue lograda en un 36% ya que se lograron atender 1.308
+sobre una meta de 2.476 y en relación a una línea de base de 650. Estos eventos fueron
+financiados, mejorados y reorientados gracias al programa y sin él la capacitación recibida
+hubiese sido distinta, razón por la cual se considera que este cumplimiento parcial es atribuible
+al proyecto.
+El grado de satisfacción de beneficiaros PyMES con los servicios prestados fue de 95%,
+superándose la meta y refiriéndose directamente a los servicios del programa –razón por la cual
+la atribución del logro en este caso es directa. De mayor importancia quizás, es que la UEP logra
+verificar y reportar que gracias a los eventos de promoción comercial y específicamente a través
+de las ruedas de negocio de “matchmacking” entre compradores y proveedores, las ventas
+concretadas por las PyMES en los eventos de promoción comercial alcanzaron 73% de la meta
+prevista. Como ya fue mencionado, los mismos funcionarios de la UEP entrevistados piensan
+que este logro no se habría alcanzado sin la orientación y dimensión que el programa dio a estos
+eventos, por ende, consideramos que el logro es atribuible al programa.
+La literatura existente sobre el rol que cumplen las agencias de promoción de exportaciones e
+inversiones apoyando a las PyMES en estos procesos complementa el análisis de atribución al
+                                                - 12 -
+"
+"programa. Por ejemplo, en línea con lo que sostiene la literatura, a través del programa se
+suministró información sobre el proceso de exportación, los mercados internacionales, lo cual
+ayudó a atenuar los problemas de información imperfecta que enfrentaban las PyMES argentinas
+y como resultado se incrementaron sus ventas externas o la probabilidad de que esto ocurra
+ampliando no sólo los mercados sino los productos y servicios de exportación. En general, los
+servicios prestados por las agencias de promoción de exportaciones justamente apuntan a
+resolver problemas de información y fortalecer firmas exportadoras. El estudio de INT “Odisea
+en los mercados Internacionales”2 resume los resultados de las evaluaciones de impacto de los
+programas de dichas agencias similares a este en seis países de la región. Tales resultados
+indican consistentemente que la asistencia brindada por las agencias ha redundado en un
+mejoramiento del desempeño exportador de las empresas, especialmente de aquellas que son
+pequeñas y medianas y carecen de experiencia exportadora previa. Por ende, los logros en las
+actividades y productos, conjuntamente con la evidencia con la que contamos -la cual apunta a
+la efectividad de este tipo de intervención-, consideramos que los resultados observados son
+atribuibles al programa.
+Por último, para el Índice de Capacidad Institucional de la nueva Subsecretaria de Desarrollo de
+Inversiones se supera la meta –este índice mide: (i) la vinculación y desempeño de instituciones
+públicas respecto a los servicios e instrumentos de apoyo a los sectores productivos, y
+(ii) aspectos de gestión interna para la atracción de inversiones– y por ende también se cree que
+en ausencia del programa no se habría alcanzado este nivel.
+2.3             Eficiencia.
+En términos de eficiencia, y según el último PMR de la operación, la ejecución fue satisfactoria,
+y en base a esto la clasificación de eficiencia para el proyecto es de parcialmente insatisfactoria
+(según las Guías del PCR). Pero quisiéramos hacer un análisis de costo beneficio (CBA) para
+mostrar que la clasificación es en realidad satisfactoria.
+Existen una variedad de beneficios derivados de la ejecución del Programa, como lo es la
+reorientación prioritaria y mejor equipamiento del ejecutor. Pero, tratándose de un programa de
+fortalecimiento institucional estos beneficios son difíciles de cuantificar. Sin embargo, existe un
+beneficio ya monetizado específicamente el volumen de ventas concretadas por las PyMES en
+los eventos de promoción comercial mejorados. Como mejorar dichas ferias y eventos
+comerciales solamente era una de las intervenciones del Programa, sabemos que estamos
+monetizando solo uno de sus beneficios– y que existen otros que no se pueden cuantificar como
+el valor de reorientar el organismo ejecutor para bien del comercio internacional.
+Si se hace un flujo de caja sencillo considerando únicamente las ventas incrementales
+asociadas al resultado del volumen de ventas concretadas por PyMES en los eventos de
+promoción comercial apoyados por el proyecto que en la situación con -proyecto por año de
+US$16MM - ya que la línea de base era de US$10MM y el logro fue de US$26MM la diferencia
+de US$16MM se considera la venta incremental gracias al programa) a lo largo de 10 años
+encontramos que el beneficio neto es positivo –a una tasa de descuento del 12% con una TIR
+de 49%:
+ Tasa de Descuento                                             12%
+ Unidad: Millones de US$
+                                                                   Yr0    Yr 1    Yr2    Yr3    Yr4    Yr5    Yr6    YR7    Yr8    Yr9    Yr10
+ Ventas incrementales de Eventos de Promoción Comercial                        16     16     16     16     16     16     16     16     16      16
+ Costos                                                                -3    0.75   0.75   0.75   0.75   0.75   0.75   0.75   0.75   0.75    0.75
+ Beneficio Incremental Neto                                            -3  15.25   15.25  15.25  15.25  15.25  15.25  15.25  15.25  15.25   15.25
+      NPV                                               $86.17
+     MIRR                                                  49%
+2
+  Ver: https://publications.iadb.org/handle/11319/259) (ver también https://publications.iadb.org/handle/11319/3189?locale-
+attribute=en sobre el caso argentino y https://publications.iadb.org/handle/11319/3169?locale-attribute=en sobre el caso chileno).
+                                                                           - 13 -
+"
+"En este análisis hemos incluido costos reales anuales del desempeño de estas ferias (incluyendo
+alquiler del sitio y materiales) de los eventos de promoción comercial mejorados como existen
+después de la intervención tras una consulta con el ejecutor del costo promedio de este tipo de
+actividades que asciende alrededor de US$750.000, que podría considerarse alto (para ser
+conservadores).
+Además, hemos incluido en el análisis la totalidad de costo del programa de los US$3MM a
+pesar de que solo un 38% de esto iba destinado a mejorar las ferias de promoción comercial.
+Consideramos que este ejercicio es conservador sabiendo que hubo muchos otros beneficios del
+programa aparte de los eventos comerciales mejorados que ahora permiten concretar mayores
+ventas en ellos. Como se ve arriba, el VPN da positivo, así como también la tasa interna de
+retorno que se encuentra en 49%.
+Aún si consideráramos el riesgo de que las ferias no se lleven a cabo anualmente por tema de
+incertidumbre presupuestaria, hemos sensibilizado el análisis considerando que dichos eventos
+únicamente se dieran cada tercer año y aun así seguiría siendo positivo el VPN con una tasa de
+retorno de 36%. Al igual, si es que las ventas incrementales se dieran únicamente en un 50% del
+nivel medido (US$8MM) y solamente cada tres años, seguiría siendo positivo el VPN con una
+TIR de 26%.
+ Analisis de Sensibilidad I
+ Tasa de Descuento                                             12%
+ Unidad: Millones de US$
+                                                                   Yr0    Yr 1    Yr2   Yr3   Yr4    Yr5   Yr6   YR7    Yr8   Yr9   Yr10
+ Ventas incrementales de Eventos de Promoción Comercial                 0      16     0     0     16     0     0     16     0     0      16
+ Costos                                                                -3    0.75     0     0   0.75     0     0   0.75     0     0    0.75
+ Beneficio Incremental Neto                                            -3  15.25      0     0  15.25     0     0  15.25     0     0   15.25
+      NPV                                               $35.12
+     MIRR                                                  36%
+ Analisis de Sensibilidad II
+ Tasa de Descuento                                             12%
+ Unidad: Millones de US$
+                                                                   Yr0    Yr 1    Yr2   Yr3   Yr4    Yr5   Yr6   YR7    Yr8   Yr9   Yr10
+ Ventas incrementales de Eventos de Promoción Comercial                 0       8     0     0      8     0     0      8     0     0       8
+ Costos                                                                -3    0.75     0     0   0.75     0     0   0.75     0     0    0.75
+ Beneficio Incremental Neto                                            -3    7.25     0     0   7.25     0     0   7.25     0     0    7.25
+       NPV                                              $16.69
+     MIRR                                                  26%
+En base a este flujo de caja, y considerando que arroja un valor presente neto positivo, la
+eficiencia es considerada satisfactoria. Este es un ejemplo de cómo fortalecer al gobierno y
+mejorar un servicio brindado puede ayudar a generar mayores ingresos para sus empresas y
+para el país.
+El Programa contó con prórrogas para el último desembolso, debido a demoras en los plazos
+originales para alcanzar los objetivos, habida cuenta del impacto de los retrasos durante el inicio
+de ejecución y de los cambios de gobierno sobre el Programa. Específicamente, durante la
+ejecución del Programa se otorgaron 2 prórrogas acumulando un total de 21 meses de extensión.
+La última prórroga se otorgó en noviembre de 2016 por 9 meses para finalizar los compromisos
+asumidos en el marco del Programa (ver CSC/CAR 3497/2016).
+No obstante, el Programa no logró desembolsar la totalidad de los fondos previstos originalmente
+y al final fue cancelado el saldo sin desembolsar poco significativo. Se cancelaron
+US$275.599,48 que no fueron desembolsados (ver CSC/CAR 2569/2017), logrando un
+desembolso total de 91%.
+El saldo no desembolsado está asociado a: (i) demoras en la ejecución inicial del Programa que
+debilitaron la viabilidad de algunos productos; (ii) quita de algunas actividades y productos por el
+                                                                           - 14 -
+"
+"traslado de responsabilidades del MRECIC hacia otros organismos; y (iii) ejecución de acciones
+con fondos del MRECIC ya previstos.
+A continuación, se presentan los costos del Programa, por componente y fuente de
+financiamiento, y el cronograma de desembolsos.
+           Tabla 3 – Costo total del Programa según PMR (Progress Monitoring Report)
+ Productos                                                     2013         2014         2015        2016       2017        Costo
+ Componente 1: Fortalecimiento de los Sistemas de Gestión Operativa y de Inversiones en Infraestructura
+                                                       P       8,000.00
+ 1.1 Sistema de Gestión para Resultados en el SECIN implementado                0.00         0.00        0.00       0.00     8,000.00
+                                                       P(a)    8,000.00         0.00         0.00        0.00       0.00    45,000.00
+                                                       A      45,000.00         0.00         0.00        0.00       0.00    45,000.00
+ 1.2 Sistema de Administración Financiera con Módulo P        24,000.00         0.00         0.00        0.00       0.00    24,000.00
+ Multimonedas Implantado                               P(a) 24,000.00           0.00         0.00        0.00       0.00    50,000.00
+                                                       A      50,000.00         0.00         0.00        0.00       0.00    50,000.00
+ 1.3 Solución de Videoconferencias Adquirida           P           0.00 472,000.00           0.00        0.00       0.00   472,000.00
+                                                       P(a)        0.00 472,000.00           0.00   73,000.00       0.00   438,177.00
+                                                       A           0.00 365,177.00           0.00   70,696.79       0.00   435,873.79
+ 1.4 Equipamiento Informático Complementario           P           0.00 112,000.00           0.00        0.00       0.00   112,000.00
+ Adquirido                                             P(a)        0.00 112,000.00 211,928.00            0.00       0.00    50,383.35
+                                                       A           0.00    15,900.00    34,483.35        0.00       0.00    50,383.35
+ 1.5 Equipamiento y Solucines Informáticas             P           0.00         0.00         0.00        0.00       0.00         0.00
+                                                       P(a)        0.00         0.00 1,242,750.00 958,956.00 360,000.00 1,079,078.05
+                                                       A           0.00         0.00 505,405.00 213,673.05 1,004,482.00 1,723,560.05
+ 1.6 Programa de Infraestructura Formulado             P           0.00         0.00         0.00        0.00       0.00         0.00
+                                                       P(a)        0.00         0.00         0.00 139,303.00        0.00   139,303.00
+                                                       A           0.00         0.00         0.00        0.00       0.00         0.00
+ Componente 2: Fortalecimiento de la Capacidad Institucional del SCREI
+ 2.1 Enventos de Promoción Comercial Ejecutados        P     480,000.00 650,000.00 186,500.00            0.00       0.00 1,316,500.00
+                                                       P(a) 480,000.00 650,000.00 643,500.00 407,928.00 400,000.00 1,118,164.00
+                                                       A           0.00 224,774.00 493,390.00            0.00 182,243.19   900,407.19
+ 2.2 Eventos de Atracción de Inversiones Realizados    P           0.00 160,000.00 198,000.00            0.00       0.00   358,000.00
+                                                       P(a)        0.00 160,000.00 198,000.00 153,470.00       85,000.00   263,300.00
+                                                       A           0.00         0.00 178,300.00          0.00       0.00   178,300.00
+ Gastos Adminsitrativos y Otros
+ Gastos Adminsitrativos y Otros                        P      40,000.00 273,000.00 200,500.00            0.00       0.00   513,500.00
+                                                       P(a) 40,000.00 273,000.00 200,500.00 217,079.65         35,000.00   108,352.41
+                                                       A           0.00     3,108.00    34,726.00   35,518.01  89,511.98   162,863.99
+ Total
+ Costo Total                                           P     552,000.00 1,852,000.00 1,496,000.00        0.00       0.00 3,900,000.00
+                                                       P(a) 552,000.00 1,852,000.00 2,556,678.00 1,949,736.65 880,000.00 3,291,757.41
+                                                       A      95,000.00 608,959.00 1,246,304.35 319,887.85 1,276,237.17 3,546,388.37
+Nota: Los costos incluyen financiamiento del BID y la contraparte local, y deben ser consistentes con la información presentada en
+el último reporte de PMR. Si existe alguna inconsistencia entre los datos, el PCR será rechazado para su corrección.
+2.4         Sostenibilidad.
+a. Aspectos generales de sostenibilidad.
+El logro del Programa en términos de sostenibilidad es satisfactorio. Si bien se identifican riesgos
+menores para la continuación de los resultados, se prevé que el impacto de los riesgos
+identificados sea bajo. Se espera que los resultados asociados a los objetivos de desarrollo
+logrados se sostengan en el tiempo.
+                                                                  - 15 -
+"
+"La ejecución del Programa fue consistente con las prioridades gubernamentales en torno a la
+política exterior. La gestión operativa y financiera a cargo del MREC estuvo intrínsecamente
+asociada a su capacidad de acción en el entorno nacional e internacional. Asimismo, la
+promoción comercial, destinada principalmente a PyMES, y la atracción de inversiones son
+elementos clave de la política exterior del país y, por tanto, vulnerables a los cambios del entorno
+político-administrativo.
+En este marco, la sostenibilidad del Programa se considera viable toda vez que el Programa
+incluyó resultados y productos que contribuyeron a mejorar el tratamiento cotidiano de la gestión
+de la política exterior.
+Específicamente, la UEP adoptó medidas pertinentes para garantizar que los objetivos e
+impactos positivos de las actividades de desarrollo ejecutadas perduren más allá de la fecha de
+conclusión del Programa.
+Las actividades enmarcadas en el Componente 1 incluyen sistemas y equipos que contribuyen
+a mejorar la gestión operativa, administración financiera y manejo presupuestario por parte del
+MREC. Si bien algunas de estas actividades aportaron a un período acotado de tiempo, la
+implementación de la totalidad de estas acciones favorece la optimización de la gestión del
+MREC en el corto y mediano plazo.
+Las actividades del Componente 2 asociadas a la promoción comercial y la atracción de
+inversiones seguirán siendo implementadas tanto por el MREC como por otros organismos
+vinculados al comercio exterior. Específicamente en este punto, se destaca como una buena
+práctica que permitirá darle sostenibilidad al Programa, el establecimiento de una metodología
+de apoyo conjunto entre organismos del Estado (Cancillería y Ministerio de Producción a través
+de la AICI) dirigido a las pequeñas y medianas empresas (PyMES) para la selección de ferias
+comerciales y elegibilidad de firmas en las acciones de promoción comercial en el exterior. El
+éxito de este esquema se refleja en que la actual Agencia de Inversiones y Comercio
+Internacional continúa trabajando sobre la base de esta metodología. Asimismo, y en el marco
+de una situación de incertidumbre respecto de cómo se debía continuar con la asistencia a las
+empresas en su promoción comercial en el exterior, el Programa se constituyó en la única
+herramienta de apoyo durante los meses de transición de Gobierno de 2015-2016. Esta
+transición incluyó además la continuidad de funcionarios de la Fundación Exportar (Cancillería)
+en la AICI.
+Asimismo, el Programa prevé su sostenibilidad a partir de la incorporación de las actividades del
+Componente 1 a la formulación de un potencial nuevo Programa. En este sentido, el diseño de
+un nuevo préstamo de inversión facilitará la continuidad de los esfuerzos realizados,
+profundizando el fortalecimiento del MREC a partir de mejoras en términos de infraestructura y
+gestión operativa. El MREC ha solicitado a Jefatura de Gabinete de Ministros (JGM) y al
+Ministerio de Hacienda (MH) una Cooperación Técnica para apoyar la preparación de la nueva
+operación de préstamo que permita fortalecer los logros de la presente operación.
+En cuanto a los riesgos potenciales de sostenibilidad del Programa, se observa un riesgo
+institucional para la sostenibilidad en términos de coordinación eficiente de las acciones
+pertinentes, toda vez que el Programa está asociado a una interrelación de múltiples actores que
+ejecutan actividades de gestión operativa vinculada a la política exterior, de promoción comercial
+y atracción de inversiones. Este riesgo es mitigado por el Programa a partir de la conformación
+de la UEP al interior del OE. En este sentido, la UEP contó con la capacidad técnica suficiente
+para realizar un proceso de aprendizaje gradual en torno a la implementación de acciones de
+coordinación y monitoreo de resultados. La UEP logró implementar procedimientos de manera
+efectiva, identificar actores clave y articular la relación con estos, ejecutar actividades que
+permiten alcanzar los objetivos, y adaptarse a los cambios de contexto.
+                                                - 16 -
+"
+"A su vez, para mitigar los riesgos fiduciarios de sostenibilidad del Programa, la UEP ejecutó
+sustancialmente los montos de financiamiento previstos por el Programa. Si bien el cronograma
+de desembolsos debió adaptarse a los cambios observados durante la ejecución del
+Programa -cambios en las responsabilidades del MREC, en las autoridades del MREC, en las
+metas gubernamentales y entre actores asociados al Programa-, la UEP logró comprometer y
+ejecutar sustancialmente los recursos disponibles de forma eficiente. Específicamente, se orientó
+la ejecución del Programa en función de sus objetivos y resultados, implementando acciones
+conducentes al cumplimiento de las metas diseñadas, y ampliando el alcance de las actividades
+vigentes.
+En cuanto a la capacidad institucional, el Programa resultó una herramienta práctica para
+articular las prioridades del Gobierno Nacional en materia de política exterior con los intereses y
+necesidades de actores privados, especialmente PyMES. La UEP acumuló experiencia suficiente
+para desarrollar acciones de fortalecimiento institucional y de incorporación de PyMES al
+comercio internacional. En este marco, el Comité de Dirección del Programa facilitó la
+identificación de cuellos de botella, dificultades de ejecución y acciones claras para el alcance de
+los objetivos y resultados esperados.
+A su vez, la UEP se vio fortalecida gracias al aprendizaje de acciones de coordinación
+interinstitucional. Desarrolló documentos específicos, como la suscripción de acuerdos y la
+elaboración de manuales de procedimiento, y favoreció el desarrollo de reuniones de encuentro
+y complementación de conocimiento entre actores vinculados a las metas del Programa.
+b.       Salvaguardas ambientales y sociales.
+El Comité de Revisión de Medio Ambiente e Impacto Social clasificó el Programa como categoría
+C, no previéndose riesgos socioambientales. El Programa financió actividades que no presentan
+impactos directos negativos de índole social y medioambiental.
+III.     CRITERIOS NO CENTRALES.
+3.1      Desempeño del Banco.
+El Banco aportó su asistencia técnica a lo largo de toda la implementación, fue activo en apoyar
+acciones y recomendar mejoras que contribuyeron al impulso de la ejecución. El apoyo y el
+seguimiento fueron continuos, mediante visitas de supervisión, reuniones de seguimiento para el
+análisis, tratamiento y corrección de desvíos y de la mejora de la gestión. En particular, ante el
+retraso de la ejecución, se contrató a consultores para apoyar a la UEP en sus tareas y sugerir
+mejoras en su organización para acelerar la ejecución.
+3.2      Desempeño del Prestatario.
+El desempeño del Prestatario fue muy satisfactorio. Por intermedio de la UEP desempeñó sus
+funciones de forma coherente en función del contexto, los intereses del Gobierno Argentino, los
+requerimientos del Banco y las directrices del Contrato de Préstamo. Contó con un equipo de
+trabajo flexible y profesional, que supo adecuarse a las complejidades inherentes del Programa
+incorporando arreglos que no afectaron el alcance de objetivos de desarrollo propuestos.
+                                                 - 17 -
+"
+"IV.    HALLAZGOS Y RECOMENDACIONES.
+A continuación, se presentan las principales conclusiones y lecciones aprendidas del diseño e
+implementación del Programa. Estos conocimientos sirven como referencia para la preparación
+e implementación de operaciones en contextos similares.
+    •  Complementariedad de acciones para el fortalecimiento institucional. Los
+       Programas deben contemplar acciones de fortalecimiento institucional -con foco en las
+       capacidades institucionales- desde la etapa de diseño a fin de dar un apoyo integral a las
+       instituciones participantes que faciliten la coordinación y potencien sus vínculos
+       interinstitucionales durante la ejecución del mismo. El fortalecimiento institucional en este
+       Programa está asociado principalmente al desempeño, las capacidades, el equipamiento
+       y la infraestructura. El Programa previó mejoras en el desempeño en torno a la capacidad
+       de gestión del organismo intervenido. Con referencia a las capacidades, se consideró la
+       formación profesional y la incorporación de acciones de administración financiera,
+       elaboración de presupuestos y seguimiento de resultados. El equipamiento se centró en
+       la adquisición de sistemas y equipos que contribuyan a mejorar el entorno institucional y
+       la coordinación interinstitucional. Finalmente, las mejoras en torno a la infraestructura
+       fueron desestimadas durante la ejecución por un cambio de prioridades del Gobierno
+       Nacional.
+    •  Identificación del contexto político-económico. Es clave identificar que los programas
+       de fortalecimiento de la política y el comercio exterior están estrechamente vinculados al
+       contexto político de cada país. La experiencia de este Programa da cuenta de la
+       importancia de identificar de forma eficiente el contexto político-económico vigente y sus
+       posibles cambios durante la ejecución del Programa. A su vez, el OE debe contar con la
+       flexibilidad necesaria para anticiparse a posibles cambios. Se observa conveniente
+       agrupar acciones en pocos componentes que otorguen flexibilidad ante posibles desafíos
+       de ejecución.
+    •  Importancia de la experiencia institucional. Las Unidades Ejecutoras del Proyecto
+       deberían contar con un equipo con experiencia en proyectos con financiamiento
+       multilateral y con capacidad suficiente para lidera la implementación de desvíos, así como
+       la ejecución de acciones realizadas por distintos actores. Como se observó en el
+       Programa, el equipo de la UEP –con amplia experiencia en proyectos con financiamiento
+       multilateral - ejecutó el Programa de acuerdo con las responsabilidades asumidas en el
+       contrato de préstamo. Asimismo, se adecuó progresivamente a los cambios producidos
+       por el contexto político-económico y articuló de forma eficiente la relación con los actores
+       vinculados al Programa.
+    •  Capacidad del OE para articular actores. El desarrollo de programas asociados a la
+       política exterior requiere de habilidades y capacidades especificas por parte de la UEP
+       vinculadas al establecimiento de mecanismos de articulación entre la multiplicidad de
+       actores participantes, involucrados directa o indirectamente con el Programa. Si bien las
+       habilidades pueden estar vinculadas a aptitudes personales del líder de la UEP, resulta
+       clave – a fin de contribuir al desarrollo – el establecimiento de mecanismos formales de
+       coordinación que generen capacidades instaladas. La UEP logró un aprendizaje en este
+       sentido, suscribiendo acuerdos con entidades participantes y elaborando manuales de
+       procedimiento, tanto para los procesos de adquisiciones como para la implementación de
+       acciones vinculadas a los productos esperados.
+                                                - 18 -
+"
+"    •     Ejecución flexible y orientada a resultados. Los equipos de la UEP y del Banco
+          requieren de capacidades especificas a fin de dar continuidad a las acciones en contextos
+          políticos cambiantes. En este sentido, el Programa evidencia la necesidad de orientar la
+          ejecución al cumplimiento específico de las metas previstas. La experiencia y capacidad
+          de la UEP del Programa favoreció la implementación de desvíos que se adecuaron al
+          contexto y se focalizaron en el alcance de los objetivos y resultados del Programa. El
+          equipo del Banco acompañó los procesos de cambios institucionales aportando espacios
+          de discusión sobre los avances del proyecto e instancias de redefinición de metas y roles
+          de cada uno de los participantes de los equipos de la UEP en la medida que fue necesario.
+    •     Supervisión sectorial complementaria. El Programa también tuvo cambios por parte
+          de los equipos de supervisión del Banco, pasando de un equipo liderado por ICS a uno
+          liderado por INT. Manteniendo los objetivos y principales resultados del programa
+          inamovibles, el cambio de liderazgos permitió complementar las miradas sectoriales
+          desde un foco más orientado hacia los temas de fortalecimiento institucional (ICS) a uno
+          con mayor foco en los aspectos relacionados a la integración comercial (INT). Ambos
+          resultaron complementarios y se vieron reflejados en el buen avance de la ejecución de
+          los dos principales componentes de la operación.
+    •     Fortalecimiento del esquema de seguimiento y evaluación. Es clave medir los efectos
+          de las diferentes acciones a fin de identificar impactos que contribuyan al desarrollo de
+          nuevas estrategias efectivas asociadas al comercio exterior. Las dificultades asociadas
+          al Programa y los desvíos experimentados evidencian la necesidad de contar con
+          esquemas integrales de seguimiento de procesos y resultados (a través de metodologías
+          de monitoreo y evaluación de una gestión basada en resultados), así como con una
+          efectiva implementación de auditorías que permitan mejorar la ejecución de cada
+          programa.
+4.1       Dimensiones.
+El cuadro a continuación sintetiza las principales recomendaciones presentadas en la sección
+anterior, considerando: (i) el diseño del Programa (ii) el proceso de ejecución; y (iii) el seguimiento
+y monitoreo de resultados.
+                            Tabla 5 - Hallazgos y recomendaciones
+            Hallazgos                                             Recomendaciones
+  Diseño del Programa
+                                Fortalecer el diagnóstico del contexto político-económico y contemplar riesgos
+                                potenciales y posibles cambios durante la ejecución del Programa.
+  Consistencia de la lógica
+  vertical del Programa         Agrupar acciones en pocos componentes que otorguen flexibilidad ante posibles
+                                desafíos de ejecución..
+                                Incorporar actividades complementarias de fortalecimiento institucional a fin de
+                                fortalecer la coordinación interinstitucional
+  Ejecución del Programa
+  Alto nivel de ejecución pese  Orientar la ejecución a los objetivos de desarrollo específicos y resultados del
+  a cambios de contexto.        Programa.
+                                                        - 19 -
+"
+"                             Contar con equipos de la UEP y del Banco con capacidades específicas vinculadas
+                             a la gestión de riesgos, a fin de dar continuidad a las acciones del Programa en
+                             contextos políticos cambiantes.
+                             Contar con un equipo con capacidad técnica y experiencia en proyectos con
+                             financiamiento multilateral.
+Seguimiento y monitoreo de resultados
+Retrasos en la ejecución
+inicial     asociados     a
+                             Fortalecer los mecanismos de seguimiento y monitoreo para identificar impactos
+dificultades en la medición
+                             adicionales asociados al Programa.
+de       resultados     del
+Programa.
+                                                     - 20 -
+"
+"V. ANEXOS
+          - 21 -
+"
+"Anexo I – Satisfacción de los beneficiarios PyMES con los servicios prestados por
+funcionarios SCREI.
+    I.     ACTIVIDADES DE PROMOCIÓN AÑO 2015.
+ Nombre de la feria /            Sector                 Lugar         Fecha        Documentos
+       evento
+ MECANICA 2015        Industria            metal-   San    Pablo,  mayo 2015   Informe final
+                      mecánica.                     Brasil
+ FISPAL Tecnología    Maquinaria             para   San    Pablo,  junio 2015  Informe final
+ 2015                 procesamiento              y  Brasil
+                                                                               Encuestas
+                      envasado de alimentos y
+                      bebidas.
+ ESCOLAR              Productos              para   San    Pablo,   julio 2015 Informe final
+ OFFICE 2015          papelerías,       librerías,  Brasil
+                                                                               Encuestas
+                      oficinas y escuelas.
+ CONSTRUSUL           Construcción                  Novo          agosto 2015  Informe final
+ 2015                                               Hamburgo,
+                                                                               Encuestas
+                                                    Brasil
+ EXPOAGAS 2015        Empresas que abastecen        Porto Alegre, agosto 2015  Informe final
+                      a los supermercados.          Brasil
+                                                                               Encuestas
+ CRAFT & DESIGN       Industrias creativas          San    Pablo, Agosto 2016  Informe final
+ 2015                                               Brasil
+                                                                               Encuestas
+ SUPERMINAS                                         Belo          Octubre 2015 Informe final
+ 2015                                               Horizonte,
+                                                                               Encuestas
+                                                    Brasil
+ PARTE Feria de       Industrias       creativas:   San    Pablo,  Noviembre   Informe final
+ Arte                 galerías y atelieres de       Brasil             2015
+                                                                               Encuestas
+ Contemporánea        arte contemporáneo.
+ FIMAI   Ecomondo     Empresas de consultoría       San    Pablo,  noviembre   Informe final
+ 2015                 y prestación de servicios     Brasil             2015
+                                                                               Encuesta 1
+                      en       los      sectores
+                      vertederos,                                              Encuesta 2
+                      incineradores, inventario
+                      de              emisiones;
+                      cooperativas de reciclaje;
+                      laboratorios ambientales;
+                      sector de equipamientos.
+ Feria Nacional de    Artesanías.                   Belo           Diciembre   Informe final
+ Artesanías - FNA                                   Horizonte,         2015
+                                                                               Encuestas
+ 2015                                               Brasil
+                                                   - 22 -
+"
+"  II.       ACTIVIDADES DE PROMOCIÓN AÑO 2016.
+Nombre de la feria           Sector                Lugar         Fecha         Documentos
+      / evento
+FAUBAI 2016        Educación superior           Fortaleza,    Abril 2016   Informe final
+                                                Brasil
+                                                                           Encuestas
+HOSPITALAR         Servicios, equipamento y     San Pablo,    Mayo 2016    Informe final
+2016               tecnologia             para  Brasil
+                                                                           Encuestas
+                   hospitales, laboratórios,
+                   farmácias, clínicas.
+ART RIO 2016       Arte contemporáneo           Rio      de  Septiembre-   Informe final I
+                                                Janeiro,     octubre 2016
+                                                                           Informe final II
+                                                Brasil
+                                                                           Encuestas I
+                                                                           Encuestas II
+AAPEX 2016         Autopartismo                 Las Vegas,  Noviembre 2016 Informe final
+                                                Estados
+                                                                           Encuestas
+                                                Unidos
+Hong Kong Wine     Bodegas                      Hong        Noviembre 2016 Informe final
+and Spirits 2016                                Kong,
+                                                                           Encuestas
+                                                China
+PARTE 2016         Industrias creativas: arte.  San Pablo,  Noviembre 2016 Informe final
+                                                Brasil
+                                                                           Encuestas
+                                               - 23 -
+"
+"Anexo II – Ventas concretadas por las PyMEs en los eventos de promoción comercial.
+                                          - 24 -
+"
+"Anexo III – Matriz de Productos del Programa.
+                                                          Valor de  Año de
+                                          Unidad de                                Metas y
+               Producto                                   Línea de línea de                   % Alcanzado           Medios de verificación
+                                            Medida                               alcance real
+                                                            base     base
+ Componente 1
+ 1.1. Sistema de Gestión para                                                   P      1
+ Resultados en el SECIN                       Plan             0                P(a)   1      100%
+ implementado.                                                                  A      1
+ 1.2. Sistema de Administración                                                 P      1
+ Financiera con módulo                      Sistema            0                P(a)   1      100%
+ multimonedas implementado.                                                     A      1
+                                                                                P      1
+ 1.3. Solución de videoconferencia
+                                          Soluciones           0                P(a)   1      100%
+ adquirida.
+                                                                                A      1
+                                                                                P      1
+ 1.4. Equipamiento informático
+                                         Equipamiento          0                P(a)   5      100%
+ complementario adquirido.
+                                                                                A      5
+                                                                                P      0                  Producto incorporado en el reporte PMR
+                                                                                P(a)   3                  julio-diciembre 2014. En el sistema se
+                                                                                                          indica lo siguiente: “Metas acordadas en
+ 1.5. Equipamiento y soluciones            Equipos y                                                      la planificación anual del programa por el
+                                                               0                              100%
+ informáticas.                             sistemas                                                       equipo de proyecto de acuerdo a las
+                                                                                A      3
+                                                                                                          necesidades de fortalecimiento del
+                                                                                                          Ministerio de Relaciones Exteriores y
+                                                                                                          Culto”.
+                                                                                P      0                  Producto incorporado en el reporte PMR
+ 1.6. Programa de infraestructura
+                                            Estudio            0                P(a)   1      0%          julio-diciembre 2015.
+ formulado.
+                                                                                A      0
+ Componente 2
+                                                                                P      18
+ 2.1. Eventos de promoción
+                                            Eventos            0                P(a)   25     100%
+ comercial ejecutados.
+                                                                                A      25
+                                                                                P      5
+ 2.2. Eventos de atracción de
+                                            Eventos            0                P(a)   8      100%
+ inversiones realizados.
+                                                                                A      8
+Donde: P = Planificado; P (a) = Objetivo anual revisado; A = real
+                                                                         - 25 -
+"
+"Algunos de los productos del Componente 1 fueron desestimados al inicio de la ejecución del Programa debido a la demora ocurrida
+entre la aprobación del préstamo por parte del Directorio Ejecutivo del Banco y la suscripción del Contrato, y los cambios institucionales
+en la Administración Pública Nacional. Los productos desestimados fueron: el diseño del Plan plurianual de inversión, la propuesta de
+proyecto para la ejecución de la continuidad del Programa y la digitalización de la Base de datos de infraestructura. Se adicionaron al
+Componente 1, la adquisición de una solución de videoconferencia y de equipamiento informático complementario.
+En el caso del Componente 2, también se desestimaron algunos productos de los originalmente planeados. Los productos
+desestimados fueron: (i) el Sistema de Gestión para Resultados en la ex Secretaría de Comercio Exterior y Relaciones Económicas
+Internacionales, (ii) el diagnóstico sobre obstáculos de exportación para las PyMES, (iii) el Programa anual de promoción comercial y
+de inversiones, y (iv) el diseño y ejecución de planes de Negocio.
+                                                                  - 26 -
+"

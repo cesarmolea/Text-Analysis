@@ -1,0 +1,1097 @@
+"outlist[[i]]"
+"Puntaje del Comportamiento del proyecto en PMRs:
+  No.              Fecha PMR                   Etapa de PMR                              Desembolsos
+                                                                                        reales (millones
+                                                                                            de USD)
+  1     Enero-Diciembre 2013                          2           Satisfactorio          65.910.123,84
+  2     Enero-Diciembre 2014                          2           Satisfactorio          61.864.395,99
+  3     Enero-Diciembre 2015                          2           Satisfactorio          75.617.524,35
+  4     Enero-Diciembre 2016                          2           Satisfactorio          60.356.303,94
+  5     Enero-Diciembre 2017                          3           Satisfactorio          86.251.651,88
+METODOLOGÍA DE ANÁLISIS ECONÓMICO EX POST: ANÁLISIS COSTO-BENEFICIO
+METODOLOGÍA DE EVALUACIÓN EX POST: CUASI-EXPERIMENTAL (DIFERENCIAS EN DIFERENCIAS)
+CLASIFICACIÓN DE EFECTIVIDAD DEL DESARROLLO: PARCIALMENTE SATISFACTORIO
+STAFF DEL BANCO
+                     POSICIONES          EN PCR                        EN APROBACIÓN
+               VICE PRESIDENT VPS        SANTIAGO LEVY                 SANTIAGO LEVY
+               VICE PRESIDENT VPC        ALEXANDRE MEIRA DA            ROBERTO VELLUTINI
+                                         ROSA
+               COUNTRY MANAGER           VERÓNICA ZAVALA               GINA MONTIEL
+               SECTOR MANAGER            MARCELO CABROL                KEI KAWABATA
+               DIVISION CHIEF            FERDINANDO REGALIA            FERDINANDO REGALIA
+               COUNTRY REP               TOMÁS BERMUDEZ                MERCEDES ARAOZ
+               PROJECT TEAM LEADER       IGNEZ TRISTAO                 RICARDO PÉREZ CUEVAS
+               PCR TEAM LEADER           IGNEZ TRISTAO                 RICARDO PÉREZ CUEVAS
+Tiempo y Costo del Staff
+  Etapa del Ciclo de Proyecto         # de semanas del staff            USD (incluyendo viajes y
+                                                                        costos de consultores)
+  Preparation                                      37.20                           189.027,55
+  Supervision                                     121.01                           483.204,81
+  Total                                           158.21                           672.232,36
+DESCRIPCIÓN DE LOS OBJETIVOS DE DESARROLLO DEL PROYECTO/PROGRAMA:
+El objetivo del proyecto es contribuir a acelerar la reducción de la mortalidad neonatal y post-neonatal,
+mediante el aseguramiento del financiamiento y acceso efectivo a servicios de salud de calidad, y el
+fortalecimiento del papel rector de la Secretaría de Salud (SS), a través de su organismo desconcentrado
+la Comisión Nacional de Protección Social en Salud (CNPSS), con el fin de mejorar el estado de salud
+de los niños y niñas menores de 5 años sin acceso a la seguridad social.
+                                                      iv
+"
+"                                                I. INTRODUCCIÓN
+1.1    El proyecto Creciendo Sanos, Mejorando la Salud de la Niñez Mexicana, fue aprobado por
+       el directorio del Banco el 1º de noviembre de 2012 para acelerar la reducción de las tasas
+       de mortalidad de recién nacidos (neonatal) y menores de un año (infantil), y contribuir a
+       mejorar su estado de salud.
+1.2    En el país, entre 1980 y 2008 la mortalidad neonatal disminuyó de 15,7 a 9,6 por 1.000
+       nacidos vivos1 (NV), y entre 2000 y 2015, la tasa de mortalidad infantil descendió´ de 17 a
+       13 por cada 1.000 NV. No obstante, el descenso de las tasas de mortalidad neonatal e
+       infantil ha sido asimétrico en las diferentes regiones del país, indicando desigualdades en
+       acceso a servicios de salud y debido a las diferencias socioeconómicas e inequidades
+       prevalentes en los estados.
+1.3    La mitad de las muertes neonatales ocurren durante el trabajo de parto, el parto y en las
+       primeras 24 horas de edad, principalmente por prematurez (28%), infecciones (26%),
+       asfixia (23%) y malformaciones congénitas (8%)2. Las muertes infantiles ocurren
+       principalmente por infecciones (neumonía y complicaciones de diarrea) y accidentes. Son
+       varios los factores de riesgo de mortalidad en estos grupos de edad, pero parte está
+       determinado por el acceso oportuno a la atención médica de calidad y a la coordinación
+       de los mecanismos de referencia entre los diferentes niveles de atención3.
+1.4    Las políticas de salud en el país para los menores de cinco años, al igual que para la
+       población general, se han centrado en incrementar el financiamiento para servicios de
+       salud y a mejorar y modernizar los programas de prevención y promoción de la salud. En
+       este contexto, en 2003 el gobierno federal inició el Sistema de Protección Social en Salud
+       (SPSS), conocido como Seguro Popular, diseñado para financiar los servicios de salud
+       con fondos públicos para la población sin seguridad social, y con la intención de proteger
+       a las familias más pobres (los primeros cinco deciles de ingresos y más expuestos a sufrir
+       gastos catastróficos en la atención de salud). En la práctica, el Seguro Popular se
+       constituyó como un instrumento esencialmente no contributivo y de afiliación voluntaria.
+       Este seguro inició con dos componentes, el Catálogo Único de Servicios de Salud que
+       financia acciones de atención primaria y hospitalaria básica (CAUSES)4 y el Fondo de
+       Protección contra Gastos Catastróficos, que financia enfermedades de alto costo y baja
+       prevalencia (por ejemplo, cáncer, VIH-Sida)5.
+1.5    El Plan Nacional de Desarrollo 2007 – 2012 trazó como una de las estrategias para evitar
+       el empobrecimiento de la población por motivos de salud, el consolidar un sistema
+       integrado de salud, destacando el papel del Seguro Médico para una Nueva Generación
+       (SMNG) para “…garantizar la cobertura completa y de por vida en servicios de salud a los
+ 1  Secretaría de Salud, Subsecretaría de Prevención y Promoción de la Salud, Dirección General de Epidemiología,
+    2010, “Panorama Epidemiológico y Estadístico de la Mortalidad en México”, Secretaría de Salud.
+ 2  Organización Mundial de la Salud (OMS), 2015, “Informe Mundial de la Salud”, OMS,
+ 3  Fondo de las Naciones Unidad para la Infancia (UNICEF), 2016, “Estado Mundial de la Infancia, Una oportunidad
+    para cada niño”, UNICEF, https://www.unicef.org/spanish/publications/files/UNICEF_SOWC_2016_Spanish.pdf.
+ 4  El CAUSES financia la atención primaria y secundaria de salud de los afiliados, cubriendo 1.400 diagnósticos y
+    sus intervenciones relacionadas con actividades de tipo preventivo, diagnóstico, terapéutico, paliativo y de
+    rehabilitación. También incluye la provisión de medicamentos y la realización de exámenes de laboratorio y
+    gabinete.
+ 5  El FPGC financia servicios de alta especialidad para padecimientos de alto costo y baja prevalencia, entre los
+    cuales están: cuidados intensivos neonatales, prematurez, sepsis, síndrome de dificultad respiratoria, y trastornos
+    quirúrgicos congénitos y adquiridos (por ejemplo, malformaciones congénitas cardíacas).
+                                                         1
+"
+"        niños nacidos a partir del 1 de diciembre de 2006. En 2013, el nombre del SMNG cambió
+        a Seguro Médico Siglo XXI (SMSXXI).
+1.6     La forma de operar del SMSXXI es a través de (1) la transferencia de 210 pesos anuales
+        a las entidades federativas por cada niño menor de cinco años, cuya familia se incorpore
+        al Sistema y que no haya disfrutado antes de este beneficio, y (2) por el pago de
+        intervenciones cubiertas por este seguro; la cuales están definidas en las reglas de
+        operación del programa (ROP). La transferencia, o cápita adicional, tiene como propósito
+        apoyar la sobredemanda de servicios en primer nivel de atención, originada
+        potencialmente por la mayor concentración de nuevas familias afiliadas con recién nacidos
+        al Sistema, y por sus requerimientos de atención durante el primer año de vida -en especial
+        durante los primeros 28 días de vida. Las intervenciones cubiertas por el SMSXXI son
+        acciones de segundo y tercer nivel de atención de los niños, que no están contempladas
+        en el CAUSES ni en el FPGC. Estas acciones se cubren mediante el reembolso de cada
+        intervención realizada a los beneficiarios del SMSXXI, en la red de prestadores de
+        servicios de salud en todo el país. El monto que cubrir por cada una de estas
+        intervenciones se determina conforme a las tarifas del tabulador establecido por la
+        Comisión Nacional de Protección Social en Salud (CNPSS)6.
+1.7     A seis años de operación del SMNG, las evaluaciones del Seguro identificaron prioridades
+        y elaboraron diversas recomendaciones para disminuir la mortalidad neonatal y de los
+        menores de 1 año. Las recomendaciones se orientaron a mejorar el acceso y calidad de
+        servicios en las etapas preconcepcional, durante el embarazo, el parto y la etapa posterior
+        al parto, hasta los 28 días7,8,9. Dentro de los principales hallazgos se destacó la necesidad
+        de (1) cerrar las brechas de atención de los servicios de salud a través del aumento en la
+        cobertura en zonas rurales; (2) promover el acceso a servicios de salud de alta calidad
+        mediante la utilización de guías de práctica clínica, y la disponibilidad de insumos, equipo
+        y personal de salud capacitado para acciones específicas; y (3) fortalecer la atención
+        preventiva y curativa, además de la capacitación a la madre en el cuidado del recién
+        nacido, alimentación inmediata y exclusiva al seno materno durante los primeros 6 meses
+        de edad, atención a consulta preventiva para la aplicación de vacunas, vigilancia del
+        crecimiento, y desarrollo que incluía estimulación temprana.
+1.8     Estas recomendaciones, más las aportaciones de los directivos del Seguro Popular y del
+        SMNG, las reglas de operación y las políticas nacionales de atención a la salud materna
+        e infantil sirvieron como plataformas para diseñar el proyecto “Creciendo Sanos:
+        Mejorando la Salud de la Niñez Mexicana”. Sus objetivos eran contribuir a mejorar el
+        estado de salud de los niños menores de 1 año, enfocando los esfuerzos en acelerar la
+        reducción de la mortalidad neonatal y post-neonatal. Además, buscaba asegurar el
+ 6  Estos tabuladores pueden encontrarse en los Anexos 1 de las Reglas de Operación del Programa. Para aquellos
+    casos que no tienen un tabulador asociado, la tarifa es como máximo la cuota de recuperación del tabulador más
+    alto aplicable a la población sin seguridad social que tenga la institución que haya realizado la intervención.
+ 7  Muñoz-Hernández O, Chertorivski-Woldenberg S, Cortés-Gallo G, Pérez-Cuevas R. The Medical Insurance for a
+    New Generation: a viable answer for the health needs of Mexican children. Salud Publica Mex 2012;54 suppl 1:
+    S3-S10.
+ 8  Pérez-Cuevas R, Muñoz-Hernández O, Rodríguez-Ortega E, Jasso-Gutiérrez L, Flores-Huerta S, Durán-Arenas
+    L, Pasillas-Torres M, Garduño-Espinosa J, Cortés-Gallo G. Design of the 2009 evaluation of the Medical Insurance
+    for a New Generation program. Salud Publica Mex 2012;54 suppl 1: S11-S19.
+ 9  Pérez-Cuevas R, Doubova SV, Flores-Hernández S, Muñoz-Hernández O. Utilization of healthcare services
+    among children members of Medical Insurance for a New Generation. Salud Publica Mex 2012;54 suppl 1:
+    S28-S41.
+                                                            2
+"
+"    financiamiento y acceso efectivo a servicios de salud de calidad, y fortalecer el rol rector
+    de la Secretaría de Salud (SS), a través de la CNPSS como organismo especializado.
+                   II. CRITERIOS CENTRALES, DESEMPEÑO DEL PROYECTO
+A.  Relevancia
+      a. Alineación con las Necesidades de Desarrollo del País
+2.1 El proyecto ME-L1128, o Creciendo Sanos, se alineó con el Plan Nacional de Desarrollo
+    2007-2012 al promover acciones de prevención en salud. En particular, el Eje 3 del Plan,
+    “Igualdad de oportunidades”, señalaba en la estrategia 3.4.3 el incluir a las instituciones
+    de los distintos órdenes de gobierno en la prevención de enfermedades. Asimismo, en la
+    estrategia 3.6.1 señala la importancia de promover la salud materna y perinatal. Por otro
+    lado, el proyecto estaba alineado con los objetivos del SNPSS: (i) incrementar el gasto
+    público en salud, (ii) estimular la eficiencia en la asignación, (iii) proteger financieramente
+    a las familias reduciendo sus gastos de bolsillo y catastróficos y (iv) transformar los
+    incentivos del sistema desde la oferta hacia la demanda. Asimismo, el proyecto es
+    congruente con los siguientes cinco objetivos del Programa Sectorial de Salud 2007-2012:
+    (1) mejorar las condiciones de salud de la población, (2) reducir las brechas o
+    desigualdades en salud mediante intervenciones focalizadas en grupos vulnerables y
+    comunidades marginadas, (3) prestar servicios de salud con calidad y seguridad, (4) evitar
+    el empobrecimiento de la población por motivos de salud, y (5) garantizar que la salud
+    contribuya al combate a la pobreza y al desarrollo social del país. En particular, el proyecto
+    ME-L1128 Creciendo Sanos se alinea estratégicamente con los objetivos 2,3 y 4. Además,
+    responde a la estrategia 6 dirigida a garantizar recursos financieros suficientes para llevar
+    a cabo las acciones de protección contra riesgos sanitarios y promoción de la salud, y
+    contribuye directamente a la línea de acción 7.1 referente al establecimiento del SMNG
+    para incorporar a todos los niños no beneficiarios de la seguridad social al SPSS.
+      b. Alineación Estratégica
+2.2 El proyecto estuvo alineado con la actualización de la Estrategia Institucional (UIS, según
+    sigla en inglés) 2010-2020 (AB-3008), al alinearse estratégicamente con los desafíos de
+    inclusión social e igualdad a través de la promoción del acceso a servicios de salud de
+    calidad a la población vulnerable. También contribuyó la prioridad de financiamiento
+    Noveno Aumento General de Recursos del BID GCI-9 (AB-2764), contribuyendo al
+    incremento en el acceso a servicios de salud mediante el apoyo a beneficiarios de salud.
+    El proyecto se enmarcó en la Estrategia para una Política Social Favorable a la Igualdad
+    y la Productividad (GN-2588-4), al aumentar el acceso de menores de 5 años a servicios
+    de salud y contribuir a reducir la mortalidad infantil. Además, la operación también fue
+    consistente con el Documento de Marco Sectorial de Salud y Nutrición (GN-2735-7), al
+    financiar estrategias que promueven el acceso a servicios de salud y nutrición de alta
+    calidad, de manera oportuna y continua. Asimismo, el proyecto contribuyó al objetivo de la
+    Estrategia del Banco con el País 2010-2012 (GN-2595) al fortalecer e integrar las acciones
+    de mejorar el acceso a la protección social, principalmente para los hogares en pobreza.
+    Además, está alineado con la Estrategia de País del Grupo BID con México 2013-2018
+    (GN-2749), al fortalecer e integrar las acciones de promoción de la salud, prevención y
+    control de enfermedades, y hacer efectivo el acceso universal a los servicios de salud.
+                                                 3
+"
+"          c. Relevancia del Diseño
+2.3     La atención a la salud de los menores de cinco años es una prioridad en la agenda de
+        salud. Este grupo de edad representa 10% de la población total (aproximadamente
+        12 millones), y para el sistema de salud nacional repercute en la obligación de atender una
+        demanda elevada de servicios de salud. La tasa de fertilidad en México es de 2,3 hijos
+        nacidos vivos de mujeres en edad reproductiva10. Además, en el país ocurren 2,4 millones
+        de nacimientos al año, de los cuales, 95% es atendido por personal profesional, y poco
+        más de la mitad de estos nacimientos son atendidos en hospitales de la SS11. Estas cifras
+        dan cuenta de la magnitud de los servicios de salud que este grupo de población requiere.
+        Desde el período prenatal y hasta los cinco años, los niños y niñas deben recibir atención
+        preventiva, curativa y de rehabilitación de forma que mantengan un buen ritmo de
+        crecimiento y desarrollo; con lo cual se determina su resiliencia a factores de riesgo y
+        estado de salud en etapas posteriores.
+2.4     Creciendo Sanos se fijó dos objetivos. El primero, contribuir a mejorar el estado de salud
+        de los niños menores de un año (componente 1), y se mediría a través de la reducción de
+        la mortalidad neonatal e infantil en México (indicadores de impacto 1.1 y 1.2,
+        respectivamente), que se daría a través de la disminución de las tasas de mortalidad
+        neonatal de niños atendidos por el FPGC (indicador de resultado final 1.2) y de niños
+        atendidos por el SMSXXI (indicador de resultado final 1.3). Además, estas tasas de
+        mortalidad se contrastarían con la tasa de mortalidad neonatal de la gente sin cobertura
+        (indicador de resultado final 1.1). A su vez, la reducción de estas tasas de mortalidad se
+        daría por el aumento de la cobertura del SMSXXI y el FPGC y, en consecuencia, por el
+        incremento del número de niños atendidos (resultados intermedios).
+2.5     Estas metas se alcanzarían mediante el financiamiento de dos tipos de producto:
+        intervenciones de alto impacto (subcomponente 1.1) y talleres de educación familiar para
+        la promoción del desarrollo en el primer año de vida (subcomponente 1.2). Por parte del
+        banco, se financiarían 10 intervenciones de mayor frecuencia y costo, y 5 de mayor
+        mortalidad. Estas 15 intervenciones representaban 65% del gasto total del SMNG. La
+        contraparte financiaría el conjunto de intervenciones cubiertas por el FPGC. Los talleres
+        tenían como propósito promover la lactancia materna, prevenir la muerte de cuna,
+        promover el desarrollo cognitivo en los primeros años de vida, y contribuir a mejorar el
+        estado de salud de los menores. Para el desarrollo de estos talleres la contraparte
+        financiaría talleres de capacitación tanto para capacitadores que formarían al personal de
+        salud, como para personal de salud que, a su vez, trabajaría con las madres de los recién
+        nacidos.
+2.6     El objetivo 2, asegurar el financiamiento y acceso efectivo a servicios de salud a través del
+        fortalecimiento de del rol rector y financiador de la CNPSS de Salud (componente 2),
+        facilitaría el logro de los resultados del Proyecto, a través de la asistencia y capacitación
+        con cargo a la contrapartida para (i) fortalecer el sistema de afiliación y operación,
+        (ii) mejorar la gestión del flujo de recursos del SMNG a los prestadores de servicios, y
+        (iii) promover la calidad de la atención mediante la revisión y mejora de los protocolos de
+        atención y la gestión de un sistema de supervisiones técnicas del cumplimiento de dichos
+        protocolos. Estas actividades se medirían a partir de los nuevos nacimientos afiliados de
+        familias no cubiertas, el número de tratamientos otorgados y no facturados inicialmente,
+10  Instituto    Nacional     de    Estadística     y    Geografía     (INEGI).    Natalidad  y    Fecundidad.
+    http://www.beta.inegi.org.mx/temas/natalidad/ fecha de consulta 10 de nov, 2017.
+11  Dirección General de Información en Salud. Nacimientos. Cubos dinámicos. Secretaría de Salud.
+    http://www.dgis.salud.gob.mx/contenidos/basesdedatos/bdc_nacimientos.html fecha de consulta 10 nov, 2017.
+                                                         4
+"
+"        pero que pasan a serlo; y por visitas de verificación a entidades federativas. Además, se
+        financiaría la evaluación de impacto del programa.
+2.7     La aprobación del proyecto coincidió con el cambio de gobierno en México; por lo que
+        durante el taller de arranque se hicieron modificaciones a la matriz de resultado a solicitud
+        de la nueva administración. Estos cambios respondieron principalmente a la eliminación
+        del financiamiento de las intervenciones cubiertas por el FPGC, y de los talleres de
+        educación familiar, en relación con el objetivo 1; y a la modificación de los productos del
+        objetivo 2.
+2.8     El subcomponente 1.1 se redefinió como Fortalecimiento del SMSXXI, a través del cual el
+        BID financiaría atenciones de segundo y tercer nivel para niños menores de 5 años; en
+        particular, intervenciones (manejo médico diagnóstico y terapéutico) de alto impacto para
+        prevenir la muerte neonatal y post-neonatal12. Al mismo tiempo, la contrapartida para
+        financiar las intervenciones del FPGC se eliminó. Por otro lado, el subcomponente 1.2 se
+        reconfiguró al suspender los talleres de educación familiar, y tomar como contrapartida el
+        financiamiento de intervenciones del SMSXXI adicionales a las que se estaban financiando
+        a través del BID. Asimismo, se incluyó la contratación de consultorías con instituciones
+        académicas para realizar las evaluaciones establecidas en las ROP del programa. Con
+        ello, se agregaron a la matriz de resultados el indicador final de tasa de mortalidad para
+        niños de 29 días a 5 años del SMSXXI (1.4), y tres resultados intermedios: el porcentaje
+        de cobertura del Seguro Popular en neonatos (2.1), el porcentaje de nacimientos
+        prematuros del Seguro Popular financiados por el FPGC (2.2), y el porcentaje de cobertura
+        del Seguro Popular en nuevos afiliados (2.3). Además, se movió uno de los indicadores
+        de producto, la cantidad de neonatos atendidos y financiados por el FPGC (2.4) como
+        indicador intermedio. En términos de producto, se eliminaron los capacitadores
+        capacitados y el personal de hospitales capacitados.
+2.9     Por otro lado, el objetivo 2 se reorganizó en dos subcomponentes: aseguramiento del
+        financiamiento de los servicios de salud (2.1) y fortalecimiento institucional (2.2). El
+        subcomponente 1.1 conservó la asistencia y capacitación para los tres temas referidos en
+        el párrafo 2.6. El subcomponente 2.2 buscó mejorar el diseño organizacional del programa
+        y modernizar y optimizar los procesos institucionales para lograr una mayor eficiencia y
+        efectividad. Esto se lograría a través de: (i) mejoras de los sistemas de información,
+        (ii) mejoras en la vigilancia, control, evaluación, seguimiento y monitoreo del ejercicio del
+        gasto y la aplicación de los recursos en los estados; y (iii) mejoras del marco normativo y
+        regulatorio del SMSXXI. Además, como productos adicionales a la evaluación de impacto,
+        se agregó una evaluación de procesos para la identificación que guardaba la cobertura en
+        materia de intervenciones, una evaluación de gestión de calidad y una evaluación de
+        gestión del flujo de recursos. Todo el componente siguió siendo financiado por la
+        contraparte.
+2.10 Estas modificaciones respondieron principalmente a las prioridades del nuevo gobierno, lo
+        cual incidió en el recorte presupuestal que enfrentó el SMSXXI y el Seguro Popular. De
+        hecho, entre el contrato original y el modificatorio, la aportación local se redujo 94%, al
+        pasar de US$465 millones a US$28,3 millones. En lo que concierne al objetivo 2, el ajuste
+        en los productos se dio en virtud de una mejor concordancia con la lógica del proyecto,
+        priorizando la identificación de los procesos de mejora a través de estudios de diagnósticos
+        y evaluaciones. Más adelante, y nuevamente por razones presupuestarias, durante la
+        misión de administración del 25 de enero de 2016 el gobierno solicitó la cancelación parcial
+12  Estas intervenciones están definidas en el paquete explícito de beneficios del SMSXXI y tienen un carácter
+    individual (por niño atendido).
+                                                      5
+"
+"     de la aportación local de los productos del objetivo 2; los cuales pasarían a ser financiados
+     con recursos propios, fuera del marco del contrato de préstamo.
+2.11 En este sentido, las modificaciones de la matriz de indicadores reflejan ajustes resultado
+     del contexto presupuestal cambiante del programa SMSXXI, y una mejor alineación de la
+     definición y objetivos con las prioridades de las nuevas autoridades del organismo
+     ejecutor. No obstante, la cadena de resultados y la lógica del proyecto modificado no se
+     alteró de forma sustancial. El impacto esperado siguió siendo la reducción de la mortalidad
+     neonatal e infantil en México, que resultaría de una menor tasa de mortalidad neonatal y
+     de menores de 5 años de los niños atendidos por el SMSXXI, y que a su vez sucedería
+     por el aumento de la cobertura del SMSXXI y una mayor cantidad de niños atendidos e
+     intervenciones financiadas por el SMSXXI. El objetivo 2 apoyaría estos resultados a través
+     de mejoras derivadas de los resultados de evaluaciones de procesos de afiliación y
+     operación, de procesos de gestión de calidad, y de impacto, así como de revisiones de las
+     ROP y de las visitas de seguimiento y supervisión a los estados.
+2.12 La Tabla 1 resume las diferentes matrices de resultado utilizadas y modificadas, y el
+     EER#2 detalla los cambios a la matriz de resultados. Debe mencionarse que, si bien se
+     eliminó el financiamiento de las atenciones del FPGC, no ocurrió lo mismo con los
+     indicadores asociados con este Fondo en la matriz de resultado porque se les daría
+     seguimiento para valorar su desempeño en comparación con aquellos del SMSXXI.
+     Además, estas actividades seguirían llevándose a cabo, si bien fuera del marco del
+     Proyecto. Estos indicadores pueden distinguirse en las Tablas 1 y 2 por su formato en
+     cursiva.
+2.13 A su vez, la cancelación parcial de la aportación local provocó que los productos
+     financiados por el componente 2 salieran del marco del préstamo y del sistema del BID.
+     No obstante, dado que estos estudios fueron efectivamente realizados, aunque con
+     recursos propios de la contraparte, se decidió incluirlos en este informe como parte de los
+     indicadores a ser reportados.
+2.14 Debe señalarse que, también en virtud de los ajustes presupuestales, la evaluación de
+     impacto planteada en el objetivo 2 no pudo ser llevada a cabo por el gobierno; por lo que,
+     a petición de la CNPSS, el Banco aprobó la cooperación técnica ME-T1307 en diciembre
+     de 2017 con el propósito de financiar dicho estudio.
+                                               6
+"
+"                          Tabla 1. Matriz de Resultados (aprobación, 60 días después de alcanzar la elegibilidad, y al final del Proyecto)
+                                                                   En elegibilidad + 60       Al terminar el proyecto
+                                           En aprobación
+                                                                           días                        (PCR)
+                                                                                                                                             Comentarios
+             Indicadores
+                                      Unidad Línea               Unidad Línea               Unidad     Línea
+                                                         Meta                       Meta
+                                      de          de             de          de             de           de        (A)
+                                                           (P)                       (P)
+                                      Medida Base                Medida Base                Medida      Base
+ Objetivo de Desarrollo del Programa: Contribuir a acelerar la reducción de la mortalidad neonatal y post-neonatal, mediante el aseguramiento del financiamiento y
+ acceso efectivo a servicios de salud de calidad, y el fortalecimiento del papel rector de la Secretaría de Salud.
+       Tasa de mortalidad infantil (x                                                                                  El resultado final se reporta para 2016; último año con
+ 1.1                                    Tasa     12,9     12,0    Tasa     13,30 12,40        Tasa     13,30     12,10
+       1000 nacidos vivos)                                                                                             información disponible.
+       Tasa de mortalidad neonatal                                                                                     El resultado final se reporta para 2016; último año con
+ 1.2                                    Tasa      8,1      7,4    Tasa      8,30    7,60      Tasa      8,30      7,50
+       (x 1.000 nacidos vivos)                                                                                         información disponible.
+ Objetivo específico de Desarrollo 1: Mejorar el estado de salud de niñas y niños menores de 5 años
+ Objetivo específico de Desarrollo 2: Fortalecer el papel rector y financiador de la CNPSS
+Resultados Finales
+                                                                                                                       Se recalculó la línea base porque el valor inicial fue
+       Tasa mortalidad neonatal de                                                                                     hecho con datos preliminares todavía no oficiales. La
+       la gente que actualmente no                                                                                     meta se actualizó trasladando la misma proporción de
+ 1.1                                    Tasa      9,8      8,1    Tasa      7,80    6,50      Tasa      7,80      9,98
+       tiene cobertura (x 1000                                                                                         cambio considerada durante la aprobación. El
+       nacidos vivos sin cobertura)                                                                                    resultado final se reporta para 2015; último año con
+                                                                                                                       información disponible.
+                                                                                                                       El cambio del valor de línea base y meta del indicador
+                                                                                                                       entre la matriz de aprobación y la de elegibilidad se
+                                                                                                                       debió a un error de reporte en la escala, pues
+                                                                                                                       mientras que en la aprobación las tasas están
+                                                                                                                       expresadas por 1000 nacidos vivos, en elegibilidad lo
+                                                                                                                       están por 100 nacidos vivos. Para ser consistentes
+       Tasa de mortalidad neonatal                                                                                     con la definición del indicador, al cierre del proyecto se
+1.2    del FPGC (x 1000 neonatos        Tasa     113       90     Tasa     98,48 94,45        Tasa     98,48    109,50 reportan las cifras por 1000 nacidos vivos,
+       financiados por el FPGC)                                                                                        actualizando, además, los valores de línea base, pues
+                                                                                                                       originalmente se habían usado series de datos
+                                                                                                                       incompletas para ese año.
+                                                                                                                       El valor del indicador al final del proyecto está
+                                                                                                                       reportada para 2015, pues los valores de 2016 y 2017
+                                                                                                                       aún no están disponibles.
+                                                                                       7
+"
+"                                                            En elegibilidad + 60    Al terminar el proyecto
+                                        En aprobación
+                                                                   días                      (PCR)
+                                                                                                                                   Comentarios
+           Indicadores
+                                    Unidad   Línea        Unidad   Línea           Unidad    Línea
+                                                    Meta                     Meta
+                                    de         de         de         de            de          de        (A)
+                                                      (P)                      (P)
+                                    Medida   Base         Medida    Base           Medida     Base
+                                                                                                             El cambio del valor de línea base y meta del indicador
+                                                                                                             entre la matriz de aprobación y la de elegibilidad se
+                                                                                                             debió a un error de reporte en la escala, pues en ese
+                                                                                                             momento se expresó por 100 nacidos vivos, en lugar
+                                                                                                             de 1000 nacidos vivos. Para ser consistentes con la
+      Tasa de mortalidad neonatal                                                                            definición del indicador, al cierre del proyecto se
+      de 0 a 28 días del SMSXXI (x                                                                           reportan las cifras por 1000 nacidos vivos,
+1.3                                  Tasa      40     30   Tasa    39,90     37,41  Tasa     39,90     36,90
+      1000 neonatos financiados                                                                              actualizando, además, los valores de línea base, pues
+      por el SMSXXI)                                                                                         originalmente se habían usado series de datos
+                                                                                                             incompletas para ese año.
+                                                                                                             El valor del indicador al final del proyecto está
+                                                                                                             reportada para 2016, pues el valor de 2017 aún no
+                                                                                                             está disponible.
+                                                                                                             El cambio del valor de línea base y meta del indicador
+                                                                                                             al momento de elegibilidad se debió a un error de
+                                                                                                             reporte en la escala, pues mientras que en la
+                                                                                                             aprobación las tasas están expresadas por 1000
+                                                                                                             nacidos vivos, en elegibilidad lo están por 100 nacidos
+      Tasa de mortalidad para                                                                                vivos. Para ser consistentes con la definición del
+      niños de 29 días a 5 años del                                                                          indicador, al cierre del proyecto se reportan las cifras
+1.4                                                        Tasa    62,20     58,90  Tasa     58,90     47,30
+      SMSXXI (x 1000 niños                                                                                   por 1000 nacidos vivos, actualizando, además, los
+      menores a 5 años)                                                                                      valores de línea base, pues originalmente se habían
+                                                                                                             usado series de datos incompletas para ese año.
+                                                                                                             El valor del indicador al final del proyecto está
+                                                                                                             reportada para 2016, pues el valor de 2017 aún no
+                                                                                                             está disponible.
+Resultados Intermedios
+      Porcentaje de cobertura del                                                                            Este indicador se reemplazó por el “porcentaje de
+      Seguro Popular en nuevos         %      45,4   57,7                                                    cobertura del seguro popular en neonatos”, por
+      nacimientos                                                                                            precisión.
+                                                                                                             Este indicador se reemplazó por “porcentaje de
+      Porcentaje de nacimientos
+                                                                                                             nacimientos prematuros del seguro popular
+      prematuros del Seguro
+                                       %       63     63                                                     financiados por el FPGC”, pues es el Fondo el único
+      Popular cubiertos por el
+                                                                                                             seguro que cubre condiciones que afectan a los
+      FPGC y el SMNG
+                                                                                                             neonatos prematuros.
+      Porcentaje de cobertura del
+2.1                                                          %      3,50      5,10    %       3,50      6,40
+      Seguro popular en neonatos
+                                                                                 8
+"
+"                                                           En elegibilidad + 60   Al terminar el proyecto
+                                       En aprobación
+                                                                  días                     (PCR)
+                                                                                                                                 Comentarios
+           Indicadores
+                                   Unidad   Línea        Unidad   Línea          Unidad    Línea
+                                                   Meta                     Meta
+                                   de         de         de         de           de          de        (A)
+                                                     (P)                     (P)
+                                   Medida   Base         Medida    Base          Medida     Base
+    Porcentaje de nacimientos
+    prematuros del Seguro
+2.2                                                         %      43,2     48,0    %       43,2      17,0
+    Popular financiados por el
+    FPGC
+    Porcentaje de cobertura del
+2.3 Seguro Popular en nuevos                                %      80,0     80,0    %       80,0     116,0
+    afiliados
+    Cantidad de neonatos                                                          # de                     Se agregó este indicador de resultado para explicitar
+2.4 atendidos y financiados por el                                               Benefi-  18,000    91,762 la contribución del programa a las metas de desarrollo
+    FPGC                                                                         ciarios                   corporativas y de país.
+                                                                               9
+"
+"B.    Efectividad
+      a. Declaración de los Objetivos de Desarrollo del Proyecto
+2.15 El objetivo del proyecto es contribuir a acelerar la reducción de la mortalidad neonatal y
+     post-neonatal; particularmente de los niños y niñas menores de 5 años sin acceso a
+     seguridad social.
+      b. Resultados Alcanzados
+2.16 La reducción de la mortalidad neonatal y post-neonatal se llevaría a cabo a través de dos
+     objetivos: (1) Mejoramiento del estado de salud de niñas y niños menores de 5 años, y
+     (2) Fortalecimiento del papel rector y financiador de la CNPSS.
+     1. Objetivo 1. Mejoramiento del estado de salud de niñas y niños menores de 5 años
+2.17 El proyecto financió dos productos: la cantidad de intervenciones financiadas por el
+     SMSXXI para neonatos (1.1), y la cantidad de intervenciones financiadas por el SMSXXI
+     para niños de entre 29 días y 5 años (1.2). En ambos casos, la meta planeada se superó
+     en casi 60% y en 117%.
+2.18 El proyecto tuvo un buen desempeño en tres de los indicadores de resultado intermedio,
+     alcanzando y superando la meta programada. El porcentaje de cobertura del Seguro
+     Popular en nuevos neonatos (2.1) se previó alcanzaría 5,10%, y se llegó a 6,40%. Este
+     buen desempeño del Programa obedece a la convergencia de la política para lograr la
+     cobertura universal y que se traduce en las acciones que el Seguro Popular mantiene
+     permanentemente para promover la afiliación de la población en los establecimientos de
+     salud. Además, la política de protección social favorece la asistencia a servicios de salud
+     preventiva (atención prenatal y del niño sano) y ambas políticas convergen con los
+     programas para mejorar la salud reproductiva y materno-infantil promueven la atención
+     prenatal, el parto institucionalizado y la atención posnatal de alta calidad.
+2.19 El porcentaje de cobertura del Seguro Popular en nuevos afiliados (2.3) superó en varios
+     años la meta de 80%, llegando a 116 al cierre de la operación. El proyecto tenía previsto
+     mantener como tasa de afiliación el 80% del 54% de los nacimientos anuales (que el
+     Seguro Popular estima como su población elegible al ser población sin seguridad social),
+     dado que la afiliación es un proceso voluntario. % de beneficiarios potenciales
+     aproximados. La mayor parte de los nacimientos en el país ocurre en hospitales de la SS,
+     y el Seguro Popular ha logrado mejorar sus mecanismos de afiliación y promoción de la
+     tutela de derechos en las instalaciones de salud, lo que ha permitido superar ese 80%
+     previsto.
+2.20 Por otro lado, la cantidad de neonatos atendidos y financiados con el FPGC (2.2) superó
+     en 25% la meta de 77.000 beneficiarios. El FPGC es un mecanismo de financiamiento
+     para padecimientos de alto costo y en muchos casos, dicho financiamiento llega
+     directamente a los hospitales de tercer nivel, derivado de los cambios en los mecanismos
+     de financiamiento que el Seguro Popular ha impulsado en los últimos años; lo que ha
+     permitido un aumento de la oferta. Este aumento, junto con el incremento sostenido de la
+     afiliación, hace posible afirmar la viabilidad del incremento observado de la cantidad de
+     neonatos financiados por el FPGC.
+2.21 Solo el porcentaje de nacimientos prematuros del Seguro Popular financiados por el FPGC
+     (2.4) presentó un retroceso en relación con la meta trazada, y esto responde a que las
+     medidas de verificación de los diagnósticos y procesos de reembolso se han vuelto más
+                                                 10
+"
+"     estrictas año con año; con lo cual han disminuido los diagnósticos efectivamente cubiertos
+     por el Fondo.
+2.22 Por otro lado, los indicadores finales de tas tasas de mortalidad neonatal y para niños de
+     29 días a 5 años del SMSXXI (1.3 y 1.4, respectivamente) superaron la meta en 20% y
+     301%, respectivamente. La tasa de mortalidad neonatal de la gente sin cobertura (1.1) y
+     de los atendidos por el FPGC (1.2) presentaron retrocesos. Para el segundo caso, destaca
+     que se trata de los casos más graves y justamente por el tipo de patología es que se tienen
+     mayores tasas de mortalidad. En todo caso, es importante mencionar que la cobertura de
+     estas condiciones por parte del Seguro Popular es loable pues incluso otras aseguradoras
+     no las cubrirían. Además, los indicadores relacionados con el FPGC estaban asociados
+     con las actividades que serían financiadas por la contrapartida local. Esa contrapartida fue
+     reducida sustancialmente con la renegociación del préstamo. Así, estos indicadores se
+     incluyen para hacer el seguimiento del proyecto original, pero no son atribuibles al proyecto
+     implementado puesto que salieron del marco del financiamiento del préstamo, así como
+     del acompañamiento técnico y operativo del BID.
+2.23 En relación con los indicadores de impacto de tasas de mortalidad neonatal (1.1) y de 29
+     días a 5 años (1.2) del SMSXXI se han logrado superar las metas programadas. La tasa
+     de mortalidad infantil se redujo de 13,30 a 12,10 entre 2012 y 2016, y la tasa de mortalidad
+     neonatal pasó de 8,30 a 7,50 en ese mismo periodo. Estos efectos pueden explicarse por
+     la mayor cobertura a nivel de padecimientos y a nivel geográfico, pero también por una
+     mejor atención primaria, fortalecida por diferentes inversiones financiadas a través de la
+     cápita del SMSXXI. Una mejor atención primaria permite prevenir la ocurrencia de
+     padecimientos y eventos más graves en el futuro, logrando, por tanto, incidir en la
+     mortalidad. En la siguiente sección se aborda el análisis de atribución que da sustento a
+     la conclusión de que el SMSXXI ha tenido impactos en estos indicadores.
+     2. Objetivo 2. Fortalecimiento del papel rector y financiador de la CNPSS
+2.24 En términos del objetivo 2, se alcanzaron 2 de las 3 metas programadas. El SMSXXI, como
+     parte de los compromisos del préstamo, financió la evaluación de los procesos de gestión
+     de calidad de atención neonatal, y la línea basal de la evaluación de impacto -no así la
+     evaluación de proceso de afiliación y operación. Además, se revisaron las reglas de
+     operación del programa todos los años, se implementaron visitas de seguimiento y
+     supervisión anuales, y se realizaron supervisiones y capacitaciones en los estados. Estos
+     productos, no obstante, no aparecen en el sistema porque fueron financiados por recursos
+     propios del ejecutor fuera del marco del contrato de préstamo, y no como parte de la
+     aportación local originalmente convenida. La Tabla 2 detalla los avances alcanzados para
+     cada objetivo e indicador.
+                                               11
+"
+"                                                   Tabla 2. Matriz de Resultados Alcanzados
+                                                    Valor de      Año de
+                                     Unidad de                                Metas y Logros
+          Impacto/Indicador                          Línea         Línea                     % Logrado         Medios de Verificación
+                                       Medida                                     Actuales
+                                                      Base         Base
+Impacto #1 Acelerar la reducción de la mortalidad neonatal y post-neonatal nacional
+                                                                             P      12,37              Sistema Estadístico Epidemiológico de
+1.1 Tasa de mortalidad infantil (x
+                                        Niños         13,30        2012      P(a) 12,37        129,03  Defunciones, Registro de Certificados de
+    1000 nacidos vivos)
+                                                                             A      12,10              Nacimiento. (Secretaría de Salud).
+                                                                             P      7,58               Sistema Estadístico Epidemiológico de
+1.2 Tasa de mortalidad neonatal (x
+                                      Neonatos        8,30         2012      P(a) 7,58         111,11  Defunciones, Registro de Certificados de
+    1.000 nacidos vivos)
+                                                                             A      7,50               Nacimiento. (Secretaría de Salud).
+                                                                  Año de
+                                     Unidad de      Valor de                  Metas y Logros
+        Resultado/indicador                                        Línea                     % Logrado         Medios de Verificación
+                                       Medida      Línea Base                     Actuales
+                                                                   Base
+Indicador de Resultado Final #1 Tasa de mortalidad neonatal y post-neonatal del SMSXXI
+1.1 Tasa mortalidad neonatal de la                                           P       6,45
+                                                                                                       Sistema Estadístico Epidemiológico de
+    gente que actualmente no                                                 P(a)    6,45
+                                      Neonatos         7,80         2012                      -161,48  Defunciones, Registro de Certificados de
+    tiene cobertura (x 1.000
+                                                                             A       9,98              Nacimientos (Secretaría de Salud)
+    nacidos vivos sin cobertura)
+1.2 Tasa de mortalidad neonatal                                              P       94,45
+    atendidos por el FPGC (x                                                 P(a)    94,45             Sistema de Información de Gastos
+                                      Neonatos        98,48         2012                      -273,45
+    1.000 neonatos financiados                                                                         Catastróficos
+                                                                             A       109,50
+    por FPGC)
+1.3 Tasa de mortalidad neonatal de                                           P       37,41
+    0 a 28 días del SMSXXI (x                                                P(a)    37,41
+                                      Neonatos        39,90         2012                       120,48  Sistema de Información del SMSXXI
+    1.000 neonatos financiados
+                                                                             A       36,90
+    por SMSXXI)
+1.4 Tasa de mortalidad para niños                                            P       58,49
+    de 29 días a 5 años del                                                  P(a)    58,49
+                                        Niños         62,20         2012                       401,62  Sistema de Información del SMSXXI
+    SMSXXI (x1.000 niños
+                                                                             A       47,30
+    menores a 5 años).
+Indicador de Resultado Intermedio #1 Cobertura del SMSXXI
+2.1 Porcentaje de cobertura del                                              P       5,10
+                                                                                                       Sistema Administración del Padrón.
+    Seguro Popular en nuevos             %             3,50         2012     P(a)    5,10      181,25
+                                                                                                       CONAPO.
+    neonatos                                                                 A       6,40
+2.2 Porcentaje de nacimientos                                                P       48
+                                                                                                       Sistema de Información Gastos
+    prematuros del Seguro Popular        %            43.20         2012     P(a)    48       -545,83
+                                                                                                       Catastróficos.
+    financiados por el FPGC                                                  A       17
+2.3 Porcentaje de cobertura del                                              P       80
+                                                                                                       Sistema Administración del Padrón.
+    Seguro Popular en nuevos             %              80          2012     P(a)    80         100
+                                                                                                       CONAPO.
+    afiliados                                                                A       116
+                                                                         12
+"
+" 2.4 Cantidad de neonatos                                                             P       77,000
+                                              Beneficiarios                                                     Sistema de Información Gastos
+     atendidos y financiados con el                                18,000   2012      P(a)    77,000     125
+                                                    (#)                                                         Catastróficos.
+     FPGC (Personas)                                                                  A       91,762
+                                                                           Año de
+                                                Unidad de         Valor de             Metas y Logros
+               Producto                                                     Línea                     % Logrado         Medios de Verificación
+                                                 Medida         Línea Base                 Actuales
+                                                                            Base
+ Objetivo 1. Mejoramiento del estado de salud de niñas y niños menores de 5          años
+ 1.1 Cantidad de Intervenciones                                                       P       74,000
+     financiadas por el SMSXXI en                                                     P(a)    114,614
+                                              Intervencione
+     neonatos de 0 a 28 días en las                                13,500   2012                        159,90  Sistema de Información del SMSXXI
+                                                   s (#)
+     prestaciones aseguradas                                                          A       110,241
+     (Intervenciones)
+ 1.2 Cantidad de Intervenciones                                                       P       27,618
+     financiadas por el SMSXXI en                                                     P(a)    62,309
+                                              Intervencione
+     niños de 29 días a 5 años en                                  6,255    2012                        217,10  Sistema de Información del SMSXXI
+                                                   s (#)
+     las prestaciones aseguradas                                                      A       52,632
+     (Intervenciones)
+ Objetivo 2. Fortalecimiento del rol papel rector y financiador de la CNPSS
+ 2.2 Evaluación de procesos de                                                        P       1
+     afiliación y operación                      Reporte             1      2012      P(a)    1           0
+     realizada.                                                                       A       0
+                                                                                      P       1
+ 2.3 Evaluación de procesos de
+                                                 Reporte             1      2012      P(a)    1          100    Reporte de Evaluación
+     gestión de calidad realizada.
+                                                                                      A       1
+                                                                                      P       1
+ 2.4 Evaluación de impacto-línea
+                                                 Reporte             1      2012      P(a)    1          100    Reporte de Evaluación
+     basal realizada.
+                                                                                      A       1
+Donde: P = Plan Inicial; P (a) = Meta anual revisada; A = Actual.
+                                                                                  13
+"
+"      c. Análisis de Contrafactual
+2.25 A través de la evaluación de impacto del Programa se estimó el efecto de ofrecer la
+     cobertura financiera del Seguro Popular en tres indicadores de resultado: gastos de
+     bolsillo, egresos hospitalarios y mortalidad en edades tempranas, empleando una
+     metodología de diferencias en diferencias. Esta estrategia de identificación aprovecha:
+     (1) el despliegue temporal del SMSXXI en el país, que se da conforme las unidades
+     hospitalarias en los estados van estableciendo convenios con la CNPSS (para el caso de
+     los análisis de las tres variables de resultado), y (2) la entrada de diferentes grupos de
+     condiciones (catálogos de enfermedades) a ser cubiertas por el seguro según las reglas
+     de operación de cada año) para los análisis de las variables de egresos y mortalidad).
+2.26 Los resultados de impacto indican que, a medida que las jurisdicciones entran al SMSXXI,
+     la probabilidad de que un hogar experimente un gasto elevado se reduce de un 7%, previo
+     al SMSXXI, a un 6%. Esto representa una disminución relativa de 15,7% en la probabilidad
+     de enfrentar un gasto elevado. Asimismo, el Seguro reduce el gasto en salud como
+     porcentaje del ingreso en 0,0034 puntos porcentuales. Esta caída se observa
+     principalmente en los hogares sin acceso a la seguridad social, el grupo objetivo del
+     SMSXXI, y en los gastos relativos al embarazo y al parto, el periodo de especial atención
+     del SMSXXI.
+2.27 Los análisis en términos de egresos hospitalarios no encuentran ningún efecto. Una
+     posible explicación es que el SMSXXI no está generando nuevas atenciones, sino que
+     simplemente se están redistribuyendo las atenciones en hospitales con capacidad de
+     atender condiciones cubiertas por el SMSXXI. Es decir, esas atenciones ya se daban, solo
+     que probablemente a costa de una menor calidad y/o a un mayor costo (gasto de bolsillo).
+2.28 La evaluación encuentra una reducción significativa de la tasa de mortalidad al primer mes
+     y primer año de vida; no así para la primera semana de vida. También puede observarse
+     que los efectos vienen dados principalmente al primer mes de vida, cuyo efecto de una
+     reducción de 7% en términos relativos; seguido de una reducción de 5,3% en términos
+     relativos para menores de un año. Dado que las condiciones financiadas por el SMSXXI
+     representan entre el 21 y 24% de la mortalidad ocurrida durante los primeros periodos de
+     vida, según datos de 2006, estos efectos, por tanto, representan reducciones en
+     mortalidad sobre ese 24% de las causas de muerte. Así, el impacto del Programa en
+     términos de mortalidad se traduce, a su vez, en una reducción de la tasa de mortalidad
+     nacional de 1,3%. Para un mayor detalle de estos resultados puede consultarse el informe
+     de evaluación de impacto (EOP#6).
+2.29 La evaluación de impacto del SMSXXI muestra evidencia de los efectos que tuvo este
+     Programa sobre los indicadores relacionados con el aseguramiento financiero de las
+     familias y mejoras en salud a través de la reducción de mortalidad neonatal e infantil. Es
+     importante señalar que, aun cuando los indicadores de resultados de la evaluación no
+     convergen uno a uno con los indicadores de resultados del Proyecto, sí es posible
+     argumentar – tanto por los resultados, como por la evidencia empírica a nivel nacional e
+     internacional- que el Programa tuvo impacto sobre los indicadores mencionados.
+                                              14
+"
+"2.30 A partir de diciembre de 2016, la probabilidad de que una familia se inscribiera en el Seguro
+     Popular a través del SMSXXI aumentó de manera exógena en poco más de 40%. Junto
+     con ello, la mayor cobertura del SMSXXI, y consecuentemente del Seguro Popular, ha
+     representado para los estados mayores recursos por concepto de cápitas por nuevas
+     afiliaciones, que generalmente son destinadas para la atención primaria. Así, el
+     fortalecimiento de las atenciones a este nivel permite dar un mejor seguimiento desde las
+     etapas tempranas del embarazo, lo cual influye en una menor incidencia de
+     complicaciones que deban ser atendidas posteriormente a través del FPGC o el SMSXXI
+     y, a su vez, en una menor tasa de mortalidad del Seguro Popular, como muestran los
+     análisis de impacto; lo cual impacta a su vez en las tasas de mortalidad infantil y neonatal
+     a nivel nacional. La evolución de los indicadores de resultado finales e intermedios
+     presenta evidencia de los avances del SMSXXI en materia de cobertura y mortalidad, que
+     sin duda contribuyen a lograr los resultados de impacto. Para una discusión más detallada
+     de la atribución de los resultados puede consultarse el EOP#7.
+      d. Resultados No Anticipados
+2.31 La disponibilidad de datos del Registro Nacional de Peso y Talla permitió que en la
+     evaluación de impacto (EOP#6) pudieran explorarse efectos de largo plazo del SMSXXI
+     en términos antropométricos. Los resultados indican que en estados con un 100% de
+     cobertura de la población elegible, la altura promedio de los estudiantes que estuvieron
+     expuestos durante su primer año de vida al Seguro aumentó en 0,72 cm. Además, se
+     encontró un efecto heterogéneo por grado de marginación de las escuelas. En efecto,
+     mientras que los estudiantes de escuelas con mediana, baja y muy baja marginación el
+     aumento en talla fue de 0,47 cm, en el caso de aquellos en escuelas con alta o muy alta
+     marginación, el aumento en talla fue más de tres veces mayor, alcanzando 1,51 cm. Si
+     bien este resultado no se anticipaba como uno de los objetivos del Proyecto, la evidencia
+     muestra un claro efecto positivo.
+C.    Eficiencia
+2.32 La evaluación económica de Creciendo Sanos se hizo a través de un análisis costo
+     beneficio, concentrándose en el Componente 1 del proyecto, que representó 100% de los
+     recursos invertidos en el préstamo. A partir de las actividades desarrolladas a través de
+     este componente, se identificaron beneficios derivados de la disminución en: (i) la tasa de
+     mortalidad neonatal y en (ii) el gasto de bolsillo en salud de las familias. Para la estimación
+     de estos beneficios se utilizaron los resultados de la evaluación de impacto del proyecto
+     reportados en la sección anterior.
+2.33 El enfoque del análisis económico para valorar los beneficios por mortalidad utiliza los
+     Años de Vida Ajustados por Discapacidad (AVADs) para cuantificar los beneficios que se
+     obtienen de la implementación de líneas de atención de salud de eficiencia probada, y
+     convierte dichos beneficios expresados en años productivos en beneficios económicos,
+     multiplicando los AVADs evitados por los seis años de la operación por el producto interno
+     bruto per cápita de la población beneficiada. A partir de los resultados de la evaluación de
+     impacto en términos de reducción infantil (1,3%) se calcularon 1954 muertes evitadas,
+     para las cuales se calcularon los respectivos AVADs evitados. Para ello, se siguió la
+     metodología de Jamison, D., et al., 2016, por la cual mencionan que la conversión de
+     muertes a DALYs en países en vías de desarrollo (con una expectativa de vida de 60 años
+     a una tasa de descuento del 3 por ciento) es de aproximadamente 32 DALYs.
+     Posteriormente, se utilizó el PIB per cápita proyectado por el FMI para el país al 2017,
+     pues es el año en el que se observan los beneficios finales del Proyecto. Además, dado
+     que los resultados de la evaluación de impacto son aplicables para el Seguro Popular en
+                                                15
+"
+"     su conjunto, se ajustaron los beneficios, de acuerdo con la proporción que representa el
+     SMSXXI en términos de costos sobre el presupuesto total del SP, y tomando esta misma
+     proporción de los beneficios agregados del SP.
+2.34 Por otro lado, las intervenciones llevadas a cabo por el SMSXXI protegen a las familias de
+     los gastos de bolsillo, empobrecedores o catastróficos. Con base en los resultados de la
+     evaluación, se estimó, con datos de la ENIGH 2014, que el gasto de bolsillo ahorrado es
+     de MXN$58,58 anuales por familia. Para la determinación de los beneficios se multiplicó
+     este monto por el número de hogares que no tienen acceso a seguridad social, pues son
+     las familias sin acceso a seguridad social las que, al afiliarse, podrían beneficiarse de estos
+     ahorros. Al igual que para el caso de mortalidad, se ajustó el beneficio estimado con la
+     evaluación de acuerdo con la proporción que representa el SMSXXI del SP.
+2.35 Estos cálculos asumen que la intervención es uniforme en todos los beneficiarios del
+     SMSXXI, los DALYs evitados son uniformes para todas las muertes evitadas, y el impacto
+     del SMSXXI es proporcional a la distribución de costos al interior del SP. Asimismo, para
+     el caso de la mortalidad, se consideró que los beneficios se observan en el mismo año en
+     el que ocurren, trasladándolos después a valores de 2017. En línea con los estándares
+     del Banco y con la literatura sobre análisis económico de proyectos, se utilizó una tasa de
+     descuento de 12%.
+2.36 Los costos considerados para el análisis reflejan el costo total del proyecto, incluyendo los
+     montos del préstamo más la contrapartida local, y no se toman en cuenta otro tipo de
+     costos derivados de él.
+2.37 La rentabilidad económica del Proyecto se calculó mediante los indicadores estándar
+     utilizados en los análisis costo beneficio: Valor Actual Neto (VAN), Tasa Interna de Retorno
+     (TIR) y la razón Beneficio Costo (B/C). Los resultados del análisis indican que el VAN es
+     positivo, sumando un valor de US$112.878.890,08 la TIR Social es de 23,4%; y los
+     beneficios alcanzan a cubrir 1,8 veces los costos. Asimismo, el análisis de sensibilidad
+     muestra que aun reduciendo a 80% los impactos agregados del Programa, y a 50% el
+     impacto en gasto de bolsillo, este sigue siendo rentable. Para más detalle puede
+     consultarse el EOP#5.
+2.38 La Tabla 3 resume la estructura de costos del Proyecto al momento de su cierre. Los
+     fondos asignados originalmente al subcomponente 1.2 fueron redistribuidos al
+     subcomponente 1.1. Dentro de este componente, a su vez, se reasignaron cerca de
+     30 millones del producto 1.1 al 1.2. tras la extensión de un año de plazo original para último
+     desembolso. De ahí la diferencia entre los valores planeados (P) y los planeados ajustados
+     (P)a)). Por otro lado, la CNPSS solicitó una cancelación parcial de aportación local
+     equivalente a US$4,3 millones que, además de afectar las actividades del componente 2,
+     tuvo repercusiones para la evaluación de impacto final del programa, las áreas de
+     administración, y auditoría financiera. Tal y como se ha descrito en párrafos anteriores,
+     este ajuste se derivó de los recortes presupuestales anuales al sector. Estas actividades,
+     sin embargo, fueron llevadas a cabo bajo financiamiento propio del ejecutor
+     (administración y auditorías), y a través de la Cooperación técnica ME-T1307 (evaluación
+     de impacto).
+2.39 En esta tabla también se observa valores actuales de avances financieros menores a los
+     planeados inicialmente, y a los posteriormente ajustados, en virtud de los desafíos propios
+     de la operación del SMSXXI. Esto explica la solicitud de extensión del plazo del préstamo
+     a un año adicional para cubrir los compromisos financieros acordados.
+                                                 16
+"
+"Tabla 3. Costos del Proyecto
+             17
+"
+"2.40 El Proyecto tuvo una calificación satisfactoria según la metodología de desempeño de
+       proyectos utilizada por el Banco. Dicha metodología mide cinco índices que se combinan
+       en un indicador sintético.13 Los índices miden desviaciones en términos de costo y tiempo
+       con respecto al plan acumulado, al plan anual del Proyecto y a la planificación de la
+       duración del Proyecto estimada cuando logró su elegibilidad. Creciendo Sanos estuvo
+       clasificado como satisfactorio en todos sus años de ejecución, con la única salvedad en
+       términos del índice de cronograma acumulado (SPI). El Proyecto logró desembolsar la
+       totalidad de sus recursos de financiamiento. La Tabla 4 presenta los indicadores de
+       desempeño según la metodología del banco.
+                                     Tabla 4. Indicadores de Desempeño
+                Índices               2013              2014           2015            2016              2017
+        CPI                                 1.10              1.05           1.39            1.56            1.66
+        CPI(a)                              1.10              1.00           1.35            1.58            0.95
+        SPI                                 1.08              1.04           1.12            1.19            1.32
+        SPI(a)                              1.08              1.00           1.09            1.22            0.76
+        Calificación                Satisfactorio     Satisfactorio  Satisfactorio  Satisfactorio    Satisfactorio
+D.      Sostenibilidad
+        a. Aspectos Generales sobre Sostenibilidad
+2.41 La evidencia sobre los impactos del SMSXXI en gastos hospitalarios y mortalidad indican
+       que el Seguro es altamente sostenible en términos de efectividad. No obstante, merecen
+       destacarse tres consideraciones importantes para fortalecer esta sostenibilidad. Por un
+       lado, la coordinación y gestión del Seguro está a cargo de la Dirección General Adjunta
+       (DGA) del SMSXXI. Esta oficina no forma parte de la estructura orgánica de la CNPSS y,
+       por tanto, está sujeta a disposición presupuestal anual. Esto hace al Programa vulnerable
+       para efectos de planeación y garantía de sostenibilidad, pudiendo afectar también sus
+       impactos y alcances.
+2.42 Por otro lado, el Programa no realiza proyecciones sobre la necesidad de coberturas
+       futuras. Para que el SMSXXI pueda determinar su capacidad de operación efectiva, es
+       relevante hacer este cálculo con base en proyecciones de demanda basados en análisis
+       actuariales con información epidemiológica. Esto permitirá poder alinear la demanda de
+       coberturas con el financiamiento disponible.
+2.43 Asimismo, la división de padecimientos de alto costo y de alto impacto para niños menores
+       de 5 años entre dos fuentes de financiamiento, SMSXXI y FPGC, complejiza el
+       entendimiento y las solicitudes de reembolso por parte de los estados. Considerando el
+       buen desempeño del SMSXXI frente al FPGC, sería recomendable integrar bajo un mismo
+       pilar los beneficios cubiertos por tanto por el SMSXXI como por el FPGC. Esto permitiría
+       organizar y gestionar de una manera mejor articulada la atención médica para la población
+       objetivo.
+2.44 Estos desafíos han estado presentes durante toda la operación de crédito, sin impedir, no
+       obstante, que el Programa sea implementado; incluso logrando resultados positivos, como
+       se mencionó en secciones anteriores. De hecho, desde su creación, el Programa ha
+       logrado aumentar el listado de intervenciones médicas cubiertas, de 108, a 151 que se
+13 Los cinco indicadores de desempeño son: (i) desembolsos históricos acumulados por el proyecto y comparado
+   con la curva de desembolso histórica de 10 años de desembolsos en todos los proyectos de México; (ii) índice de
+   costo de desempeño anual, CPI (a); iii) índice de costos de desempeño acumulado, CPI; (iv) índice de cronograma
+   anual, SPI(a); e (v) índice de cronograma acumulado, SPI. El Proyecto se considera satisfactorio cuando tiene su
+   indicador sintético es igual o mayor a 2.5.
+                                                         18
+"
+"      contemplan en 2018. Sin embargo, solventar estos factores representa un área de
+      oportunidad que ayudaría a facilitar la operación del Programa, hacerlo más eficiente, y
+      dar mayor certidumbre sobre sus alcances; por lo que se incluyen en este documento de
+      cierre de la operación como recomendaciones.
+       b. Salvaguardias Ambientales y Sociales
+2.45 Esta Operación fue clasificada como categoría “C” de acuerdo con la Política de
+      Salvaguardias y Medio Ambiente (OP-703) ya que no se previeron impacto de esta
+      naturaleza. Por esta razón, no se requirió implementar salvaguardias durante la ejecución
+      de la operación.
+                                   III. CRITERIOS NO-CENTRALES
+   A. Desempeño del Banco
+3.1   Como principal logro del Banco en esta operación, destaca el acompañamiento cercano
+      que se le dio a la CNPSS y, en particular, a la DGA SMSXXI, para dar seguimiento y
+      cumplimiento a los compromisos acordados en el proyecto.
+3.2   Creciendo Sanos se convirtió en la primera operación de préstamo del Banco con el sector
+      salud en México. Como tal, el acompañamiento del Banco a la contraparte fue clave para
+      el éxito del proyecto. En efecto, el Banco apoyó al SMSXXI en la conformación de la unidad
+      coordinadora del proyecto, especialmente a través de la contratación del coordinador del
+      proyecto durante los primeros seis meses de la ejecución de la operación. Asimismo, el
+      Banco ofreció capacitación a través de talleres como apoyo para la gestión del proyecto,
+      e invitó a miembros del equipo del SMSXXI al taller de evaluación de impacto celebrado
+      en Washington, DC en junio de 2017, a fin de trabajar en conjunto en la propuesta
+      metodológica para llevar a cabo la evaluación del Programa. Así, la operación de préstamo
+      representó una oportunidad para que el equipo del SMSXII pudiera acceder a diversos
+      foros y tener intercambios de experiencias internacionales, creando oportunidades de
+      aprendizaje en materia de gestión, operación y evaluación.
+3.3   El Banco también coordinó visitas técnicas a los hospitales de la SS e instalaciones del
+      Seguro Popular. Estas visitas de supervisión se realizaron en hospitales de la SS e
+      instalaciones del Seguro Popular en los estados de Hidalgo y Querétaro, y se realizaron
+      auditorías en el Estado de México, Hidalgo, Querétaro y Veracruz. Las visitas permitieron
+      constatar los mecanismos de afiliación, la tutela de derechos, la atención médica que se
+      brindaba a los afiliados al SMSXXI, el sistema de información para la captura de las
+      intervenciones y los mecanismos de reembolso. Asimismo, se constató la adquisición de
+      equipo médico de alta tecnología para unidades de cuidado intensivo neonatal. A partir de
+      estas visitas también se generaron recomendaciones para mejorar sus sistemas de control
+      interno.
+3.4   Otro valor agregado del apoyo del Banco es que, mediante los instrumentos de préstamo
+      ajustados bajo las prioridades del nuevo gobierno, se pudo blindar parte del presupuesto
+      del SMSXXI frente a los diferentes recortes presupuestales que el Seguro Popular enfrentó
+      durante el periodo de ejecución del préstamo. En efecto, el financiamiento otorgado por el
+      Banco permitió continuar con la oferta de servicios de salud, evitando posibles
+      afectaciones derivados de un menor flujo de recursos para atender a la población objetivo
+      del Programa.
+3.5   Por último, el SMSXXI carecía de una evaluación de impacto rigurosa. Como se mencionó
+      en el párrafo 2.11, los ajustes presupuestales que enfrentó el gobierno impidieron que
+      pudiera llevarse a cabo como parte del objetivo 2. Sin embargo, la cooperación técnica
+                                                 19
+"
+"    ME-T1307 permitió financiar la primera evaluación de impacto del Programa, ayudando a
+    atender la recomendación emitida por el Consejo Nacional para la Evaluación de la Política
+    de Desarrollo Social (CONEVAL), generando evidencia rigurosa para dar sustento a su
+    continuidad, y destacando el papel del SMSXXI como un Programa efectivo con buenas
+    prácticas para la provisión de servicios de salud dentro del marco de operación de la
+    CNPSS.
+B.   Desempeño del Prestarario
+3.6 Para la CNPSS, Creciendo Sanos fue la primera operación implementada con un
+    organismo multilateral; por lo que destaca el desempeño positivo del órgano
+    desconcentrado. La Comisión, y en particular la DGA del SMSXXI, se apegaron a las
+    herramientas de gestión del proyecto con base en los lineamientos establecidos por las
+    políticas del Banco. En paralelo, el SMSXXI mantuvo una ágil revisión de los casos de
+    reembolso de eventos, a fin de lograr procesar los desembolsos a tiempo.
+3.7 La Comisión y el Proyecto contaron en todo momento con el apoyo directo de la Secretaría
+    de Hacienda, a través de la Unidad de Asuntos Internacionales, y de Nacional Financiera,
+    como agente financiero, para dar seguimiento a las actividades y facilitar los procesos
+    financieros para asegurar el desembolso exitoso del préstamo.
+                            IV. HALLAZGOS Y RECOMENDACIONES
+4.1 Los resultados de la evaluación de impacto del SMSXXI indican que el Programa ha sido
+    efectivo en disminuir la mortalidad infantil y neonatal, siendo clave la contribución del
+    proyecto Creciendo Sanos para ayudar a garantizar la cobertura del Seguro. Esto confirma
+    que la canalización de recursos a través de la operación de préstamo ha sido positiva para
+    tener mejores servicios de salud.
+4.2 También destaca como éxito importante del proyecto plantear como una discusión abierta
+    del tema de brechas en términos de calidad de atención entre los diferentes estados.
+    Además, el Proyecto ha servido para documentar con cifras los logros de los diferentes
+    indicadores de salud que, en su ausencia, no habrían sido monitoreados de manera
+    sistemática. Para mejorar y dar continuidad al Programa, no obstante, se discuten a
+    continuación algunas recomendaciones importantes.
+     a. Técnico-Sectorial
+4.3 Uno de los hallazgos importantes son las ventajas que ganaría el SMSXXI si se incluyera
+    dentro de la estructura formal de la CNPSS. El SMSXXI es un programa de financiamiento
+    directo de servicios de salud a niños menores de 5 años que se ha expandido
+    gradualmente, alcanzando una cobertura de 54% de los menores de cinco años, y
+    cubriendo, junto con el CAUSES y el FPGC, la mayor parte de padecimientos.
+    Actualmente, cuenta con una estructura de financiamiento tripartita compleja, tanto para
+    el propio SMSXXI como para los estados y la operación del Programa. Lograr que el
+    financiamiento de las atenciones neonatales y de menores de 5 años se consolide
+    únicamente bajo el amparo del SMSXXI permitiría aumentar la eficiencia de dicho
+    financiamiento. El SMSXXI ha demostrado un desempeño muy satisfactorio en términos
+    del ejercicio del gasto y de logro de resultados. Este cambio en la estructura permitiría
+    fortalecer la dirección del SMSXXI, que por ahora es muy pequeña (cuatro personas) en
+    relación con las funciones que realiza y, por tanto, es dependiente de los sistemas y
+    mecanismos organizacionales y gerenciales de la CNPSS. Por otro lado, y tal como se
+    apuntó en el párrafo 2.40, a fin de determinar mejor los alcances del Seguro dado el
+                                             20
+"
+"    financiamiento disponible, sería recomendable realizar análisis actuariales para efectos de
+    una mejor planeación.
+4.4 Otro de los hallazgos es que, si bien el Seguro ha logrado cada vez una mayor cobertura,
+    persisten algunas asimetrías en el acceso a la atención neonatal en los estados como
+    resultado de las diferencias en la oferta de hospitales certificados. No es una
+    responsabilidad del SMSXXI generar esta oferta, o decidir sobre la inversión en los
+    servicios para lograr la certificación, pero contrastar los datos sobre solicitudes de
+    reembolso con la demanda esperada permitiría identificar estas brechas y las barreras que
+    se podrían estar presentando para brindar los servicios. A partir de este análisis, podría
+    fortalecerse el diálogo con los estados y generar recomendaciones para futuras
+    inversiones en infraestructura o capacidad instalada para atender a los niños afiliados, o
+    con potencial de afiliarse al Seguro.
+4.5 También sería recomendable consolidar un sistema de evaluación y monitoreo de la
+    calidad de la atención médica, a través del diseño de indicadores de calidad de la atención
+    clínica, de la satisfacción de los usuarios y de la capacidad de respuesta de los
+    proveedores de servicios de salud del SMSXXI y el FPGC. Con ello, es aconsejable
+    fortalecer los sistemas de información del Seguro Popular, y extender esta recomendación
+    en general al SNPSS. Esto permitirá sistematizar la información para asegurar la
+    disposición oportuna, la calidad y confiabilidad de los datos para poder dar seguimiento a
+    indicadores y metas, y evaluar el desempeño del Programa.
+     b. Organizacional y Gerencial
+4.6 Otra lección aprendida es que existe la necesidad que los procesos de reembolso sean
+    comprensibles para facilitar la operación del SMSXXI. Para ello, sería aconsejable
+    extender las capacitaciones a los REPSS en los temas de gestión, administración, calidad
+    y seguimiento de acciones específicas relacionadas con las intervenciones que cubre el
+    SMSXXI. Se recomienda que se actualicen las guías de llenado de solicitudes de
+    reembolso y que se impulsen capacitaciones continuas del personal de los estados que
+    trabajen en las funciones de rendición de cuentas. Esto ayudaría a reducir la tasa de
+    rechazo de las solicitudes de reembolso de las declaratorias.
+4.7 Por otro lado, SMSXXI podría solicitar a la SS que el personal de los hospitales certificados
+    reciba capacitaciones y actualizaciones en los protocolos y guías clínicas de atención de
+    los padecimientos financiados para el Seguro para disminuir la heterogeneidad en la
+    calidad de la atención que existe entre los hospitales. Los padecimientos de mayor costo
+    y trascendencia se presentan principalmente en los recién nacidos, y su atención requiere
+    personal altamente entrenado y servicios de calidad.
+     c. Procesos Públicos/Actores
+4.8 El SMSXXI interactúa constantemente con las autoridades federales encargadas de los
+    programas de atención a los niños(as), autoridades estatales y de los hospitales,
+    organismos multilaterales (UNICEF, BID) y con organizaciones de la sociedad civil cuyo
+    objeto de intervención son temas de salud en la niñez. Esta interacción con diferentes
+    actores merece destacarse pues el SMSXXI es un programa representativo en el
+    financiamiento y diseño de políticas de atención para al menor de cinco años. Por ello,
+    sería valioso hacer mayor difusión de sus acciones y logros del SMSXXI para lograr mayor
+    apoyo político y financiero. En paralelo, también sería recomendable fortalecer las
+    campañas de comunicación y difusión entre la población para dar a conocer los beneficios
+    del Seguro.
+                                              21
+"
+"      d. Fiduciarios y Control de Riesgos
+4.9  Si bien el esquema de ejecución del Programa, en el cual los fondos fluían de las oficinas
+     centrales hacia las entidades subnacionales mediante demanda, dio como resultado una
+     ejecución ágil y dinámica en materia de desembolsos, también es verdad que esta misma
+     condición implicó un mayor seguimiento a nivel subnacional dadas las atribuciones de la
+     CNPSS. Por ello, el Programa se beneficiaría de que en el sistema informático donde se
+     registran los casos y se evalúa la pertinencia de su pago con base en los expedientes,
+     también se permita visualizar los montos transferidos a las entidades subnacionales y los
+     casos ya pagados, para así dar un mejor seguimiento de los recursos. Por otro lado, se
+     sugiere homologar el entendimiento y criterios de aplicación de las reglas de operación en
+     todas las entidades federativas.
+4.10 La Tabla 5 a continuación resume los hallazgos, así como las recomendaciones sugeridas
+     en los párrafos predecesores.
+                                              22
+"
+"                                                   Tabla 5. Hallazgos y Recomendaciones
+                          Hallazgos                                                             Recomendaciones
+Dimensión 1: Técnico-Sectorial
+1. Dado que el SMSXXI no forma parte de la estructura formal   1. Integrar el SMSXXI a la estructura formal de la CNPSS para fortalecer su
+de la CNPSS, es difícil garantizar su certeza presupuestaria.  organización y capacidad gerencial al interior de la CNPSS y mejorar su certidumbre
+Esto genera incertidumbre para efectos de planeación.          presupuestal.
+2. La estructura de financiamiento tripartita del SMSXXI
+(SMSXXI, CAUSES y FPGC) es compleja tanto para el propio       2. Consolidar el financiamiento de las atenciones neonatales y de menores de 5 años
+Seguro como para los estados; lo que dificulta la óptima       bajo el amparo del SMSXXI permitirá aumentar la eficiencia de dicho financiamiento.
+operación del Programa.
+3. Actualmente, el Programa no realiza proyecciones sobre la   3. Realizar análisis actuariales para determinar su capacidad de operación efectiva y
+necesidad de cobertura futuras.                                tener una mejor planeación de sus alcances.
+                                                               4. Mejorar los análisis de brechas a través de los datos sobre solicitudes de
+                                                               reembolso y la demanda esperada por estado, para identificar estas brechas y las
+4. Aún persiste heterogeneidad en la calidad de la atención
+                                                               barreras para la atención.
+que ofrecen los estados como resultado de las diferencias en
+la oferta de hospitales certificados.                          5. Fortalecer el diálogo con los estados y generar recomendaciones para futuras
+                                                               inversiones en infraestructura o capacidad instalada para atender a los niños
+                                                               afiliados, o con potencial de afiliarse al Seguro.
+                                                               6. Diseñar indicadores de calidad de la atención clínica, de la satisfacción de los
+5. No existe un sistema consolidado de evaluación y monitoreo  usuarios y de la capacidad de respuesta de los proveedores de servicio de salud y
+de la calidad de la atención médica.                           fortalecer los sistemas de información del Seguro para contar con datos oportunos
+                                                               para dar seguimiento a sus metas y evaluar su desempeño.
+Dimensión 2: Organizacional y Gerencial
+6. Algunos estados tienen dificultades en completar la         7. Capacitar a los REPSS en temas de gestión, administración, calidad y seguimiento
+información para cumplir con los procesos de reembolsos; lo    de acciones específicas relacionadas con las intervenciones que cubre el Seguro, a
+cual produce retrasos en la operación del Programa.            fin de reducir los rechazos de las solicitudes de reembolso.
+7. Los padecimientos de mayor costo y gravedad se presentan
+principalmente en los recién nacidos, y su atención requiere   8. Solicitar a la SS capacitación del personal en los hospitales sobre protocolos y
+personal altamente entrenado y mejoras en la calidad en la     guías clínicas.
+prestación de servicios.
+Dimensión 3: Procesos Públicos/Actores
+8. El SMSXXI es un referente en el ámbito de las políticas de  9. Impulsar la visibilidad de las acciones y logros del SMSXXI para lograr mayor
+atención a los menores de 5 años.                              apoyo político y financiero.
+Dimensión 4: Fiduciarios y Control de Riesgos
+9. El Sistema informático de seguimiento no permite visualizar 11. Mejorar el Sistema informático de seguimiento a las transferencias.
+los fondos transferidos a cada entidad federativa              12. Homologar los criterios de reembolso a aplicarse en cada entidad federativa.
+                                                                         23
+"
+"Referencias
+Bauhoff S, Hotchkiss, Smith O (2011) The impact of medical insurance for the poor in Georgia: a
+regression discontinuity approach. Health Economics 20(11): 1362–1378.
+Chou, Shin-Yi & Grossman, Michael & Liu, Jin-Tan, 2014. \"The impact of National Health
+Insurance on birth outcomes: A natural experiment in Taiwan,\" Journal of Development
+Economics, Elsevier, vol. 111(C), pages 75-91.
+Consejo Nacional de Población (CONAPO), “Indicadores demográficos básicos 1999-2030”.
+www.conapo.gob.mx.
+Conti G., and Ginja, R., 2017 Who benefits from free health insurance: evidence from Mexico.
+IFS Working Paper W17/26.
+Dirección General de Información en Salud. Nacimientos. Cubos dinámicos. Secretaría de Salud.
+http://www.dgis.salud.gob.mx/contenidos/basesdedatos/bdc_nacimientos.html fecha de consulta
+10 nov, 2017.
+Dow W., Schmeer K., (2003) Health insurance and child mortality in Costa Rica. Social Science
+and Medicine 94(2): 975-8.
+Duarte, B., et al., 2015, “Social determinants of infant mortality in socioeconomic deprived rural
+areas in Mexico”, Boletín Médico del Hospital Infantil de México.
+Finkelstein, A, Taubman, S., Wright, B., Bernstein, M., Gruber, J., Newhouse, J.P., and Allen, H.,
+and Baicker, K., The Oregon Health Insurance Experiment: Evidence from the First Year (July
+2011). NBER Working Paper No. w17190.
+Fondo de las Naciones Unidad para la Infancia (UNICEF), 2016, “Estado Mundial de la Infancia,
+Una              oportunidad             para             cada            niño”,          UNICEF,
+https://www.unicef.org/spanish/publications/files/UNICEF_SOWC_2016_Spanish.pdf
+Instituto Nacional de Estadística y Geografía (INEGI). Natalidad y Fecundidad.
+http://www.beta.inegi.org.mx/temas/natalidad/ fecha de consulta 10 de nov, 2017.
+Jaminson, D., 2016, “Disease Control Priorities 3rd Edition: Reproductive, Maternal, Newborn
+and Child Health”, Bill & Melinda Gates Foundaion, InterAcademy Medical Panel and World Bank.
+Jasso-Gutiérrez L, Durán-Arenas L, Flores-Huerta S, Cortés-Gallo G. Recommendations to
+improve healthcare of neonates with respiratory insufficiency beneficiaries of Seguro Popular.
+Salud Pública Mex 2012;54 suppl 1:S57-S64.
+King, G., Gakidou, E., Imai, K., Lakin, J., Moore, R. T., Nall, C., Ravishankar, N., Vargas, M.,
+Téllez-Rojo, M. M., Hernández Ávila, J. E., Hernández Ávila, M., and Hernández Llamas, H.
+(2009). Public policy for the poor? A randomised assessment of the Mexican universal health
+insurance programme. The Lancet, 373(9673):1447–54.
+King, G., Gakidou, E., Ravishankar, N., Moore, R., Laki, J., Vargas, M., Téllez-Rojo, M.,
+Hernández, J., Hernández, M., Hernández, H. (2007). “A politically robust experimental design
+for public policy evaluation, with application to the Mexican Universal Health Insurance Program”,
+Journal of Policy Analisis and Management, 26(3): 479-506.
+Knaul FM, Arreola-Ornelas H, Wong R, Lugo-Palacios DG, Méndez-Carniado O. Efecto del
+Seguro Popular de Salud sobre los gastos catastro´ cos y empobrecedores en México, 2004-
+2012. Salud Publica Mex 2018;60:130-140.
+                                                   24
+"
+"Miller G, Pinto DM, Vera-Hernandez M. 2013. \"Risk Protection, Service Use, and Health
+Outcomes under Colombia's Health Insurance Program for the Poor,\" American Economic
+Journal: Applied Economics, American Economic Association, vol. 5(4), pages 61-91, October.
+Muñoz-Hernández O, Chertorivski-Woldenberg S, Cortés-Gallo G, Pérez-Cuevas R. The Medical
+Insurance for a New Generation: a viable answer for the health needs of Mexican children. Salud
+Publica Mex 2012;54 suppl 1: S3-S10.
+Organización Mundial de la Salud (OMS), 2015, “Informe Mundial de la Salud”, OMS.
+Pérez-Cuevas R, Chertorivski S, Cortés-Gallo G, Rodríguez-Ortega E, Caballero F, Muñoz-
+Hernández O. “Lessons learned from the first evaluation of the Medical Insurance for a New
+Generation: Bridging research and policy”. Salud Pública Mex 2012;54 suppl 1: S90-S97.
+Pérez-Cuevas R, Doubova SV, Flores-Hernández S, Muñoz-Hernández O. “Utilization of
+healthcare services among children members of Medical Insurance for a New Generation. Salud
+Publica Mex 2012”; 54 suppl 1: S28-S41.
+Pérez-Cuevas R, Jasso L, Doubova S, Flores S, Mantilla C, González E, Muñoz O. “Evaluación
+de la calidad de la atención de la taquipnea transitoria en recién nacidos afiliados al Seguro
+Médico Siglo XXI”. Boletín Hospital Infantil de México. Bol Med Hosp Infant Mex. 2014; 71(6):346-
+--351.
+Pérez-Cuevas R, Muñoz-Hernández O, Rodríguez-Ortega E, Jasso-Gutiérrez L, Flores-Huerta
+S, Durán-Arenas L, Pasillas-Torres M, Garduño-Espinosa J, Cortés-Gallo G. “Design of the 2009
+evaluation of the Medical Insurance for a New Generation program”. Salud Publica Mex 2012; 54
+suppl 1: S11-S19.
+Rodríguez-Ortega EE, Pasillas-Torres EM. Family healthcare expenditure on children affiliated to
+the Medical Insurance for a New Generation. Salud Pública Mex 2012;54 suppl 1:S65-S72.
+Secretaría de Salud, Subsecretaría de Prevención y Promoción de la Salud, Dirección General
+de Epidemiología, 2010, “Panorama Epidemiológico y Estadístico de la Mortalidad en México”,
+Secretaría de Salud.
+Thornton R., Field E. (2010) Social security health insurance for the informal sector in Nicaragua:
+a randomized evaluation. Health Economics 19: 181-206.
+Wagstaff A (2010) Estimating health insurance impacts under unobserved heterogeneity: the
+case of Vietnam's health care fund for the poor. Health Economics, 19(2): 189-208.
+                                                 25
+"

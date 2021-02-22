@@ -1,0 +1,1126 @@
+---
+title: "Analysis of 4 central criteria of PCRs"
+author: "César Montiel Olea"
+date: "Ocotber 15, 2020"
+output: html_document
+editor_options: 
+  chunk_output_type: console
+---
+
+# We analyze the 4 central criteria
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+## 0. Install packages
+
+```{r,message=FALSE,warning=FALSE}
+if (!require("tidytext")) install.packages("tidytext"); library("tidytext")
+if (!require("tidymodels")) install.packages("tidymodels"); library("tidymodels")
+if (!require("tidyverse")) install.packages("tidyverse"); library("tidyverse")
+if (!require("reshape2")) install.packages("reshape2"); library("reshape2")
+if (!require("ggrepel")) install.packages("ggrepel"); library("ggrepel")
+if (!require("topicmodels")) install.packages("topicmodels"); library("topicmodels")
+if (!require("SnowballC")) install.packages("SnowballC"); library("SnowballC")
+if (!require("magrittr")) install.packages("magrittr"); library("magrittr")
+if (!require("stopwords")) install.packages("stopwords"); library("stopwords")
+if (!require("widyr")) install.packages("widyr"); library("widyr")
+if (!require("tidygraph")) install.packages("tidygraph"); library("tidygraph")
+if (!require("lubridate")) install.packages("lubridate"); library("lubridate")
+if (!require("pdftools")) install.packages("pdftools"); library("pdftools")
+#if (!require("openNLP")) install.packages("openNLP"); library("openNLP")
+if (!require("cleanNLP")) install.packages("cleanNLP"); library("cleanNLP")
+if (!require("readxl")) install.packages("readxl"); library("readxl")
+if (!require("dplyr")) install.packages("dplyr"); library("dplyr")
+if (!require("doParallel")) install.packages("doParallel"); library("doParallel")
+if (!require("foreach")) install.packages("foreach"); library("foreach")
+if (!require("iterators")) install.packages("iterators"); library("iterators")
+if (!require("parallel")) install.packages("parallel"); library("parallel")
+if (!require("tm")) install.packages("tm"); library("tm")
+if (!require("tabulizer")) install.packages("tabulizer"); library("tabulizer")
+if (!require("stringi")) install.packages("stringi"); library("stringi")
+if (!require("purrr")) install.packages("purrr"); library("purrr")
+if (!require("quanteda")) install.packages("quanteda"); library("quanteda")
+if (!require("tibble")) install.packages("tibble"); library("tibble")
+if (!require("stringi")) install.packages("stringi"); library("stringi")
+if (!require("stringr")) install.packages("stringr"); library("stringr")
+if (!require("wordcloud")) install.packages("wordcloud"); library("wordcloud")
+if (!require("ggplot2")) install.packages("ggplot2"); library("ggplot2")
+if (!require("tidyr")) install.packages("tidyr"); library("tidyr")
+if (!require("janeaustenr")) install.packages("janeaustenr"); library("janeaustenr")
+if (!require("igraph")) install.packages("igraph"); library("igraph")
+if (!require("tokenizers")) install.packages("tokenizers"); library("tokenizers")
+if (!require("tidylo")) install.packages("tidylo"); library("tidylo")
+if (!require("rstatix")) install.packages("rstatix"); library("rstatix")
+
+devtools::install_github("thomasp85/ggraph")
+pkgbuild::check_build_tools(debug = TRUE)
+if (!require("ggraph")) install.packages("ggraph"); library("ggraph")
+
+install.packages("remotes")
+remotes::install_github("dgrtwo/drlib")
+if (!require("drlib")) install.packages("drlib"); library("drlib")
+
+
+```
+
+
+## 1. Preprocess the data
+
+# Loading the text files
+
+```{r}
+path <-"C:/Users/CESARMO/OneDrive - Inter-American Development Bank Group/Desktop/NLP_IDB/NLP_IDB"
+setwd(path)
+library(doParallel)
+library(foreach)
+library(iterators)
+library(parallel)
+
+# We read the text files
+files <- dir(paste0(path, "/all_data/"), 
+             pattern = "\\.txt", full.names = TRUE)
+outlist <- rep(list(list()), length(files)) # we create an outlist to store the files
+
+usecores <- detectCores() -1
+cl <- makeCluster(usecores)
+registerDoParallel(cl)
+
+outlist <- foreach (i = 1:length(files)) %dopar%  {
+  library(magrittr)
+  library(tm)
+  library(stringi)
+  library(stringr)
+  readLines(files[i], encoding = 'latin1') %>%
+  str_replace("[:space:][:blank:]", "") %>%
+    removeNumbers() %>%
+    str_replace_all("-", " ") %>%
+    str_replace_all("-", " ") %>%
+    str_replace_all("???", " ") %>%
+    str_replace_all('"', " ") %>%
+    str_replace_all("á", "a") %>%
+    str_replace_all("é", "e") %>%
+    str_replace_all("í", "i") %>%
+    str_replace_all("ó", "o") %>%
+    str_replace_all("ú", "u") %>%
+    str_replace_all("Á", "A") %>%
+    str_replace_all("É", "E") %>%
+    str_replace_all("Í", "I") %>%
+    str_replace_all("Ó", "O") %>%
+    str_replace_all("Ú", "U") %>%
+    str_replace_all("º", "") %>%
+    str_replace_all("°", "") %>%
+    str_replace_all("¨", "") %>%
+    str_replace_all("¿", "") %>%
+    str_replace_all(".", "") %>%
+    str_replace_all("""", "") %>%
+    removePunctuation() %>%
+    stripWhitespace()
+  }
+ 
+ stopCluster(cl)
+
+```
+
+# Cleaning and Using regular expressions to trim the text
+
+```{r}
+library(purrr)
+library(stringi)
+library(stringr)
+outlist <- map(outlist, paste, collapse = " ") # we paste each sentence into a single vector
+
+# We remove special characters 
+outlist <- map(outlist, ~ stringr::str_replace(.x, "[:space:][:blank:]", ""))
+outlist <- map(outlist, ~ stringr::str_replace_all(.x, "\'", ""))
+outlist <- map(outlist, ~ stringr::str_replace_all(.x, '\"', ""))
+outlist <- map(outlist, ~ stringr::str_replace_all(.x, "http\\S+\\s*","")) # remove hyperlinks
+outlist <- map(outlist, ~ stringr::str_replace_all(.x, "[^a-zA-Z0-9\\s]+","")) 
+#outlist <- map(outlist, ~ stringr::str_replace_all(.x, "[IVXLCM]+","")) 
+
+new_outlist <- rep(list(list()), length(outlist)) # we create another list to store the files
+#prueba <- c("https://direccion http://otradireccion informe' informe relevancia abc")
+
+#NOTA: DR-L1057 se le agregó la palabra Criterios Centrales
+
+for (i in 1:length(outlist))  { 
+  new_outlist[[i]] <- str_replace(outlist[[i]], ".*?CRITERIOS|.*?Criterios", "")
+  new_outlist[[i]] <- str_replace(new_outlist[[i]], ".*?Relevancia", "")
+  new_outlist[[i]] <- str_replace(new_outlist[[i]], "CRITERIOS.*\\w+|Criterios.*\\w+", "")
+}
+
+
+# we can also use the map function
+#new_outlist <- map(outlist, ~ stringr::str_replace(.x, ".*?CRITERIOS|.*?Criterios", "")) 
+#new_outlist <- map(new_outlist, ~ stringr::str_replace(.x, ".*?Relevancia", "")) 
+#new_outlist <- map(new_outlist, ~stringr::str_replace(.x, "CRITERIOS.*\\w+|Criterios.*\\w+", "")) 
+                                          
+more_stopping <- c('año','usd','i','ii','iii','co','fin','mill','vez','si','l','tener','oc','iv','nuevos','problema','santa','dio','p','enero','febrero','marzo','abril','mayo','juni','juli','agosto','septiembr','octubr','noviembr','diciembr','ende','tipo','fase','costo','existe','lográ','v','acerca','b','entrada','forma','gran','igualmente','misma','orden','oficina','output','podr','reporte','san','tercer','térmico','zonas','caja','alrededor','asignados','decir','después','dicha','lleva','maestro','solo','supuesto','with','working','alto','asociado','dichos','escasa','fa','figura','genera','km','llevado','medidas','menos','modo','municipio','necesarias','partir','pese','personas','pmasis','presentar','previas','previstos','real','realizando','sentido','suscrito','tema','acorde','acorde','actividad','atención','cuarto','efectos','entonces','especial','crítica','existen','incluido','lograr','logro','luego','mayores','mecanismo','mejor','notable','nuevas','objeto','oferta','original','pari','passu','red','conjunto','crea','cuatro','darle','estima','gestor','igual','indica','informa','interno','internos','largo','llega','lugar','manual','mismas','mll','obtener','plazos','presenta','puedan','realizada', "semanas",'tales','todas','todo','tomo','abstuvo','afecta','apenas','apoya','c','buena','centros','compromisos','conjunta','considerablemente','consorcio','contenido','continua','cronograma','deben','deberán','dialogo','disponibles','dificultad','documentos','ejercicio','elegible','ello','esfuerzos','espacios','especiales','esquemas','etapas','formalizá','financiada','fuertes','funcionamiento','generado','generados','generar','generá','gerencial','gestiones','gestores','grupos','haber','hecho','inicios','manifestado','mencionados','opinión','partes','pendiente','permitieran','podra','presentan','presentando','proyectados','punto','puesta','reporta','respuesta','revisaron','sigue','sigue','solo','superior','sustancial','torno','tramitar','tres','utilización','ve','vi','vio','acordado','actualizado','adecuado','agencia','ahora','ajustar','alcanzado','alcanzarán','ambos','anteriores','aplicativo','aportes','apoyar','aprobar','asimismo','atender','calculado','cercano','cinco','continuar','corresponden','cumplido','da','dará','deberá','decida','decididas','definido','definidas','denominada','determinar','detalles','detalle','diferencias','dinamismo','directivas',"disponibilidad")
+
+more_stopping2 <- c("a", "x", "rp", "p", "rnº", "nº", "na", "i", "rn", " ", 
+                "ser", "mas", "asi", "hallazgo","aaps", "aboal", "and", "report",
+                "sistemas", "debe", "así", "cada", "bien", "polit", "termin",
+                "of","the", "uso", "manera", "caso", "puede", "inta", "paps", "if",
+                "js", "ae", "fiit", "ee", "ors", "aps", "categoria", "parte",
+                "recomienda", "shf", "nº", "pam", "sence", "ap", "producto", "r",
+                "dos", "contar", "debiese", "muchas", "características", "mediante",
+                "base","na", "importante", "pa", "us", "tabla", "meta", "metas",
+                "años", "bid", "resultado", "unidad", "través", "bajo", "pcr",
+                "ptmc", "mides", "rdo", "o", "cs", "fie", "según", "º",
+                "banco", "total","mides", "simtramss", "sence", "smsxxi", "bandesal",
+                "satisf", "fira", "ceibal", "mgap", "gualac", "bonit", "etcs",
+                "bancoldex", "profip", "mtop", "buscador", "enee", "mcsa",
+                "fpgc", "sitramss", "inifap", "prosoli", "snip", "mifan",
+                "probid", "mrecic", "sinat", "sidif", "remediar", "pace",
+                "psci", "empopast", "senc", "ferum", "nios", "cort", "ministeri",
+                "salvador", "otorg", "encuest", "tram", "manej", "siaf", "piris",
+                "event", "comun", "colombi", "educ", "hondur", "logist", "minfin",
+                "esteb", "tram", "montevide", "club", "visit", "beneficiari",
+                "silais", "puent", "enel" , "vial", "nios", "joven", "senasb",
+                "past", "millon", "atraccion", "remedi", "elimin", "niez", "direccion",
+                "expres", "post", "elimin", "mism", "trav", "plaz", "tabl", "neral", 
+                "medi", "equip", "pued", "nivel", "valor", "final", "logr", "sector",
+                "tambi", "atencion", "alcanz", "asoci", "mayor", "menor", "idem",
+                "respect", "gener", "numer", "accion", "nuev", "esper", "nicaragu",
+                "unid", "utiliz", "millon", "consider", "inici", "segun", "direct",
+                "neces", "period", "merc", "banc", "permit", "activ", "import", "inec",
+                "observ", "segund", "cuent", "primer", "form", "observ", "personal",
+                "previst", "present", "prosap", "epsa", "chil", "anni", "formos", "mendoz",
+                 "emit", "mins", "dsip", "ecuador", "anii", "pder", "mspas", "caipi", "certez",
+                "apan", "dpvs", "sesal", "ansv", "screi", "piri", "plsv", "copec", "ecnt", 
+                "conami", "filtracion", "inform", "sagarp", "caps", "pdfor", "coloni",
+                "tras", "risk", "colombian", "udududud", "bogot", "kluv", "mhcp", "usmm",
+                "argentin", "cion", "index", "gwha", "juan", "panam", "checklist","world",
+                "nent", "rrhh", "dominican", "marn", "siol", "guayaquil", "udududud",
+                "gwha", "health", "anrs", "amss", "ipsa", "guatemal", "senplad", "measur",
+                "city", "tenis", "pntc", "energy", "paap", "conelec", "sigs", "tegucigalp",
+                "mmay", "uruguay", "mtps", "igrm", "usveh", "paraguay", "olanch", "ebitd",
+                "cntt", "paysri", "minsal", "segovi", "bolivi", "mosc", "siub", "park",
+                "siboif", "nias", "pech", "epsas", "soyapang", "rcvg", "chilen", "paml",
+                "sucre", "cochabamb", "meer", "ensmi", "haiti", "ecmac", "apps", "dgsg",
+                "stps", "proc", "mteps", "mteps", "trujill", "vmee", "pevd", "mrec", 
+                "daafim", "conap", "dissur", "disnort", "onsv", "rios", "iger", "mexic", "revis",
+                "gadm", "secop", "anep", "snap", "ucar", "sigap", "babahoy", "snbs",
+                "panam", "misicuni", "prsv", "anda", "senas", "prossapys", "padill",
+                "bols", "espej", "lotif", "enatrel", "neuchatel", "leas", "ugand", "dgsa",
+                "hotel", "inclu", "porcentaj", "asim", "ingles", "mont", "cierr", "recib",
+                "ultim", "moment", "clasific", "calific", "unic", "inse", "residual", "cond",
+                "fuari", "electron", "actual", "rieg","residual", "cond", "frent",
+                 "porcent", "punt", "sectorial", "necesari", "seal", "dire", "diferent",
+                 "semestral", "ampli", "compr", "encuentr", "estrateg", "analisis",
+                "tratamient", "estim", "incorpor", "atend", "elabor", "intermedi", "enriqu",
+                "encontr", "busc", "lempir", "catastr", "aguil", "cerrat", "intibuc",
+                "prestam", "ejecut", "desempe")
+
+
+mystopwords <- c(more_stopping, more_stopping2)
+```
+
+
+# Converting lists of words into dataframes
+
+```{r}
+library(tm)
+library(quanteda)
+new_files <- dir(paste0(path, "/all_data"), pattern = "\\.txt")
+
+df <- rep(list(data.frame()), length(outlist)) # we create an empty dataframe
+
+for (i in 1:length(new_outlist))  {
+  df[[i]] <- as.data.frame(unlist(new_outlist[i]))
+  df[[i]]$name <- as.factor(substr(new_files[[i]], 1, 8))
+  colnames(df[[i]]) <- c("word", "name")
+  df[[i]]$word <- as.character(df[[i]]$word)
+}
+ 
+full_text <- tibble()
+ 
+for (i in 1:length(df)) {
+  full_text <- bind_rows(full_text, df[[i]])
+}
+ 
+# df.corpus <- full_text %>%
+#   rename(text = word) %>%
+#   corpus()
+#  
+#summary(df.corpus) # summarizing corpus
+ 
+```
+
+## 2. Analysis of raw data
+
+# 2.1 Total words in PCR per year (no preprocess applied)
+
+# Loading OVE data
+
+```{r}
+library(foreign)
+data <- read.csv(paste0(path, "/data/data_clean.csv"))
+
+data <- data%>%
+  mutate_if(is.character, as.factor)
+  
+#data$relevance_rate <- as.factor(data$OVERelevancerating)
+#data$ove_rating <- as.factor(data$OVERating)
+data$CO_year <- as.factor(data$CO_year)
+data$name <- as.character(data$OperNumber) 
+
+# We create dummies for Successful and Unsuccessful PCRs according to MGT and OVE
+data$dummy_exitoso_OVE <- ifelse(data$OVERating == "Highly Successful" |
+                                  data$OVERating == "Successful" |
+                                  data$OVERating == "Partly Successful", 1, 0)
+
+
+data$dummy_exitoso_OVE <- factor(data$dummy_exitoso_OVE, 
+                                 labels = c("Unsuccessful", "Successful"))
+
+data$dummy_exitoso_MGT <- ifelse(data$IDBManagementRating == "Highly successful" |
+                                  data$IDBManagementRating == "Successful" |
+                                  data$IDBManagementRating == "Partly successful" | 
+                                  data$IDBManagementRating == "Partly Successful", 1, 0)
+
+data$dummy_exitoso_MGT <- factor(data$dummy_exitoso_MGT, 
+                                 labels = c("Unsuccessful", "Successful"))
+
+
+
+```
+
+# creating figures and tables
+
+```{r}
+library(tidyverse)
+library(rstatix)
+tot_words <- full_text %>%
+  unnest_tokens(word, word)%>%
+  add_count(name, name = "total_words") %>%
+  group_by(name, total_words) %>%
+  count(word, sort = TRUE) %>%
+  ungroup()
+
+tot_words[order(tot_words$total_words), ] 
+tot_words$name <- as.factor(tot_words$name)
+
+tot_words <- tot_words %>%
+  distinct(name, .keep_all = T) %>%
+  select(-word)
+  
+tot_words <- merge(x = data[, c("name", "CO_year", "dummy_exitoso_OVE")], 
+                   y = tot_words, by = "name")
+
+tot_words %>%
+  group_by(dummy_exitoso_OVE) %>%
+  get_summary_stats(total_words, type = "mean_sd")
+
+tot_words %>%
+  group_by(CO_year) %>%
+  get_summary_stats(total_words, type = "mean_sd")
+
+
+tot_words %>%
+ anova_test(total_words ~ dummy_exitoso_OVE) 
+
+tot_words %>%
+ anova_test(total_words ~ CO_year) 
+
+tot_words %>%
+ summarise(mean = mean(total_words), sd = sd(total_words))
+
+tot_words %>%
+  mutate(name = reorder(name, total_words)) %>%
+  ggplot(aes(name, total_words, color = CO_year)) +
+  geom_errorbar(aes(ymin = 0, ymax = total_words), linetype = "dashed", width=0) +
+  geom_point(aes(size = .1)) +
+  guides(size = FALSE, col = guide_legend("Closing Year")) +
+  labs(x = "", y = "Total number of words") +
+  coord_flip() + 
+  theme(panel.grid.major = element_blank(), panel.grid.minor = element_blank(),
+  panel.background = element_blank(), axis.line = element_line(colour = "black")) +
+  theme(
+    legend.position = c(.95, .95),
+    legend.justification = c("right", "top"),
+    legend.box.just = "bottom",
+    legend.margin = margin(300,10,10,10),
+    legend.text = element_text(size = 25)
+    ) 
+  
+
+```
+
+## 3. Creating corpus
+
+```{r}
+library(tidytext)
+# Create corpus
+corpus <- Corpus(VectorSource(as.vector(full_text$word))) 
+new_corpus <- tm_map(corpus, content_transformer(tolower))
+new_corpus <- tm_map(new_corpus, stripWhitespace)
+
+# remove stoping words
+stop_words <- stopwords::stopwords("es")
+new_corpus <- tm_map(new_corpus, removeWords, stop_words) 
+
+# stem corpus
+stem_corpus <- tm_map(new_corpus, content_transformer(stemDocument), language = "spanish")
+
+# we correct some of the stems to its right root
+stem_corpus <- tm_map(stem_corpus, content_transformer(gsub), pattern = "policial", 
+                      replacement = "polici")
+stem_corpus <- tm_map(stem_corpus, content_transformer(gsub), 
+               pattern = "energi|energet", replacement = "energ")
+stem_corpus <- tm_map(stem_corpus, content_transformer(gsub), 
+               pattern = "comercial", replacement = "comerci")
+stem_corpus <- tm_map(stem_corpus, content_transformer(gsub), 
+               pattern = "inocu", replacement = "inocuidad")
+stem_corpus <- tm_map(stem_corpus, content_transformer(gsub), 
+               pattern = "turism", replacement = "turist")
+stem_corpus <- tm_map(stem_corpus, content_transformer(gsub), 
+               pattern = "catastral", replacement = "catastr")
+stem_corpus <- tm_map(stem_corpus, content_transformer(gsub), 
+               pattern = "emprendedor", replacement = "empred")
+stem_corpus <- tm_map(stem_corpus, content_transformer(gsub), 
+               pattern = "porcentual", replacement = "porcent")
+stem_corpus <- tm_map(stem_corpus, content_transformer(gsub), 
+               pattern = "institucional", replacement = "institu")
+stem_corpus <- tm_map(stem_corpus, content_transformer(gsub), 
+               pattern = "nacional", replacement = "nacio")
+stem_corpus <- tm_map(stem_corpus, content_transformer(gsub), 
+               pattern = "provincial", replacement = "provinci")
+stem_corpus <- tm_map(stem_corpus, content_transformer(gsub), 
+               pattern = "pobrez", replacement = "pobr")
+stem_corpus <- tm_map(stem_corpus, content_transformer(gsub), 
+               pattern = "transferent", replacement = "transferenc")
+stem_corpus <- tm_map(stem_corpus, content_transformer(gsub), 
+               pattern = "presupuestari", replacement = "presupuest")
+stem_corpus <- tm_map(stem_corpus, content_transformer(gsub), 
+               pattern = "municipal", replacement = "municip")
+stem_corpus <- tm_map(stem_corpus, content_transformer(gsub), 
+               pattern = "municipi", replacement = "municip")
+stem_corpus <- tm_map(stem_corpus, content_transformer(gsub), 
+               pattern = "promedi", replacement = "prom")
+stem_corpus <- tm_map(stem_corpus, content_transformer(gsub), 
+               pattern = "financier", replacement = "financ")
+stem_corpus <- tm_map(stem_corpus, content_transformer(gsub), 
+               pattern = "tecnologi", replacement = "tecnolog")
+
+stem_corpus <- tm_map(stem_corpus, content_transformer(gsub), 
+               pattern = ".cion*", replacement = "")
+
+ 
+# test <- c("comercializacion", "distribucion", "administracion", "comercializ", "emprendedurismo",
+#         "distrib", "administr", "puert", "institucionaliza", "funcion", "dotacion")
+# gsub(".cion*$", "", test)
+# grep("\\b[[:alpha:]]{9,}\\b", test, value = T)
+# gsub("(.cion$)|(\\b[[:alpha:]]{1,9}\\b)", "", test)
+# 
+# 
+# for (i in 1:length(stem_corpus)) {
+#    full_text$word[i] <- stem_corpus$content[[i]]
+# }
+
+
+```
+
+## Convert to dtm and tidy text
+
+```{r}
+# Create Document-term matrix
+dtm <- DocumentTermMatrix(stem_corpus, control = list(wordLengths = c(2, Inf)))
+inspect(dtm)
+
+# Remove sparse terms
+#dtm <- removeSparseTerms(dtm, .975)
+
+#Convert dfm to tidy text (to get the tokens)
+td_data <- tidy(dtm)
+td_data$document <- as.factor(td_data$document)
+
+# We create a group id
+full_text <- full_text %>%
+  group_by(name) %>%
+  arrange(name) %>%
+  mutate(document = as.factor(cur_group_id()))
+  
+# We merge to get the PCR id
+td_data <- left_join(td_data, full_text[, c("name", "document")],
+                       by = "document", copy = FALSE)
+
+td_data <- td_data[, 2:4] # we get rid of the index
+
+```
+
+# removing unneccesary stuff 
+
+```{r}
+rm(outlist)
+rm(corpus)
+rm(new_outlist)
+rm(new_corpus)
+rm(more_stopping)
+rm(more_stopping2)
+
+```
+
+## 3.1 Merge text data with OVE data
+
+```{r}
+# remove one to three-character words and more stopping words
+td_data <- td_data %>%
+  filter(!term %in% mystopwords) %>% 
+  mutate(term = gsub("\\b[[:alpha:]]{1,3}\\b","", term)) %>%
+  filter(term!= "") %>%
+  filter(term!= '"')
+
+#grams$name <- as.character(grams$name)
+
+new_data <- merge(x = data[, c("name", "OVERating", "dummy_exitoso_OVE", "dummy_exitoso_MGT",   
+                                "OVERelevancerating", "CO_year", "Dep", "Div")], 
+                  y = td_data, by = "name")
+
+new_data$name <- as.factor(new_data$name)
+
+new_data %>%
+  distinct(term) %>%
+  count()
+
+
+
+```
+
+# 4. Sectoral composition
+
+
+```{r}
+data.sector <- new_data %>%
+  distinct(name, .keep_all = T)
+
+white <- theme(panel.grid.major = element_blank(), panel.grid.minor = element_blank(),
+               panel.background = element_blank(), axis.line = element_line(colour =
+                                                                              "white"))
+
+
+center <- theme(plot.title = element_text(hjust = 0.5))
+
+
+data.sector %>% 
+  group_by(Dep, CO_year) %>% 
+    count() %>%
+    arrange(CO_year, desc(Dep)) %>%
+    group_by(CO_year) %>% 
+    mutate(n2 = cumsum(n), prop = round(100*n/sum(n))) %>% 
+    ggplot(aes(fill = CO_year, x = Dep , y = prop)) +
+    scale_fill_brewer(palette = "Set2") + 
+    geom_bar(position = "dodge", stat = "identity") + 
+        geom_text(aes(label = prop), position = position_dodge(width=0.9),vjust=1.2) +
+        scale_y_continuous(name = "") + white + xlab("") + center +
+  theme(
+    legend.position = c(.95, .95),
+    legend.justification = c("right", "top"),
+    legend.box.just = "bottom",
+    legend.margin = margin(-15,60, -70,0),
+    legend.text = element_text(size = 15)
+    ) 
+  
+data.sector %>% 
+  group_by(Div, CO_year) %>% 
+    count() %>%
+    ggplot(aes(fill = CO_year, x = Div , y = n)) +
+    scale_fill_brewer(palette = "Set2") + 
+    geom_bar(position = "dodge", stat = "identity") + 
+        geom_text(aes(label = n), position = position_dodge(width=0.9),vjust=1.2) +
+        scale_y_continuous(name = "") + white + xlab("") + center +
+  theme(
+    legend.position = c(.95, .95),
+    legend.justification = c("right", "top"),
+    legend.box.just = "bottom",
+    legend.margin = margin(0,0, -40,0),
+    legend.text = element_text(size = 15)
+    ) 
+  
+
+```
+
+
+# 5. Exploratory Data Analysis
+
+## 5.1 Analyzing most frequent terms with Word clouds
+
+
+```{r}
+if (!require("wordcloud2")) install.packages("wordcloud2"); library("wordcloud2")
+# Frequency of words
+freq <- td_data %>%
+   group_by(term) %>%
+   mutate(freq = sum(count)) %>%
+   distinct(term, .keep_all = T) %>%
+   arrange(desc(freq)) %>%
+   ungroup()
+
+freq %>%
+  filter(freq >= 500) %>%
+  mutate(term = reorder(term, -freq)) %>%
+  ggplot(aes(term, freq)) +
+        geom_bar(stat = "identity", fill = "darkred", colour = "darkgreen") +
+        theme(axis.text.x = element_text(angle = 90, hjust = 1))  + white +
+        xlab("") + ylab("Frequency")
+
+# word clouds
+set.seed(1001)
+new_data %>%
+   group_by(term) %>%
+   mutate(count = sum(count)) %>%
+   distinct(term, .keep_all = T) %>%
+   arrange(desc(count)) %>%
+   #filter(count < 1000) %>%
+   ungroup() %>%
+   #filter(dummy_exitoso_OVE == "Successful") %>%
+   top_n(100, count) %>%
+   filter(term!= "",
+   !term %in% c("mism", "trav", "plaz", "tabl", "neral", "medi", "equip", "pued",
+                "tambi", "atencion", "alcanz", "asoci", "mayor", "menor", 
+                "respect", "gener", "numer", "accion", "nuev", "esper")) %>%
+    with(wordcloud(term, count, max.words = 100, random.order=FALSE, rot.per = 0.35,
+          scale=c(4.1,0.6), colors = brewer.pal(8, "Dark2")))
+
+set.seed(1001)
+w.cloud <- new_data %>%
+   group_by(term) %>%
+   mutate(count = sum(count)) %>%
+   distinct(term, .keep_all = T) %>%
+   arrange(desc(count)) %>%
+   #filter(count < 1000) %>%
+   ungroup() %>%
+   top_n(119, count) %>%
+   select(term, count)
+   
+colorVec = rep(c('skyblue', "gray", "lightgray", "black"), length.out = nrow(w.cloud))
+wordcloud2(data = w.cloud, size = .8, shape= "oval", color = colorVec)
+
+
+```
+
+
+## 5.2 Analyze data with td-idf 
+
+```{r}
+library(gtable)
+library(ggplot2)
+library(tidyverse)
+library(tm)
+library(gridExtra)
+library(grid)
+
+bind_tf_idf <- new_data %>%
+  bind_tf_idf(term = term, document = name, n = count)
+
+bind_tf_idf <- bind_tf_idf %>%
+  mutate(rank = row_number(tf_idf)) %>%
+   arrange(desc(rank)) 
+
+bind_tf_idf %>%
+  ggplot(aes(rank, tf_idf, color = name)) +
+  geom_line(size = 1.1, alpha = .8, show.legend = F) +
+  labs(x = "Rank of terms ordered by TF-IDF",
+       y = "TF-IDF value") +
+  scale_x_continuous(breaks=seq(0,65800, by = 10000)) + white +
+         theme(axis.line = element_line(colour = "black")) +
+         theme(legend.title = element_blank())  
+  
+# We plot tf-idf words by type of project (OVE)
+bind_tf_idf %>%
+  group_by(dummy_exitoso_OVE) %>%
+  top_n(10) %>%
+  ungroup() %>%
+  mutate(term = reorder(term, tf_idf)) %>%
+  ggplot(aes(term, tf_idf, fill = dummy_exitoso_OVE)) +
+  geom_col(show.legend = FALSE) +
+  facet_wrap(~dummy_exitoso_OVE, scales = "free") +
+  theme(panel.background = element_blank(),
+        axis.title.x=element_blank(),
+        axis.title.y=element_blank()) +
+  labs(y = "Term frequency inverse document frequency") +
+  coord_flip()
+
+
+
+```
+
+## 5.3 Trimming words with with a low tf-idf 
+
+```{r}
+tf_rank <- bind_tf_idf %>%
+  filter(tf_idf > .0001) %>%
+  arrange(term, desc(tf_idf))
+
+tf_rank %>%
+  distinct(term)%>%
+  count()
+
+tf_rank %>%
+  filter(term == "turist")
+
+tf_rank %>%
+  filter(term == "canton")
+
+```
+
+## 5.4 Trimming words with with a very high frequency 
+
+
+```{r}
+# Remove high frequency words
+tf_rank %>%
+  group_by(term) %>%
+  mutate(N = sum(count)) %>%
+  ungroup() %>%
+  distinct(term, .keep_all = T) %>%
+  select(term, count, N) %>%
+  arrange(desc(N)) 
+
+tf_rank %>%
+  group_by(term) %>%
+  mutate(N = sum(count)) %>%
+  ungroup() %>%
+  distinct(term, .keep_all = T) %>%
+  arrange(desc(N)) %>%
+  filter(N > 60) %>%
+  mutate(term = reorder(term, -N)) %>%
+  ggplot(aes(term, N)) +
+        geom_bar(stat = "identity", fill = "darkred", colour = "darkgreen") +
+        theme(axis.text.x = element_blank(), axis.ticks = element_blank()) + white +
+        #theme(axis.text.x = element_text(angle = 90, hjust = 1))  + white +
+        xlab("Term in Corpus") + ylab("Frequency") +
+  scale_y_continuous(breaks=seq(0, 1000, by = 100)) +
+  geom_hline(yintercept = 400, linetype = "dotted", color = "blue")
+
+tf_rank %>%
+  group_by(term) %>%
+  mutate(N = sum(count)) %>%
+  ungroup() %>%
+  distinct(term, .keep_all = T) %>%
+  arrange(desc(N)) %>%
+  filter(N > 200) %>%
+  mutate(term = reorder(term, -N)) %>%
+  ggplot(aes(term, N)) +
+        geom_bar(stat = "identity", fill = "darkred", colour = "darkgreen") +
+        theme(axis.text.x = element_text(angle = 90, hjust = 1))  + white +
+        xlab("") + ylab("Frequency") +
+  scale_y_continuous(breaks=seq(0, 1000, by = 100)) 
+
+# Remove words from right tail
+tail.words <- tf_rank %>%
+  add_count(term, name = "document_total") %>%
+  group_by(term) %>%
+  mutate(N = sum(count)) %>%
+  ungroup() %>%
+  distinct(term, .keep_all = T) %>%
+  arrange(desc(N)) %>%
+  select(count, N, document_total, term) %>%
+  filter(N > 350) %>%
+  select(term) %>%
+  pull(term)
+
+tf_tail <- tf_rank %>%
+  filter(!term %in% tail.words) %>%
+  arrange(desc(tf_idf)) 
+
+tf_tail %>%
+  distinct(term) %>%
+  count()
+
+
+```
+
+## 5.5 Trimming words by document appearance
+
+
+```{r}
+#Remove by document appearance
+doc.rep <- tf_tail %>%
+  add_count(term, name = "document_total") %>%
+  group_by(term) %>%
+  mutate(N = sum(count)) %>%
+  distinct(term, .keep_all = T) %>%
+  select(term, document_total, N) %>%
+  arrange(desc(document_total, N)) %>%
+  group_by(document_total) %>%
+  summarize(n = n())
+
+doc.rep %>%
+  filter(document_total != 1) %>%
+  #mutate(rep = reorder(document_total, -n)) %>%
+  ggplot(aes(document_total, n)) +
+        geom_bar(stat = "identity", fill = "darkred", colour = "darkgreen") +
+        theme(axis.text.x = element_text(angle = 0, hjust = .5, 
+                          vjust = 1.5, margin = unit(c(0,0,3,0), "mm")))  + white +
+        xlab("Number of documents in the corpus") + ylab("Number of unique words") + 
+        scale_x_continuous(breaks=seq(1, 42, by = 1)) +
+        scale_y_continuous(breaks=seq(0, 1000, by = 100), expand = c(0,0))
+
+single.words <- tf_rank %>%
+  filter(count > 125) %>%
+  select(term) %>%
+  pull(term)
+
+doc.words <- tf_rank %>%
+  add_count(term, name = "document_total") %>%
+  filter(document_total < 5) %>%
+  distinct(term) %>%
+  select(term) %>%
+  pull(term)
+  
+doc.words2 <- tf_rank %>%
+  add_count(term, name = "document_total") %>%
+  filter(document_total > 40) %>%
+  distinct(term) %>%
+  select(term) %>%
+  pull(term)
+
+tf_clean <- tf_tail %>%
+  filter(!term %in% single.words) %>%
+  filter(!term %in% doc.words) %>%
+  filter(!term %in% doc.words2) %>%
+  filter(!term %in% c("sosten", "manten", "defin", "cumplimient", "seguimient", "desembols")) %>%
+   arrange(desc(tf_idf)) 
+
+
+tf_clean %>% 
+  distinct(term) %>%
+  count()
+
+# We plot tf-idf words by type of project (OVE)
+tf_clean %>%
+  select(term, tf_idf, dummy_exitoso_OVE)%>%
+  filter(!term %in% c("atra")) %>%
+  group_by(dummy_exitoso_OVE,term)%>%
+  filter(tf_idf==max(tf_idf))%>%
+  group_by(dummy_exitoso_OVE)%>%
+  top_n(10,tf_idf)%>%
+  ungroup()%>%
+  mutate(term=reorder_within(term,tf_idf,dummy_exitoso_OVE))%>%
+  ggplot(aes(tf_idf,term,fill=dummy_exitoso_OVE))+
+  geom_col(show.legend = FALSE)+
+  theme(panel.background = element_blank(),
+        axis.title.x=element_blank(),
+        axis.title.y=element_blank()) +
+  scale_y_reordered()+
+  facet_wrap(~dummy_exitoso_OVE, scales='free_y')
+
+```
+
+
+
+## Pairwise correlations
+
+
+```{r}
+# library(widyr)
+# library(ggraph)
+# library(tidygraph)
+# 
+# corr_single <- new_data %>%
+#   #filter(dummy_exitoso_OVE == "Successful") %>%
+#   filter(n >= 4) %>%
+#   select(-n) %>%
+#   #select(-name) %>%
+#   select(-OVERating) %>%
+#   select(-dummy_exitoso_OVE) %>%
+#   select(-OVERelevancerating) %>%
+#   pairwise_cor(word, name, sort = TRUE)
+# 
+# corr_single %>%
+#   filter(item1 %in% c("evaluación")) %>%
+#       group_by(item1) %>%
+#       top_n(5) %>%
+#       ungroup() %>%
+#       mutate(item2 = reorder(item2, correlation)) %>%
+#       ggplot(aes(item2, correlation)) +
+#       geom_col(fill = "lightskyblue") +
+#       xlab("Correlation coefficient") + ylab("") +
+#       facet_wrap(~ item1, scales = 'free') +
+#       coord_flip()
+
+  
+```
+
+
+## 6. Topic modeling: Latent Dirichlet Allocation  
+
+## 6.1 Find optimal number of topics
+
+```{r}
+install.packages("ldatuning")
+install.packages("furrr")
+library("topicmodels")
+library("ldatuning")
+library("stm")
+library("quanteda")
+library("furrr")
+
+review_matrix <- tf_clean %>%
+  cast_sparse(name, term, count)
+
+# to find the optimar number of topics
+result <- FindTopicsNumber(
+  review_matrix,
+  topics = seq(from = 2, to = 30, by = 1),
+  metrics = c("Griffiths2004", "CaoJuan2009", "Arun2010", "Deveaud2014"),
+  method = "Gibbs",
+  control = list(seed = 77),
+  mc.cores = 3L,
+  verbose = TRUE
+)
+
+FindTopicsNumber_plot(result)
+
+#Extremely time-consuming
+set.seed(123)
+train.vector <- sample(48,21,replace = F)
+train.vector
+
+text_train.dtm <- dtm[!(dtm$dimnames$Docs %in% train.vector),]
+text_test.dtm <- dtm[dtm$dimnames$Docs %in% train.vector,]
+# 
+# #table(text_train.dtm$i)
+# #table(text_test.dtm$i)
+# tuning <- FindTopicsNumber(
+#   dtm = text_train.dtm,
+#   topics = seq(from = 2, to = 30, by = 1),
+#   metrics = c("CaoJuan2009", "Deveaud2014"),
+#   method = "Gibbs",
+#   control = list(seed = 77),
+#   mc.cores = 2L,
+#   verbose = TRUE
+# )
+# 
+# FindTopicsNumber_plot(tuning)
+
+# Using perplexity to determine number of topics
+
+n_topics <- c(2, 4, 10, 20, 50, 100)
+
+lda_compare <- n_topics %>%
+    furrr::future_map(LDA, x = review_matrix, control = list(seed = 1234))
+
+tibble(k = n_topics,
+       perplex = map_dbl(lda_compare, perplexity)) %>%
+  ggplot(aes(k, perplex)) +
+  geom_point() +
+  geom_line() + 
+  labs(x = "Number of topics",
+       y = "Perplexity") +
+  scale_x_continuous(breaks=seq(0,100, by = 2)) + white +
+         theme(axis.line = element_line(colour = "black")) +
+         theme(legend.title = element_blank()) 
+
+#Using training and testing data
+perplexity_df <- data.frame(train=numeric(), test=numeric())
+topics <- c(2:30)
+burnin = 100
+iter = 100
+keep = 50
+
+set.seed(12345)
+for (i in topics){
+
+  fitted <- LDA(text_train.dtm, k = i, method = "Gibbs",
+                control = list(burnin = burnin, iter = iter, keep = keep) )
+  perplexity_df[i,1] <- perplexity(fitted, newdata = text_train.dtm)
+  perplexity_df[i,2]  <- perplexity(fitted, newdata = text_test.dtm)
+}
+
+##plotting the perplexity of both train and test
+
+gg.names <- c("Training" , "Testing")
+colnames(perplexity_df) <- gg.names
+
+ggplot(perplexity_df, aes(as.numeric(row.names(perplexity_df)))) +
+      labs(y = "Perplexity", x = "Number of topics") +
+      scale_y_continuous(breaks = seq(0,1900, by = 100)) +
+      scale_x_continuous(breaks = seq(0, 30, 1)) + theme_minimal() +
+         geom_line(aes(y = Testing, colour = "Training")) +
+         geom_line(aes(y = Training, colour = "Testing")) + white +
+         theme(axis.line = element_line(colour = "black")) +
+         theme(legend.title = element_blank()) +
+    theme(
+    legend.position = c(.95, .95),
+    legend.justification = c("right", "top"),
+    legend.box.just = "bottom",
+    legend.margin = margin(0,0, -40,0),
+    legend.text = element_text(size = 15)
+    )
+     
+  
+
+
+```
+
+## 6.2 Estimating topics
+
+```{r}
+## WE ESTIMATE OUR LDA MODEL WITH 14 TOPICS
+
+lda <- LDA(review_matrix, k = 12, control = list(seed = 1235))
+td_beta <- tidy(lda, matrix = "beta")
+
+td_beta %>%
+  group_by(topic) %>%
+  top_n(8, beta) %>%
+  filter(beta >.012) %>%
+  mutate(term = reorder_within(term, beta, topic)) %>%
+  ggplot(aes(beta, term, fill = factor(topic))) +
+  geom_col(show.legend = FALSE) +
+  scale_y_reordered() +
+  facet_wrap(~ topic, scales = "free_y") +
+  theme(axis.title.y=element_blank()) +
+  labs(title = "Words with highest probability in each of the 12 topics")
+
+# Heat map
+data.hmap <- td_beta %>%
+  group_by(topic) %>%
+  top_n(8, beta)%>%
+  ungroup()%>%
+  arrange(topic,  desc(beta)) %>%
+  group_by(topic) %>%
+  mutate(n = 1:n_distinct(term)) %>%
+  group_by(topic) %>%
+  mutate(perc=n/sum(n))%>%
+  mutate(topic = paste0("topic", topic))
+
+data.hmap$topic <- factor(data.hmap$topic, levels =
+                        c("topic1","topic2","topic3","topic4","topic5","topic6","topic7",
+                          "topic8","topic9","topic10", "topic11", "topic12"))
+
+data.hmap$topic <- fct_rev(data.hmap$topic) # reverse order of topics
+
+data.hmap %>%
+  ggplot(aes(n, topic ,fill = beta))+
+  geom_tile()+
+  geom_text(aes(label = term), size = 3)+
+  scale_fill_gradient(low = "white",high = "purple",
+                      breaks = c(0, .021, .0417), labels = c("0", ".021", ".041"),
+                      limits = c(0, .0417)) + 
+   theme(axis.title.x = element_blank(),
+        axis.text.x = element_blank(),
+        axis.title.y = element_blank(),
+        axis.text.y = element_text(margin=margin(10,-7,0,10,"mm")),
+        axis.ticks.x = element_blank()) + white +
+  theme(legend.key.height = unit(5.45, "line")) +
+  theme(legend.title = element_blank()) 
+
+
+```
+
+## 6.4 Topic assignment 
+
+```{r}
+td_gamma <- tidy(lda, matrix = "gamma")
+ggplot(td_gamma, aes(gamma, fill = as.factor(topic))) +
+  geom_histogram(show.legend = F) +
+  facet_wrap(~topic, ncol = 3)
+
+# dist_topic <- dcast(td_gamma, document~topic, value.var = "gamma")
+# 
+# sum(dist_topic$"1")/nrow(dist_topic)
+# sum(dist_topic$"2")/nrow(dist_topic)
+# sum(dist_topic$"3")/nrow(dist_topic)
+# sum(dist_topic$"4")/nrow(dist_topic)
+# sum(dist_topic$"5")/nrow(dist_topic)
+# sum(dist_topic$"6")/nrow(dist_topic)
+# sum(dist_topic$"7")/nrow(dist_topic)
+# sum(dist_topic$"8")/nrow(dist_topic)
+# sum(dist_topic$"9")/nrow(dist_topic)
+# sum(dist_topic$"10")/nrow(dist_topic)
+# sum(dist_topic$"11")/nrow(dist_topic)
+# sum(dist_topic$"12")/nrow(dist_topic)
+
+td_gamma$document <- as.factor(td_gamma$document)
+td_gamma$topic <- as.factor(td_gamma$topic)
+
+topic_docs <- td_gamma %>%
+  group_by(document) %>%
+  top_n(1, gamma) 
+
+# Topic assignment per document
+max_gamma <- td_gamma %>%
+  group_by(document) %>%
+  top_n(1, gamma) %>%
+  ungroup() %>%
+  group_by(topic) %>%
+  summarize(n = n()) %>%
+  mutate(n2 = cumsum(n), prop = round(100*n/sum(n), 1)) %>%
+  arrange(desc(topic)) %>%
+  mutate(ymax = cumsum(prop))
+  
+max_gamma$ymin = c(0, head(max_gamma$ymax, n=-1))  
+max_gamma$labelPosition <- (max_gamma$ymax + max_gamma$ymin) / 2
+
+max_gamma$topic <- factor(max_gamma$topic,
+    levels = c(1:12),
+    labels = c("Water, Sanitation, and Energy Services", "Credit and Public Expenditure", 
+               "Entrepreneurship and Commerce",
+               "Road Safety", "Community Services", "Citizen Security and Violence",
+               "?", "Land Tenure Security", "Agricultural Production / Improve Learning", 
+               "Labor and Unemployment",
+               "Neonatal and Maternal Mortality", 
+               "Rehabilitation of Infrastructure or Public Services"))
+nb.cols <- 12
+mycolors <- colorRampPalette(brewer.pal(7, "Set3"))(nb.cols)
+legend_title <- ""
+
+max_gamma %>%
+  ggplot(aes(ymax = ymax, ymin = ymin, xmax = 9, xmin = 8, fill = topic)) +
+     geom_rect() +
+     geom_text(x = 8.5, aes(y = labelPosition, label = n), 
+                colour =  "black", size = 4.4, 
+                show.legend = FALSE) +
+     scale_fill_manual(legend_title, values = mycolors) +
+     coord_polar(theta = "y") +
+     xlim(c(2, 9)) +
+     theme_void() +
+     theme(axis.text.x=element_blank()) + theme(legend.position=c(.5, .5)) +
+     theme(panel.grid=element_blank(),
+           axis.text=element_blank(),
+           axis.ticks=element_blank(),
+           legend.title = element_text(),
+           legend.text = element_text(size = 7.5)) 
+
+
+```
+
+
+## 6.5 Topic Similarity 
+
+```{r}
+library(reshape2)
+
+topic.term <- dcast(td_beta, topic ~ term)
+topic.term <- topic.term[, -1]
+topic.term <- topic.term %>%
+  mutate_all(round, 4)
+
+
+# max <- colnames(topic.term)[apply(topic.term, 1, which.max)]
+# vmax <- topic.term[apply(topic.term, 1, which.max)]
+# maxn <- function(n) function(x) order(x, decreasing = TRUE)[n]
+# test <- apply(topic.term, 1, function(x)x[maxn(2)(x)])
+
+lda.similarity <- topic.term %>%
+  scale() %>%
+  dist(method = "euclidean") %>%
+  hclust(method = "ward.D2")
+
+par(mar = c(0, 4, 4, 2))
+dev.off()
+plot(lda.similarity,
+     main = "LDA topic similarity by features",
+     xlab = "",
+     sub = "")
+
+```
+
+
+
+
+### check Phase 3 markdown
